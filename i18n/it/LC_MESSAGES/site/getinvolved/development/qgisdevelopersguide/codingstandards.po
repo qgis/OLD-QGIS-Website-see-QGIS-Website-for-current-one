@@ -4,21 +4,22 @@
 # 
 # Translators:
 # Marco Grisolia <marco.grisolia5@gmail.com>, 2017
-# roby2107 <crcastelli@tiscali.it>, 2019
+# Roberta Castelli <crcastelli@tiscali.it>, 2019
+# Simone Falceri, 2021
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-19 17:16+0100\n"
-"PO-Revision-Date: 2020-03-16 09:28+0000\n"
-"Last-Translator: Stefano Campus <skampus@gmail.com>\n"
+"PO-Revision-Date: 2016-03-05 14:48+0000\n"
+"Last-Translator: Simone Falceri, 2021\n"
 "Language-Team: Italian (http://www.transifex.com/qgis/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.5.1\n"
 "Language: it\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:4
 msgid "QGIS Coding Standards"
@@ -81,7 +82,7 @@ msgstr "``mCurrentExtent``"
 msgid ""
 "All class members should be private. Public class members are STRONGLY "
 "discouraged"
-msgstr ""
+msgstr "Tutti i membri della classe dovrebbero essere privati. I membri pubblici della classe sono FORTEMENTE sconsigliati"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:40
 msgid "Accessor Functions"
@@ -133,7 +134,7 @@ msgstr "Classi Generate"
 msgid ""
 "QGIS classes that are generated from Qt Designer (ui) files should have a "
 "Base suffix. This identifies the class as a generated base class."
-msgstr ""
+msgstr "Le classi QGIS generate da file Qt Designer (ui) dovrebbero avere un suffisso Base. Ciò identifica la classe come una classe base generata."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:72
 msgid "``QgsPluginManagerBase``"
@@ -149,11 +150,11 @@ msgstr "Finestre di dialogo"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:79
 msgid "All dialogs should implement the following:"
-msgstr ""
+msgstr "Tutte le finestre di dialogo dovrebbero implementare quanto segue:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:81
 msgid "Tooltip help for all toolbar icons and other relevant widgets"
-msgstr ""
+msgstr "Descrizione comando per tutte le icone della barra degli strumenti e altri widget rilevanti"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:82
 msgid "WhatsThis help for all widgets on the dialog"
@@ -178,7 +179,7 @@ msgid ""
 "C++ implementation and header files should have a .cpp and .h extension "
 "respectively. Filename should be all lowercase and, in the case of classes, "
 "match the class name."
-msgstr ""
+msgstr "I file di implementazione e di intestazione C++ dovrebbero avere rispettivamente un'estensione .cpp e .h. Il nome del file deve essere tutto minuscolo e, nel caso di classi, abbinarsi al nome della classe."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:97
 msgid ""
@@ -192,7 +193,7 @@ msgid ""
 "class name it implicitly means that each class should be declared and "
 "implemented in its own file. This makes it much easier for newcomers to "
 "identify where the code is relating to specific class."
-msgstr ""
+msgstr "Nel caso in cui non sia chiaro dall'istruzione di cui sopra, perché un nome di file corrisponda a un nome di classe significa implicitamente che ogni classe deve essere dichiarata e implementata nel proprio file. Questo rende molto più facile per i nuovi arrivati identificare dove il codice è relativo alla classe specifica."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:108
 msgid "Standard Header and License"
@@ -202,7 +203,7 @@ msgstr "Intestazione Standard e Licenza"
 msgid ""
 "Each source file should contain a header section patterned after the "
 "following example:"
-msgstr ""
+msgstr "Ogni file sorgente dovrebbe contenere una sezione di intestazione modellata dopo il seguente esempio:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:130
 msgid ""
@@ -232,28 +233,28 @@ msgstr "``currentExtent``"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:148
 msgid "Enumerated Types"
-msgstr ""
+msgstr "Enumerated Types"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:150
 msgid ""
 "Enumerated types should be named in CamelCase with a leading capital e.g.:"
-msgstr ""
+msgstr "I tipi enumerati devono essere denominati in CamelCase con una maiuscola iniziale, es.:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:162
 msgid ""
 "Do not use generic type names that will conflict with other types. e.g. use "
 "``UnkownUnit`` rather than ``Unknown``"
-msgstr ""
+msgstr "Non usare nomi di tipo generici che entreranno in conflitto con altri tipi. es. usare ``UnkownUnit`` piuttosto che ``Unknown``"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:166
 msgid "Global Constants & Macros"
-msgstr ""
+msgstr "Costanti Globali & Macros"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:168
 msgid ""
 "Global constants and macros should be written in upper case underscore "
 "separated e.g.:"
-msgstr ""
+msgstr "Costanti globali e macros dovrebbero essere scritte in maiuscolo separate da underscore es.:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:175
 msgid "Comments"
@@ -263,7 +264,7 @@ msgstr "Commenti"
 msgid ""
 "Comments to class methods should use a third person indicative style instead"
 " of the imperative style:"
-msgstr ""
+msgstr "I commenti ai metodi delle classi dovrebbero usare uno stile indicativo in terza persona invece dello stile imperativo:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:190
 msgid "Editing"
@@ -283,7 +284,7 @@ msgstr "Schede"
 msgid ""
 "Set your editor to emulate tabs with spaces. Tab spacing should be set to 2 "
 "spaces."
-msgstr ""
+msgstr "Imposta il tuo editor per emulare le tabulazioni con gli spazi. La spaziatura dei tab dovrebbe essere impostata a 2 spazi."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:201
 msgid "In vim this is done with ``set expandtab ts=2``"
@@ -295,9 +296,9 @@ msgstr "Indentazione"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:206
 msgid ""
-"Source code should be indented to improve readability. There is a ``scripts"
-"/prepare-commit.sh`` that looks up the changed files and reindents them "
-"using astyle. This should be run before committing. You can also use "
+"Source code should be indented to improve readability. There is a "
+"``scripts/prepare-commit.sh`` that looks up the changed files and reindents "
+"them using astyle. This should be run before committing. You can also use "
 "``scripts/astyle.sh`` to indent individual files."
 msgstr ""
 
@@ -357,7 +358,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:291
 msgid "allow changes to be made in one location instead of in multiple places"
-msgstr ""
+msgstr "consente di effettuare cambiamenti in una location invece che in molte"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:292
 msgid "help prevent code bloat"
@@ -367,7 +368,7 @@ msgstr ""
 msgid ""
 "make it more difficult for multiple copies to evolve differences over time, "
 "thus making it harder to understand and maintain for others"
-msgstr ""
+msgstr "rende più difficile alle copie multiple di avere differenze nel tempo , così da renderne più difficile per altri la comprensione"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:298
 msgid "Prefer Having Constants First in Predicates"
@@ -391,13 +392,13 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:310
 msgid "Whitespace Can Be Your Friend"
-msgstr ""
+msgstr "Whitespace può essere amico"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:312
 msgid ""
 "Adding spaces between operators, statements, and functions makes it easier "
 "for humans to parse code."
-msgstr ""
+msgstr "aggiungere spazi tra gli operatori, i comandi e le funzioni rende più semplice alle persone la lettura del codice"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/codingstandards.rst:315
 msgid "Which is easier to read, this:"

@@ -5,13 +5,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 20:13+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2013-2014\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
@@ -45,44 +46,9 @@ msgid ""
 msgstr "Stagiarii folosesc laptop-urile proprii care au fost prevăzute cu programul de instalare pentru QGIS 1.7.3, împreună cu straturile cu datele cheie care acoperă Parcul Național: limitele zonei protejate, hărți topografice scanate, un DEM - model digital al terenului , drumuri, posturi de pază și tipuri de habitate."
 
 #: ../../source/site/about/case_studies/tanzania_udzungwa.rst:20
+#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:33
 msgid "QGIS Udzungwa"
 msgstr "QGIS Udzungwa"
-
-#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:26
-msgid ""
-"The Udzungwa Elephant Project is based next to Tanzania's Udzungwa Mountains"
-" National Park, a range of evergreen forested mountains reaching over 2,500 "
-"metres. It studies the ecology of elephants in and around the mountains, "
-"with the aim of understanding how elephants move between different Tanzanian"
-" parks and reserves, and how such corridors might be maintained while "
-"reducing crop damage caused by elephants. More widely, elephants are a "
-"\"flagship species\" for the conservation of the incredible wildlife and "
-"landscapes of southern Tanzania."
-msgstr "Proiectul de Protecție a Elefanților din Udzungwa se desfășoară lângă  Parcul Național Munții Udzungwa din Tanzania, un lanț montan veșnic verde, pădurile ajungând la peste 2.500 de metri. Proiectul studiază ecologia elefanților din munți și din jurul acestora, scopul fiind de a înțelege modul în care se deplasează elefanții între diferitele parcuri și rezervații din Tanzania, și modul în care aceste coridoare ar putea fi menținute, luându-se simultan măsuri de reducerea daunelor cauzate culturilor. Mai pe larg, elefanții sunt o \"specie emblematică\" pentru conservarea incredibilei vieți sălbatice și a peisajelor din sudul Tanzania."
-
-#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:33
-msgid "QGIS Udzungwa 2"
-msgstr "QGIS Udzungwa 2"
-
-#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:45
-msgid "Author"
-msgstr "Autor"
-
-#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:52
-msgid "Nick McWilliam"
-msgstr "Nick McWilliam"
-
-#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:54
-msgid ""
-"This article was contributed in March 2012 by Nick McWilliam. UK-based, he "
-"has been visiting Tanzania since 1996 to work with GIS in National parks and"
-" Game Reserves, with an emphasis on training, low-cost systems, and using "
-"GIS to help in applied research, management and conservation. He also "
-"volunteers with the NGO MapAction, providing GIS support to humanitarian "
-"organisations in emergencies, and previously worked with the British "
-"Antarctic Survey,  United Nations, Royal Geographical Society, and as a GIS "
-"Lecturer."
-msgstr "Acest articol a fost transmis în martie 2012 de către Nick McWilliam. Originar din Marea Britanie, el a fost vizitat Tanzania din 1996 pentru a lucra cu GIS în parcurile naționale și rezerve de joc, cu un accent pe formare, sisteme de low-cost, și utilizarea GIS pentru a ajuta în cercetarea aplicată, de gestionare și conservare. El, de asemenea, voluntarii cu MapAction ONG-urilor, oferind suport GIS pentru organizațiile umanitare în situații de urgență, și a lucrat anterior cu British Antarctic Survey, Organizația Națiunilor Unite, Royal Geographical Society, cât și ca lector GIS."
 
 #: ../../source/site/about/case_studies/tanzania_udzungwa.rst:22
 msgid ""
@@ -102,6 +68,22 @@ msgid ""
 "runs well on older computers and has a relatively small installer; and in "
 "general we have found it user-friendly for newcomers to GIS."
 msgstr "QGIS oferă mai multe beneficii: nu numai că este complet gratuit, dar codul său sursă deschis îl face receptiv la nevoile speciale de dezvoltare, rulează bine pe calculatoare mai vechi și are o instalare relativ mică, și, în general, este ușor de utilizat pentru nou-veniții în GIS."
+
+#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:26
+msgid ""
+"The Udzungwa Elephant Project is based next to Tanzania's Udzungwa Mountains"
+" National Park, a range of evergreen forested mountains reaching over 2,500 "
+"metres. It studies the ecology of elephants in and around the mountains, "
+"with the aim of understanding how elephants move between different Tanzanian"
+" parks and reserves, and how such corridors might be maintained while "
+"reducing crop damage caused by elephants. More widely, elephants are a "
+"\"flagship species\" for the conservation of the incredible wildlife and "
+"landscapes of southern Tanzania."
+msgstr "Proiectul de Protecție a Elefanților din Udzungwa se desfășoară lângă  Parcul Național Munții Udzungwa din Tanzania, un lanț montan veșnic verde, pădurile ajungând la peste 2.500 de metri. Proiectul studiază ecologia elefanților din munți și din jurul acestora, scopul fiind de a înțelege modul în care se deplasează elefanții între diferitele parcuri și rezervații din Tanzania, și modul în care aceste coridoare ar putea fi menținute, luându-se simultan măsuri de reducerea daunelor cauzate culturilor. Mai pe larg, elefanții sunt o \"specie emblematică\" pentru conservarea incredibilei vieți sălbatice și a peisajelor din sudul Tanzania."
+
+#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:33
+msgid "QGIS Udzungwa 2"
+msgstr "QGIS Udzungwa 2"
 
 #: ../../source/site/about/case_studies/tanzania_udzungwa.rst:35
 msgid ""
@@ -126,6 +108,34 @@ msgstr "http://udzungwa.wildlifedirect.org/2012/02/10/qgis-training-for-park-sta
 #: ../../source/site/about/case_studies/tanzania_udzungwa.rst:42
 msgid "http://www.udzungwacentre.org/"
 msgstr "http://www.udzungwacentre.org/"
+
+#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:45
+msgid "Author"
+msgstr "Autor"
+
+#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:52
+msgid "Nick McWilliam"
+msgstr "Nick McWilliam"
+
+#: ../../source/site/about/case_studies/tanzania_udzungwa.rst:54
+msgid ""
+"This article was contributed in March 2012 by Nick McWilliam. UK-based, he "
+"has been visiting Tanzania since 1996 to work with GIS in National parks and"
+" Game Reserves, with an emphasis on training, low-cost systems, and using "
+"GIS to help in applied research, management and conservation. He also "
+"volunteers with the NGO MapAction, providing GIS support to humanitarian "
+"organisations in emergencies, and previously worked with the British "
+"Antarctic Survey,  United Nations, Royal Geographical Society, and as a GIS "
+"Lecturer."
+msgstr "Acest articol a fost transmis în martie 2012 de către Nick McWilliam. Originar din Marea Britanie, el a fost vizitat Tanzania din 1996 pentru a lucra cu GIS în parcurile naționale și rezerve de joc, cu un accent pe formare, sisteme de low-cost, și utilizarea GIS pentru a ajuta în cercetarea aplicată, de gestionare și conservare. El, de asemenea, voluntarii cu MapAction ONG-urilor, oferind suport GIS pentru organizațiile umanitare în situații de urgență, și a lucrat anterior cu British Antarctic Survey, Organizația Națiunilor Unite, Royal Geographical Society, cât și ca lector GIS."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "By the end of the two days, everyone was able to add GPS download data, "

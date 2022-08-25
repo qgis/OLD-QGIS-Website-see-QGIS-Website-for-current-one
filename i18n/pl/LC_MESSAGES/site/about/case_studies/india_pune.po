@@ -4,19 +4,40 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-08-07 15:40+0200\n"
-"PO-Revision-Date: 2020-03-16 09:18+0000\n"
-"Last-Translator: Tomasz Rychlicki <rychlicki.tomasz@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-08-07 14:36+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish (http://www.transifex.com/qgis/qgis-website/language/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: pl\n"
 "Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
 
 #: ../../source/site/about/case_studies/india_pune.rst:3
 msgid ""
 "Use of python console to prepare offline map from WMS (tile downloader)"
+msgstr ""
+
+#: ../../source/site/about/case_studies/india_pune.rst:5
+msgid ""
+"This study explains how to prepare offline maps from WMS/WFS or any map "
+"loaded in QGIS map view by downloading tiles with the help of a script in "
+"python console. The skript also generates a mosaic of all tiles for further "
+"use."
+msgstr ""
+
+#: ../../source/site/about/case_studies/india_pune.rst:7
+msgid ""
+"Accessing raster/vector maps through Web Mapping Service (WMS) service is "
+"very common and efficient. It has several advantages such as security, "
+"centralized and flexible map styles. Example is Google maps, Yahoo, Bing, "
+"MODIS, Landsat, maps published by NASA, NRSC (India). The "
+"disadvantage/limitation of WMS is it works via internet or intranet. It may "
+"not be possible to get internet connection always especially in the field "
+"during survey. Also WMS works slow, compared to any offline image format "
+"such as GeoTiff, jpg, img etc."
 msgstr ""
 
 #: ../../source/site/about/case_studies/india_pune.rst:10
@@ -146,24 +167,12 @@ msgstr ""
 msgid "Website www.gisappco.com (under construction)"
 msgstr ""
 
-#: ../../source/site/about/case_studies/india_pune.rst:5
-msgid ""
-"This study explains how to prepare offline maps from WMS/WFS or any map "
-"loaded in QGIS map view by downloading tiles with the help of a script in "
-"python console. The skript also generates a mosaic of all tiles for further "
-"use."
+#: ../../<rst_epilog>:2
+msgid "checkbox"
 msgstr ""
 
-#: ../../source/site/about/case_studies/india_pune.rst:7
-msgid ""
-"Accessing raster/vector maps through Web Mapping Service (WMS) service is "
-"very common and efficient. It has several advantages such as security, "
-"centralized and flexible map styles. Example is Google maps, Yahoo, Bing, "
-"MODIS, Landsat, maps published by NASA, NRSC (India). The "
-"disadvantage/limitation of WMS is it works via internet or intranet. It may "
-"not be possible to get internet connection always especially in the field "
-"during survey. Also WMS works slow, compared to any offline image format "
-"such as GeoTiff, jpg, img etc."
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""
 
 #~ msgid ""

@@ -6,13 +6,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-08-07 15:40+0200\n"
-"PO-Revision-Date: 2019-10-25 01:51+0000\n"
-"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-08-07 14:36+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2018-2019\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -20,33 +21,6 @@ msgstr ""
 msgid ""
 "Trainings & Research activities using QGIS at NIRD&PR-NERC, Guwahati, India"
 msgstr "QGISを使用したトレーニング＆研究活動 、NIRD&PR-NERC, グワハティ、インド"
-
-#: ../../source/site/about/case_studies/india_guwahati.rst:13
-msgid ""
-"There is a question why QGIS only when other software like uDig, MapWindow, "
-"gvSIG, GRASS are also there. The answer lies in the facts that QGIS is an "
-"OSGeo incubated project, less complex, its development is very fast and "
-"associated with huge community of users and developers and lastly authors "
-"expertise. With its latest version of 2.4, software is capable of satisfying"
-" the all needs of grass root rural development executors in India with "
-"satisfying the present queries and wishes for future."
-msgstr "uDig、MapWindow、gvSIG、GRASSのような他のソフトウェアもあるときに、なぜQGISだけなのかという疑問があります。答えは、QGISがOSGEO培養のプロジェクトであり、それほど複雑でなく、その開発は非常に高速かつ巨大なユーザーと開発者のコ​​ミュニティと最後に著者の専門知識に関連付けられているという事実にあります。最新バージョンの2.4では、ソフトウェアは、現在の問合せと将来のための望みを満たし、インドの草の根農村開発施行者のすべてのニーズを満たすことが可能です。"
-
-#: ../../source/site/about/case_studies/india_guwahati.rst:23
-msgid "Training course at NIRD&PR-NERC, Guwahati"
-msgstr "NIRD&PR-NERC、グワハティ、でのトレーニングコース"
-
-#: ../../source/site/about/case_studies/india_guwahati.rst:27
-msgid "Conducted QGIS training courses and participants"
-msgstr "QGISトレーニングコースおよび参加者派遣"
-
-#: ../../source/site/about/case_studies/india_guwahati.rst:37
-msgid "Authors"
-msgstr "著者"
-
-#: ../../source/site/about/case_studies/india_guwahati.rst:44
-msgid "Alajangi Simhachalam"
-msgstr "Alajangi Simhachalam"
 
 #: ../../source/site/about/case_studies/india_guwahati.rst:5
 msgid ""
@@ -81,6 +55,37 @@ msgid ""
 "maps."
 msgstr "当初、私は、ArcGISとERDASなどの商用ソフトウェアでGISトレーニングを行うことに関与していました。しかし、研修プログラムの最後には、参加者は自分たちの練習にソフトウェアを使用できなかったことが原因で幸せではなかったです。その後、私たちはQGISを導入することで解決策を見つけます。QuantumGISを導入した後、オープンソースGISはインドの農村開発部門のニーズを満たすことができると感じました。したがって、それは道路、排水、入植地、流域の境界の描写などの基図を準備するため、そしてGPSデータのダウンロード、分析、GPS測量の現場の写真などをハイパーリンクする準備するなどのためにも、研究活動の中で導入されました。 Googleアースプラグインを使用してLULCマップを準備するために導入されています。"
 
+#: ../../source/site/about/case_studies/india_guwahati.rst:9
+msgid ""
+"Software was then pursued for the personal use for one year and its new "
+"versions were checked for the enhanced functionalities. During this whenever"
+" author was course coordinator in training, he used QGIS in trainings for "
+"introduction and feedbacks."
+msgstr "ソフトウェアは、その後一年間の個人的な使用のために追求されたとその新しいバージョンが強化機能を調べました。著者は、トレーニング中にコースのコーディネーターだったときには、この期間中、彼は導入とフィードバックのための研修でQGISを使用しました。"
+
+#: ../../source/site/about/case_studies/india_guwahati.rst:11
+msgid ""
+"QGIS is being used in GIS trainings at the centre. Further it is being "
+"messaged and advised in all trainings that no commercial GIS software should"
+" be purchased at District (administrative unit in India after Nation and "
+"State) and below, if real requirement is not felt and this saving may be "
+"used for purchase of hardware like GPSs, computers etc. In the training we "
+"have been introduced to participants Georeferencing, database creation, "
+"digitization, editing, analysis and print composer etc. After introducing "
+"QGIS, we are getting good feedback from various officials and students."
+msgstr "QGISは中央のGISトレーニングに使用されています。さらに、地区（国と州の次のインドの行政単位）およびそれ以下において、本当の要件が感じられない場合、またこの節約がGPSS、コンピューターなどのハードウェアの購入に使用できる場合には、商業的GISソフトウェアは購入すべきでないことが、すべてのトレーニングにメッセージとして送られ助言されています。トレーニングにおいて、私たちは参加者にジオリファレンス、データベースの作成、デジタル化、編集、分析および印刷コンポーザなど紹介してきました。QGISを導入した後、私たちは様々な関係者や学生たちから良いフィードバックを得ています。"
+
+#: ../../source/site/about/case_studies/india_guwahati.rst:13
+msgid ""
+"There is a question why QGIS only when other software like uDig, MapWindow, "
+"gvSIG, GRASS are also there. The answer lies in the facts that QGIS is an "
+"OSGeo incubated project, less complex, its development is very fast and "
+"associated with huge community of users and developers and lastly authors "
+"expertise. With its latest version of 2.4, software is capable of satisfying"
+" the all needs of grass root rural development executors in India with "
+"satisfying the present queries and wishes for future."
+msgstr "uDig、MapWindow、gvSIG、GRASSのような他のソフトウェアもあるときに、なぜQGISだけなのかという疑問があります。答えは、QGISがOSGEO培養のプロジェクトであり、それほど複雑でなく、その開発は非常に高速かつ巨大なユーザーと開発者のコ​​ミュニティと最後に著者の専門知識に関連付けられているという事実にあります。最新バージョンの2.4では、ソフトウェアは、現在の問合せと将来のための望みを満たし、インドの草の根農村開発施行者のすべてのニーズを満たすことが可能です。"
+
 #: ../../source/site/about/case_studies/india_guwahati.rst:15
 msgid ""
 "The applications of software during training are generally concentrated on "
@@ -93,6 +98,14 @@ msgid ""
 "Windows8 OS. Per training programme number of trainees remains between "
 "20-30."
 msgstr "訓練中のソフトウェアのアプリケーションは、一般的に、資源図化、農村インフラ施設の図化、流域とマハトマ・ガンジー国立農村雇用保証制度（MGNREGS）に集中しています。流域とMGNREGSは、インド政府の土地ベースの旗艦です。地域のオープンソースラスターとベクターデータは、演習で使用されています。参加者は、作業に利用可能な場合、独自または部門別データを持参することが奨励されます。訓練はi7のの22台のコンピューター、4ギガバイトのRAMとWindows8 OSを搭載した実験室で提供されています。研修生の研修あたりのプログラム数は20〜30の間に残ります。"
+
+#: ../../source/site/about/case_studies/india_guwahati.rst:23
+msgid "Training course at NIRD&PR-NERC, Guwahati"
+msgstr "NIRD&PR-NERC、グワハティ、でのトレーニングコース"
+
+#: ../../source/site/about/case_studies/india_guwahati.rst:27
+msgid "Conducted QGIS training courses and participants"
+msgstr "QGISトレーニングコースおよび参加者派遣"
 
 #: ../../source/site/about/case_studies/india_guwahati.rst:29
 msgid ""
@@ -125,31 +138,27 @@ msgid ""
 "initiated."
 msgstr "毎月訓練は20-30の参加者で行われているので、この数は毎月増加しています。トレーニングフィードバックは非常に肯定的と励みに残っています。証明書は、研修終了後の参加者に提供されています。現在は配布資料はハードコピー、チュートリアル、ソフトウェアおよび練習データはソフトコピーで参加者に提供されていますが、画面記録講義/英語でのさまざまなトピックのデモを含むDVDを作成する計画があります。将来は証明書と卒業証書のプログラムでも開始できます。"
 
+#: ../../source/site/about/case_studies/india_guwahati.rst:37
+msgid "Authors"
+msgstr "著者"
+
+#: ../../source/site/about/case_studies/india_guwahati.rst:44
+msgid "Alajangi Simhachalam"
+msgstr "Alajangi Simhachalam"
+
 #: ../../source/site/about/case_studies/india_guwahati.rst:46
 msgid ""
 "This article was contributed in July 2014 by Alajangi Simhachalam, Adjunct "
 "Faculty, NIRD-NERC, Guwahati Website: http://www.nirdnerc.nic.in"
 msgstr "http://www.nirdnerc.nic.in：この記事は2014年7月に、Alajangi Simhachalam、非常勤教員、NIRD-NERC、グワハティのウェブサイトで寄稿されました"
 
-#: ../../source/site/about/case_studies/india_guwahati.rst:9
-msgid ""
-"Software was then pursued for the personal use for one year and its new "
-"versions were checked for the enhanced functionalities. During this whenever"
-" author was course coordinator in training, he used QGIS in trainings for "
-"introduction and feedbacks."
-msgstr "ソフトウェアは、その後一年間の個人的な使用のために追求されたとその新しいバージョンが強化機能を調べました。著者は、トレーニング中にコースのコーディネーターだったときには、この期間中、彼は導入とフィードバックのための研修でQGISを使用しました。"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/about/case_studies/india_guwahati.rst:11
-msgid ""
-"QGIS is being used in GIS trainings at the centre. Further it is being "
-"messaged and advised in all trainings that no commercial GIS software should"
-" be purchased at District (administrative unit in India after Nation and "
-"State) and below, if real requirement is not felt and this saving may be "
-"used for purchase of hardware like GPSs, computers etc. In the training we "
-"have been introduced to participants Georeferencing, database creation, "
-"digitization, editing, analysis and print composer etc. After introducing "
-"QGIS, we are getting good feedback from various officials and students."
-msgstr "QGISは中央のGISトレーニングに使用されています。さらに、地区（国と州の次のインドの行政単位）およびそれ以下において、本当の要件が感じられない場合、またこの節約がGPSS、コンピューターなどのハードウェアの購入に使用できる場合には、商業的GISソフトウェアは購入すべきでないことが、すべてのトレーニングにメッセージとして送られ助言されています。トレーニングにおいて、私たちは参加者にジオリファレンス、データベースの作成、デジタル化、編集、分析および印刷コンポーザなど紹介してきました。QGISを導入した後、私たちは様々な関係者や学生たちから良いフィードバックを得ています。"
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "Software was then pursued for the personal use for one year and its new "

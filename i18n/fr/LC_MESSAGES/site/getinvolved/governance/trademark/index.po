@@ -3,21 +3,22 @@
 # Benoît de Cabissole, 2018-2019
 # MarieSilvestre, 2014,2019
 # Médéric RIBREUX <mederic.ribreux__translate@medspx.fr>, 2015
+# Romain Bazile <gromain_baz@hotmail.com>, 2022
 # Harrissou Sant-anna, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-19 17:16+0100\n"
-"PO-Revision-Date: 2019-05-10 10:21+0000\n"
-"Last-Translator: Benoît de Cabissole\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-10-19 11:14+0000\n"
+"Last-Translator: Romain Bazile <gromain_baz@hotmail.com>, 2022\n"
 "Language-Team: French (http://www.transifex.com/qgis/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: fr\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/getinvolved/governance/trademark/index.rst:4
 msgid "QGIS Trademark and brand guidelines"
@@ -195,7 +196,7 @@ msgstr "**Ne faites pas passer votre travail pour notre travail** : Si vous four
 msgid ""
 "**Don't present our work as your work**: Give credit to the QGIS project "
 "where due. Don’t hide the fact that your product is based on QGIS."
-msgstr "**Ne faites pas passer notre travail pour votre travail** : Accréditez le projet QGIS lorsque cela est dû. Ne cachez pas le fait que votre produit est basé sur QGIS."
+msgstr "**Ne faites pas passer notre travail pour votre travail** : Créditez le projet QGIS lorsque cela est dû. Ne cachez pas le fait que votre produit est basé sur QGIS."
 
 #: ../../source/site/getinvolved/governance/trademark/index.rst:61
 msgid "**Good product name examples include**:"
@@ -454,6 +455,14 @@ msgid ""
 "to the registration of trademarks found to be confusingly similar to the "
 "QGIS mark."
 msgstr "**R:** Non. L'autorisation du projet QGIS n'est pas un consentement pour l'enregistrement d'une autre marque. Pour protéger la marque QGIS d'un effet de dilution, nous n'autorisons pas l'enregistrement de marques qui sont trop similaires à la marque QGIS."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "Please routinely explain in your course that QGIS is free and open source "

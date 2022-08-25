@@ -4,21 +4,22 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # 
 # Translators:
-# fairtommy <fairtommy@gmail.com>, 2019
+# tomoyuki arai <tarai.3367@gmail.com>, 2022
+# fairtommy <fairtommy@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2018-05-20 14:26+0000\n"
-"Last-Translator: fairtommy <fairtommy@gmail.com>, 2019\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2022\n"
 "Language-Team: Japanese (https://www.transifex.com/qgis/teams/6144/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -47,26 +48,27 @@ msgstr ""
 #: ../../source/site/about/case_studies/uruguay_mides.rst:13
 msgid ""
 "The National Division of Evaluation and Monitoring (`DINEM "
-"<http://dinem.mides.gub.uy/innovaportal/v/25948/11/innova.front/mision-y-cometidos>`_"
-" ) is a section of MIDES that oversees the monitoring and evaluation of "
-"plans, programs, actions, devices and social projects through the national "
-"territory. DINEM also produces and manages necessary information to improve "
-"their design and implementation."
+"<http://dinem.mides.gub.uy/innovaportal/v/25948/11/innova.front/mision-y-"
+"cometidos>`_ ) is a section of MIDES that oversees the monitoring and "
+"evaluation of plans, programs, actions, devices and social projects through "
+"the national territory. DINEM also produces and manages necessary "
+"information to improve their design and implementation."
 msgstr ""
 "国家評価・モニタリング部門（ `DINEM "
-"<http://dinem.mides.gub.uy/innovaportal/v/25948/11/innova.front/mision-y-cometidos>`_"
-" "
+"<http://dinem.mides.gub.uy/innovaportal/v/25948/11/innova.front/mision-y-"
+"cometidos>`_ "
 "）は、計画、プログラム、行動、機器、社会プロジェクトの監視と評価を国の領土を通じて監督しています。DINEMはまた、設計と実装を改善するために必要な情報を生成し、管理します。"
 
 #: ../../source/site/about/case_studies/uruguay_mides.rst:18
 msgid ""
 "The `Department of Geography of DINEM "
-"<http://dinem.mides.gub.uy/innovaportal/v/25507/11/innova.front"
-"/departamento-de-geografia>`_ is responsible for the production, management "
-"and analysis of geographical information,"
+"<http://dinem.mides.gub.uy/innovaportal/v/25507/11/innova.front/departamento-"
+"de-geografia>`_ is responsible for the production, management and analysis "
+"of geographical information,"
 msgstr ""
-"`DINEM地理局 <http://dinem.mides.gub.uy/innovaportal/v/25507/11/innova.front"
-"/departamento-de-geografia>`_ は、地理情報の生産、管理、分析を担当しています、"
+"`DINEM地理局 "
+"<http://dinem.mides.gub.uy/innovaportal/v/25507/11/innova.front/departamento-"
+"de-geografia>`_ は、地理情報の生産、管理、分析を担当しています、"
 
 #: ../../source/site/about/case_studies/uruguay_mides.rst:22
 msgid "QGIS at the Department of Geography of the DINEM"
@@ -89,8 +91,9 @@ msgid ""
 "housing, and environmental aspects."
 msgstr ""
 "2012年に地理局が統合されて以来、私たちは職務を遂行するためにオープンソースソフトウェアを組み込もうとしました。特に、全国の社会的に脆弱な世帯への約4万人の訪問を毎年実施する広範なフィールドワークの管理。目的は、社会政策の実施を改善するために、対象世帯の徹底した地理参照データベースをconformすることでした。特に、金銭的な移転プログラムの範囲を拡大するためにデータが収集されました（"
-" `「Asignaciones Familiares  -  Plan de Equidad」 <https://www.bps.gubuu3540"
-"/plan-de-equidad.html>`_ と `「Tarjeta Uruguay Social」 "
+" `「Asignaciones Familiares  -  Plan de Equidad」 "
+"<https://www.bps.gubuu3540/plan-de-equidad.html>`_ と `「Tarjeta Uruguay "
+"Social」 "
 "<http://www.mides.gub.uy/innovaportal/v/55480/3/innova.front/tarjeta-"
 "uruguay-social-tus>`_ ）。適用される調査書式は、社会、住宅、および環境面を考慮しています。"
 
@@ -101,6 +104,11 @@ msgid ""
 "organize field trips and georeference relieved data."
 msgstr ""
 "このようなフィールドワークを可能にするロジスティクスは、統計パッケージを使用して生成されたデータベースを管理し、GISを大いに活用して実地見学やジオリファレンスのいらないデータを整理することなどです。"
+
+#: ../../source/site/about/case_studies/uruguay_mides.rst:40
+#: ../../source/site/about/case_studies/uruguay_mides.rst:55
+msgid "QGIS at work"
+msgstr ""
 
 #: ../../source/site/about/case_studies/uruguay_mides.rst:40
 msgid ""
@@ -231,3 +239,11 @@ msgstr "この記事は上記3名で書かれたものではありますが、�
 #: ../../source/site/about/case_studies/uruguay_mides.rst:94
 msgid "Contact: mapas@mides.gub.uy"
 msgstr "連絡先: mapas@mides.gub.uy"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"

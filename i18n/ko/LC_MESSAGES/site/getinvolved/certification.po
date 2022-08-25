@@ -5,20 +5,22 @@
 # 
 # Translators:
 # Sebul, 2020
+# Jürgen E. Fischer <jef@norbit.de>, 2022
+# Kwon.Yongchan <ruvyn@naver.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-26 11:45+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-03-13 19:40+0000\n"
-"Last-Translator: Sebul, 2020\n"
+"Last-Translator: Kwon.Yongchan <ruvyn@naver.com>, 2022\n"
 "Language-Team: Korean (https://www.transifex.com/qgis/teams/6144/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ko\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -76,11 +78,20 @@ msgstr ""
 msgid "Authoring QGIS books"
 msgstr ""
 
-#: ../../source/site/getinvolved/certification.rst:23
-msgid "Workflow Certification"
+#: ../../source/site/getinvolved/certification.rst:20
+msgid ""
+"To contact the certification team, please write to certification@qgis.org."
 msgstr ""
 
-#: ../../source/site/getinvolved/certification.rst:25
+#: ../../source/site/getinvolved/certification.rst:24
+msgid "Certification Process"
+msgstr ""
+
+#: ../../source/site/getinvolved/certification.rst:27
+msgid "Application"
+msgstr "응용 프로그램"
+
+#: ../../source/site/getinvolved/certification.rst:29
 msgid ""
 "You are required to provide the training material for each of your courses. "
 "This includes exercises, lectures and data. This material will be reviewed "
@@ -89,7 +100,7 @@ msgid ""
 "refusal."
 msgstr ""
 
-#: ../../source/site/getinvolved/certification.rst:28
+#: ../../source/site/getinvolved/certification.rst:32
 msgid ""
 "Following an initial review, the application will be sent to local QGIS "
 "groups for their opinion. This portion of the review should take place in "
@@ -101,14 +112,14 @@ msgid ""
 "refusal."
 msgstr ""
 
-#: ../../source/site/getinvolved/certification.rst:30
+#: ../../source/site/getinvolved/certification.rst:34
 msgid ""
 "The PSC will make the final determination. If accepted as a QGIS Certified "
 "Organization your contributions to the project will be published for "
 "transparency."
 msgstr ""
 
-#: ../../source/site/getinvolved/certification.rst:32
+#: ../../source/site/getinvolved/certification.rst:36
 msgid ""
 "If approved you are required to pay a €20 certification fee to the QGIS "
 "project for each certificate you issue. This creates a mechanism for "
@@ -118,12 +129,28 @@ msgid ""
 " at once."
 msgstr ""
 
-#: ../../source/site/getinvolved/certification.rst:35
+#: ../../source/site/getinvolved/certification.rst:39
 msgid ""
 "You can apply through `this form <certification_link_>`_ (make sure to first"
 " create a `login <certification_login_>`_). You can find more details about "
 "the certification programme `here <certification_details_>`_ (we advise you "
 "to read this before registering)."
+msgstr ""
+
+#: ../../source/site/getinvolved/certification.rst:47
+msgid "Course Certification Workflow"
+msgstr ""
+
+#: ../../source/site/getinvolved/certification.rst:52
+msgid "Workflow Certification"
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""
 
 #~ msgid ""

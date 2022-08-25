@@ -6,15 +6,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-28 17:39+0100\n"
-"PO-Revision-Date: 2019-09-05 17:58+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-02-28 18:29+0000\n"
+"Last-Translator: Kayama Yoichi <yoichi.kayama@gmail.com>, 2018\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/site/forusers/visualchangelog28/index.rst:5
+msgid "Changelog for QGIS 2.8"
+msgstr "QGIS 2.8の変更履歴"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:7
 msgid ""
@@ -119,6 +124,10 @@ msgid ""
 "<http://www.opw.ie/>`_"
 msgstr "シルバースポンサー： `アイルランドの公共事業局、アイルランド<http://www.opw.ie/>` _"
 
+#: ../../source/site/forusers/visualchangelog28/index.rst:43
+msgid "BRONZE Sponsor: `GIS3W, Italy <http://www.gis3w.it/>`_"
+msgstr "ブロンズスポンサー: `GIS3W, Italy <http://www.gis3w.it/>`_"
+
 #: ../../source/site/forusers/visualchangelog28/index.rst:44
 msgid "BRONZE Sponsor: `www.molitec.it, Italy <http://www.molitec.it/>`_"
 msgstr "ブロンズスポンサー: `www.molitec.it, Italy <http://www.molitec.it/>`_"
@@ -131,6 +140,12 @@ msgstr "BRONZE Sponsor: `www.argusoft.de, Germany <http://www.argusoft.de>`_"
 msgid ""
 "BRONZE Sponsor: `www.openrunner.com, France <http://www.openrunner.com>`_"
 msgstr "BRONZE Sponsor: `www.openrunner.com, France <http://www.openrunner.com>`_"
+
+#: ../../source/site/forusers/visualchangelog28/index.rst:47
+msgid ""
+"BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "
+"<http://www.gkg-kassel.de/>`_"
+msgstr "ブロンズスポンサー: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany <http://www.gkg-kassel.de/>`_"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:48
 msgid ""
@@ -912,6 +927,12 @@ msgid ""
 "correctly handles labelling and symbology, etc."
 msgstr "このリリースでは、マップキャンバスでの回転の予備的なサポートが含まれています。ステータスバーの新しい回転ウィジェットを使用してキャンバスを回転させることができます。ローテーションのサポートが地図作成者にも拡張され、ラベルや記号などを正しく処理できるようになりました。"
 
+#: ../../source/site/forusers/visualchangelog28/index.rst:496
+msgid ""
+"**This feature was funded by:** `Japan Space Imaging Corporation (JSI) "
+"<http://www.spaceimaging.co.jp/>`_"
+msgstr "**この機能の資金提供は、** `JSI（Japan Space Imaging Corporation）<http://www.spaceimaging.co.jp/>` _"
+
 #: ../../source/site/forusers/visualchangelog28/index.rst:505
 msgid "User Interface"
 msgstr "ユーザーインターフェース"
@@ -931,25 +952,13 @@ msgstr "すべてのダイアログで一貫した投影選択ウィジェット
 msgid "."
 msgstr "."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:5
-msgid "Changelog for QGIS 2.8"
-msgstr "QGIS 2.8の変更履歴"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:43
-msgid "BRONZE Sponsor: `GIS3W, Italy <http://www.gis3w.it/>`_"
-msgstr "ブロンズスポンサー: `GIS3W, Italy <http://www.gis3w.it/>`_"
-
-#: ../../source/site/forusers/visualchangelog28/index.rst:496
-msgid ""
-"**This feature was funded by:** `Japan Space Imaging Corporation (JSI) "
-"<http://www.spaceimaging.co.jp/>`_"
-msgstr "**この機能の資金提供は、** `JSI（Japan Space Imaging Corporation）<http://www.spaceimaging.co.jp/>` _"
-
-#: ../../source/site/forusers/visualchangelog28/index.rst:47
-msgid ""
-"BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany <http://www"
-".gkg-kassel.de/>`_"
-msgstr "ブロンズスポンサー: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany <http://www.gkg-kassel.de/>`_"
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "

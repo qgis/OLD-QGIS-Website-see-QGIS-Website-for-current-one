@@ -7,15 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 19:59+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:25+0000\n"
+"Last-Translator: Médéric RIBREUX <mederic.ribreux__translate@medspx.fr>, 2015\n"
 "Language-Team: French (http://www.transifex.com/qgis/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: fr\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/australia_queens.rst:3
 msgid "QGIS and GRASS in Local Government Bushfire Hazard Mapping"
@@ -24,6 +25,21 @@ msgstr "QGIS et GRASS pour la cartographie des risques de feu de brousse a l'éc
 #: ../../source/site/about/case_studies/australia_queens.rst:6
 msgid "Introduction"
 msgstr "Introduction"
+
+#: ../../source/site/about/case_studies/australia_queens.rst:8
+msgid ""
+"The Southern Downs Regional Council (SDRC) is a small-to-medium sized local "
+"government in south east Queensland, Australia. The council region, mainly "
+"the southern part, suffers from major bushfires. Bushfire is a real and "
+"present concern for the residents and landowners in the Southern Downs "
+"Region, and has resulted in the loss of life and property."
+msgstr "Le conseil régional des Southern Downs (SDRC) est une administration locale de taille intermédiaire située dans le sud-est du Queensland en Australie. L'aire de compétence du conseil, principalement la zone sud, souffre de nombreux feux de brousse. Les feux de brousse sont un réel problème pour les résidents et les propriétaires de la région du Southern Downs et ils ont entraînés des morts et des atteintes aux mobilier."
+
+#: ../../source/site/about/case_studies/australia_queens.rst:10
+msgid ""
+"This project will allow the council and the people of the region to be more "
+"aware of the risk and to allow for better decision making in the future."
+msgstr "Ce projet permettra au conseil et aux gens de la région d'être plus au courant des risques et de prendre de meilleures décisions à l'avenir."
 
 #: ../../source/site/about/case_studies/australia_queens.rst:18
 msgid "The Project"
@@ -71,44 +87,6 @@ msgstr "Cartes finales"
 msgid "The use of QGIS and GRASS"
 msgstr "L'utilisation de QGIS et GRASS"
 
-#: ../../source/site/about/case_studies/australia_queens.rst:49
-msgid "Conclusion"
-msgstr "Conclusion"
-
-#: ../../source/site/about/case_studies/australia_queens.rst:56
-msgid "References"
-msgstr "Références"
-
-#: ../../source/site/about/case_studies/australia_queens.rst:57
-msgid "[1] http://www.emergency.qld.gov.au/publications/spp/"
-msgstr "[1] http://www.emergency.qld.gov.au/publications/spp/"
-
-#: ../../source/site/about/case_studies/australia_queens.rst:61
-msgid "Author"
-msgstr "Auteur"
-
-#: ../../source/site/about/case_studies/australia_queens.rst:70
-msgid ""
-"This article was contributed in January 2011 by Nathan Woodrow. Nathan is a "
-"GIS officer at the Southern Downs Regional Council and is studying an "
-"associates degree in Spatial Science at University of Souther Queensland"
-msgstr "Cet article a été publié en janvier 2011 par Nathan Woodrow. Nathan est un agent SIG au conseil régional des Southern Downs (SDRC) et il effectue des études en alternance à l'univertisé des sciences spatiales du Southern Queensland."
-
-#: ../../source/site/about/case_studies/australia_queens.rst:8
-msgid ""
-"The Southern Downs Regional Council (SDRC) is a small-to-medium sized local "
-"government in south east Queensland, Australia. The council region, mainly "
-"the southern part, suffers from major bushfires. Bushfire is a real and "
-"present concern for the residents and landowners in the Southern Downs "
-"Region, and has resulted in the loss of life and property."
-msgstr "Le conseil régional des Southern Downs (SDRC) est une administration locale de taille intermédiaire située dans le sud-est du Queensland en Australie. L'aire de compétence du conseil, principalement la zone sud, souffre de nombreux feux de brousse. Les feux de brousse sont un réel problème pour les résidents et les propriétaires de la région du Southern Downs et ils ont entraînés des morts et des atteintes aux mobilier."
-
-#: ../../source/site/about/case_studies/australia_queens.rst:10
-msgid ""
-"This project will allow the council and the people of the region to be more "
-"aware of the risk and to allow for better decision making in the future."
-msgstr "Ce projet permettra au conseil et aux gens de la région d'être plus au courant des risques et de prendre de meilleures décisions à l'avenir."
-
 #: ../../source/site/about/case_studies/australia_queens.rst:40
 msgid ""
 "QGIS, using the GRASS plugin, was selected as it provided the tools needed "
@@ -146,6 +124,10 @@ msgid ""
 "time in the future."
 msgstr "Toutes les commandes de GRASS peuvent être lancées depuis la ligne de commande, toutes les commandes nécessaire pour générer les cartes de risque de feu de brousse ont été enregistrées à des fins de documentation et en cas de besoin de générer à nouveau les cartes à l'avenir."
 
+#: ../../source/site/about/case_studies/australia_queens.rst:49
+msgid "Conclusion"
+msgstr "Conclusion"
+
 #: ../../source/site/about/case_studies/australia_queens.rst:51
 msgid ""
 "Overall QGIS, together with the GRASS plugin, provided a great experience "
@@ -161,14 +143,41 @@ msgid ""
 "of Australia state planning awards in 2010 [2]"
 msgstr "Le projet a reçu un prix du Queensland Planning Institute of Australia en 2010 [2]."
 
+#: ../../source/site/about/case_studies/australia_queens.rst:56
+msgid "References"
+msgstr "Références"
+
+#: ../../source/site/about/case_studies/australia_queens.rst:57
+msgid "[1] http://www.emergency.qld.gov.au/publications/spp/"
+msgstr "[1] http://www.emergency.qld.gov.au/publications/spp/"
+
 #: ../../source/site/about/case_studies/australia_queens.rst:58
 msgid ""
 "[2] http://digital.crowtherblayne.com.au/default.aspx?xml=crowther_pia.xml"
 msgstr "[2] http://digital.crowtherblayne.com.au/default.aspx?xml=crowther_pia.xml"
 
+#: ../../source/site/about/case_studies/australia_queens.rst:61
+msgid "Author"
+msgstr "Auteur"
+
 #: ../../source/site/about/case_studies/australia_queens.rst:68
 msgid "Nathan Woodrow"
 msgstr "Nathan Woodrow"
+
+#: ../../source/site/about/case_studies/australia_queens.rst:70
+msgid ""
+"This article was contributed in January 2011 by Nathan Woodrow. Nathan is a "
+"GIS officer at the Southern Downs Regional Council and is studying an "
+"associates degree in Spatial Science at University of Souther Queensland"
+msgstr "Cet article a été publié en janvier 2011 par Nathan Woodrow. Nathan est un agent SIG au conseil régional des Southern Downs (SDRC) et il effectue des études en alternance à l'univertisé des sciences spatiales du Southern Queensland."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "The Southern Downs Regional Council (SDRC) is a small-to-medium sized local "

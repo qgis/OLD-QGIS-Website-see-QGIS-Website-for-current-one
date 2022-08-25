@@ -6,23 +6,23 @@
 # Translators:
 # Pedro Filipe Alves Ribeiro <pedrib72@gmail.com>, 2017
 # Rui <xymarior@yandex.com>, 2018
-# Manuela Silva <manuelarodsilva@gmail.com>, 2020
+# Manuela Silva <mmsrs@sky.com>, 2020
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2017-03-02 14:00+0000\n"
-"Last-Translator: Manuela Silva <manuelarodsilva@gmail.com>, 2020\n"
+"Last-Translator: Manuela Silva <mmsrs@sky.com>, 2020\n"
 "Language-Team: Portuguese (Portugal) (https://www.transifex.com/qgis/teams/6144/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: pt_PT\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/italy_cesena.rst:3
 msgid "QGIS to describe the Cesena's Wall"
@@ -97,6 +97,10 @@ msgstr ""
 "daquelas camadas (Fig. 1). "
 
 #: ../../source/site/about/case_studies/italy_cesena.rst:36
+msgid "Concept Map of the QGIS project"
+msgstr ""
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:36
 msgid "Fig. 1 Concept Map of the QGIS project"
 msgstr "Fig. 1 Esquema conceptual do Projeto QGIS"
 
@@ -137,6 +141,11 @@ msgstr ""
 msgid "The Cesena's Urban Progress from the 16th Century to the Present;"
 msgstr ""
 "Desenvolvimento urbanístico de Cesena desde o séc. XVI até ao presente."
+
+#: ../../source/site/about/case_studies/italy_cesena.rst:50
+#: ../../source/site/about/case_studies/italy_cesena.rst:63
+msgid "Satellite Map overlapped with information"
+msgstr ""
 
 #: ../../source/site/about/case_studies/italy_cesena.rst:50
 msgid ""
@@ -286,3 +295,11 @@ msgstr ""
 "programa QGIS, sob supervisão de Alessandra Borghi, docente da cadeira de "
 "Topografia e Mecânica Racional do departamento de Engenharia da Universidade"
 " eCampus."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""

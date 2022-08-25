@@ -5,15 +5,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-28 17:39+0100\n"
-"PO-Revision-Date: 2019-09-05 17:58+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-02-28 18:29+0000\n"
+"Last-Translator: Tomas Straupis, 2015-2016\n"
 "Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: lt\n"
 "Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+#: ../../source/site/forusers/visualchangelog28/index.rst:5
+msgid "Changelog for QGIS 2.8"
+msgstr "QGIS 2.8 pakeitimai"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:7
 msgid ""
@@ -118,6 +123,10 @@ msgid ""
 "<http://www.opw.ie/>`_"
 msgstr "SIDABRINIS rėmėjas: `Office of Public Works, Airija, Airija <http://www.opw.ie/>`_"
 
+#: ../../source/site/forusers/visualchangelog28/index.rst:43
+msgid "BRONZE Sponsor: `GIS3W, Italy <http://www.gis3w.it/>`_"
+msgstr "BRONZINIS rėmėjas: `GIS3W, Italy <http://www.gis3w.it/>`_"
+
 #: ../../source/site/forusers/visualchangelog28/index.rst:44
 msgid "BRONZE Sponsor: `www.molitec.it, Italy <http://www.molitec.it/>`_"
 msgstr "BRONZINIS rėmėjas: `www.molitec.it, Italija <http://www.molitec.it/>`_"
@@ -130,6 +139,12 @@ msgstr "BRONZINIS rėmėjas: `www.argusoft.de, Vokietija <http://www.argusoft.de
 msgid ""
 "BRONZE Sponsor: `www.openrunner.com, France <http://www.openrunner.com>`_"
 msgstr "BRONZINIS rėmėjas: `www.openrunner.com, Prancūzija <http://www.openrunner.com>`_"
+
+#: ../../source/site/forusers/visualchangelog28/index.rst:47
+msgid ""
+"BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "
+"<http://www.gkg-kassel.de/>`_"
+msgstr "BRONZINIS rėmėjas: `GKG Kassel,(Dr.-Ing. Claas Leiner), Vokietija <http://www.gkg-kassel.de/>`_"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:48
 msgid ""
@@ -911,6 +926,12 @@ msgid ""
 "correctly handles labelling and symbology, etc."
 msgstr "Šioje laidoje yra pradinis žemėlapio pasukimo drobėje palaikymas. Galite pasukti drobę naudodami naują pasukimo valdiklį būsenos juostoje. Pasukimo palaikymas taip pat išplėstas į žemėlapio kūrėją, kad jis teisingai apdorotų etiketes, simbologiją ir pan."
 
+#: ../../source/site/forusers/visualchangelog28/index.rst:496
+msgid ""
+"**This feature was funded by:** `Japan Space Imaging Corporation (JSI) "
+"<http://www.spaceimaging.co.jp/>`_"
+msgstr "**Šią savybę finansavo:** `Japonijos kosmoso vaizdų korporacija (JSI) <http://www.spaceimaging.co.jp/>`_"
+
 #: ../../source/site/forusers/visualchangelog28/index.rst:505
 msgid "User Interface"
 msgstr "Naudotojo sąsaja"
@@ -930,25 +951,13 @@ msgstr "Dabar visi dialogai naudoja nuoseklų projekcijos parinkimo dialogą, ku
 msgid "."
 msgstr "."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:5
-msgid "Changelog for QGIS 2.8"
-msgstr "QGIS 2.8 pakeitimai"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:43
-msgid "BRONZE Sponsor: `GIS3W, Italy <http://www.gis3w.it/>`_"
-msgstr "BRONZINIS rėmėjas: `GIS3W, Italy <http://www.gis3w.it/>`_"
-
-#: ../../source/site/forusers/visualchangelog28/index.rst:496
-msgid ""
-"**This feature was funded by:** `Japan Space Imaging Corporation (JSI) "
-"<http://www.spaceimaging.co.jp/>`_"
-msgstr "**Šią savybę finansavo:** `Japonijos kosmoso vaizdų korporacija (JSI) <http://www.spaceimaging.co.jp/>`_"
-
-#: ../../source/site/forusers/visualchangelog28/index.rst:47
-msgid ""
-"BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany <http://www"
-".gkg-kassel.de/>`_"
-msgstr "BRONZINIS rėmėjas: `GKG Kassel,(Dr.-Ing. Claas Leiner), Vokietija <http://www.gkg-kassel.de/>`_"
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "

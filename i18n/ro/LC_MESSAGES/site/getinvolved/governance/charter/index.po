@@ -4,27 +4,27 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2020
+# Sorin Călinică <scalinica@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-10 10:41+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2020-05-10 08:48+0000\n"
-"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2020\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2022\n"
 "Language-Team: Romanian (https://www.transifex.com/qgis/teams/6144/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:4
 msgid "Charter of the QGIS.ORG Association"
-msgstr ""
+msgstr "Diagrama Asociației QGIS.ORG"
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:6
 msgid "(QGIS.ORG Verein)"
@@ -168,7 +168,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:87
 msgid "Support of research or studies around QGIS."
-msgstr ""
+msgstr "Finanțarea cercetărilor sau studiilor asupra QGIS."
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:89
 msgid "Foster regular meetings of the QGIS community."
@@ -186,11 +186,11 @@ msgstr "4 Entitățile legale ale QGIS.ORG"
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:97
 msgid "The General Meeting (the Voting Members)"
-msgstr ""
+msgstr "Adunarea Generală (Membrii cu Drept de Vot)"
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:98
 msgid "The Board"
-msgstr ""
+msgstr "Consiliul"
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:99
 msgid "Two non-Board members who shall act as financial auditors"
@@ -233,7 +233,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:117
 msgid "Honorary voting members"
-msgstr ""
+msgstr "Membrii cu drept de vot onorifici"
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:120
 msgid "5.2 Composition, appointment and role of voting members"
@@ -282,6 +282,9 @@ msgid ""
 "The user group should democratically nominate one person from within their "
 "ranks to act as their representative within the QGIS.ORG voting membership."
 msgstr ""
+"Grupul de utilizatori ar trebui să nominalizeze în mod democratic o persoană"
+" din rândurile lor pentru a acționa ca reprezentant în cadrul membrilor cu "
+"drept de vot QGIS.ORG."
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:141
 msgid "5.4 Election and eligibility of QGIS Community voting members"
@@ -411,6 +414,10 @@ msgid ""
 "enforce any membership levels - the organizations pick their own membership "
 "level based on self-assessment."
 msgstr ""
+"Deoarece QGIS.ORG este un proiect la nivel mondial iar diversele companii, "
+"ONG-uri sau organizații guvernamentale au perspective financiare diferite, "
+"nu aplicăm niciun criteriu de departajare - organizațiile își aleg propriul "
+"nivel de sponsorizare, pe baza autoevaluării."
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:190
 msgid ""
@@ -419,12 +426,19 @@ msgid ""
 "applications for sustaining membership and ongoing support memberships as "
 "deemed appropriate."
 msgstr ""
+"Acceptarea membrilor susținători va fi supusă la discreția și aprobarea "
+"consiliului de administrație, care își rezervă dreptul de a accepta sau de a"
+" respinge cererile de aderare și de menținere a calității de membru, după "
+"cum consideră necesar."
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:192
 msgid ""
 "The fees for membership levels and guidelines for management of sustaining "
 "members are provided in the governance section of the QGIS.ORG website."
 msgstr ""
+"Taxele nivelurilor de sponsorizare și liniile directoare pentru managementul"
+" membrilor susținători sunt expuse în secțiunea guvernanței site-ului web "
+"QGIS.ORG."
 
 #: ../../source/site/getinvolved/governance/charter/index.rst:195
 msgid "7 The board"
@@ -460,120 +474,132 @@ msgid ""
 "elected by the general meeting. In an election of board members, the nominee"
 " receiving the greatest number of votes for each position (chair, vice "
 "chair, treasurer) shall be appointed. A tied election shall trigger a re-"
-"vote until one nominee has the majority. On expiration of a board member’s "
-"term, nominees from within the QGIS PSC shall be put forward by the QGIS "
-"Voting Members. The outgoing board member shall automatically receive a "
-"nomination unless he/she no longer wishes to serve on the board."
+"vote until one nominee has the majority."
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:218
+#: ../../source/site/getinvolved/governance/charter/index.rst:214
+msgid ""
+"Votes of non-elected Chair candidates shall be used as replacement of the "
+"voter’s vice-chair vote."
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/charter/index.rst:217
+msgid ""
+"On expiration of a board member’s term, nominees from within the QGIS "
+"community shall be put forward by the QGIS Voting Members. The outgoing "
+"board member shall automatically receive a nomination unless he/she no "
+"longer wishes to serve on the board."
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/charter/index.rst:222
 msgid "7.2 Terms of members of the board"
 msgstr "7.2 Durata mandatului membrilor consiliului"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:220
+#: ../../source/site/getinvolved/governance/charter/index.rst:224
 msgid "Board members will serve for a two year term."
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:224
+#: ../../source/site/getinvolved/governance/charter/index.rst:228
 msgid "7.3 Composition of the board"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:226
+#: ../../source/site/getinvolved/governance/charter/index.rst:230
 msgid "The board shall include at minimum these roles:"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:228
+#: ../../source/site/getinvolved/governance/charter/index.rst:232
 msgid "Chair"
 msgstr "Președinte"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:229
+#: ../../source/site/getinvolved/governance/charter/index.rst:233
 msgid "Vice-chair"
 msgstr "Vice-președinte"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:230
+#: ../../source/site/getinvolved/governance/charter/index.rst:234
 msgid "Treasurer"
 msgstr "Trezorier"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:233
+#: ../../source/site/getinvolved/governance/charter/index.rst:237
 msgid "7.4 Board and PSC Member remuneration"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:235
+#: ../../source/site/getinvolved/governance/charter/index.rst:239
 msgid ""
 "Board and PSC members will receive no remuneration for their services other "
 "than reimbursement of out-of-pocket expenses incurred when carrying out "
 "activities on behalf of the board."
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:240
+#: ../../source/site/getinvolved/governance/charter/index.rst:244
 msgid "7.5 Replacement of Board Members"
 msgstr "7.5 Înlocuirea membrilor consiliului"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:242
+#: ../../source/site/getinvolved/governance/charter/index.rst:246
 msgid ""
 "In the event of a board member resigning from the board, the PSC shall put "
 "forward from within their ranks a replacement for the board who shall serve "
 "in that position until the next AGM is called."
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:246
+#: ../../source/site/getinvolved/governance/charter/index.rst:250
 msgid "8 The Project Steering Committee (PSC)"
 msgstr "8 Comitetul de Dirijare a Proiectului QGIS (PSC)"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:249
+#: ../../source/site/getinvolved/governance/charter/index.rst:253
 msgid "8.1 Election of PSC members"
 msgstr "8.1 Alegerea membrilor PSC"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:251
+#: ../../source/site/getinvolved/governance/charter/index.rst:255
 msgid ""
-"On expiration of a PSC member’s term, nominees from within the QGIS Voting "
-"Membership shall be put forward by any QGIS Community Member. The outgoing "
+"On expiration of a PSC member’s term, nominees from within the QGIS "
+"Community shall be put forward by any QGIS Community Member. The outgoing "
 "PSC member shall automatically receive a nomination unless he/she no longer "
 "wishes to serve on the PSC. If an incoming PSC member is a Voting Member, "
 "they will relinquish their voting membership in the general meeting on "
 "joining the PSC."
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:257
+#: ../../source/site/getinvolved/governance/charter/index.rst:261
 msgid ""
 "Prior to the election, the outgoing PSC determines the total number of seats"
 " of the incoming committee. QGIS Voting Members shall be allowed a number of"
 " votes equal to the number of PSC memberships up for election and shall be "
-"asked to rank their votes in order of preference. The votes shall be "
-"weighted based on the number of PSC positions being voted for. For example "
-"if three PSC positions are available, each first choice vote shall be worth "
-"3 points, second point vote 2 points and so on. PSC memberships shall be "
-"awarded on the total weighted score of the vote, with the nominee receiving "
-"the greatest score being awarded PSC membership first and so on in "
-"descending order of score of votes received until all PSC memberships have "
-"been allocated. A list of currently serving PSC members shall be maintained "
-"at: https://www.qgis.org/en/site/getinvolved/governance/"
+"asked to rank their votes in order of preference. After removing elected "
+"Board members from the vote results, PSC memberships shall be awarded on the"
+" total vote count, with the nominee receiving the greatest count being "
+"awarded PSC membership first and so on in descending order of number of "
+"votes received until all PSC memberships have been allocated. A list of "
+"currently serving PSC members shall be maintained at: "
+"https://www.qgis.org/en/site/getinvolved/governance/"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:269
+#: ../../source/site/getinvolved/governance/charter/index.rst:272
 msgid "8.2 Terms of members of the PSC"
 msgstr "8.2 Durata mandatului membrilor consiliului"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:271
+#: ../../source/site/getinvolved/governance/charter/index.rst:274
 msgid "PSC members will serve for a two year term."
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:274
+#: ../../source/site/getinvolved/governance/charter/index.rst:277
 msgid "8.3 Honorary PSC members"
 msgstr "8.3 Membrii PSC onorifici"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:276
+#: ../../source/site/getinvolved/governance/charter/index.rst:279
 msgid ""
 "Gary Sherman, as founder of the QGIS project, shall be accorded lifetime "
 "honorary membership on the QGIS PSC from its inception. By common vote, "
 "QGIS.ORG may award any individual a lifetime honorary seat on the PSC."
 msgstr ""
+"Gary Sherman, în calitate de fondator al proiectului QGIS, va primi "
+"calitatea de membru de onoare pe viață în QGIS PSC. Prin vot comun, QGIS.ORG"
+" poate acorda oricărei persoane un loc de onoare pe viață în PSC."
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:281
+#: ../../source/site/getinvolved/governance/charter/index.rst:284
 msgid "9 Administration of QGIS.ORG"
 msgstr "9 Administrarea QGIS.ORG"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:283
+#: ../../source/site/getinvolved/governance/charter/index.rst:286
 msgid ""
 "The annual general meeting (AGM) will be held via a virtual forum The online"
 " location and date is to be determined and communicated by the board in "
@@ -584,7 +610,7 @@ msgid ""
 "protocol."
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:290
+#: ../../source/site/getinvolved/governance/charter/index.rst:293
 msgid ""
 "The meeting shall be open to all QGIS community members. Only voting members"
 " can vote on any motion. Substantial proposals made by QGIS community "
@@ -594,84 +620,84 @@ msgid ""
 "the AGM."
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:296
+#: ../../source/site/getinvolved/governance/charter/index.rst:299
 msgid "The annual general meeting shall deal with the following:"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:298
+#: ../../source/site/getinvolved/governance/charter/index.rst:301
 msgid "Approval of the annual report"
-msgstr ""
+msgstr "Aprobarea raportului anual"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:299
+#: ../../source/site/getinvolved/governance/charter/index.rst:302
 msgid "Approval of the annual financial report"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:300
+#: ../../source/site/getinvolved/governance/charter/index.rst:303
 msgid "Approval of the annual budget"
-msgstr ""
+msgstr "Aprobarea bugetului anual"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:301
+#: ../../source/site/getinvolved/governance/charter/index.rst:304
 msgid "Election of the board chair"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:302
+#: ../../source/site/getinvolved/governance/charter/index.rst:305
 msgid ""
 "The nomination and election for the outgoing board and PSC member "
 "replacements"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:303
+#: ../../source/site/getinvolved/governance/charter/index.rst:306
 msgid ""
 "Confirmation or selection of the financial auditors for the upcoming "
 "financial year"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:304
+#: ../../source/site/getinvolved/governance/charter/index.rst:307
 msgid ""
 "Resolutions / voting of proposals made by the board, the PSC or voting "
 "members"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:305
+#: ../../source/site/getinvolved/governance/charter/index.rst:308
 msgid "Revision of the statutes"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:306
+#: ../../source/site/getinvolved/governance/charter/index.rst:309
 msgid "Deal with any matters arising"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:308
+#: ../../source/site/getinvolved/governance/charter/index.rst:311
 msgid ""
 "All other decisions and competences are the responsibility of the QGIS "
 "Board."
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:310
+#: ../../source/site/getinvolved/governance/charter/index.rst:313
 msgid ""
 "Extraordinary meetings can be convened by the board or on demand of at least"
 " 2/5 of the voting members."
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:313
+#: ../../source/site/getinvolved/governance/charter/index.rst:316
 msgid ""
 "Every officially convened general meeting has a quorum. At elections and for"
 " voting a simple majority (more than 50%) of the present members decides, "
 "except for the cases listed in sections 7.1, 8.1. and 5.4."
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:317
+#: ../../source/site/getinvolved/governance/charter/index.rst:320
 msgid ""
 "The reporting year and the accounting year starts at January 1 and ends at "
 "December 31."
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:319
+#: ../../source/site/getinvolved/governance/charter/index.rst:322
 msgid ""
 "The correspondence of the QGIS.ORG Association will be carried out in "
 "English, unless otherwise requested by the authorities."
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:322
+#: ../../source/site/getinvolved/governance/charter/index.rst:325
 #, python-format
 msgid ""
 "The association can only be dissolved by the general motion with a majority "
@@ -681,29 +707,72 @@ msgid ""
 "voters)."
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:328
+#: ../../source/site/getinvolved/governance/charter/index.rst:331
 msgid "10 Financial arrangements"
 msgstr "10 Dispoziții financiare"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:330
+#: ../../source/site/getinvolved/governance/charter/index.rst:333
 msgid ""
 "The financial revenues of QGIS.ORG shall originate from donations, "
 "memberships, grant funding and other diverse sources."
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:333
+#: ../../source/site/getinvolved/governance/charter/index.rst:336
 msgid "The general meeting shall elect two financial auditors each year."
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:335
+#: ../../source/site/getinvolved/governance/charter/index.rst:338
 msgid ""
 "Limited Liability: the QGIS Association can only be held liable up to the "
 "amount of the current assets of the association. Personal liability of "
 "members of the board or individual other members are excluded."
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:340
+#: ../../source/site/getinvolved/governance/charter/index.rst:343
 msgid ""
 "This charter was approved by the general assembly via Loomio vote on March "
 "17, 2019."
 msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
+
+#~ msgid ""
+#~ "Board members shall also be members of the PSC and shall be nominated and "
+#~ "elected by the general meeting. In an election of board members, the nominee"
+#~ " receiving the greatest number of votes for each position (chair, vice "
+#~ "chair, treasurer) shall be appointed. A tied election shall trigger a re-"
+#~ "vote until one nominee has the majority. On expiration of a board member’s "
+#~ "term, nominees from within the QGIS PSC shall be put forward by the QGIS "
+#~ "Voting Members. The outgoing board member shall automatically receive a "
+#~ "nomination unless he/she no longer wishes to serve on the board."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "On expiration of a PSC member’s term, nominees from within the QGIS Voting "
+#~ "Membership shall be put forward by any QGIS Community Member. The outgoing "
+#~ "PSC member shall automatically receive a nomination unless he/she no longer "
+#~ "wishes to serve on the PSC. If an incoming PSC member is a Voting Member, "
+#~ "they will relinquish their voting membership in the general meeting on "
+#~ "joining the PSC."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Prior to the election, the outgoing PSC determines the total number of seats"
+#~ " of the incoming committee. QGIS Voting Members shall be allowed a number of"
+#~ " votes equal to the number of PSC memberships up for election and shall be "
+#~ "asked to rank their votes in order of preference. The votes shall be "
+#~ "weighted based on the number of PSC positions being voted for. For example "
+#~ "if three PSC positions are available, each first choice vote shall be worth "
+#~ "3 points, second point vote 2 points and so on. PSC memberships shall be "
+#~ "awarded on the total weighted score of the vote, with the nominee receiving "
+#~ "the greatest score being awarded PSC membership first and so on in "
+#~ "descending order of score of votes received until all PSC memberships have "
+#~ "been allocated. A list of currently serving PSC members shall be maintained "
+#~ "at: https://www.qgis.org/en/site/getinvolved/governance/"
+#~ msgstr ""

@@ -6,14 +6,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-19 17:16+0100\n"
-"PO-Revision-Date: 2020-06-05 07:30+0000\n"
-"Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-10-19 11:14+0000\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2014,2016,2018-2020\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
@@ -452,6 +452,14 @@ msgid ""
 "to the registration of trademarks found to be confusingly similar to the "
 "QGIS mark."
 msgstr "**R:** Nu. Permisiunea QGIS nu reprezintă un consimțământ pentru înregistrarea mărcilor comerciale. Pentru a proteja marca QGIS împotriva diluării, nu suntem de acord cu înregistrarea de mărci care se pot confunda până la similitudine cu marca QGIS."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "Please routinely explain in your course that QGIS is free and open source "

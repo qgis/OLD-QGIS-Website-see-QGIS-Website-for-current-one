@@ -9,15 +9,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-05 15:28+0200\n"
-"PO-Revision-Date: 2020-09-25 09:19+0000\n"
-"Last-Translator: Simone Falceri\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:43+0000\n"
+"Last-Translator: Simone Falceri, 2020\n"
 "Language-Team: Italian (http://www.transifex.com/qgis/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: it\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/africa_tiger.rst:4
 msgid ""
@@ -83,6 +84,10 @@ msgid ""
 "standardized workflows (with instructions) for performing common but complex"
 " tasks related to EO data analysis within water resource management."
 msgstr "Un vantaggio chiave di Processing è la capacità di utilizzare senza problemi funzionalità di diversi fornitori di algoritmi per l'elaborazione e l'analisi dei dati. Questo può essere usato per creare modelli di elaborazione automatica e, attraverso un plugin QGIS sviluppato durante il progetto TIGER-NET, per combinare in sequenza gli algoritmi dei diversi fornitori in catene di elaborazione basate su procedure guidate. Questa funzionalità è stata utilizzata per creare una libreria di flussi di lavoro standardizzati (con istruzioni) per l'esecuzione di attività comuni ma complesse relative all'analisi dei dati EO nella gestione delle risorse idriche."
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:22
+msgid "The WOIS graphical user interface"
+msgstr ""
 
 #: ../../source/site/about/case_studies/africa_tiger.rst:22
 msgid ""
@@ -211,3 +216,11 @@ msgid ""
 " (http://rs.geo.tuwien.ac.at/) and Copenhagen (http://www.env.dtu.dk/) as "
 "well as the European Space Agency ( www.esa.int)."
 msgstr "Questo articolo è stato contribuito da Radoslaw Guzinski (sviluppatore del software WOIS) con i contributi dei team tecnici del TIGER-NET presso DHI-GRAS (www.dhi-gras.com), di GeoVille (www.geoville.com), delle università tecniche di Vienna ( http://rs.geo.tuwien.ac.at/) e Copenaghen (http://www.env.dtu.dk/) così come dell'Agenzia Spaziale Europea (www.esa.int)."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""

@@ -1,18 +1,19 @@
 # 
 # Translators:
 # Richard Duivenvoorde <richard@duif.net>, 2016
-# Sorin Călinică <scalinica@gmail.com>, 2015-2016,2019-2020
+# Sorin Călinică <scalinica@gmail.com>, 2015-2016,2019-2021
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-30 12:18+0100\n"
-"PO-Revision-Date: 2020-07-10 08:31+0000\n"
-"Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-09-08 07:59+0000\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2015-2016,2019-2021\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
@@ -84,6 +85,12 @@ msgid ""
 "financial support they provide to this project:"
 msgstr "În fine, am dori să mulțumim sponsorilor noștri oficiali pentru sprijinul financiar de neprețuit, pe care l-au oferit acestui proiect:"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:49
+msgid ""
+"**GOLD Sponsor:** `Asia Air Survey, Japan, "
+"<http://www.asiaairsurvey.com/>`__"
+msgstr "**Sponsor de AUR:** `Asia Air Survey, Japonia <http://www.asiaairsurvey.com/>`__"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:51
 msgid ""
 "SILVER Sponsor: `Sourcepole AG, Switzerland <http://www.sourcepole.com/>`__"
@@ -118,6 +125,12 @@ msgstr "Sponsor de BRONZ: `www.argusoft.de, Germania <http://www.argusoft.de>`__
 msgid ""
 "BRONZE Sponsor: `www.openrunner.com, France <http://www.openrunner.com>`__"
 msgstr "Sponsor de BRONZ: `www.openrunner.com, Franța <http://www.openrunner.com>`__"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:64
+msgid ""
+"BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "
+"<http://www.gkg-kassel.de/>`__"
+msgstr "Sponsor de BRONZ: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germania <http://www.gkg-kassel.de/>`__"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:66
 msgid ""
@@ -235,6 +248,10 @@ msgstr "De acum, este posibil să editați parametrii îmbinării (cum ar fi pre
 msgid "|image14|"
 msgstr "|image14|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:648
+msgid "image14"
+msgstr "image14"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:123
 msgid "Feature: Layers with joins can now be filtered"
 msgstr "Funcționalitate: Straturile cu îmbinări pot fi filtrate"
@@ -250,9 +267,13 @@ msgstr "Înainte de Versiunea 2.10 un strat nu putea fi filtrat dacă avea cel p
 msgid "|image15|"
 msgstr "|image15|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:649
+msgid "image15"
+msgstr "image15"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:132
 msgid "Feature: General improvements"
-msgstr "Funcționalitate:  Îmbunătățiri generale"
+msgstr "Funcționalitate: Îmbunătățiri generale"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:134
 msgid ""
@@ -291,6 +312,10 @@ msgstr " Îmbunătățiri aduse UI și fluxului de lucru din fereastra propriet�
 msgid "|image16|"
 msgstr "|image16|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:650
+msgid "image16"
+msgstr "image16"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:149
 msgid "Feature: Improved handling of potential project file overwrites"
 msgstr "Funcționalitate: Gestiune îmbunătățită pentru suprascrierea potențială a proiecției proiectului"
@@ -313,6 +338,10 @@ msgstr "**Această funcționalitate a fost dezvoltată de:** `Jürgen Fischer (n
 #: ../../source/site/forusers/visualchangelog210/index.rst:159
 msgid "|image17|"
 msgstr "|image17|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:651
+msgid "image17"
+msgstr "image17"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:162
 msgid "Feature: New geometry engine"
@@ -353,6 +382,10 @@ msgstr "**Această funcționalitate a fost finanțată de:** `KantonSolothurn, S
 msgid "|image18|"
 msgstr "|image18|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:652
+msgid "image18"
+msgstr "image18"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:196
 msgid "Analysis tools"
 msgstr "Instrumentele de analiză"
@@ -374,6 +407,10 @@ msgstr "Poate afișa statistici sumare (cum ar fi media, abaterea standard, ...)
 msgid "|image1|"
 msgstr "|image1|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:635
+msgid "image1"
+msgstr "image1"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:211
 msgid "Feature: Use logarithmic functions in the raster calculator"
 msgstr "Funcționalitate: Utilizarea funcțiilor logaritmice din calculatorul raster"
@@ -389,6 +426,10 @@ msgstr "Calculatorul raster (``Raster -> Raster Calculator`` din meniul QGIS) es
 #: ../../source/site/forusers/visualchangelog210/index.rst:218
 msgid "|image2|"
 msgstr "|image2|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:636
+msgid "image2"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:221
 msgid "Feature: New zonal statistics features"
@@ -427,6 +468,10 @@ msgstr "Rețineți că statisticile zonale reprezintă un 'plugin de bază' (un 
 msgid "|image3|"
 msgstr "|image3|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:637
+msgid "image3"
+msgstr "image3"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:240
 msgid "Browser"
 msgstr "Navigatorul"
@@ -449,6 +494,10 @@ msgstr "Atunci când se utilizează panourile de andocare ale Navigatorului QGIS
 msgid "|image4|"
 msgstr "|image4|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:638
+msgid "image4"
+msgstr "image4"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:256
 msgid "Feature: New browser icon"
 msgstr "Funcționalitate: O nouă pictogramă pentru navigator"
@@ -468,13 +517,17 @@ msgstr "Navigatorul QGIS este o aplicație separată, independentă, care vă pe
 msgid "|image5|"
 msgstr "|image5|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:639
+msgid "image5"
+msgstr "image5"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:269
 msgid "Data Providers"
 msgstr "Furnizorii de date"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:272
 msgid "Feature: DXF Export Improvements"
-msgstr "Funcționalitate:  Îmbunătățiri aduse Exportului DXF"
+msgstr "Funcționalitate: Îmbunătățiri aduse Exportului DXF"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:274
 msgid ""
@@ -500,6 +553,10 @@ msgstr "**Această funcționalitate a fost finanțată de:** Comunitățile din 
 #: ../../source/site/forusers/visualchangelog210/index.rst:291
 msgid "|image6|"
 msgstr "|image6|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:640
+msgid "image6"
+msgstr "image6"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:294
 msgid "Feature: PostGIS provider side expression filters"
@@ -537,6 +594,10 @@ msgstr "``QgsVectorLayer::getFeatures( expression )``"
 msgid "|image7|"
 msgstr "|image7|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:641
+msgid "image7"
+msgstr "image7"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:316
 msgid "Data management"
 msgstr "Gestiunea datelor"
@@ -572,6 +633,10 @@ msgstr "**Această funcționalitate a fost finanțată de:** `City of Uster, Elv
 msgid "|image8|"
 msgstr "|image8|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:642
+msgid "image8"
+msgstr "image8"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:336
 msgid "Feature: Line edit with auto-completer for ValueRelation edit widget"
 msgstr "Funcționalitate: Linie de editare cu auto-completare pentru widget-ul ValueRelation"
@@ -586,6 +651,10 @@ msgstr "Widgetul de editare a relației dintre valorile straturilor vectoriale (
 #: ../../source/site/forusers/visualchangelog210/index.rst:343
 msgid "|image9|"
 msgstr "|image9|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:643
+msgid "image9"
+msgstr "image9"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:346
 msgid "Feature: Improvements to DB Manager"
@@ -631,6 +700,10 @@ msgstr "**Aceste funcționalități au fost dezvoltate de**: Hugo Mercier / Osla
 msgid "|image10|"
 msgstr "|image10|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:644
+msgid "image10"
+msgstr "image10"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:370
 msgid "Feature: Filter chaining for relation reference widget"
 msgstr "Funcționalitate: Înlănțuirea filtrelor pentru widgetul de referință a relațiilor"
@@ -657,13 +730,17 @@ msgstr "**Această funcționalitate a fost finanțată de:** `SIGE <http://www.s
 msgid "|image11|"
 msgstr "|image11|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:645
+msgid "image11"
+msgstr "image11"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:391
 msgid "Diagrams"
 msgstr "Diagrame"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:394
 msgid "Feature: Diagram improvements"
-msgstr "Funcționalitate:  Îmbunătățiri aduse diagramei"
+msgstr "Funcționalitate: Îmbunătățiri aduse diagramei"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:396
 msgid ""
@@ -693,6 +770,10 @@ msgstr "Clasele diagramei sunt acum afișate în legenda stratului"
 #: ../../source/site/forusers/visualchangelog210/index.rst:406
 msgid "|image12|"
 msgstr "|image12|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:646
+msgid "image12"
+msgstr "image12"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:409
 msgid "Digitising"
@@ -731,6 +812,10 @@ msgstr "ancora rotației este definită prin ``CTRL+click`` și nu prin deplasar
 msgid "|image13|"
 msgstr "|image13|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:647
+msgid "image13"
+msgstr "image13"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:428
 msgid "Labelling"
 msgstr "Etichetarea"
@@ -752,13 +837,17 @@ msgstr "Când este setată în acest mod, alinierea textului pentru etichete est
 msgid "|image19|"
 msgstr "|image19|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:653
+msgid "image19"
+msgstr "image19"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:443
 msgid "Map Composer"
 msgstr "Compozitorul de Hărți"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:446
 msgid "Feature: Add scalebar sizing mode to fit a desired scalebar width"
-msgstr "Funcționalitate: Adăugați modul de dimensionare a scării grafice pentru a se potrivi cu lățimea dorită pentru scară"
+msgstr "Funcționalitate: S-a introdus modul de dimensionare a scării grafice în scopul încadrării într-o lățime dată"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:448
 msgid ""
@@ -794,13 +883,17 @@ msgstr "**Această funcționalitate a fost finanțată de:** `Kanton Glarus, Swi
 msgid "|image20|"
 msgstr "|image20|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:654
+msgid "image20"
+msgstr "image20"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:468
 msgid "Programmability"
-msgstr "Programabilitatea"
+msgstr "Programabilitate"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:471
 msgid "Feature: Improvements for programmers"
-msgstr "Funcționalitate:  Îmbunătățiri pentru programatori"
+msgstr "Funcționalitate: Îmbunătățiri pentru programatori"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:473
 msgid ""
@@ -840,6 +933,10 @@ msgstr "Plugin-urile pot crea acum propriile lor intrări în widget-ul navigato
 msgid "|image21|"
 msgstr "|image21|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:655
+msgid "image21"
+msgstr "image21"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:490
 msgid "QGIS Server"
 msgstr "QGIS Server"
@@ -872,6 +969,10 @@ msgstr "și modificați valorile toleranței (în pixeli) pentru a se potrivi ne
 msgid "|image22|"
 msgstr "|image22|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:656
+msgid "image22"
+msgstr "image22"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:514
 msgid "Symbology"
 msgstr "Simbologie"
@@ -889,6 +990,10 @@ msgstr "Adăugarea opțiunilor în meniul avansat de randare clasificată, pentr
 #: ../../source/site/forusers/visualchangelog210/index.rst:523
 msgid "|image23|"
 msgstr "|image23|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:657
+msgid "image23"
+msgstr "image23"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:526
 msgid "Feature: Vary symbol sizes using the graduated renderer"
@@ -918,13 +1023,17 @@ msgstr "**Această funcționalitate a fost dezvoltată de:** `Vincent Mora (Osla
 #: ../../source/site/forusers/visualchangelog210/index.rst:565
 #: ../../source/site/forusers/visualchangelog210/index.rst:606
 msgid ""
-"**This feature was funded by:** `Agence de l'eau Adour-Garonne <http://www"
-".eau-adour-garonne.fr/>`__"
+"**This feature was funded by:** `Agence de l'eau Adour-Garonne "
+"<http://www.eau-adour-garonne.fr/>`__"
 msgstr "**Această funcționalitate a fost finanțată de:** `Agence de l'eau Adour-Garonne <http://www.eau-adour-garonne.fr/>`__"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:542
 msgid "|image24|"
 msgstr "|image24|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:658
+msgid "image24"
+msgstr "image24"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:545
 msgid ""
@@ -944,6 +1053,10 @@ msgstr "Această opțiune (situată sub meniul avansat al simbolului) dezactivea
 msgid "|image25|"
 msgstr "|image25|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:659
+msgid "image25"
+msgstr "image25"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:555
 msgid ""
 "Feature: Size scale and rotation have been removed from the advanced menu"
@@ -962,6 +1075,10 @@ msgstr "S-au eliminat ``SizeScale`` și ``Rotation`` din ```Layer -> Properties 
 msgid "|image26|"
 msgstr "|image26|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:660
+msgid "image26"
+msgstr "image26"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:570
 msgid "Feature: Data defined properties for font marker"
 msgstr "Funcționalitate: Proprietăți definite cu ajutorul datelor, pentru fontul marcajului"
@@ -975,6 +1092,10 @@ msgstr "Cele mai multe proprietăți ale marcajului de tip font pot fi de acum d
 #: ../../source/site/forusers/visualchangelog210/index.rst:575
 msgid "|image27|"
 msgstr "|image27|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:661
+msgid "image27"
+msgstr "image27"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:578
 msgid "Feature: Visualise and modify the graduated renderer using a histogram"
@@ -1001,6 +1122,10 @@ msgstr "**Această funcționalitate a fost dezvoltată de:** `Nyall Dawson <http
 #: ../../source/site/forusers/visualchangelog210/index.rst:588
 msgid "|image28|"
 msgstr "|image28|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:662
+msgid "image28"
+msgstr "image28"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:591
 msgid ""
@@ -1030,6 +1155,10 @@ msgstr "Un asistent, cu previzualizare, este accesibil prin intermediul butonulu
 #: ../../source/site/forusers/visualchangelog210/index.rst:608
 msgid "|image29|"
 msgstr "|image29|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:663
+msgid "image29"
+msgstr "image29"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:611
 msgid "Feature: Live layer effects for layers and symbol layers"
@@ -1065,17 +1194,21 @@ msgstr "**Această funcționalitate a fost finanțată de:** `o inițiativă de 
 msgid "|image30|"
 msgstr "|image30|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:49
-msgid ""
-"**GOLD Sponsor:** `Asia Air Survey, Japan, "
-"<http://www.asiaairsurvey.com/>`__"
-msgstr "**Sponsor de AUR:** `Asia Air Survey, Japonia <http://www.asiaairsurvey.com/>`__"
+#: ../../source/site/forusers/visualchangelog210/index.rst:664
+msgid "image30"
+msgstr "image30"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:64
-msgid ""
-"BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany <http://www"
-".gkg-kassel.de/>`__"
-msgstr "Sponsor de BRONZ: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germania <http://www.gkg-kassel.de/>`__"
+#: ../../source/site/forusers/visualchangelog210/index.rst:634
+msgid "image0"
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "**GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"
 #~ msgstr ""

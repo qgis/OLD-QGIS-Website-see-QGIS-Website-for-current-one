@@ -7,47 +7,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-08-07 15:40+0200\n"
-"PO-Revision-Date: 2017-09-20 09:29+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-08-07 14:36+0000\n"
+"Last-Translator: Médéric RIBREUX <mederic.ribreux__translate@medspx.fr>, 2015\n"
 "Language-Team: French (http://www.transifex.com/qgis/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: fr\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/india_guwahati.rst:3
 msgid ""
 "Trainings & Research activities using QGIS at NIRD&PR-NERC, Guwahati, India"
 msgstr "Utilisation de QGIS pour des activités de recherche et de formation au NIRD&PR-NERC à Guwahati en Inde"
-
-#: ../../source/site/about/case_studies/india_guwahati.rst:13
-msgid ""
-"There is a question why QGIS only when other software like uDig, MapWindow, "
-"gvSIG, GRASS are also there. The answer lies in the facts that QGIS is an "
-"OSGeo incubated project, less complex, its development is very fast and "
-"associated with huge community of users and developers and lastly authors "
-"expertise. With its latest version of 2.4, software is capable of satisfying"
-" the all needs of grass root rural development executors in India with "
-"satisfying the present queries and wishes for future."
-msgstr "Il y a une interrogation sur pourquoi utiliser seulement QGIS alors qu'il existe d'autres logiciels comme uDig, MapWindow, gvSIG, GRASS. La réponse réside dans le fait que QGIS est un projet incubé au sein de l'OSGeo, qu'il est moins complexe, que son développement est très rapide et associée avec une très forte communauté d'utilisateurs et de développeurs et enfin vis à vis de l'expertise des auteurs. Avec sa dernière version 2.4, le logiciel est capable de satisfaire les besoins de tous les acteurs de base du développement rural en Inde pour les présentes requêtes et souhaits pour l'avenir."
-
-#: ../../source/site/about/case_studies/india_guwahati.rst:23
-msgid "Training course at NIRD&PR-NERC, Guwahati"
-msgstr "Cycle de formation au NIRD&PR-NERC de Guwahati"
-
-#: ../../source/site/about/case_studies/india_guwahati.rst:27
-msgid "Conducted QGIS training courses and participants"
-msgstr "Formations encadrées sur QGIS et participants"
-
-#: ../../source/site/about/case_studies/india_guwahati.rst:37
-msgid "Authors"
-msgstr "Auteurs"
-
-#: ../../source/site/about/case_studies/india_guwahati.rst:44
-msgid "Alajangi Simhachalam"
-msgstr "Alajangi Simhachalam"
 
 #: ../../source/site/about/case_studies/india_guwahati.rst:5
 msgid ""
@@ -82,6 +56,37 @@ msgid ""
 "maps."
 msgstr "A la base, j'ai été impliqué dans la conduite de formations SIG avec des logiciels propriétaires comme ArcGIS et ERDAS. Mais à la fin des formations, les participants n'étaient pas très satisfaits du fait de ne peut pas pouvoir obtenir les logiciels pour leur pratique personnelle. Nous avons alors trouver la solution en utilisant QGIS. Après l'avoir testé, nous avons eu l'impression qu'il pourrait répondre aux besoins du secteur du développement rural indien. En conséquence, il a été présenté dans les activités de recherche pour préparer des cartes de base telles que celles sur les routes, le drainage, l'installation, la délimitation des bassins versants, etc. et également pour préparer un chargement de données GPS avec leur analyse et des liens hypertexte vers des photos de terrain d'une enquête GPS, etc. En utilisant l'extension Google Earth, nous avons pu réaliser des cartes de couverture et d'utilisation du sol."
 
+#: ../../source/site/about/case_studies/india_guwahati.rst:9
+msgid ""
+"Software was then pursued for the personal use for one year and its new "
+"versions were checked for the enhanced functionalities. During this whenever"
+" author was course coordinator in training, he used QGIS in trainings for "
+"introduction and feedbacks."
+msgstr "Le logiciel a été alors mis à disposition pour des besoins personnels pendant un an et les nouvelles versions ont été inspectées au niveau des fonctionnalités avancées. Durant cette période, lorsqu'un auteur était coordinateur de formation, il utilisait QGIS dans les formations afin de le présenter et d'obtenir des retours d'impression."
+
+#: ../../source/site/about/case_studies/india_guwahati.rst:11
+msgid ""
+"QGIS is being used in GIS trainings at the centre. Further it is being "
+"messaged and advised in all trainings that no commercial GIS software should"
+" be purchased at District (administrative unit in India after Nation and "
+"State) and below, if real requirement is not felt and this saving may be "
+"used for purchase of hardware like GPSs, computers etc. In the training we "
+"have been introduced to participants Georeferencing, database creation, "
+"digitization, editing, analysis and print composer etc. After introducing "
+"QGIS, we are getting good feedback from various officials and students."
+msgstr "QGIS est utilisé pour les formations SIG du centre. En outre, il est suggéré et conseillé pour toutes les formations de ne pas pas acheter de logiciel SIG commercial au niveau du District (unité administrative en Inde après la Nation et l’État) ou inférieur s'il n'y a pas de réelle exigence ressentie afin que ce gain puisse être utilisé pour l'achat de matériel comme les GPS, les ordinateurs, etc. Dans la formation, nous avons introduit aux participants des éléments sur le géo-référencement, la création de base de données, la numérisation, l'édition, l'analyse, le composeur d'impression, etc. Après avoir introduit QGIS, nous avons un retour d'expérience positif de nombreux officiels et étudiants."
+
+#: ../../source/site/about/case_studies/india_guwahati.rst:13
+msgid ""
+"There is a question why QGIS only when other software like uDig, MapWindow, "
+"gvSIG, GRASS are also there. The answer lies in the facts that QGIS is an "
+"OSGeo incubated project, less complex, its development is very fast and "
+"associated with huge community of users and developers and lastly authors "
+"expertise. With its latest version of 2.4, software is capable of satisfying"
+" the all needs of grass root rural development executors in India with "
+"satisfying the present queries and wishes for future."
+msgstr "Il y a une interrogation sur pourquoi utiliser seulement QGIS alors qu'il existe d'autres logiciels comme uDig, MapWindow, gvSIG, GRASS. La réponse réside dans le fait que QGIS est un projet incubé au sein de l'OSGeo, qu'il est moins complexe, que son développement est très rapide et associée avec une très forte communauté d'utilisateurs et de développeurs et enfin vis à vis de l'expertise des auteurs. Avec sa dernière version 2.4, le logiciel est capable de satisfaire les besoins de tous les acteurs de base du développement rural en Inde pour les présentes requêtes et souhaits pour l'avenir."
+
 #: ../../source/site/about/case_studies/india_guwahati.rst:15
 msgid ""
 "The applications of software during training are generally concentrated on "
@@ -94,6 +99,14 @@ msgid ""
 "Windows8 OS. Per training programme number of trainees remains between "
 "20-30."
 msgstr "Les applications des logiciels au cours de la formation sont généralement concentrés sur la cartographie des ressources, des infrastructures rurales, les lignes de partage des eaux et sur le schéma national de garantie de l'emploi rural Mahatma Gandhi (MGNREGS). Ces deux sujets sont des sujets porteurs du gouvernement Indien. Les données raster et vecteur utilisées dans la formation sont principalement open source et locales. Les  participants sont invités à venir avec leurs propres données voire leur données locales si disponibles pour travailler. La formation est dispensée dans un laboratoire équipé de 22 ordinateurs i7, 4Go de RAM et sous Windows 8 Le nombre moyen de stagiaires lors de ces formations est d'environ 20 à 30."
+
+#: ../../source/site/about/case_studies/india_guwahati.rst:23
+msgid "Training course at NIRD&PR-NERC, Guwahati"
+msgstr "Cycle de formation au NIRD&PR-NERC de Guwahati"
+
+#: ../../source/site/about/case_studies/india_guwahati.rst:27
+msgid "Conducted QGIS training courses and participants"
+msgstr "Formations encadrées sur QGIS et participants"
 
 #: ../../source/site/about/case_studies/india_guwahati.rst:29
 msgid ""
@@ -126,31 +139,27 @@ msgid ""
 "initiated."
 msgstr "Chaque mois une formation est conduite avec 20-30 participants, ce nombre augmente chaque mois. Les avis sur les formations restent très positifs et encourageants. Des certificats sont délivrés aux participants à la fin de leur formation. Des livrets de cours sont fournis en version papier ainsi que des tutoriels et les données de travail en version numérique, mais il est projeté de créer des DVD contenant des vidéos de captures d'écran et de démonstration en anglais. Des certificats et des programmes diplômants pourraient être mis en place prochainement."
 
+#: ../../source/site/about/case_studies/india_guwahati.rst:37
+msgid "Authors"
+msgstr "Auteurs"
+
+#: ../../source/site/about/case_studies/india_guwahati.rst:44
+msgid "Alajangi Simhachalam"
+msgstr "Alajangi Simhachalam"
+
 #: ../../source/site/about/case_studies/india_guwahati.rst:46
 msgid ""
 "This article was contributed in July 2014 by Alajangi Simhachalam, Adjunct "
 "Faculty, NIRD-NERC, Guwahati Website: http://www.nirdnerc.nic.in"
 msgstr "Cet article a été rédigé en juillet 2014 avec la contribution de Alajangi Simhachalam, adjoint de faculté au NIRD-NERC de Guwahati. Site web: http://www.nirdnerc.nic.in"
 
-#: ../../source/site/about/case_studies/india_guwahati.rst:9
-msgid ""
-"Software was then pursued for the personal use for one year and its new "
-"versions were checked for the enhanced functionalities. During this whenever"
-" author was course coordinator in training, he used QGIS in trainings for "
-"introduction and feedbacks."
-msgstr "Le logiciel a été alors mis à disposition pour des besoins personnels pendant un an et les nouvelles versions ont été inspectées au niveau des fonctionnalités avancées. Durant cette période, lorsqu'un auteur était coordinateur de formation, il utilisait QGIS dans les formations afin de le présenter et d'obtenir des retours d'impression."
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/about/case_studies/india_guwahati.rst:11
-msgid ""
-"QGIS is being used in GIS trainings at the centre. Further it is being "
-"messaged and advised in all trainings that no commercial GIS software should"
-" be purchased at District (administrative unit in India after Nation and "
-"State) and below, if real requirement is not felt and this saving may be "
-"used for purchase of hardware like GPSs, computers etc. In the training we "
-"have been introduced to participants Georeferencing, database creation, "
-"digitization, editing, analysis and print composer etc. After introducing "
-"QGIS, we are getting good feedback from various officials and students."
-msgstr "QGIS est utilisé pour les formations SIG du centre. En outre, il est suggéré et conseillé pour toutes les formations de ne pas pas acheter de logiciel SIG commercial au niveau du District (unité administrative en Inde après la Nation et l’État) ou inférieur s'il n'y a pas de réelle exigence ressentie afin que ce gain puisse être utilisé pour l'achat de matériel comme les GPS, les ordinateurs, etc. Dans la formation, nous avons introduit aux participants des éléments sur le géo-référencement, la création de base de données, la numérisation, l'édition, l'analyse, le composeur d'impression, etc. Après avoir introduit QGIS, nous avons un retour d'expérience positif de nombreux officiels et étudiants."
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "Software was then pursued for the personal use for one year and its new "

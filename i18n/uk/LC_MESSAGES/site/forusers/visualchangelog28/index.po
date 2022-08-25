@@ -5,15 +5,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-28 17:39+0100\n"
-"PO-Revision-Date: 2019-09-05 17:58+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-02-28 18:29+0000\n"
+"Last-Translator: alexbruy <alexander.bruy@gmail.com>, 2015\n"
 "Language-Team: Ukrainian (http://www.transifex.com/qgis/qgis-website/language/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: uk\n"
 "Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+#: ../../source/site/forusers/visualchangelog28/index.rst:5
+msgid "Changelog for QGIS 2.8"
+msgstr "Список змін у QGIS 2.8"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:7
 msgid ""
@@ -118,6 +123,10 @@ msgid ""
 "<http://www.opw.ie/>`_"
 msgstr "СРІБНИЙ спонсор `Office of Public Works, Ireland, Ірландія <http://www.opw.ie/>`_"
 
+#: ../../source/site/forusers/visualchangelog28/index.rst:43
+msgid "BRONZE Sponsor: `GIS3W, Italy <http://www.gis3w.it/>`_"
+msgstr "БРОНЗОВИЙ спонсор: `GIS3W, Італія <http://www.gis3w.it/>`_"
+
 #: ../../source/site/forusers/visualchangelog28/index.rst:44
 msgid "BRONZE Sponsor: `www.molitec.it, Italy <http://www.molitec.it/>`_"
 msgstr "БРОНЗОВИЙ спонсор: `www.molitec.it, Італія <http://www.molitec.it/>`_"
@@ -130,6 +139,12 @@ msgstr "БРОНЗОВИЙ спонсор: `www.argusoft.de, Німеччина 
 msgid ""
 "BRONZE Sponsor: `www.openrunner.com, France <http://www.openrunner.com>`_"
 msgstr "БРОНЗОВИЙ спонсор: `www.openrunner.com, Франція <http://www.openrunner.com>`_"
+
+#: ../../source/site/forusers/visualchangelog28/index.rst:47
+msgid ""
+"BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "
+"<http://www.gkg-kassel.de/>`_"
+msgstr "BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Німеччина <http://www.gkg-kassel.de/>`_"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:48
 msgid ""
@@ -911,6 +926,12 @@ msgid ""
 "correctly handles labelling and symbology, etc."
 msgstr "Ця версія QGIS включає початкову підтримку обертання карти. Ви можете обертати карту за допомогою нового віджету у панелі статусу. Обертання карти також підтримується у редакторі макетів."
 
+#: ../../source/site/forusers/visualchangelog28/index.rst:496
+msgid ""
+"**This feature was funded by:** `Japan Space Imaging Corporation (JSI) "
+"<http://www.spaceimaging.co.jp/>`_"
+msgstr "**Реалізацію профінансовано:** `Japan Space Imaging Corporation (JSI) <http://www.spaceimaging.co.jp/>`_"
+
 #: ../../source/site/forusers/visualchangelog28/index.rst:505
 msgid "User Interface"
 msgstr "Графічний інтерфейс"
@@ -930,25 +951,13 @@ msgstr "Всі діалоги тепер використовують однак
 msgid "."
 msgstr "."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:5
-msgid "Changelog for QGIS 2.8"
-msgstr "Список змін у QGIS 2.8"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:43
-msgid "BRONZE Sponsor: `GIS3W, Italy <http://www.gis3w.it/>`_"
-msgstr "БРОНЗОВИЙ спонсор: `GIS3W, Італія <http://www.gis3w.it/>`_"
-
-#: ../../source/site/forusers/visualchangelog28/index.rst:496
-msgid ""
-"**This feature was funded by:** `Japan Space Imaging Corporation (JSI) "
-"<http://www.spaceimaging.co.jp/>`_"
-msgstr "**Реалізацію профінансовано:** `Japan Space Imaging Corporation (JSI) <http://www.spaceimaging.co.jp/>`_"
-
-#: ../../source/site/forusers/visualchangelog28/index.rst:47
-msgid ""
-"BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany <http://www"
-".gkg-kassel.de/>`_"
-msgstr "BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Німеччина <http://www.gkg-kassel.de/>`_"
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "

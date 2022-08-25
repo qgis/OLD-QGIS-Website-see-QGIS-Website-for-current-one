@@ -1,25 +1,25 @@
 # 
 # Translators:
 # Diana Galindo <drgalindog@linuxmail.org>, 2015
-# YoViajo, 2015-2016
+# Eric Armijo, 2015-2016
 # Francisco Javier <fjaviquintana@gmail.com>, 2015
 # Fran Raga <FRANKA1986@gmail.com>, 2017
-# YoViajo, 2016
-# Rodrigo Armesto <rodri_Armesto@hotmail.com>, 2019-2020
+# Eric Armijo, 2016,2021
+# Rodrigo Armesto Baztán <rodri_Armesto@hotmail.com>, 2019-2020
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-08 11:00+0200\n"
-"PO-Revision-Date: 2020-01-02 09:12+0000\n"
-"Last-Translator: Rodrigo Armesto <rodri_Armesto@hotmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-10-19 11:13+0000\n"
+"Last-Translator: Eric Armijo, 2016,2021\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.3.4\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:6
 msgid "Changelog for QGIS 2.0"
@@ -46,6 +46,10 @@ msgstr "Para acceder rápidamente a la funcionalidad de geoprocesamiento, simple
 msgid "|image1|"
 msgstr "|image1|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:732
+msgid "image1"
+msgstr "image1"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:26
 msgid "Feature: Heatmap Plugin Improvements"
 msgstr "Característica: Mejoras en complemento Mapas de Calor"
@@ -60,6 +64,10 @@ msgstr "El complemento de mapa de calor ha visto numerosas mejoras y optimizacio
 #: ../../source/site/forusers/visualchangelog200/index.rst:32
 msgid "|image2|"
 msgstr "|image2|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:733
+msgid "image2"
+msgstr "image2"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:35
 msgid "Feature: Processing Support"
@@ -80,6 +88,10 @@ msgstr "Se ha portado el proyecto SEXTANTE e incorporado a QGIS como funcionalid
 msgid "|image3|"
 msgstr "|image3|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:734
+msgid "image3"
+msgstr "imagen3"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:48
 msgid "Feature: Processing Modeller"
 msgstr "Característica: Modelador de Procesamiento"
@@ -97,6 +109,10 @@ msgstr "Una de las grandes características del nuevo marco de procesamiento es 
 #: ../../source/site/forusers/visualchangelog200/index.rst:57
 msgid "|image4|"
 msgstr "|image4|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:735
+msgid "image4"
+msgstr "imagen4"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:60
 msgid "Application and Project Options"
@@ -122,6 +138,10 @@ msgstr "Con QGIS 2.0 puede especificar qué debe hacer QGIS cuando se inicia: ``
 msgid "|image5|"
 msgstr "|image5|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:736
+msgid "image5"
+msgstr "imagen5"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:77
 msgid "Feature: System environment variables"
 msgstr "Característica: Variables de ambiente del sistema"
@@ -141,6 +161,10 @@ msgstr "Las variables de entorno actuales del sistema ahora se pueden ver y much
 msgid "|image6|"
 msgstr "|image6|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:737
+msgid "image6"
+msgstr "imagen6"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:90
 msgid "Feature: User-defined zoom scales"
 msgstr "Característica: Escalas de acercamiento definidas por el usuario"
@@ -158,6 +182,10 @@ msgstr "Ahora se puede configurar una lista de escalas de zoom para la aplicaci�
 #: ../../source/site/forusers/visualchangelog200/index.rst:99
 msgid "|image7|"
 msgstr "|image7|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:738
+msgid "image7"
+msgstr "imagen7"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:102
 msgid "Browser"
@@ -217,6 +245,10 @@ msgstr "Capa ``Propiedades`` ahora tiene un mejor diseño visual"
 msgid "|image8|"
 msgstr "|image8|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:739
+msgid "image8"
+msgstr "image8"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:125
 msgid "Data Providers"
 msgstr "Proveedores de Datos"
@@ -240,6 +272,10 @@ msgstr "El sistema del proveedor de datos ráster ha sido completamente revisado
 msgid "|image9|"
 msgstr "|image9|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:740
+msgid "image9"
+msgstr "imagen9"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:142
 msgid "Feature: Oracle Spatial support"
 msgstr "Característica: Soporte para Oracle Spatial"
@@ -251,6 +287,10 @@ msgstr "QGIS 2.0 ahora incluye soporte para Oracle Spatial."
 #: ../../source/site/forusers/visualchangelog200/index.rst:146
 msgid "|image10|"
 msgstr "|image10|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:741
+msgid "image10"
+msgstr "imagen10"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:149
 msgid "Feature: Web Coverage Service provider added"
@@ -281,6 +321,10 @@ msgstr "Muchos productos de imágenes ráster tienen una gran cantidad de valore
 msgid "|image11|"
 msgstr "|image11|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:742
+msgid "image11"
+msgstr "image11"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:168
 msgid "Feature: WMS identify format"
 msgstr "Característica: Formato de identificar WMS"
@@ -299,6 +343,10 @@ msgstr "Ahora es posible seleccionar el formato de los resultados de la herramie
 msgid "|image12|"
 msgstr "|image12|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:743
+msgid "image12"
+msgstr "image12"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:181
 msgid "Feature: WMTS Support"
 msgstr "Característica: Soporte WMTS"
@@ -314,6 +362,10 @@ msgstr "El cliente WMS en QGIS ahora admite WMTS (Servicios Web de Tesela de Map
 #: ../../source/site/forusers/visualchangelog200/index.rst:188
 msgid "|image13|"
 msgstr "|image13|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:744
+msgid "image13"
+msgstr "imagen13"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:191
 msgid "General"
@@ -338,6 +390,10 @@ msgstr "El 'Quantum' en 'Quantum GIS' nunca tuvo un significado particular y la 
 msgid "|image14|"
 msgstr "|image14|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:745
+msgid "image14"
+msgstr "image14"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:207
 msgid "Labelling"
 msgstr "Etiquetado"
@@ -359,6 +415,10 @@ msgstr "El sistema de etiquetado se ha revisado por completo: ahora incluye much
 #: ../../source/site/forusers/visualchangelog200/index.rst:219
 msgid "|image15|"
 msgstr "|image15|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:746
+msgid "image15"
+msgstr "image15"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:222
 msgid "Feature: Expression based label properties"
@@ -396,6 +456,10 @@ msgstr "Tamaño de la zona de influencia"
 #: ../../source/site/forusers/visualchangelog200/index.rst:237
 msgid "|image16|"
 msgstr "|image16|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:747
+msgid "image16"
+msgstr "image16"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:240
 msgid "Feature: Older labelling engine deprecated"
@@ -443,6 +507,10 @@ msgstr "**NOTA**: Existe una *probabilidad muy alta* de que el motor de etiqueta
 #: ../../source/site/forusers/visualchangelog200/index.rst:270
 msgid "|image17|"
 msgstr "|image17|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:748
+msgid "image17"
+msgstr "image17"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:273
 msgid "Layer Legend"
@@ -492,6 +560,10 @@ msgstr "Los iconos de vista previa generados por la capa ráster ahora se pueden
 msgid "|image18|"
 msgstr "|image18|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:749
+msgid "image18"
+msgstr "image18"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:293
 msgid "Feature: Duplicate existing map layer"
 msgstr "Característica: Duplicar la capa de mapa existente"
@@ -506,6 +578,10 @@ msgstr "Duplicar las capas vectoriales y ráster seleccionadas en la leyenda de 
 #: ../../source/site/forusers/visualchangelog200/index.rst:299
 msgid "|image19|"
 msgstr "|image19|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:750
+msgid "image19"
+msgstr "image19"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:302
 msgid "Feature: Multi-layer toggle editing commands"
@@ -523,6 +599,10 @@ msgstr "El usuario ahora puede seleccionar varias capas en la leyenda y, si algu
 msgid "|image20|"
 msgstr "|image20|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:751
+msgid "image20"
+msgstr "image20"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:312
 msgid "Map Composer"
 msgstr "Diseñador de Mapa"
@@ -539,6 +619,10 @@ msgstr "Ahora puede colocar elementos html sobre su mapa."
 msgid "|image21|"
 msgstr "|image21|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:752
+msgid "image21"
+msgstr "image21"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:322
 msgid "Feature: Multipage support"
 msgstr "Característica: Soporte multipágina"
@@ -550,6 +634,10 @@ msgstr "Una ventana única de diseñador ahora puede contener más de una págin
 #: ../../source/site/forusers/visualchangelog200/index.rst:326
 msgid "|image22|"
 msgstr "|image22|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:753
+msgid "image22"
+msgstr "image22"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:329
 msgid "Feature: Expressions in composer labels"
@@ -580,6 +668,10 @@ msgstr "Cuando la generación de atlas está habilitada, los valores de atributo
 msgid "|image23|"
 msgstr "|image23|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:754
+msgid "image23"
+msgstr "image23"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:358
 msgid "Feature: Auto snap lines"
 msgstr "Característica: Auto ajustar líneas"
@@ -594,6 +686,10 @@ msgstr "Tener elementos de mapa bien alineados es fundamental para hacer buenos 
 #: ../../source/site/forusers/visualchangelog200/index.rst:364
 msgid "|image24|"
 msgstr "|image24|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:755
+msgid "image24"
+msgstr "image24"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:367
 msgid "Feature: Manual Snap Lines"
@@ -611,6 +707,10 @@ msgstr "A veces necesita alinear objetos a una distancia determinada en el compo
 msgid "|image25|"
 msgstr "|image25|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:756
+msgid "image25"
+msgstr "image25"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:377
 msgid "Feature: Map series generation"
 msgstr "Característica: Generación de series de mapa"
@@ -626,6 +726,10 @@ msgstr "¿Alguna vez has necesitado generar una serie de mapas? Por supuesto que
 #: ../../source/site/forusers/visualchangelog200/index.rst:384
 msgid "|image26|"
 msgstr "|image26|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:757
+msgid "image26"
+msgstr "image26"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:387
 msgid "Feature: Automatic overview support in map frame"
@@ -644,6 +748,10 @@ msgstr "Necesita mostrar el área actual del marco del mapa principal en una ven
 #: ../../source/site/forusers/visualchangelog200/index.rst:396
 msgid "|image27|"
 msgstr "|image27|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:758
+msgid "image27"
+msgstr "image27"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:399
 msgid "Feature: Layer blending"
@@ -669,6 +777,10 @@ msgstr "La fusión se puede utilizar en la vista de mapa normal, así como en el
 msgid "|image28|"
 msgstr "|image28|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:759
+msgid "image28"
+msgstr "image28"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:415
 msgid "Feature: HTML Label support"
 msgstr "Característica: Soporte etiqueta HTML"
@@ -683,6 +795,10 @@ msgstr "Se ha agregado soporte HTML para el elemento de etiqueta del compositor 
 #: ../../source/site/forusers/visualchangelog200/index.rst:421
 msgid "|image29|"
 msgstr "|image29|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:760
+msgid "image29"
+msgstr "image29"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:424
 msgid "Feature: Multicolumn composer legend"
@@ -703,6 +819,10 @@ msgstr "La leyenda del compositor ahora admite varias columnas. La división de 
 #: ../../source/site/forusers/visualchangelog200/index.rst:436
 msgid "|image30|"
 msgstr "|image30|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:761
+msgid "image30"
+msgstr "image30"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:439
 msgid "Feature: Updates to map composer management"
@@ -742,6 +862,10 @@ msgstr "Todas las acciones de gestión del diseñador ahora están accesibles di
 msgid "|image31|"
 msgstr "|image31|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:762
+msgid "image31"
+msgstr "image31"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:455
 msgid "Plugins"
 msgstr "Complementos"
@@ -764,6 +888,10 @@ msgstr "En QGIS 1.x, la administración de complementos era algo confusa con dos
 msgid "|image32|"
 msgstr "|image32|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:763
+msgid "image32"
+msgstr "image32"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:471
 msgid "Programmability"
 msgstr "Programabilidad"
@@ -784,9 +912,13 @@ msgstr "La nueva consola Python te da aún más potencia. Ahora con soporte de a
 msgid "|image33|"
 msgstr "|image33|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:764
+msgid "image33"
+msgstr "image33"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:484
 msgid "Feature: Even more expression functions"
-msgstr "Característica: Aún más funciones de expresión"
+msgstr "Prestación: Aún más funciones de expresión"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:486
 msgid ""
@@ -801,9 +933,13 @@ msgstr "Con el motor de expresión cada vez más utilizado a través de QGIS par
 msgid "|image34|"
 msgstr "|image34|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:765
+msgid "image34"
+msgstr "image34"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:495
 msgid "Feature: Custom expression functions"
-msgstr "Característica: Funciones de expresión personalizadas"
+msgstr "Prestación: Funciones de expresión personalizadas"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:497
 msgid ""
@@ -814,6 +950,10 @@ msgstr "Si el motor de expresión no tiene la función que necesita. No es para 
 #: ../../source/site/forusers/visualchangelog200/index.rst:501
 msgid "|image35|"
 msgstr "|image35|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:766
+msgid "image35"
+msgstr "image35"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:504
 msgid "Feature: New cleaner Python API"
@@ -839,6 +979,10 @@ msgstr "La forma en que se leen las características de una capa también se ha 
 msgid "|image36|"
 msgstr "|image36|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:767
+msgid "image36"
+msgstr "image36"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:530
 msgid "Feature: Code compatibility with version 1.x releases"
 msgstr "Característica: Compatibilidad de código con lanzamientos versión 1.x"
@@ -856,6 +1000,10 @@ msgstr "Como se trata de una versión principal, no es completamente compatible 
 #: ../../source/site/forusers/visualchangelog200/index.rst:539
 msgid "|image37|"
 msgstr "|image37|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:768
+msgid "image37"
+msgstr "image37"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:542
 msgid "Feature: Python project macros"
@@ -888,13 +1036,17 @@ msgstr "Se puede configurar si los macros se ejecutarán en las opciones de apli
 msgid "|image38|"
 msgstr "|image38|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:769
+msgid "image38"
+msgstr "image38"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:556
 msgid "Symbology"
 msgstr "Simbología"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:559
 msgid "Feature: Data defined properties"
-msgstr "Característica: Propiedades definidas por datos"
+msgstr "Prestación: Propiedades definidas por datos"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:561
 msgid ""
@@ -906,6 +1058,10 @@ msgstr "Con las nuevas propiedades definidas de datos, es posible controlar el t
 #: ../../source/site/forusers/visualchangelog200/index.rst:565
 msgid "|image39|"
 msgstr "|image39|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:770
+msgid "image39"
+msgstr "image39"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:568
 msgid "Feature: Improved symbol layer management"
@@ -920,6 +1076,10 @@ msgstr "La nueva descripción general de la capa de símbolos utiliza un diseño
 #: ../../source/site/forusers/visualchangelog200/index.rst:573
 msgid "|image40|"
 msgstr "|image40|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:771
+msgid "image40"
+msgstr "image40"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:576
 msgid "Feature: Support for transparency in colour definitions"
@@ -937,6 +1097,10 @@ msgstr "En la mayoría de los lugares donde selecciona colores, QGIS ahora le pe
 msgid "|image41|"
 msgstr "|image41|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:772
+msgid "image41"
+msgstr "image41"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:586
 msgid "Feature: Color Control for Raster Layers"
 msgstr "Característica: Control de color para capas ráster"
@@ -952,6 +1116,10 @@ msgstr "QGIS 2.0 le permite controlar con precisión exactamente cómo desea que
 #: ../../source/site/forusers/visualchangelog200/index.rst:593
 msgid "|image42|"
 msgstr "|image42|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:773
+msgid "image42"
+msgstr "image42"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:596
 msgid "Feature: Copy symbology between layers"
@@ -969,6 +1137,10 @@ msgstr "Ahora es muy fácil copiar la simbología de una capa a otra. Si está t
 msgid "|image43|"
 msgstr "|image43|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:774
+msgid "image43"
+msgstr "image43"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:607
 msgid "Feature: Save styles in your database"
 msgstr "Característica: Guardar estilos en su base de datos"
@@ -983,6 +1155,10 @@ msgstr "Si está utilizando una base de datos almacén de datos vectoriales, aho
 #: ../../source/site/forusers/visualchangelog200/index.rst:613
 msgid "|image44|"
 msgstr "|image44|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:775
+msgid "image44"
+msgstr "image44"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:616
 msgid "Feature: Colour ramp support"
@@ -1001,6 +1177,10 @@ msgstr "Las rampas de color ahora están disponibles en muchos lugares en la con
 msgid "|image45|"
 msgstr "|image45|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:776
+msgid "image45"
+msgstr "image45"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:628
 msgid "Feature: Set custom default styles for all layer types"
 msgstr "Característica: Defininir estilos predeterminados personalizados para todas los tipos de capas"
@@ -1016,6 +1196,10 @@ msgstr "Ahora QGIS le permite controlar cómo se dibujarán las nuevas capas cua
 #: ../../source/site/forusers/visualchangelog200/index.rst:635
 msgid "|image46|"
 msgstr "|image46|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:777
+msgid "image46"
+msgstr "image46"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:638
 msgid "User Interface"
@@ -1036,6 +1220,10 @@ msgstr "Hemos actualizado el tema del icono para usar el tema 'SIG' que introduc
 msgid "|image47|"
 msgstr "|image47|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:778
+msgid "image47"
+msgstr "image47"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:650
 msgid "Feature: Side tabs, collapsable groups"
 msgstr "Característica: Pestañas en lados, grupos que colapsan"
@@ -1050,6 +1238,10 @@ msgstr "Hemos estandarizado el diseño de las pestañas e introducido cuadros de
 #: ../../source/site/forusers/visualchangelog200/index.rst:656
 msgid "|image48|"
 msgstr "|image48|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:779
+msgid "image48"
+msgstr "image48"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:659
 msgid "Feature: Soft notifications"
@@ -1068,6 +1260,10 @@ msgstr "En muchos casos queremos decirle algo, pero no queremos detener su traba
 #: ../../source/site/forusers/visualchangelog200/index.rst:668
 msgid "|image49|"
 msgstr "|image49|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:780
+msgid "image49"
+msgstr "image49"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:671
 msgid "Feature: Application custom font and Qt stylesheet"
@@ -1092,6 +1288,10 @@ msgstr "Se puede acceder a la hoja de estilo de la aplicación GUI QGIS generada
 msgid "|image50|"
 msgstr "|image50|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:781
+msgid "image50"
+msgstr "image50"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:689
 msgid "Feature: Live color chooser dialogs and buttons"
 msgstr "Característica: Diálogos y botones del seleccionador vivo de color"
@@ -1111,6 +1311,10 @@ msgstr "Todos los botones de selección de color en la interfaz se han actualiza
 msgid "|image51|"
 msgstr "|image51|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:782
+msgid "image51"
+msgstr "image51"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:703
 msgid "Feature: SVG Annotations"
 msgstr "Característica: Anotaciones SVG"
@@ -1124,6 +1328,10 @@ msgstr "Con QGIS 2.0 ahora puede agregar anotaciones SVG a su mapa, ya sea ancla
 #: ../../source/site/forusers/visualchangelog200/index.rst:709
 msgid "|image52|"
 msgstr "|image52|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:783
+msgid "image52"
+msgstr "image52"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:712
 msgid "Feature: Drag and drop form builder"
@@ -1141,6 +1349,10 @@ msgstr "QGIS 2.0 admite un gran sistema nuevo para crear formularios de entrada 
 msgid "|image53|"
 msgstr "|image53|"
 
+#: ../../source/site/forusers/visualchangelog200/index.rst:784
+msgid "image53"
+msgstr "image53"
+
 #: ../../source/site/forusers/visualchangelog200/index.rst:722
 msgid "Feature: Default action tool"
 msgstr "Característica: Herramienta de acción predeterminada"
@@ -1156,6 +1368,22 @@ msgstr "Si es usuario de acciones de capa vectorial (pequeñas tareas que se pue
 #: ../../source/site/forusers/visualchangelog200/index.rst:729
 msgid "|image54|"
 msgstr "|image54|"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:785
+msgid "image54"
+msgstr "image54"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:731
+msgid "image0"
+msgstr "image0"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "|image0|"
 #~ msgstr ""

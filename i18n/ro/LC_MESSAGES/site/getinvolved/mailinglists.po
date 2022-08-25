@@ -5,35 +5,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-23 19:14+0000\n"
-"Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:24+0000\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2013-2017\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
-
-#: ../../source/site/getinvolved/mailinglists.rst:23
-msgid "http://lists.osgeo.org/mailman/listinfo/qgis-user"
-msgstr "http://lists.osgeo.org/mailman/listinfo/qgis-user"
-
-#: ../../source/site/getinvolved/mailinglists.rst:33
-msgid "http://lists.osgeo.org/mailman/listinfo/qgis-developer"
-msgstr "http://lists.osgeo.org/mailman/listinfo/qgis-developer"
-
-#: ../../source/site/getinvolved/mailinglists.rst:44
-msgid "http://lists.osgeo.org/mailman/listinfo/qgis-community-team"
-msgstr "http://lists.osgeo.org/mailman/listinfo/qgis-community-team"
-
-#: ../../source/site/getinvolved/mailinglists.rst:54
-msgid "http://lists.osgeo.org/mailman/listinfo/qgis-tr"
-msgstr "http://lists.osgeo.org/mailman/listinfo/qgis-tr"
-
-#: ../../source/site/getinvolved/mailinglists.rst:63
-msgid "http://lists.osgeo.org/mailman/listinfo/qgis-psc"
-msgstr "http://lists.osgeo.org/mailman/listinfo/qgis-psc"
 
 #: ../../source/site/getinvolved/mailinglists.rst:6
 msgid "Mailing lists"
@@ -53,11 +34,38 @@ msgid ""
 "community about training offers."
 msgstr "Vă rugăm să nu utilizați aceste liste de discuții pentru a vă face publicitate serviciilor sau cursurilor dvs. de formare. Utilizați listele de discuții locale, ale grupurilor de utilizatori, pentru a informa comunitatea locală cu privire la ofertele de instruire."
 
+#: ../../source/site/getinvolved/mailinglists.rst:18
+msgid "QGIS Users list"
+msgstr "Lista utilizatorilor QGIS"
+
 #: ../../source/site/getinvolved/mailinglists.rst:20
 msgid ""
 "The main list for user questions: used for discussion of QGIS in general, as"
 " well as specific questions regarding its installation and use."
 msgstr "Lista principală de întrebări din partea utilizatorilor: este folosită pentru discuții generale despre QGIS, precum și pentru întrebări specifice privind instalarea și utilizarea acestuia."
+
+#: ../../source/site/getinvolved/mailinglists.rst:23
+msgid "http://lists.osgeo.org/mailman/listinfo/qgis-user"
+msgstr "http://lists.osgeo.org/mailman/listinfo/qgis-user"
+
+#: ../../source/site/getinvolved/mailinglists.rst:27
+msgid "QGIS Developers list"
+msgstr "Lista dezvoltatorilor QGIS "
+
+#: ../../source/site/getinvolved/mailinglists.rst:29
+msgid ""
+"The main list for questions about the development of QGIS core or plugins. "
+"You can discuss about coding, build process, chime in, collect and discuss "
+"QGIS related UX (User Experience) / usability issues."
+msgstr "Lista principală cu întrebări referitoare la dezvoltarea nucleului QGIS sau a plugin-urilor. Puteți discuta și interveni în probleme de programare, ale procesului de compilare, sau în subiecte legate de UX (experiența personală în utilizarea QGIS) sau de uzabilitate."
+
+#: ../../source/site/getinvolved/mailinglists.rst:33
+msgid "http://lists.osgeo.org/mailman/listinfo/qgis-developer"
+msgstr "http://lists.osgeo.org/mailman/listinfo/qgis-developer"
+
+#: ../../source/site/getinvolved/mailinglists.rst:37
+msgid "QGIS Community team"
+msgstr "Echipa comunității QGIS "
 
 #: ../../source/site/getinvolved/mailinglists.rst:39
 msgid ""
@@ -67,6 +75,14 @@ msgid ""
 "questions."
 msgstr "Această listă tratează teme precum documentația, ghidul de utilizare, site-urile web, blogul, listele de discuții, forumurile și eforturile de traducere. De asemenea, în cazul în care doriți să lucrați după ghidul utilizatorului, această listă este potrivită pentru a adresa întrebări."
 
+#: ../../source/site/getinvolved/mailinglists.rst:44
+msgid "http://lists.osgeo.org/mailman/listinfo/qgis-community-team"
+msgstr "http://lists.osgeo.org/mailman/listinfo/qgis-community-team"
+
+#: ../../source/site/getinvolved/mailinglists.rst:48
+msgid "QGIS Translations"
+msgstr "Traducere QGIS"
+
 #: ../../source/site/getinvolved/mailinglists.rst:50
 msgid ""
 "This list deals with the translation efforts. If you want to work on the "
@@ -74,38 +90,23 @@ msgid ""
 "(GUI), this list is a good starting point to ask your questions."
 msgstr "Această listă este dedicată eforturilor de traducere. Dacă v-ar plăcea să lucrați la traducerea manualelor sau a interfeței grafice cu utilizatorul (GUI), această listă este adecvată întrebărilor dumneavoastră."
 
+#: ../../source/site/getinvolved/mailinglists.rst:54
+msgid "http://lists.osgeo.org/mailman/listinfo/qgis-tr"
+msgstr "http://lists.osgeo.org/mailman/listinfo/qgis-tr"
+
+#: ../../source/site/getinvolved/mailinglists.rst:58
+msgid "QGIS Project Steering Committee (PSC) list"
+msgstr "Lista Comitetului de Dirijare a Proiectului (PSC) QGIS"
+
 #: ../../source/site/getinvolved/mailinglists.rst:60
 msgid ""
 "This list is used to discuss Steering Committee issues related to overall "
 "management and direction of QGIS."
 msgstr "Această listă este utilizată pentru discuții ale Comitetului de Coordonare legate de gestionarea și conducerea generală a QGIS."
 
-#: ../../source/site/getinvolved/mailinglists.rst:18
-msgid "QGIS Users list"
-msgstr "Lista utilizatorilor QGIS"
-
-#: ../../source/site/getinvolved/mailinglists.rst:27
-msgid "QGIS Developers list"
-msgstr "Lista dezvoltatorilor QGIS "
-
-#: ../../source/site/getinvolved/mailinglists.rst:37
-msgid "QGIS Community team"
-msgstr "Echipa comunității QGIS "
-
-#: ../../source/site/getinvolved/mailinglists.rst:48
-msgid "QGIS Translations"
-msgstr "Traducere QGIS"
-
-#: ../../source/site/getinvolved/mailinglists.rst:58
-msgid "QGIS Project Steering Committee (PSC) list"
-msgstr "Lista Comitetului de Dirijare a Proiectului (PSC) QGIS"
-
-#: ../../source/site/getinvolved/mailinglists.rst:29
-msgid ""
-"The main list for questions about the development of QGIS core or plugins. "
-"You can discuss about coding, build process, chime in, collect and discuss "
-"QGIS related UX (User Experience) / usability issues."
-msgstr "Lista principală cu întrebări referitoare la dezvoltarea nucleului QGIS sau a plugin-urilor. Puteți discuta și interveni în probleme de programare, ale procesului de compilare, sau în subiecte legate de UX (experiența personală în utilizarea QGIS) sau de uzabilitate."
+#: ../../source/site/getinvolved/mailinglists.rst:63
+msgid "http://lists.osgeo.org/mailman/listinfo/qgis-psc"
+msgstr "http://lists.osgeo.org/mailman/listinfo/qgis-psc"
 
 #: ../../source/site/getinvolved/mailinglists.rst:66
 msgid "QGIS Web Client 2"
@@ -121,6 +122,14 @@ msgstr "Această listă este utilizată pentru a obține ajutor la configurarea 
 #: ../../source/site/getinvolved/mailinglists.rst:71
 msgid "http://lists.osgeo.org/mailman/listinfo/qgis-qwc2"
 msgstr "http://lists.osgeo.org/mailman/listinfo/qgis-qwc2"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "The main list for questions about the development of QGIS core or plugins"

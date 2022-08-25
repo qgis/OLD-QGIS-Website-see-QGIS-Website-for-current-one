@@ -6,20 +6,21 @@
 # Translators:
 # Jürgen E. Fischer <jef@norbit.de>, 2020
 # Calvin Ngei <calvin.ngei@gmail.com>, 2020
+# 徐保才 <1302638819@qq.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-19 17:16+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2016-11-06 13:06+0000\n"
-"Last-Translator: Calvin Ngei <calvin.ngei@gmail.com>, 2020\n"
+"Last-Translator: 徐保才 <1302638819@qq.com>, 2022\n"
 "Language-Team: Chinese Simplified (https://www.transifex.com/qgis/teams/6144/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: zh-Hans\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -29,6 +30,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:7
 msgid "|image1|"
+msgstr "图像1|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:558
+msgid "image1"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:10
@@ -42,7 +47,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:15
 msgid "**Thanks**"
-msgstr ""
+msgstr "**谢谢**"
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:17
 msgid ""
@@ -88,6 +93,18 @@ msgid ""
 "thanks!"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:37
+msgid "bronze"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:40
+msgid "silver"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:43
+msgid "gold"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:47
 msgid "Gold sponsors ( 9000 EUR )"
 msgstr ""
@@ -96,6 +113,10 @@ msgstr ""
 msgid ""
 "|gold| |qgis-ch| `QGIS Usergroup Switzerland <https://www.qgis.ch/>`_, "
 "Switzerland"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:52
+msgid "qgis-ch"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:58
@@ -108,14 +129,27 @@ msgid ""
 "<http://www.vorarlberg.at/>`_, Austria"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:565
+msgid "Land Vorarlberg"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:63
 msgid ""
 "|silver| |Office of Public Works, Flood Risk Management and Data Management "
 "Section| `Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:564
+msgid ""
+"Office of Public Works, Flood Risk Management and Data Management Section"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:66
 msgid "|silver| |GAIA mbH| `GAIA mbh <http://www.gaia-mbh.de>`_, Germany"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:562
+msgid "GAIA mbH"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:69
@@ -124,10 +158,18 @@ msgid ""
 "Switzerland"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:621
+msgid "sourcepole"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:72
 msgid ""
 "|silver| |QGISusergroupGermany| `QGIS user group Germany "
 "<http://www.qgis.de/>`_, Germany"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:567
+msgid "QGISusergroupGermany"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:77
@@ -138,12 +180,20 @@ msgstr ""
 msgid "|bronze| |2D3D.GIS|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:569
+msgid "2D3D.GIS"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:81
 msgid "`2D3D.GIS <http://www.2d3d-gis.com/>`_"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:82
 msgid "|bronze| |Lutra Consulting|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:570
+msgid "Lutra Consulting"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:84
@@ -154,12 +204,20 @@ msgstr ""
 msgid "|bronze| |Ager Technology|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:571
+msgid "Ager Technology"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:88
 msgid "`Ager Technology <http://www.agertechnology.com/>`_"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:89
 msgid "|bronze| |MappingGIS|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:572
+msgid "MappingGIS"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:91
@@ -170,12 +228,20 @@ msgstr ""
 msgid "|bronze| |Asociación Geoinnova|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:573
+msgid "Asociación Geoinnova"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:95
 msgid "`Asociación Geoinnova <http://geoinnova.org/>`_"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:96
 msgid "|bronze| |Molitec|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:574
+msgid "Molitec"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:98
@@ -186,12 +252,20 @@ msgstr ""
 msgid "|bronze| |BGEO Open GIS, SL|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:575
+msgid "BGEO Open GIS, SL"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:102
 msgid "`BGEO Open GIS, SL <http://www.bgeo.es>`_"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:103
 msgid "|bronze| |NCC Roads AB|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:576
+msgid "NCC Roads AB"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:105
@@ -202,12 +276,20 @@ msgstr ""
 msgid "|bronze| |Cawdor Forestry|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:577
+msgid "Cawdor Forestry"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:109
 msgid "`Cawdor Forestry <http://www.cawdorforestry.com/>`_"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:110
 msgid "|bronze| |National Parks UK|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:578
+msgid "National Parks UK"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:112
@@ -218,6 +300,10 @@ msgstr ""
 msgid "|bronze| |Urbsol|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:597
+msgid "Urbsol"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:116
 msgid "`Urbsol <http://www.urbsol.com.au/>`_"
 msgstr ""
@@ -226,12 +312,20 @@ msgstr ""
 msgid "|bronze| |QGIS user group Denmark|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:580
+msgid "QGIS user group Denmark"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:119
 msgid "`QGIS user group Denmark <http://www.qgis.dk/>`_"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:121
 msgid "|bronze| |Dr. Kerth + Lampe Geo-Infometric GmbH|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:581
+msgid "Dr. Kerth + Lampe Geo-Infometric GmbH"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:123
@@ -243,12 +337,20 @@ msgstr ""
 msgid "|bronze| |QGIS user group Portugal|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:582
+msgid "QGIS user group Portugal"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:126
 msgid "`QGIS user group Portugal <http://www.qgis.pt/>`_"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:128
 msgid "|bronze| |FORNAT AG|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:583
+msgid "FORNAT AG"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:130
@@ -259,12 +361,20 @@ msgstr ""
 msgid "|bronze| |Royal Borough of Windsor and Maidenhead|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:584
+msgid "Royal Borough of Windsor and Maidenhead"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:133
 msgid "`Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:135
 msgid "|bronze| |GEPOL Ltd.|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:585
+msgid "GEPOL Ltd."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:137
@@ -274,6 +384,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog218/index.rst:138
 msgid ""
 "|bronze| |SOLTIG (Soluciones en Tecnologías de Información Geográfica)|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:586
+msgid "SOLTIG (Soluciones en Tecnologías de Información Geográfica)"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:140
@@ -286,6 +400,10 @@ msgstr ""
 msgid "|bronze| |GFI - Gesellschaft für Informationstechnologie mbH|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:587
+msgid "GFI - Gesellschaft für Informationstechnologie mbH"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:144
 msgid ""
 "`GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-"
@@ -296,12 +414,20 @@ msgstr ""
 msgid "|bronze| |Septima|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:588
+msgid "Septima"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:147
 msgid "`Septima <http://www.septima.dk/>`_"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:149
 msgid "|bronze| |GIS Support Sp. z o.o.|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:589
+msgid "GIS Support Sp. z o.o."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:151
@@ -312,12 +438,20 @@ msgstr ""
 msgid "|bronze| |TYC GIS|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:590
+msgid "TYC GIS"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:154
 msgid "`TYC GIS <http://tycgis.com/>`_"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:156
 msgid "|bronze| |GKG Kassel, (Dr.-Ing. Claas Leiner)|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:591
+msgid "GKG Kassel, (Dr.-Ing. Claas Leiner)"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:158
@@ -328,14 +462,22 @@ msgstr ""
 msgid "|bronze| |Teaching Jobs with Footprints|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:592
+msgid "Teaching Jobs with Footprints"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:161
 msgid ""
-"`Teaching Jobs with Footprints <http://www.footprintsrecruiting.com"
-"/teaching-jobs-abroad>`_"
+"`Teaching Jobs with Footprints "
+"<http://www.footprintsrecruiting.com/teaching-jobs-abroad>`_"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:163
 msgid "|bronze| |Gaia3D, Inc.|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:593
+msgid "Gaia3D, Inc."
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:165
@@ -346,12 +488,20 @@ msgstr ""
 msgid "|bronze| |TerreLogiche|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:594
+msgid "TerreLogiche"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:168
 msgid "`TerreLogiche <http://www.terrelogiche.com/>`_"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:170
 msgid "|bronze| |Gis3W|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:595
+msgid "Gis3W"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:172
@@ -362,6 +512,10 @@ msgstr ""
 msgid "|bronze| |Trage Wegen vzw|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:596
+msgid "Trage Wegen vzw"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:175
 msgid "`Trage Wegen vzw <http://www.tragewegen.be/>`_"
 msgstr ""
@@ -370,12 +524,20 @@ msgstr ""
 msgid "|bronze| |KBB Underground Technologies GmbH|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:598
+msgid "KBB Underground Technologies GmbH"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:179
 msgid "`KBB Underground Technologies GmbH <http://www.kbbnet.de/>`_"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:180
 msgid "|bronze| |WhereGroup GmbH & Co. KG|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:599
+msgid "WhereGroup GmbH & Co. KG"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:182
@@ -401,6 +563,10 @@ msgstr ""
 msgid "|image58|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:616
+msgid "image58"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:195
 msgid ""
 "This feature was developed by `Sandro Mani (Sourcepole) "
@@ -420,6 +586,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:205
 msgid "|image59|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:617
+msgid "image59"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:207
@@ -467,6 +637,10 @@ msgstr ""
 msgid "|image60|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:618
+msgid "image60"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:218
 #: ../../source/site/forusers/visualchangelog218/index.rst:233
 #: ../../source/site/forusers/visualchangelog218/index.rst:250
@@ -501,9 +675,13 @@ msgstr ""
 msgid "|image42|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:600
+msgid "image42"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:239
 msgid "Labelling"
-msgstr ""
+msgstr "标注"
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:242
 msgid "Feature: Substitution list support for labeling"
@@ -525,6 +703,10 @@ msgstr ""
 msgid "|image43|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:601
+msgid "image43"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:256
 msgid "Feature: Improved line label placement algorithm"
 msgstr ""
@@ -538,6 +720,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:260
 msgid "|image44|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:602
+msgid "image44"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:262
@@ -558,6 +744,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:272
 msgid "|image45|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:603
+msgid "image45"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:280
@@ -581,6 +771,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:288
 msgid "|image46|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:604
+msgid "image46"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:290
@@ -634,6 +828,10 @@ msgstr ""
 msgid "|image47|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:605
+msgid "image47"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:315
 #: ../../source/site/forusers/visualchangelog218/index.rst:358
 msgid "This feature was funded by DB Fahrwegdienste GmbH"
@@ -649,7 +847,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:321
 msgid "Forms and Widgets"
-msgstr ""
+msgstr "对话框和控件"
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:324
 msgid "Feature: Allow controlling labels for individual edit widgets"
@@ -671,6 +869,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:330
 msgid "|image48|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:606
+msgid "image48"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:332
@@ -706,6 +908,10 @@ msgstr ""
 msgid "|image49|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:607
+msgid "image49"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:352
 msgid "Feature: Client side default field values"
 msgstr ""
@@ -722,6 +928,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:356
 msgid "|image50|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:608
+msgid "image50"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:363
@@ -745,6 +955,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:370
 msgid "|image51|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:609
+msgid "image51"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:372
@@ -774,6 +988,10 @@ msgstr ""
 msgid "|image52|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:610
+msgid "image52"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:392
 msgid "Feature: Processing dissolve algorithm accepts multiple fields"
 msgstr ""
@@ -787,6 +1005,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:396
 msgid "|image53|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:611
+msgid "image53"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:404
@@ -827,6 +1049,10 @@ msgstr ""
 msgid "|image54|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:612
+msgid "image54"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:426
 msgid "Feature: Bounding boxes algorithm"
 msgstr ""
@@ -839,6 +1065,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:430
 msgid "|image55|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:613
+msgid "image55"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:438
@@ -858,6 +1088,10 @@ msgstr ""
 msgid "|image56|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:614
+msgid "image56"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:450
 msgid "Feature: Geometry boundary algorithm"
 msgstr ""
@@ -874,6 +1108,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:454
 msgid "|image57|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:615
+msgid "image57"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:462
@@ -912,6 +1150,10 @@ msgstr ""
 msgid "|image61|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog218/index.rst:619
+msgid "image61"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog218/index.rst:476
 msgid ""
 "This feature was funded by `Lutra Consulting "
@@ -941,6 +1183,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:491
 msgid "|image62|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:620
+msgid "image62"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog218/index.rst:495
@@ -1081,6 +1327,34 @@ msgid ""
 "``line_locate_point``: returns distance along line to nearest line location "
 "closest to specified point"
 msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:559
+msgid "image2"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:560
+msgid "QGIS user group Switzerland"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:561
+msgid "image4"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:568
+msgid "image9"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:579
+msgid "ChameleonJohn"
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "|bronze| |ChameleonJohn|"
 #~ msgstr ""

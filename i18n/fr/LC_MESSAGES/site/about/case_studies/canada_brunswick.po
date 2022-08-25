@@ -9,20 +9,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-12 16:20+0200\n"
-"PO-Revision-Date: 2020-03-19 11:35+0000\n"
-"Last-Translator: MarieSilvestre\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:25+0000\n"
+"Last-Translator: MarieSilvestre, 2014,2020\n"
 "Language-Team: French (http://www.transifex.com/qgis/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: fr\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:3
 msgid "Creating the Fundy Footpath Trail Map with QGIS"
 msgstr "Créer la carte des sentiers de Fundy avec QGIS"
+
+msgid "Fundy Path"
+msgstr ""
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:10
 msgid ""
@@ -83,9 +86,9 @@ msgid ""
 "transferred from the GPS and to shapefile format in QGIS using the GPS "
 "plugin. Free data in vector formats was then obtained from the `Natural "
 "Resources Canada (NRCan) CanVec "
-"<http://geogratis.cgdi.gc.ca/geogratis/en/product/search.do?id=5460AA9D-"
-"54CD-8349-C95E-1A4D03172FDF>`_ website and from `Service New Brunswick (SNB)"
-" online <http://www.snb.ca/gdam-igec/e/2900e_1.asp>`_."
+"<http://geogratis.cgdi.gc.ca/geogratis/en/product/search.do?id=5460AA9D-54CD-8349-C95E-1A4D03172FDF>`_"
+" website and from `Service New Brunswick (SNB) online "
+"<http://www.snb.ca/gdam-igec/e/2900e_1.asp>`_."
 msgstr "Les données ont été collectées à partir d'appareil GPS et également d'autre sources de données gratuites. Les données du chemin (ex: le chemin en lui même, les zone de camping, les passages de marées) ont été collectés avec un Garmin GPSMap 60CSX. Ces données ont ensuite été transférées du GPS et du format shapefile dans AGIS en utilisant le plugin GPS. Les données libres de vecteurs de formats ont été obtenues auprès du site de la  `Natural Resources Canada (NRCan) CanVec <http://geogratis.cgdi.gc.ca/geogratis/en/product/search.do?id=5460AA9D-54CD-8349-C95E-1A4D03172FDF>`_ et du `Service New Brunswick (SNB) online <http://www.snb.ca/gdam-igec/e/2900e_1.asp>`_."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:55
@@ -151,6 +154,7 @@ msgid ""
 msgstr "La carte de randonnées a été imprimée sur du papier résistant et imperméable, pliée puis insérée au dos de la nouvelle édition du Guide de Randonnée du \"Fundy Footpath\". QGIS fut le meilleur et le plus fonctionnel des choix pour la réalisation de cette carte. Étant un logiciel libre, le coût semblait juste pour qu'un volontaire crée la carte pour une organisation non lucrative. Mais le véritable avantage de QGIS est qu'il propose toutes les fonctionnalités et outils requis pour créer une carte très utile et détaillée de A à Z. Je recommanderais donc vivement QGIS pour les utilisateurs novices ou expérimentés."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:98
+#: ../../source/site/about/case_studies/canada_brunswick.rst:116
 msgid "The final Fundy Footpath map with accompanying guidebook"
 msgstr "La carte finale du Fundy Footpath accompagnant le guide."
 
@@ -184,6 +188,14 @@ msgid ""
 " GIS Technologist living in Alberta, Canada."
 msgstr "Cet article est une contribution de Jarrett Totton en Janvier 2013. Jarrett est technicien SIG en Alberta au Canada."
 
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
+
 #~ msgid ""
 #~ "The trail was created, is maintained, and promoted by a group of volunteers "
 #~ "known as the Fundy Hiking Trail Association Inc. (FHTA)(1975). As a non-"
@@ -214,6 +226,5 @@ msgstr "Cet article est une contribution de Jarrett Totton en Janvier 2013. Jarr
 #~ msgstr ""
 
 #~ msgid ""
-#~ "http://geogratis.cgdi.gc.ca/geogratis/en/product/search.do?id=5460AA9D-"
-#~ "54CD-8349-C95E-1A4D03172FDF"
+#~ "http://geogratis.cgdi.gc.ca/geogratis/en/product/search.do?id=5460AA9D-54CD-8349-C95E-1A4D03172FDF"
 #~ msgstr ""

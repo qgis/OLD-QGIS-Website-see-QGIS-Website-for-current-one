@@ -4,21 +4,22 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 # 
 # Translators:
-# fairtommy <fairtommy@gmail.com>, 2020
+# tomoyuki arai <tarai.3367@gmail.com>, 2022
+# fairtommy <fairtommy@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-10 10:41+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2020-05-10 08:48+0000\n"
-"Last-Translator: fairtommy <fairtommy@gmail.com>, 2020\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2022\n"
 "Language-Team: Japanese (https://www.transifex.com/qgis/teams/6144/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -475,59 +476,67 @@ msgid ""
 "elected by the general meeting. In an election of board members, the nominee"
 " receiving the greatest number of votes for each position (chair, vice "
 "chair, treasurer) shall be appointed. A tied election shall trigger a re-"
-"vote until one nominee has the majority. On expiration of a board member’s "
-"term, nominees from within the QGIS PSC shall be put forward by the QGIS "
-"Voting Members. The outgoing board member shall automatically receive a "
-"nomination unless he/she no longer wishes to serve on the board."
+"vote until one nominee has the majority."
 msgstr ""
-"事は、PSC会員でもあり、総会で指名され、選挙されるものとします。理事の選挙では、各役職（議長、副議長、会計）について投票数が最も多い候補者が任命されます。選挙で可否同数のときは1人の候補者が過半数を得るまで再投票が行われます。理事の任期満了により、QGIS"
-" "
-"PSC内からの候補者がQGIS投票会員によって提出されるものとします。退任する理事は、理事に就任することをもはや希望しない限り、自動的に指名を受けます。"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:218
+#: ../../source/site/getinvolved/governance/charter/index.rst:214
+msgid ""
+"Votes of non-elected Chair candidates shall be used as replacement of the "
+"voter’s vice-chair vote."
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/charter/index.rst:217
+msgid ""
+"On expiration of a board member’s term, nominees from within the QGIS "
+"community shall be put forward by the QGIS Voting Members. The outgoing "
+"board member shall automatically receive a nomination unless he/she no "
+"longer wishes to serve on the board."
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/charter/index.rst:222
 msgid "7.2 Terms of members of the board"
 msgstr "7.2 理事会の会員の任期"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:220
+#: ../../source/site/getinvolved/governance/charter/index.rst:224
 msgid "Board members will serve for a two year term."
 msgstr "理事は2年間任用されます。"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:224
+#: ../../source/site/getinvolved/governance/charter/index.rst:228
 msgid "7.3 Composition of the board"
 msgstr "7.3 理事会の構成"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:226
+#: ../../source/site/getinvolved/governance/charter/index.rst:230
 msgid "The board shall include at minimum these roles:"
 msgstr "理事会は、最低でも以下の役を含むものとします："
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:228
+#: ../../source/site/getinvolved/governance/charter/index.rst:232
 msgid "Chair"
 msgstr "議長"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:229
+#: ../../source/site/getinvolved/governance/charter/index.rst:233
 msgid "Vice-chair"
 msgstr "副議長"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:230
+#: ../../source/site/getinvolved/governance/charter/index.rst:234
 msgid "Treasurer"
 msgstr "会計"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:233
+#: ../../source/site/getinvolved/governance/charter/index.rst:237
 msgid "7.4 Board and PSC Member remuneration"
 msgstr "7.4 理事会およびPSC会員の報酬"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:235
+#: ../../source/site/getinvolved/governance/charter/index.rst:239
 msgid ""
 "Board and PSC members will receive no remuneration for their services other "
 "than reimbursement of out-of-pocket expenses incurred when carrying out "
 "activities on behalf of the board."
 msgstr "理事およびPSC会員は、理事会に代わって活動を行う際に発生する自己負担費用の償還以外に、報酬を受け取ることはありません。"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:240
+#: ../../source/site/getinvolved/governance/charter/index.rst:244
 msgid "7.5 Replacement of Board Members"
 msgstr "7.5 理事の交代"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:242
+#: ../../source/site/getinvolved/governance/charter/index.rst:246
 msgid ""
 "In the event of a board member resigning from the board, the PSC shall put "
 "forward from within their ranks a replacement for the board who shall serve "
@@ -535,56 +544,51 @@ msgid ""
 msgstr ""
 "理事会メンバーが理事会を辞任した場合、PSCは、次のAGMが召集されるまでその役職を務める理事会の代わりに、その職位の中から推薦するものとします。"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:246
+#: ../../source/site/getinvolved/governance/charter/index.rst:250
 msgid "8 The Project Steering Committee (PSC)"
 msgstr "8 プロジェクト運営委員会（PSC）"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:249
+#: ../../source/site/getinvolved/governance/charter/index.rst:253
 msgid "8.1 Election of PSC members"
 msgstr "8.1 PSC会員の選挙"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:251
+#: ../../source/site/getinvolved/governance/charter/index.rst:255
 msgid ""
-"On expiration of a PSC member’s term, nominees from within the QGIS Voting "
-"Membership shall be put forward by any QGIS Community Member. The outgoing "
+"On expiration of a PSC member’s term, nominees from within the QGIS "
+"Community shall be put forward by any QGIS Community Member. The outgoing "
 "PSC member shall automatically receive a nomination unless he/she no longer "
 "wishes to serve on the PSC. If an incoming PSC member is a Voting Member, "
 "they will relinquish their voting membership in the general meeting on "
 "joining the PSC."
 msgstr ""
-"PSC会員の任期が満了した場合、QGIS投票会員の候補者は、QGISコミュニティ会員によって提出されます。退任するPSC会員は、もはやPSCでの奉仕を希望しない限り、自動的に指名を受けなければならない。入会するPSC会員が投票会員の場合、PSCに参加する際の総会で投票会員資格を放棄します。"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:257
+#: ../../source/site/getinvolved/governance/charter/index.rst:261
 msgid ""
 "Prior to the election, the outgoing PSC determines the total number of seats"
 " of the incoming committee. QGIS Voting Members shall be allowed a number of"
 " votes equal to the number of PSC memberships up for election and shall be "
-"asked to rank their votes in order of preference. The votes shall be "
-"weighted based on the number of PSC positions being voted for. For example "
-"if three PSC positions are available, each first choice vote shall be worth "
-"3 points, second point vote 2 points and so on. PSC memberships shall be "
-"awarded on the total weighted score of the vote, with the nominee receiving "
-"the greatest score being awarded PSC membership first and so on in "
-"descending order of score of votes received until all PSC memberships have "
-"been allocated. A list of currently serving PSC members shall be maintained "
-"at: https://www.qgis.org/en/site/getinvolved/governance/"
+"asked to rank their votes in order of preference. After removing elected "
+"Board members from the vote results, PSC memberships shall be awarded on the"
+" total vote count, with the nominee receiving the greatest count being "
+"awarded PSC membership first and so on in descending order of number of "
+"votes received until all PSC memberships have been allocated. A list of "
+"currently serving PSC members shall be maintained at: "
+"https://www.qgis.org/en/site/getinvolved/governance/"
 msgstr ""
-"選挙に先立って、辞任するPSCは入会委員会の総席数を決定します。QGIS投票会員は、選挙までのPSC会員資格の数に等しい数の投票を許可され、優先順位に従って投票を順位付けするよう求められます。投票は、投票されるPSCの地位の数に基づいて重み付けされるものとします。例えば、3つのPSC地位が利用可能である場合、各第1選択投票は3ポイント、第2ポイント投票は2ポイント、などの価値があるものとします。PSC会員資格は投票の合計加重得点で授与され、最高のPSC会員資格を獲得した候補者を最初に、PSC会員資格がすべて割り当てられるまで投票数の降順で授与されます。在任中のPSC会員のリストは"
-" https://www.qgis で管理されます。"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:269
+#: ../../source/site/getinvolved/governance/charter/index.rst:272
 msgid "8.2 Terms of members of the PSC"
 msgstr "8.2 PSCの会員規約"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:271
+#: ../../source/site/getinvolved/governance/charter/index.rst:274
 msgid "PSC members will serve for a two year term."
 msgstr "PSC会員は2年間任用されます。"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:274
+#: ../../source/site/getinvolved/governance/charter/index.rst:277
 msgid "8.3 Honorary PSC members"
 msgstr "8.3 名誉PSC会員"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:276
+#: ../../source/site/getinvolved/governance/charter/index.rst:279
 msgid ""
 "Gary Sherman, as founder of the QGIS project, shall be accorded lifetime "
 "honorary membership on the QGIS PSC from its inception. By common vote, "
@@ -593,11 +597,11 @@ msgstr ""
 "QGISプロジェクトの創始者であるゲーリー・シャーマンは、設立当初からQGIS "
 "PSCの名誉会員資格を与えられます。共通の投票により、QGIS.ORGは、個人にPSCの生涯名誉賞を授与することができます。"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:281
+#: ../../source/site/getinvolved/governance/charter/index.rst:284
 msgid "9 Administration of QGIS.ORG"
 msgstr "9 QGIS.ORGの運営"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:283
+#: ../../source/site/getinvolved/governance/charter/index.rst:286
 msgid ""
 "The annual general meeting (AGM) will be held via a virtual forum The online"
 " location and date is to be determined and communicated by the board in "
@@ -609,7 +613,7 @@ msgid ""
 msgstr ""
 "年次総会（AGM）は、仮想フォーラムを介して開催されます。オンラインの場所と日付は、会議の前に理事会によって決定され、伝達されます。理事会は、会議の前にその会議の議題を公表するものとします。過去の総会の議定書は、理事会によって提供され、各総会の少なくとも15日前に投票会員に送付されるものとします。協会の議長が議定書の公表を許可します。"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:290
+#: ../../source/site/getinvolved/governance/charter/index.rst:293
 msgid ""
 "The meeting shall be open to all QGIS community members. Only voting members"
 " can vote on any motion. Substantial proposals made by QGIS community "
@@ -620,65 +624,65 @@ msgid ""
 msgstr ""
 "会議はすべてのQGISコミュニティ会員に公開されるものとします。投票会員のみが、いかなる動議にも投票できます。将来のQGIS.ORG活動のためにQGISコミュニティ会員によって行われた重要な提案は、会議の前に議題項目として追加されるよう、書面で理事会に提出されなければなりません。軽微な提案は、AGMとは独立に理事会に提出され処理されなければなりません。"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:296
+#: ../../source/site/getinvolved/governance/charter/index.rst:299
 msgid "The annual general meeting shall deal with the following:"
 msgstr "年次総会は以下の事項を取り扱うものとします。"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:298
+#: ../../source/site/getinvolved/governance/charter/index.rst:301
 msgid "Approval of the annual report"
 msgstr "年次報告書の承認"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:299
+#: ../../source/site/getinvolved/governance/charter/index.rst:302
 msgid "Approval of the annual financial report"
 msgstr "年次財務報告の承認"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:300
+#: ../../source/site/getinvolved/governance/charter/index.rst:303
 msgid "Approval of the annual budget"
 msgstr "年間予算の承認"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:301
+#: ../../source/site/getinvolved/governance/charter/index.rst:304
 msgid "Election of the board chair"
 msgstr "理事会議長の選挙"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:302
+#: ../../source/site/getinvolved/governance/charter/index.rst:305
 msgid ""
 "The nomination and election for the outgoing board and PSC member "
 "replacements"
 msgstr "辞任する理事とPSC会員の交代のための指名と選挙"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:303
+#: ../../source/site/getinvolved/governance/charter/index.rst:306
 msgid ""
 "Confirmation or selection of the financial auditors for the upcoming "
 "financial year"
 msgstr "次年度の会計監査人の確認または選任"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:304
+#: ../../source/site/getinvolved/governance/charter/index.rst:307
 msgid ""
 "Resolutions / voting of proposals made by the board, the PSC or voting "
 "members"
 msgstr "理事、PSC会員または投票会員による提案の決議／投票"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:305
+#: ../../source/site/getinvolved/governance/charter/index.rst:308
 msgid "Revision of the statutes"
 msgstr "法令の改正"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:306
+#: ../../source/site/getinvolved/governance/charter/index.rst:309
 msgid "Deal with any matters arising"
 msgstr "発生するあらゆる問題に対処する"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:308
+#: ../../source/site/getinvolved/governance/charter/index.rst:311
 msgid ""
 "All other decisions and competences are the responsibility of the QGIS "
 "Board."
 msgstr "他のすべての決定および能力は、QGIS理事会の責任です。"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:310
+#: ../../source/site/getinvolved/governance/charter/index.rst:313
 msgid ""
 "Extraordinary meetings can be convened by the board or on demand of at least"
 " 2/5 of the voting members."
 msgstr "臨時会議は、理事会によって、または投票会員の少なくとも2/5の要請によって開催できます。"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:313
+#: ../../source/site/getinvolved/governance/charter/index.rst:316
 msgid ""
 "Every officially convened general meeting has a quorum. At elections and for"
 " voting a simple majority (more than 50%) of the present members decides, "
@@ -686,19 +690,19 @@ msgid ""
 msgstr ""
 "すべての正式に招集された総会には定足数があります。選挙と投票では、第7.1節、第8.1節、第5.4節に列挙された事例を除いて、現会員の単純多数（50％超）により決定します。"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:317
+#: ../../source/site/getinvolved/governance/charter/index.rst:320
 msgid ""
 "The reporting year and the accounting year starts at January 1 and ends at "
 "December 31."
 msgstr "報告年度と会計年度は、1月1日から始まり12月31日に終わります。"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:319
+#: ../../source/site/getinvolved/governance/charter/index.rst:322
 msgid ""
 "The correspondence of the QGIS.ORG Association will be carried out in "
 "English, unless otherwise requested by the authorities."
 msgstr "QGIS.ORG協会の対応は、当局から別途要求されない限り、英語で行われます。"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:322
+#: ../../source/site/getinvolved/governance/charter/index.rst:325
 #, python-format
 msgid ""
 "The association can only be dissolved by the general motion with a majority "
@@ -709,29 +713,78 @@ msgid ""
 msgstr ""
 "この協会は、投票会員の3/4以上が動議を肯定することによってのみ、一般的動議によって解散できます。協会の清算の場合、総会は単純な多数（有権者の50％以上）で団体の資産の使用について投票できます。"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:328
+#: ../../source/site/getinvolved/governance/charter/index.rst:331
 msgid "10 Financial arrangements"
 msgstr "10 資金調達"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:330
+#: ../../source/site/getinvolved/governance/charter/index.rst:333
 msgid ""
 "The financial revenues of QGIS.ORG shall originate from donations, "
 "memberships, grant funding and other diverse sources."
 msgstr "QGIS.ORGの財政収入は、寄付、会費、助成金、およびその他の様々な情報源から生じるものとします。"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:333
+#: ../../source/site/getinvolved/governance/charter/index.rst:336
 msgid "The general meeting shall elect two financial auditors each year."
 msgstr "総会では、毎年2名の監査役を選任するものとします。"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:335
+#: ../../source/site/getinvolved/governance/charter/index.rst:338
 msgid ""
 "Limited Liability: the QGIS Association can only be held liable up to the "
 "amount of the current assets of the association. Personal liability of "
 "members of the board or individual other members are excluded."
 msgstr "責任限定：QGIS協会は、協会の現在の資産の金額までしか責任を負うことができません。理事または他の個々の会員の個人的責任は免除されます。"
 
-#: ../../source/site/getinvolved/governance/charter/index.rst:340
+#: ../../source/site/getinvolved/governance/charter/index.rst:343
 msgid ""
 "This charter was approved by the general assembly via Loomio vote on March "
 "17, 2019."
 msgstr "この憲章は、2019年3月17日のLoomioでの投票により総会で承認されました。"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
+
+#~ msgid ""
+#~ "Board members shall also be members of the PSC and shall be nominated and "
+#~ "elected by the general meeting. In an election of board members, the nominee"
+#~ " receiving the greatest number of votes for each position (chair, vice "
+#~ "chair, treasurer) shall be appointed. A tied election shall trigger a re-"
+#~ "vote until one nominee has the majority. On expiration of a board member’s "
+#~ "term, nominees from within the QGIS PSC shall be put forward by the QGIS "
+#~ "Voting Members. The outgoing board member shall automatically receive a "
+#~ "nomination unless he/she no longer wishes to serve on the board."
+#~ msgstr ""
+#~ "事は、PSC会員でもあり、総会で指名され、選挙されるものとします。理事の選挙では、各役職（議長、副議長、会計）について投票数が最も多い候補者が任命されます。選挙で可否同数のときは1人の候補者が過半数を得るまで再投票が行われます。理事の任期満了により、QGIS"
+#~ " "
+#~ "PSC内からの候補者がQGIS投票会員によって提出されるものとします。退任する理事は、理事に就任することをもはや希望しない限り、自動的に指名を受けます。"
+
+#~ msgid ""
+#~ "On expiration of a PSC member’s term, nominees from within the QGIS Voting "
+#~ "Membership shall be put forward by any QGIS Community Member. The outgoing "
+#~ "PSC member shall automatically receive a nomination unless he/she no longer "
+#~ "wishes to serve on the PSC. If an incoming PSC member is a Voting Member, "
+#~ "they will relinquish their voting membership in the general meeting on "
+#~ "joining the PSC."
+#~ msgstr ""
+#~ "PSC会員の任期が満了した場合、QGIS投票会員の候補者は、QGISコミュニティ会員によって提出されます。退任するPSC会員は、もはやPSCでの奉仕を希望しない限り、自動的に指名を受けなければならない。入会するPSC会員が投票会員の場合、PSCに参加する際の総会で投票会員資格を放棄します。"
+
+#~ msgid ""
+#~ "Prior to the election, the outgoing PSC determines the total number of seats"
+#~ " of the incoming committee. QGIS Voting Members shall be allowed a number of"
+#~ " votes equal to the number of PSC memberships up for election and shall be "
+#~ "asked to rank their votes in order of preference. The votes shall be "
+#~ "weighted based on the number of PSC positions being voted for. For example "
+#~ "if three PSC positions are available, each first choice vote shall be worth "
+#~ "3 points, second point vote 2 points and so on. PSC memberships shall be "
+#~ "awarded on the total weighted score of the vote, with the nominee receiving "
+#~ "the greatest score being awarded PSC membership first and so on in "
+#~ "descending order of score of votes received until all PSC memberships have "
+#~ "been allocated. A list of currently serving PSC members shall be maintained "
+#~ "at: https://www.qgis.org/en/site/getinvolved/governance/"
+#~ msgstr ""
+#~ "選挙に先立って、辞任するPSCは入会委員会の総席数を決定します。QGIS投票会員は、選挙までのPSC会員資格の数に等しい数の投票を許可され、優先順位に従って投票を順位付けするよう求められます。投票は、投票されるPSCの地位の数に基づいて重み付けされるものとします。例えば、3つのPSC地位が利用可能である場合、各第1選択投票は3ポイント、第2ポイント投票は2ポイント、などの価値があるものとします。PSC会員資格は投票の合計加重得点で授与され、最高のPSC会員資格を獲得した候補者を最初に、PSC会員資格がすべて割り当てられるまで投票数の降順で授与されます。在任中のPSC会員のリストは"
+#~ " https://www.qgis で管理されます。"

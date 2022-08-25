@@ -10,14 +10,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-02 12:44+0100\n"
-"PO-Revision-Date: 2020-07-06 21:16+0000\n"
-"Last-Translator: Aleksander Petrov <felispimeja+transifex.com@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-10-19 11:14+0000\n"
+"Last-Translator: Aleksander Petrov <felispimeja+transifex.com@gmail.com>, 2020\n"
 "Language-Team: Russian (http://www.transifex.com/qgis/qgis-website/language/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ru\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 
@@ -35,9 +35,9 @@ msgstr "Обновление документации QGIS координиру�
 #: ../../source/site/getinvolved/document.rst:10
 msgid ""
 "The complete list of documents managed by the QGIS documentation team can be"
-" found at http://www.qgis.org/en/docs/index.html. A list of documenters can "
-"be found at https://github.com/qgis/QGIS-Documentation/graphs/contributors."
-msgstr "Полный список документов, который обслуживается командой технических писателей QGIS, можно найти на странице http://www.qgis.org/ru/docs/index.html. Список авторов можно найти на странице https://github.com/qgis/QGIS-Documentation/graphs/contributors."
+" found at https://www.qgis.org/en/docs/index.html. A list of documenters can"
+" be found at https://github.com/qgis/QGIS-Documentation/graphs/contributors."
+msgstr ""
 
 #: ../../source/site/getinvolved/document.rst:17
 msgid "Documentation Mailing list"
@@ -91,11 +91,11 @@ msgstr "Мы стараемся улучшить процесс управлен
 #: ../../source/site/getinvolved/document.rst:45
 msgid ""
 "The complete list of documents managed by the QGIS Documentation Team can be"
-" found at http://www.qgis.org/en/docs/index.html. All the documentation "
+" found at https://www.qgis.org/en/docs/index.html. All the documentation "
 "sources are hosted in `QGIS-Documentation repository "
 "<https://github.com/qgis/QGIS-Documentation>`_. If you want to update some "
 "features in QGIS or document new ones, you need to:"
-msgstr "Полный список документов, который обслуживается командой технических писателей QGIS, можно найти на странице http://www.qgis.org/ru/docs/index.html. Список авторов можно найти на странице https://github.com/qgis/QGIS-Documentation/graphs/contributors."
+msgstr ""
 
 #: ../../source/site/getinvolved/document.rst:51
 msgid "have a `GitHub account <https://github.com/join>`_"
@@ -133,6 +133,14 @@ msgid ""
 "directly opens the source file in your forked repo. Just make your changes, "
 "commit in a new branch and submit pull request to the main repository."
 msgstr "Для того чтобы легко найти файл и обновить его в репозитории, воспользуйтесь ссылкой ``исправить`` внизу любой страницы раздела ``Testing`` документации. После этого у вас автоматически откроется исходный файл из вашей копии репозитория. Внесите изменения, зафиксируйте их в новой ветке и отправьте запрос на добавление их в основной репозиторий."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "Update QGIS Documentation"
 #~ msgstr ""
@@ -274,4 +282,18 @@ msgstr "Для того чтобы легко найти файл и обнов�
 #~ "The update of the QGIS documentation is managed by the :ref:`Community Team "
 #~ "Lead <gui-translation>`. Have a look at the :ref:`QGIS Governance <gui-"
 #~ "translation>` to find out who is in charge of guiding you."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The complete list of documents managed by the QGIS documentation team can be"
+#~ " found at http://www.qgis.org/en/docs/index.html. A list of documenters can "
+#~ "be found at https://github.com/qgis/QGIS-Documentation/graphs/contributors."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The complete list of documents managed by the QGIS Documentation Team can be"
+#~ " found at http://www.qgis.org/en/docs/index.html. All the documentation "
+#~ "sources are hosted in `QGIS-Documentation repository "
+#~ "<https://github.com/qgis/QGIS-Documentation>`_. If you want to update some "
+#~ "features in QGIS or document new ones, you need to:"
 #~ msgstr ""

@@ -5,19 +5,49 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-23 19:14+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2013-2014\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:3
+msgid ""
+"QGIS at high school --- the urban green spaces in Rada Tilly coastal town, "
+"Chubut province, Argentina"
+msgstr "QGIS în licee --- spațiile verzi din orașul de coastă Rada Tilly, provincia Chubut, Argentina"
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:6
 msgid "Introduction"
 msgstr "Introducere"
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:8
+msgid ""
+"In our region, Argentinean Patagonia, we have very few references about the "
+"application of GIS in High School for the construction of geographical "
+"knowledge as a mean to face territorial and environmental issues. The case "
+"of the urban green spaces in Rada Tilly coastal town analyzed by QGIS, tends"
+" to demonstrate a methodology of an academic exercise that can project, with"
+" important reaches, as formative instances related to the geographical "
+"reasoning in students of 12th grade of the Abraham Lincoln School."
+msgstr "În regiunea noastră, Patagonia Argentiniană, avem foarte puține referințe cu privire la aplicarea GIS în liceu pentru constituirea cunoașterii geografice ca mijloc de a face față problemelor teritoriale și de mediu. Cazul spațiilor verzi urbane din orașul de coastă Rada Tilly, analizate în QuantumGIS, tinde să demonstreze o metodologie a unui exercițiu academic care are ca țintă importantă motivarea geografică a elevilor de clasa a 12-a din Liceul Abraham Lincoln."
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:10
+msgid ""
+"We started by the observation (inventory), digitizing the cadastral blocks "
+"and the green areas (tree´s canopy) using Google Earth satellite images. As "
+"a conceptual framework, we lectured about cartographic design, satellite "
+"images reading and interpretation, and specially, location analysis to "
+"contrast the situation (in m\\ :sup:`2`) of the urban green spaces by "
+"inhabitant in Rada Villa coastal town, with values suggested by the World "
+"Health Organization, WHO (a  minimum of 9 m\\ :sup:`2` of green areas, by "
+"person, in urban areas)."
+msgstr "Am început prin observare (inventariere), digitizând spațiile cadastrale și zonele verzi (ariile cu copaci) folosind imaginile Google Earth din satelit. Cadrul conceptual a fost umplut de prelegeri despre designul cartografic, analiza și interpretarea imaginilor satelitare și în mod special, analiza locației ca raport între situația spațiilor verzi din orașul de coastă Rada Villa (în m\\ :sup:`2`) și valorile sugerate de către Organizația Mondială a Sănătății, OMS (un minim de 9 m\\ :sup:`2` de spațiu verde, per persoană, în mediul urban)."
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:13
 msgid "About the project"
@@ -35,10 +65,23 @@ msgstr "Principalul obiectiv al experienței a fost asistarea a 12 elevi de lice
 msgid "**Specific objectives:**"
 msgstr "**Obiective specifice:**"
 
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:19
+msgid ""
+"Student´s appropriation of a local issue (the Rada Tilly´s green areas "
+"related the 9 m\\ :sup:`2` by inhabitant proposed by WHO) from a "
+"geographical perspective through GIS tools."
+msgstr "Rezolvarea de către studenți a unei probleme locale (alocarea, conform OMS, a unei zone verzi de 9 m\\ :sup:`2` per locuitor) din punct de vedere geografic, cu ajutorul instrumentelor GIS."
+
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:20
 msgid ""
 "Usage of GIS as a technical tool to validate of socio-spatial hypothesis."
 msgstr "Utilizarea GIS ca un instrument tehnic pentru validarea ipotezelor socio-spațiale."
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:21
+msgid ""
+"Verification of the viability of capture, processing, storage, analysis, "
+"recovery and updating of spatial data using a FOSS QGIS."
+msgstr "Verificarea viabilității capturării, prelucrării, depozitării, analizei, recuperării și actualizării datelor spațiale cu ajutorul aplicației FOSS QGIS ."
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:23
 msgid "**Methodology:**"
@@ -76,103 +119,15 @@ msgid "Results presentation through thematic cartography."
 msgstr "Prezentarea rezultatelor cu ajutorul cartografierii tematice."
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:38
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:52
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:68
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:77
 msgid "Attribute table of “blocks” vector layer"
 msgstr "Tabelul cu atribute al stratului vectorial \"blocks\""
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:41
 msgid "Conclusion"
 msgstr "Concluzii"
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:52
-msgid ""
-"Distribution of urban green spaces (green) and population density by blocks "
-"(white to brown) at Rada Tilly coastal town, Chubut Provinc, Argentina."
-msgstr "Distribuția spațiilor verzi urbane (verde) și densitatea populației per parcele (de la alb la maro), în orașul de coastă Rada Tilly, Provincia Chubut, Argentina."
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:54
-msgid ""
-"Although the project was an academic exercise of High School, we deeply "
-"value the inventory´s results obtained by QGIS. Students worked with all "
-"academic rigor and seriousness, showing appropriation of the thematic (urban"
-" green spaces) and also of the tool (QGIS). It was a very enriching "
-"experience for them and also for the educational staff involved."
-msgstr "Deși proiectul a fost un exercițiu academic de liceu, apreciem profund rezultatele inventarului de obținut de QGIS. Elevii au lucrat cu rigoare academică și seriozitate, în abordarea tematicii (spațiilor verzi urbane) și, de asemenea, a instrumentului (QGIS). A fost o experiență extrem de pozitivă pentru ei și, de asemenea, pentru cadrele didactice implicate."
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:59
-msgid "Authors"
-msgstr "Authors"
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:68
-msgid "Mauro Novara"
-msgstr "Mauro Novara"
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:70
-msgid ""
-"Mauro Novara is Professor of Territorial Information Systems course. "
-"Lecturer and researcher of National University of Patagonia San Juan Bosco, "
-"Faculty of Humanities and Social Sciences. Geography Department. Comodoro "
-"Rivadavia, Chubut Province, Argentina."
-msgstr "Mauro Novara predă cursul de Sisteme de Informații Teritoriale, fiind lector și cercetător la Universitatea Națională San Juan Bosco, Patagonia, și la Facultatea de Științe Umaniste și Științe Sociale, Departamentul de Geografie Comodoro Rivadavia, provincia Chubut, Argentina."
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:77
-msgid "Alberto Vázquez"
-msgstr "Alberto Vázquez"
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:61
-msgid ""
-"This article was contributed in September 2011 by Mauro Novara and Alberto "
-"Vázquez from Argentina."
-msgstr "Acest articol a fost transmis în septembrie 2011 de către Mauro Novara și Alberto Vázquez din Argentina."
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:79
-msgid ""
-"Prof. Alberto Vázquez is a graduate teaching assistant of Territorial "
-"Information Systems course. National University of Patagonia San Juan Bosco,"
-" Faculty of Humanities and Social Sciences. Geography Department. Comodoro "
-"Rivadavia, Chubut Province, Argentina."
-msgstr "Prof. Alberto Vázquez este asistent de predare la cursul de Sisteme Informatice Teritoriale la Universitatea Națională San Juan Bosco, Patagonia, și la Facultatea de Științe Umaniste și Științe Sociale, Departamentul de Geografie Comodoro Rivadavia, provincia Chubut, Argentina."
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:3
-msgid ""
-"QGIS at high school --- the urban green spaces in Rada Tilly coastal town, "
-"Chubut province, Argentina"
-msgstr "QGIS în licee --- spațiile verzi din orașul de coastă Rada Tilly, provincia Chubut, Argentina"
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:8
-msgid ""
-"In our region, Argentinean Patagonia, we have very few references about the "
-"application of GIS in High School for the construction of geographical "
-"knowledge as a mean to face territorial and environmental issues. The case "
-"of the urban green spaces in Rada Tilly coastal town analyzed by QGIS, tends"
-" to demonstrate a methodology of an academic exercise that can project, with"
-" important reaches, as formative instances related to the geographical "
-"reasoning in students of 12th grade of the Abraham Lincoln School."
-msgstr "În regiunea noastră, Patagonia Argentiniană, avem foarte puține referințe cu privire la aplicarea GIS în liceu pentru constituirea cunoașterii geografice ca mijloc de a face față problemelor teritoriale și de mediu. Cazul spațiilor verzi urbane din orașul de coastă Rada Tilly, analizate în QuantumGIS, tinde să demonstreze o metodologie a unui exercițiu academic care are ca țintă importantă motivarea geografică a elevilor de clasa a 12-a din Liceul Abraham Lincoln."
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:10
-msgid ""
-"We started by the observation (inventory), digitizing the cadastral blocks "
-"and the green areas (tree´s canopy) using Google Earth satellite images. As "
-"a conceptual framework, we lectured about cartographic design, satellite "
-"images reading and interpretation, and specially, location analysis to "
-"contrast the situation (in m\\ :sup:`2`) of the urban green spaces by "
-"inhabitant in Rada Villa coastal town, with values suggested by the World "
-"Health Organization, WHO (a  minimum of 9 m\\ :sup:`2` of green areas, by "
-"person, in urban areas)."
-msgstr "Am început prin observare (inventariere), digitizând spațiile cadastrale și zonele verzi (ariile cu copaci) folosind imaginile Google Earth din satelit. Cadrul conceptual a fost umplut de prelegeri despre designul cartografic, analiza și interpretarea imaginilor satelitare și în mod special, analiza locației ca raport între situația spațiilor verzi din orașul de coastă Rada Villa (în m\\ :sup:`2`) și valorile sugerate de către Organizația Mondială a Sănătății, OMS (un minim de 9 m\\ :sup:`2` de spațiu verde, per persoană, în mediul urban)."
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:19
-msgid ""
-"Student´s appropriation of a local issue (the Rada Tilly´s green areas "
-"related the 9 m\\ :sup:`2` by inhabitant proposed by WHO) from a "
-"geographical perspective through GIS tools."
-msgstr "Rezolvarea de către studenți a unei probleme locale (alocarea, conform OMS, a unei zone verzi de 9 m\\ :sup:`2` per locuitor) din punct de vedere geografic, cu ajutorul instrumentelor GIS."
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:21
-msgid ""
-"Verification of the viability of capture, processing, storage, analysis, "
-"recovery and updating of spatial data using a FOSS QGIS."
-msgstr "Verificarea viabilității capturării, prelucrării, depozitării, analizei, recuperării și actualizării datelor spațiale cu ajutorul aplicației FOSS QGIS ."
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:43
 msgid ""
@@ -193,6 +148,21 @@ msgid ""
 "inhabitants in this marine coastal town."
 msgstr "Valoarea totală a spațiilor verzi inventariate este de până la 150.736 m\\ :sup:`2` (15 hectare). Din acest motiv putem considera că zona verde pentru un locuitor în zona de studiu este de 15,7 m\\ :sup:`2` (în timp ce OMS a sugerat o valoare de 9 m\\ :sup:`2` de spațiu verde pentru un locuitor). Această valoare se dovedește a fi o situație foarte potrivită, privitor la beneficiile pe care le oferă copacii locuitorilor din acest oraș de pe coasta marină."
 
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:52
+msgid ""
+"Distribution of urban green spaces (green) and population density by blocks "
+"(white to brown) at Rada Tilly coastal town, Chubut Provinc, Argentina."
+msgstr "Distribuția spațiilor verzi urbane (verde) și densitatea populației per parcele (de la alb la maro), în orașul de coastă Rada Tilly, Provincia Chubut, Argentina."
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:54
+msgid ""
+"Although the project was an academic exercise of High School, we deeply "
+"value the inventory´s results obtained by QGIS. Students worked with all "
+"academic rigor and seriousness, showing appropriation of the thematic (urban"
+" green spaces) and also of the tool (QGIS). It was a very enriching "
+"experience for them and also for the educational staff involved."
+msgstr "Deși proiectul a fost un exercițiu academic de liceu, apreciem profund rezultatele inventarului de obținut de QGIS. Elevii au lucrat cu rigoare academică și seriozitate, în abordarea tematicii (spațiilor verzi urbane) și, de asemenea, a instrumentului (QGIS). A fost o experiență extrem de pozitivă pentru ei și, de asemenea, pentru cadrele didactice implicate."
+
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:56
 msgid ""
 "After the project experience we can assure that the FOSS QGIS is an "
@@ -202,6 +172,48 @@ msgid ""
 "use of QGIS in our university courses, replacing GIS Proprietary software "
 "that we have being using."
 msgstr "După experiența obținută în urma proiectului putem spune că FOSS GIS este o alternativă recomandabilă pentru captura, procesarea, stocarea, analiza, recuperarea și actualizarea datelor spațiale, într-o formă rapidă și eficientă. Având o impresie pozitivă, vom începe utilizarea QGIS la cursurile noastre universitare, înlocuind softurile GIS proprietare."
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:59
+msgid "Authors"
+msgstr "Authors"
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:61
+msgid ""
+"This article was contributed in September 2011 by Mauro Novara and Alberto "
+"Vázquez from Argentina."
+msgstr "Acest articol a fost transmis în septembrie 2011 de către Mauro Novara și Alberto Vázquez din Argentina."
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:68
+msgid "Mauro Novara"
+msgstr "Mauro Novara"
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:70
+msgid ""
+"Mauro Novara is Professor of Territorial Information Systems course. "
+"Lecturer and researcher of National University of Patagonia San Juan Bosco, "
+"Faculty of Humanities and Social Sciences. Geography Department. Comodoro "
+"Rivadavia, Chubut Province, Argentina."
+msgstr "Mauro Novara predă cursul de Sisteme de Informații Teritoriale, fiind lector și cercetător la Universitatea Națională San Juan Bosco, Patagonia, și la Facultatea de Științe Umaniste și Științe Sociale, Departamentul de Geografie Comodoro Rivadavia, provincia Chubut, Argentina."
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:77
+msgid "Alberto Vázquez"
+msgstr "Alberto Vázquez"
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:79
+msgid ""
+"Prof. Alberto Vázquez is a graduate teaching assistant of Territorial "
+"Information Systems course. National University of Patagonia San Juan Bosco,"
+" Faculty of Humanities and Social Sciences. Geography Department. Comodoro "
+"Rivadavia, Chubut Province, Argentina."
+msgstr "Prof. Alberto Vázquez este asistent de predare la cursul de Sisteme Informatice Teritoriale la Universitatea Națională San Juan Bosco, Patagonia, și la Facultatea de Științe Umaniste și Științe Sociale, Departamentul de Geografie Comodoro Rivadavia, provincia Chubut, Argentina."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "QGIS at high school"
 #~ msgstr ""

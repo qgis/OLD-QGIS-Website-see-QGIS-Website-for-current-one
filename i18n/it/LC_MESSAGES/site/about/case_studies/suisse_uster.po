@@ -7,15 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 19:58+0000\n"
-"Last-Translator: Marco Grisolia <marco.grisolia5@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Marco Grisolia <marco.grisolia5@gmail.com>, 2016\n"
 "Language-Team: Italian (http://www.transifex.com/qgis/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: it\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:3
 msgid "The use of QGIS in the Geodata Infrastructure of the City of Uster"
@@ -32,6 +33,9 @@ msgid ""
 "solution backed by a worldwide user and development community."
 msgstr "La città di Uster utilizza QGIS dal 2007. Incoraggiata dalla decisione del Cantone di Soletta di usare QGIS come sostituto di ArcView, la città di Uster ha deciso di fare una prova. La città si è unita allo sforzo per lo sviluppo di QGIS, proponendo e testando nuove funzionalità e sostenendo finanziariamente lo sviluppo. In cambio Uster riceve un software GIS in rapida evoluzione e multi-piattaforma, comprendente un WebGIS sostenuta da una comunità mondiale."
 
+msgid "uster"
+msgstr ""
+
 #: ../../source/site/about/case_studies/suisse_uster.rst:12
 msgid ""
 "Postgis/PostgreSQL is used as a central geodata warehouse. Other databases "
@@ -46,6 +50,9 @@ msgid ""
 "tools, along with some improvements in data driven symbolization, automated "
 "labeling, attribute handling and forms."
 msgstr "PostGIS / PostgreSQL è usato come database spaziale centrale. Altri database e fonti di dati vengono replicati in PostgreSQL a intervalli regolari, utilizzando strumenti come OGR e FME. In principio QGIS stato utilizzato principalmente come visualizzatore. Il primo utente QGIS era un contadino che aveva il compito di vigilare le dichiarazioni rilasciate da agricoltori locali per ricevere i sussidi agricoli. Più tardi, in QGIS è stato introdotto anche un editor di dati e una piattaforma per la pubblicazione di mappe, insieme con i miglioramenti agli strumenti di editing e al compositore di stampa. Insieme con altri utenti QGIS svizzeri (Solothurn, Thun e CDE (Università di Berna)), coordiniamo e sponsorizziamo i miglioramenti di questi strumenti, e alcuni perfezionamenti neila simbologia, nell'etichettatura automatica, nella gestione degli attributi e dei moduli."
+
+msgid "uster location"
+msgstr ""
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:19
 msgid ""
@@ -117,6 +124,17 @@ msgid ""
 "residents"
 msgstr "visualizzazione delle statistiche generate direttamente dal database di residenti attuali e passati"
 
+#: ../../source/site/about/case_studies/suisse_uster.rst:38
+msgid ""
+"planning and visualization for energy planning (gas supply regions, heat use"
+" from waste water, near-surface geothermal energy, block heating stations, "
+"etc.)"
+msgstr "progettazione e visualizzazione per la pianificazione energetica (regioni di approvvigionamento del gas, l'uso del calore dalle acque di scarico, in prossimità della superficie di energia geotermica, centrali di riscaldamento a blocchi, ecc)"
+
+#: ../../source/site/about/case_studies/suisse_uster.rst:40
+msgid "Additional further projects are currently under development."
+msgstr "Inoltre ulteriori progetti sono attualmente in fase di sviluppo."
+
 #: ../../source/site/about/case_studies/suisse_uster.rst:47
 msgid ""
 "In 2007 it was not entirely clear at what pace QGIS would be further "
@@ -157,16 +175,13 @@ msgid ""
 " coordinator at the City of Uster, Switzerland."
 msgstr "Questo articolo è stato scritto nel mese di aprile del 2011 dal Dott. Andreas Neumann. È coordinatore GIS presso la città di Uster, Svizzera."
 
-#: ../../source/site/about/case_studies/suisse_uster.rst:38
-msgid ""
-"planning and visualization for energy planning (gas supply regions, heat use"
-" from waste water, near-surface geothermal energy, block heating stations, "
-"etc.)"
-msgstr "progettazione e visualizzazione per la pianificazione energetica (regioni di approvvigionamento del gas, l'uso del calore dalle acque di scarico, in prossimità della superficie di energia geotermica, centrali di riscaldamento a blocchi, ecc)"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/about/case_studies/suisse_uster.rst:40
-msgid "Additional further projects are currently under development."
-msgstr "Inoltre ulteriori progetti sono attualmente in fase di sviluppo."
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "Planning and visualization for energy planning (gas supply regions, heat use"

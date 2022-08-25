@@ -4,27 +4,27 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2018
+# Sorin Călinică <scalinica@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-05 19:50+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2018-05-20 14:25+0000\n"
-"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2018\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2022\n"
 "Language-Team: Romanian (https://www.transifex.com/qgis/teams/6144/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
 #: ../../source/site/getinvolved/development/contributor_requirements.rst:4
 msgid "Requirements for new contributors"
-msgstr ""
+msgstr "Cerințe pentru noii contribuitori"
 
 #: ../../source/site/getinvolved/development/contributor_requirements.rst:6
 msgid ""
@@ -33,10 +33,15 @@ msgid ""
 "for that. In order to contribute code, patches, or documentation to the QGIS"
 " project, all developers/team members must:"
 msgstr ""
+"Noile contribuții sunt bine venite în comunitatea noastră - vrem să "
+"utilizați QGIS pentru a vă face munca - și credem că acest  soft reprezintă "
+"o importantă platformă în acest sens. Pentru a contribui la codul, patch-"
+"urile sau documentația proiectului QGIS, toți dezvoltatorii/membrii echipei "
+"trebuie:"
 
 #: ../../source/site/getinvolved/development/contributor_requirements.rst:11
 msgid "Abide by the Social Contract."
-msgstr ""
+msgstr "Respectați Contractul Social."
 
 #: ../../source/site/getinvolved/development/contributor_requirements.rst:12
 msgid ""
@@ -44,12 +49,18 @@ msgid ""
 "available in the Development Corner, and the CODING document in the root of "
 "the QGIS Sources."
 msgstr ""
+"Familiarizați-vă cu procesul de dezvoltare, cu materialul de referință "
+"disponibil în Colțul Dezvoltatorului și cu documentul de CODARE din rădăcina"
+" surselor QGIS."
 
 #: ../../source/site/getinvolved/development/contributor_requirements.rst:15
 msgid ""
 "Ensure that all code committed to the repository is unencumbered and "
-"compatible with the QGIS license, GPL version 2"
+"compatible with the QGIS license, GNU Public License (GPL) Version 2 or any "
+"later version."
 msgstr ""
+"Asigurați-vă că tot codul pe care l-ați urcat este liber și compatibil cu "
+"licențele QGIS, GNU Public License (GPL) Versiunea 2 sau ulterioare."
 
 #: ../../source/site/getinvolved/development/contributor_requirements.rst:17
 msgid ""
@@ -57,16 +68,24 @@ msgid ""
 "infringement. If you are unsure, ask on the developer mailing list or "
 "contact a Project Steering Committee member."
 msgstr ""
+"Nu utilizați si nu includeți cod care ar putea încălca o marcă comercială "
+"sau vreun patent. Dacă nu sunteți sigur, puneți o întrebare pe lista de "
+"corespondență sau contactați un membru al Comitetului de Coordonare a "
+"Proiectului."
 
 #: ../../source/site/getinvolved/development/contributor_requirements.rst:20
 msgid "Join the qgis-developer mailing list and contribute to discussions"
 msgstr ""
+"Alăturați-vă listei de corespondență a dezvoltatorilor QGIS și contribuiți "
+"la discuții"
 
 #: ../../source/site/getinvolved/development/contributor_requirements.rst:21
 msgid ""
 "These requirements apply to both developers desiring commit privileges and "
 "those that submit patches."
 msgstr ""
+"Aceste cerințe se aplică atât dezvoltatorilor care doresc privilegii de "
+"commit cât și celor care transmit patch-uri."
 
 #: ../../source/site/getinvolved/development/contributor_requirements.rst:23
 msgid "Read and agree to the :ref:`codeofconduct`."
@@ -77,6 +96,8 @@ msgid ""
 "Read and agree to the `Coding Standards "
 "<https://docs.qgis.org/testing/en/docs/developers_guide/codingstandards.html>`_."
 msgstr ""
+"Parcurgeți și agreați `Standardele de Codare "
+"<https://docs.qgis.org/testing/en/docs/developers_guide/codingstandards.html>`_."
 
 #: ../../source/site/getinvolved/development/contributor_requirements.rst:26
 msgid "Read and agree to the :ref:`diversitystatement`."
@@ -90,5 +111,20 @@ msgstr ""
 "Acceptarea acestor cerințe se demonstrează prin trimiterea unui e-mail pe "
 "lista de discuții qgis-developer, în care vă dați acordul."
 
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
+
 #~ msgid "Read and agree to the :ref:`coding_standards`."
 #~ msgstr "Citiți și acceptați :ref:`coding_standards`."
+
+#~ msgid ""
+#~ "Ensure that all code committed to the repository is unencumbered and "
+#~ "compatible with the QGIS license, GPL version 2"
+#~ msgstr ""
+#~ "Asigurați-vă că tot codul pe care l-ați urcat este liber și compatibil cu "
+#~ "licența QGIS, versiunea GPL 2"

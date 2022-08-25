@@ -4,15 +4,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-22 11:32+0100\n"
-"PO-Revision-Date: 2017-09-20 03:45+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-05-25 15:58+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Ukrainian (http://www.transifex.com/qgis/qgis-website/language/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: uk\n"
 "Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+#: ../../source/site/about/case_studies/italy_turin.rst:3
+msgid ""
+"The Research Institute for Geo-hydrological Protection of Turin --- Aerial "
+"photo archive management"
+msgstr "Науково-дослідний інститут геогідрологічного захисту Турина --- управління архівом аерофотознімків"
 
 #: ../../source/site/about/case_studies/italy_turin.rst:5
 msgid ""
@@ -33,6 +40,19 @@ msgid ""
 "are employed. Their use varies, from “simple” visual analyses to complex "
 "processing as stereoplotting or image segmentation."
 msgstr "Для проведення вичерпних досліджень та обстежень крім польових робіт, моделювання та аналізу історичних даних також використовується аерофотозйомка. Область її використання --- від «простого» візуального аналізу, до таких складних алгоритмів як стерео картографування та сегментація."
+
+#: ../../source/site/about/case_studies/italy_turin.rst:9
+msgid ""
+"The institute, for the explained purposes, keeps in its archive about "
+"170000, recent and historical, photograms --- the oldest one dating back to "
+"1920s (Figure 1) --- covering, in different years, the Po basin or part of "
+"it. Some photograms cover other basins in northern Italy. In addition the "
+"archives keeps flight plans of the described photograms (Figure 1)."
+msgstr "Для цих потреб інститут зберігає архів з понад 170000 історичних та актуальних фотографій --- найстаріша з них датується 1920 р. (малюнок 1) --- які дають уявлення про стан басейну річки По та прилеглих територій у різні роки. Деякі фотознімки також містять інформацію про інші басейни північної Італії. Крім того, в архіві зберігаються і плани польотів, за якими було отримано вищезазначені фотографії (малюнок 1)."
+
+#: ../../source/site/about/case_studies/italy_turin.rst:16
+msgid "1929 photogram (left) and 1954 flight plan (right)"
+msgstr ""
 
 #: ../../source/site/about/case_studies/italy_turin.rst:16
 msgid "1929 photogram (left) and 1954 flight plan (right)."
@@ -142,6 +162,15 @@ msgstr "Автори"
 msgid "Danilo Godone"
 msgstr "Danilo Godone"
 
+#: ../../source/site/about/case_studies/italy_turin.rst:73
+msgid ""
+"Danilo Godone is a Postdoc grant holder, at Turin University, studying "
+"geomatic contribution in landslide, glacier and, more generally, natural "
+"disasters monitoring. He is a member of NATRISK --- Research Centre on "
+"Natural Risks in Mountain and Hilly Environments, in the same University. He"
+" acts as a freelance consultant in the same topics, too."
+msgstr "Danilo Godone є стипендіатом туринського університету та вивчає використання геоматики для моніторингу зсувів, льодовиків та інших стихійних лих. Також він член NATRISK --- науково-дослідного центру ризиків у гірській місцевості цього ж університету. Працює позаштатним консультантом."
+
 #: ../../source/site/about/case_studies/italy_turin.rst:80
 msgid "Franco Godone"
 msgstr "Franco Godone"
@@ -154,29 +183,13 @@ msgid ""
 "alpine regions."
 msgstr "Franco Godone працює у Науково-дослідному інституті геогідрологічного захисту Турина (IRPI-CNR) з 1972 р. Він займається топографічними та аерофотографічними обстеженнями та аналізом даних високогірних регіонів."
 
-#: ../../source/site/about/case_studies/italy_turin.rst:3
-msgid ""
-"The Research Institute for Geo-hydrological Protection of Turin --- Aerial "
-"photo archive management"
-msgstr "Науково-дослідний інститут геогідрологічного захисту Турина --- управління архівом аерофотознімків"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
 
-#: ../../source/site/about/case_studies/italy_turin.rst:9
-msgid ""
-"The institute, for the explained purposes, keeps in its archive about "
-"170000, recent and historical, photograms --- the oldest one dating back to "
-"1920s (Figure 1) --- covering, in different years, the Po basin or part of "
-"it. Some photograms cover other basins in northern Italy. In addition the "
-"archives keeps flight plans of the described photograms (Figure 1)."
-msgstr "Для цих потреб інститут зберігає архів з понад 170000 історичних та актуальних фотографій --- найстаріша з них датується 1920 р. (малюнок 1) --- які дають уявлення про стан басейну річки По та прилеглих територій у різні роки. Деякі фотознімки також містять інформацію про інші басейни північної Італії. Крім того, в архіві зберігаються і плани польотів, за якими було отримано вищезазначені фотографії (малюнок 1)."
-
-#: ../../source/site/about/case_studies/italy_turin.rst:73
-msgid ""
-"Danilo Godone is a Postdoc grant holder, at Turin University, studying "
-"geomatic contribution in landslide, glacier and, more generally, natural "
-"disasters monitoring. He is a member of NATRISK --- Research Centre on "
-"Natural Risks in Mountain and Hilly Environments, in the same University. He"
-" acts as a freelance consultant in the same topics, too."
-msgstr "Danilo Godone є стипендіатом туринського університету та вивчає використання геоматики для моніторингу зсувів, льодовиків та інших стихійних лих. Також він член NATRISK --- науково-дослідного центру ризиків у гірській місцевості цього ж університету. Працює позаштатним консультантом."
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "The Research Institute for Geo-hydrological Protection of Turin - Aerial "

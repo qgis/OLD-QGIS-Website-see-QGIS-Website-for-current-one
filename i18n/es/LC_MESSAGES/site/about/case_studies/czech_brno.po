@@ -1,22 +1,29 @@
 # 
 # Translators:
 # Diana Galindo <drgalindog@linuxmail.org>, 2015
-# YoViajo, 2015-2016
+# Eric Armijo, 2015-2016
 # Ever Medina <ever.medinaftal@gmail.com>, 2019
-# YoViajo, 2016
+# Eric Armijo, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2019-04-09 15:18+0000\n"
-"Last-Translator: Ever Medina <ever.medinaftal@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:25+0000\n"
+"Last-Translator: Ever Medina <ever.medinaftal@gmail.com>, 2019\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../../source/site/about/case_studies/czech_brno.rst:3
+msgid ""
+"QGIS as major GIS software in the Laboratory on Experimental and Applied "
+"Geography"
+msgstr "QGIS es un software SIG principal en el Laboratorio de Geografía Experimental y Aplicada"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:6
 msgid "Introduction"
@@ -33,8 +40,23 @@ msgid ""
 msgstr "El Laboratorio de Geografía Experimental y Aplicada (LEAG) forma parte del College de Administración de Empresas y Hoteles, Ltd. en Brno, República Checa (Vysoká škola obchodní a hotelová, s.r.o.) que ofrece educación superior en turismo, negocios y gestión hotelera. LEAG se centra en modelar procesos socio-económicos espaciales, analizar patrones espaciales, describir y monitorear la realidad de las localidades y regiones."
 
 #: ../../source/site/about/case_studies/czech_brno.rst:15
+msgid "QGIS while modeling 3D objects"
+msgstr ""
+
+#: ../../source/site/about/case_studies/czech_brno.rst:15
 msgid "QGIS while modeling 3D objects (interpolation), terrain analysis"
 msgstr "QGIS mientras se modela objetos 3D (interpolación), análisis de terreno"
+
+#: ../../source/site/about/case_studies/czech_brno.rst:17
+msgid ""
+"LEAG plays important role in academic research held in College of Business "
+"and Hotel Management. The need of spatial modeling requires also excellent "
+"software. The philosophy of minimum cost and maximum efficiency led to "
+"choice of open source solutions. This step resulted in using core open "
+"source SW such as LibreOffice, GIMP, Inkscape and QGIS. QGIS does not stand "
+"alone –-- we use MapWindow, OpenJump, gvSIG, SAGA and others. But QGIS plays"
+" the major role."
+msgstr "LEAG juega un papel importante en la investigación académica realizada en el College de Administración de Empresas y Hoteles. La necesidad de modelado espacial también requiere un excelente software. La filosofía de costo mínimo y máxima eficiencia llevó a la elección de soluciones de Código Libre. Este paso dio como resultado el uso de SW de Código Libre como LibreOffice, GIMP, Inkscape y QGIS. QGIS no está solo: utilizamos MapWindow, OpenJump, gvSIG, SAGA y otros. Pero QGIS desempeña el papel principal."
 
 #: ../../source/site/about/case_studies/czech_brno.rst:20
 msgid "Use of QGIS"
@@ -65,6 +87,12 @@ msgstr "Estabilidad e interoperabilidad (estamos usando plataformas Windows y Ub
 msgid "Others (mentioned e.g. in the case study written by Dr. Horst Düster)"
 msgstr "Otros (mencionado por ej. en el estudio de caso escrito por Dr. Horst Düster)"
 
+#: ../../source/site/about/case_studies/czech_brno.rst:29
+msgid ""
+"Spatial analysis are done mainly using basic geoprocessing functions and "
+"Python-based plugins. Recent projects where QGIS was used:"
+msgstr "El análisis espacial se hace principalmente usando funciones básicas de geoprocesamiento y complementos basados en Python. Los proyectos recientes en que QGIS se usó:"
+
 #: ../../source/site/about/case_studies/czech_brno.rst:31
 msgid "Modeling patterns between spatial location and inhabitants"
 msgstr "Modelando patrones entre la ubicación espacial y habitantes"
@@ -87,54 +115,6 @@ msgid ""
 "students and researchers at College of Business and Hotel Management"
 msgstr "Homogeneización de geodatos de uso gratuito y creación de \"banco de geodatos\" para estudiantes e investigadores del College de Administración de Empresas y Hoteles."
 
-#: ../../source/site/about/case_studies/czech_brno.rst:45
-msgid "Using diagrams comparing population between two censuses"
-msgstr "Usando diagramas para comparar población entre dos censos"
-
-#: ../../source/site/about/case_studies/czech_brno.rst:48
-msgid "Conclusion"
-msgstr "Conclusión"
-
-#: ../../source/site/about/case_studies/czech_brno.rst:53
-msgid "Author"
-msgstr "Autor"
-
-#: ../../source/site/about/case_studies/czech_brno.rst:60
-msgid "Jakub Trojan"
-msgstr "Jakub Trojan"
-
-#: ../../source/site/about/case_studies/czech_brno.rst:62
-msgid ""
-"This article was contributed in November 2010 by Jakub Trojan. He is an "
-"academic researcher at College of Business and Hotel Management, Ltd. (Brno,"
-" CZ) where he founded and leads Laboratory on Experimental and Applied "
-"Geography. He is also a doctoral student at Institute of Geography, Faculty "
-"of Science, Masaryk university (Brno, CZ)."
-msgstr "Este artículo fue contribuido en noviembre de 2010 por Jakub Trojan. El es investigador académico en el College de Administración de Empresas y Hoteles, Ltd. (Brno, CZ), donde fundó y dirige el Laboratorio de Geografía Experimental y Aplicada. También es estudiante de doctorado en el Instituto de Geografía, Facultad de Ciencias, Universidad de Masaryk (Brno, CZ)."
-
-#: ../../source/site/about/case_studies/czech_brno.rst:3
-msgid ""
-"QGIS as major GIS software in the Laboratory on Experimental and Applied "
-"Geography"
-msgstr "QGIS es un software SIG principal en el Laboratorio de Geografía Experimental y Aplicada"
-
-#: ../../source/site/about/case_studies/czech_brno.rst:17
-msgid ""
-"LEAG plays important role in academic research held in College of Business "
-"and Hotel Management. The need of spatial modeling requires also excellent "
-"software. The philosophy of minimum cost and maximum efficiency led to "
-"choice of open source solutions. This step resulted in using core open "
-"source SW such as LibreOffice, GIMP, Inkscape and QGIS. QGIS does not stand "
-"alone –-- we use MapWindow, OpenJump, gvSIG, SAGA and others. But QGIS plays"
-" the major role."
-msgstr "LEAG juega un papel importante en la investigación académica realizada en el College de Administración de Empresas y Hoteles. La necesidad de modelado espacial también requiere un excelente software. La filosofía de costo mínimo y máxima eficiencia llevó a la elección de soluciones de Código Libre. Este paso dio como resultado el uso de SW de Código Libre como LibreOffice, GIMP, Inkscape y QGIS. QGIS no está solo: utilizamos MapWindow, OpenJump, gvSIG, SAGA y otros. Pero QGIS desempeña el papel principal."
-
-#: ../../source/site/about/case_studies/czech_brno.rst:29
-msgid ""
-"Spatial analysis are done mainly using basic geoprocessing functions and "
-"Python-based plugins. Recent projects where QGIS was used:"
-msgstr "El análisis espacial se hace principalmente usando funciones básicas de geoprocesamiento y complementos basados en Python. Los proyectos recientes en que QGIS se usó:"
-
 #: ../../source/site/about/case_studies/czech_brno.rst:36
 msgid ""
 "QGIS is used with synergy to other open source products. For example the "
@@ -153,6 +133,15 @@ msgid ""
 "during GIS Day held at our school on November 2010."
 msgstr "QGIS es también una gran herramienta educativa. El College de Administración de Empresas y Hoteles ofrece a los estudiantes asignaturas como \"Sistemas de Información Geográfica I. y II.\" o \"Capítulos seleccionados de alfabetización geoinformática\" donde QGIS se utiliza como plataforma principal para enseñar a los estudiantes cómo usar SIG y cómo producir mapas de alta calidad. Recientemente, QGIS se utilizó como producto principal durante el GIS Day que se llevó a cabo en nuestra escuela en noviembre de 2010."
 
+#: ../../source/site/about/case_studies/czech_brno.rst:45
+#: ../../source/site/about/case_studies/czech_brno.rst:60
+msgid "Using diagrams comparing population between two censuses"
+msgstr "Usando diagramas para comparar población entre dos censos"
+
+#: ../../source/site/about/case_studies/czech_brno.rst:48
+msgid "Conclusion"
+msgstr "Conclusión"
+
 #: ../../source/site/about/case_studies/czech_brno.rst:50
 msgid ""
 "With no cost and high efficiency the Laboratory on Experimental and Applied "
@@ -163,6 +152,31 @@ msgid ""
 "students. During regular workshops students learn how to legally work with "
 "QGIS and how to create their own maps."
 msgstr "Sin costo y alta eficiencia, el Laboratorio de Geografía Experimental y Aplicada produce análisis, mapas y visualizaciones de alta calidad. Utilizando QGIS, se están creando grandes bases de datos y se están realizando más pruebas de nuevas funciones. Finalmente, uno de los mayores impactos del uso de QGIS se puede ver en la educación: QGIS es el primer software que se presenta a los estudiantes. Durante los talleres regulares, los estudiantes aprenden cómo trabajar legalmente con QGIS y cómo crear sus propios mapas."
+
+#: ../../source/site/about/case_studies/czech_brno.rst:53
+msgid "Author"
+msgstr "Autor"
+
+#: ../../source/site/about/case_studies/czech_brno.rst:60
+msgid "Jakub Trojan"
+msgstr "Jakub Trojan"
+
+#: ../../source/site/about/case_studies/czech_brno.rst:62
+msgid ""
+"This article was contributed in November 2010 by Jakub Trojan. He is an "
+"academic researcher at College of Business and Hotel Management, Ltd. (Brno,"
+" CZ) where he founded and leads Laboratory on Experimental and Applied "
+"Geography. He is also a doctoral student at Institute of Geography, Faculty "
+"of Science, Masaryk university (Brno, CZ)."
+msgstr "Este artículo fue contribuido en noviembre de 2010 por Jakub Trojan. El es investigador académico en el College de Administración de Empresas y Hoteles, Ltd. (Brno, CZ), donde fundó y dirige el Laboratorio de Geografía Experimental y Aplicada. También es estudiante de doctorado en el Instituto de Geografía, Facultad de Ciencias, Universidad de Masaryk (Brno, CZ)."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "QGIS as major GIS software in the Laboratory"
 #~ msgstr ""

@@ -5,15 +5,27 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-06-29 10:59+0200\n"
-"PO-Revision-Date: 2017-09-23 20:42+0000\n"
-"Last-Translator: Tomas Straupis\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-08-07 14:37+0000\n"
+"Last-Translator: Tomas Straupis, 2015-2016\n"
 "Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: lt\n"
 "Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:5
+msgid "Adding GRASS Tools"
+msgstr "GRASS įrankių pridėjimas"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:7
+msgid ""
+"GRASS modules can be run from QGIS *GRASS Tools* if QGIS was started from a "
+"GRASS shell or if a GRASS mapset was opened from QGIS. The modules work with"
+" GRASS data only."
+msgstr "GRASS modulius galima paleisti iš QGIS *GRASS Įrankiai*, jei QGIS buvo paleistas iš GRASS arba jei GRASS žemėlapių rinkinys buvo atvertas iš QGIS. Moduliai dirba tik su GRASS duomenimis."
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:11
 msgid ""
@@ -40,6 +52,22 @@ msgid ""
 "it is run with _*--interface-description_* option, the output is in XML "
 "format, for example:"
 msgstr "Kiekvieno modulio parinktys, rodomas modulio_*Parinkčių_*kortelėje, sukuriamos pagal apibrėžimus QGM (QGIS GRASS modulis) faile ir pagal parinkčių apibrėžimą GRASS modulyje arba GRASS scenarijuje --- GMO (GRASS modulio parinktys). Kadangi kiekviena QGM parinktis yra susieta su viena (ar daugiau) GMO, dažnai naudinga ar net privaloma peržiūrėti GMO. GMO išveda GRASS modulis, jei jis paleidžiamas su parinktimi _*--interface-description_*, išvedama XML formatu, pavyzdžiui:"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:36
+msgid ""
+"Some GRASS modules have too many options which can be confusing for "
+"beginners. In QGM it is possible to define only some of them and possibly "
+"set some default values and/or hide some options with certain value. That "
+"means that more QGIS-GRASS modules can be defined for each GRASS module. For"
+" example the module r.to.vect was divided into three QGIS-GRASS modules with"
+" predefined \"feature\" option. The QGM definition is written in XML format "
+"file with extension .qgm, one for each QGIS-GRASS module. Configuration "
+"files are stored in _*qgis/src/plugins/grass/modules*_ directory and "
+"installed in _*share/qgis/grass/modules*_ directory. The name of the file "
+"should start with GRASS module name + a word describing the specific task. "
+"For example, the module which extracts vector lines from raster is called "
+"r.to.vect.line.qgm."
+msgstr "Kai kurie GRASS moduliai turi per daug parinkčių, ,kurios gali gluminti pradedančiuosius. QGM galima apibrėžti tik kelias iš jų ir galbūt naudoti numatytąsias reikšmes ir/ar slėpti parinktis su konkrečia reikšme. Tai reiškia, kad kiekvienam GRASS moduliui galima apibrėžti daugiau QGIS-GRASS modulių. Pavyzdžiui modulis r.to.vect was yra padalintas į tris QGIS-GRASS modulius su iš anksto numatyta „geoobjekto“ parinktimi. QGM apibrėžimas parašytas XML formato faile su praplėtimu .qgm, po vieną kiekvienam QGIS-GRASS moduliui. Konfigūraciniai failai saugomi aplanke  _*qgis/src/plugins/grass/modules*_ ir diegiami į aplanką _*share/qgis/grass/modules*_. Failo pavadinimas turi prasidėti GRASS modulio pavadinimu + žodžiu, aprašančiu konkrečią užduotį. Pavyzdžiui modulis, kuris ištraukia vektorių linijas iš rastro pavadintas r.to.vect.line.qgm."
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:48
 msgid "Here is an example of a configuration file:"
@@ -78,6 +106,15 @@ msgid ""
 "*field* --- for vector layers defines attribute field, the option is created"
 " as combobox with available fields. For example (v.to.db.qgm):"
 msgstr "*field* --- vektoriniams sluoksniams apibrėžia atributų lauką, parinktis sukurta kaip iškrentantis sąrašas su galimais laukais. Pavyzdžiui (v.to.db.qgm):"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:92
+msgid ""
+"*selection* --- this is quite interesting and useful type of option. It "
+"allows to define list of GRASS vector categories using QGIS interface. "
+"Features (and their categories, GRASS feature ID equivalent) can be selected"
+" either with 'Select Features' tool or in the attribute table. The list of "
+"categories is updated dynamically. Example (v.extract.list.qgm):"
+msgstr "*selection* --- tai gan įdomi ir naudinga parinktis. Ji leidžia nurodyti GRASS vektorių kategorijų sąrašą naudojant QGIS sąsają. Geoobjektus (ir jų kategorijas, GRASS geoobjekto ID atitikmuo) galima parinkti arba įrankiu „Pažymėti geoobjektus“, arba atributų lentelėje. Kategorijų sąrašas atnaujinamas dinamiškai. Pavyzdžiui (v.extract.list.qgm):"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:103
 msgid "Common option/flag tag attributes"
@@ -131,6 +168,13 @@ msgid ""
 "vector layer will be used for that option. For example (v.overlay.or.qgm):"
 msgstr "*typeoption* --- ši parinktis gali būti naudojama su vektoriniu sluoksniu, kad apibrėžtų vektorių įvesties tipo parinkties pavadinimą. Vykdant modulį, parinkto vektorinio sluoksnio tipas bus naudojamas tai parinkčiai. Pavyzdžiui (v.overlay.or.qgm):"
 
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:128
+msgid ""
+"It means that if a layer is selected from combobox of this option the "
+"_*atype*_ option is automaticaly set to the layer's type, and thus _*atype*_"
+" does not have to be added at all."
+msgstr "Tai reiškia, kad jei sluoksnis parenkamas iškrentančiame šios parinkties sąraše _*atype*_ parinktis automatiškai įrašoma į sluoksnio tipą, taigi _*atype*_ apskritai nereikia pridėti."
+
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:132
 msgid "*layeroption* --- equivalent of typeoption for layer."
 msgstr "*layeroption* --- typeoption atitikmuo sluoksniui."
@@ -169,12 +213,27 @@ msgstr "Tai reiškia, kad iškrentančiame sąraše bus tik atributų laukai, ku
 msgid "Behind the scene"
 msgstr "Užkulisiai"
 
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:157
+msgid ""
+"The idea QGIS-GRASS modules implementation is to use maximum information "
+"from GMO and only simplify the interface. Here are described some rules how "
+"information from GMO are used and in which order if not all of them are "
+"defined in GMO."
+msgstr "QGIS-GRASS modulių įgyvendinimo mintis yra naudoti kiek galima daugiau informacijos iš GMO ir tik supaprastinti sąsają. Žemiau pateikiamos kelios taisyklės kaip informacija iš GMO naudojama ir kokia seka, jei ne visos, jos aprašomos GMO."
+
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:162
 msgid ""
 "*label* --- if label attribute is defined in QGM it is used as option label,"
 " if it is not defined GMO option label tag is used and if it is not defined "
 "GMO option description tag is used"
 msgstr "*label* --- jei etiketės atributas apibrėžtas QGM, jis naudojamas kaip parinkties etiketė, jei jis neapibrėžtas - naudojama GMO parinkties etiketės žyma, o jei ji neapibrėžta GMO, naudojama parinkties apibrėžimo žyma"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:165
+msgid ""
+"*tooltip* --- (appeares on mouseover the option) if label is defined (either"
+" in QGM or GMO) and description is defined in GMO (thus label and "
+"description differ) the GMO description tag is used for tooltip"
+msgstr "*tooltip* --- (rodomas užvedus pelės žymeklį virš parinkties) jei etiketė apibrėžta (arba QGM, arba GMO) ir aprašymas apibrėžtas GMO (taigi etiketė ir aprašymas skirtingi) naudojama GMO apibrėžimo žyma"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:168
 msgid ""
@@ -210,6 +269,22 @@ msgstr "2 piešiniai --- QGIS sukurs piktogramą: 1 -> 2"
 msgid "3 pictures --- QGIS will create icon: 1 + 2 -> 3"
 msgstr "3 piešiniai --- QGIS sukurs piktogramą: 1 + 2 -> 3"
 
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:185
+msgid ""
+"The name of the picture starts with QGIS-GRASS module name to which is "
+"appended picture number, for example: v.overlay.and.1.svg, "
+"v.overlay.and.2.svg, v.overlay.and.3.svg. It is possible to combine SVG and "
+"PNG pictures."
+msgstr "Piešinio pavadinimas prasideda QGIS-GRASS modulio pavadinimu, prie kurio pridedamas piešinio numeris, pavyzdžiui: v.overlay.and.1.svg, v.overlay.and.2.svg, v.overlay.and.3.svg. Galima kartu naudoti SVG ir PNG piešinius."
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:189
+msgid ""
+"SVG and PNG pictures can be generated from QGIS using *Map Composer*. The "
+"size of PNG images should be larger than the expected icon size, because it "
+"is expected to be later used in automatically generated documentation, where"
+" pictures will be used in larger size."
+msgstr "SVG ir PNG piešinius galima kurti QGIS naudojant *Žemėlapio kūrėją*. PNG piešinių dydis turi būti didesnis nei norimas piktogramos dydis, nes jis vėliau bus naudojamas dokumentacijoje, kur bus naudojami didesnio dydžio piešiniai."
+
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:195
 msgid "QGIS GRASS scripts"
 msgstr "QGIS GRASS scenarijai"
@@ -238,6 +313,12 @@ msgstr "Kai jau turime naują QGM konfigūracijos failą, galime pridėti modul�
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:211
 msgid "Here is an example of a record for r.to.vect.line.qgm module"
 msgstr "Štai pavyzdys įrašo moduliui r.to.vect.line.qgm"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:220
+msgid ""
+"For section/module it is possible to specify GRASS version for which it is "
+"valid using version_min/version_max attributes:"
+msgstr "Skilčiai/moduliui galima nurodyti, kuriai GRASS versijai jie tinka, naudojant version_min/version_max atributus:"
 
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:223
 msgid ""
@@ -349,6 +430,18 @@ msgid ""
 "are most important to be added."
 msgstr "Dauguma modulių jau pridėti. Jei jums reikia papildomų modulių, prašome parašyti į qgis vystymo sąrašyną ir išvardinti modulius, kuriuos jūsų nuomone svarbiausia pridėti."
 
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:274
+msgid ""
+"You should post the name of a new QGIS-GRASS module, the name of the GRASS "
+"module and the options which you want to use. For example:"
+msgstr "Turėtumėte parašyti naujo QGIS-GRASS modulio pavadinimą, GRASS modulio pavadinimą ir parinktis, kurias norėtumėte naudoti. Pavyzdžiui:"
+
+#: ../../source/site/getinvolved/development/addinggrasstools.rst:281
+msgid ""
+"See also here for discussion on `GRASS-QGIS relevant module list "
+"<http://grass.osgeo.org/wiki/GRASS-QGIS_relevant_module_list>`_."
+msgstr "Taipogi sekite atitinkamas „GRASS-QGIS susijusių modulių sąrašo“ diskusijas <http://grass.osgeo.org/wiki/GRASS-QGIS_relevant_module_list>`_."
+
 #: ../../source/site/getinvolved/development/addinggrasstools.rst:286
 msgid "Modules to be deprecated"
 msgstr "Moduliai, kurie nebebus naudojami"
@@ -362,97 +455,13 @@ msgid ""
 "the redmine (better still: fix it yourself and send the patch)."
 msgstr "Siųskite sąrašą modulių, kurie turėtų būti išimti, su šio pasiūlymo paaiškinimu (pavyzdžiui kai kurie moduliai, susiję su projekcijomis, sunkiai suprantami, todėl netinka bendram naudojimui). Prašome pastebėti, kad kai kurie moduliai nebuvo gerai išbandyti. Prašome juos išbandyti ir, jei randate klaidą, pranešti apie tai „redmine“ (o dar geriau: pataisykite patys ir nusiųskite pataisymą)."
 
-#: ../../source/site/getinvolved/development/addinggrasstools.rst:5
-msgid "Adding GRASS Tools"
-msgstr "GRASS įrankių pridėjimas"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/getinvolved/development/addinggrasstools.rst:7
-msgid ""
-"GRASS modules can be run from QGIS *GRASS Tools* if QGIS was started from a "
-"GRASS shell or if a GRASS mapset was opened from QGIS. The modules work with"
-" GRASS data only."
-msgstr "GRASS modulius galima paleisti iš QGIS *GRASS Įrankiai*, jei QGIS buvo paleistas iš GRASS arba jei GRASS žemėlapių rinkinys buvo atvertas iš QGIS. Moduliai dirba tik su GRASS duomenimis."
-
-#: ../../source/site/getinvolved/development/addinggrasstools.rst:36
-msgid ""
-"Some GRASS modules have too many options which can be confusing for "
-"beginners. In QGM it is possible to define only some of them and possibly "
-"set some default values and/or hide some options with certain value. That "
-"means that more QGIS-GRASS modules can be defined for each GRASS module. For"
-" example the module r.to.vect was divided into three QGIS-GRASS modules with"
-" predefined \"feature\" option. The QGM definition is written in XML format "
-"file with extension .qgm, one for each QGIS-GRASS module. Configuration "
-"files are stored in _*qgis/src/plugins/grass/modules*_ directory and "
-"installed in _*share/qgis/grass/modules*_ directory. The name of the file "
-"should start with GRASS module name + a word describing the specific task. "
-"For example, the module which extracts vector lines from raster is called "
-"r.to.vect.line.qgm."
-msgstr "Kai kurie GRASS moduliai turi per daug parinkčių, ,kurios gali gluminti pradedančiuosius. QGM galima apibrėžti tik kelias iš jų ir galbūt naudoti numatytąsias reikšmes ir/ar slėpti parinktis su konkrečia reikšme. Tai reiškia, kad kiekvienam GRASS moduliui galima apibrėžti daugiau QGIS-GRASS modulių. Pavyzdžiui modulis r.to.vect was yra padalintas į tris QGIS-GRASS modulius su iš anksto numatyta „geoobjekto“ parinktimi. QGM apibrėžimas parašytas XML formato faile su praplėtimu .qgm, po vieną kiekvienam QGIS-GRASS moduliui. Konfigūraciniai failai saugomi aplanke  _*qgis/src/plugins/grass/modules*_ ir diegiami į aplanką _*share/qgis/grass/modules*_. Failo pavadinimas turi prasidėti GRASS modulio pavadinimu + žodžiu, aprašančiu konkrečią užduotį. Pavyzdžiui modulis, kuris ištraukia vektorių linijas iš rastro pavadintas r.to.vect.line.qgm."
-
-#: ../../source/site/getinvolved/development/addinggrasstools.rst:92
-msgid ""
-"*selection* --- this is quite interesting and useful type of option. It "
-"allows to define list of GRASS vector categories using QGIS interface. "
-"Features (and their categories, GRASS feature ID equivalent) can be selected"
-" either with 'Select Features' tool or in the attribute table. The list of "
-"categories is updated dynamically. Example (v.extract.list.qgm):"
-msgstr "*selection* --- tai gan įdomi ir naudinga parinktis. Ji leidžia nurodyti GRASS vektorių kategorijų sąrašą naudojant QGIS sąsają. Geoobjektus (ir jų kategorijas, GRASS geoobjekto ID atitikmuo) galima parinkti arba įrankiu „Pažymėti geoobjektus“, arba atributų lentelėje. Kategorijų sąrašas atnaujinamas dinamiškai. Pavyzdžiui (v.extract.list.qgm):"
-
-#: ../../source/site/getinvolved/development/addinggrasstools.rst:128
-msgid ""
-"It means that if a layer is selected from combobox of this option the "
-"_*atype*_ option is automaticaly set to the layer's type, and thus _*atype*_"
-" does not have to be added at all."
-msgstr "Tai reiškia, kad jei sluoksnis parenkamas iškrentančiame šios parinkties sąraše _*atype*_ parinktis automatiškai įrašoma į sluoksnio tipą, taigi _*atype*_ apskritai nereikia pridėti."
-
-#: ../../source/site/getinvolved/development/addinggrasstools.rst:157
-msgid ""
-"The idea QGIS-GRASS modules implementation is to use maximum information "
-"from GMO and only simplify the interface. Here are described some rules how "
-"information from GMO are used and in which order if not all of them are "
-"defined in GMO."
-msgstr "QGIS-GRASS modulių įgyvendinimo mintis yra naudoti kiek galima daugiau informacijos iš GMO ir tik supaprastinti sąsają. Žemiau pateikiamos kelios taisyklės kaip informacija iš GMO naudojama ir kokia seka, jei ne visos, jos aprašomos GMO."
-
-#: ../../source/site/getinvolved/development/addinggrasstools.rst:165
-msgid ""
-"*tooltip* --- (appeares on mouseover the option) if label is defined (either"
-" in QGM or GMO) and description is defined in GMO (thus label and "
-"description differ) the GMO description tag is used for tooltip"
-msgstr "*tooltip* --- (rodomas užvedus pelės žymeklį virš parinkties) jei etiketė apibrėžta (arba QGM, arba GMO) ir aprašymas apibrėžtas GMO (taigi etiketė ir aprašymas skirtingi) naudojama GMO apibrėžimo žyma"
-
-#: ../../source/site/getinvolved/development/addinggrasstools.rst:185
-msgid ""
-"The name of the picture starts with QGIS-GRASS module name to which is "
-"appended picture number, for example: v.overlay.and.1.svg, "
-"v.overlay.and.2.svg, v.overlay.and.3.svg. It is possible to combine SVG and "
-"PNG pictures."
-msgstr "Piešinio pavadinimas prasideda QGIS-GRASS modulio pavadinimu, prie kurio pridedamas piešinio numeris, pavyzdžiui: v.overlay.and.1.svg, v.overlay.and.2.svg, v.overlay.and.3.svg. Galima kartu naudoti SVG ir PNG piešinius."
-
-#: ../../source/site/getinvolved/development/addinggrasstools.rst:189
-msgid ""
-"SVG and PNG pictures can be generated from QGIS using *Map Composer*. The "
-"size of PNG images should be larger than the expected icon size, because it "
-"is expected to be later used in automatically generated documentation, where"
-" pictures will be used in larger size."
-msgstr "SVG ir PNG piešinius galima kurti QGIS naudojant *Žemėlapio kūrėją*. PNG piešinių dydis turi būti didesnis nei norimas piktogramos dydis, nes jis vėliau bus naudojamas dokumentacijoje, kur bus naudojami didesnio dydžio piešiniai."
-
-#: ../../source/site/getinvolved/development/addinggrasstools.rst:220
-msgid ""
-"For section/module it is possible to specify GRASS version for which it is "
-"valid using version_min/version_max attributes:"
-msgstr "Skilčiai/moduliui galima nurodyti, kuriai GRASS versijai jie tinka, naudojant version_min/version_max atributus:"
-
-#: ../../source/site/getinvolved/development/addinggrasstools.rst:274
-msgid ""
-"You should post the name of a new QGIS-GRASS module, the name of the GRASS "
-"module and the options which you want to use. For example:"
-msgstr "Turėtumėte parašyti naujo QGIS-GRASS modulio pavadinimą, GRASS modulio pavadinimą ir parinktis, kurias norėtumėte naudoti. Pavyzdžiui:"
-
-#: ../../source/site/getinvolved/development/addinggrasstools.rst:281
-msgid ""
-"See also here for discussion on `GRASS-QGIS relevant module list "
-"<http://grass.osgeo.org/wiki/GRASS-QGIS_relevant_module_list>`_."
-msgstr "Taipogi sekite atitinkamas „GRASS-QGIS susijusių modulių sąrašo“ diskusijas <http://grass.osgeo.org/wiki/GRASS-QGIS_relevant_module_list>`_."
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "See also here for discussion on \"GRASS-QGIS relevant module "

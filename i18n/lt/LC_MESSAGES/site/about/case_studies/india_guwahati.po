@@ -5,13 +5,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-08-07 15:40+0200\n"
-"PO-Revision-Date: 2017-09-23 20:42+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-08-07 14:36+0000\n"
+"Last-Translator: Tomas Straupis, 2015\n"
 "Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: lt\n"
 "Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
 
@@ -19,33 +20,6 @@ msgstr ""
 msgid ""
 "Trainings & Research activities using QGIS at NIRD&PR-NERC, Guwahati, India"
 msgstr "Mokymai ir tyrimai naudojant QGIS NIRD&PR-NERC, Guwahatyje, Indijoje"
-
-#: ../../source/site/about/case_studies/india_guwahati.rst:13
-msgid ""
-"There is a question why QGIS only when other software like uDig, MapWindow, "
-"gvSIG, GRASS are also there. The answer lies in the facts that QGIS is an "
-"OSGeo incubated project, less complex, its development is very fast and "
-"associated with huge community of users and developers and lastly authors "
-"expertise. With its latest version of 2.4, software is capable of satisfying"
-" the all needs of grass root rural development executors in India with "
-"satisfying the present queries and wishes for future."
-msgstr "Yra klausimas kodėl tik QGIS, kai yra tokia programinė įranga kaip uDig, MapWindow, gvSIG, GRASS. Atsakymas aiškus dėl to, kad QGIS yra OSGeo kuruojamas projektas, mažiau sudėtingas, vystymas labai greitas ir susietas su didžiule naudotojų ir vystytojų bendruomene ir pagaliau su autorių ekspertize. Paskutinioji 2.4 versija leidžia patenkinti visus kaimo vietovių vystymo vykdytojų Indijoje poreikius, patenkinant tiek šiandieninius reikalavimus, tiek ir norus ateičiai."
-
-#: ../../source/site/about/case_studies/india_guwahati.rst:23
-msgid "Training course at NIRD&PR-NERC, Guwahati"
-msgstr "Mokymai NIRD&PR-NERC, Guwahatyje"
-
-#: ../../source/site/about/case_studies/india_guwahati.rst:27
-msgid "Conducted QGIS training courses and participants"
-msgstr "Vykdyti QGIS mokymai ir dalyviai"
-
-#: ../../source/site/about/case_studies/india_guwahati.rst:37
-msgid "Authors"
-msgstr "Autoriai"
-
-#: ../../source/site/about/case_studies/india_guwahati.rst:44
-msgid "Alajangi Simhachalam"
-msgstr "Alajangi Simhachalam"
 
 #: ../../source/site/about/case_studies/india_guwahati.rst:5
 msgid ""
@@ -80,6 +54,37 @@ msgid ""
 "maps."
 msgstr "Anksčiau aš vesdavau GIS mokymus su komercine programine įranga, tokia kaip ArcGIS ir ERDAS. Po mokymo programos pabaigos dalyviai būdavo nepatenkinti, kad negali gauti programinės įrangos praktikai. Tada buvo rastas sprendimas - QGIS. Pristačius QuantumGIS pasidarė aišku, kad Atviro Kodo GIS gali patenkinti Indijos kaimo vystymo sektoriaus poreikius. Atitinkamai jis buvo įvestas į tyrimo darbus, kuriant geografinio pagrindo žemėlapius, tokius kaip kelių, drėkinimo, gyvenviečių, vandens naudojimo ribų ir pan. bei GPS duomenų paruošimui, atsiuntimui, analizei, susiejimui su vietovėje padarytomis nuotraukomis ir pan. Naudojant Google earth priedą mes supažindinti su LULC žemėlapių ruošimu."
 
+#: ../../source/site/about/case_studies/india_guwahati.rst:9
+msgid ""
+"Software was then pursued for the personal use for one year and its new "
+"versions were checked for the enhanced functionalities. During this whenever"
+" author was course coordinator in training, he used QGIS in trainings for "
+"introduction and feedbacks."
+msgstr "Programinė įranga tada buvo vienus metus naudota asmeniniams tikslams, naujose versijose buvo ieškoma pagerinto funkcionalumo. Tuo metu, kai autorius buvo mokymų koordinatorius, jis naudojo QGIS įvadiniams mokymams ir atsiliepimams."
+
+#: ../../source/site/about/case_studies/india_guwahati.rst:11
+msgid ""
+"QGIS is being used in GIS trainings at the centre. Further it is being "
+"messaged and advised in all trainings that no commercial GIS software should"
+" be purchased at District (administrative unit in India after Nation and "
+"State) and below, if real requirement is not felt and this saving may be "
+"used for purchase of hardware like GPSs, computers etc. In the training we "
+"have been introduced to participants Georeferencing, database creation, "
+"digitization, editing, analysis and print composer etc. After introducing "
+"QGIS, we are getting good feedback from various officials and students."
+msgstr "Centre QGIS naudojamas GIS mokymams. Toliau informuojama ir siūloma nepirkti jokių komercinių GIS paketų mokymams visoje apskrityje (administracinis Indijos vienetas po Valstybės ir Valstijos) ir žemesniuose lygmenyse, jei nėra realaus poreikio, o sutaupytos lėšos gali būti panaudotos perkant techninę įrangą, tokią kaip GPS, kompiuterius ir pan. Mokymuose mes supažindiname dalyvius su geopririšimu, duomenų bazių kūrimu, skaitmeninimu, keitimu, analize, spausdinimo kūrėju ir kt. Po QGIS pristatymo gauname gerus atsiliepimus iš įvairių tarnautojų ir studentų."
+
+#: ../../source/site/about/case_studies/india_guwahati.rst:13
+msgid ""
+"There is a question why QGIS only when other software like uDig, MapWindow, "
+"gvSIG, GRASS are also there. The answer lies in the facts that QGIS is an "
+"OSGeo incubated project, less complex, its development is very fast and "
+"associated with huge community of users and developers and lastly authors "
+"expertise. With its latest version of 2.4, software is capable of satisfying"
+" the all needs of grass root rural development executors in India with "
+"satisfying the present queries and wishes for future."
+msgstr "Yra klausimas kodėl tik QGIS, kai yra tokia programinė įranga kaip uDig, MapWindow, gvSIG, GRASS. Atsakymas aiškus dėl to, kad QGIS yra OSGeo kuruojamas projektas, mažiau sudėtingas, vystymas labai greitas ir susietas su didžiule naudotojų ir vystytojų bendruomene ir pagaliau su autorių ekspertize. Paskutinioji 2.4 versija leidžia patenkinti visus kaimo vietovių vystymo vykdytojų Indijoje poreikius, patenkinant tiek šiandieninius reikalavimus, tiek ir norus ateičiai."
+
 #: ../../source/site/about/case_studies/india_guwahati.rst:15
 msgid ""
 "The applications of software during training are generally concentrated on "
@@ -92,6 +97,14 @@ msgid ""
 "Windows8 OS. Per training programme number of trainees remains between "
 "20-30."
 msgstr "Programinė įranga pagrinde naudojama resursų žymėjimui, kaimo infrastruktūros ir įrenginių žymėjimui, takoskyroms ir Mahatma Gandžio nacionalinės kaimo vystymo garantijos schemai (MGNREGS). Takoskyra ir MGNREGS yra Indijos vyriausybės flagmanai. Pratyboms naudojami vietos atviri rastro ir vektoriniai duomenys. Dalyviai skatinami atvykti su savo skyrių duomenimis, jei jie tinka darbui. Mokymai vykdomi laboratorijoje, kurioje yra 22 kompiuteriai su i7, 4GB RAM ir Windows8 OS. Kiekvienos mokymo programos dalyvių skaičius 20-30."
+
+#: ../../source/site/about/case_studies/india_guwahati.rst:23
+msgid "Training course at NIRD&PR-NERC, Guwahati"
+msgstr "Mokymai NIRD&PR-NERC, Guwahatyje"
+
+#: ../../source/site/about/case_studies/india_guwahati.rst:27
+msgid "Conducted QGIS training courses and participants"
+msgstr "Vykdyti QGIS mokymai ir dalyviai"
 
 #: ../../source/site/about/case_studies/india_guwahati.rst:29
 msgid ""
@@ -124,31 +137,27 @@ msgid ""
 "initiated."
 msgstr "Kiekvieną mėnesį mokoma 20-30 dalyvių, taigi šis skaičius kiekvieną mėnesį auga. Atsiliepimai apie mokymą vis dar labai pozityvūs ir skatinantys. Po mokymo dalyviai gauna sertifikatus. Šiuo metu dalyviai gauna atspausdintus lankstinukus ir mokymo medžiagą, o elektroniniu pavidalu - programinę įrangą ir praktikos duomenis, bet ateities planas yra sukurti DVD, kuriame būtų paskaitų/demonstracijų įrašas anglų kalba. Ateityje taipogi gali būti pradėtos sertifikatų ir diplomų programos."
 
+#: ../../source/site/about/case_studies/india_guwahati.rst:37
+msgid "Authors"
+msgstr "Autoriai"
+
+#: ../../source/site/about/case_studies/india_guwahati.rst:44
+msgid "Alajangi Simhachalam"
+msgstr "Alajangi Simhachalam"
+
 #: ../../source/site/about/case_studies/india_guwahati.rst:46
 msgid ""
 "This article was contributed in July 2014 by Alajangi Simhachalam, Adjunct "
 "Faculty, NIRD-NERC, Guwahati Website: http://www.nirdnerc.nic.in"
 msgstr "Šį straipsnį 2014 liepą parašė Alajangi Simhachalam, Adjunct Faculty, NIRD-NERC, Guwahati svetainė: http://www.nirdnerc.nic.in"
 
-#: ../../source/site/about/case_studies/india_guwahati.rst:9
-msgid ""
-"Software was then pursued for the personal use for one year and its new "
-"versions were checked for the enhanced functionalities. During this whenever"
-" author was course coordinator in training, he used QGIS in trainings for "
-"introduction and feedbacks."
-msgstr "Programinė įranga tada buvo vienus metus naudota asmeniniams tikslams, naujose versijose buvo ieškoma pagerinto funkcionalumo. Tuo metu, kai autorius buvo mokymų koordinatorius, jis naudojo QGIS įvadiniams mokymams ir atsiliepimams."
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/about/case_studies/india_guwahati.rst:11
-msgid ""
-"QGIS is being used in GIS trainings at the centre. Further it is being "
-"messaged and advised in all trainings that no commercial GIS software should"
-" be purchased at District (administrative unit in India after Nation and "
-"State) and below, if real requirement is not felt and this saving may be "
-"used for purchase of hardware like GPSs, computers etc. In the training we "
-"have been introduced to participants Georeferencing, database creation, "
-"digitization, editing, analysis and print composer etc. After introducing "
-"QGIS, we are getting good feedback from various officials and students."
-msgstr "Centre QGIS naudojamas GIS mokymams. Toliau informuojama ir siūloma nepirkti jokių komercinių GIS paketų mokymams visoje apskrityje (administracinis Indijos vienetas po Valstybės ir Valstijos) ir žemesniuose lygmenyse, jei nėra realaus poreikio, o sutaupytos lėšos gali būti panaudotos perkant techninę įrangą, tokią kaip GPS, kompiuterius ir pan. Mokymuose mes supažindiname dalyvius su geopririšimu, duomenų bazių kūrimu, skaitmeninimu, keitimu, analize, spausdinimo kūrėju ir kt. Po QGIS pristatymo gauname gerus atsiliepimus iš įvairių tarnautojų ir studentų."
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "Software was then pursued for the personal use for one year and its new "

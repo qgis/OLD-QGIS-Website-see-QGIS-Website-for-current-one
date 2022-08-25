@@ -8,156 +8,165 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-19 17:16+0100\n"
-"PO-Revision-Date: 2018-12-21 01:15+0000\n"
-"Last-Translator: Yasmim Araújo Silva <26yasmim@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-23 13:16+0000\n"
+"Last-Translator: Yasmim Araújo Silva <26yasmim@gmail.com>, 2018\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/qgis/qgis-website/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: pt_BR\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/getinvolved/meetings/developer/index.rst:3
 msgid "QGIS Developer Meetings"
 msgstr "Encontros de Programadores QGIS"
 
 #: ../../source/site/getinvolved/meetings/developer/index.rst:6
+msgid "The organization of events happens on the `QGIS wiki <wiki_link_>`_."
+msgstr ""
+
+#: ../../source/site/getinvolved/meetings/developer/index.rst:11
+msgid "Pre-2016 events are listed below:"
+msgstr ""
+
+#: ../../source/site/getinvolved/meetings/developer/index.rst:15
 msgid "2016 - 16th QGIS Developer Meeting in Bonn"
 msgstr "2016 - 16° Encontro de Desenvolvedores do QGIS em Bonn"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:8
+#: ../../source/site/getinvolved/meetings/developer/index.rst:17
 msgid ""
 "The 16th QGIS Developer Meeting from 21 - 23 August and 27 - 28 August took "
 "place in Bonn, Germany together with the FOSS4G 2016 Code Sprint before and "
 "after the conference."
 msgstr "A 16ª Reunião de Desenvolvedores do QGIS, de 21 a 23 de agosto e 27 a 28 de agosto, foi realizada em Bonn, Alemanha, juntamente com a FOSS4G 2016 Code Sprint, antes e depois da conferência."
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:13
+#: ../../source/site/getinvolved/meetings/developer/index.rst:22
 msgid "2016 - 15th QGIS Developer Meeting in Girona"
 msgstr "2016 - 15ª reunião de desenvolvedores do QGIS em Girona"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:15
+#: ../../source/site/getinvolved/meetings/developer/index.rst:24
 msgid ""
 "The 15th QGIS Developer Meeting from 27 - 29 May 2016 took place in Girona, "
 "Spain right after the 2nd International QGIS User and Developer Conference "
 "and the Jornadas SIG Libre."
 msgstr "A 15ª Reunião de Desenvolvedores do QGIS de 27 a 29 de maio de 2016 ocorreu em Girona, Espanha, logo após a 2ª Conferência Internacional de Usuários e Desenvolvedores do QGIS e as Jornadas SIG Libre."
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:19
+#: ../../source/site/getinvolved/meetings/developer/index.rst:28
 msgid ""
-"For a summary of the event, please see http://blog.qgis.org/2016/06/30"
-"/report-back-15th-qgis-hackfest-in-girona-spain/"
+"For a summary of the event, please see "
+"http://blog.qgis.org/2016/06/30/report-back-15th-qgis-hackfest-in-girona-"
+"spain/"
 msgstr "Para um resumo do evento, consulte http://blog.qgis.org/2016/06/30/report-back-15th-qgis-hackfest-in-girona-spain/"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:23
+#: ../../source/site/getinvolved/meetings/developer/index.rst:32
 msgid "2015 - 14th QGIS Developer Meeting in Las Palmas"
 msgstr "2015 - 14ª reunião de desenvolvedores do QGIS em Las Palmas"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:25
+#: ../../source/site/getinvolved/meetings/developer/index.rst:34
 msgid ""
 "The 14th QGIS Developer Meeting from 5 -8 November 2015 was organised by:"
 msgstr "A 14ª reunião de desenvolvedores do QGIS de 5 a 8 de novembro de 2015 foi organizada por:"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:27
+#: ../../source/site/getinvolved/meetings/developer/index.rst:36
 msgid "Universidad de las Palmas de Gran Canaria."
 msgstr "Universidade de Las Palmas de Gran Canaria."
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:28
+#: ../../source/site/getinvolved/meetings/developer/index.rst:37
 msgid ""
 "Oficina de Software libre de la Universidad de las Palmas de Gran Canaria."
 msgstr "Oficina de Software livre da Universidade de Las Palmas de Gran Canaria"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:29
+#: ../../source/site/getinvolved/meetings/developer/index.rst:38
 msgid "Ayuntamiento de las Palmas de Gran Canaria."
 msgstr "Câmara Municipal de Las Palmas de Gran Canaria."
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:31
+#: ../../source/site/getinvolved/meetings/developer/index.rst:40
 msgid ""
 "Thanks for this! And kudos to Pablo Fernández Moniz and his crew for his "
 "efforts to make this a great hackfest."
 msgstr "Obrigado por isso! E elogios para Pablo Fernández Moniz e sua equipe por seus esforços para fazer deste um grande hackfest."
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:35
+#: ../../source/site/getinvolved/meetings/developer/index.rst:44
 msgid "2015 - 13th QGIS Developer Meeting in Nodebo"
 msgstr "2015 - 13ª reunião de desenvolvedores do QGIS em Nodebo"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:37
+#: ../../source/site/getinvolved/meetings/developer/index.rst:46
 msgid ""
 "The 13th QGIS Developer Meeting from 18 -22 May 2015 organized in "
 "conjunction with the first `QGIS User Conference 2015 "
 "<https://qgis2015.wordpress.com>`_."
 msgstr "A 13ª Reunião de Desenvolvedores do QGIS, de 18 a 22 de maio de 2015, organizada em conjunto com o primeiro 'QGIS User Conference 2015 <https://qgis2015.wordpress.com> `_."
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:40
-#: ../../source/site/getinvolved/meetings/developer/index.rst:105
-#: ../../source/site/getinvolved/meetings/developer/index.rst:116
-#: ../../source/site/getinvolved/meetings/developer/index.rst:127
-#: ../../source/site/getinvolved/meetings/developer/index.rst:162
-#: ../../source/site/getinvolved/meetings/developer/index.rst:172
-#: ../../source/site/getinvolved/meetings/developer/index.rst:184
-#: ../../source/site/getinvolved/meetings/developer/index.rst:195
+#: ../../source/site/getinvolved/meetings/developer/index.rst:49
+#: ../../source/site/getinvolved/meetings/developer/index.rst:114
+#: ../../source/site/getinvolved/meetings/developer/index.rst:125
+#: ../../source/site/getinvolved/meetings/developer/index.rst:136
+#: ../../source/site/getinvolved/meetings/developer/index.rst:171
+#: ../../source/site/getinvolved/meetings/developer/index.rst:181
+#: ../../source/site/getinvolved/meetings/developer/index.rst:193
+#: ../../source/site/getinvolved/meetings/developer/index.rst:204
 msgid "Many thanks to our sponsors!"
 msgstr "Muitos agradecimentos aos nossos patrocinadores!"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:42
+#: ../../source/site/getinvolved/meetings/developer/index.rst:51
 msgid "University of Copenhagen"
 msgstr "Universidade de Copenhaga"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:43
+#: ../../source/site/getinvolved/meetings/developer/index.rst:52
 msgid "http://www.ku.dk/english"
 msgstr "http://www.ku.dk/english"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:44
+#: ../../source/site/getinvolved/meetings/developer/index.rst:53
 msgid "https://www.lifa.dk/"
 msgstr "https://www.lifa.dk/"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:45
+#: ../../source/site/getinvolved/meetings/developer/index.rst:54
 msgid "http://www.dge.dk/"
 msgstr "http://www.dge.dk/"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:46
+#: ../../source/site/getinvolved/meetings/developer/index.rst:55
 msgid "http://www.gisgroup.dk/"
 msgstr "http://www.gisgroup.dk/"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:47
+#: ../../source/site/getinvolved/meetings/developer/index.rst:56
 msgid "http://www.septima.dk/"
 msgstr "http://www.septima.dk/"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:48
+#: ../../source/site/getinvolved/meetings/developer/index.rst:57
 msgid "OSGeo"
 msgstr "OSGeo"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:50
-#: ../../source/site/getinvolved/meetings/developer/index.rst:74
+#: ../../source/site/getinvolved/meetings/developer/index.rst:59
+#: ../../source/site/getinvolved/meetings/developer/index.rst:83
 msgid "See also:"
 msgstr "Ver também:"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:52
+#: ../../source/site/getinvolved/meetings/developer/index.rst:61
 msgid ""
 "`Tim Sutton's Report back on the first QGIS User Conference in Nødebo, "
 "Denmark <http://kartoza.com/report-back-on-the-first-qgis-user-conference-"
 "in-nodebo-denmark/>`_"
 msgstr "`Relatório de Tim Sutton para trás na primeira conferência do usuário de QGIS em Nødebo, Dinamarca <http://kartoza.com/report-back-on-the-first-qgis-user-conference-in-nodebo-denmark/>` _"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:53
+#: ../../source/site/getinvolved/meetings/developer/index.rst:62
 msgid ""
 "`Matthias Kuhn's Tak Nødebo <http://www.opengis.ch/2015/05/27/tak-nodebo/>`_"
 msgstr "Filial de Matthias Kuhn Nødbo <http://www.opengis.ch/2015/05/27/tak-nodebo/>"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:54
+#: ../../source/site/getinvolved/meetings/developer/index.rst:63
 msgid ""
 "`Anita Graser's QGIS 2015 Conference and Developer Meeting Storify "
 "<https://storify.com/anitagraser/qgis-2015-conference-and-developer-"
 "meeting>`_"
 msgstr "Reunião de conferência e desenvolvimento de QGIS 2015 da Anita Graser Storify <https://storify.com/anitagraser/qgis-2015-conference-and-developer-meeting> `_"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:57
+#: ../../source/site/getinvolved/meetings/developer/index.rst:66
 msgid "2014 - 12th QGIS Developer Meeting in Essen"
 msgstr "2014 - 12º Encontro de Desenvolvedores do QGIS em Essen"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:59
+#: ../../source/site/getinvolved/meetings/developer/index.rst:68
 msgid ""
 "The 12th QGIS Developer Meeting from 02 - 05 October 2014 was organised by "
 "`Geoinformatikbüro Dassau <http://www.gbd-consult.de>`_ and held for the "
@@ -168,7 +177,7 @@ msgid ""
 "event went very smoothly."
 msgstr "A 12ª Reunião de Desenvolvedores do QGIS, de 02 a 05 de outubro de 2014, foi organizada pelo `Geoinformatikbüro Dassau <http://www.gbd-consult.de>` _ e realizada pela segunda vez no `Linuxhotel  <http://www.linuxhotel.de/>`_ em Essen, Alemanha. O Linuxhotel forneceu o local, internet, alojamento e café da manhã com condições muito moderadas. É um lugar maravilhoso e nós somos extremamente gratos a eles por nos organizarem e nos ajudarem a fazer todo o evento ser muito tranquilo."
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:67
+#: ../../source/site/getinvolved/meetings/developer/index.rst:76
 msgid ""
 "We also want to thank our gold sponsor`ASIA AIR SURVEY "
 "<http://www.asiaairsurvey.com/>`_, our silver sponsors `G.A.I.A. mbH "
@@ -179,27 +188,27 @@ msgid ""
 "project."
 msgstr "Nós também queremos agradecer ao nosso patrocinador de ouro ʻASIA AIR SURVEY <http://www.asiaairsurvey.com/> `_, nossos patrocinadores de prata` G.A.I.A. mbH <http://www.gaia-mbh.de> `_, e` State of Vorarlberg <http://www.vorarlberg.at/> `_, o alemão` FOSSGIS e.V. <http://www.fossgis.de/> `_ por patrocinar este evento explicitamente com 1500 Euros e as muitas pessoas que doaram quantias grandes e pequenas para o projeto QGIS."
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:76
+#: ../../source/site/getinvolved/meetings/developer/index.rst:85
 msgid ""
 "`Pictures from the QGIS Hackfest in Essen 2014 by Alessandro Pasotti "
 "<https://www.flickr.com/photos/45502883@N06/sets/72157648185718289/>`_"
 msgstr "`Fotos do QGIS Hackfest em Essen 2014 por Alessandro Pasotti <https://www.flickr.com/photos/45502883@N06/sets/72157648185718289/>` _"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:77
+#: ../../source/site/getinvolved/meetings/developer/index.rst:86
 msgid ""
 "`Pictures from the QGIS Hackfest in Essen 2014 collected by Anita Graser "
 "<https://www.flickr.com/groups/2286344@N25/>`_"
 msgstr "`Fotos do QGIS Hackfest em Essen 2014 coletadas por Anita Graser <https://www.flickr.com/groups/2286344@N25/>` _"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:80
+#: ../../source/site/getinvolved/meetings/developer/index.rst:89
 msgid "2014 - 11th QGIS Developer Meeting in Vienna"
 msgstr "2014 - 11º Encontro de Desenvolvedores do QGIS em Viena"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:83
+#: ../../source/site/getinvolved/meetings/developer/index.rst:92
 msgid "2013 - 10th QGIS Developer Meeting in Brighton"
 msgstr "2013 - 10º Encontro de Desenvolvedores do QGIS em Brighton"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:85
+#: ../../source/site/getinvolved/meetings/developer/index.rst:94
 msgid ""
 "The 10th QGIS Developer Meeting from 12 - 16 September 2013 was organised by"
 " `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_ and held at "
@@ -209,7 +218,7 @@ msgid ""
 "event went very smoothly."
 msgstr "A 10ª Reunião de Desenvolvedores do QGIS, de 12 a 16 de setembro de 2013, foi organizada pela `Lutra Consulting <http://www.lutraconsulting.co.uk/>` _ e realizada na University of Sussex <http://www.sussex.ac.uk/>`_  em Brighton, Grã-Bretanha. A universidade patrocinou o local e o acesso à internet. Somos extremamente gratos a eles por nos organizarem e nos ajudarem a fazer todo o evento ser muito tranquilo."
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:92
+#: ../../source/site/getinvolved/meetings/developer/index.rst:101
 msgid ""
 "We also want to thank our gold sponsor `ASIA AIR SURVEY "
 "<http://www.asiaairsurvey.com/>`_, our silver sponsors `G.A.I.A. mbH "
@@ -220,79 +229,79 @@ msgid ""
 "project."
 msgstr "Nós também queremos agradecer ao nosso patrocinador de ouro `ASIA AIR SURVEY <http://www.asiaairsurvey.com/>` _, nossos patrocinadores de prata `G.A.I.A. mbH <http://www.gaia-mbh.de> `_, e` State of Vorarlberg <http://www.vorarlberg.at/> `_, o alemão` FOSSGIS e.V. <http://www.fossgis.de/> `_ por patrocinar este evento explicitamente com 1500 Euros e as muitas pessoas que doaram quantias grandes e pequenas para o projeto QGIS."
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:100
+#: ../../source/site/getinvolved/meetings/developer/index.rst:109
 msgid "2013 - 9th QGIS Developer Meeting in Valmiera"
 msgstr "2013 - 9ª reunião de desenvolvedores do QGIS em Valmiera"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:102
+#: ../../source/site/getinvolved/meetings/developer/index.rst:111
 msgid ""
 "The 9th QGIS Developer Meeting from 11 - 14 April, 2013 was held in Valmiera"
 " Latvia."
 msgstr "A 9ª Reunião de Desenvolvedores do QGIS de 11 a 14 de abril de 2013 foi realizada em Valmiera Latvia."
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:107
+#: ../../source/site/getinvolved/meetings/developer/index.rst:116
 msgid ""
 "`Valmiera Business and Innovation Incubator (VBII) "
 "<http://www.vbii.lv/en/>`_"
 msgstr "Incubadora de Negócios e Inovação Valmiera (VBII) <http://www.vbii.lv/en/> `_"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:108
+#: ../../source/site/getinvolved/meetings/developer/index.rst:117
 msgid "`SunGIS <http://www.sungis.lv/>`_"
 msgstr "`SunGIS <http://www.sungis.lv/>`_"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:111
+#: ../../source/site/getinvolved/meetings/developer/index.rst:120
 msgid "2012 - 8th QGIS Developer Meeting in Essen"
 msgstr "2012 - 8º Encontro de Desenvolvedores do QGIS em Essen"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:113
+#: ../../source/site/getinvolved/meetings/developer/index.rst:122
 msgid ""
 "The 8th QGIS Developer Meeting from 3 - 7 October 2012, was held in Essen, "
 "Germany."
 msgstr "O 8º Encontro de Desenvolvedores do QGIS, de 3 a 7 de outubro de 2012, foi realizado em Essen, Alemanha."
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:118
+#: ../../source/site/getinvolved/meetings/developer/index.rst:127
 msgid "`Geoinformatikbüro Dassau <http://www.gbd-consult.de>`_"
 msgstr "`Geoinformatikbüro Dassau <http://www.gbd-consult.de>`_"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:119
+#: ../../source/site/getinvolved/meetings/developer/index.rst:128
 msgid "`Linuxhotel <http://www.linuxhotel.de/>`_"
 msgstr "`Linuxhotel <http://www.linuxhotel.de/>`_"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:122
+#: ../../source/site/getinvolved/meetings/developer/index.rst:131
 msgid "2012 - 7th QGIS Developer Meeting in Lyon"
 msgstr "2012 - 7º Encontro de Desenvolvedores do QGIS em Lyon"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:124
+#: ../../source/site/getinvolved/meetings/developer/index.rst:133
 msgid ""
 "The 7th QGIS Developer Meeting from 12 - 16 April 2012, was held in Lyon, "
 "France."
 msgstr "A 7ª Reunião de Desenvolvedores do QGIS, de 12 a 16 de abril de 2012, foi realizada em Lyon, na França."
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:129
+#: ../../source/site/getinvolved/meetings/developer/index.rst:138
 msgid "`3Liz <http://www.3liz.com>`_"
 msgstr "`3Liz <http://www.3liz.com>`_"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:130
+#: ../../source/site/getinvolved/meetings/developer/index.rst:139
 msgid "`Camptocamp <http://www.camptocamp.com>`_"
 msgstr "`Camptocamp <http://www.camptocamp.com>`_"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:131
+#: ../../source/site/getinvolved/meetings/developer/index.rst:140
 msgid "`Oslandia <http://www.oslandia.com>`_"
 msgstr "`Oslandia <http://www.oslandia.com>`_"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:132
+#: ../../source/site/getinvolved/meetings/developer/index.rst:141
 msgid "`Services geographiques <http://servicesgeographiques.com>`_"
 msgstr "`Serviços geográficos <http://servicesgeographiques.com>`_"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:133
+#: ../../source/site/getinvolved/meetings/developer/index.rst:142
 msgid "QGIS Swiss user group"
 msgstr "Grupo de usuários do QGIS Swiss"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:136
+#: ../../source/site/getinvolved/meetings/developer/index.rst:145
 msgid "2011 - 6th QGIS Developer Meeting in Zurich"
 msgstr "2011 - 6º Encontro de Desenvolvedores do QGIS em Zurique"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:138
+#: ../../source/site/getinvolved/meetings/developer/index.rst:147
 msgid ""
 "The 6th QGIS Developer Meeting from 10 - 14 November 2011 was organised by "
 "QGIS Swiss User Group and and held at `Institute of Cartography, ETH Zurich "
@@ -301,11 +310,11 @@ msgid ""
 "for organising and helping us to make the whole event went very smoothly."
 msgstr "A 6ª Reunião do Desenvolvedor QGIS, realizada de 10 a 14 de novembro de 2011, foi organizada pelo Grupo de Usuários Suíços QGIS e realizada no Instituto de Cartografia, ETH Zurich <http://www.karto.ethz.ch/about/howtofind/index_EN> `_ O Instituto patrocinou o local e o acesso à internet. Somos extremamente gratos a eles por nos organizarem e nos ajudarem a fazer todo o evento ser muito tranquilo."
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:146
+#: ../../source/site/getinvolved/meetings/developer/index.rst:155
 msgid "2011 - 5th QGIS Developer Meeting in Lisbon"
 msgstr "2011 - 5º Encontro de Desenvolvedores do QGIS em Lisboa"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:147
+#: ../../source/site/getinvolved/meetings/developer/index.rst:156
 msgid ""
 "The 5th QGIS Developer Meeting from 14 - 18 April 2011 was held in Lisbon, "
 "Portugal. This meeting was organized by Vânia Neves and Giovanni Manghi "
@@ -314,107 +323,115 @@ msgid ""
 "`MUNICIPIA <http://www.municipia.pt/>`_ and by the local OSGeo chapter."
 msgstr "O 5º Encontro de Desenvolvedores do QGIS de 14 a 18 de abril de 2011 foi realizado em Lisboa, Portugal. Este encontro foi organizado por Vânia Neves e Giovanni Manghi (`Faunalia.pt <http://www.faunalia.pt/>` _) e `MUNICIPIA <http://www.municipia.pt/>` _. O evento foi parcialmente apoiado pelo `MUNICIPIA <http://www.municipia.pt/>` _ e pelo capítulo local do OSGeo."
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:153
+#: ../../source/site/getinvolved/meetings/developer/index.rst:162
 msgid ""
 "University of Lisbon, `Institute of Geography and Land Management "
 "<http://www.igot.ul.pt/portal/page?_pageid=407,1&_dad=portal&_schema=PORTAL>`_"
 " provided the venue."
 msgstr "Universidade de Lisboa, Instituto de Geografia e Ordenamento do Território <http://www.igot.ul.pt/portal/page?_pageid=407,1&_dad=portal&_schema=PORTAL> `_ desde o local."
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:157
+#: ../../source/site/getinvolved/meetings/developer/index.rst:166
 msgid "2010 - 4th QGIS Developer Meeting in Wroclaw"
 msgstr "2010 - 4º Encontro de Desenvolvedores do QGIS em Wroclaw"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:159
+#: ../../source/site/getinvolved/meetings/developer/index.rst:168
 msgid ""
 "The 4th QGIS Developer Meeting from 11 - 15 November 2010 was held in "
 "Wroclaw, Poland."
 msgstr "A 4ª Reunião de Desenvolvedores do QGIS de 11 a 15 de novembro de 2010 foi realizada em Wroclaw, Polônia."
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:164
+#: ../../source/site/getinvolved/meetings/developer/index.rst:173
 msgid ""
 "`Department of Climatology and Atmosphere Protection "
 "<http://www.meteo.uni.wroc.pl/>`_ of the University of Wroclaw provided the "
 "venue"
 msgstr "`Departamento de Climatologia e Proteção Atmosférica <http://www.meteo.uni.wroc.pl/>` _ da Universidade de Wroclaw forneceu o local"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:167
+#: ../../source/site/getinvolved/meetings/developer/index.rst:176
 msgid "2010 - 3rd QGIS Developer Meeting in Pisa"
 msgstr "2010 - 3º Encontro de Desenvolvedores do QGIS em Pisa"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:169
+#: ../../source/site/getinvolved/meetings/developer/index.rst:178
 msgid ""
 "The 3rd QGIS Developer Meeting from 18- 22 March 2010 was held in Pisa, "
 "Tuscany, Italy."
 msgstr "A 3ª Reunião de Desenvolvedores do QGIS de 18 a 22 de março de 2010 foi realizada em Pisa, Toscana, Itália."
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:174
+#: ../../source/site/getinvolved/meetings/developer/index.rst:183
 msgid ""
 "`GFOSS.it <http://gfoss.it/>`_ added an euro for each euro of donations and "
 "manages all the expenses without overhead"
 msgstr "`GFOSS.it <http://gfoss.it/>` _ adicionou um euro para cada euro de doações e gerencia todas as despesas sem despesas gerais"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:175
+#: ../../source/site/getinvolved/meetings/developer/index.rst:184
 msgid ""
 "The `Parco Naturale di San Rossore <http://www.parcosanrossore.it/>`_ "
 "generously allowed us to use its facilities"
 msgstr "O `Parco Naturale di San Rossore <http://www.parcosanrossore.it/>` _ generosamente nos permitiu usar suas instalações"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:176
+#: ../../source/site/getinvolved/meetings/developer/index.rst:185
 msgid ""
 "The `GULP, Gruppo Utenti Linux Pisa <http://www.gulp.linux.it/>`_, helped "
 "organizing the event"
 msgstr "O GULP, Grupo de Usuários do Linux Pisa <http://www.gulp.linux.it/> `_, ajudou a organizar o evento"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:179
+#: ../../source/site/getinvolved/meetings/developer/index.rst:188
 msgid "2009 - 2nd QGIS Developer Meeting in Vienna"
 msgstr "2009 - 2º Encontro de Desenvolvedores do QGIS em Viena"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:181
+#: ../../source/site/getinvolved/meetings/developer/index.rst:190
 msgid ""
 "The 2nd QGIS Developer Meeting from 5 - 9 November 2009 was held in Vienna, "
 "Austria."
 msgstr "A 2ª Reunião de Desenvolvedores do QGIS de 5 a 9 de novembro de 2009 foi realizada em Viena, Áustria."
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:186
+#: ../../source/site/getinvolved/meetings/developer/index.rst:195
 msgid ""
 "`Institute of Surveying, Remote Sensing and Land Information "
 "<http://www.rali.boku.ac.at/ivfl.html?&L=1>`_ provided the venue"
 msgstr "Instituto de Agrimensura, Sensoriamento Remoto e Informações sobre Terra <http://www.rali.boku.ac.at/ivfl.html?&L=1> `_ desde que o local"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:187
+#: ../../source/site/getinvolved/meetings/developer/index.rst:196
 msgid ""
 "`FOSSGIS e.V. <http://www.fossgis.de/>`_ for donating 500€ to support the "
 "developers"
 msgstr "`FOSSGIS e.V. <http://www.fossgis.de/> `_ por doar 500 € para apoiar os desenvolvedores"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:190
+#: ../../source/site/getinvolved/meetings/developer/index.rst:199
 msgid "2009 - 1st QGIS Developer Meeting in Hannover"
 msgstr "2009 - 1º Encontro de Desenvolvedores do QGIS em Hannover"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:192
+#: ../../source/site/getinvolved/meetings/developer/index.rst:201
 msgid ""
 "The 1st QGIS Developer Meeting from 19 - 22 March 2009 was held in Hannover,"
 " Germany."
 msgstr "A 1ª Reunião de Desenvolvedores do QGIS de 19 a 22 de março de 2009 foi realizada em Hannover, Alemanha."
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:197
+#: ../../source/site/getinvolved/meetings/developer/index.rst:206
 msgid ""
 "`German FOSSGIS e.V. <http://www.fossgis.de/>`_ sponsors the meeting with "
 "500 Euro."
 msgstr "`Alemão FOSSGIS e.V. <http://www.fossgis.de/> `_ patrocina a reunião com 500 euros."
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:198
+#: ../../source/site/getinvolved/meetings/developer/index.rst:207
 msgid ""
 "`Institute of Environmental Planning, Hannover <http://www.umwelt.uni-"
 "hannover.de/umweltplanung.html?&L=1>`_ provided the venue"
 msgstr "Instituto de Planejamento Ambiental, Hannover <http://www.umwelt.uni-hannover.de/umweltplanung.html?&L=1> `_ desde que o local"
 
-#: ../../source/site/getinvolved/meetings/developer/index.rst:199
+#: ../../source/site/getinvolved/meetings/developer/index.rst:208
 msgid ""
 "`nature-consult <http://www.nature-consult.de/>`_ provides technical "
 "equipment"
 msgstr "`nature-consult <http://www.nature-consult.de/>` _ fornece equipamento técnico"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "Contents:"
 #~ msgstr ""

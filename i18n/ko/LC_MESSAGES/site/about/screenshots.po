@@ -8,15 +8,27 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2020-10-09 04:31+0000\n"
-"Last-Translator: Minpa Lee <mapplus@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:25+0000\n"
+"Last-Translator: Minpa Lee <mapplus@gmail.com>, 2020\n"
 "Language-Team: Korean (http://www.transifex.com/qgis/qgis-website/language/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ko\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/site/about/screenshots.rst:9
+msgid "Map Examples"
+msgstr "지도 사례"
+
+#: ../../source/site/about/screenshots.rst:11
+msgid ""
+"Here you can find a selection of maps created with QGIS. These maps come "
+"from the `QGIS maps - Flickr Group "
+"<http://www.flickr.com/groups/qgis/pool/>`_."
+msgstr "여기서 QGIS로 만들어진 선별된 지도들을 보실 수 있습니다. 이 지도들은 `QGIS maps - Flickr Group <http://www.flickr.com/groups/qgis/pool/>`_ 에서 가져왔습니다."
 
 #: ../../source/site/about/screenshots.rst:14
 msgid ""
@@ -27,6 +39,18 @@ msgstr "지도 제작자들은 그들의 창조성과 QGIS의 지도 제작 능�
 #: ../../source/site/about/screenshots.rst:16
 msgid "Click on an image to see author and more information about the maps."
 msgstr "지도제작자와 추가 정보를 보시려면 각 이미지를 클릭해 주십시오."
+
+#: ../../source/site/about/screenshots.rst:19
+msgid ":raw-html:`<p id=\"qgisflickrmapsatom\">&nbsp;</p>`"
+msgstr ":raw-html:`<p id=\"qgisflickrmapsatom\">&nbsp;</p>`"
+
+#: ../../source/site/about/screenshots.rst:22
+msgid ":raw-html:`<p style=\"clear:both\">&nbsp;</p>`"
+msgstr ":raw-html:`<p style=\"clear:both\">&nbsp;</p>`"
+
+#: ../../source/site/about/screenshots.rst:25
+msgid "Screenshots"
+msgstr "스크린샷"
 
 #: ../../source/site/about/screenshots.rst:27
 msgid ""
@@ -45,28 +69,13 @@ msgstr "스크린샷들은  `QGIS screenshots - Flickr Group <http://www.flickr.
 msgid ":raw-html:`<p id=\"qgisflickrscreenshotsatom\">&nbsp;</p>`"
 msgstr ":raw-html:`<p id=\"qgisflickrscreenshotsatom\">&nbsp;</p>`"
 
-#: ../../source/site/about/screenshots.rst:19
-msgid ":raw-html:`<p id=\"qgisflickrmapsatom\">&nbsp;</p>`"
-msgstr ":raw-html:`<p id=\"qgisflickrmapsatom\">&nbsp;</p>`"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/about/screenshots.rst:22
-msgid ":raw-html:`<p style=\"clear:both\">&nbsp;</p>`"
-msgstr ":raw-html:`<p style=\"clear:both\">&nbsp;</p>`"
-
-#: ../../source/site/about/screenshots.rst:9
-msgid "Map Examples"
-msgstr "지도 사례"
-
-#: ../../source/site/about/screenshots.rst:11
-msgid ""
-"Here you can find a selection of maps created with QGIS. These maps come "
-"from the `QGIS maps - Flickr Group "
-"<http://www.flickr.com/groups/qgis/pool/>`_."
-msgstr "여기서 QGIS로 만들어진 선별된 지도들을 보실 수 있습니다. 이 지도들은 `QGIS maps - Flickr Group <http://www.flickr.com/groups/qgis/pool/>`_ 에서 가져왔습니다."
-
-#: ../../source/site/about/screenshots.rst:25
-msgid "Screenshots"
-msgstr "스크린샷"
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "QGIS Screenshots"
 #~ msgstr ""

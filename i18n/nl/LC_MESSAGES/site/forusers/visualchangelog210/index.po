@@ -5,13 +5,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-30 12:18+0100\n"
-"PO-Revision-Date: 2019-09-07 11:15+0000\n"
-"Last-Translator: DiGro\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-09-08 07:59+0000\n"
+"Last-Translator: DiGro, 2015-2017,2019\n"
 "Language-Team: Dutch (http://www.transifex.com/qgis/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -83,6 +84,12 @@ msgid ""
 "financial support they provide to this project:"
 msgstr "Tenslotte willen we onze officiële sponsoren bedanken voor de onschatbare financiële ondersteuning die zij aan dit project verlenen:"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:49
+msgid ""
+"**GOLD Sponsor:** `Asia Air Survey, Japan, "
+"<http://www.asiaairsurvey.com/>`__"
+msgstr "**GOUDEN sponsor:** `Asia Air Survey, Japan, <http://www.asiaairsurvey.com/>`__"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:51
 msgid ""
 "SILVER Sponsor: `Sourcepole AG, Switzerland <http://www.sourcepole.com/>`__"
@@ -117,6 +124,12 @@ msgstr "BRONZEN sponsor: `www.argusoft.de, Duitsland <http://www.argusoft.de>`__
 msgid ""
 "BRONZE Sponsor: `www.openrunner.com, France <http://www.openrunner.com>`__"
 msgstr "BRONZEN sponsor: `www.openrunner.com, Frankrijk <http://www.openrunner.com>`__"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:64
+msgid ""
+"BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "
+"<http://www.gkg-kassel.de/>`__"
+msgstr "BRONZEN sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Duitsland <http://www.gkg-kassel.de/>`__"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:66
 msgid ""
@@ -234,6 +247,10 @@ msgstr "Het is nu mogelijk om parameters voor joins (zoals een voorvoegsel voor 
 msgid "|image14|"
 msgstr "|image14|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:648
+msgid "image14"
+msgstr "image14"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:123
 msgid "Feature: Layers with joins can now be filtered"
 msgstr "Mogelijkheid: Lagen met joins kunnen nu worden gefilterd"
@@ -248,6 +265,10 @@ msgstr "Voorafgaand aan versie 2.10 kon een laag niet worden gefilterd als die t
 #: ../../source/site/forusers/visualchangelog210/index.rst:129
 msgid "|image15|"
 msgstr "|image15|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:649
+msgid "image15"
+msgstr "image15"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:132
 msgid "Feature: General improvements"
@@ -290,6 +311,10 @@ msgstr "Verbeterde UI en werkstroom voor het venster van de eigenschappen voor g
 msgid "|image16|"
 msgstr "|image16|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:650
+msgid "image16"
+msgstr "image16"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:149
 msgid "Feature: Improved handling of potential project file overwrites"
 msgstr "Mogelijkheid: Verbeterde afhandeling van potentiële overschrijvingen van projectbestanden"
@@ -312,6 +337,10 @@ msgstr "**Deze mogelijkheid werd ontwikkeld door:** `Jürgen Fischer (norBIT) <h
 #: ../../source/site/forusers/visualchangelog210/index.rst:159
 msgid "|image17|"
 msgstr "|image17|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:651
+msgid "image17"
+msgstr "image17"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:162
 msgid "Feature: New geometry engine"
@@ -352,6 +381,10 @@ msgstr "**Dit werd mogelijk gemaakt door:** `KantonSolothurn, Switzerland <http:
 msgid "|image18|"
 msgstr "|image18|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:652
+msgid "image18"
+msgstr "image18"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:196
 msgid "Analysis tools"
 msgstr "Analyse-gereedschappen"
@@ -373,6 +406,10 @@ msgstr "Kan een overzicht van statistieken weergeven (bijv. gemiddelde, standaar
 msgid "|image1|"
 msgstr "|image1|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:635
+msgid "image1"
+msgstr "image1"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:211
 msgid "Feature: Use logarithmic functions in the raster calculator"
 msgstr "Mogelijkheid: Logaritmische functies in de rasterberekeningen gebruiken"
@@ -388,6 +425,10 @@ msgstr "De rasterberekeningen (``Raster -> Rasterberekeningen`` in het menu van 
 #: ../../source/site/forusers/visualchangelog210/index.rst:218
 msgid "|image2|"
 msgstr "|image2|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:636
+msgid "image2"
+msgstr "image2"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:221
 msgid "Feature: New zonal statistics features"
@@ -426,6 +467,10 @@ msgstr "Onthoud dat gebiedsstatistieken een 'bron plug-in' is (een plug-in die i
 msgid "|image3|"
 msgstr "|image3|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:637
+msgid "image3"
+msgstr "image3"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:240
 msgid "Browser"
 msgstr "Browser"
@@ -448,6 +493,10 @@ msgstr "Bij het gebruiken van de vast te zetten panelen voor de QGIS Browser (``
 msgid "|image4|"
 msgstr "|image4|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:638
+msgid "image4"
+msgstr "image4"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:256
 msgid "Feature: New browser icon"
 msgstr "Mogelijkheid: Nieuw pictogram voor browser"
@@ -466,6 +515,10 @@ msgstr "De QGIS Browser is een afzonderlijk, zelfstandige toepassing die u in st
 #: ../../source/site/forusers/visualchangelog210/index.rst:266
 msgid "|image5|"
 msgstr "|image5|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:639
+msgid "image5"
+msgstr "image5"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:269
 msgid "Data Providers"
@@ -499,6 +552,10 @@ msgstr "**Dit werd mogelijk gemaakt door:** Gemeenschappen van Morges, Uster, Ve
 #: ../../source/site/forusers/visualchangelog210/index.rst:291
 msgid "|image6|"
 msgstr "|image6|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:640
+msgid "image6"
+msgstr "image6"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:294
 msgid "Feature: PostGIS provider side expression filters"
@@ -536,6 +593,10 @@ msgstr "``QgsVectorLayer::getFeatures( expressie )``"
 msgid "|image7|"
 msgstr "|image7|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:641
+msgid "image7"
+msgstr "image7"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:316
 msgid "Data management"
 msgstr "Gegevensbeheer"
@@ -571,6 +632,10 @@ msgstr "**Dit werd mogelijk gemaakt door:** `City of Uster, Switzerland <http://
 msgid "|image8|"
 msgstr "|image8|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:642
+msgid "image8"
+msgstr "image8"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:336
 msgid "Feature: Line edit with auto-completer for ValueRelation edit widget"
 msgstr "Mogelijkheid: Automatisch aanvullen in Wijzig hulpmiddel voor widget Waarde relatie bewerken"
@@ -585,6 +650,10 @@ msgstr "Het widget Waarde relatie bewerken voor vectorlagen (``Laag -> Eigenscha
 #: ../../source/site/forusers/visualchangelog210/index.rst:343
 msgid "|image9|"
 msgstr "|image9|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:643
+msgid "image9"
+msgstr "image9"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:346
 msgid "Feature: Improvements to DB Manager"
@@ -630,6 +699,10 @@ msgstr "**Deze mogelijkheden werden ontwikkeld door**: Hugo Mercier / Oslandia"
 msgid "|image10|"
 msgstr "|image10|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:644
+msgid "image10"
+msgstr "image10"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:370
 msgid "Feature: Filter chaining for relation reference widget"
 msgstr "Mogelijkheid: Keten van filters voor widget Relatieverwijzing"
@@ -655,6 +728,10 @@ msgstr "**Dit werd mogelijk gemaakt door:** `SIGE <http://www.sige.ch/>`__"
 #: ../../source/site/forusers/visualchangelog210/index.rst:388
 msgid "|image11|"
 msgstr "|image11|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:645
+msgid "image11"
+msgstr "image11"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:391
 msgid "Diagrams"
@@ -693,6 +770,10 @@ msgstr "Klassen voor diagrammen worden nu weergegeven in de legenda van de laag"
 msgid "|image12|"
 msgstr "|image12|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:646
+msgid "image12"
+msgstr "image12"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:409
 msgid "Digitising"
 msgstr "Digitaliseren"
@@ -730,6 +811,10 @@ msgstr "het anker voor de draaiing wordt gedefinieerd met ``CTRL+click`` en niet
 msgid "|image13|"
 msgstr "|image13|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:647
+msgid "image13"
+msgstr "image13"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:428
 msgid "Labelling"
 msgstr "Labels"
@@ -750,6 +835,10 @@ msgstr "Indien ingesteld op deze modus, is de uitlijning van de tekst van labels
 #: ../../source/site/forusers/visualchangelog210/index.rst:440
 msgid "|image19|"
 msgstr "|image19|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:653
+msgid "image19"
+msgstr "image19"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:443
 msgid "Map Composer"
@@ -792,6 +881,10 @@ msgstr "**Dit werd mogelijk gemaakt door:** `Kanton Glarus, Switzerland <http://
 #: ../../source/site/forusers/visualchangelog210/index.rst:465
 msgid "|image20|"
 msgstr "|image20|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:654
+msgid "image20"
+msgstr "image20"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:468
 msgid "Programmability"
@@ -839,6 +932,10 @@ msgstr "Plug-ins kunnen nu hun eigen items maken in het widget Browser met twee 
 msgid "|image21|"
 msgstr "|image21|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:655
+msgid "image21"
+msgstr "image21"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:490
 msgid "QGIS Server"
 msgstr "QGIS Server"
@@ -871,6 +968,10 @@ msgstr "en wijzig de waarden voor tolerantie (in pixels) om aan uw behoeften te 
 msgid "|image22|"
 msgstr "|image22|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:656
+msgid "image22"
+msgstr "image22"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:514
 msgid "Symbology"
 msgstr "Symbologie"
@@ -888,6 +989,10 @@ msgstr "Opties onder menu Categorieën van de renderer toegevoegd om categorieë
 #: ../../source/site/forusers/visualchangelog210/index.rst:523
 msgid "|image23|"
 msgstr "|image23|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:657
+msgid "image23"
+msgstr "image23"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:526
 msgid "Feature: Vary symbol sizes using the graduated renderer"
@@ -917,13 +1022,17 @@ msgstr "**Deze mogelijkheid werd ontwikkeld door:** `Vincent Mora (Oslandia) <ht
 #: ../../source/site/forusers/visualchangelog210/index.rst:565
 #: ../../source/site/forusers/visualchangelog210/index.rst:606
 msgid ""
-"**This feature was funded by:** `Agence de l'eau Adour-Garonne <http://www"
-".eau-adour-garonne.fr/>`__"
+"**This feature was funded by:** `Agence de l'eau Adour-Garonne "
+"<http://www.eau-adour-garonne.fr/>`__"
 msgstr "**Dit werd mogelijk gemaakt door:** `Agence de l'eau Adour-Garonne <http://www.eau-adour-garonne.fr/>`__"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:542
 msgid "|image24|"
 msgstr "|image24|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:658
+msgid "image24"
+msgstr "image24"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:545
 msgid ""
@@ -943,6 +1052,10 @@ msgstr "Deze optie (geplaatst onder het menu Geavanceerd van symbolen) schakelt 
 msgid "|image25|"
 msgstr "|image25|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:659
+msgid "image25"
+msgstr "image25"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:555
 msgid ""
 "Feature: Size scale and rotation have been removed from the advanced menu"
@@ -961,6 +1074,10 @@ msgstr "We hebben ``Grootte schalen`` en ``Draaien`` verwijderd uit ```Laag -> E
 msgid "|image26|"
 msgstr "|image26|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:660
+msgid "image26"
+msgstr "image26"
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:570
 msgid "Feature: Data defined properties for font marker"
 msgstr "Mogelijkheid: Datagedefinieerde eigenschappen voor markering lettertype"
@@ -974,6 +1091,10 @@ msgstr "De meeste eigenschappen van de markering voor lettertype kunnen nu datag
 #: ../../source/site/forusers/visualchangelog210/index.rst:575
 msgid "|image27|"
 msgstr "|image27|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:661
+msgid "image27"
+msgstr "image27"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:578
 msgid "Feature: Visualise and modify the graduated renderer using a histogram"
@@ -1000,6 +1121,10 @@ msgstr "**Deze mogelijkheid werd ontwikkeld door:** `Nyall Dawson <http://nyalld
 #: ../../source/site/forusers/visualchangelog210/index.rst:588
 msgid "|image28|"
 msgstr "|image28|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:662
+msgid "image28"
+msgstr "image28"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:591
 msgid ""
@@ -1029,6 +1154,10 @@ msgstr "Een assistent, met voorbeeld, is toegankelijk via de knop Datagedefiniee
 #: ../../source/site/forusers/visualchangelog210/index.rst:608
 msgid "|image29|"
 msgstr "|image29|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:663
+msgid "image29"
+msgstr "image29"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:611
 msgid "Feature: Live layer effects for layers and symbol layers"
@@ -1064,17 +1193,21 @@ msgstr "**Deze mogelijkheid werd financieel mogelijk gemaakt door:** `een initia
 msgid "|image30|"
 msgstr "|image30|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:49
-msgid ""
-"**GOLD Sponsor:** `Asia Air Survey, Japan, "
-"<http://www.asiaairsurvey.com/>`__"
-msgstr "**GOUDEN sponsor:** `Asia Air Survey, Japan, <http://www.asiaairsurvey.com/>`__"
+#: ../../source/site/forusers/visualchangelog210/index.rst:664
+msgid "image30"
+msgstr "image30"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:64
-msgid ""
-"BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany <http://www"
-".gkg-kassel.de/>`__"
-msgstr "BRONZEN sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Duitsland <http://www.gkg-kassel.de/>`__"
+#: ../../source/site/forusers/visualchangelog210/index.rst:634
+msgid "image0"
+msgstr "image0"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "**GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"
 #~ msgstr ""

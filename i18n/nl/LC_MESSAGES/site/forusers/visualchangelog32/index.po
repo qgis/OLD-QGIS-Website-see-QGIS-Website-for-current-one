@@ -4,21 +4,21 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # 
 # Translators:
-# DiGro, 2019
+# DiGro, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-12 16:20+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2018-07-11 16:48+0000\n"
-"Last-Translator: DiGro, 2019\n"
+"Last-Translator: DiGro, 2022\n"
 "Language-Team: Dutch (https://www.transifex.com/qgis/teams/6144/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -30,20 +30,25 @@ msgstr "Log met wijzigingen voor QGIS 3.2"
 msgid "|image1|"
 msgstr "|image1|"
 
+#: ../../source/site/forusers/visualchangelog32/index.rst:880
+msgid "image1"
+msgstr "image1"
+
 #: ../../source/site/forusers/visualchangelog32/index.rst:9
 msgid ""
 "The greatest QGIS release ever! QGIS 3.2 brings a massive list of new "
 "changes - the highlights of which we will try to cover here. As always can "
 "we remind you that QGIS is an open source project and if you are able to, "
-"consider supporting our work through :ref:`donations <QGIS-donations>`, "
-":ref:`sustaining memberships <QGIS_sustaining_memberships>` or contributions"
-" to the code documentation, web site and so on."
+"consider supporting our work through `donations "
+"<https://donate.qgis.org>`__, :ref:`sustaining memberships "
+"<QGIS_sustaining_memberships>` or contributions to the code documentation, "
+"web site and so on."
 msgstr ""
 "De grootste uitgave van QGIS ooit! QGIS 3.2 brengt een enorme lijst met "
 "nieuwe wijzigingen - de hoogtepunten daarvan zullen we hier proberen te "
 "behandelen. Zoals altijd herinneren we u er aan dat QGIS een open bron "
-"project is en vragen u om te overwegen ons te sponsoren door :ref:`donaties "
-"<QGIS-donations>`, :ref:`dragende lidmaatschappen "
+"project is en vragen u om te overwegen ons te sponsoren door `donaties "
+"<https://donate.qgis.org>`__, :ref:`dragende lidmaatschappen "
 "<QGIS_sustaining_memberships>` of bijdragen aan de documentatie van de code,"
 " website, enzovoort."
 
@@ -143,6 +148,10 @@ msgstr ""
 msgid "|image29|"
 msgstr "|image29|"
 
+#: ../../source/site/forusers/visualchangelog32/index.rst:908
+msgid "image29"
+msgstr "image29"
+
 #: ../../source/site/forusers/visualchangelog32/index.rst:41
 msgid ""
 "This feature was developed by `OSLANDIA - Paul Blottiere "
@@ -166,6 +175,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog32/index.rst:48
 msgid "|image30|"
 msgstr "|image30|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:909
+msgid "image30"
+msgstr "image30"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:50
 #: ../../source/site/forusers/visualchangelog32/index.rst:457
@@ -200,6 +213,10 @@ msgstr ""
 msgid "|image31|"
 msgstr "|image31|"
 
+#: ../../source/site/forusers/visualchangelog32/index.rst:910
+msgid "image31"
+msgstr "image31"
+
 #: ../../source/site/forusers/visualchangelog32/index.rst:62
 msgid "This feature was developed by Richard Duivenvoorde"
 msgstr "Deze mogelijkheid werd ontwikkeld door Richard Duivenvoorde"
@@ -225,6 +242,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog32/index.rst:72
 msgid "|image2|"
 msgstr "|image2|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:881
+msgid "image2"
+msgstr "image2"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:74
 #: ../../source/site/forusers/visualchangelog32/index.rst:124
@@ -282,8 +303,8 @@ msgid ""
 "This feature was developed by `Nyall Dawson (North Road) <https://north-"
 "road.com>`__"
 msgstr ""
-"Deze mogelijkheid werd ontwikkeld door `Nyall Dawson (North Road) <https"
-"://north-road.com>`__"
+"Deze mogelijkheid werd ontwikkeld door `Nyall Dawson (North Road) "
+"<https://north-road.com>`__"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:79
 msgid "Feature: Identify Tool with extra options"
@@ -333,6 +354,10 @@ msgstr ""
 msgid "|image3|"
 msgstr "|image3|"
 
+#: ../../source/site/forusers/visualchangelog32/index.rst:882
+msgid "image3"
+msgstr "image3"
+
 #: ../../source/site/forusers/visualchangelog32/index.rst:102
 #: ../../source/site/forusers/visualchangelog32/index.rst:205
 #: ../../source/site/forusers/visualchangelog32/index.rst:440
@@ -377,6 +402,10 @@ msgstr ""
 msgid "|image4|"
 msgstr "|image4|"
 
+#: ../../source/site/forusers/visualchangelog32/index.rst:883
+msgid "image4"
+msgstr "image4"
+
 #: ../../source/site/forusers/visualchangelog32/index.rst:113
 #: ../../source/site/forusers/visualchangelog32/index.rst:184
 #: ../../source/site/forusers/visualchangelog32/index.rst:247
@@ -417,6 +446,10 @@ msgstr ""
 msgid "|image5|"
 msgstr "|image5|"
 
+#: ../../source/site/forusers/visualchangelog32/index.rst:884
+msgid "image5"
+msgstr "image5"
+
 #: ../../source/site/forusers/visualchangelog32/index.rst:129
 msgid "Feature: add zoom to related feature in forms"
 msgstr ""
@@ -435,6 +468,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog32/index.rst:133
 msgid "|image6|"
 msgstr "|image6|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:885
+msgid "image6"
+msgstr "image6"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:135
 msgid "This feature was developed by Jürgen Fischer"
@@ -463,6 +500,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog32/index.rst:142
 msgid "|image7|"
 msgstr "|image7|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:886
+msgid "image7"
+msgstr "image7"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:149
 msgid "Expressions"
@@ -570,6 +611,10 @@ msgstr ""
 msgid "|image8|"
 msgstr "|image8|"
 
+#: ../../source/site/forusers/visualchangelog32/index.rst:887
+msgid "image8"
+msgstr "image8"
+
 #: ../../source/site/forusers/visualchangelog32/index.rst:189
 msgid "User Interface"
 msgstr "Gebruikersinterface"
@@ -629,6 +674,10 @@ msgstr "kaartlaag met ongeldig CRS"
 msgid "|image9|"
 msgstr "|image9|"
 
+#: ../../source/site/forusers/visualchangelog32/index.rst:888
+msgid "image9"
+msgstr "image9"
+
 #: ../../source/site/forusers/visualchangelog32/index.rst:210
 msgid "Feature: Allow customizing prefix of locator filters"
 msgstr ""
@@ -646,6 +695,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog32/index.rst:214
 msgid "|image10|"
 msgstr "|image10|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:889
+msgid "image10"
+msgstr "image10"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:216
 #: ../../source/site/forusers/visualchangelog32/index.rst:524
@@ -686,6 +739,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog32/index.rst:225
 msgid "|image11|"
 msgstr "|image11|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:890
+msgid "image11"
+msgstr "image11"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:227
 #: ../../source/site/forusers/visualchangelog32/index.rst:302
@@ -732,6 +789,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog32/index.rst:236
 msgid "|image12|"
 msgstr "|image12|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:891
+msgid "image12"
+msgstr "image12"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:243
 msgid "Feature: Shortcuts for toggling panels"
@@ -798,6 +859,10 @@ msgstr ""
 msgid "|image13|"
 msgstr "|image13|"
 
+#: ../../source/site/forusers/visualchangelog32/index.rst:892
+msgid "image13"
+msgstr "image13"
+
 #: ../../source/site/forusers/visualchangelog32/index.rst:272
 msgid "This feature was developed by Nathan Woodrow, Nyall Dawson"
 msgstr "Deze mogelijkheid werd ontwikkeld door: Nathan Woodrow, Nyall Dawson"
@@ -859,6 +924,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog32/index.rst:300
 msgid "|image14|"
 msgstr "|image14|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:893
+msgid "image14"
+msgstr "image14"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:305
 msgid ""
@@ -962,6 +1031,10 @@ msgstr ""
 msgid "|image15|"
 msgstr "|image15|"
 
+#: ../../source/site/forusers/visualchangelog32/index.rst:894
+msgid "image15"
+msgstr "image15"
+
 #: ../../source/site/forusers/visualchangelog32/index.rst:365
 msgid ""
 "This feature was developed by `Etienne Trimaille "
@@ -1011,6 +1084,10 @@ msgstr ""
 msgid "|image16|"
 msgstr "|image16|"
 
+#: ../../source/site/forusers/visualchangelog32/index.rst:895
+msgid "image16"
+msgstr "image16"
+
 #: ../../source/site/forusers/visualchangelog32/index.rst:383
 #: ../../source/site/forusers/visualchangelog32/index.rst:478
 msgid ""
@@ -1026,8 +1103,8 @@ msgid ""
 "This feature was developed by `Nyall Dawson (North Road) <https://north-"
 "road.com>`__ and `Faunalia <https://www.faunalia.eu>`__"
 msgstr ""
-"Deze mogelijkheid werd ontwikkeld door `Nyall Dawson (North Road) <https"
-"://north-road.com/>`__ en `Faunalia <https://www.faunalia.eu>`__"
+"Deze mogelijkheid werd ontwikkeld door `Nyall Dawson (North Road) "
+"<https://north-road.com/>`__ en `Faunalia <https://www.faunalia.eu>`__"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:388
 msgid "Forms and Widgets"
@@ -1051,6 +1128,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog32/index.rst:395
 msgid "|image17|"
 msgstr "|image17|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:896
+msgid "image17"
+msgstr "image17"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:397
 msgid ""
@@ -1117,6 +1198,10 @@ msgstr ""
 msgid "|image18|"
 msgstr "|image18|"
 
+#: ../../source/site/forusers/visualchangelog32/index.rst:897
+msgid "image18"
+msgstr "image18"
+
 #: ../../source/site/forusers/visualchangelog32/index.rst:426
 msgid ""
 "This feature was funded by Grant Boxer, NaturalGIS, Tudor Bărăscu, NotioGIS,"
@@ -1130,8 +1215,8 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:428
 msgid ""
-"This feature was developed by `Alessandro Pasotti (North Road) <https"
-"://north-road.com>`__"
+"This feature was developed by `Alessandro Pasotti (North Road) "
+"<https://north-road.com>`__"
 msgstr ""
 "Deze mogelijkheid werd ontwikkeld door `Alessandro Pasotti (North Road) "
 "<https://north-road.com>`__"
@@ -1155,6 +1240,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog32/index.rst:438
 msgid "|image19|"
 msgstr "|image19|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:898
+msgid "image19"
+msgstr "image19"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:442
 msgid ""
@@ -1271,10 +1360,14 @@ msgstr ""
 msgid "|image20|"
 msgstr "|image20|"
 
+#: ../../source/site/forusers/visualchangelog32/index.rst:899
+msgid "image20"
+msgstr "image20"
+
 #: ../../source/site/forusers/visualchangelog32/index.rst:503
 msgid ""
-"This feature was developed by `Mathieu Pellerin, Nyall Dawson <http://www"
-".imhere-asia.com/>`__"
+"This feature was developed by `Mathieu Pellerin, Nyall Dawson "
+"<http://www.imhere-asia.com/>`__"
 msgstr ""
 "Deze mogelijkheid werd ontwikkeld door `Mathieu Pellerin, Nyall Dawson "
 "<http://www.imhere-asia.com/>`__"
@@ -1291,6 +1384,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog32/index.rst:510
 msgid "|image21|"
 msgstr "|image21|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:900
+msgid "image21"
+msgstr "image21"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:512
 msgid ""
@@ -1319,15 +1416,21 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:520
 msgid ""
-"Read this `blog post for more information <http://www.opengis.ch/2018/05/28"
-"/how-to-filter-features-in-qgis-using-the-graphical-processing-modeler/>`__."
+"Read this `blog post for more information "
+"<http://www.opengis.ch/2018/05/28/how-to-filter-features-in-qgis-using-the-"
+"graphical-processing-modeler/>`__."
 msgstr ""
-"Lees deze `blogpost voor meer informatie <http://www.opengis.ch/2018/05/28"
-"/how-to-filter-features-in-qgis-using-the-graphical-processing-modeler/>`__."
+"Lees deze `blogpost voor meer informatie "
+"<http://www.opengis.ch/2018/05/28/how-to-filter-features-in-qgis-using-the-"
+"graphical-processing-modeler/>`__."
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:522
 msgid "|image22|"
 msgstr "|image22|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:901
+msgid "image22"
+msgstr "image22"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:529
 msgid "Feature: Zonal histogram"
@@ -1345,6 +1448,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog32/index.rst:533
 msgid "|image23|"
 msgstr "|image23|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:902
+msgid "image23"
+msgstr "image23"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:538
 msgid "Feature: Port Union, Difference and Intersection algorithms to C++"
@@ -1584,6 +1691,10 @@ msgstr ""
 msgid "|image24|"
 msgstr "|image24|"
 
+#: ../../source/site/forusers/visualchangelog32/index.rst:903
+msgid "image24"
+msgstr "image24"
+
 #: ../../source/site/forusers/visualchangelog32/index.rst:637
 msgid "Feature: Swap x/y coordinate values algorithm"
 msgstr "Mogelijkheid: Algoritme Swap x/y coordinate values"
@@ -1784,6 +1895,10 @@ msgstr ""
 msgid "|image25|"
 msgstr "|image25|"
 
+#: ../../source/site/forusers/visualchangelog32/index.rst:904
+msgid "image25"
+msgstr "image25"
+
 #: ../../source/site/forusers/visualchangelog32/index.rst:721
 #: ../../source/site/forusers/visualchangelog32/index.rst:878
 msgid ""
@@ -1815,6 +1930,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog32/index.rst:731
 msgid "|image26|"
 msgstr "|image26|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:905
+msgid "image26"
+msgstr "image26"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:738
 msgid "Feature: Saving and loading projects in PostgreSQL database"
@@ -1854,8 +1973,8 @@ msgid ""
 msgstr ""
 "Een nieuwe API werd geïntroduceerd die het maken van aangepaste "
 "implementaties voor het opslaan van projecten mogelijk maakt (zou kunnen "
-"worden gebruikt door plug-ins). Gerelateerde QEP: https://github.com/qgis"
-"/QGIS-Enhancement-Proposals/issues/118"
+"worden gebruikt door plug-ins). Gerelateerde QEP: "
+"https://github.com/qgis/QGIS-Enhancement-Proposals/issues/118"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:756
 msgid ""
@@ -1886,6 +2005,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog32/index.rst:766
 msgid "|image27|"
 msgstr "|image27|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:906
+msgid "image27"
+msgstr "image27"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:771
 msgid "Feature: Project home path can be manually set"
@@ -1936,6 +2059,10 @@ msgstr ""
 msgid "|image28|"
 msgstr "|image28|"
 
+#: ../../source/site/forusers/visualchangelog32/index.rst:907
+msgid "image28"
+msgstr "image28"
+
 #: ../../source/site/forusers/visualchangelog32/index.rst:789
 msgid "Data Providers"
 msgstr "Gegevensproviders"
@@ -1982,6 +2109,10 @@ msgstr "https://github.com/lutraconsulting/MDAL"
 #: ../../source/site/forusers/visualchangelog32/index.rst:804
 msgid "|image32|"
 msgstr "|image32|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:911
+msgid "image32"
+msgstr "image32"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:806
 msgid ""
@@ -2094,6 +2225,10 @@ msgstr ""
 msgid "|image33|"
 msgstr "|image33|"
 
+#: ../../source/site/forusers/visualchangelog32/index.rst:912
+msgid "image33"
+msgstr "image33"
+
 #: ../../source/site/forusers/visualchangelog32/index.rst:860
 msgid "Feature: DB Manager SQL execution in background"
 msgstr "Feature: DB Manager uitvoeren van SQL op achtergrond"
@@ -2151,6 +2286,18 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog32/index.rst:876
 msgid "|image34|"
 msgstr "|image34|"
+
+#: ../../source/site/forusers/visualchangelog32/index.rst:913
+msgid "image34"
+msgstr "image34"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "Changelog for QGIS 3.2.0"
 #~ msgstr "Log met wijzigingen voor QGIS 3.2.0"
@@ -2251,8 +2398,8 @@ msgstr "|image34|"
 #~ "This feature was developed by `Nyall Dawson (North Road) <http://north-"
 #~ "road.com>`__"
 #~ msgstr ""
-#~ "Deze mogelijkheid werd ontwikkeld door `Nyall Dawson (North Road) <https"
-#~ "://north-road.com/>`__"
+#~ "Deze mogelijkheid werd ontwikkeld door `Nyall Dawson (North Road) "
+#~ "<https://north-road.com/>`__"
 
 #~ msgid ""
 #~ "This feature was developed by `Mathieu Pelllerin <http://www.imhere-"
@@ -2277,8 +2424,8 @@ msgstr "|image34|"
 
 #~ msgid "This feature was developed by `Nyall Dawson (North Road) <v>`__"
 #~ msgstr ""
-#~ "Deze mogelijkheid werd ontwikkeld door `Nyall Dawson (North Road) <https"
-#~ "://north-road.com/>`__"
+#~ "Deze mogelijkheid werd ontwikkeld door `Nyall Dawson (North Road) "
+#~ "<https://north-road.com/>`__"
 
 #~ msgid ""
 #~ "This feature was developed by `Martin Dobias (Lutra Consulting) and Faunalia"
@@ -2343,3 +2490,19 @@ msgstr "|image34|"
 #~ msgstr ""
 #~ "Een speciaal woord van dank aan al onze :ref:`Sponsoren en Donoren <QGIS-"
 #~ "sponsoring>` voor de hulp om het ons mogelijk te maken deze uitgave te doen!"
+
+#~ msgid ""
+#~ "The greatest QGIS release ever! QGIS 3.2 brings a massive list of new "
+#~ "changes - the highlights of which we will try to cover here. As always can "
+#~ "we remind you that QGIS is an open source project and if you are able to, "
+#~ "consider supporting our work through :ref:`donations <QGIS-donations>`, "
+#~ ":ref:`sustaining memberships <QGIS_sustaining_memberships>` or contributions"
+#~ " to the code documentation, web site and so on."
+#~ msgstr ""
+#~ "De grootste uitgave van QGIS ooit! QGIS 3.2 brengt een enorme lijst met "
+#~ "nieuwe wijzigingen - de hoogtepunten daarvan zullen we hier proberen te "
+#~ "behandelen. Zoals altijd herinneren we u er aan dat QGIS een open bron "
+#~ "project is en vragen u om te overwegen ons te sponsoren door :ref:`donaties "
+#~ "<QGIS-donations>`, :ref:`dragende lidmaatschappen "
+#~ "<QGIS_sustaining_memberships>` of bijdragen aan de documentatie van de code,"
+#~ " website, enzovoort."

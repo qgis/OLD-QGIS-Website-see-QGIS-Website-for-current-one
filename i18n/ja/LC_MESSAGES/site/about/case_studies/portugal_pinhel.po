@@ -6,13 +6,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2019-05-31 03:57+0000\n"
-"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:25+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2018-2019\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -66,6 +67,11 @@ msgid ""
 "not interfere negatively with the results, quite the opposite."
 msgstr "広範な方法論へのテストスイートの後、およびピニェルの自治体の運用計画の作成における実際の応用から3年後の今、提案されている代替には多くの利点があり、通常このタスクを実行するために使用される商用ソフトウェアを置き換えることを可能にする、と言うことができます。結果の検証が示したことは、この概念モデルが比較的単純であるにもかかわらずその予測能力はかなり良いこと、そしてオープンソースソフトウェアでモデルの実装は結果にマイナスに干渉しない、むしろ全く逆であることです。"
 
+#: ../../source/site/about/case_studies/portugal_pinhel.rst
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:23
+msgid "Forest Fire Hazard and Risk Maps of Pinhel"
+msgstr ""
+
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:23
 msgid ""
 "Forest Fire Hazard and Risk Maps of Pinhel, implemented with Open Source "
@@ -86,6 +92,10 @@ msgid ""
 msgstr "第二段階では、ほとんどの人間の介入なしに、タスクの広いセットを実行するワークフローを確立するためのモデルを使用して、この手順を高速化することを試みました。この第二段階は本質的に、第一段階から得られた実用的なガイドで説明全体手順を自動化することで成っていました。このような自動化は、年次森林防衛計画を作成する予定技術者の一部に強烈な仕事の数時間の短縮、人間の介入がわずか数分の入力データの選択および出力データを保持するつもりな場所の指示に帰着する、を意味するかもしれません。"
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:32
+msgid "Interface of the Sextante Model"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:32
 msgid ""
 "Interface of the Sextante Model to calculate the Probability of the Forest "
 "Fire Hazard."
@@ -103,6 +113,10 @@ msgid ""
 " So, we've created a model to automate the process of producing Forest Fire "
 "Hazard and Risk maps, using GRASS, SAGA, fTools and MMQGIS tools."
 msgstr "この第二段階の助成で、私たちはQGISに統合し、独立したアプリケーション（GRASSのGISの幅広いセットを追加する働きSextanteソフトウェアのPythonのバージョンを使用し、SAGAのGIS、OTB、R、GDAL / OGR、Pymorph、LASTools、Pythonののscrips 、等。）単一のインタフェースにおいて、QGISユーザーに巨大なジオプロセシングツールボックスを提供します。QGISでのこれらのアプリケーションの統合に加えて、Sextanteは、モデルを作成集約し、それらのソフトウェアのいずれかによって提供されるモジュールの利点を取るためのツールを持っています。そこで、私たちはGRASS、SAGA、fToolsとMMQGISツールを使用して、森林火災災害危険度地図を生成するプロセスを自動化するためのモデルを作成しました。"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:41
+msgid "Part of the model developed for automation of the production"
+msgstr ""
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:41
 msgid ""
@@ -175,3 +189,11 @@ msgid ""
 "Cartography and Geographic Information Systems at the Municipality of "
 "Pinhel."
 msgstr "ペドロ・ヴェナンシオ学士号 地質、フリーソフトウェアでの大学院生および地理情報システムでの修士です。氏は、土木工学のための国立研究所で、コインブラ大学の地球物理学センターの研究者でした。現在はピニェルの自治体での地図作成や地理情報システムのサービスを担当しています。"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"

@@ -7,15 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 23:57+0000\n"
-"Last-Translator: Narcélio de Sá Pereira Filho <narceliosapereira@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:25+0000\n"
+"Last-Translator: Narcélio de Sá Pereira Filho <narceliosapereira@gmail.com>, 2016\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/qgis/qgis-website/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: pt_BR\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:3
 msgid "QGIS and Forest Fire Risk Mapping in Portugal"
@@ -67,6 +68,11 @@ msgid ""
 "not interfere negatively with the results, quite the opposite."
 msgstr "Após um vasto conjunto de testes à metodologia, e de três anos de aplicação real à elaboração do Plano Operacional Municipal do concelho de Pinhel, pode dizer-se que as alternativas propostas permitem substituir, com muitas vantagens, os softwares proprietários que geralmente são utilizados para essa tarefa.\nA validação dos resultados tem permitido concluir que, apesar da relativa simplicidade do modelo conceptual, a metodologia possui uma capacidade preditiva bastante boa, e que a sua implementação em software Open Source não interfere de forma negativa com os resultados obtidos, bem pelo contrário. "
 
+#: ../../source/site/about/case_studies/portugal_pinhel.rst
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:23
+msgid "Forest Fire Hazard and Risk Maps of Pinhel"
+msgstr ""
+
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:23
 msgid ""
 "Forest Fire Hazard and Risk Maps of Pinhel, implemented with Open Source "
@@ -87,6 +93,10 @@ msgid ""
 msgstr "Numa segunda fase, procurou agilizar-se este processo, através da sua automatização, com recurso a modelos que estabelecem um fluxo de trabalho e que executam um vasto conjunto de tarefas, praticamente sem necessidade de intervenção humana.\nEsta segunda fase consistiu, essencialmente, na automatização de todo o processo descrito no guia prático que resultou da primeira fase. Esta automatização poderá significar a redução de várias horas de intenso trabalho por parte do técnico que pretende elaborar anualmente o Plano Operacional Municipal, para apenas alguns minutos, nos quais a intervenção humana se resume à selecção dos dados de entrada e à indicação do local onde se pretendem guardar os dados de saída."
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:32
+msgid "Interface of the Sextante Model"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:32
 msgid ""
 "Interface of the Sextante Model to calculate the Probability of the Forest "
 "Fire Hazard."
@@ -104,6 +114,10 @@ msgid ""
 " So, we've created a model to automate the process of producing Forest Fire "
 "Hazard and Risk maps, using GRASS, SAGA, fTools and MMQGIS tools."
 msgstr "Para cumprir a segunda fase, nós usamos a versão Python do software Sextante, que trabalha integrado no QGIS e adicionámos um conjunto de aplicações independentes  (GRASS GIS, SAGA GIS, OTB, R, GDAL/OGR, Pymorph, LASTools, scripts Python, etc..) numa interface única, fornecendo uma ferramenta de geoprocessamento extensa para os usuários do QGIS. Para além da integração das aplicações no QGIS, Sextante tem uma ferramenta de criação de modelos, tomado vantagem dos módulos oferecidos por qualquer software agregado. Portanto, nós criamos um modelo para automatizar o processo de produção dos mapas de Perigos e Risco de Incêndio Florestal, usando o GRASS, SAGA, fTools e as ferramentas MMQGIS."
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:41
+msgid "Part of the model developed for automation of the production"
+msgstr ""
 
 #: ../../source/site/about/case_studies/portugal_pinhel.rst:41
 msgid ""
@@ -176,3 +190,11 @@ msgid ""
 "Cartography and Geographic Information Systems at the Municipality of "
 "Pinhel."
 msgstr "Pedro Venâncio, Licenciado em Geologia, Pós-graduado em Software Livre e Mestre em Sistemas de Informação Geográfica. Foi investigador no Centro de Geofísica da Universidade de Coimbra, no Laboratório Nacional de Engenharia Civil e é actualmente responsável pelo Serviço de Cartografia e Sistemas de Informação Geográfica do Município de Pinhel."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""

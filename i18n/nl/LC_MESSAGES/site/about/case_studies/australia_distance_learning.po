@@ -4,21 +4,21 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 # 
 # Translators:
-# DiGro, 2019
+# DiGro, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 20:36+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-03-13 19:41+0000\n"
-"Last-Translator: DiGro, 2019\n"
+"Last-Translator: DiGro, 2022\n"
 "Language-Team: Dutch (https://www.transifex.com/qgis/teams/6144/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -150,6 +150,10 @@ msgstr ""
 "merendeel (82%) van de studenten QGIS-software en de leerbronnen voor werken"
 " met eigen handen waardeerden als ‘helpful’ tot ‘very helpful’ bij het leren"
 " van GIS. D emeeste anderen waardeerden het als ‘reasonable’."
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:36
+msgid "Student response graph"
+msgstr "Grafiek  Antwoorden studenten"
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:36
 msgid "Students response graph"
@@ -307,3 +311,11 @@ msgstr ""
 " het ongeparalleleerde flexibiliteit gaven bij verwerken. Deze bekendheid "
 "stelt hem in staat om instructie QGIS-video's te ontwikkelen, gebaseerd op "
 "Australische ruimtelijke gegevenssets."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"

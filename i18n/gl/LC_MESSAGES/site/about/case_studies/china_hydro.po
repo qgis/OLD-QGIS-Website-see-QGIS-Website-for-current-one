@@ -4,13 +4,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-05 15:28+0200\n"
-"PO-Revision-Date: 2020-03-16 09:23+0000\n"
-"Last-Translator: Navhy\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:44+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Galician (http://www.transifex.com/qgis/qgis-website/language/gl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: gl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -28,7 +29,11 @@ msgid ""
 "minor in Environmental Science."
 msgstr ""
 
+msgid "Overview Context Map"
+msgstr ""
+
 #: ../../source/site/about/case_studies/china_hydro.rst:14
+#, python-format
 msgid ""
 "The task was plan a conservation park on the Chinese side of the Ili River "
 "which supplies 80% of the water to Lake Balkhash.  FOSS GIS application + "
@@ -38,6 +43,9 @@ msgid ""
 "experience I could not have done it without all three.  My company did not "
 "and would not pay to purchase GIS software to run the industry standard "
 "arcHYDRO."
+msgstr ""
+
+msgid "Stream Order With Distance"
 msgstr ""
 
 #: ../../source/site/about/case_studies/china_hydro.rst:22
@@ -55,6 +63,9 @@ msgid ""
 "the attribute tables."
 msgstr ""
 
+msgid "Curve Number Grid"
+msgstr ""
+
 #: ../../source/site/about/case_studies/china_hydro.rst:31
 msgid ""
 "This network was ranked by r.stream extension in GRASS to build Hortons and "
@@ -64,6 +75,9 @@ msgid ""
 " used to build a network of pour points, flow paths, TOC paths, and HMDP for"
 " each watershed.  In this workflow, the QGIS tool attribute by location was "
 "invaluable."
+msgstr ""
+
+msgid "Flow Key"
 msgstr ""
 
 #: ../../source/site/about/case_studies/china_hydro.rst:38
@@ -76,6 +90,9 @@ msgid ""
 "Manning's n-value grid for overland flow.  Finally I wrote a lookup table in"
 " r.mapcalc and merged the soil and landcover grids into and NRCS TR-55 curve"
 " numbers following the arcHYDRO methodology."
+msgstr ""
+
+msgid "Flow rates"
 msgstr ""
 
 #: ../../source/site/about/case_studies/china_hydro.rst:45
@@ -117,6 +134,14 @@ msgid ""
 "at Tongji University and Autodesk University.  He is interested in GIS-based"
 " Hydrologic & Hydraulic modelling, Landscape Ecology modelling, Ecosystem "
 "Valuation, Transportation Modelling and GIS-Based Design Visualization."
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""
 
 #~ msgid ""

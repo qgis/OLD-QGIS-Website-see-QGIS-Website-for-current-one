@@ -1,29 +1,37 @@
 # 
 # Translators:
+# Baovola Marie Anna, 2022
 # Benoît de Cabissole, 2015
 # Christophe55 <christophe.maginot@gmail.com>, 2016
-# Harrissou Sant-anna, 2013
+# Harrissou Sant-anna, 2013,2022
 # Stéphane Possamai <info@stephanepossamai.com>, 2014
+# Jésahel Benoist <djes@free.fr>, 2021
 # Julien Francois <julien.francois1@hotmail.fr>, 2013
 # Le Ny Pierre-André <lenyconseil@gmail.com>, 2013
 # MarieSilvestre, 2014,2016,2020
 # Richard Duivenvoorde <richard@duif.net>, 2016
 # Robin PREST, 2013
+# Romain Bazile <gromain_baz@hotmail.com>, 2022
 # Harrissou Sant-anna, 2014,2016
 # Simon Georget <simon.georget@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2020-01-10 13:33+0000\n"
-"Last-Translator: MarieSilvestre\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:24+0000\n"
+"Last-Translator: Harrissou Sant-anna, 2013,2022\n"
 "Language-Team: French (http://www.transifex.com/qgis/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: fr\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../../source/site/forusers/support.rst:4
+msgid "Support"
+msgstr "Support"
 
 #: ../../source/site/forusers/support.rst:8
 msgid "Mailing Lists"
@@ -41,53 +49,96 @@ msgid ""
 "question`."
 msgstr "Si vous êtes sur le point de poser une question, veuillez lire ceci: :ref:`how-to-ask-a-QGIS-question`."
 
-#: ../../source/site/forusers/support.rst:35
-msgid "Chat"
-msgstr "Tchat"
-
-#: ../../source/site/forusers/support.rst:37
-msgid "A lot of the development buzz will be spoken on IRC."
-msgstr "Beaucoup d'informations sur le développement seront évoquées sur IRC."
-
-#: ../../source/site/forusers/support.rst:27
+#: ../../source/site/forusers/support.rst:16
 msgid "StackExchange"
 msgstr "StackExchange"
 
+#: ../../source/site/forusers/support.rst:18
+msgid ""
+"On http://gis.stackexchange.com you can ask QGIS questions also. If you use "
+"the tag ``qgis`` you'll see all QGIS related questions and answers: "
+"http://gis.stackexchange.com/?tags=qgis"
+msgstr "Sur http://gis.stackexchange.com, vous pouvez poser des questions à propos de QGIS. Si vous utilisez le tag \"qgis\", vous visualiserez toutes les questions et réponses en lien avec QGIS : http://gis.stackexchange.com/?tags=qgis."
+
+#: ../../source/site/forusers/support.rst:24
+msgid "Communication channels"
+msgstr "Canaux de communication"
+
+#: ../../source/site/forusers/support.rst:27
+msgid "Telegram"
+msgstr "Telegram"
+
+#: ../../source/site/forusers/support.rst:29
+msgid ""
+"There is a lot of user and community related chat (english spoken) on the "
+"Telegram channel you can join here: "
+"https://t.me/joinchat/Aq2V5RPoxYYhXqUPoxRWPQ"
+msgstr "Il y a beaucoup d'échanges entre utilisateurs et au sein de la communauté sur le canal Telegram (en langue anglaise) que vous pouvez rejoindre ici: https://t.me/joinchat/Aq2V5RPoxYYhXqUPoxRWPQ"
+
+#: ../../source/site/forusers/support.rst:32
+msgid ""
+"To join: install Telegram on your phone, register and join via link above."
+msgstr "Pour rejoindre: installez Telegram sur votre téléphone, enregistrez vous et rejoignez la conversation via le lien ci-dessus."
+
+#: ../../source/site/forusers/support.rst:34
+msgid ""
+"There is also a web version (https://web.telegram.org) which you can join in"
+" the browser (after you joined telegram via your phone(number))."
+msgstr "Il existe aussi une version web (https://web.telegram.org) qui est utilisable dans votre navigateur internet (après avoir installé l'application sur votre téléphone et vous être enregistré)."
+
+#: ../../source/site/forusers/support.rst:37
+msgid "Matrix / IRC"
+msgstr "Matrix / IRC"
+
+#: ../../source/site/forusers/support.rst:39
+msgid ""
+"Matrix (https://matrix.org) is a project for decentralised chat. QGIS has a "
+"room accessible by the **#qgis:osgeo.org** alias (among others) which "
+"bridges to the libera.chat **#qgis** IRC channel."
+msgstr "Matrix (https://matrix.org) est un projet de messagerie décentralisée. Il existe une salle QGIS accessible avec l'alias **#qgis:osgeo.org** (parmi d'autres) qui fait le lien avec le canal IRC **#qgis** sur libera.chat."
+
+#: ../../source/site/forusers/support.rst:41
+msgid ""
+"To use Matrix: create an account (at matrix.org is easiest, but if you have "
+"an OSGeo account you can also use your OSGeo id as matrix id), install a "
+"client (Elements is easiest, but see https://matrix.org/docs/projects/try-"
+"matrix-now/#clients for more), OR point your browser to "
+"(https://matrix.to/#/!qgis:osgeo.org)"
+msgstr "Pour utiliser Matrix: créer un compte (sur le site matrix.org pour la méthode la plus simple, mais si vous avez déjà un compte OSGeo, vous pouvez aussi utiliser votre identifiant OSGeo en lieu et place de votre identifiant matrix), installez un client (Elements est le plus simple d'accès, mais sur https://matrix.org/docs/projects/try-matrix-now/#clients vous obtiendrez une liste plus complète), OU connectez vous avec votre navigateur internet à https://matrix.to/#/!qgis:osgeo.org"
+
+#: ../../source/site/forusers/support.rst:43
+msgid ""
+"To use IRC: install an IRC client and connect to irc://irc.libera.chat/#qgis"
+" or point your browser to https://web.libera.chat/?channels=#qgis"
+msgstr "Pour utiliser IRC: installez un client IRC et connectez vous à irc://irc.libera.chat/#qgis ou avec votre navigateur internet, allez sur https://web.libera.chat/?channels=#qgis"
+
 #: ../../source/site/forusers/support.rst:46
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../../source/site/forusers/support.rst:47
+msgid ""
+"For Facebook users, an english-speaking global community group for QGIS "
+"users can be found at https://facebook.com/groups/612486875596534"
+msgstr "Pour les utilisateurs de Facebook, un groupe communautaire mondial anglophone pour les utilisateurs de QGIS se trouve à l'adresse suivante https://facebook.com/groups/612486875596534"
+
+#: ../../source/site/forusers/support.rst:51
 msgid "User Groups"
 msgstr "Groupes utilisateurs"
 
-#: ../../source/site/forusers/support.rst:72
-msgid "Issue Tracker"
-msgstr "Suivi des anomalies"
+#: ../../source/site/forusers/support.rst:53
+msgid "Local QGIS user groups are a great place to meet other users."
+msgstr "Les groupes locaux d'utilisateurs de QGIS sont un endroit idéal pour rencontrer d'autres utilisateurs."
 
-#: ../../source/site/forusers/support.rst:78
-msgid "Commercial Support"
-msgstr "Support commercial"
+#: ../../source/site/forusers/support.rst:55
+msgid "See :ref:`QGIS-usergroups` to read about it."
+msgstr "Voir :ref:`QGIS-usergroups` pour plus d'informations."
 
-#: ../../source/site/forusers/support.rst:80
-msgid ""
-"You can also get support from companies near you, please visit this page: "
-":ref:`QGIS-commercial_support`."
-msgstr "Vous pouvez aussi obtenir du support auprès de sociétés locales, consultez la page : :ref:`QGIS-commercial_support`."
-
-#: ../../source/site/forusers/support.rst:16
-msgid "Searchable Mailing Lists"
-msgstr "Recherche dans les archives des listes de diffusion"
-
-#: ../../source/site/forusers/support.rst:18
-msgid "Nabble (http://nabble.com) keeps a history of a lot of mailinglists."
-msgstr "Nabble (http://nabble.com) conserve l'historique de nombreuses listes de diffusion."
-
-#: ../../source/site/forusers/support.rst:84
-msgid "Forums"
-msgstr "Forums"
-
-#: ../../source/site/forusers/support.rst:54
+#: ../../source/site/forusers/support.rst:59
 msgid "Website"
 msgstr "Site web"
 
-#: ../../source/site/forusers/support.rst:56
+#: ../../source/site/forusers/support.rst:61
 msgid ""
 "The website should be used to publish any material in relation to the "
 "information and management of the user group. Examples include the user "
@@ -99,7 +150,7 @@ msgid ""
 " the QGIS user group."
 msgstr "Le site web doit être utilisé pour publier tout document en lien avec les informations et la gestion du groupe utilisateur. Il s'agit par exemple des comptes rendus de réunions utilisateurs, cas d'étude, matériels partagés, comptes rendus de discussions, etc. Les documents publics doivent être disponibles sans nécessiter d’authentification (par ex. ne requiert pas des personnes intéressées d'être membre de réseaux sociaux comme Facebook ou Google+). L'utilisation de médias sociaux est recommandée mais ne doit pas constituer la seule source d'informations. Des flux RSS doivent être disponibles depuis le site web du groupe utilisateur."
 
-#: ../../source/site/forusers/support.rst:65
+#: ../../source/site/forusers/support.rst:70
 msgid ""
 "Good luck with the organization of your local user group. Please inform the "
 "international QGIS team by registering at the QGIS community list and "
@@ -107,56 +158,31 @@ msgid ""
 "regarding the establishment and maintenance of your local user group."
 msgstr "Bon courage avec l'organisation de votre groupe local d'utilisateurs. Merci d'informer l'équipe international de QGIS en vous enregistrant auprès de la liste de la communauté QGIS et en indiquant votre avancée. N'hésitez surtout pas à poser des questions concernant la mise en place et le suivi de votre groupe local d'utilisateurs."
 
-#: ../../source/site/forusers/support.rst:74
+#: ../../source/site/forusers/support.rst:77
+msgid "Issue Tracker"
+msgstr "Suivi des anomalies"
+
+#: ../../source/site/forusers/support.rst:79
 msgid "If you want to file bugs or issues, see :ref:`QGIS-bugreporting`."
 msgstr "Si vous voulez signaler des bogues ou des problèmes, veuillez vous reporter à :ref:`QGIS-bugreporting`."
 
-#: ../../source/site/forusers/support.rst:4
-msgid "Support"
-msgstr "Support"
+#: ../../source/site/forusers/support.rst:83
+msgid "Commercial Support"
+msgstr "Support commercial"
 
-#: ../../source/site/forusers/support.rst:86
+#: ../../source/site/forusers/support.rst:85
 msgid ""
-"QGIS does not have a forum. Please either search in StackExchange (see "
-"below), or via http://nabble.com in the history of our Mailinglists (see "
-"above)."
-msgstr "QGIS ne propose pas de forum. Utilisez soit StackExchange (voir ci-dessous) soit Nabble, http://nabble.com avec l'historique de nos listes de diffusion (voir ci-dessus)."
+"You can also get support from companies near you, please visit this page: "
+":ref:`QGIS-commercial_support`."
+msgstr "Vous pouvez aussi obtenir du support auprès de sociétés locales, consultez la page : :ref:`QGIS-commercial_support`."
 
-#: ../../source/site/forusers/support.rst:89
-msgid ""
-"For non-english, note that there also exist local forums that have a "
-"dedicated section for QGIS you may need to search in."
-msgstr "Pour les non-anglais, notez qu'il existe également des forums locaux qui ont une section dédiée pour QGIS, vous devrez peut-être effectuer une recherche."
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/forusers/support.rst:29
-msgid ""
-"On http://gis.stackexchange.com you can ask QGIS questions also. If you use "
-"the tag ``qgis`` you'll see all QGIS related questions and answers: "
-"http://gis.stackexchange.com/?tags=qgis"
-msgstr "Sur http://gis.stackexchange.com, vous pouvez poser des questions à propos de QGIS. Si vous utilisez le tag \"qgis\", vous visualiserez toutes les questions et réponses en lien avec QGIS : http://gis.stackexchange.com/?tags=qgis."
-
-#: ../../source/site/forusers/support.rst:39
-msgid ""
-"There is a #qgis channel on freenode.net. You can also use a web interface: "
-"http://webchat.freenode.net/?channels=#qgis If you missed a discussion on "
-"IRC, not a problem! We log all discussion, so you can easily catch up. Just "
-"go to https://qgis.org/irclogs."
-msgstr "Il y a un canal #qgis sur freenod.net. Vous pouvez utiliser l'interface web : http://webchat.freenode.net/?channels=#qgis\nSi vous ratez une discussion sur IRC, pas de problème ! Nous gardons en mémoire toutes les discussions afin que vous puissiez facilement les suivre. Allez simplement sur https://qgis.org/irclogs. et lisez les logs IRC."
-
-#: ../../source/site/forusers/support.rst:48
-msgid "Local QGIS user groups are a great place to meet other users."
-msgstr "Les groupes locaux d'utilisateurs de QGIS sont un endroit idéal pour rencontrer d'autres utilisateurs."
-
-#: ../../source/site/forusers/support.rst:50
-msgid "See :ref:`QGIS-usergroups` to read about it."
-msgstr "Voir :ref:`QGIS-usergroups` pour plus d'informations."
-
-#: ../../source/site/forusers/support.rst:20
-msgid ""
-"If you go to the osgeo section of it: http://osgeo-org.1560.x6.nabble.com/ "
-"you see there is a QGIS section also, where you can do a search over all "
-"QGIS lists, or refine it to e.g. only the users list."
-msgstr "Si vous allez dans la section osgeo : http://osgeo-org.1560.x6.nabble.com/, vous y verrez une section QGIS où vous pourrez effectuer des recherches sur l'ensemble des listes QGIS ou seulement une d'entre elles."
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "If you go to the osgeo section of it: http://osgeo-org.1560.x6.nabble.com/ "
@@ -268,8 +294,8 @@ msgstr "Si vous allez dans la section osgeo : http://osgeo-org.1560.x6.nabble.co
 #~ msgstr ""
 
 #~ msgid ""
-#~ "french (translation): http://www.qgis.ch/fr/association/statuts-du-groupe-"
-#~ "d2019utilisateurs-qgis-suisse"
+#~ "french (translation): http://www.qgis.ch/fr/association/statuts-du-"
+#~ "groupe-d2019utilisateurs-qgis-suisse"
 #~ msgstr ""
 
 #~ msgid "Membership application forms:"
@@ -323,4 +349,51 @@ msgstr "Si vous allez dans la section osgeo : http://osgeo-org.1560.x6.nabble.co
 #~ msgstr ""
 
 #~ msgid "On http://gis.stackexchange.com you can ask QGIS questions also."
+#~ msgstr ""
+
+#~ msgid "A lot of the development buzz will be spoken on IRC."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "There is a #qgis channel on freenode.net. You can also use a web interface: "
+#~ "http://webchat.freenode.net/?channels=#qgis If you missed a discussion on "
+#~ "IRC, not a problem! We log all discussion, so you can easily catch up. Just "
+#~ "go to https://qgis.org/irclogs."
+#~ msgstr ""
+
+#~ msgid "Searchable Mailing Lists"
+#~ msgstr ""
+
+#~ msgid "Nabble (http://nabble.com) keeps a history of a lot of mailinglists."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you go to the osgeo section of it: http://osgeo-org.1560.x6.nabble.com/ "
+#~ "you see there is a QGIS section also, where you can do a search over all "
+#~ "QGIS lists, or refine it to e.g. only the users list."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To use Matrix: create an account (at matrix.org is easiest, but if you have "
+#~ "an OSGeo account you can also use your OSGeo id as matrix id), install a "
+#~ "client (Elements is easiest, but see https://matrix.org/docs/projects/try-"
+#~ "matrix-now/#clients for more), OR point your browser to "
+#~ "(https://matrix.to/#qgis:osgeo.org)"
+#~ msgstr ""
+
+#~ msgid "Forums"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "QGIS does not have a forum. Please either search in StackExchange (see "
+#~ "below), or via http://nabble.com in the history of our Mailinglists (see "
+#~ "above)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "For non-english, note that there also exist local forums that have a "
+#~ "dedicated section for QGIS you may need to search in."
+#~ msgstr ""
+
+#~ msgid "Chat"
 #~ msgstr ""

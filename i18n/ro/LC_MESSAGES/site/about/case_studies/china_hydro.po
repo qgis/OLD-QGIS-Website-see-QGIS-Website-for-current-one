@@ -5,13 +5,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-05 15:28+0200\n"
-"PO-Revision-Date: 2017-09-22 09:58+0000\n"
-"Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:44+0000\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2015-2016\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
@@ -29,7 +30,11 @@ msgid ""
 "minor in Environmental Science."
 msgstr "Lucrez pentru o companie de planificare urbană din China. Adesea, proiectarea unei protecții adecvate mediului este dificilă, deoarece sursele de date comune pot fi un secret de stat sau chiar nu există. Frecvent, ni se cere să facem proiecte, fără a preleva din teren datele corespunzătoare. În plus, de obicei nu există suficient timp pentru un studiu adecvat. Pregătirea mea de bază este în Urbanism, cu specializare în Știința Mediului."
 
+msgid "Overview Context Map"
+msgstr ""
+
 #: ../../source/site/about/case_studies/china_hydro.rst:14
+#, python-format
 msgid ""
 "The task was plan a conservation park on the Chinese side of the Ili River "
 "which supplies 80% of the water to Lake Balkhash.  FOSS GIS application + "
@@ -40,6 +45,9 @@ msgid ""
 "and would not pay to purchase GIS software to run the industry standard "
 "arcHYDRO."
 msgstr "Sarcina mea a constat în planificarea unui parc de conservare situat în partea chineză a râului Ili, care acoperă 80% din apa Lacului Balkhash. Aplicațiile FOSS GIS + depozitele de date FOSS GIS + instruirea în FOSS GIS s-au demonstrat a fi critice pentru a reconstrui și modela procesele Hidrologice și Ecologice necesare pentru planificarea unei conservări autentice. Nefiind om de știință, și neavând nici o pregătire sau experiență prealabilă, nu aș fi reușit fără toate cele trei. Compania mea nu ar fi plătit, și nu și-ar fi putut permite achiziționa unui software GIS care să ruleze la nivelul standardului industrial arcHYDRO."
+
+msgid "Stream Order With Distance"
+msgstr ""
 
 #: ../../source/site/about/case_studies/china_hydro.rst:22
 msgid "Story"
@@ -56,6 +64,9 @@ msgid ""
 "the attribute tables."
 msgstr "După unele încercări și erori am obținut, cu ajutorul QGIS, un rezultat similar cu cel din arcHYDRO. Am început cu un DEM USGS Hydrosheds, care a fost transformat în Curbe normalizate, cu tensiune, cu ajutorul funcțiilor GRASS din interiorul QGIS, așa cum am fost instruit de către Helena Mitsova. Suprafața RST a fost analizată, pentru identificarea bazinelor de captare și a cursurilor de apă, apoi topologiile vectoriale rezultate au fost curățate în QGIS, în scopul generării rețelei hidrologice și, de asemenea, pentru a construi tabelele de atribute."
 
+msgid "Curve Number Grid"
+msgstr ""
+
 #: ../../source/site/about/case_studies/china_hydro.rst:31
 msgid ""
 "This network was ranked by r.stream extension in GRASS to build Hortons and "
@@ -66,6 +77,9 @@ msgid ""
 " each watershed.  In this workflow, the QGIS tool attribute by location was "
 "invaluable."
 msgstr "Această rețea a fost clasificată cu ajutorul extensiei r.stream din GRASS, în scopul ordonării fluxurilor Hortons și Hacks. Apoi, distanța până la grila suprafeței de evacuare a fost generată și analizată prin statistici zonale, pentru a găsi cel mai îndepărtat punct. În continuare, folosid r.drain din GRASS s-a identificat timpul liniei de concentrare. În cele din urmă, v.net în GRASS a servit la construirea rețelei punctelor de curgere, a traseelor de curgere, a căilor TOC și HMDP pentru fiecare dintre bazinele hidrografice. Pe tot acest flux de operare, instrumentul attribute by location din QGIS a fost de neprețuit."
+
+msgid "Flow Key"
+msgstr ""
 
 #: ../../source/site/about/case_studies/china_hydro.rst:38
 msgid ""
@@ -78,6 +92,9 @@ msgid ""
 " r.mapcalc and merged the soil and landcover grids into and NRCS TR-55 curve"
 " numbers following the arcHYDRO methodology."
 msgstr "După ce a fost terminată rețeaua hidrologică de bază, s-a făcut o joncțiune cu tabelele bazei de date ONU FAO, pentru clasificarea solurilor. Folosind funcțiile de interogare din QGIS solurile FAO au fost convertite în soluri USDA. O grilă USGS ETM7+, descărcată anterior, a fost clasificată cu i.cluser și r.maxlik, din GRASS, într-o grilă NLCD. Prin utilizarea tabelelor de reclasificare am convertit suprafața într-o grilă Manning cu n-valori pentru inundații. În cele din urmă am creat un tabel de căutare în r.mapcalc, după care am fuzionat grilele în curbe numerice NRCS TR-55, conform metodologiei arcHYDRO."
+
+msgid "Flow rates"
+msgstr ""
 
 #: ../../source/site/about/case_studies/china_hydro.rst:45
 msgid ""
@@ -119,6 +136,14 @@ msgid ""
 " Hydrologic & Hydraulic modelling, Landscape Ecology modelling, Ecosystem "
 "Valuation, Transportation Modelling and GIS-Based Design Visualization."
 msgstr "Robert Ward este designer urban și analist GIS la Parsons Brinkerhoff, lucrând la intersecția înaltei tehnologii cu arta. A predat la Universitatea Tongji și la Universitatea Autodesk. Este interesat de modelările hidrologice și hidraulice bazate pe GIS, modelarea ecologiei peisajelor, evaluarea ecosistemelor, modelarea transportului și proiectarea vizuală bazată pe GIS."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "Robert Ward is an Urban Designer and GIS Analyst at Parsons Brinkerhoff "

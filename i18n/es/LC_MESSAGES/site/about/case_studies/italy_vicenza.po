@@ -2,21 +2,42 @@
 # Translators:
 # BelenMP <Beln1@hotmail.com>, 2014
 # Darío Hereñú, 2016
-# YoViajo, 2015-2016
-# Rodrigo Armesto <rodri_Armesto@hotmail.com>, 2019
+# Eric Armijo, 2015-2016
+# Rodrigo Armesto Baztán <rodri_Armesto@hotmail.com>, 2019
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2019-12-15 17:44+0000\n"
-"Last-Translator: Rodrigo Armesto <rodri_Armesto@hotmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Rodrigo Armesto Baztán <rodri_Armesto@hotmail.com>, 2019\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:3
+msgid ""
+"Using QGIS for urban planning in the municipality of Montecchio Maggiore, "
+"Vicenza, Italy"
+msgstr "Usando QGIS para planificación urbana en la municipalidad de Montecchio Maggiore, Vicenza, Italia"
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:5
+msgid ""
+"Montecchio Maggiore is a small town in the middle west of Vicenza (about "
+"24.000 population). And as many other italian municipality it manages the "
+"town planning; in particular the urban planning and what we call “recovery "
+"plan” aka PDR --- Piani Di Recupero. This urbanistic tool is dedicated to "
+"the historical area in the center of the town and it requires a specific "
+"study: building state of conservation, intended use, particular historical "
+"notice via survey and restitution to produce planimetric and prospectus "
+"graphics. For this purpose it has used QGIS in addition to "
+"Postgresql/Postgis database, PHP code and Libreoffice suite, QCAD "
+"(LibreCAD)."
+msgstr "Montecchio Maggiore es una pequeña ciudad en el medio oeste de Vicenza (aproximadamente 24.000 habitantes). Y como muchos otros municipios italianos gestiona el urbanismo; en particular la planificación urbana y lo que llamamos \"plan de recuperación\", también conocido como PDR --- Piani Di Recupero. Esta herramienta urbanística está enfocada al área histórica del centro de la ciudad y requiere un estudio específico: estado de conservación del edificio, uso previsto, comunicado histórico particular a través de estudios y restitución para producir gráficos planimétricos y folletos. Para este propósito, ha utilizado QGIS además de la base de datos Postgresql / Postgis, código PHP y la suite Libreoffice, QCAD (LibreCAD)."
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:8
 msgid "The task"
@@ -71,6 +92,25 @@ msgstr "Uso previsto (proyecto)"
 msgid "Type of intervention admitted"
 msgstr "Tipo de intervención admitida"
 
+#: ../../source/site/about/case_studies/italy_vicenza.rst:31
+msgid ""
+"For every graphic thematic maps were produced using the attribute and data "
+"retrieve during the survey (for the present state) and data modified during "
+"the study and design fase."
+msgstr "Cada mapa temático gráfico se produjo utilizando los atributos y datos recuperados durante el estudio (para el estado actual) y los datos modificados durante el estudio y la fase de diseño."
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:33
+msgid ""
+"Thus a photo was linked to every building facilitating the design and "
+"analisys in the gis project (using the “action” feature). The SQL tools "
+"(pgquery, postgis manager, dbmanager et al.) allowed to obtain very "
+"sophisticated query immediately viewable in the map canvas such as: volume "
+"calculation split by building intended use, standards area calculation in "
+"percentage of the total planning area and other minor queries. All useful "
+"items for the design and planning study otherwise not possible without a "
+"very strength tool like gis (and QGIS in particular)."
+msgstr "Por lo tanto, se vinculó una foto a cada edificio facilitando el diseño y el análisis en el proyecto gis (usando la función \"acción\"). Las herramientas SQL (pgquery, postgis manager, dbmanager et al.) permitieron obtener consultas muy sofisticadas que se pueden ver de inmediato en el canvas del mapa, tales como: cálculo del volumen por uso previsto, área estándar calculado como porcentaje del área de planificación total y otras consultas menores. Todos los elementos útiles para el estudio de diseño y planificación no serían posibles de otra manera sin una herramienta muy sólida como gis(y en particular QGIS)."
+
 #: ../../source/site/about/case_studies/italy_vicenza.rst:40
 msgid "QGIS project with building data viewing"
 msgstr "Proyecto QGIS con muestra de datos de edificios"
@@ -91,6 +131,23 @@ msgstr "Compositor de impresión QGIS para capas gráficas finales"
 msgid "Conclusion"
 msgstr "Conclusión"
 
+#: ../../source/site/about/case_studies/italy_vicenza.rst:54
+msgid ""
+"The strength of QGIS is the very user friendly interface coupled with the "
+"several tools it offers. The connection with vary data formats (shape files,"
+" spatialite db, postgresql/postgis db,...) facilitates and increases the "
+"interoperability between different worlds. And thus the freedom offered by "
+"the free software (QGIS, PHP, Libreoffice, QCAD) stimulates and open new "
+"horizons."
+msgstr "La fortaleza de QGIS es su interfaz de usuario muy amistoso acoplado con las diversas herramientas que ofrece. La conexión con varios formatos de datos (archivos shape, bd spatialite, bd postgresql/postgis,...) facilita e incrementa la interoperabilidad entre diferentes mundos. Así, la libertad ofrecida por el software libre (QGIS, PHP, Libreoffice, QCAD) estimula y abre nuevos horizontes."
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:56
+msgid ""
+"And last but not least: we worked on different platform (Windows 7 64 bit, "
+"Windows xp 32 bit, Debian server and Debian client) but we never encountered"
+" insurmountable problems."
+msgstr "Y para finalizar: trabajamos en diferentes plataformas (Windows 7 64 bit, Windows XP 32 bit, servidor Debian y cliente Debian) aunque nunca encontramos problemas que no puedan resolverse."
+
 #: ../../source/site/about/case_studies/italy_vicenza.rst:59
 msgid "Author"
 msgstr "Autor"
@@ -109,61 +166,13 @@ msgid ""
 "was a member of the GFOSS.it board from 2010 to 2012."
 msgstr "Este artículo fue aportado en mayo de 2012 por Flavio Rigolon. Vive en Vicenza (Italia) y trabaja en el municipio de Montecchio Maggiore como gerente del SIT. Ha migrado casi todos los datos de GIS de la plataforma propietaria a la gratuita (QGIS, Postgresql / Postgis, Spatialite). Es miembro de GFOSS.it (Associazione Italiana per l'Informazione Geografica Libera) desde 2007 y miembro de la junta de GFOSS.it de 2010 a 2012."
 
-#: ../../source/site/about/case_studies/italy_vicenza.rst:3
-msgid ""
-"Using QGIS for urban planning in the municipality of Montecchio Maggiore, "
-"Vicenza, Italy"
-msgstr "Usando QGIS para planificación urbana en la municipalidad de Montecchio Maggiore, Vicenza, Italia"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/about/case_studies/italy_vicenza.rst:5
-msgid ""
-"Montecchio Maggiore is a small town in the middle west of Vicenza (about "
-"24.000 population). And as many other italian municipality it manages the "
-"town planning; in particular the urban planning and what we call “recovery "
-"plan” aka PDR --- Piani Di Recupero. This urbanistic tool is dedicated to "
-"the historical area in the center of the town and it requires a specific "
-"study: building state of conservation, intended use, particular historical "
-"notice via survey and restitution to produce planimetric and prospectus "
-"graphics. For this purpose it has used QGIS in addition to "
-"Postgresql/Postgis database, PHP code and Libreoffice suite, QCAD "
-"(LibreCAD)."
-msgstr "Montecchio Maggiore es una pequeña ciudad en el medio oeste de Vicenza (aproximadamente 24.000 habitantes). Y como muchos otros municipios italianos gestiona el urbanismo; en particular la planificación urbana y lo que llamamos \"plan de recuperación\", también conocido como PDR --- Piani Di Recupero. Esta herramienta urbanística está enfocada al área histórica del centro de la ciudad y requiere un estudio específico: estado de conservación del edificio, uso previsto, comunicado histórico particular a través de estudios y restitución para producir gráficos planimétricos y folletos. Para este propósito, ha utilizado QGIS además de la base de datos Postgresql / Postgis, código PHP y la suite Libreoffice, QCAD (LibreCAD)."
-
-#: ../../source/site/about/case_studies/italy_vicenza.rst:31
-msgid ""
-"For every graphic thematic maps were produced using the attribute and data "
-"retrieve during the survey (for the present state) and data modified during "
-"the study and design fase."
-msgstr "Cada mapa temático gráfico se produjo utilizando los atributos y datos recuperados durante el estudio (para el estado actual) y los datos modificados durante el estudio y la fase de diseño."
-
-#: ../../source/site/about/case_studies/italy_vicenza.rst:33
-msgid ""
-"Thus a photo was linked to every building facilitating the design and "
-"analisys in the gis project (using the “action” feature). The SQL tools "
-"(pgquery, postgis manager, dbmanager et al.) allowed to obtain very "
-"sophisticated query immediately viewable in the map canvas such as: volume "
-"calculation split by building intended use, standards area calculation in "
-"percentage of the total planning area and other minor queries. All useful "
-"items for the design and planning study otherwise not possible without a "
-"very strength tool like gis (and QGIS in particular)."
-msgstr "Por lo tanto, se vinculó una foto a cada edificio facilitando el diseño y el análisis en el proyecto gis (usando la función \"acción\"). Las herramientas SQL (pgquery, postgis manager, dbmanager et al.) permitieron obtener consultas muy sofisticadas que se pueden ver de inmediato en el canvas del mapa, tales como: cálculo del volumen por uso previsto, área estándar calculado como porcentaje del área de planificación total y otras consultas menores. Todos los elementos útiles para el estudio de diseño y planificación no serían posibles de otra manera sin una herramienta muy sólida como gis(y en particular QGIS)."
-
-#: ../../source/site/about/case_studies/italy_vicenza.rst:54
-msgid ""
-"The strength of QGIS is the very user friendly interface coupled with the "
-"several tools it offers. The connection with vary data formats (shape files,"
-" spatialite db, postgresql/postgis db,...) facilitates and increases the "
-"interoperability between different worlds. And thus the freedom offered by "
-"the free software (QGIS, PHP, Libreoffice, QCAD) stimulates and open new "
-"horizons."
-msgstr "La fortaleza de QGIS es su interfaz de usuario muy amistoso acoplado con las diversas herramientas que ofrece. La conexión con varios formatos de datos (archivos shape, bd spatialite, bd postgresql/postgis,...) facilita e incrementa la interoperabilidad entre diferentes mundos. Así, la libertad ofrecida por el software libre (QGIS, PHP, Libreoffice, QCAD) estimula y abre nuevos horizontes."
-
-#: ../../source/site/about/case_studies/italy_vicenza.rst:56
-msgid ""
-"And last but not least: we worked on different platform (Windows 7 64 bit, "
-"Windows xp 32 bit, Debian server and Debian client) but we never encountered"
-" insurmountable problems."
-msgstr "Y para finalizar: trabajamos en diferentes plataformas (Windows 7 64 bit, Windows XP 32 bit, servidor Debian y cliente Debian) aunque nunca encontramos problemas que no puedan resolverse."
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "Using QGIS for urban planning in the municipality of Montecchio Maggiore, "

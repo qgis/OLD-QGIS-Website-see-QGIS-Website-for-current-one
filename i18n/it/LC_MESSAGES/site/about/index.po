@@ -1,21 +1,26 @@
 # 
 # Translators:
-# Andrea Giudiceandrea <andreaerdna@libero.it>, 2020
+# Andrea Giudiceandrea <andreaerdna@libero.it>, 2020-2021
 # Mattia De Agostino <mattia.deagostino@gmail.com>, 2013
+# Simone Falceri, 2021
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-26 11:45+0100\n"
-"PO-Revision-Date: 2020-10-26 10:58+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Simone Falceri, 2021\n"
 "Language-Team: Italian (http://www.transifex.com/qgis/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: it\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../../source/site/about/index.rst:6
+msgid "Blogs"
+msgstr "Blog"
 
 #: ../../source/site/about/index.rst:4
 msgid "Discover QGIS"
@@ -27,6 +32,14 @@ msgid ""
 "theme/about_index.html. The html texts are translated in the 'spinx' "
 "resource: https://www.transifex.com/qgis/qgis-website/sphinx/ Only TOC is "
 "used."
+msgstr "Content non viene utilizzato, viene sovrascritto dal testo in themes/qgis-theme/about_index.html. I testi html sono tradotti nella risorsa 'spinx': https://www.transifex.com/qgis/qgis-website/sphinx/ Viene utilizzata solo la TOC."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""
 
 #~ msgid "Blogs"

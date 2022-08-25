@@ -5,22 +5,23 @@
 # 
 # Translators:
 # Tahir Tamba <tahir.tamba@gmail.com>, 2019
+# Harrissou Sant-anna, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 20:36+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-03-13 19:41+0000\n"
-"Last-Translator: Tahir Tamba <tahir.tamba@gmail.com>, 2019\n"
+"Last-Translator: Harrissou Sant-anna, 2022\n"
 "Language-Team: French (https://www.transifex.com/qgis/teams/6144/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: fr\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:3
 msgid "QGIS for distance learning and teaching GIS at Universities"
@@ -151,6 +152,10 @@ msgstr ""
 "ressources d’apprentissage pratique étaient «utiles» à «très utiles» pour "
 "l’apprentissage des SIG. La plupart des autres l’ont qualifié de "
 "«raisonnable»."
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:36
+msgid "Student response graph"
+msgstr ""
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:36
 msgid "Students response graph"
@@ -310,3 +315,11 @@ msgstr ""
 "traitement inégalée. Cette familiarité lui permet de développer des vidéos "
 "pédagogiques QGIS basées sur des ensembles de données spatiales "
 "australiennes."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""

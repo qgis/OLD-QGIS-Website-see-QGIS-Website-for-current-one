@@ -1,21 +1,22 @@
 # 
 # Translators:
-# Pierluigi De Rosa <pierluigi.derosa@gfosservices.it>, 2016
+# Pierluigi De Rosa <pierluigi.derosa@gmail.com>, 2016
 # Pippo Peppo <abc@gmx.ch>, 2018
 # Tommaso_Beschi <tommy.beschi@hotmail.it>, 2019
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-05 15:28+0200\n"
-"PO-Revision-Date: 2019-11-26 22:15+0000\n"
-"Last-Translator: Tommaso_Beschi <tommy.beschi@hotmail.it>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:44+0000\n"
+"Last-Translator: Tommaso_Beschi <tommy.beschi@hotmail.it>, 2019\n"
 "Language-Team: Italian (http://www.transifex.com/qgis/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: it\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:4
 msgid "Using the processing toolbox to automate snow classification"
@@ -196,3 +197,11 @@ msgid ""
 "exciting projects such as the Cloud Seeding experiment, and day to day "
 "operations within the organisation."
 msgstr "Andrew Jeffrey è un analista GIS con Snowy Hydro Limited con sede a Cooma NSW, Australia. Si è laureato presso la Charles Sturt University a Wagga Wagga con una laurea in Sistemi Informativi Territoriali nel 2004. In Snowy Hydro Limited è stato in grado di fornire supporto spaziale a progetti interessanti come l'esperimento Cloud Seeding e le operazioni quotidiane all'interno dell'organizzazione."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""

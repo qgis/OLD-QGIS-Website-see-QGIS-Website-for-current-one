@@ -1,5 +1,6 @@
 # 
 # Translators:
+# Báthory Péter <bathory86p@gmail.com>, 2022
 # Richard Duivenvoorde <richard@duif.net>, 2016
 # Zoltán Toldi <ifj.toldi.zoltan@gmail.com>, 2017
 # Zoltan Siki <siki.zoltan@epito.bme.hu>, 2015-2016
@@ -8,14 +9,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-02 12:44+0100\n"
-"PO-Revision-Date: 2019-12-10 21:28+0000\n"
-"Last-Translator: Zoltan Siki <siki.zoltan@epito.bme.hu>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-10-19 11:14+0000\n"
+"Last-Translator: Báthory Péter <bathory86p@gmail.com>, 2022\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -33,9 +34,9 @@ msgstr "A QGIS dokumentáció aktualizálását :ref:`közösségi csapat vezet�
 #: ../../source/site/getinvolved/document.rst:10
 msgid ""
 "The complete list of documents managed by the QGIS documentation team can be"
-" found at http://www.qgis.org/en/docs/index.html. A list of documenters can "
-"be found at https://github.com/qgis/QGIS-Documentation/graphs/contributors."
-msgstr "A QGIS dokumentációs csoport által kezelt dokumentációk teljes listája megtalálható a http://www.qgis.org/en/docs/index.html oldalon. A dokumentáció készítők listája a https://github.com/qgis/QGIS-Documentation/graphs/contributors oldalon található."
+" found at https://www.qgis.org/en/docs/index.html. A list of documenters can"
+" be found at https://github.com/qgis/QGIS-Documentation/graphs/contributors."
+msgstr "A QGIS dokumentációs csoport által kezelt dokumentációk teljes listája megtalálható a https://www.qgis.org/en/docs/index.html oldalon. A dokumentáció készítők listája a https://github.com/qgis/QGIS-Documentation/graphs/contributors oldalon található."
 
 #: ../../source/site/getinvolved/document.rst:17
 msgid "Documentation Mailing list"
@@ -89,11 +90,11 @@ msgstr "Igyekszünk javítani a projekt kezelés folyamatát és a terhelést jo
 #: ../../source/site/getinvolved/document.rst:45
 msgid ""
 "The complete list of documents managed by the QGIS Documentation Team can be"
-" found at http://www.qgis.org/en/docs/index.html. All the documentation "
+" found at https://www.qgis.org/en/docs/index.html. All the documentation "
 "sources are hosted in `QGIS-Documentation repository "
 "<https://github.com/qgis/QGIS-Documentation>`_. If you want to update some "
 "features in QGIS or document new ones, you need to:"
-msgstr "A QGIS dokumentációs csoport által kezelt dokumentációk teljes listája megtalálható a http://www.qgis.org/en/docs/index.html oldalon. Minden dokumentáció forrás a  `QGIS-Documentation repository <https://github.com/qgis/QGIS-Documentation>`_ tárházban található. Ha frissíteni akar néhány funkciót vagy egy újat akar dokumentálni, akkor tegye a következőket:"
+msgstr "A QGIS dokumentációs csoport által kezelt dokumentációk teljes listája megtalálható a https://www.qgis.org/en/docs/index.html oldalon. Minden dokumentáció forrás a  `QGIS-Documentation repository <https://github.com/qgis/QGIS-Documentation>`_ tárházban található. Ha frissíteni akar néhány funkciót vagy egy újat akar dokumentálni, akkor tegye a következőket:"
 
 #: ../../source/site/getinvolved/document.rst:51
 msgid "have a `GitHub account <https://github.com/join>`_"
@@ -131,6 +132,14 @@ msgid ""
 "directly opens the source file in your forked repo. Just make your changes, "
 "commit in a new branch and submit pull request to the main repository."
 msgstr "Az aktualizálandó fájlok könnyű megtalálásához használja a ``Fix me`` linket a ``Testing`` dokumentáció minden oldalának alján. Ez közvetlenül megnyitja az ön repo másolatában a forrás fájlt. Csak hajtsa végre a módosításokat, mentse el egy új ágba és küldjön egy pull kérést a fő tárházba."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "Update QGIS Documentation"
 #~ msgstr ""
@@ -272,4 +281,18 @@ msgstr "Az aktualizálandó fájlok könnyű megtalálásához használja a ``Fi
 #~ "The update of the QGIS documentation is managed by the :ref:`Community Team "
 #~ "Lead <gui-translation>`. Have a look at the :ref:`QGIS Governance <gui-"
 #~ "translation>` to find out who is in charge of guiding you."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The complete list of documents managed by the QGIS documentation team can be"
+#~ " found at http://www.qgis.org/en/docs/index.html. A list of documenters can "
+#~ "be found at https://github.com/qgis/QGIS-Documentation/graphs/contributors."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The complete list of documents managed by the QGIS Documentation Team can be"
+#~ " found at http://www.qgis.org/en/docs/index.html. All the documentation "
+#~ "sources are hosted in `QGIS-Documentation repository "
+#~ "<https://github.com/qgis/QGIS-Documentation>`_. If you want to update some "
+#~ "features in QGIS or document new ones, you need to:"
 #~ msgstr ""

@@ -5,21 +5,21 @@
 # 
 # Translators:
 # Jürgen E. Fischer <jef@norbit.de>, 2020
-# Sorin Călinică <scalinica@gmail.com>, 2020
+# Sorin Călinică <scalinica@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-10 10:41+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2020-03-13 10:11+0000\n"
-"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2020\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2022\n"
 "Language-Team: Romanian (https://www.transifex.com/qgis/teams/6144/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
@@ -30,6 +30,10 @@ msgstr "Jurnalul schimbărilor pentru QGIS 3.12"
 #: ../../source/site/forusers/visualchangelog312/index.rst:7
 msgid "|image1|"
 msgstr "|image1|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1553
+msgid "image1"
+msgstr "image1"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:9
 msgid ""
@@ -42,6 +46,15 @@ msgid ""
 "work through donations, sponsorship or contributions to the code "
 "documentation, web site and so on."
 msgstr ""
+"Dacă vă atrag noile caracteristici și o tonă de corecții, această versiune "
+"vă va provoca un zâmbet larg! QGIS 3.12 adaugă noi capabilități pe toate "
+"planurile. De la măștile de etichetare și de la un furnizor de raster PG "
+"nativ până la noile capabilități incredibile ale straturilor suprafețelor "
+"poliedrice, această versiune oferă câte ceva fiecăruia. Ca întotdeauna, vă "
+"reamintim că proiectul QGIS are sursa deschisă, iar - dacă sunteți în măsură"
+" - puteți lua în considerare sprijinirea activității noastre prin donații, "
+"sponsorizare sau contribuții la documentarea codului, site-ului web și așa "
+"mai departe."
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:11
 msgid "**Thanks**"
@@ -124,6 +137,10 @@ msgstr ""
 msgid "|imageQ1|"
 msgstr "|imageQ1|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1555
+msgid "imageQ1"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:35
 #: ../../source/site/forusers/visualchangelog312/index.rst:93
 msgid ""
@@ -151,6 +168,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:44
 msgid "|Peek 2020-01-14 16-06|"
 msgstr "|Peek 2020-01-14 16-06|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1556
+msgid "Peek 2020-01-14 16-06"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:46
 #: ../../source/site/forusers/visualchangelog312/index.rst:61
@@ -203,6 +224,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:59
 msgid "|Peek 2020-01-09 11-08|"
 msgstr "|Peek 2020-01-09 11-08|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1557
+msgid "Peek 2020-01-09 11-08"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:64
 msgid "User Interface"
@@ -257,6 +282,10 @@ msgstr ""
 msgid "|image5|"
 msgstr "|image5|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1558
+msgid "image5"
+msgstr "image5"
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:82
 #: ../../source/site/forusers/visualchangelog312/index.rst:219
 #: ../../source/site/forusers/visualchangelog312/index.rst:231
@@ -288,6 +317,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:89
 msgid "|imageQ2|"
 msgstr "|imageQ2|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1560
+msgid "imageQ2"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:91
 msgid "This feature was funded by GEM foundation"
@@ -322,6 +355,10 @@ msgstr ""
 msgid "|copydialog2|"
 msgstr "|copydialog2|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1561
+msgid "copydialog2"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:106
 msgid "And on pasting only one feature, the options are reduced:"
 msgstr ""
@@ -329,6 +366,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:108
 msgid "|copypastesingle|"
 msgstr "|copypastesingle|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1562
+msgid "copypastesingle"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:110
 #: ../../source/site/forusers/visualchangelog312/index.rst:525
@@ -355,6 +396,10 @@ msgstr ""
 msgid "|Peek 2019-12-20 11-27|"
 msgstr "|Peek 2019-12-20 11-27|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1563
+msgid "Peek 2019-12-20 11-27"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:122
 msgid "Feature: Processing raster calc: add missing btns and validate"
 msgstr ""
@@ -366,6 +411,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:126
 msgid "|image10|"
 msgstr "|image10|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1564
+msgid "image10"
+msgstr "image10"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:128
 msgid "This feature was developed by Alessandro Pasotti"
@@ -388,6 +437,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:138
 msgid "|image11|"
 msgstr "|image11|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1565
+msgid "image11"
+msgstr "image11"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:140
 #: ../../source/site/forusers/visualchangelog312/index.rst:334
@@ -424,14 +477,18 @@ msgstr ""
 msgid "|image12|"
 msgstr "|image12|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1567
+msgid "image12"
+msgstr "image12"
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:151
 msgid ""
 "This feature was funded by `QGIS.CH and others through a cofunding campaign "
 "<https://oslandia.com/en/offre-qgis/selective-masking/>`__"
 msgstr ""
 "Această funcționalitate a fost dezvoltată de `QGIS.CH și alții, prin "
-"intermediul unei campanii de cofinanțare <https://oslandia.com/en/offre-qgis"
-"/selective-masking/>`__"
+"intermediul unei campanii de cofinanțare <https://oslandia.com/en/offre-"
+"qgis/selective-masking/>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:153
 msgid ""
@@ -493,19 +550,27 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:180
 msgid "**Before**"
-msgstr ""
+msgstr "**Înainte**"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:182
 msgid "|Peek 2019-12-08 09-18|"
 msgstr "|Peek 2019-12-08 09-18|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1568
+msgid "Peek 2019-12-08 09-18"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:184
 msgid "**After**"
-msgstr ""
+msgstr "**După**"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:186
 msgid "|Peek 2019-12-08 09-16|"
 msgstr "|Peek 2019-12-08 09-16|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1569
+msgid "Peek 2019-12-08 09-16"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:188
 #: ../../source/site/forusers/visualchangelog312/index.rst:1148
@@ -530,6 +595,10 @@ msgstr ""
 msgid "|image15|"
 msgstr "|image15|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1570
+msgid "image15"
+msgstr "image15"
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:197
 #: ../../source/site/forusers/visualchangelog312/index.rst:600
 msgid "This feature was developed by Mathieu Pellerin"
@@ -548,7 +617,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:206
 msgid "Options include:"
-msgstr ""
+msgstr "Opțiunile includ:"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:208
 msgid "number of marker symbols to render for the polygon"
@@ -570,6 +639,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:215
 msgid "|image16|"
 msgstr "|image16|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1571
+msgid "image16"
+msgstr "image16"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:217
 #: ../../source/site/forusers/visualchangelog312/index.rst:229
@@ -600,6 +673,10 @@ msgstr ""
 msgid "|image17|"
 msgstr "|image17|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1572
+msgid "image17"
+msgstr "image17"
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:234
 msgid "Labelling"
 msgstr "Etichetare"
@@ -617,6 +694,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:241
 msgid "|image18|"
 msgstr "|image18|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1573
+msgid "image18"
+msgstr "image18"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:243
 msgid ""
@@ -643,6 +724,10 @@ msgstr ""
 msgid "|image19|"
 msgstr "|image19|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1575
+msgid "image19"
+msgstr "image19"
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:260
 msgid "Feature: New diagram type \"stacked bars\""
 msgstr ""
@@ -659,6 +744,10 @@ msgstr ""
 msgid "|image20|"
 msgstr "|image20|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1577
+msgid "image20"
+msgstr "image20"
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:271
 msgid "Feature: Spacing option for vector layer bar chart diagrams"
 msgstr ""
@@ -670,6 +759,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:275
 msgid "|image21|"
 msgstr "|image21|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1579
+msgid "image21"
+msgstr "image21"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:282
 msgid "Feature: New option to control pie diagram angular direction"
@@ -684,6 +777,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:286
 msgid "|image22|"
 msgstr "|image22|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1581
+msgid "image22"
+msgstr "image22"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:293
 msgid "Rendering"
@@ -703,6 +800,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:300
 msgid "|image23|"
 msgstr "|image23|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1583
+msgid "image23"
+msgstr "image23"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:302
 msgid ""
@@ -744,6 +845,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:313
 msgid "|image24|"
 msgstr "|image24|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1585
+msgid "image24"
+msgstr "image24"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:315
 #: ../../source/site/forusers/visualchangelog312/index.rst:721
@@ -816,6 +921,10 @@ msgstr ""
 msgid "|imageQ3|"
 msgstr "|imageQ3|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1587
+msgid "imageQ3"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:339
 msgid "3D Features"
 msgstr "Caracteristici 3D"
@@ -887,9 +996,17 @@ msgstr ""
 msgid "|mesh3dsettings|"
 msgstr "|mesh3dsettings|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1588
+msgid "mesh3dsettings"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:366
 msgid "|image27|"
 msgstr "|image27|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1589
+msgid "image27"
+msgstr "image27"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:373
 msgid "Feature: Load 3D vector layer data in background + tiling"
@@ -957,8 +1074,8 @@ msgstr "Această funcționalitate a fost finanțată de QGIS.org"
 #: ../../source/site/forusers/visualchangelog312/index.rst:390
 #: ../../source/site/forusers/visualchangelog312/index.rst:1054
 msgid ""
-"This feature was developed by `Martin Dobias <https://api.github.com/users"
-"/wonder-sk>`__"
+"This feature was developed by `Martin Dobias "
+"<https://api.github.com/users/wonder-sk>`__"
 msgstr ""
 "Această funcționalitate a fost dezvoltată de `Martin Dobias "
 "<https://api.github.com/users/wonder-sk>`__"
@@ -981,6 +1098,10 @@ msgstr ""
 msgid "|image28|"
 msgstr "|image28|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1591
+msgid "image28"
+msgstr "image28"
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:405
 msgid "Feature: New layout item type: manually created fixed tables"
 msgstr ""
@@ -998,6 +1119,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:410
 msgid "|image29|"
 msgstr "|image29|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1593
+msgid "image29"
+msgstr "image29"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:412
 #: ../../source/site/forusers/visualchangelog312/index.rst:434
@@ -1028,6 +1153,10 @@ msgstr ""
 msgid "|image30|"
 msgstr "|image30|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1595
+msgid "image30"
+msgstr "image30"
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:428
 msgid ""
 "Feature: Allow layout attribute tables to be styled using the foreground and"
@@ -1046,6 +1175,10 @@ msgstr ""
 msgid "|image31|"
 msgstr "|image31|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1597
+msgid "image31"
+msgstr "image31"
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:439
 msgid "Feature: Add search box to layout manager"
 msgstr ""
@@ -1059,6 +1192,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:443
 msgid "|image32|"
 msgstr "|image32|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1599
+msgid "image32"
+msgstr "image32"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:445
 msgid "This feature was developed by Nyall Dawson"
@@ -1082,6 +1219,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:455
 msgid "|image33|"
 msgstr "|image33|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1601
+msgid "image33"
+msgstr "image33"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:457
 #: ../../source/site/forusers/visualchangelog312/index.rst:468
@@ -1117,6 +1258,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:466
 msgid "|image34|"
 msgstr "|image34|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1603
+msgid "image34"
+msgstr "image34"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:473
 msgid "Feature: New expressions"
@@ -1179,6 +1324,10 @@ msgstr ""
 msgid "|image35|"
 msgstr "|image35|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1605
+msgid "image35"
+msgstr "image35"
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:495
 msgid "Feature: Stored expressions"
 msgstr ""
@@ -1194,6 +1343,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:500
 msgid "|expression-storage-opt|"
 msgstr "|expression-storage-opt|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1607
+msgid "expression-storage-opt"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:502
 msgid ""
@@ -1233,6 +1386,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:515
 msgid "|uniquevalues|"
 msgstr "|uniquevalues|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1608
+msgid "uniquevalues"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:517
 msgid "In the example we have the persons:"
@@ -1420,14 +1577,18 @@ msgstr ""
 msgid "|image38|"
 msgstr "|image38|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1609
+msgid "image38"
+msgstr "image38"
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:612
 msgid ""
 "This feature was funded by `Amt für Wald und Wild Zug "
 "<https://www.zg.ch/behoerden/direktion-des-innern/wald-und-wild>`__"
 msgstr ""
 "Această funcționalitate a fost finanțată de `Agenția Pădurilor și a "
-"Terenurilor de Vânătoare <https://www.zg.ch/behoerden/direktion-des-innern"
-"/wald-und-wild>`__"
+"Terenurilor de Vânătoare <https://www.zg.ch/behoerden/direktion-des-"
+"innern/wald-und-wild>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:617
 msgid "Feature: Snapping cache parallelization"
@@ -1447,6 +1608,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:622
 msgid "|image39|"
 msgstr "|image39|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1611
+msgid "image39"
+msgstr "image39"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:624
 msgid "This feature was funded by `QGIS.org <https://qgis.org>`__"
@@ -1502,13 +1667,15 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:643
 msgid ""
-"This feature was funded by `Kanton Schaffhausen <https://sh.ch/CMS/Webseite"
-"/Kanton-Schaffhausen/Beh-"
-"rde/Verwaltung/Volkswirtschaftsdepartement/Amt-f-r-Geoinformation-1262910-DE.html>`__"
+"This feature was funded by `Kanton Schaffhausen "
+"<https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-"
+"rde/Verwaltung/Volkswirtschaftsdepartement/Amt-f-r-"
+"Geoinformation-1262910-DE.html>`__"
 msgstr ""
 "Această funcționalitate a fost finanțată de `Cantonul Schaffhausen "
 "<https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-"
-"rde/Verwaltung/Volkswirtschaftsdepartement/Amt-f-r-Geoinformation-1262910-DE.html>`__"
+"rde/Verwaltung/Volkswirtschaftsdepartement/Amt-f-r-"
+"Geoinformation-1262910-DE.html>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:645
 #: ../../source/site/forusers/visualchangelog312/index.rst:749
@@ -1538,6 +1705,10 @@ msgstr ""
 msgid "|image40|"
 msgstr "|image40|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1613
+msgid "image40"
+msgstr "image40"
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:657
 #: ../../source/site/forusers/visualchangelog312/index.rst:669
 msgid ""
@@ -1565,6 +1736,10 @@ msgstr ""
 msgid "|image41|"
 msgstr "|image41|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1615
+msgid "image41"
+msgstr "image41"
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:674
 msgid "Feature: UX improvements in drag'n'drop form designer"
 msgstr ""
@@ -1589,6 +1764,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:681
 msgid "|image42|"
 msgstr "|image42|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1617
+msgid "image42"
+msgstr "image42"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:691
 msgid "This feature was funded by QGIS.org bugfixing"
@@ -1626,6 +1805,10 @@ msgstr "Exemplu:"
 msgid "|imageQ4|"
 msgstr "|imageQ4|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1619
+msgid "imageQ4"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:707
 msgid ""
 "Sample use case: "
@@ -1661,6 +1844,10 @@ msgstr ""
 msgid "|image44|"
 msgstr "|image44|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1620
+msgid "image44"
+msgstr "image44"
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:726
 msgid "Feature: Support of Datasets Defined on Faces in QGIS Mesh Calculator"
 msgstr ""
@@ -1676,6 +1863,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:730
 msgid "|image45|"
 msgstr "|image45|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1622
+msgid "image45"
+msgstr "image45"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:737
 msgid "Processing"
@@ -1695,6 +1886,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:745
 msgid "|image46|"
 msgstr "|image46|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1624
+msgid "image46"
+msgstr "image46"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:747
 msgid "This feature was funded by `BikePlan <https://www.bikeplan.ch/>`__"
@@ -1719,6 +1914,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:756
 msgid "|image47|"
 msgstr "|image47|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1626
+msgid "image47"
+msgstr "image47"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:758
 #: ../../source/site/forusers/visualchangelog312/index.rst:767
@@ -1754,6 +1953,10 @@ msgstr ""
 msgid "|image48|"
 msgstr "|image48|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1628
+msgid "image48"
+msgstr "image48"
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:770
 msgid "Feature: Fuzzy Logic - Fuzzfiy Raster (small membership)"
 msgstr ""
@@ -1775,6 +1978,10 @@ msgstr ""
 msgid "|image49|"
 msgstr "|image49|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1630
+msgid "image49"
+msgstr "image49"
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:779
 msgid "Feature: Fuzzy Logic - Fuzzfiy Raster (large membership)"
 msgstr ""
@@ -1795,6 +2002,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:783
 msgid "|image50|"
 msgstr "|image50|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1632
+msgid "image50"
+msgstr "image50"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:788
 msgid "Feature: Fuzzy Logic - Fuzzfiy Raster (gaussian membership)"
@@ -1818,6 +2029,10 @@ msgstr ""
 msgid "|image51|"
 msgstr "|image51|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1634
+msgid "image51"
+msgstr "image51"
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:797
 msgid "Feature: Fuzzy Logic - Fuzzfiy Raster (near membership)"
 msgstr ""
@@ -1839,6 +2054,10 @@ msgstr ""
 msgid "|image52|"
 msgstr "|image52|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1636
+msgid "image52"
+msgstr "image52"
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:806
 msgid "Feature: Port Densify by count Algorithm to C++"
 msgstr ""
@@ -1854,6 +2073,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:810
 msgid "|image53|"
 msgstr "|image53|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1638
+msgid "image53"
+msgstr "image53"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:815
 msgid "Feature: Port Random points in extent algorithm to C++"
@@ -1872,6 +2095,10 @@ msgstr ""
 msgid "|image54|"
 msgstr "|image54|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1640
+msgid "image54"
+msgstr "image54"
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:824
 msgid "Feature: Line density algorithm"
 msgstr ""
@@ -1889,6 +2116,10 @@ msgstr ""
 msgid "|image55|"
 msgstr "|image55|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1642
+msgid "image55"
+msgstr "image55"
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:833
 msgid "Feature: New algorithm \"Repair Shapefile\""
 msgstr ""
@@ -1902,6 +2133,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:837
 msgid "|image56|"
 msgstr "|image56|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1644
+msgid "image56"
+msgstr "image56"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:842
 msgid "Feature: Add new algorithm \"Detect Dataset Changes\""
@@ -1957,6 +2192,10 @@ msgstr ""
 msgid "|image57|"
 msgstr "|image57|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1646
+msgid "image57"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:865
 msgid ""
 "Feature: New mode to \"Join Attributes by Location\" to take attributes from"
@@ -1973,6 +2212,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:869
 msgid "|image58|"
 msgstr "|image58|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1648
+msgid "image58"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:871
 msgid "This feature was funded by SMEC/SJ"
@@ -2014,6 +2257,10 @@ msgstr ""
 msgid "|image59|"
 msgstr "|image59|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1650
+msgid "image59"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:891
 msgid "Feature: add gdal\\_viewshed algorithm"
 msgstr ""
@@ -2048,6 +2295,10 @@ msgstr ""
 msgid "|image60|"
 msgstr "|image60|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1652
+msgid "image60"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:907
 msgid ""
 "This feature was funded by `Limerick City and County Council "
@@ -2069,6 +2320,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:916
 msgid "|image61|"
 msgstr "|image61|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1654
+msgid "image61"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:921
 msgid "Feature: Show \"Open Document...\" action in browser"
@@ -2095,6 +2350,10 @@ msgstr ""
 msgid "|image62|"
 msgstr "|image62|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1656
+msgid "image62"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:934
 msgid "Feature: Allow customization of the items shown in browser"
 msgstr ""
@@ -2109,6 +2368,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:938
 msgid "|Screenshot 2020-01-09 at 09 17 05|"
 msgstr "|Screenshot 2020-01-09 at 09 17 05|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1658
+msgid "Screenshot 2020-01-09 at 09 17 05"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:940
 msgid "This feature was funded by Limerick City and County Council"
@@ -2137,6 +2400,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:949
 msgid "|OGCrefreshonaction|"
 msgstr "|OGCrefreshonaction|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1659
+msgid "OGCrefreshonaction"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:951
 #: ../../source/site/forusers/visualchangelog312/index.rst:1070
@@ -2176,6 +2443,10 @@ msgstr ""
 msgid "|image65|"
 msgstr "|image65|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1660
+msgid "image65"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:982
 msgid "Feature: Added refresh action to OGC services entries"
 msgstr ""
@@ -2183,6 +2454,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:984
 msgid "|image66|"
 msgstr "|image66|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1662
+msgid "image66"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:991
 msgid "Feature: 3d Stacked Meshes"
@@ -2199,6 +2474,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:995
 msgid "|image67|"
 msgstr "|image67|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1664
+msgid "image67"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1002
 msgid "Feature: Fix numerous shapefile encoding issues"
@@ -2237,7 +2516,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1012
 msgid "(+ others!)"
-msgstr ""
+msgstr "(+ alții!)"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1014
 msgid ""
@@ -2379,6 +2658,10 @@ msgstr ""
 msgid "|wms-ttimelayermetadataqgis|"
 msgstr "|wms-ttimelayermetadataqgis|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1666
+msgid "wms-ttimelayermetadataqgis"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:1073
 msgid "Feature: Other average methods 3d mesh"
 msgstr ""
@@ -2427,6 +2710,10 @@ msgstr "ElevationAveragingMethod"
 msgid "|Screenshot 2019-12-19 at 13 59 47|"
 msgstr "|Screenshot 2019-12-19 at 13 59 47|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1667
+msgid "Screenshot 2019-12-19 at 13 59 47"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:1091
 msgid "Feature: OGC API - Features provider"
 msgstr ""
@@ -2445,6 +2732,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:1095
 msgid "|image70|"
 msgstr "|image70|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1668
+msgid "image70"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1097
 msgid "This feature was funded by `Planet <https://planet.com>`__"
@@ -2486,6 +2777,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:1113
 msgid "|qgismapserver|"
 msgstr "|qgismapserver|"
+
+#: ../../source/site/forusers/visualchangelog312/index.rst:1670
+msgid "qgismapserver"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1137
 msgid "Sample output:"
@@ -2538,6 +2833,10 @@ msgstr ""
 msgid "|image72|"
 msgstr "|image72|"
 
+#: ../../source/site/forusers/visualchangelog312/index.rst:1671
+msgid "image72"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog312/index.rst:1159
 msgid "will produce the following with FORMAT=application/json"
 msgstr ""
@@ -2553,7 +2852,7 @@ msgstr "Această funcționalitate a fost dezvoltată de Éric Lemoine"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1166
 msgid "Programmability"
-msgstr "Programabilitatea"
+msgstr "Programabilitate"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1169
 msgid "Feature: Exposes shape digitizing methods to QgisInterface"
@@ -2578,7 +2877,7 @@ msgstr "Corecții Importante"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1182
 msgid "Feature: Bug fixes by Stephen Knox"
-msgstr ""
+msgstr "Funcționalitate: Corecții efectuate de Stephen Knox"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1185
 #: ../../source/site/forusers/visualchangelog312/index.rst:1196
@@ -2593,7 +2892,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:1477
 #: ../../source/site/forusers/visualchangelog312/index.rst:1502
 msgid "Bug Title"
-msgstr ""
+msgstr "Titlul Erorii"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1185
 msgid "URL issues (if reported)"
@@ -2697,7 +2996,7 @@ msgstr "`PR #33925 <https://github.com/qgis/QGIS/pull/33925>`__"
 #: ../../source/site/forusers/visualchangelog312/index.rst:1202
 #: ../../source/site/forusers/visualchangelog312/index.rst:1344
 msgid "risky"
-msgstr ""
+msgstr "riscant"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1202
 msgid "unreported: wrong link in server WFS3 items page (too many slashes)"
@@ -2707,7 +3006,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:1466
 #: ../../source/site/forusers/visualchangelog312/index.rst:1491
 msgid "unreported"
-msgstr ""
+msgstr "neraportat"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1202
 msgid "`PR #33926 <https://github.com/qgis/QGIS/pull/33926>`__"
@@ -3145,7 +3444,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1264
 msgid "Feature: Bug fixes by Sandro Santilli"
-msgstr ""
+msgstr "Funcționalitate: Corecții efectuate de Sandro Santilli"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1269
 msgid "repository files modified by 'make check'"
@@ -3233,7 +3532,7 @@ msgstr "Această funcționalitate a fost dezvoltată de Sandro Santilli"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1285
 msgid "Feature: Bug fixes by Even Rouault"
-msgstr ""
+msgstr "Funcționalitate: Corecții efectuate de Even Rouault"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1290
 msgid "Crash when applying wrong filter to OAFeat layer"
@@ -3287,7 +3586,7 @@ msgstr "`PR #33959 <https://github.com/qgis/QGIS/pull/33959>`__"
 #: ../../source/site/forusers/visualchangelog312/index.rst:1296
 #: ../../source/site/forusers/visualchangelog312/index.rst:1298
 msgid "not doable"
-msgstr ""
+msgstr "nerealizabil"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1298
 msgid ""
@@ -3369,7 +3668,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1314
 msgid "Feature: Bug fixes by Alexander Bruy"
-msgstr ""
+msgstr "Funcționalitate: Corecții efectuate de Alexander Bruy"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1319
 msgid "Remove verbose wording on layout toolbar buttons"
@@ -3428,10 +3727,10 @@ msgstr "`PR #33984 <https://github.com/qgis/QGIS/pull/33984>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1333
 msgid "Feature: Bug fixes by Paul Blottiere"
-msgstr ""
+msgstr "Funcționalitate: Corecții efectuate de Paul Blottiere"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1338
-msgid "Fixes compilation on Archlinux"
+msgid "Fixes compilation on Arch Linux"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1338
@@ -3523,8 +3822,9 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1350
 msgid ""
-"`Discussed on qgis-developers list <%5Dhttps://lists.osgeo.org/pipermail"
-"/qgis-developer/2020-February/060108.html>`__"
+"`Discussed on qgis-developers list "
+"<%5Dhttps://lists.osgeo.org/pipermail/qgis-"
+"developer/2020-February/060108.html>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1350
@@ -3540,12 +3840,12 @@ msgid ""
 "This feature was developed by `Paul Blottiere <https://hytech-"
 "imaging.fr/>`__"
 msgstr ""
-"Această funcționalitate a fost dezvoltată de `Paul Blottiere <https"
-"://hytech-imaging.fr/>`__"
+"Această funcționalitate a fost dezvoltată de `Paul Blottiere "
+"<https://hytech-imaging.fr/>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1358
 msgid "Feature: Bug fixes by Denis Rouzaud"
-msgstr ""
+msgstr "Funcționalitate: Corecții efectuate de Denis Rouzaud"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1363
 msgid "Crash with relations"
@@ -3571,7 +3871,7 @@ msgstr "`PR #34403 <https://github.com/qgis/QGIS/pull/34403>`__"
 #: ../../source/site/forusers/visualchangelog312/index.rst:1365
 #: ../../source/site/forusers/visualchangelog312/index.rst:1367
 msgid "done"
-msgstr ""
+msgstr "încheiat"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1367
 msgid "Fix map layer actions rendering in attribute table"
@@ -3595,7 +3895,7 @@ msgstr "`PR #34411 <https://github.com/qgis/QGIS/pull/34411>`__"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1369
 msgid "TODO?"
-msgstr ""
+msgstr "DE EFECTUAT?"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1371
 msgid "DnD improvements (container config)"
@@ -3641,7 +3941,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1383
 msgid "Feature: Bug fixes by Julien Cabieces"
-msgstr ""
+msgstr "Funcționalitate: Corecții efectuate de Julien Cabieces"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1388
 #: ../../source/site/forusers/visualchangelog312/index.rst:1417
@@ -3806,7 +4106,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1412
 msgid "Feature: Bug fixes by Bertrand Rix"
-msgstr ""
+msgstr "Funcționalitate: Corecții efectuate de Bertrand Rix"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1438
 msgid ""
@@ -3817,7 +4117,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1441
 msgid "Feature: Bug fixes by Loïc Bartoletti"
-msgstr ""
+msgstr "Funcționalitate: Corecții efectuate de Loïc Bartoletti"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1446
 msgid "Close vertex for line when editing"
@@ -3922,7 +4222,7 @@ msgstr "`#33408 <https://github.com/qgis/QGIS/issues/33408>`__"
 #: ../../source/site/forusers/visualchangelog312/index.rst:1458
 #: ../../source/site/forusers/visualchangelog312/index.rst:1487
 msgid "Already fixed"
-msgstr ""
+msgstr "Remediat deja"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1460
 msgid "Fix oriented minimum bounding box algorithm"
@@ -3990,7 +4290,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1474
 msgid "Feature: Bug fixes by Sebastien Peillet"
-msgstr ""
+msgstr "Funcționalitate: Corecții efectuate de Sebastien Peillet"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1479
 msgid "Extend line does not work in compoundCurvedZ layer"
@@ -4084,7 +4384,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1499
 msgid "Feature: Bug fixes by Nyall Dawson"
-msgstr ""
+msgstr "Funcționalitate: Corecții efectuate de Nyall Dawson"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1504
 msgid "Fix IN/NOT IN evaluation with very long number like strings"
@@ -4134,7 +4434,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:1526
 #: ../../source/site/forusers/visualchangelog312/index.rst:1546
 msgid "Submitted"
-msgstr ""
+msgstr "Transmis"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1508
 msgid ""
@@ -4326,7 +4626,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:1532
 #: ../../source/site/forusers/visualchangelog312/index.rst:1542
 msgid "N/A - 3.12 only"
-msgstr ""
+msgstr "N/A - doar pentru 3.12"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1526
 msgid "Fix crash in server feature info"
@@ -4529,6 +4829,14 @@ msgstr ""
 "Această funcționalitate a fost dezvoltată de `Nyall Dawson <https://north-"
 "road.com/>`__"
 
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
+
 #~ msgid ""
 #~ "This feature was developed by `Nyall Dawson (North Road) <http://north-"
 #~ "road.com/>`__"
@@ -4555,3 +4863,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Această funcționalitate a fost dezvoltată de `Nyall Dawson (North Road) "
 #~ "<https://www.opengis.ch>`__"
+
+#~ msgid "Fixes compilation on Archlinux"
+#~ msgstr ""

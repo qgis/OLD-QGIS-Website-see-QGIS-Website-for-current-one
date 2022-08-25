@@ -2,29 +2,38 @@
 # Translators:
 # BelenMP <Beln1@hotmail.com>, 2014
 # Diana Galindo <drgalindog@linuxmail.org>, 2013-2014
-# YoViajo, 2015-2016
-# YoViajo, 2016
+# Eric Armijo, 2015-2016
+# Eric Armijo, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-23 19:13+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:24+0000\n"
+"Last-Translator: Eric Armijo, 2015-2016\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../../source/site/getinvolved/development/index.rst:4
+msgid "Development"
+msgstr "Desarrollo"
 
 #: ../../source/site/getinvolved/development/index.rst:6
 msgid "Welcome to the QGIS Development pages"
 msgstr "Bienvenido a las páginas de desarrollo de QGIS"
 
-#: ../../source/site/getinvolved/development/index.rst:4
-msgid "Development"
-msgstr "Desarrollo"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "QGIS Development"
 #~ msgstr ""

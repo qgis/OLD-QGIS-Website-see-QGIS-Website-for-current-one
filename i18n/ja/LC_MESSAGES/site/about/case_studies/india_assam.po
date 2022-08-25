@@ -6,15 +6,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2018-12-11 01:48+0000\n"
-"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2018\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/site/about/case_studies/india_assam.rst:3
+msgid ""
+"QGIS for monitoring tigers (using camera traps in Nameri Tiger Reserve, "
+"Assam, India Sonitpur District)"
+msgstr "(NAMERIトラ保護区、アッサム、インドSonitpur地区におけるカメラトラップを使用して）トラを監視するためのQGIS"
 
 #: ../../source/site/about/case_studies/india_assam.rst:5
 msgid ""
@@ -26,6 +33,9 @@ msgid ""
 "west and River Bor-Dikorai in the east. To the north of the Nameri lies the "
 "Pakke Tiger Reserve of Arunachal Pradesh."
 msgstr "NAMERIトラ保護区（NTR）は、アッサムの3つのトラ保護区の一つであり、それは東ヒマラヤ山脈の麓に沿っアッサムのSonitpur地区の北部に位置しています。344平方キロの面積に広がる、NTRは動植物の豊かな多様性を誇っています。「NAMERI国立公園」を構成する保存コアエリアは西のBor-Dikorai川と東のJia-Bhoreli 川に制限されています。NAMERIの北にアルナーチャル・プラデーシュ州のPakkeトラ保護区があります。"
+
+msgid "Area of Tiger Reserve"
+msgstr ""
 
 #: ../../source/site/about/case_studies/india_assam.rst:12
 msgid ""
@@ -52,8 +62,30 @@ msgid ""
 msgstr "2011年から開始し、インドのナショナル・トラ保護庁（NTCA）は、必須の国のすべてのトラ保護区がカメラトラップを使用してトラを監視するために作られました。この新しいプロトコルの下では、カメラの25ペアは、トラ保護区の100平方キロのためにインストールされ、サンプリング周期は40〜60日です。この新しいトラの監視プロトコルは、GISに大きく依存しています。"
 
 #: ../../source/site/about/case_studies/india_assam.rst:24
+msgid "Picture of a male Tiger"
+msgstr ""
+
+#: ../../source/site/about/case_studies/india_assam.rst:24
 msgid "Picture of a male tiger that was captured in one of the camera traps"
 msgstr "カメラトラップの一つで捕獲されたオスのトラの絵"
+
+#: ../../source/site/about/case_studies/india_assam.rst:26
+msgid ""
+"During 2012-13, we implemented this new tiger monitoring protocol in NTR by "
+"using QGIS. To begin with, we digitized the NTR boundary in QGIS and saved "
+"it as polygon. This boundary polygon was exported to GPS for navigation "
+"purpose during the field surveys. We conducted an extensive sign survey in "
+"NTR for evidences of tiger presence such pugmarks, scratch marks and scats. "
+"GPS coordinates of tiger signs as well as suitable locations for camera "
+"traps were recorded. After completion of the survey, the data was "
+"transferred to QGIS using GPS tools for further processing and for "
+"finalizing camera trap locations. A shape file containing the tiger signs "
+"and probable camera trap locations was prepared."
+msgstr "2012～13年の間に、当社はQGISを使ってNTRでこの新しいトラの監視プロトコルを実装しました。まず、私たちはQGISでNTR境界をデジタル化し、ポリゴンとしてそれを保存しました。この境界ポリゴンは現地調査の際に、ナビゲーションの目的のためにGPSに書き出しされました。私たちは、トラの存在などpugmarks、スクラッチマークや糞の証拠のためのNTRで豊富な看板調査を実施しました。トラの兆候並びにカメラトラップに適した場所のGPS座標を記録しました。調査の完了後、データは、さらなる処理のために、カメラトラップの位置を確定するためのGPSツールを使用してQGISに移しました。トラの兆候と考えられるカメラトラップの位置を含むシェープファイルを作成しました。"
+
+#: ../../source/site/about/case_studies/india_assam.rst:31
+msgid "Camera trap locations"
+msgstr ""
 
 #: ../../source/site/about/case_studies/india_assam.rst:31
 msgid ""
@@ -85,47 +117,16 @@ msgid ""
 msgstr "次はmmqgisプラグインを使用して4平方キログリッドレイヤーを用意しました。符号の調査の結果を含むシェープファイルはNTRにおけるカメラトラップの分布を可視化するために4平方グリッド上に重ねました。ベクター分析ツールの下の距離行列のオプションは、インターカメラの距離を決定するための非常に便利でした。未満1.8キロ間距離を有するカメラ位置は、監視プロトコルに準拠するように除去しました。原因一度全体リザーブエリアを監視するのに十分なカメラが不足していたため、私たちは100平方キロ、それぞれの2つのブロックにリザーブ領域を分割することを決めました。これらのブロックの境界は、デジタル化され、両方のブロックに別々のシェープファイルとして保存されていました。RGB組成プラグインを使用して、予備の偽色の複合が作成され、トラによって使用される生息地のタイプを評価するために兆候調査シェープファイルを重ねました。試験期間中は、カメラトラップは、現場スタッフによって集中的に監視する必要があります。監視プロセスの円滑な機能を確保するために、私たちは、ロジスティックの要件を計画するためのmmqgisプラグインのジオメトリツールおよびハブ距離のボロノイ多角形の機能を使用していました。カメラトラップの地理座標は、トラの密度および他の種の占有モデルを推定するために必要とされます。これらの座標の詳細は簡単にベクタージオメトリツールの「エクスポート/ジオメトリ列を追加」機能を使って、カメラトラップのシェープファイルから生成されました。"
 
 #: ../../source/site/about/case_studies/india_assam.rst:41
+msgid "Survey Grid"
+msgstr ""
+
+#: ../../source/site/about/case_studies/india_assam.rst:41
 msgid "Survey grids with tiger presence"
 msgstr "調査では、トラの存在とグリッド"
 
 #: ../../source/site/about/case_studies/india_assam.rst:44
 msgid "Conclusion"
 msgstr "結論"
-
-#: ../../source/site/about/case_studies/india_assam.rst:50
-msgid "Author"
-msgstr "制作者"
-
-#: ../../source/site/about/case_studies/india_assam.rst:57
-msgid "Rajendra Garawad"
-msgstr "Rajendra Garawad"
-
-#: ../../source/site/about/case_studies/india_assam.rst:59
-msgid ""
-"This article was contributed by Rajendra G. Garawad in March 2013. He is the"
-" Field Director of Nameri Tiger Reserve, Assam, India. He holds Master "
-"Degrees in Forestry Science and Conservation & Land Management."
-msgstr "この記事は2013年3月にラジェンドラ・G. Garawadによって寄稿されました。氏はNAMERIトラ保護区、アッサム、インドのフィールドディレクターです。森林科学と保全＆土地管理のマスターの学位を保持しています。"
-
-#: ../../source/site/about/case_studies/india_assam.rst:3
-msgid ""
-"QGIS for monitoring tigers (using camera traps in Nameri Tiger Reserve, "
-"Assam, India Sonitpur District)"
-msgstr "(NAMERIトラ保護区、アッサム、インドSonitpur地区におけるカメラトラップを使用して）トラを監視するためのQGIS"
-
-#: ../../source/site/about/case_studies/india_assam.rst:26
-msgid ""
-"During 2012-13, we implemented this new tiger monitoring protocol in NTR by "
-"using QGIS. To begin with, we digitized the NTR boundary in QGIS and saved "
-"it as polygon. This boundary polygon was exported to GPS for navigation "
-"purpose during the field surveys. We conducted an extensive sign survey in "
-"NTR for evidences of tiger presence such pugmarks, scratch marks and scats. "
-"GPS coordinates of tiger signs as well as suitable locations for camera "
-"traps were recorded. After completion of the survey, the data was "
-"transferred to QGIS using GPS tools for further processing and for "
-"finalizing camera trap locations. A shape file containing the tiger signs "
-"and probable camera trap locations was prepared."
-msgstr "2012～13年の間に、当社はQGISを使ってNTRでこの新しいトラの監視プロトコルを実装しました。まず、私たちはQGISでNTR境界をデジタル化し、ポリゴンとしてそれを保存しました。この境界ポリゴンは現地調査の際に、ナビゲーションの目的のためにGPSに書き出しされました。私たちは、トラの存在などpugmarks、スクラッチマークや糞の証拠のためのNTRで豊富な看板調査を実施しました。トラの兆候並びにカメラトラップに適した場所のGPS座標を記録しました。調査の完了後、データは、さらなる処理のために、カメラトラップの位置を確定するためのGPSツールを使用してQGISに移しました。トラの兆候と考えられるカメラトラップの位置を含むシェープファイルを作成しました。"
 
 #: ../../source/site/about/case_studies/india_assam.rst:46
 msgid ""
@@ -143,6 +144,29 @@ msgid ""
 "individuals/institutions/ involved in conserving endangered wildlife in the "
 "developing world by offering GIS technology at little or no cost."
 msgstr "北東インドのこの小さなトラ保護区の歴史の中で初めて、主な理由はQGISのカメラトラップを使用してトラを監視することが可能でした。このモニタリング演習の結果は、この風景の中8-15トラの存在を示します。トラに加えて、いくつかとらえどころのない種も写真的に文書化されています。トラの監視とは別に、私たちはまた、そのような計画の生息地管理工事などの活動のためにQGISを使ってパトロールスケジュールを見直して、訪問者のための地図を設計しています。ユーザーフレンドリーなインターフェイス、豊富な機能、綿密なドキュメント、オンラインサポートおよびフリー/オープンソースの理念は、私たちは他のプロプライエタリなソフトウェアを介して、それを選択するために作られたQGISのいくつかの資質です。私たちは、QGISが低コストあるいはコストなしでGIS技術を提供することにより、発展途上国の絶滅危惧野生生物の保全に関与した個人/機関を/力づけるための大きな可能性を秘めていると信じています。"
+
+#: ../../source/site/about/case_studies/india_assam.rst:50
+msgid "Author"
+msgstr "制作者"
+
+#: ../../source/site/about/case_studies/india_assam.rst:57
+msgid "Rajendra Garawad"
+msgstr "Rajendra Garawad"
+
+#: ../../source/site/about/case_studies/india_assam.rst:59
+msgid ""
+"This article was contributed by Rajendra G. Garawad in March 2013. He is the"
+" Field Director of Nameri Tiger Reserve, Assam, India. He holds Master "
+"Degrees in Forestry Science and Conservation & Land Management."
+msgstr "この記事は2013年3月にラジェンドラ・G. Garawadによって寄稿されました。氏はNAMERIトラ保護区、アッサム、インドのフィールドディレクターです。森林科学と保全＆土地管理のマスターの学位を保持しています。"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "QGIS for monitoring tigers"
 #~ msgstr ""

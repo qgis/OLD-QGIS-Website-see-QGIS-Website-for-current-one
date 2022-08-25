@@ -1,5 +1,6 @@
 # 
 # Translators:
+# Báthory Péter <bathory86p@gmail.com>, 2021
 # Falu <info@falu.me>, 2018
 # Falu <info@falu.me>, 2015
 # Zoltán Toldi <ifj.toldi.zoltan@gmail.com>, 2017
@@ -9,14 +10,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-12 16:20+0200\n"
-"PO-Revision-Date: 2019-09-09 08:32+0000\n"
-"Last-Translator: Zoltan Siki <siki.zoltan@epito.bme.hu>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:24+0000\n"
+"Last-Translator: Báthory Péter <bathory86p@gmail.com>, 2021\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -33,7 +34,7 @@ msgid ""
 " available in the Desktop user interface and about eighty languages are "
 "available in transifex ready to be translated. Nearly the same apply for the"
 " web site and documentation."
-msgstr "A QGIS fejlesztése eredetileg angol nyelven történik, ez igaz a felhasználói felületre (GUI), a dokumentációra és a weboldalra. Az összes rész elérhető sok nyelven, amióta úgy van tervezve a fordítás, hogy könnyen, gyorsan és bármilyen nyelvre le lehessen fordítani. Ebben a pillanatban nagyjából negyven nyelven érhető el a grafikus felület és körülbelül nyolcvan elérhető nyelven fordítható a transifex felületén. Közel ugyanennyi érhető el a weboldal és a dokumentáció esetében is."
+msgstr "A QGIS fejlesztése eredetileg angol nyelven történik, ez igaz a felhasználói felületre (GUI), a dokumentációra és a weboldalra. Az összes rész elérhető sok nyelven, mivel minden úgy lett tervezve, hogy könnyen, gyorsan, bármilyen nyelvre le lehessen fordítani. Ebben a pillanatban nagyjából negyven nyelven érhető el a grafikus felület és körülbelül nyolcvan elérhető nyelven fordítható a transifex felületén. Közel ugyanennyi érhető el a weboldal és a dokumentáció esetében is."
 
 #: ../../source/site/getinvolved/translate.rst:14
 msgid ""
@@ -44,7 +45,7 @@ msgstr "A fordítási folyamatot a :ref:`fordító csapat <gui-translation>` kez
 
 #: ../../source/site/getinvolved/translate.rst:22
 msgid "Translators Mailing list"
-msgstr "Fordító levelező lista"
+msgstr "Fordítói levelező lista"
 
 #: ../../source/site/getinvolved/translate.rst:24
 msgid ""
@@ -52,8 +53,8 @@ msgid ""
 "QGIS into a not yet existing language, see :ref:`becoming-translator`. For "
 "any other related questions, please contact the :ref:`Translation Team "
 "Leader <gui-translation>` or subscribe to the `QGIS Translation mailing list"
-" <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_."
-msgstr "Ha tervezi, hogy egy létező nyelvhez járul hozzá vagy egy még nem létező nyelvre fordítja le a QGIS-t, nézze meg a :ref:`becoming-translator` oldalt. Minden más kapcsolódó kérdésben forduljon a :ref:`fordítási csoport vezetőjéhez <gui-translation>` vagy iratkozzon fel a `QGIS fordítói levelező listára <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_."
+" <https://lists.osgeo.org/mailman/listinfo/qgis-tr>`_."
+msgstr ""
 
 #: ../../source/site/getinvolved/translate.rst:30
 msgid ""
@@ -123,14 +124,14 @@ msgid ""
 "The QGIS project is always looking for people who are willing to invest some"
 " more time translating QGIS into a foreign language - even perhaps to "
 "coordinate the translation effort."
-msgstr "A QGIS projekt mindig keres olyanokat, akik hajlandók egy kis időt befektetni a QGIS idegen nyelvre fordítására - méginkább, hogy koordinálja a fordítási munkát."
+msgstr "A QGIS projekt folyamatosan keres olyan embereket, akik hajlandóak időt fordítani a QGIS idegen nyelvre történő lefordítására, sőt, akár a fordítási munkák összehangolására is."
 
 #: ../../source/site/getinvolved/translate.rst:75
 msgid ""
 "We are trying to improve our project management process and spread the load "
 "more evenly between people who each have a specific area of responsibility, "
 "so any contribution you have to make will be greatly appreciated."
-msgstr "Igyekszünk javítani a projekt kezelés folyamatát és a terhelést jobban szétosztani az emberek között, akik egyes speciális területekért felelősek, így bármilyen hozzájárulását a projekthez nagyra értékeljük."
+msgstr "Igyekszünk javítani a projektmenedzsment folyamatát és a terhelést jobban szétosztani az emberek között, akik egyes speciális területekért felelősek, így bármilyen hozzájárulását a projekthez nagyra értékeljük."
 
 #: ../../source/site/getinvolved/translate.rst:79
 msgid ""
@@ -164,8 +165,8 @@ msgid "Join a Project"
 msgstr "Kapcsolódás egy projekthez"
 
 #: ../../source/site/getinvolved/translate.rst:100
-msgid "Go to http://www.transifex.com and create a new account"
-msgstr "Menjen a  http://www.transifex.com oldalra és hozzon létre egy bejelentkezést"
+msgid "Go to https://www.transifex.com and create a new account"
+msgstr ""
 
 #: ../../source/site/getinvolved/translate.rst:101
 msgid "Verify your account by the link in the email you will receive"
@@ -195,9 +196,9 @@ msgstr "**QGIS Desktop**  minden szövegrészlethez, mely a QGIS alkalmazásokba
 
 #: ../../source/site/getinvolved/translate.rst:109
 msgid ""
-"**QGIS Docs and Website** to translate both QGIS web site and current "
+"**QGIS Docs and Website** to translate both QGIS website and current "
 "documentation."
-msgstr "**QGIS Dokumentáció és weblap** a QGIS honlap és az aktuális dokumentáció fordítása."
+msgstr ""
 
 #: ../../source/site/getinvolved/translate.rst:111
 msgid "Choose in which part of the project you would like to participate"
@@ -253,9 +254,9 @@ msgstr "Amikor a kérését elfogadták, a választott projekt(ek)hez tartozó s
 msgid ""
 "In order to help you make good translation, some instructions are provided "
 "in the `QGIS Translation Guidelines "
-"<http://docs.qgis.org/testing/en/docs/documentation_guidelines/do_translations.html>`_."
+"<https://docs.qgis.org/testing/en/docs/documentation_guidelines/do_translations.html>`_."
 " We strongly recommend you to read them."
-msgstr "Azért, hogy a jó fordítás készítésben segítsük, instrukciókat talál a  `QGIS fordítási útmutató  <http://docs.qgis.org/testing/en/docs/documentation_guidelines/do_translations.html>`_ oldalon. Javasoljuk, hogy olvassa el azokat."
+msgstr ""
 
 #: ../../source/site/getinvolved/translate.rst:144
 msgid "**Quick access to translatable files in Transifex**"
@@ -267,6 +268,14 @@ msgid ""
 "web site, you can use the ``Fix me`` link at the bottom of the page to reach"
 " it sources in Transifex and perform any update you wish to."
 msgstr "Ha egy hibás vagy hiányzó fordítást talál az aktuális dokumentációban vagy a honlapon, használhatja a \"Fix me\" linket az oldal alján a források eléréséhez a Transifex-en és aktualizálhatja ."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "QGIS is natively developed in English, either for the user interface (GUI) "
@@ -450,8 +459,8 @@ msgstr "Ha egy hibás vagy hiányzó fordítást talál az aktuális dokumentác
 #~ msgstr ""
 
 #~ msgid ""
-#~ "For the different Linux distributions you should find a package called \"qt4"
-#~ "-dev-tools\" or similar."
+#~ "For the different Linux distributions you should find a package called "
+#~ "\"qt4-dev-tools\" or similar."
 #~ msgstr ""
 
 #~ msgid ""
@@ -553,4 +562,27 @@ msgstr "Ha egy hibás vagy hiányzó fordítást talál az aktuális dokumentác
 #~ msgid ""
 #~ "**QGIS Desktop** for all the pieces of text available in QGIS apps (QGIS "
 #~ "Desktop, QGIS Browser and QGIS Server),"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you plan to contribute to an existing language or you want to translate "
+#~ "QGIS into a not yet existing language, see :ref:`becoming-translator`. For "
+#~ "any other related questions, please contact the :ref:`Translation Team "
+#~ "Leader <gui-translation>` or subscribe to the `QGIS Translation mailing list"
+#~ " <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_."
+#~ msgstr ""
+
+#~ msgid "Go to http://www.transifex.com and create a new account"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "**QGIS Docs and Website** to translate both QGIS web site and current "
+#~ "documentation."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In order to help you make good translation, some instructions are provided "
+#~ "in the `QGIS Translation Guidelines "
+#~ "<http://docs.qgis.org/testing/en/docs/documentation_guidelines/do_translations.html>`_."
+#~ " We strongly recommend you to read them."
 #~ msgstr ""

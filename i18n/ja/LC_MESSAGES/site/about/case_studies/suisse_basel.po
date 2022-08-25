@@ -6,17 +6,25 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2019-10-24 01:51+0000\n"
-"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2018-2019\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+#: ../../source/site/about/case_studies/suisse_basel.rst:3
+msgid ""
+"QGIS --- an interesting instrument for forestry planning concepts at local "
+"and regional level"
+msgstr "QGIS ---地方および地域レベルでの林業計画の概念に関する興味深い道具"
+
 #: ../../source/site/about/case_studies/suisse_basel.rst:5
+#, python-format
 msgid ""
 "Almost 35% of Switzerland's surface is covered by forests. Changing demands "
 "upon the forest and the poor financial situation of forest enterprises in "
@@ -82,6 +90,21 @@ msgstr "林業測定地図の抽出"
 msgid "Conclusion"
 msgstr "結論"
 
+#: ../../source/site/about/case_studies/suisse_basel.rst:27
+msgid ""
+"QGIS is an interesting tool for small planning offices, such as guaraci, as "
+"well as for the forest managers and owners. It can be used in a professional"
+" context and the presented output result was appreciated by all parties "
+"involved. For the mentioned tasks the present QGIS version 1.4 “Enceladus” "
+"offers all necessary GIS tools. The most important qualities of QGIS are the"
+" intuitive user interface and the compatibility with different file formats."
+" It is an ideal tool for projects that are on one hand based on existing "
+"geographic data and on the other hand require the acquisition of new data. "
+"The user-manual is helpful and easy to understand. Both from the technical "
+"as well as the financial perspective QGIS is an interesting alternative to "
+"other GIS software."
+msgstr "QGISは、グアラシのような小さな計画事務所、のためだけでなく、森林管理者と所有者のための興味深いツールです。これは、プロのコンテキストで使用でき、提示出力結果はすべての関係者に高く評価されました。前述の作業のために、本QGISバージョン1.4「エンケラドス」はすべての必要なGISツールを提供しています。QGISの最も重要な資質は、直感的なユーザーインターフェイス、そして異なるファイル形式との互換性です。これは、一方で既存の地理データに基づき、他方で新たなデータの取得が必要なプロジェクトにとっては理想的なツールです。ユーザーマニュアルは有用であり理解しやすいです。技術だけでなく金銭的視点でも、QGISは他のGISソフトウェアに対する興味深い代替手段です。"
+
 #: ../../source/site/about/case_studies/suisse_basel.rst:30
 msgid "Perspective"
 msgstr "展望"
@@ -116,26 +139,13 @@ msgid ""
 "guaraci in 2009."
 msgstr "この記事はRaphaelHänerによって2010年6月に寄稿されました。彼はスイスのチューリッヒETH のDiplForst Ingで、2009年に一人会社グアラシを設立しました。"
 
-#: ../../source/site/about/case_studies/suisse_basel.rst:3
-msgid ""
-"QGIS --- an interesting instrument for forestry planning concepts at local "
-"and regional level"
-msgstr "QGIS ---地方および地域レベルでの林業計画の概念に関する興味深い道具"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/about/case_studies/suisse_basel.rst:27
-msgid ""
-"QGIS is an interesting tool for small planning offices, such as guaraci, as "
-"well as for the forest managers and owners. It can be used in a professional"
-" context and the presented output result was appreciated by all parties "
-"involved. For the mentioned tasks the present QGIS version 1.4 “Enceladus” "
-"offers all necessary GIS tools. The most important qualities of QGIS are the"
-" intuitive user interface and the compatibility with different file formats."
-" It is an ideal tool for projects that are on one hand based on existing "
-"geographic data and on the other hand require the acquisition of new data. "
-"The user-manual is helpful and easy to understand. Both from the technical "
-"as well as the financial perspective QGIS is an interesting alternative to "
-"other GIS software."
-msgstr "QGISは、グアラシのような小さな計画事務所、のためだけでなく、森林管理者と所有者のための興味深いツールです。これは、プロのコンテキストで使用でき、提示出力結果はすべての関係者に高く評価されました。前述の作業のために、本QGISバージョン1.4「エンケラドス」はすべての必要なGISツールを提供しています。QGISの最も重要な資質は、直感的なユーザーインターフェイス、そして異なるファイル形式との互換性です。これは、一方で既存の地理データに基づき、他方で新たなデータの取得が必要なプロジェクトにとっては理想的なツールです。ユーザーマニュアルは有用であり理解しやすいです。技術だけでなく金銭的視点でも、QGISは他のGISソフトウェアに対する興味深い代替手段です。"
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "QGIS - an interesting instrument for forestry planning"
 #~ msgstr ""

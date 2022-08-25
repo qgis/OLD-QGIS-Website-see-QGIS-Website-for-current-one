@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-13 20:36+0100\n"
-"PO-Revision-Date: 2020-03-16 09:28+0000\n"
-"Last-Translator: Kwon.Yongchan <ruvyn@naver.com>\n"
+"PO-Revision-Date: 2016-03-05 14:48+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Korean (http://www.transifex.com/qgis/qgis-website/language/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:4
 msgid "GIT Access"
-msgstr ""
+msgstr "GIT 접근"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:7
 msgid ""
@@ -35,11 +35,11 @@ msgstr "설치"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:14
 msgid "Install git for GNU/Linux"
-msgstr ""
+msgstr "GNU/Linux 용 git 설치"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:16
 msgid "Debian based distro users can do:"
-msgstr ""
+msgstr "데비안 기반 배포판 사용자가 할 수 있습니다:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:24
 msgid "Install git for Windows"
@@ -91,23 +91,23 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:59
 msgid "Accessing the Repository"
-msgstr ""
+msgstr "저장소에 접근"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:62
 msgid "To clone QGIS master:"
-msgstr ""
+msgstr "QGIS master를 clone:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:70
 msgid "Check out a branch"
-msgstr ""
+msgstr "브랜치를 chekout"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:72
 msgid "To check out a branch, for example the release 2.6.1 branch do:"
-msgstr ""
+msgstr "브랜치를 checkout 하려면, 예를 들어 릴리스 2.6.1 브랜치를 하려면:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:81
 msgid "To check out the master branch:"
-msgstr ""
+msgstr "master 브랜치를 checkout:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:88
 msgid ""
@@ -125,11 +125,11 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:98
 msgid "QGIS documentation sources"
-msgstr ""
+msgstr "QGIS 문서 소스"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:100
 msgid "If you're interested in checking out QGIS documentation sources:"
-msgstr ""
+msgstr "QGIS 문서 소스를 checkout 하려면:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:106
 msgid ""
@@ -139,7 +139,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:110
 msgid "QGIS website sources"
-msgstr ""
+msgstr "QGIS 웹사이트 소스"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:112
 msgid "If you're interested in checking out QGIS website sources:"
@@ -153,11 +153,11 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:122
 msgid "GIT Documentation"
-msgstr ""
+msgstr "GIT 문서"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:125
 msgid "See the following sites for information on becoming a GIT master."
-msgstr ""
+msgstr "GIT 마스터가  되려면 아래 사이트를 보세요."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:127
 msgid "http://gitref.org"
@@ -506,7 +506,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:352
 msgid "Obtaining GIT Write Access"
-msgstr ""
+msgstr "GIT 접근 권한 얻기"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:354
 msgid ""
@@ -552,11 +552,11 @@ msgstr ""
 #~ "QGIS developers are busy folk. We do scan the incoming patches on bug "
 #~ "reports but sometimes we miss things. Don't be offended or alarmed. Try to "
 #~ "identify a developer to help you - using the `Technical Resources "
-#~ "<https://qgis.org/en/site/getinvolved/governance/organisation/governance.html"
-#~ "#community-resources>`_ and contact them asking them if they can look at "
-#~ "your patch. If you don't get any response, you can escalate your query to "
-#~ "one of the Project Steering Committee members (contact details also "
-#~ "available in the Technical Resources)."
+#~ "<https://qgis.org/en/site/getinvolved/governance/organisation/governance.html#community-"
+#~ "resources>`_ and contact them asking them if they can look at your patch. If"
+#~ " you don't get any response, you can escalate your query to one of the "
+#~ "Project Steering Committee members (contact details also available in the "
+#~ "Technical Resources)."
 #~ msgstr ""
 
 #~ msgid ""

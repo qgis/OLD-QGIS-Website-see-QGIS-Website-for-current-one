@@ -5,15 +5,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 20:13+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2013-2014\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:3
+msgid "QGIS Maps Historic Herpetofaunal Records (in Missouri, USA)"
+msgstr "Înregistrări Istorice ale Herpetofaunei, Cartografiate în QGIS (în Missouri, USA)"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:5
 msgid ""
@@ -61,6 +66,10 @@ msgid ""
 msgstr "Procesul de creare a hărților cu QGIS începe cu datele stocate în mai multe tabele PostgreSQL, având activată extensia spațială PostGIS. Deoarece hărțile sunt statice și, în cele din urmă, destinate să fie expuse pe web sau într-un atlas imprimat, acestea sunt generate automat pentru fiecare specie, folosind un  plugin QGIS scris în Python (Figurile 1,2)."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:21
+msgid "Custom map generation and export user interface"
+msgstr ""
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:21
 msgid ""
 "Custom map generation and export user interface, maps are generated and "
 "exported in a batch process."
@@ -76,8 +85,16 @@ msgid ""
 msgstr "Hărțile finale ale speciilor au un aspect curat și profesional (figura 3). Pentru a înțelege mai bine distribuția speciilor, sunt create și etichetate, de asemenea, o serie de hărți de bază (figura 4). Datorită modului în care sunt gestionate stilurile în cadrul fiecărui strat de date, straturile de bază ale hărții pot fi incluse într-un set de hărți al unei specii oarecare cu foarte puțin efort suplimentar."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:30
+msgid "Maps"
+msgstr "Hărți"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:30
 msgid "Maps are displayed as static images."
 msgstr "Hărțile sunt afișate ca imagini statice."
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:37
+msgid "Labelled Level III Ecoregion map for Missouri"
+msgstr ""
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:37
 msgid "Labelled Level III Ecoregion map for Missouri and surrounding states."
@@ -86,26 +103,6 @@ msgstr " Harta ecoregiunii de nivelul III, etichetată, pentru Missouri și stat
 #: ../../source/site/about/case_studies/usa_missouri.rst:40
 msgid "Conclusions"
 msgstr "Concluzii"
-
-#: ../../source/site/about/case_studies/usa_missouri.rst:49
-msgid "Author"
-msgstr "Autorul"
-
-#: ../../source/site/about/case_studies/usa_missouri.rst:56
-msgid "Brian Edmond"
-msgstr "Brian Edmond"
-
-#: ../../source/site/about/case_studies/usa_missouri.rst:58
-msgid ""
-"This article was contributed by Brian Edmond in February 2013. He is a "
-"Senior Systems Analyst in Computer Services at Missouri State University.  "
-"He holds a BS in Wildlife Biology from the University of Missouri and has "
-"spent his career in the intergrade zone between biology and technology."
-msgstr "Acest articol a fost trimis de Brian Edmond în februarie 2013. Acesta este Senior Systems Analyst in Computer Services la Universitatea de Stat din Missouri. Deține un BS în Biologia Faunei Sălbatice la Universitatea din Missouri, petrecându-și cariera în zona de graniță dintre biologie și tehnologie."
-
-#: ../../source/site/about/case_studies/usa_missouri.rst:3
-msgid "QGIS Maps Historic Herpetofaunal Records (in Missouri, USA)"
-msgstr "Înregistrări Istorice ale Herpetofaunei, Cartografiate în QGIS (în Missouri, USA)"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:42
 msgid ""
@@ -133,6 +130,30 @@ msgid ""
 "extensibility using Python is more than sufficient to tackle larger and more"
 " complex projects."
 msgstr "Deși am folosit QGIS doar într-un mod specific, capacitățile sale și extensibilitatea dată de Python sunt arhisuficiente pentru a aborda proiecte mai mari și mai complexe."
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:49
+msgid "Author"
+msgstr "Autorul"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:56
+msgid "Brian Edmond"
+msgstr "Brian Edmond"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:58
+msgid ""
+"This article was contributed by Brian Edmond in February 2013. He is a "
+"Senior Systems Analyst in Computer Services at Missouri State University.  "
+"He holds a BS in Wildlife Biology from the University of Missouri and has "
+"spent his career in the intergrade zone between biology and technology."
+msgstr "Acest articol a fost trimis de Brian Edmond în februarie 2013. Acesta este Senior Systems Analyst in Computer Services la Universitatea de Stat din Missouri. Deține un BS în Biologia Faunei Sălbatice la Universitatea din Missouri, petrecându-și cariera în zona de graniță dintre biologie și tehnologie."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "QGIS Maps Historic Herpetofaunal Records"
 #~ msgstr ""

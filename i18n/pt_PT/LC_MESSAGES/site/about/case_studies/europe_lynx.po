@@ -1,22 +1,23 @@
 # 
 # Translators:
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2020
-# Manuela Silva <manuelarodsilva@gmail.com>, 2016
+# Manuela Silva <mmsrs@sky.com>, 2016
 # Paula Moreira <prmpaula@gmail.com>, 2017
 # slopes <sandramnlopes@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-30 12:18+0100\n"
-"PO-Revision-Date: 2020-12-07 09:56+0000\n"
-"Last-Translator: João Gaspar <joao.f.r.gaspar@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-09-08 07:58+0000\n"
+"Last-Translator: João Gaspar <joao.f.r.gaspar@gmail.com>, 2020\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/qgis/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: pt_PT\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/europe_lynx.rst:4
 msgid "Lynx habitat analysis in the Southern Carpathians"
@@ -105,6 +106,7 @@ msgid ""
 msgstr ""
 
 #: ../../source/site/about/case_studies/europe_lynx.rst:51
+#, python-format
 msgid ""
 "*Note:Defining forest (>= 75 % cover) as best suitable and using the "
 "elevation data to reduce index values above assumed tree line is "
@@ -227,4 +229,12 @@ msgstr ""
 msgid ""
 "Please contact Luca.Ehrminger(at)hnee.de, David.Winger(at)hnee.de, or "
 "Prof.Dr.Jan-Peter Mund: Jan-Peter.Mund(at)hnee.de for further information."
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""

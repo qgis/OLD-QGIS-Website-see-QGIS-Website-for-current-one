@@ -4,91 +4,172 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-11-01 07:36+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
-"Language-Team: Khmer (Cambodia) (http://www.transifex.com/projects/p/qgis-website/language/km_KH/)\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:25+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Khmer (Cambodia) (http://www.transifex.com/qgis/qgis-website/language/km_KH/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: km_KH\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../source/site/about/features.rst:2
-msgid "Features of QGIS"
+msgid "Applications"
 msgstr ""
 
-#: ../../source/site/about/features.rst:5
-msgid "QGIS Desktop"
+#: ../../source/site/about/features.rst:4
+msgid ""
+"QGIS is not only a desktop GIS. We also provide a spatial file browser, a "
+"server application, and web applications."
 msgstr ""
 
 #: ../../source/site/about/features.rst:7
-msgid "Create, edit, visualise, analyse and publish geospatial information."
+#: ../../source/site/about/features.rst:16
+msgid "QGIS Desktop"
 msgstr ""
 
 #: ../../source/site/about/features.rst:9
+msgid "Create, edit, visualise, analyse and publish geospatial information."
+msgstr ""
+
+#: ../../source/site/about/features.rst:11
 msgid "For Windows, Mac, Linux, BSD and Android."
 msgstr ""
 
-#: ../../source/site/about/features.rst:14
+#: ../../source/site/about/features.rst:16
 msgid "A screenshot of QGIS Desktop"
 msgstr ""
 
-#: ../../source/site/about/features.rst:18
-msgid "QGIS Browser"
-msgstr ""
-
-#: ../../source/site/about/features.rst:20
-msgid "Browse and preview your data and metadata."
-msgstr ""
-
-#: ../../source/site/about/features.rst:22
-msgid "Drag and drop your data from one datastore into the other one."
-msgstr ""
-
-#: ../../source/site/about/features.rst:27
-msgid "A screenshot of QGIS Browser"
-msgstr ""
-
-#: ../../source/site/about/features.rst:31
+#: ../../source/site/about/features.rst:19
+#: ../../source/site/about/features.rst:33
 msgid "QGIS Server"
 msgstr ""
 
-#: ../../source/site/about/features.rst:33
+#: ../../source/site/about/features.rst:21
 msgid ""
-"Publish your QGIS projects and layers as OGC compatible WMS and WFS "
-"services. Control which layers, attributes, layouts and coordinate systems "
-"are exported."
+"Publish your QGIS projects and layers as OGC compatible WMS, WMTS, WFS and "
+"WCS services. Control which layers, attributes, layouts and coordinate "
+"systems are exported. QGIS server is considered as a reference "
+"implementation for WMS 1.3."
 msgstr ""
 
-#: ../../source/site/about/features.rst:40
+msgid "QGIS Server OGC cerfication badge"
+msgstr ""
+
+#: ../../source/site/about/features.rst:33
 msgid "A screenshot of QGIS Server configuration in QGIS Desktop"
 msgstr ""
 
-#: ../../source/site/about/features.rst:43
+#: ../../source/site/about/features.rst:36
+#: ../../source/site/about/features.rst:45
 msgid "QGIS Web Client"
 msgstr ""
 
-#: ../../source/site/about/features.rst:45
+#: ../../source/site/about/features.rst:38
 msgid ""
 "Publish your QGIS projects on the web with ease. Benefit from the powerful "
 "symbology, labeling and blending features to impress with your maps."
 msgstr ""
 
-#: ../../source/site/about/features.rst:52
+#: ../../source/site/about/features.rst:45
 msgid "A screenshot of QGIS Web Client"
 msgstr ""
 
-#: ../../source/site/about/features.rst:56
-msgid "QGIS on Android (beta!)"
+#: ../../source/site/about/features.rst:49
+msgid "QGIS on mobiles and tablets"
 msgstr ""
 
-#: ../../source/site/about/features.rst:58
+#: ../../source/site/about/features.rst:51
 msgid ""
-"Work is being done to use QGIS on Android devices. Current builds are very "
-"experimental, and not for the faint of heart."
+"The QGIS experience does not stop on the desktop. Various third-party touch "
+"optimized apps allow you to take QGIS into the field"
 msgstr ""
 
-#: ../../source/site/about/features.rst:64
-msgid "A screenshot of QGIS on Android"
+#: ../../source/site/about/features.rst:55
+msgid "`QField for QGIS (formerly QGIS for Android) <https://qfield.org>`_"
 msgstr ""
+
+#: ../../source/site/about/features.rst:59
+msgid "QField"
+msgstr ""
+
+#: ../../source/site/about/features.rst:59
+msgid ""
+"A screenshot of QField for QGIS (available for Android, Windows, iOS coming "
+"soon)"
+msgstr ""
+
+#: ../../source/site/about/features.rst:62
+msgid "`Mergin Maps Input app <https://merginmaps.com>`_"
+msgstr ""
+
+#: ../../source/site/about/features.rst:66
+msgid "Mergin Maps Input app"
+msgstr ""
+
+#: ../../source/site/about/features.rst:66
+msgid "A screenshot of Mergin Maps Input app (available for Android, iOS)"
+msgstr ""
+
+#: ../../source/site/about/features.rst:69
+msgid "`IntraMaps Roam <https://roam-docs.readthedocs.io>`_"
+msgstr ""
+
+#: ../../source/site/about/features.rst:73
+msgid "Roam"
+msgstr ""
+
+#: ../../source/site/about/features.rst:73
+msgid "A screenshot of IntraMaps Roam (available for Windows)"
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
+
+#~ msgid "QGIS Applications"
+#~ msgstr ""
+
+#~ msgid "Features of QGIS"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Publish your QGIS projects and layers as OGC compatible WMS and WFS "
+#~ "services. Control which layers, attributes, layouts and coordinate systems "
+#~ "are exported."
+#~ msgstr ""
+
+#~ msgid "QGIS Browser"
+#~ msgstr ""
+
+#~ msgid "Browse and preview your data and metadata."
+#~ msgstr ""
+
+#~ msgid "Drag and drop your data from one datastore into the other one."
+#~ msgstr ""
+
+#~ msgid "A screenshot of QGIS Browser"
+#~ msgstr ""
+
+#~ msgid "QGIS on Android (beta!)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Work is being done to use QGIS on Android devices. Current builds are very "
+#~ "experimental, and not for the faint of heart."
+#~ msgstr ""
+
+#~ msgid "A screenshot of QGIS on Android"
+#~ msgstr ""
+
+#~ msgid "`Input <https://inputapp.io>`_"
+#~ msgstr ""
+
+#~ msgid "A screenshot of Input (available for Android, Windows, iOS)"
+#~ msgstr ""

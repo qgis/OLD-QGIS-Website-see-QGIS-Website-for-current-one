@@ -1,141 +1,30 @@
 # 
 # Translators:
+# Tomas Straupis, 2021
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2020-03-16 09:08+0000\n"
-"Last-Translator: Tomas Straupis\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Tomas Straupis, 2021\n"
 "Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: lt\n"
 "Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:6
-msgid "Introduction"
-msgstr ""
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:13
-msgid "About the project"
-msgstr "Apie projektą"
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:15
-msgid ""
-"The main objective of the experience was to lecture the 12th grade students,"
-" in the implementation of a GIS as tool to optimize and enhance the "
-"management of spatial information, and to provide a support to the decision "
-"making process."
-msgstr ""
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:17
-msgid "**Specific objectives:**"
-msgstr ""
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:20
-msgid ""
-"Usage of GIS as a technical tool to validate of socio-spatial hypothesis."
-msgstr ""
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:23
-msgid "**Methodology:**"
-msgstr ""
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:25
-msgid "To generate the project we continue the following methodology:"
-msgstr ""
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:27
-msgid ""
-"Practical and theoretical lectures; mainly about the usage of QGIS and the "
-"benefits of urban green spaces and its territorial implications."
-msgstr ""
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:28
-msgid ""
-"Cartographic modeling, vector layers definition, development of GIS "
-"databases."
-msgstr ""
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:29
-msgid "Field work (trees data records and GPS locations)."
-msgstr ""
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:30
-msgid ""
-"Vector digitizing of urban cadastral blocks and the tree´s canopies, using a"
-" Google Earth (GeoEye) image. In order to consider the amount inhabitants by"
-" cadastral block, we assigned an average value of 4 inhabitants by plot."
-msgstr ""
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:31
-msgid "Results presentation through thematic cartography."
-msgstr ""
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:38
-msgid "Attribute table of “blocks” vector layer"
-msgstr ""
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:41
-msgid "Conclusion"
-msgstr "Išvada"
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:52
-msgid ""
-"Distribution of urban green spaces (green) and population density by blocks "
-"(white to brown) at Rada Tilly coastal town, Chubut Provinc, Argentina."
-msgstr ""
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:54
-msgid ""
-"Although the project was an academic exercise of High School, we deeply "
-"value the inventory´s results obtained by QGIS. Students worked with all "
-"academic rigor and seriousness, showing appropriation of the thematic (urban"
-" green spaces) and also of the tool (QGIS). It was a very enriching "
-"experience for them and also for the educational staff involved."
-msgstr ""
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:59
-msgid "Authors"
-msgstr "Autoriai"
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:68
-msgid "Mauro Novara"
-msgstr ""
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:70
-msgid ""
-"Mauro Novara is Professor of Territorial Information Systems course. "
-"Lecturer and researcher of National University of Patagonia San Juan Bosco, "
-"Faculty of Humanities and Social Sciences. Geography Department. Comodoro "
-"Rivadavia, Chubut Province, Argentina."
-msgstr ""
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:77
-msgid "Alberto Vázquez"
-msgstr ""
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:61
-msgid ""
-"This article was contributed in September 2011 by Mauro Novara and Alberto "
-"Vázquez from Argentina."
-msgstr ""
-
-#: ../../source/site/about/case_studies/argentinia_chubut.rst:79
-msgid ""
-"Prof. Alberto Vázquez is a graduate teaching assistant of Territorial "
-"Information Systems course. National University of Patagonia San Juan Bosco,"
-" Faculty of Humanities and Social Sciences. Geography Department. Comodoro "
-"Rivadavia, Chubut Province, Argentina."
-msgstr ""
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:3
 msgid ""
 "QGIS at high school --- the urban green spaces in Rada Tilly coastal town, "
 "Chubut province, Argentina"
-msgstr ""
+msgstr "QGIS aukštojoje mokykloje --- urbanistinės žaliosios erdvės Rada Tilly mieste, Chubut provincija, Argentina"
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:6
+msgid "Introduction"
+msgstr "Įvadas"
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:8
 msgid ""
@@ -146,7 +35,7 @@ msgid ""
 " to demonstrate a methodology of an academic exercise that can project, with"
 " important reaches, as formative instances related to the geographical "
 "reasoning in students of 12th grade of the Abraham Lincoln School."
-msgstr ""
+msgstr "Mūsų regione - Argentinos Patagonijoje - mes turime labai mažai informacijos apie GIS taikymus Aukštosiose mokyklose geografinių žinių kūrimui, kaip būdą spręsti teritorines ir aplinkos problemas. QGIS pagalba analizuojamas urbanistinių žalių erdvių klausimas Rada Tilly mieste demonstruoja akademinio tyrimo metodologiją, kuri gali su svarbiais įsiskverbimais padėti Abraomo Linkolno mokyklos 12 klasės studentams kurti geografines įžvalgas."
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:10
 msgid ""
@@ -158,20 +47,87 @@ msgid ""
 "inhabitant in Rada Villa coastal town, with values suggested by the World "
 "Health Organization, WHO (a  minimum of 9 m\\ :sup:`2` of green areas, by "
 "person, in urban areas)."
-msgstr ""
+msgstr "Mes pradėjome stebėjimais (inventorizacija), kadastro blokų ir žaliosios zonos (medžių lajos) skaitmeninimu, naudojant Google Earth palydovines nuotraukas. Kaip konceptualų karkasą, mes dėstėme apie kartografinį dizainą, palydovinių nuotraukų skaitymą ir interpretaciją bei vietos analizę - situacijos (m\\ :sup:`2`) urbanistinių žalių erdvių vienam Rada Villa miesto gyventojui, su reikšmėmis, kurias siūlo Pasaulinė Sveikatos Organizacija, PSO (mažiausiai 9 m\\ :sup:`2` žalių erdvių žmogui urbanistinėse zonose)."
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:13
+msgid "About the project"
+msgstr "Apie projektą"
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:15
+msgid ""
+"The main objective of the experience was to lecture the 12th grade students,"
+" in the implementation of a GIS as tool to optimize and enhance the "
+"management of spatial information, and to provide a support to the decision "
+"making process."
+msgstr "Pagrindinis tikslas buvo mokyti 12 klasės mokinius naudoti GIS, kaip priemonę erdvinės informacijos optimizavimui ir pagerinimui, bei kaip padėti sprendimų priėmimo procesui."
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:17
+msgid "**Specific objectives:**"
+msgstr "**Konkretūs tikslai:**"
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:19
 msgid ""
 "Student´s appropriation of a local issue (the Rada Tilly´s green areas "
 "related the 9 m\\ :sup:`2` by inhabitant proposed by WHO) from a "
 "geographical perspective through GIS tools."
-msgstr ""
+msgstr "Studentų vietos problemos (Rada Tilly žalių erdvių, susijusių su 9 m\\ :sup:`2` gyventojui, siūlomų PSO) įsisavinimas iš geografinės perspektyvos naudojant GIS įrankius."
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:20
+msgid ""
+"Usage of GIS as a technical tool to validate of socio-spatial hypothesis."
+msgstr "GIS kaip techninio įrankio naudojimas socialinių-erdvinių hipotezių tikrinimui."
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:21
 msgid ""
 "Verification of the viability of capture, processing, storage, analysis, "
 "recovery and updating of spatial data using a FOSS QGIS."
-msgstr ""
+msgstr "Erdvinių duomenų įvedimo, apdorojimo, saugojimo, analizės, atstatymo ir keitimo galimybės naudojant FOSS QGIS tikrinimas."
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:23
+msgid "**Methodology:**"
+msgstr "**Metodologija:**"
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:25
+msgid "To generate the project we continue the following methodology:"
+msgstr "Kad sukurtume projektą, mes naudojame šią metodologiją:"
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:27
+msgid ""
+"Practical and theoretical lectures; mainly about the usage of QGIS and the "
+"benefits of urban green spaces and its territorial implications."
+msgstr "Praktinės ir teorinės paskaitos, pagrinde apie QGIS naudojimą ir miesto žalių erdvių naudą bei teritorinę įtaką."
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:28
+msgid ""
+"Cartographic modeling, vector layers definition, development of GIS "
+"databases."
+msgstr "Kartografinis modeliavimas, vektorinių sluoksnių apibrėžimas, GIS duombazių vystymas."
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:29
+msgid "Field work (trees data records and GPS locations)."
+msgstr "Darbas lauke (įrašai apie medžių duomenis ir GPS pozicijas)."
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:30
+msgid ""
+"Vector digitizing of urban cadastral blocks and the tree´s canopies, using a"
+" Google Earth (GeoEye) image. In order to consider the amount inhabitants by"
+" cadastral block, we assigned an average value of 4 inhabitants by plot."
+msgstr "Urbanistinių kadastro blokų ir medžių lajų vektorinis skaitmeninimas naudojant Google earth (GeoEye) nuotraukas. Norint įvertinti gyventojų skaičių kadastro blokuose mes sklypui priskyrėme vidutinę 4 gyventojų reikšmę."
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:31
+msgid "Results presentation through thematic cartography."
+msgstr "Rezultatų pristatymas naudojant tematinę kartografiją."
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:38
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:52
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:68
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:77
+msgid "Attribute table of “blocks” vector layer"
+msgstr "„Blokų“ vektorinio sluoksnio atributų lentelė"
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:41
+msgid "Conclusion"
+msgstr "Išvada"
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:43
 msgid ""
@@ -180,7 +136,7 @@ msgid ""
 " go up to around 9.600 inhabitants. These people reside in 209 blocks and "
 "they represent 157.6 hectares. The average population density would be of 61"
 " inhabitants by hectare."
-msgstr ""
+msgstr "Remdamiesi vidutine 4 gyventojų kadastro plote reikšme, mes paskaičiavome, kad dabartinis (2010 metų) Rada Tilly gyventojų skaičius kils iki 9.600 gyventojų. Šie žmonės gyvena 209 blokuose ir jie reprezentuoja 157.6 hektarus. Vidutinis gyventojų tankis bus 61 gyventojas hektare."
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:45
 msgid ""
@@ -190,7 +146,22 @@ msgid ""
 ":sup:`2` of green area by inhabitant). This value proves a very favorable "
 "situation, as far as the environmental benefits, that trees offer to the "
 "inhabitants in this marine coastal town."
-msgstr ""
+msgstr "Suminis inventorizuotų žalių erdvių plotas didės iki 150.736 m\\ :sup:`2` (15 hektarų). Todėl mes galime skaičiuoti, kad žalios erdvės plotas gyventojui studijos zonoje bus 15.7 m\\ :sup:`2` (PSO siūloma reikšmė yra 9 m\\ :sup:`2` žalios erdvės gyventojui). Ši reikšmė patvirtina labai teigiamą situaciją aplinkai, kurią medžiai siūlo gyventojams jūros pakrantės mieste."
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:52
+msgid ""
+"Distribution of urban green spaces (green) and population density by blocks "
+"(white to brown) at Rada Tilly coastal town, Chubut Provinc, Argentina."
+msgstr "Urbanistinių žaliųjų zonų (žalumos) ir gyventojų tankumo blokuose (nuo balto iki rudo) pasiskirstymas Rada Tilly pakrantės mieste, Chubut Provincija, Argentina."
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:54
+msgid ""
+"Although the project was an academic exercise of High School, we deeply "
+"value the inventory´s results obtained by QGIS. Students worked with all "
+"academic rigor and seriousness, showing appropriation of the thematic (urban"
+" green spaces) and also of the tool (QGIS). It was a very enriching "
+"experience for them and also for the educational staff involved."
+msgstr "Nors projektas buvo vykdomas kaip akademinis pratimas Aukštojoje mokykloje, mes labai vertiname su QGIS gautus rezultatus. Studentai dirbo su akademiniu kruopštumu ir rimtumu, rodė susidomėjimą tema (urbanistinėmis žaliomis erdvėmis) ir įrankiu (QGIS). Tai buvo praturtinanti patirtis tiek studentams, tiek susijusiems mokymo darbuotojams."
 
 #: ../../source/site/about/case_studies/argentinia_chubut.rst:56
 msgid ""
@@ -200,6 +171,48 @@ msgid ""
 " We have such a positive impression of the software that we will start the "
 "use of QGIS in our university courses, replacing GIS Proprietary software "
 "that we have being using."
+msgstr "Pagal projekto patirtį galime tvirtinti, kad FOSS QGIS yra ypatingai rekomenduotina alternatyva erdvinių duomenų įvedimui, apdorojimui, saugojimui, analizei, atstatymui ir atnaujinimui greitu ir efektyviu būdu. Mes gavome tokį teigiamą šios programinės įrangos įspūdį, kad pradėsime naudoti QGIS mūsų universiteto kursuose, pakeisdami nuosavybinę GIS įrangą, kurią naudojome anksčiau."
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:59
+msgid "Authors"
+msgstr "Autoriai"
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:61
+msgid ""
+"This article was contributed in September 2011 by Mauro Novara and Alberto "
+"Vázquez from Argentina."
+msgstr "Šį straipsnį 2011 rugsėjį pateikė Mauro Novara ir Alberto Vázquez iš Argentinos."
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:68
+msgid "Mauro Novara"
+msgstr "Mauro Novara"
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:70
+msgid ""
+"Mauro Novara is Professor of Territorial Information Systems course. "
+"Lecturer and researcher of National University of Patagonia San Juan Bosco, "
+"Faculty of Humanities and Social Sciences. Geography Department. Comodoro "
+"Rivadavia, Chubut Province, Argentina."
+msgstr "Mauro Novara yra Teritorinių informacinių sistemų kurso profesorius. Nacionalinio Patagonijos Universiteto San Juan Bosco, Humanitarinių ir Socialinių mokslų fakulteto lektorius ir tyrėjas. Geografijos skyrius. Comodoro Rivadavia, Chubut Province, Argentina."
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:77
+msgid "Alberto Vázquez"
+msgstr "Alberto Vázquez"
+
+#: ../../source/site/about/case_studies/argentinia_chubut.rst:79
+msgid ""
+"Prof. Alberto Vázquez is a graduate teaching assistant of Territorial "
+"Information Systems course. National University of Patagonia San Juan Bosco,"
+" Faculty of Humanities and Social Sciences. Geography Department. Comodoro "
+"Rivadavia, Chubut Province, Argentina."
+msgstr "Prof. Alberto Vázquez Teritorinių Informacinių Sistemų kurso mokymo asistentas. Nacionalinis Patagonijos San Juan Bosco Universitetas, Humanitarinių ir Socialinių mokslų fakultetas. Comodoro Rivadavia, Chubut provincija, Argentina."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""
 
 #~ msgid "QGIS at high school"

@@ -3,24 +3,24 @@
 # Carlos López Quintanilla <carlos.lopez@psig.es>, 2013
 # Darío Hereñú, 2019
 # Diana Galindo <drgalindog@linuxmail.org>, 2013
-# YoViajo, 2015
+# Eric Armijo, 2015,2022
 # Ever Medina <ever.medinaftal@gmail.com>, 2019
 # Fran Raga <FRANKA1986@gmail.com>, 2017
-# Rodrigo Armesto <rodri_Armesto@hotmail.com>, 2020
+# Rodrigo Armesto Baztán <rodri_Armesto@hotmail.com>, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-09 12:40+0200\n"
-"PO-Revision-Date: 2020-07-09 21:45+0000\n"
-"Last-Translator: Rodrigo Armesto <rodri_Armesto@hotmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:25+0000\n"
+"Last-Translator: Eric Armijo, 2015,2022\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.8.0\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/features.rst:2
 msgid "Applications"
@@ -33,6 +33,7 @@ msgid ""
 msgstr "QGIS no es solo un SIG de escritorio. También proporcionamos un explorador de archivos espaciales, una aplicación de servidor y aplicaciones web."
 
 #: ../../source/site/about/features.rst:7
+#: ../../source/site/about/features.rst:16
 msgid "QGIS Desktop"
 msgstr "QGIS Desktop"
 
@@ -49,6 +50,7 @@ msgid "A screenshot of QGIS Desktop"
 msgstr "Una captura de pantalla de QGIS para escritorio"
 
 #: ../../source/site/about/features.rst:19
+#: ../../source/site/about/features.rst:33
 msgid "QGIS Server"
 msgstr "Servidor de QGIS"
 
@@ -60,11 +62,15 @@ msgid ""
 "implementation for WMS 1.3."
 msgstr "Publique sus proyectos y capas QGIS como servicios WMS, WMTS, WFS y WCS compatibles con OGC. Controle qué capas, atributos, diseños y sistemas de coordenadas se exportan. El servidor QGIS es considerado una implementación de referencia para WMS 1.3."
 
+msgid "QGIS Server OGC cerfication badge"
+msgstr ""
+
 #: ../../source/site/about/features.rst:33
 msgid "A screenshot of QGIS Server configuration in QGIS Desktop"
 msgstr "Una captura de pantalla de la configuración de Servidor en QGIS de escritorio"
 
 #: ../../source/site/about/features.rst:36
+#: ../../source/site/about/features.rst:45
 msgid "QGIS Web Client"
 msgstr "Cliente web de QGIS"
 
@@ -93,26 +99,46 @@ msgid "`QField for QGIS (formerly QGIS for Android) <https://qfield.org>`_"
 msgstr "`QField para QGIS (formalmente QGIS para Android) <https://qfield.org>`_"
 
 #: ../../source/site/about/features.rst:59
+msgid "QField"
+msgstr "QField"
+
+#: ../../source/site/about/features.rst:59
 msgid ""
 "A screenshot of QField for QGIS (available for Android, Windows, iOS coming "
 "soon)"
 msgstr "Una captura de pantalla de QField para QGIS (disponible para Android, Windows, iOS llegarán pronto)"
 
 #: ../../source/site/about/features.rst:62
-msgid "`Input <https://inputapp.io>`_"
-msgstr "`Input <https://inputapp.io>`_"
+msgid "`Mergin Maps Input app <https://merginmaps.com>`_"
+msgstr ""
 
 #: ../../source/site/about/features.rst:66
-msgid "A screenshot of Input (available for Android, Windows, iOS)"
-msgstr "Una captura de pantalla de Input (disponible para Android, Windows, iOS)"
+msgid "Mergin Maps Input app"
+msgstr ""
+
+#: ../../source/site/about/features.rst:66
+msgid "A screenshot of Mergin Maps Input app (available for Android, iOS)"
+msgstr ""
 
 #: ../../source/site/about/features.rst:69
 msgid "`IntraMaps Roam <https://roam-docs.readthedocs.io>`_"
 msgstr "`IntraMaps Roam <https://roam-docs.readthedocs.io>`_"
 
 #: ../../source/site/about/features.rst:73
+msgid "Roam"
+msgstr "Roam"
+
+#: ../../source/site/about/features.rst:73
 msgid "A screenshot of IntraMaps Roam (available for Windows)"
 msgstr "Una captura de pantalla de IntraMaps Roam (disponible para Windows)"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "QGIS Applications"
 #~ msgstr ""
@@ -147,4 +173,10 @@ msgstr "Una captura de pantalla de IntraMaps Roam (disponible para Windows)"
 #~ msgstr ""
 
 #~ msgid "A screenshot of QGIS on Android"
+#~ msgstr ""
+
+#~ msgid "`Input <https://inputapp.io>`_"
+#~ msgstr ""
+
+#~ msgid "A screenshot of Input (available for Android, Windows, iOS)"
 #~ msgstr ""

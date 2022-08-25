@@ -4,20 +4,21 @@
 # Mehdi SEMCHAOUI, 2015
 # Harrissou Sant-anna, 2015
 # Sylvain Théry <sylvain.thery@upmc.fr>, 2017
-# ThomasIdgeo <thomas.michel@idgeo.fr>, 2020
+# Thomas_M <thomas.michel@idgeo.fr>, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-05 15:28+0200\n"
-"PO-Revision-Date: 2020-10-12 13:26+0000\n"
-"Last-Translator: ThomasIdgeo <thomas.michel@idgeo.fr>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:43+0000\n"
+"Last-Translator: Thomas_M <thomas.michel@idgeo.fr>, 2020\n"
 "Language-Team: French (http://www.transifex.com/qgis/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: fr\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/africa_tiger.rst:4
 msgid ""
@@ -83,6 +84,10 @@ msgid ""
 "standardized workflows (with instructions) for performing common but complex"
 " tasks related to EO data analysis within water resource management."
 msgstr "Un avantage clé de la Boîte à outils de Traitement est la capacité d'homogéneisation de l'utilisation des fonctionnalités de fournisseurs d'algorithme différents pour le traitement de données et l'analyse. Ceci peut être utilisé pour créer des modèles de traitement automatiques et, au travers d'un plug-in QGIS développé pendant le projet TIGER-NET, pour combiner par étapes des algorithmes de différents fournisseurs dans des chaînes de traitement assistées. Cette fonctionnalité a été utilisée pour créer une bibliothèque de gestion de commandes normalisées (avec des instructions) pour exécuter des tâches communes mais complexes liées à l'analyse de données EO en matière de gestion de la ressource en eau."
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:22
+msgid "The WOIS graphical user interface"
+msgstr ""
 
 #: ../../source/site/about/case_studies/africa_tiger.rst:22
 msgid ""
@@ -211,3 +216,11 @@ msgid ""
 " (http://rs.geo.tuwien.ac.at/) and Copenhagen (http://www.env.dtu.dk/) as "
 "well as the European Space Agency ( www.esa.int)."
 msgstr "Cet article est une contribution de Radoslaw Guzinski (développeur logiciel WOIS) avec les contributions des équipes techniques TIGER-NET du DHI-GRAS (www.dhi-gras.com), GeoVille (www.geoville.com), les Universités technologiques de Vienne (http://rs.geo.tuwien.ac.at/) et Copenhague (http://www.env.dtu.dk/) tout comme l'Agence Spatiale Européenne ESA (www.esa.int)."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""

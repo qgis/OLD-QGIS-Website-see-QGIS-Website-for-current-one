@@ -4,21 +4,21 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # 
 # Translators:
-# Supaplex <bejokeup@gmail.com>, 2019
+# Supaplex <bejokeup@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-19 17:16+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2018-12-19 16:24+0000\n"
-"Last-Translator: Supaplex <bejokeup@gmail.com>, 2019\n"
+"Last-Translator: Supaplex <bejokeup@gmail.com>, 2022\n"
 "Language-Team: Chinese Traditional (https://www.transifex.com/qgis/teams/6144/zh-Hant/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: zh-Hant\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -31,3 +31,11 @@ msgid ""
 "Some reports are generated on a daily basis to monitor the status of QGIS "
 "Server."
 msgstr "有些監控 QGIS 伺服器的報告每日生成。"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "核取方塊"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "檢核框未檢核"

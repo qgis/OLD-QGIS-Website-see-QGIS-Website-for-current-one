@@ -5,13 +5,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 20:13+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:25+0000\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2013-2014\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
@@ -51,8 +52,8 @@ msgid ""
 "Mapping elevation and groundtruthing: We downloaded (free) elevation data "
 "originating from the NASA Shuttle Radar Topographic Mission (SRTM) for the "
 "area in which Amurum is located. (Information about the global elevation "
-"data set can be found here: http://www.cgiar-csi.org/data/elevation/item/45"
-"-srtm-90m-digital-elevation-database-v41)."
+"data set can be found here: http://www.cgiar-"
+"csi.org/data/elevation/item/45-srtm-90m-digital-elevation-database-v41)."
 msgstr "Cartografierea altitudinii și a datelor culese din teren: Am descărcat (gratuit) date de elevație care provin de la NASA Shuttle Radar Topographic Mission (SRTM) pentru zona în care se află Amurum. (Informații despre setul global cu date de altitudine poate fi găsit aici:  http://www.cgiar-csi.org/data/elevation/item/45-srtm-90m-digital-elevation-database-v41)."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:19
@@ -133,6 +134,21 @@ msgstr "Punctele aleatoare din fTools au fost utilizate în acest scop. Toate lo
 msgid "Conclusion"
 msgstr "Concluzii"
 
+#: ../../source/site/about/case_studies/nigeria_jos.rst:53
+msgid ""
+"Overall, the course was a great success. We - a group of students with no "
+"previous GIS experience --- enjoyed working with QGIS a lot. Within just two"
+" weeks time we were able to develop an extremely useful map of the reserve. "
+"Amongst others, the extents of the various habitats were determined which "
+"allows for stratification and thus for better estimates of abundances of "
+"various kinds of organisms. Basically we are now able to do better "
+"ecological research using QGIS as an open source platform."
+msgstr "În general, cursul a înregistrat un mare succes. Noi - un grup de studenți fără experiență anterioară în GIS --- am lucrat cu plăcere în QGIS. În doar două săptămâni a fost posibil să dezvoltăm o hartă extrem de utilă a pădurii. Printre altele, s-au determinat limitele diverselor habitate, care au permis stratificarea și, totodată, estimări mai bune ale abundenței diverselor tipuri de organisme. Practic, acum avem posibilitatea de a face cercetări ecologice mai bune, folosind platforma cu sursă deschisă QGIS."
+
+#: ../../source/site/about/case_studies/nigeria_jos.rst:60
+msgid "QGIS print composer for final graphic layout"
+msgstr "Așezarea grafică finală în editorul de hărți QGIS"
+
 #: ../../source/site/about/case_studies/nigeria_jos.rst:60
 msgid "QGIS map: Diversity of Amurum Forest Reserve"
 msgstr "Hartă QGIS: Diversitatea Amurum Forest Reserve"
@@ -148,16 +164,13 @@ msgid ""
 "Chima Josiah, Onoja Joseph Daniel, Yadok Biplang Godwill"
 msgstr "Abengowe Elmond Chiadikaobi, Adeyanju Temidayo Esther, Akiemen Nerioya, Albert Malangale Tauje, Azi Abok Joel, Echude Daniel, Eelke Folmer, Nwaogu Chima Josiah, Onoja Joseph Daniel, Yadok Biplang Godwill"
 
-#: ../../source/site/about/case_studies/nigeria_jos.rst:53
-msgid ""
-"Overall, the course was a great success. We - a group of students with no "
-"previous GIS experience --- enjoyed working with QGIS a lot. Within just two"
-" weeks time we were able to develop an extremely useful map of the reserve. "
-"Amongst others, the extents of the various habitats were determined which "
-"allows for stratification and thus for better estimates of abundances of "
-"various kinds of organisms. Basically we are now able to do better "
-"ecological research using QGIS as an open source platform."
-msgstr "În general, cursul a înregistrat un mare succes. Noi - un grup de studenți fără experiență anterioară în GIS --- am lucrat cu plăcere în QGIS. În doar două săptămâni a fost posibil să dezvoltăm o hartă extrem de utilă a pădurii. Printre altele, s-au determinat limitele diverselor habitate, care au permis stratificarea și, totodată, estimări mai bune ale abundenței diverselor tipuri de organisme. Practic, acum avem posibilitatea de a face cercetări ecologice mai bune, folosind platforma cu sursă deschisă QGIS."
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "Overall, the course was a great success. We - a group of students with no "

@@ -1,5 +1,6 @@
 # 
 # Translators:
+# Call me Benny <geograph@protonmail.ch>, 2021
 # Jochen Huber, 2020
 # Jürgen E. Fischer <jef@norbit.de>, 2014-2015
 # Thomas Schüttenberg <thomas@qgis.de>, 2016
@@ -8,14 +9,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-02 12:44+0100\n"
-"PO-Revision-Date: 2020-01-10 18:44+0000\n"
-"Last-Translator: Jochen Huber\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-10-19 11:14+0000\n"
+"Last-Translator: Call me Benny <geograph@protonmail.ch>, 2021\n"
 "Language-Team: German (http://www.transifex.com/qgis/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: de\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -33,9 +34,9 @@ msgstr "Die Aktualisierung der QGIS-Dokumentation wird vom :ref:`Gemeinschaftste
 #: ../../source/site/getinvolved/document.rst:10
 msgid ""
 "The complete list of documents managed by the QGIS documentation team can be"
-" found at http://www.qgis.org/en/docs/index.html. A list of documenters can "
-"be found at https://github.com/qgis/QGIS-Documentation/graphs/contributors."
-msgstr "Eine Gesamtliste der Dokumente, die das QGIS-Dokumentationsteam pflegt, ist unter http://www.qgis.org/en/docs/index.html zu finden. Eine Liste der Dokumentationsschreiber steht unter https://github.com/qgis/QGIS-Documentation/graphs/contributors."
+" found at https://www.qgis.org/en/docs/index.html. A list of documenters can"
+" be found at https://github.com/qgis/QGIS-Documentation/graphs/contributors."
+msgstr "Die Gesamtliste der Dokumente, die das QGIS-Dokumentationsteam pflegt, ist unter https://www.qgis.org/en/docs/index.html zu finden. Eine Liste der Dokumentationsschreiber steht unter https://github.com/qgis/QGIS-Documentation/graphs/contributors."
 
 #: ../../source/site/getinvolved/document.rst:17
 msgid "Documentation Mailing list"
@@ -89,11 +90,11 @@ msgstr "Wir versuchen unseren Projektsteuerungsprozeß zu verbessern und die Arb
 #: ../../source/site/getinvolved/document.rst:45
 msgid ""
 "The complete list of documents managed by the QGIS Documentation Team can be"
-" found at http://www.qgis.org/en/docs/index.html. All the documentation "
+" found at https://www.qgis.org/en/docs/index.html. All the documentation "
 "sources are hosted in `QGIS-Documentation repository "
 "<https://github.com/qgis/QGIS-Documentation>`_. If you want to update some "
 "features in QGIS or document new ones, you need to:"
-msgstr "Eine Gesamtliste der Dokumente, die das QGIS-Dokumentationsteam pflegt, ist unter http://www.qgis.org/en/docs/index.html zu finden. Der Quellcode von allen Dokumentationen wird im `QGIS-Documentation Repositorium <https://github.com/qgis/QGIS-Documentation>`_ verwaltet. Um Funktionsbeschreibungen in QGIS zu aktualisieren oder um neue zu dokumentieren, müssen Sie: "
+msgstr "Die Gesamtliste der Dokumente, die das QGIS-Dokumentationsteam pflegt, ist unter https://www.qgis.org/en/docs/index.html zu finden. Der Quellcode von allen Dokumentationen wird im `QGIS-Documentation Repositorium <https://github.com/qgis/QGIS-Documentation>`_ verwaltet. Um Funktionsbeschreibungen in QGIS zu aktualisieren oder um neue zu dokumentieren, müssen Sie: "
 
 #: ../../source/site/getinvolved/document.rst:51
 msgid "have a `GitHub account <https://github.com/join>`_"
@@ -131,6 +132,14 @@ msgid ""
 "directly opens the source file in your forked repo. Just make your changes, "
 "commit in a new branch and submit pull request to the main repository."
 msgstr "Um auf einfache Weise die zu aktualisierende Datei im Repository zu finden, können Sie den ``Fix me`` Link unten auf jeder Seite der ``Testing`` Dokumentartion verwenden. Er öffnet direkt die Quelldatei in Ihrem kopierten Repositorium. Sie machen einfach Ihre Änderungen, übergeben diese in einen neuen Zweig und richten einen pull request an das Haupt-Repository."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "Kontrollkästchen"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "Update QGIS Documentation"
 #~ msgstr ""
@@ -272,4 +281,18 @@ msgstr "Um auf einfache Weise die zu aktualisierende Datei im Repository zu find
 #~ "The update of the QGIS documentation is managed by the :ref:`Community Team "
 #~ "Lead <gui-translation>`. Have a look at the :ref:`QGIS Governance <gui-"
 #~ "translation>` to find out who is in charge of guiding you."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The complete list of documents managed by the QGIS documentation team can be"
+#~ " found at http://www.qgis.org/en/docs/index.html. A list of documenters can "
+#~ "be found at https://github.com/qgis/QGIS-Documentation/graphs/contributors."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The complete list of documents managed by the QGIS Documentation Team can be"
+#~ " found at http://www.qgis.org/en/docs/index.html. All the documentation "
+#~ "sources are hosted in `QGIS-Documentation repository "
+#~ "<https://github.com/qgis/QGIS-Documentation>`_. If you want to update some "
+#~ "features in QGIS or document new ones, you need to:"
 #~ msgstr ""

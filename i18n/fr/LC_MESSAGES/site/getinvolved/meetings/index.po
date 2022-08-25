@@ -6,15 +6,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 20:04+0000\n"
-"Last-Translator: Harrissou Sant-anna\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-23 16:19+0000\n"
+"Last-Translator: Harrissou Sant-anna, 2016\n"
 "Language-Team: French (http://www.transifex.com/qgis/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: fr\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../../source/site/getinvolved/meetings/index.rst:5
+msgid "Meetings"
+msgstr "Rencontres"
 
 #: ../../source/site/getinvolved/meetings/index.rst:7
 msgid ""
@@ -22,9 +27,25 @@ msgid ""
 "the world."
 msgstr "Depuis 2009, la communauté QGIS organise des rencontres utilisateurs et développeurs tout autour du monde."
 
-#: ../../source/site/getinvolved/meetings/index.rst:5
-msgid "Meetings"
-msgstr "Rencontres"
+#: ../../source/site/getinvolved/meetings/index.rst:10
+msgid "Event organization"
+msgstr ""
+
+#: ../../source/site/getinvolved/meetings/index.rst:12
+msgid "The organization of events happens on the `QGIS wiki <wiki_link_>`_."
+msgstr ""
+
+#: ../../source/site/getinvolved/meetings/index.rst:18
+msgid "Pre-2016 events"
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "QGIS Meetings"
 #~ msgstr ""

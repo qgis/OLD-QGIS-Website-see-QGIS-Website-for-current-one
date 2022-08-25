@@ -8,22 +8,25 @@
 # matteo ghetta <matteo.ghetta@gmail.com>, 2020
 # Matteo <matteo_destefano@yahoo.it>, 2020
 # Luca M. <luca76@gmail.com>, 2020
+# Simone Falceri, 2021
+# Andrea Giudiceandrea <andreaerdna@libero.it>, 2022
+# Giuseppe Mattiozzi <mattiozzig@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-13 10:56+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-09-05 17:56+0000\n"
-"Last-Translator: Luca M. <luca76@gmail.com>, 2020\n"
+"Last-Translator: Giuseppe Mattiozzi <mattiozzig@gmail.com>, 2022\n"
 "Language-Team: Italian (https://www.transifex.com/qgis/teams/6144/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: it\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/getinvolved/development/development.rst:6
 msgid "Development in QGIS"
@@ -70,6 +73,11 @@ msgid ""
 "contribute to QGIS code and is available at https://docs.qgis.org. You are "
 "warmly encouraged to read it."
 msgstr ""
+"Oltre a questo, abbiamo scritto una breve **Guida per sviluppatori QGIS** "
+"per aiutarti nello sviluppo di QGIS. Fornisce regole, strumenti e passaggi "
+"per contribuire in modo semplice ed efficiente al codice QGIS ed è "
+"disponibile su https://docs.qgis.org. Sei caldamente incoraggiato a "
+"leggerlo."
 
 #: ../../source/site/getinvolved/development/development.rst:29
 msgid "Plugin Development"
@@ -81,6 +89,9 @@ msgid ""
 "writing your own plugins. These plugins can either be written in C++ or in "
 "Python."
 msgstr ""
+"QGIS ha un'infrastruttura di plugin. Puoi aggiungere molte nuove "
+"funzionalità scrivendo i tuoi plugin. Questi plugin possono essere scritti "
+"in C++ o in Python."
 
 #: ../../source/site/getinvolved/development/development.rst:34
 msgid ""
@@ -88,10 +99,13 @@ msgid ""
 "recommended to read the **QGIS Developers Guide** at our documentation "
 "website: https://docs.qgis.org"
 msgstr ""
+"Se vuoi contribuire al Progetto QGIS con il tuo plugin, ti consigliamo "
+"vivamente di leggere la **QGIS Developers Guide** sul nostro sito web di "
+"documentazione: https://docs.qgis.org"
 
 #: ../../source/site/getinvolved/development/development.rst:42
 msgid "Developing C++ Plugin"
-msgstr ""
+msgstr "Sviluppo Plugin C++"
 
 #: ../../source/site/getinvolved/development/development.rst:45
 msgid "Preparing the Environment and Setting up the Repo"
@@ -99,25 +113,33 @@ msgstr "Preparare l'ambiente per lo sviluppo e configurare il repository"
 
 #: ../../source/site/getinvolved/development/development.rst:47
 msgid "Go to the QGIS repository in GitHub at https://github.com/qgis/QGIS/"
-msgstr ""
+msgstr "Vai al repository QGIS in GitHub su https://github.com/qgis/QGIS/"
 
 #: ../../source/site/getinvolved/development/development.rst:48
 msgid ""
 "Make a Fork for yourself. Learn more about forking and keeping your repo in "
 "sync with the main development repo at http://help.github.com/fork-a-repo/"
 msgstr ""
+"Crea un Fork per te stesso. Scopri di più sul forking e sulla "
+"sincronizzazione del repository con il repository di sviluppo principale su "
+"http://help.github.com/fork-a-repo/"
 
 #: ../../source/site/getinvolved/development/development.rst:50
 msgid ""
 "Clone your personal copy of the repository to your system, and add upstream "
 "as mentioned in above provided link"
 msgstr ""
+"Clona la tua copia personale del repository sul tuo sistema e aggiungi "
+"upstream come menzionato nel link fornito sopra"
 
 #: ../../source/site/getinvolved/development/development.rst:52
 msgid ""
-"Read the https://github.com/qgis/QGIS/blob/master/INSTALL about setting up "
-"the installation environment and make a compilation with ccache enabled."
+"Read the https://github.com/qgis/QGIS/blob/master/INSTALL.md about setting "
+"up the installation environment and make a compilation with ccache enabled."
 msgstr ""
+"Leggi https://github.com/qgis/QGIS/blob/master/INSTALL.md sulla "
+"configurazione dell'ambiente di installazione e crea una compilazione con "
+"ccache abilitato."
 
 #: ../../source/site/getinvolved/development/development.rst:56
 msgid "Setting up the Plugin Directory"
@@ -143,6 +165,9 @@ msgid ""
 "Building QGIS now will also build your plugin. After starting QGIS enable "
 "the plugin to see it and show its dialog."
 msgstr ""
+"Compilando QGIS, a questo punto, verrà compilato anche il tuo plugin. Dopo "
+"aver avviato QGIS, abilita il plugin per vederlo e mostrare la sua finestra "
+"di dialogo."
 
 #: ../../source/site/getinvolved/development/development.rst:75
 msgid "Developing Python plugin"
@@ -150,19 +175,24 @@ msgstr "Sviluppare plugin in Python"
 
 #: ../../source/site/getinvolved/development/development.rst:77
 msgid "QGIS has a lot to offer to python developers too."
-msgstr ""
+msgstr "QGIS ha molto da offrire anche agli sviluppatori Python."
 
 #: ../../source/site/getinvolved/development/development.rst:79
 msgid ""
 "QGIS has python bindings so you can automate tasks in QGIS via python. We "
 "provide a documentation for QGIS API at https://qgis.org/pyqgis/"
 msgstr ""
+"QGIS ha collegamenti Python in modo da poter automatizzare le attività in "
+"QGIS tramite Python. Forniamo una documentazione per l'API QGIS su "
+"https://qgis.org/pyqgis/"
 
 #: ../../source/site/getinvolved/development/development.rst:83
 msgid ""
 "You can also have a look into the **Python Cookbook** in our Documentation "
 "site: https://docs.qgis.org/"
 msgstr ""
+"Puoi anche dare un'occhiata al **Python Cookbook** nel nostro sito di "
+"documentazione: https://docs.qgis.org/"
 
 #: ../../source/site/getinvolved/development/development.rst:86
 msgid ""
@@ -170,13 +200,25 @@ msgid ""
 "instructions at "
 "https://docs.qgis.org/latest/en/docs/pyqgis_developer_cookbook/plugins/index.html"
 msgstr ""
+"Particolarmente interessato allo sviluppo di plugin Python, puoi trovare "
+"alcune istruzioni su "
+"https://docs.qgis.org/latest/en/docs/pyqgis_developer_cookbook/plugins/index.html"
 
 #: ../../source/site/getinvolved/development/development.rst:89
 msgid "Looking for examples of python plugins, see https://plugins.qgis.org"
 msgstr ""
+"Alla ricerca di esempi di plugin Python, vedi https://plugins.qgis.org"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "Go to the QGIS repository in Github at https://github.com/qgis/QGIS/"
-#~ msgstr ""
+#~ msgstr "Vai al repository QGIS in Github su https://github.com/qgis/QGIS/"
 
 #~ msgid "QGIS has a lot to offer for python developers too."
 #~ msgstr "QGIS ha molto da offrire anche agli sviluppatori python."
@@ -190,6 +232,10 @@ msgstr ""
 #~ "manager of QGIS, or read up here: "
 #~ "https://plugins.qgis.org/plugins/pluginbuilder/"
 #~ msgstr ""
+#~ "Interessato allo sviluppo di plugin Python, il modo più semplice per "
+#~ "iniziare è usare il plugin ``Plugin Builder`` in QGIS. Cerca ``Plugin "
+#~ "Builder`` nel gestore plugin di QGIS, o leggi qui: "
+#~ "https://plugins.qgis.org/plugins/pluginbuilder/"
 
 #~ msgid ""
 #~ "You can also have a look into the **Python Cookbook** in our Documentation "
@@ -214,3 +260,10 @@ msgstr ""
 
 #~ msgid "https://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)"
 #~ msgstr "https://qgis.org/api/1.8/classQgisInterface.html (per QGIS 1.8)"
+
+#~ msgid ""
+#~ "Read the https://github.com/qgis/QGIS/blob/master/INSTALL about setting up "
+#~ "the installation environment and make a compilation with ccache enabled."
+#~ msgstr ""
+#~ "Leggi https://github.com/qgis/QGIS/blob/master/INSTALL sulla configurazione "
+#~ "dell'ambiente di installazione e crea una compilazione con ccache abilitato."

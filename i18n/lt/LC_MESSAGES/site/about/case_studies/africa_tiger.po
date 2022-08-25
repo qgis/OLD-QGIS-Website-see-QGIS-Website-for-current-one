@@ -5,13 +5,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-05 15:28+0200\n"
-"PO-Revision-Date: 2017-09-23 21:21+0000\n"
-"Last-Translator: Tomas Straupis\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:43+0000\n"
+"Last-Translator: Tomas Straupis, 2016\n"
 "Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: lt\n"
 "Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
 
@@ -79,6 +80,10 @@ msgid ""
 "standardized workflows (with instructions) for performing common but complex"
 " tasks related to EO data analysis within water resource management."
 msgstr "Pagrindinis apdorojimo įrankinės pranašumas yra galimybė be papildomų sunkumų naudoti skirtingų algoritmų tiekėjų funkcionalumą duomenų apdorojimui ir analizei. Tai gali būti panaudota kuriant automatinius apdorojimo modelius ir per QGIS priedą, sukurtą TIGER-NET projekte, kombinuoti algoritmus iš skirtingų tiekėjų į vedlio tipo apdorojimo sekas. Šis funkcionalumas buvo panaudotas kuriant standartizuotų darbo eigų biblioteką (su instrukcijomis), skirtą vykdyti bendras bet sudėtingas užduotis, susijusias su EO duomenų analizę vandens resursų valdyme."
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:22
+msgid "The WOIS graphical user interface"
+msgstr ""
 
 #: ../../source/site/about/case_studies/africa_tiger.rst:22
 msgid ""
@@ -207,3 +212,11 @@ msgid ""
 " (http://rs.geo.tuwien.ac.at/) and Copenhagen (http://www.env.dtu.dk/) as "
 "well as the European Space Agency ( www.esa.int)."
 msgstr "Šį straipsnį parašė Radoslaw Guzinski (WOIS programinės įrangos kūrėjas) su TIGER-NET techninių komandų iš DHI-GRAS pagalba (www.dhi-gras.com), GeoVille (www.geoville.com), Vienna techniniai universitetai (http://rs.geo.tuwien.ac.at/) and Copenhagen (http://www.env.dtu.dk/) taipogi Europos Erdvės Agentūra ( www.esa.int)."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""

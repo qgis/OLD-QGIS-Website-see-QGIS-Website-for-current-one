@@ -9,16 +9,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-12 16:20+0200\n"
-"PO-Revision-Date: 2019-11-14 17:59+0000\n"
-"Last-Translator: Stefano Campus <skampus@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:24+0000\n"
+"Last-Translator: Andrea Giudiceandrea <andreaerdna@libero.it>, 2019\n"
 "Language-Team: Italian (http://www.transifex.com/qgis/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: it\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/getinvolved/governance/developer_meetings/reimbursements.rst:2
 msgid "Reimbursements for Developer Meetings"
@@ -100,6 +100,14 @@ msgid ""
 "tie-break, the PSC Chairman shall make the final decision. The decision made"
 " by the PSC shall be final."
 msgstr "Il comitato di verifica del progetto (PSC) deve fornire l'arbitrato per qualsiasi richiesta, reclamo o ricorso relativo alle richieste di finanziamento da parte dei singoli sviluppatori. Nel caso in cui il PSC è chiamato per arbitrare, deve essere proposta una risoluzione ed i membri PSC devono votare utilizzando il sistema di -1/0/+1 per indicare, rispettivamente, il dissenso, l'astensione o l'assenso. In caso di parità, il Presidente PSC prenderà la decisione finale. La decisione del PSC è definitiva."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "The project steering committee shall provide arbitration for any query, "

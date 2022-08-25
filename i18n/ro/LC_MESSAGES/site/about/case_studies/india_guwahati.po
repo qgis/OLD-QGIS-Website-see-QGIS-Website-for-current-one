@@ -5,13 +5,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-08-07 15:40+0200\n"
-"PO-Revision-Date: 2017-09-20 09:29+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-08-07 14:36+0000\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2014\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
@@ -19,33 +20,6 @@ msgstr ""
 msgid ""
 "Trainings & Research activities using QGIS at NIRD&PR-NERC, Guwahati, India"
 msgstr "Activități de training și cercetare, folosind QGIS la NIRD&PR-NERC, Guwahati, India"
-
-#: ../../source/site/about/case_studies/india_guwahati.rst:13
-msgid ""
-"There is a question why QGIS only when other software like uDig, MapWindow, "
-"gvSIG, GRASS are also there. The answer lies in the facts that QGIS is an "
-"OSGeo incubated project, less complex, its development is very fast and "
-"associated with huge community of users and developers and lastly authors "
-"expertise. With its latest version of 2.4, software is capable of satisfying"
-" the all needs of grass root rural development executors in India with "
-"satisfying the present queries and wishes for future."
-msgstr "Ne putem întreba, de ce numai QGIS, atunci când există și alte soft-uri, cum ar fi uDig, MapWindow, gvSIG, GRASS. Răspunsul e simplu: deoarece QGIS este un proiect OSGeo, mai puțin complex, dezvoltarea sa fiind foarte rapidă, având o comunitatea foarte mare de utilizatori și dezvoltatori și, în final, se poate beneficia de expertiza autorilor. Cu ultima versiune, 2.4, soft-ul este capabil de a satisface toate nevoile executorilor care lucrează în dezvoltare rurală în India, satisfăcând cerințele de interogare actuale și de viitor."
-
-#: ../../source/site/about/case_studies/india_guwahati.rst:23
-msgid "Training course at NIRD&PR-NERC, Guwahati"
-msgstr "Curs de instruire la NIRD&PR-NERC, Guwahati"
-
-#: ../../source/site/about/case_studies/india_guwahati.rst:27
-msgid "Conducted QGIS training courses and participants"
-msgstr "Cursuri de formare în QGIS și participanți"
-
-#: ../../source/site/about/case_studies/india_guwahati.rst:37
-msgid "Authors"
-msgstr "Autori"
-
-#: ../../source/site/about/case_studies/india_guwahati.rst:44
-msgid "Alajangi Simhachalam"
-msgstr "Alajangi Simhachalam"
 
 #: ../../source/site/about/case_studies/india_guwahati.rst:5
 msgid ""
@@ -80,6 +54,37 @@ msgid ""
 "maps."
 msgstr "Inițial am fost implicat în realizarea de instruire în GIS cu software comercial, cum ar fi ArcGIS și ERDAS. Dar la încheierea programului de instruire, participanților nu le-a rămas la dispoziție un soft pentru practică. Ulterior, am găsit soluția în QGIS. După introducerea QGIS, s-a considerat că GIS-ul cu sursă deschisă poate îndeplini nevoia sectorului de Dezvoltare Rurală din India. În consecință, l-am introdus în activități de cercetare pentru a pregăti o hartă de bază, pentru drumuri, drenaj, așezări, delimitarea bazinelor hidrografice, etc. și, de asemenea, am efectuat descărcarea și analiza datelor GPS, am atașat fotografiile la datele GPS, etc. Folosind pluginul Google Earth am pregătit o hartă LULC."
 
+#: ../../source/site/about/case_studies/india_guwahati.rst:9
+msgid ""
+"Software was then pursued for the personal use for one year and its new "
+"versions were checked for the enhanced functionalities. During this whenever"
+" author was course coordinator in training, he used QGIS in trainings for "
+"introduction and feedbacks."
+msgstr "Soft-ul a fost apoi folosit pentru uzul personal timp de un an, iar noilor sale versiuni le-au fost testate funcționalitățile îmbunătățite. În acest timp, ori de câte ori a fost coordonator de curs, autorul a folosit QGIS în instruire, pentru introducere și feedback."
+
+#: ../../source/site/about/case_studies/india_guwahati.rst:11
+msgid ""
+"QGIS is being used in GIS trainings at the centre. Further it is being "
+"messaged and advised in all trainings that no commercial GIS software should"
+" be purchased at District (administrative unit in India after Nation and "
+"State) and below, if real requirement is not felt and this saving may be "
+"used for purchase of hardware like GPSs, computers etc. In the training we "
+"have been introduced to participants Georeferencing, database creation, "
+"digitization, editing, analysis and print composer etc. After introducing "
+"QGIS, we are getting good feedback from various officials and students."
+msgstr "QGIS este utilizat pentru instruirea în GIS la centru. În plus, s-a stabilit ca pentru instruire să nu se cumpere în District (unitate administrativă în India, situată după Națiune și Stat) nici un software GIS comercial, dacă nu există o cerință reală, iar economia făcută să fie folosită pentru achiziționarea de hardware cum ar fi GPS-uri, calculatoare, etc. În pregătirea participanților s-a pus accentul pe georeferențiere, crearea bazei de date, digitizare, editare, analiza și compunerea de hărților, etc. După instruirea în QGIS, am obținut reacții pozitive de la diverși oficiali și studenți."
+
+#: ../../source/site/about/case_studies/india_guwahati.rst:13
+msgid ""
+"There is a question why QGIS only when other software like uDig, MapWindow, "
+"gvSIG, GRASS are also there. The answer lies in the facts that QGIS is an "
+"OSGeo incubated project, less complex, its development is very fast and "
+"associated with huge community of users and developers and lastly authors "
+"expertise. With its latest version of 2.4, software is capable of satisfying"
+" the all needs of grass root rural development executors in India with "
+"satisfying the present queries and wishes for future."
+msgstr "Ne putem întreba, de ce numai QGIS, atunci când există și alte soft-uri, cum ar fi uDig, MapWindow, gvSIG, GRASS. Răspunsul e simplu: deoarece QGIS este un proiect OSGeo, mai puțin complex, dezvoltarea sa fiind foarte rapidă, având o comunitatea foarte mare de utilizatori și dezvoltatori și, în final, se poate beneficia de expertiza autorilor. Cu ultima versiune, 2.4, soft-ul este capabil de a satisface toate nevoile executorilor care lucrează în dezvoltare rurală în India, satisfăcând cerințele de interogare actuale și de viitor."
+
 #: ../../source/site/about/case_studies/india_guwahati.rst:15
 msgid ""
 "The applications of software during training are generally concentrated on "
@@ -92,6 +97,14 @@ msgid ""
 "Windows8 OS. Per training programme number of trainees remains between "
 "20-30."
 msgstr "Folosirea aplicației, pe timpul instruirii, se concentrează, în general, pe cartografierea resurselor, a infrastructurilor rurale, a bazinelor hidrografice și a proiectului Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS). Bazinele hidrografice și MGNREGS sunt proiectele emblematice ale Guvernul Indiei. Datele locale raster și vectoriale, cu sursă deschisă, sunt folosite în exerciții. Participanții sunt încurajați să vină cu date proprii sau departamentale, în cazul în care sunt disponibile la locul de muncă. Instruirea este oferită într-un laborator dotat cu 22 de calculatoare i7, 4 GB RAM și Windows 8. Fiecare sesiune de instruire are loc pentru un număr de 20-30 cursanți."
+
+#: ../../source/site/about/case_studies/india_guwahati.rst:23
+msgid "Training course at NIRD&PR-NERC, Guwahati"
+msgstr "Curs de instruire la NIRD&PR-NERC, Guwahati"
+
+#: ../../source/site/about/case_studies/india_guwahati.rst:27
+msgid "Conducted QGIS training courses and participants"
+msgstr "Cursuri de formare în QGIS și participanți"
 
 #: ../../source/site/about/case_studies/india_guwahati.rst:29
 msgid ""
@@ -124,31 +137,27 @@ msgid ""
 "initiated."
 msgstr "Fiecare lună de instruire se desfășoară cu 20-30 de participanți, astfel că acest număr este în creștere în fiecare lună. Feedback-ul de formare rămâne foarte pozitiv și încurajator. După încheierea perioadei de formare, participanților li se înmânează certificate. În prezent, participanții au la dispoziție tutoriale tipărite, o copie a softului și a datelor practice, dar avem în plan și crearea unui DVD-uri cu prelegeri înregistrate/demonstrații despre diverse subiecte, atât în limba hindi cât și în engleză. În viitor pot fi, de asemenea, inițiate programe de certificare și de diplomă."
 
+#: ../../source/site/about/case_studies/india_guwahati.rst:37
+msgid "Authors"
+msgstr "Autori"
+
+#: ../../source/site/about/case_studies/india_guwahati.rst:44
+msgid "Alajangi Simhachalam"
+msgstr "Alajangi Simhachalam"
+
 #: ../../source/site/about/case_studies/india_guwahati.rst:46
 msgid ""
 "This article was contributed in July 2014 by Alajangi Simhachalam, Adjunct "
 "Faculty, NIRD-NERC, Guwahati Website: http://www.nirdnerc.nic.in"
 msgstr "Articolul a fost transmis în iulie 2014 de către Alajangi Simhachalam, Profesor de Facultate, NIRD-NERC, Guwahati Website: http://www.nirdnerc.nic.in"
 
-#: ../../source/site/about/case_studies/india_guwahati.rst:9
-msgid ""
-"Software was then pursued for the personal use for one year and its new "
-"versions were checked for the enhanced functionalities. During this whenever"
-" author was course coordinator in training, he used QGIS in trainings for "
-"introduction and feedbacks."
-msgstr "Soft-ul a fost apoi folosit pentru uzul personal timp de un an, iar noilor sale versiuni le-au fost testate funcționalitățile îmbunătățite. În acest timp, ori de câte ori a fost coordonator de curs, autorul a folosit QGIS în instruire, pentru introducere și feedback."
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/about/case_studies/india_guwahati.rst:11
-msgid ""
-"QGIS is being used in GIS trainings at the centre. Further it is being "
-"messaged and advised in all trainings that no commercial GIS software should"
-" be purchased at District (administrative unit in India after Nation and "
-"State) and below, if real requirement is not felt and this saving may be "
-"used for purchase of hardware like GPSs, computers etc. In the training we "
-"have been introduced to participants Georeferencing, database creation, "
-"digitization, editing, analysis and print composer etc. After introducing "
-"QGIS, we are getting good feedback from various officials and students."
-msgstr "QGIS este utilizat pentru instruirea în GIS la centru. În plus, s-a stabilit ca pentru instruire să nu se cumpere în District (unitate administrativă în India, situată după Națiune și Stat) nici un software GIS comercial, dacă nu există o cerință reală, iar economia făcută să fie folosită pentru achiziționarea de hardware cum ar fi GPS-uri, calculatoare, etc. În pregătirea participanților s-a pus accentul pe georeferențiere, crearea bazei de date, digitizare, editare, analiza și compunerea de hărților, etc. După instruirea în QGIS, am obținut reacții pozitive de la diverși oficiali și studenți."
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "Software was then pursued for the personal use for one year and its new "

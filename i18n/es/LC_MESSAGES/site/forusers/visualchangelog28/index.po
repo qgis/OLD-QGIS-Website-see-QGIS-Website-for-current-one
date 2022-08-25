@@ -1,22 +1,27 @@
 # 
 # Translators:
-# YoViajo, 2015-2016
+# Eric Armijo, 2015-2016,2022
 # Fran Raga <FRANKA1986@gmail.com>, 2017
-# YoViajo, 2016
-# Rodrigo Armesto <rodri_Armesto@hotmail.com>, 2020
+# Eric Armijo, 2016,2021
+# Rodrigo Armesto Baztán <rodri_Armesto@hotmail.com>, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-28 17:39+0100\n"
-"PO-Revision-Date: 2020-01-13 22:35+0000\n"
-"Last-Translator: Rodrigo Armesto <rodri_Armesto@hotmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-02-28 18:29+0000\n"
+"Last-Translator: Eric Armijo, 2015-2016,2022\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../../source/site/forusers/visualchangelog28/index.rst:5
+msgid "Changelog for QGIS 2.8"
+msgstr "Registro de cambios para QGIS 2.8"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:7
 msgid ""
@@ -121,6 +126,10 @@ msgid ""
 "<http://www.opw.ie/>`_"
 msgstr "Patrocinador PLATA: `Office of Public Works, Ireland, Irlanda <http://www.opw.ie/>`__"
 
+#: ../../source/site/forusers/visualchangelog28/index.rst:43
+msgid "BRONZE Sponsor: `GIS3W, Italy <http://www.gis3w.it/>`_"
+msgstr "Patrocinador BRONCE: `GIS3W, Italia <http://www.gis3w.it/>`_"
+
 #: ../../source/site/forusers/visualchangelog28/index.rst:44
 msgid "BRONZE Sponsor: `www.molitec.it, Italy <http://www.molitec.it/>`_"
 msgstr "Patrocinado BRONCE: `www.molitec.it, Italia <http://www.molitec.it/>`_"
@@ -133,6 +142,12 @@ msgstr "Patrocinador BRONCE: `www.argusoft.de, Alemania <http://www.argusoft.de>
 msgid ""
 "BRONZE Sponsor: `www.openrunner.com, France <http://www.openrunner.com>`_"
 msgstr "Patrocinador BRONZE: `www.openrunner.com, Francia <http://www.openrunner.com>`_"
+
+#: ../../source/site/forusers/visualchangelog28/index.rst:47
+msgid ""
+"BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "
+"<http://www.gkg-kassel.de/>`_"
+msgstr "Patrocinador BRONCE : `GKG Kassel,(Dr.-Ing. Claas Leiner), Alemania <http://www.gkg-kassel.de/>`_"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:48
 msgid ""
@@ -681,7 +696,7 @@ msgstr "Se pueden agregar ahora comentarios a las expresiones usando un prefijo 
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:364
 msgid "Feature: Custom expression function editor"
-msgstr "Característica: Editor de función de expresión personalizado"
+msgstr "Prestación: Editor de función de expresión personalizado"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:366
 msgid ""
@@ -824,7 +839,7 @@ msgstr "Simbología"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:442
 msgid "Feature: Raster image fill type"
-msgstr "Característica: Tipo de llenado de imagen ráster"
+msgstr "Prestación: Tipo de llenado de imagen ráster"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:444
 msgid ""
@@ -914,6 +929,12 @@ msgid ""
 "correctly handles labelling and symbology, etc."
 msgstr "Esta versión incluye soporte preliminar para la rotación del lienzo del mapa. Puede rotar el lienzo utilizando el nuevo widget de rotación en la barra de estado. El soporte de rotación también se ha extendido al compositor de mapas para que maneje correctamente el etiquetado, la simbología, etc."
 
+#: ../../source/site/forusers/visualchangelog28/index.rst:496
+msgid ""
+"**This feature was funded by:** `Japan Space Imaging Corporation (JSI) "
+"<http://www.spaceimaging.co.jp/>`_"
+msgstr "**Esta característica fue financiada por:** `Japan Space Imaging Corporation (JSI) <http://www.spaceimaging.co.jp/>`_"
+
 #: ../../source/site/forusers/visualchangelog28/index.rst:505
 msgid "User Interface"
 msgstr "Interfaz de usuario"
@@ -933,25 +954,13 @@ msgstr "Todos los cuadros de diálogo ahora usan un widget de selección de proy
 msgid "."
 msgstr "."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:5
-msgid "Changelog for QGIS 2.8"
-msgstr "Registro de cambios para QGIS 2.8"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:43
-msgid "BRONZE Sponsor: `GIS3W, Italy <http://www.gis3w.it/>`_"
-msgstr "Patrocinador BRONCE: `GIS3W, Italia <http://www.gis3w.it/>`_"
-
-#: ../../source/site/forusers/visualchangelog28/index.rst:496
-msgid ""
-"**This feature was funded by:** `Japan Space Imaging Corporation (JSI) "
-"<http://www.spaceimaging.co.jp/>`_"
-msgstr "**Esta característica fue financiada por:** `Japan Space Imaging Corporation (JSI) <http://www.spaceimaging.co.jp/>`_"
-
-#: ../../source/site/forusers/visualchangelog28/index.rst:47
-msgid ""
-"BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany <http://www"
-".gkg-kassel.de/>`_"
-msgstr "Patrocinador BRONCE : `GKG Kassel,(Dr.-Ing. Claas Leiner), Alemania <http://www.gkg-kassel.de/>`_"
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "

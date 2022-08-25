@@ -1,0 +1,69 @@
+name: Deploy static content to Pages
+
+on: [push]
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment
+#concurrency:
+#  group: "pages"
+#  cancel-in-progress: true
+env:
+  FEED_FOLDER: output/html/feeds
+
+jobs:
+  # Single deploy job since we're just deploying
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: |
+          sudo apt update && sudo apt install jdupes
+          pip install -r REQUIREMENTS.txt
+
+      - name: Build sphinx website
+        run: |
+          rm -rf i18n
+          curl -L https://github.com/qgis/QGIS-Website-i18n/archive/refs/heads/main.tar.gz | tar -xz QGIS-Website-i18n-main/i18n --strip-components=1
+          make -j html-all
+      
+      - name: Install SSH Key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.WEBSERVER_SSH_KEY }}
+          known_hosts: ${{ secrets.WEBSERVER_KNOWN_HOSTS }}
+      
+      - name: Deploy with rsync
+        run: |
+          rsync --chmod=D755,F644 -rvz --delete --exclude=feeds/ output/html/ ${{ secrets.WEBSERVER_IP }}:html/
+
+  update-feeds:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Update feeds
+        run: |
+          echo $(pwd)
+          mkdir -p ${{ env.FEED_FOLDER }}
+          curl "https://api.flickr.com/services/feeds/groups_pool.gne?id=2244553@N22&lang=en-us&format=atom" -o ${{ env.FEED_FOLDER }}/qgisflickrmaps.atom
+          curl "https://api.flickr.com/services/feeds/groups_pool.gne?id=2327386@N22&lang=en-us&format=atom" -o ${{ env.FEED_FOLDER }}/qgisflickrscreenshots.atom
+          curl "https://plugins.qgis.org/planet/feed/atom/" -o ${{ env.FEED_FOLDER }}/qgisplanet.atom
+          cp source/feeds/qugsnews.atom ${{ env.FEED_FOLDER }}/qugsnews.atom
+          curl -k -A Mozilla https://changelog.qgis.org/en/qgis/members/json/ -o ${{ env.FEED_FOLDER }}/members.json
+          curl -k -A Mozilla https://changelog.qgis.org/en/qgis/past-members/json/?years_limit=2 -o ${{ env.FEED_FOLDER }}/qgispastmembers.json
+      - name: Install SSH Key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.WEBSERVER_SSH_KEY }}
+          known_hosts: ${{ secrets.WEBSERVER_KNOWN_HOSTS }}
+      
+      - name: Deploy with rsync
+        run: rsync --chmod=D755,F644 -rvz --delete output/html/feeds/ ${{ secrets.WEBSERVER_IP }}:html/feeds/

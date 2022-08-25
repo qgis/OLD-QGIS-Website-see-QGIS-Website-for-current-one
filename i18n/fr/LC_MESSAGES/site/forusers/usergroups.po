@@ -4,8 +4,9 @@
 # 
 # Translators:
 # Benoît de Cabissole, 2017-2018
+# Harrissou Sant-anna, 2022
 # Jules GARNIER, 2018
-# MarieSilvestre, 2016,2020
+# MarieSilvestre, 2016,2020-2021
 # Médéric RIBREUX <mederic.ribreux__translate@medspx.fr>, 2016
 # a00fce65fdff2427915d78cd7ee0a4f6_c16c729 <a55eac686ada07eb8210deda0a39fa35_814277>, 2020
 # Harrissou Sant-anna, 2016-2017,2019
@@ -14,16 +15,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-10 10:41+0200\n"
-"PO-Revision-Date: 2020-05-11 06:12+0000\n"
-"Last-Translator: a00fce65fdff2427915d78cd7ee0a4f6_c16c729 <a55eac686ada07eb8210deda0a39fa35_814277>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2016-03-05 14:47+0000\n"
+"Last-Translator: Harrissou Sant-anna, 2022\n"
 "Language-Team: French (http://www.transifex.com/qgis/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: fr\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/forusers/usergroups.rst:6
 msgid "User Groups"
@@ -39,24 +40,24 @@ msgstr "**Inscrits en 2016 ou antérieurement**"
 
 #: ../../source/site/forusers/usergroups.rst:13
 msgid ""
-"`QGIS Brasil (Brazil) - contact: Arthur Nanni <http://qgisbrasil.org/>`_"
-msgstr "`QGIS Brasil (Brésil) - contact : Arthur Nanni <http://qgisbrasil.org/>`_"
+"`QGIS Brasil (Brazil) - contact: Arthur Nanni <https://qgisbrasil.org/>`_"
+msgstr ""
 
 #: ../../source/site/forusers/usergroups.rst:14
 msgid ""
 "`QGIS Brugergruppe Danmark (Denmark) - contact: Jacob Arpe "
-"<http://qgis.dk/>`_"
-msgstr "`QGIS Brugergruppe Danmark (Danemark) - contact : Jacob Arpe <http://qgis.dk/>`_"
+"<https://qgis.dk/>`_"
+msgstr ""
 
 #: ../../source/site/forusers/usergroups.rst:15
-msgid "`QGIS UK (England) - contact: Simon Miles <http://qgis.uk/>`_"
-msgstr "`QGIS UK (Angleterre) - contact : Simon Miles <http://qgis.uk/>`_"
+msgid "`QGIS UK (England) - contact: Simon Miles <https://qgis.uk/>`_"
+msgstr ""
 
 #: ../../source/site/forusers/usergroups.rst:16
 msgid ""
 "`QGIS Anwendergruppe Deutschland (Germany) - contact: Thomas Schüttenberg "
-"<http://qgis.de/>`_"
-msgstr "`QGIS Anwendergruppe Deutschland (Allemagne) - contact : Thomas Schüttenberg <http://qgis.de/>`_"
+"<https://qgis.de/>`_"
+msgstr ""
 
 #: ../../source/site/forusers/usergroups.rst:17
 msgid ""
@@ -72,19 +73,19 @@ msgstr "`QGIS User Group Japan (OSGeo.JP) - contact : Kosuke ASAHI <http://qgis.
 
 #: ../../source/site/forusers/usergroups.rst:19
 msgid ""
-"`Lima Perú QGIS User Group (Peru) - contact: Anibal Alarcon "
-"<http://qgis.pe/>`_"
-msgstr "`Lima Perú QGIS User Group (Pérou) - contact : Anibal Alarcon <http://qgis.pe/>`_"
+"`QGIS Perú Official Users Group - contact: Anibal Alarcon "
+"<http://qgis.pe/>`_ (unreachable)"
+msgstr ""
 
 #: ../../source/site/forusers/usergroups.rst:20
 msgid ""
 "`Polska Grupa Użytkowników QGIS (Poland) - contact: Milena Nowotarska "
-"<http://qgis.pl/>`_"
-msgstr "`Polska Grupa Użytkowników QGIS (Pologne) - contact : Milena Nowotarska <http://qgis.pl/>`_"
+"<https://qgis.pl/>`_"
+msgstr ""
 
 #: ../../source/site/forusers/usergroups.rst:21
-msgid "`QGIS Portugal - contact: João Gaspar <http://qgis.pt/>`_"
-msgstr "`QGIS Portugal - contact : João Gaspar <http://qgis.pt/>`_"
+msgid "`QGIS Portugal - contact: João Gaspar <https://qgis.pt/>`_"
+msgstr ""
 
 #: ../../source/site/forusers/usergroups.rst:22
 msgid "`QGIS UK (Scotland) - contact: Ross McDonald <https://qgis.uk/>`_"
@@ -92,8 +93,8 @@ msgstr "`QGIS UK (Écosse) - contact : Ross McDonald <https://qgis.uk/>`_"
 
 #: ../../source/site/forusers/usergroups.rst:23
 msgid ""
-"`QGIS user group Switzerland - contact: Hans-Jörg Stark <https://qgis.ch/>`_"
-msgstr "`Groupe des utilisateurs de QGIS - Suisse - contact : Hans-Jörg Stark <https://qgis.ch/>`_"
+"`QGIS user group Switzerland - contact: Isabel Kiefer <https://qgis.ch/>`_"
+msgstr ""
 
 #: ../../source/site/forusers/usergroups.rst:24
 msgid "`QGIS UK (Wales/Cymru) - contact: Kevin Williams <http://qgis.uk/>`_"
@@ -110,8 +111,9 @@ msgid "**Registered 2017**"
 msgstr "**Inscrits en 2017**"
 
 #: ../../source/site/forusers/usergroups.rst:30
-msgid "`QGIS Norge (Norway) - contact: Antonio Armas Diaz <http://qgis.no/>`_"
-msgstr "`QGIS Norge (Norvège) - contact : Antonio Armas Diaz <http://qgis.no/>`_"
+msgid ""
+"`QGIS Norge (Norway) - contact: Antonio Armas Diaz <https://qgis.no/>`_"
+msgstr ""
 
 #: ../../source/site/forusers/usergroups.rst:31
 msgid ""
@@ -121,29 +123,30 @@ msgstr "`QGIS ZA (Afrique du sud) - contact : Admire Nyakudya <https://qgis.org.
 #: ../../source/site/forusers/usergroups.rst:32
 msgid ""
 "`Groupe des Utilisateurs de QGIS - France (France) - contact: Harrissou "
-"Sant-anna <http://osgeo.asso.fr/content/project/qgis-user-fr/>`_"
-msgstr "`Groupe des utilisateurs de QGIS - France (France) - contact : Harrissou Sant-anna <http://osgeo.asso.fr/content/project/qgis-user-fr/>`_"
+"Sant-anna <https://www.osgeo.asso.fr/>`_"
+msgstr ""
 
 #: ../../source/site/forusers/usergroups.rst:33
 msgid ""
-"`QGIS Sverige (Sweden) - contact: Karl-Magnus Jönsson <http://qgis.se/>`_"
-msgstr "`QGIS Sverige (Suède) - contact : Karl-Magnus Jönsson <http://qgis.se/>`_"
+"`QGIS Sverige (Sweden) - contact: Karl-Magnus Jönsson <https://qgis.se/>`_"
+msgstr ""
 
 #: ../../source/site/forusers/usergroups.rst:34
-msgid "`QGIS Kenya - contact: Benard Mitto <http://qgis.or.ke>`_"
-msgstr "`QGIS Kenya - contact: Benard Mitto <http://qgis.or.ke>`_"
+msgid "`QGIS Kenya - contact: Benard Mitto <https://qgis.or.ke>`_"
+msgstr ""
 
 #: ../../source/site/forusers/usergroups.rst:35
-msgid "`QGIS Australia - contact: Andrew Jeffrey <http://qgis-au.org>`_"
-msgstr "`QGIS Australie - contact : Andrew Jeffrey <http://qgis-au.org>`_"
+msgid "`QGIS Australia - contact: Andrew Jeffrey <https://www.qgis-au.org>`_"
+msgstr ""
 
 #: ../../source/site/forusers/usergroups.rst:36
 msgid "`QGIS USA - contact: Kurt Menke <http://qgis.us>`_"
 msgstr "`QGIS USA - contact : Kurt Menke <http://qgis.us>`_"
 
 #: ../../source/site/forusers/usergroups.rst:37
-msgid "`QGIS Mexico - contact: Hennessy Amor Becerra Ayala <http://qgis.mx>`_"
-msgstr "`QGIS Mexico - contact: Hennessy Amor Becerra Ayala <http://qgis.mx>`_"
+msgid ""
+"`QGIS Mexico - contact: Hennessy Amor Becerra Ayala <https://qgis.mx>`_"
+msgstr ""
 
 #: ../../source/site/forusers/usergroups.rst:38
 msgid ""
@@ -158,20 +161,20 @@ msgstr "**Inscrits en 2018**"
 #: ../../source/site/forusers/usergroups.rst:42
 msgid ""
 "`Asociația Utilizatorilor QGIS (Romania) - contact: Tudor Bărăscu "
-"<http://qgis.ro/>`_"
-msgstr "`Asociația Utilizatorilor QGIS (Roumanie) - contact : Tudor Bărăscu <http://qgis.ro/>`_"
+"<https://qgis.ro/>`_"
+msgstr ""
 
 #: ../../source/site/forusers/usergroups.rst:43
 msgid ""
 "`Association of QGIS users in Spain - contact: Carlos López Quintanilla "
-"<http://qgis.es/>`_"
-msgstr "`Association des utilisateurs QGIS en Espagne - contact: Carlos López Quintanilla <http://qgis.es/>`_"
+"<https://qgis.es/>`_"
+msgstr ""
 
 #: ../../source/site/forusers/usergroups.rst:44
 msgid ""
 "`Grupo de Usuarios QGIS Colombia - contact: Germán Carrillo "
-"<http://qgisusers.co>`_"
-msgstr "`Groupe des utilisateurs colombiens de QGIS - contact: Germán Carrillo <http://qgisusers.co>`_"
+"<https://qgisusers.co>`_"
+msgstr ""
 
 #: ../../source/site/forusers/usergroups.rst:46
 msgid "**Removed 2018**"
@@ -194,14 +197,14 @@ msgstr "**Inscrits en 2020**"
 #: ../../source/site/forusers/usergroups.rst:53
 msgid ""
 "`QGIS gebruikersgroep (Netherlands) - contact: Raymond Nijssen "
-"<http://qgis.nl/>`_"
-msgstr "`QGIS gebruikersgroep (Pays Bas) - contact : Raymond Nijssen <http://qgis.nl/>`_"
+"<https://qgis.nl/>`_"
+msgstr ""
 
 #: ../../source/site/forusers/usergroups.rst:54
 msgid ""
 "`Asociación QGIS México - contact: Hennessy Amor Becerra Ayala "
-"<http://qgis.mx/>`_"
-msgstr "`Asociación QGIS México - contact : Hennessy Amor Becerra Ayala <http://qgis.mx/>`_"
+"<https://qgis.mx/>`_"
+msgstr ""
 
 #: ../../source/site/forusers/usergroups.rst:55
 msgid ""
@@ -209,31 +212,56 @@ msgid ""
 "id.github.io/>`_"
 msgstr "`Komunitas Pengguna QGIS Indonesia -  contact: Ismail Sunni <https://qgis-id.github.io/>`_"
 
-#: ../../source/site/forusers/usergroups.rst:58
+#: ../../source/site/forusers/usergroups.rst:56
+msgid ""
+"`QGIS Slovensko (Slovakia) - contact: Jana Michalkova <https://qgis.sk/>`_"
+msgstr "`QGIS Slovensko (Slovakia) - contact : Jana Michalkova <https://qgis.sk/>`_"
+
+#: ../../source/site/forusers/usergroups.rst:57
+msgid ""
+"`Grupo de usuarios QGIS Ecuador - contact: Adrián Benavides "
+"<https://qgis.ec/>`_"
+msgstr ""
+
+#: ../../source/site/forusers/usergroups.rst:59
+msgid "**Registered 2021**"
+msgstr "**Inscrits en 2021**"
+
+#: ../../source/site/forusers/usergroups.rst:61
+msgid ""
+"`QGIS Anwendergruppe Österreich (Austria) - contact: Paul Stampfl "
+"<https://qgis.at/>`_"
+msgstr "`QGIS Anwendergruppe Österreich (Autriche) - contact: Paul Stampfl <https://qgis.at/>`_"
+
+#: ../../source/site/forusers/usergroups.rst:62
+msgid "`QGIS Ghana - contact: Enock Seth Nyamador <https://qgisghana.org/>`_"
+msgstr "`QGIS Ghana - contact: Enock Seth Nyamador <https://qgisghana.org/>`_"
+
+#: ../../source/site/forusers/usergroups.rst:65
 msgid "Goals of a user group"
 msgstr "Objectifs d'un groupe d'utilisateurs"
 
-#: ../../source/site/forusers/usergroups.rst:60
+#: ../../source/site/forusers/usergroups.rst:67
 msgid "Organization of user meetings"
 msgstr "Organisation des rencontres utilisateurs"
 
-#: ../../source/site/forusers/usergroups.rst:61
+#: ../../source/site/forusers/usergroups.rst:68
 msgid ""
 "Coordination of development, taking into account regional/national standards"
 " and requirements"
 msgstr "Coordination du développement, prise en compte des standards et spécificités régionales / nationales"
 
-#: ../../source/site/forusers/usergroups.rst:62
+#: ../../source/site/forusers/usergroups.rst:69
 msgid ""
 "QGIS information: meetings, articles in GIS magazines, QGIS information in "
 "social media, GIS discussion boards, etc."
 msgstr "Information sur QGIS : réunions, articles dans les magazines de SIG, informations via les médias sociaux, groupes de discussion, etc."
 
-#: ../../source/site/forusers/usergroups.rst:63
+#: ../../source/site/forusers/usergroups.rst:70
 msgid "Collection of case studies of local QGIS usage"
 msgstr "Collecte d'études de cas des usages locaux de QGIS"
 
-#: ../../source/site/forusers/usergroups.rst:64
+#: ../../source/site/forusers/usergroups.rst:71
 msgid ""
 "Sponsoring: a local user group could collect reasonable annual membership "
 "fees (depending on the country). This collected funds could be used to pay "
@@ -241,54 +269,54 @@ msgid ""
 " the international QGIS project."
 msgstr "Sponsoring : un groupe utilisateur local peut collecter des frais d'adhésion annuels raisonnables (en fonction des pays). Ces fonds peuvent ensuite être utilisés pour financer le développement de certaines fonctionnalités, aider à corriger des bugs ou comme don au projet QGIS international."
 
-#: ../../source/site/forusers/usergroups.rst:65
+#: ../../source/site/forusers/usergroups.rst:72
 msgid ""
 "Establishment of interest groups, e.g. surveying, urban planning, server/web"
 " client, etc."
 msgstr "Mise en place de groupes d’intérêt, par ex. enquête, planification urbaine, client/serveur web, etc."
 
-#: ../../source/site/forusers/usergroups.rst:66
+#: ../../source/site/forusers/usergroups.rst:73
 msgid ""
 "Initialization/coordination of application modules, e.g. surveying, urban "
 "planning, server/web client, etc."
 msgstr "Initialisation/coordination des modules de l'application, par ex. enquête, planification urbaine, client/serveur web, etc."
 
-#: ../../source/site/forusers/usergroups.rst:67
+#: ../../source/site/forusers/usergroups.rst:74
 msgid ""
 "Electing a representative to act as a :ref:`QGIS Country Voting Member "
 "<country-voting-members>`"
 msgstr "Élire un représentant pour agir en tant que :ref:`Membre QGIS du pays, ayant droit de vote<country-voting-members>`"
 
-#: ../../source/site/forusers/usergroups.rst:70
+#: ../../source/site/forusers/usergroups.rst:77
 msgid "General assumptions/recommendations"
 msgstr "Propositions et recommandations générales"
 
-#: ../../source/site/forusers/usergroups.rst:72
+#: ../../source/site/forusers/usergroups.rst:79
 msgid "stay vendor/company neutral"
 msgstr "Restez neutres envers les démarcheurs et les sociétés"
 
-#: ../../source/site/forusers/usergroups.rst:73
+#: ../../source/site/forusers/usergroups.rst:80
 msgid ""
 "establish democratic structures for the steering committee, voting and "
 "important decision"
 msgstr "Mettre en place une structure démocratique pour le comité de pilotage, les votes et la prise de décisions importantes"
 
-#: ../../source/site/forusers/usergroups.rst:74
+#: ../../source/site/forusers/usergroups.rst:81
 msgid ""
 "stay transparent, esp. if you deal with membership-fees and how you spend it"
 msgstr "Rester transparent concernant les dépenses, surtout lorsque vous collectez des frais d'adhésion"
 
-#: ../../source/site/forusers/usergroups.rst:75
+#: ../../source/site/forusers/usergroups.rst:82
 msgid ""
 "inform the international project from time to time about your local "
 "activities"
 msgstr "informer le projet international de temps en temps sur les activités locales"
 
-#: ../../source/site/forusers/usergroups.rst:78
+#: ../../source/site/forusers/usergroups.rst:85
 msgid "Organization"
 msgstr "Organisation"
 
-#: ../../source/site/forusers/usergroups.rst:80
+#: ../../source/site/forusers/usergroups.rst:87
 msgid ""
 "Depending on your country, a smaller legal entity, e.g. an association, "
 "could be established. Depending on local legislation such an entity implies "
@@ -297,57 +325,57 @@ msgid ""
 "also implies the creation of statutes."
 msgstr "Selon votre pays, une plus petite entité légale, par ex. une association, peut être créée. Selon la législation locale, de telles entités impliquent généralement que des réunions soient organisées une fois par an (assemblée générale), qu'un rapport annuel soit publié et que le rapport financier soit disponible pour vos membres. La création de statuts est également souvent requise."
 
-#: ../../source/site/forusers/usergroups.rst:82
+#: ../../source/site/forusers/usergroups.rst:89
 msgid "Statutes of the Swiss QGIS user group as an example:"
 msgstr "Statuts du groupe suisse des utilisateurs QGIS pour exemple:"
 
-#: ../../source/site/forusers/usergroups.rst:84
+#: ../../source/site/forusers/usergroups.rst:91
 msgid ""
-"german (master): http://www.qgis.ch/de/verein/statuten-der-qgis-"
+"german (master): https://www.qgis.ch/de/verein/statuten-der-qgis-"
 "anwendergruppe-schweiz"
-msgstr "allemand (master): http://www.qgis.ch/de/verein/statuten-der-qgis-anwendergruppe-schweiz"
+msgstr ""
 
-#: ../../source/site/forusers/usergroups.rst:85
+#: ../../source/site/forusers/usergroups.rst:92
 msgid ""
-"english (translation): http://www.qgis.ch/en/association/statutes-of-the-"
+"english (translation): https://www.qgis.ch/en/association/statutes-of-the-"
 "swiss-qgis-user-group"
-msgstr "anglais (traduction): http://www.qgis.ch/en/association/statutes-of-the-swiss-qgis-user-group"
+msgstr ""
 
-#: ../../source/site/forusers/usergroups.rst:86
+#: ../../source/site/forusers/usergroups.rst:93
 msgid ""
-"french (translation): http://www.qgis.ch/fr/association/statuts-du-groupe-"
-"d2019utilisateurs-qgis-suisse"
-msgstr "français (traduction):  http://www.qgis.ch/fr/association/statuts-du-groupe-d2019utilisateurs-qgis-suisse"
+"french (translation): https://www.qgis.ch/fr/association/statuts-du-"
+"groupe-d2019utilisateurs-qgis-suisse"
+msgstr ""
 
-#: ../../source/site/forusers/usergroups.rst:88
+#: ../../source/site/forusers/usergroups.rst:95
 msgid "Membership application forms:"
 msgstr "Formulaires de demande d'adhésion :"
 
-#: ../../source/site/forusers/usergroups.rst:90
-msgid "german: http://www.qgis.ch/de/verein/beitrittserklaerung"
-msgstr "allemand: http://www.qgis.ch/de/verein/beitrittserklaerung"
+#: ../../source/site/forusers/usergroups.rst:97
+msgid "german: https://www.qgis.ch/de/verein/beitrittserklaerung"
+msgstr ""
 
-#: ../../source/site/forusers/usergroups.rst:91
+#: ../../source/site/forusers/usergroups.rst:98
 msgid ""
-"english: http://www.qgis.ch/en/association/qgis-usergroup-switzerland-"
+"english: https://www.qgis.ch/en/association/qgis-usergroup-switzerland-"
 "membership-application-form"
-msgstr "anglais: http://www.qgis.ch/en/association/qgis-usergroup-switzerland-membership-application-form"
+msgstr ""
 
-#: ../../source/site/forusers/usergroups.rst:92
-msgid "french: http://www.qgis.ch/fr/association/declaration-d2019adhesion"
-msgstr "français: http://www.qgis.ch/fr/association/declaration-d2019adhesion"
+#: ../../source/site/forusers/usergroups.rst:99
+msgid "french: https://www.qgis.ch/fr/association/declaration-d2019adhesion"
+msgstr ""
 
-#: ../../source/site/forusers/usergroups.rst:94
+#: ../../source/site/forusers/usergroups.rst:101
 msgid ""
 "You can use these statutes and membership application forms as an idea or "
 "reference and change them to your local situation."
 msgstr "Vous pouvez utiliser ces statuts et ces formulaires de demande d'adhésion comme support ou référence et les adapter à votre situation locale."
 
-#: ../../source/site/forusers/usergroups.rst:98
+#: ../../source/site/forusers/usergroups.rst:105
 msgid "Local Country domain qgis.xx"
 msgstr "Noms de domaine nationaux qgis.xx"
 
-#: ../../source/site/forusers/usergroups.rst:100
+#: ../../source/site/forusers/usergroups.rst:107
 msgid ""
 "It is recommended to register your local country domains, e.g. qgis.ch or "
 "qgis.uk. If the domain is already taken by someone other organization, "
@@ -355,3 +383,138 @@ msgid ""
 "local QGIS user group. The QGIS international project has registered QGIS as"
 " a trademark, which should help you during your negotations."
 msgstr "Il est conseillé d'enregistrer vos noms de domaines nationaux, tels que par exemple qgis.ch ou qgis.uk. Si le nom de domaine est déjà pris par une autre organisation, société ou personne, essayez de négocier avec pour transférer le propriétaire au groupe d'utilisateurs local. Le projet international QGIS a enregistré QGIS en tant que marque déposée ce qui devrait vous aider durant vos négociations."
+
+#: ../../source/site/forusers/usergroups.rst:110
+msgid "Website template"
+msgstr "Modèle de site web"
+
+#: ../../source/site/forusers/usergroups.rst:112
+msgid ""
+"if you do not wish to host and design from scratch the group website, you "
+"can use the template provided at https://github.com/qgis/qgis-"
+"template.github.io"
+msgstr "Si vous ne souhaitez pas héberger et concevoir de toutes pièces le site web du groupe, vous pouvez utiliser le modèle fourni à l'adresse https://github.com/qgis/qgis-template.github.io"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
+
+#~ msgid ""
+#~ "`Lima Perú QGIS User Group (Peru) - contact: Anibal Alarcon "
+#~ "<http://qgis.pe/>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`QGIS Brasil (Brazil) - contact: Arthur Nanni <http://qgisbrasil.org/>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`QGIS Brugergruppe Danmark (Denmark) - contact: Jacob Arpe "
+#~ "<http://qgis.dk/>`_"
+#~ msgstr ""
+
+#~ msgid "`QGIS UK (England) - contact: Simon Miles <http://qgis.uk/>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`QGIS Anwendergruppe Deutschland (Germany) - contact: Thomas Schüttenberg "
+#~ "<http://qgis.de/>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`QGIS Perú Official Users Group - contact: Anibal Alarcon "
+#~ "<http://qgis.pe/>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Polska Grupa Użytkowników QGIS (Poland) - contact: Milena Nowotarska "
+#~ "<http://qgis.pl/>`_"
+#~ msgstr ""
+
+#~ msgid "`QGIS Portugal - contact: João Gaspar <http://qgis.pt/>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`QGIS user group Switzerland - contact: Hans-Jörg Stark <https://qgis.ch/>`_"
+#~ msgstr ""
+
+#~ msgid "`QGIS Norge (Norway) - contact: Antonio Armas Diaz <http://qgis.no/>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Groupe des Utilisateurs de QGIS - France (France) - contact: Harrissou "
+#~ "Sant-anna <http://osgeo.asso.fr/content/project/qgis-user-fr/>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`QGIS Sverige (Sweden) - contact: Karl-Magnus Jönsson <http://qgis.se/>`_"
+#~ msgstr ""
+
+#~ msgid "`QGIS Kenya - contact: Benard Mitto <http://qgis.or.ke>`_"
+#~ msgstr ""
+
+#~ msgid "`QGIS Australia - contact: Andrew Jeffrey <http://qgis-au.org>`_"
+#~ msgstr ""
+
+#~ msgid "`QGIS Mexico - contact: Hennessy Amor Becerra Ayala <http://qgis.mx>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Asociația Utilizatorilor QGIS (Romania) - contact: Tudor Bărăscu "
+#~ "<http://qgis.ro/>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Association of QGIS users in Spain - contact: Carlos López Quintanilla "
+#~ "<http://qgis.es/>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Grupo de Usuarios QGIS Colombia - contact: Germán Carrillo "
+#~ "<http://qgisusers.co>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`QGIS gebruikersgroep (Netherlands) - contact: Raymond Nijssen "
+#~ "<http://qgis.nl/>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Asociación QGIS México - contact: Hennessy Amor Becerra Ayala "
+#~ "<http://qgis.mx/>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Grupo de usuarios QGIS Ecuador - contact: Adrián Benavides "
+#~ "<http://qgis.ec/>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "german (master): http://www.qgis.ch/de/verein/statuten-der-qgis-"
+#~ "anwendergruppe-schweiz"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "english (translation): http://www.qgis.ch/en/association/statutes-of-the-"
+#~ "swiss-qgis-user-group"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "french (translation): http://www.qgis.ch/fr/association/statuts-du-"
+#~ "groupe-d2019utilisateurs-qgis-suisse"
+#~ msgstr ""
+
+#~ msgid "german: http://www.qgis.ch/de/verein/beitrittserklaerung"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "english: http://www.qgis.ch/en/association/qgis-usergroup-switzerland-"
+#~ "membership-application-form"
+#~ msgstr ""
+
+#~ msgid "french: http://www.qgis.ch/fr/association/declaration-d2019adhesion"
+#~ msgstr ""

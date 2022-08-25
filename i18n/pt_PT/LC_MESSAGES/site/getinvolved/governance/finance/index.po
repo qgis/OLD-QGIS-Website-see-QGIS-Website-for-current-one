@@ -1,23 +1,23 @@
 # 
 # Translators:
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2015
-# Manuela Silva <manuelarodsilva@gmail.com>, 2018
+# Manuela Silva <mmsrs@sky.com>, 2018
 # Rui Pedro Henriques <henriques.rui@gmail.com>, 2017
 # Rui <xymarior@yandex.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-10 10:41+0200\n"
-"PO-Revision-Date: 2020-05-10 08:48+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-02-28 18:31+0000\n"
+"Last-Translator: Rui <xymarior@yandex.com>, 2018\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/qgis/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: pt_PT\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/getinvolved/governance/finance/index.rst:5
 msgid "Finance"
@@ -31,48 +31,67 @@ msgstr "Por favor, consulte os relatórios abaixo, e verifique de que forma os s
 
 #: ../../source/site/getinvolved/governance/finance/index.rst:9
 msgid ""
-":download:`Budget 2020 (pdf) "
+":download:`Budget 2022 (pdf) "
 "<../../../../static/site/getinvolved/governance/finance/annual-"
-"budgets/QGISBudget2020.pdf>`"
+"budgets/QGISBudget2022.pdf>`"
 msgstr ""
 
 #: ../../source/site/getinvolved/governance/finance/index.rst:10
 msgid ""
-":download:`Financial report 2019 (pdf) "
-"<../../../../static/site/getinvolved/governance/finance/annual-financial-"
-"reports/PublicQGISfinancialreport2019.pdf>`, :download:`Financial auditing "
-"report 2019 (pdf) <../../../../static/site/getinvolved/governance/finance"
-"/annual-financial-reports/Financial-Auditing-Report_QGIS-ORG_2019.pdf>`, "
-":download:`Budget 2019 (pdf) "
+":download:`Budget 2021 (pdf) "
 "<../../../../static/site/getinvolved/governance/finance/annual-"
-"budgets/QGISBudget2019.pdf>`"
+"budgets/QGISBudget2021.pdf>`"
 msgstr ""
 
 #: ../../source/site/getinvolved/governance/finance/index.rst:11
 msgid ""
-":download:`Financial report 2018 (pdf) "
+":download:`Financial report 2020 (pdf) "
 "<../../../../static/site/getinvolved/governance/finance/annual-financial-"
-"reports/PublicQGISfinancialreport2018.pdf>`, :download:`Financial auditing "
-"report 2018 (pdf) <../../../../static/site/getinvolved/governance/finance"
-"/annual-financial-reports/Financial-Auditing-Report_QGIS-ORG_2018.pdf>`, "
-":download:`Budget 2018 (pdf) "
-"<../../../../static/site/getinvolved/governance/finance/annual-"
-"budgets/QGISBudget2018.pdf>`"
+"reports/PublicQGISfinancialreport2020.pdf>`, :download:`Financial auditing "
+"report 2020 (pdf) "
+"<../../../../static/site/getinvolved/governance/finance/annual-financial-"
+"reports/Financial-Auditing-Report_QGIS-ORG_2020.pdf>`, :download:`Budget "
+"2020 (pdf) <../../../../static/site/getinvolved/governance/finance/annual-"
+"budgets/QGISBudget2020.pdf>`"
 msgstr ""
 
 #: ../../source/site/getinvolved/governance/finance/index.rst:12
 msgid ""
+":download:`Financial report 2019 (pdf) "
+"<../../../../static/site/getinvolved/governance/finance/annual-financial-"
+"reports/PublicQGISfinancialreport2019.pdf>`, :download:`Financial auditing "
+"report 2019 (pdf) "
+"<../../../../static/site/getinvolved/governance/finance/annual-financial-"
+"reports/Financial-Auditing-Report_QGIS-ORG_2019.pdf>`, :download:`Budget "
+"2019 (pdf) <../../../../static/site/getinvolved/governance/finance/annual-"
+"budgets/QGISBudget2019.pdf>`"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/finance/index.rst:13
+msgid ""
+":download:`Financial report 2018 (pdf) "
+"<../../../../static/site/getinvolved/governance/finance/annual-financial-"
+"reports/PublicQGISfinancialreport2018.pdf>`, :download:`Financial auditing "
+"report 2018 (pdf) "
+"<../../../../static/site/getinvolved/governance/finance/annual-financial-"
+"reports/Financial-Auditing-Report_QGIS-ORG_2018.pdf>`, :download:`Budget "
+"2018 (pdf) <../../../../static/site/getinvolved/governance/finance/annual-"
+"budgets/QGISBudget2018.pdf>`"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/finance/index.rst:14
+msgid ""
 ":download:`Financial report 2017 (pdf) "
 "<../../../../static/site/getinvolved/governance/finance/annual-financial-"
 "reports/PublicQGISfinancialreport2017.pdf>`, :download:`Financial auditing "
-"report 2017 (pdf) <../../../../static/site/getinvolved/governance/finance"
-"/annual-financial-reports/Financial-Auditing-Report_QGIS-ORG_2017.pdf>`, "
-":download:`Budget 2017 (pdf) "
-"<../../../../static/site/getinvolved/governance/finance/annual-"
+"report 2017 (pdf) "
+"<../../../../static/site/getinvolved/governance/finance/annual-financial-"
+"reports/Financial-Auditing-Report_QGIS-ORG_2017.pdf>`, :download:`Budget "
+"2017 (pdf) <../../../../static/site/getinvolved/governance/finance/annual-"
 "budgets/QGISBudget2017.pdf>`"
 msgstr ":download:`Relatório financeiro de 2017(pdf) <../../../../static/site/getinvolved/governance/finance/annual-financial-reports/PublicQGISfinancialreport2017.pdf>`, :download:`Relatório da Auditoria Financeira de 2017 (pdf) <../../../../static/site/getinvolved/governance/finance/annual-financial-reports/Financial-Auditing-Report_QGIS-ORG_2017.pdf>`, :download:`Orçamento de 2017 (pdf) <../../../../static/site/getinvolved/governance/finance/annual-budgets/QGISBudget2017.pdf>`"
 
-#: ../../source/site/getinvolved/governance/finance/index.rst:13
+#: ../../source/site/getinvolved/governance/finance/index.rst:15
 msgid ""
 ":download:`Financial report 2016 (pdf) "
 "<../../../../static/site/getinvolved/governance/finance/annual-financial-"
@@ -81,7 +100,7 @@ msgid ""
 "budgets/QGISBudget2016.pdf>`"
 msgstr ":download:`Relatório Financeiro de 2016 (pdf) <../../../../static/site/getinvolved/governance/finance/annual-financial-reports/PublicQGISfinancialreport2016.pdf>`, :download:`Orçamento de 2017 (pdf) <../../../../static/site/getinvolved/governance/finance/annual-budgets/QGISBudget2016.pdf>`"
 
-#: ../../source/site/getinvolved/governance/finance/index.rst:14
+#: ../../source/site/getinvolved/governance/finance/index.rst:16
 msgid ""
 ":download:`Financial report 2015 (pdf) "
 "<../../../../static/site/getinvolved/governance/finance/annual-financial-"
@@ -90,12 +109,20 @@ msgid ""
 "budgets/QGISBudget2015.pdf>`"
 msgstr ":download:`Relatório Financeiro de 2015 (pdf) <../../../../static/site/getinvolved/governance/finance/annual-financial-reports/PublicQGISfinancialreport2015.pdf>`, :download:`Orçamento de 2016 (pdf) <../../../../static/site/getinvolved/governance/finance/annual-budgets/QGISBudget2015.pdf>`"
 
-#: ../../source/site/getinvolved/governance/finance/index.rst:15
+#: ../../source/site/getinvolved/governance/finance/index.rst:17
 msgid ""
 ":download:`Financial report 2014 (pdf) "
 "<../../../../static/site/getinvolved/governance/finance/annual-financial-"
 "reports/PublicQGISfinancialreport2014.pdf>`"
 msgstr ":download:`Relatório Financeiro de 2014 (pdf) <../../../../static/site/getinvolved/governance/finance/annual-financial-reports/PublicQGISfinancialreport2014.pdf>`"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ msgstr ""
@@ -134,4 +161,10 @@ msgstr ":download:`Relatório Financeiro de 2014 (pdf) <../../../../static/site/
 #~ ":download:`Budget 2019 (pdf) "
 #~ "<../../../../static/site/getinvolved/governance/finance/annual-"
 #~ "budgets/QGISBudget2019.pdf>`"
+#~ msgstr ""
+
+#~ msgid ""
+#~ ":download:`Budget 2020 (pdf) "
+#~ "<../../../../static/site/getinvolved/governance/finance/annual-"
+#~ "budgets/QGISBudget2020.pdf>`"
 #~ msgstr ""

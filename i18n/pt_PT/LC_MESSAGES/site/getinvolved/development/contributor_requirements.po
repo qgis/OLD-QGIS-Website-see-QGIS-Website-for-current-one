@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # 
 # Translators:
-# Manuela Silva <manuelarodsilva@gmail.com>, 2018
+# Manuela Silva <mmsrs@sky.com>, 2018
 # Rui <xymarior@yandex.com>, 2018
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2019
 # 
@@ -13,16 +13,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-05 19:50+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2018-05-20 14:25+0000\n"
 "Last-Translator: João Gaspar <joao.f.r.gaspar@gmail.com>, 2019\n"
 "Language-Team: Portuguese (Portugal) (https://www.transifex.com/qgis/teams/6144/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: pt_PT\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/getinvolved/development/contributor_requirements.rst:4
 msgid "Requirements for new contributors"
@@ -58,10 +58,9 @@ msgstr ""
 #: ../../source/site/getinvolved/development/contributor_requirements.rst:15
 msgid ""
 "Ensure that all code committed to the repository is unencumbered and "
-"compatible with the QGIS license, GPL version 2"
+"compatible with the QGIS license, GNU Public License (GPL) Version 2 or any "
+"later version."
 msgstr ""
-"Garantir que todo o código submetido no repositório é livre e compatível com"
-" a licença QGIS, GPL versão 2"
 
 #: ../../source/site/getinvolved/development/contributor_requirements.rst:17
 msgid ""
@@ -109,5 +108,20 @@ msgstr ""
 "Concorde com estes requisitos enviando um email para a lista de discussão "
 "qgis-developer afirmando este acordo."
 
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
+
 #~ msgid "Read and agree to the :ref:`coding_standards`."
 #~ msgstr "Leia e concorde com o :ref:`coding_standards`."
+
+#~ msgid ""
+#~ "Ensure that all code committed to the repository is unencumbered and "
+#~ "compatible with the QGIS license, GPL version 2"
+#~ msgstr ""
+#~ "Garantir que todo o código submetido no repositório é livre e compatível com"
+#~ " a licença QGIS, GPL versão 2"

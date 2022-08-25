@@ -4,33 +4,34 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2013-11-01 07:36+0000\n"
-"Last-Translator: rduivenvoorde <richard@duif.net>\n"
-"Language-Team: Khmer (Cambodia) (http://www.transifex.com/projects/p/qgis-website/language/km_KH/)\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Khmer (Cambodia) (http://www.transifex.com/qgis/qgis-website/language/km_KH/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: km_KH\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:4
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:3
 msgid ""
 "Working with QGIS in a spatial data infrastructure of Jalisco in Mexico"
 msgstr ""
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:6
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:5
 msgid ""
 "The Instituto de Información Territorial del Estado de Jalisco is a "
 "government organization which was founded in 1998 to share geographical "
 "information between the government agencies of Jalisco in México."
 msgstr ""
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:13
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:12
 msgid "Exploring the data with its online viewer"
 msgstr ""
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:15
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:14
 msgid ""
 "Within the years, the institution has gathered loads of information in "
 "several formats such as SHP, DWG, DXF, GeoTIFF and ECW, among others. So, "
@@ -39,11 +40,11 @@ msgid ""
 "over the Internet."
 msgstr ""
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:22
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:21
 msgid "Connecting to the Spatial Data Infrastructure with WMS"
 msgstr ""
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:24
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:23
 msgid ""
 "That's how it was developed the Sistema de Información Territorial Estatal "
 "en Línea, with the main target to build a spatial data infrastructure which "
@@ -51,11 +52,11 @@ msgid ""
 "included in their own projects as health, security or mobility."
 msgstr ""
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:27
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:26
 msgid "Decision for QGIS"
 msgstr ""
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:29
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:28
 msgid ""
 "I decided to use Mapserver and PostgreSQL with PostGIS extension to be able "
 "to deliver our satellite imagery, orthopothos, digital elevation models and "
@@ -66,11 +67,11 @@ msgid ""
 "only one which can connect to WMS, WCS and WFS successfully."
 msgstr ""
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:33
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:31
 msgid "What we use QGIS for"
 msgstr ""
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:35
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:33
 msgid ""
 "Internally, we use QGIS to check the raster and vector data of the agencies "
 "before publishing it, and after its integration, we used it again to test "
@@ -79,11 +80,11 @@ msgid ""
 "database, then, we export the results as shape files."
 msgstr ""
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:42
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:40
 msgid "Connecting to the Spatial Data Infrastructure with WFS"
 msgstr ""
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:44
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:42
 msgid ""
 "We’re encouraging our users to download QGIS and link directly with our "
 "Sistema de Información Territorial Estatal en Línea, mainly because it fully"
@@ -92,11 +93,11 @@ msgid ""
 "absolutely for free."
 msgstr ""
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:47
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:45
 msgid "Conclusion"
 msgstr ""
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:49
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:47
 msgid ""
 "This project understood as the technological component of a Spatial Data "
 "Infrastructure, has been considered as a PostGIS case study, and I have to "
@@ -105,17 +106,25 @@ msgid ""
 "our geographic information."
 msgstr ""
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:52
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:50
 msgid "Author"
 msgstr ""
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:59
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:57
 msgid "Carlos Ruiz"
 msgstr ""
 
-#: ../../source/site/about/case_studies/mexico_jalisco.rst:61
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:59
 msgid ""
 "This article was contributed in July 2010 by IC Carlos Ruiz. He works as "
 "project's coordinator at the Instituto de Información Territorial del Estado"
 " de Jalisco, Mexico."
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""

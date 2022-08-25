@@ -1,19 +1,27 @@
 # 
 # Translators:
 # DiGro, 2014-2015
+# DiGro, 2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 19:58+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: DiGro, 2022\n"
 "Language-Team: Dutch (http://www.transifex.com/qgis/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/case_studies/india_assam.rst:3
+msgid ""
+"QGIS for monitoring tigers (using camera traps in Nameri Tiger Reserve, "
+"Assam, India Sonitpur District)"
+msgstr "QGIS voor monitoren van tijgers (met behulp van cameravallen in Nameri Tiger Reserve, Assam, India Sonitpur District)"
 
 #: ../../source/site/about/case_studies/india_assam.rst:5
 msgid ""
@@ -25,6 +33,9 @@ msgid ""
 "west and River Bor-Dikorai in the east. To the north of the Nameri lies the "
 "Pakke Tiger Reserve of Arunachal Pradesh."
 msgstr "Nameri Tiger Reserve (NTR) is één van de 3 tijgerreservaten van Assam en is gelegen in het noordelijke deel van het Sonitpur District van Assam langs de uitlopers van de oostelijke Himalaya. Verspreid over een gebied van 344 km² biedt NTR een rijke diversiteit aan flora en fauna. Het belangrijkste gebied van het reservaat dat de naam “Nameri National Park” draagt wordt begrenst door de rivier Jia-Bhoreli in het westen en de rivier Bor-Dikorai in het oosten. Ten noorden van Nameri ligt het Pakke Tiger Reserve van Arunachal Pradesh."
+
+msgid "Area of Tiger Reserve"
+msgstr "Gebied van tijgerreservaat"
 
 #: ../../source/site/about/case_studies/india_assam.rst:12
 msgid ""
@@ -51,8 +62,30 @@ msgid ""
 msgstr "Vanaf 2011 heeft de National Tiger Conservation Authority (NTCA) van India het verplicht gemaakt voor alle tijgerreservaten in het land om tijgers te monitoren met behulp van cameravallen. Onder dit nieuwe protocol, zullen 25 paren camera's worden geïnstalleerd voor 100 km² van de tijgerreservaten en de periode van verzamelen is 40-60 dagen. Dit nieuwe protocol voor het monitoren van tijgers is in grote mate afhankelijk van het GIS."
 
 #: ../../source/site/about/case_studies/india_assam.rst:24
+msgid "Picture of a male Tiger"
+msgstr "Foto van een mannelijke tijger"
+
+#: ../../source/site/about/case_studies/india_assam.rst:24
 msgid "Picture of a male tiger that was captured in one of the camera traps"
 msgstr "Afbeelding van een mannelijke tijger die werd betrapt door een van de cameravallen"
+
+#: ../../source/site/about/case_studies/india_assam.rst:26
+msgid ""
+"During 2012-13, we implemented this new tiger monitoring protocol in NTR by "
+"using QGIS. To begin with, we digitized the NTR boundary in QGIS and saved "
+"it as polygon. This boundary polygon was exported to GPS for navigation "
+"purpose during the field surveys. We conducted an extensive sign survey in "
+"NTR for evidences of tiger presence such pugmarks, scratch marks and scats. "
+"GPS coordinates of tiger signs as well as suitable locations for camera "
+"traps were recorded. After completion of the survey, the data was "
+"transferred to QGIS using GPS tools for further processing and for "
+"finalizing camera trap locations. A shape file containing the tiger signs "
+"and probable camera trap locations was prepared."
+msgstr "Gedurende 2012-13 implementeerden we dit nieuwe protocol voor het monitoren van tijgers in NTR met behulp van QGIS. We digitaliseerden. om te beginnen, de begrenzing van NTR in QGIS en sloegen die op als polygoon. Dit polygoon voor de begrenzing werd geëxporteerd naar GPS voor navigatie-doeleinden gedurende de opnamen in het veld. We voerden een uitgebreide zoekactie naar tekenen van bewijs van de aanwezigheid van tijgers in NTR zoals voetafdrukken, krassporen en uitwerpselen. GPS-coördinaten van de teken van aanwezigheid van tijgers, alsmede geschikte locaties voor de cameravallen werden opgenomen. Na het voltooien van dit onderzoek werden de gegevens getransfereerd naar QGIS met behulp van GPS-programma's, voor verdere verwerking en het vaststellen van de locaties voor de cameravallen. Een shapefile dat de tekenen van aanwezigheid van de tijgers en de mogelijke locaties voor de cameravallen bevatte, werd voorbereid."
+
+#: ../../source/site/about/case_studies/india_assam.rst:31
+msgid "Camera trap locations"
+msgstr "Locaties van wildcamera's"
 
 #: ../../source/site/about/case_studies/india_assam.rst:31
 msgid ""
@@ -84,47 +117,16 @@ msgid ""
 msgstr "Vervolgens bereidden we een 4 km² rasterlaag voor met behulp van de plug-in mmqgis. De shapefile die de resultaten bevatte van het onderzoek naar de tekenen van aanwezigheid werd over het raster van 4 km² gelegd om de verdeling van de cameravallen in NTR te visualiseren. De optie Afstandsmatrix onder Vector . Analyse-gereedschappen was erg handig voor het bepalen van de afstanden tussen de camera's. Cameralocaties die minder dan 1.8 km afstand hadden tot een andere werden verwijderd om te voldoen aan de bepalingen van het protocol voor het monitoren. Wegens een tekort aan camera's om het gehele reservaat in één keer te kunnen verwerken, besloten we het reservaat op te delen in 2 blokken van gebieden van elk 100 km². grenzen van deze twee blokken werden gedigitaliseerd en opgeslagen als afzonderlijke shapefiles voor beide blokken. Met behulp van de plug-in RGB compositie werd een negatieve kleurcompositie van het reservaat gemaakt en het shapefile van de tekenen van aanwezigheid werd daar overheen gelegd om de type leefgebieden te bepalen die door de tijgers werden gebruikt. Gedurende de periode van de studie werden de cameravallen intensief gemonitord door de staf in het veld. We gebruikten de mogelijkheid Voronoi-polygonen van de plug-in Geometrie-gereedschap en hub distance van de plug-in mmqgis voor het plannen van logistieke vereisten om het gladjes functioneren van het proces van monitoren te waarborgen. De geografische coördinaten van cameravallen zijn vereist voor het bepalen van de dichtheid aan tijgers en het modelleren van de bewoning door andere soorten. Deze details van de coördinaten werden eenvoudig gegenereerd uit de shapefiles van de cameravallen met behulp van de mogelijkheid “Geometriekolommen toevoegen/exporteren” van Vector > Geometrie-gereedschappen."
 
 #: ../../source/site/about/case_studies/india_assam.rst:41
+msgid "Survey Grid"
+msgstr "Onderzoeksraster"
+
+#: ../../source/site/about/case_studies/india_assam.rst:41
 msgid "Survey grids with tiger presence"
 msgstr "Onderzoeksrasters met aanwezigheid van tijgers"
 
 #: ../../source/site/about/case_studies/india_assam.rst:44
 msgid "Conclusion"
 msgstr "Conclusie"
-
-#: ../../source/site/about/case_studies/india_assam.rst:50
-msgid "Author"
-msgstr "Auteur"
-
-#: ../../source/site/about/case_studies/india_assam.rst:57
-msgid "Rajendra Garawad"
-msgstr "Rajendra Garawad"
-
-#: ../../source/site/about/case_studies/india_assam.rst:59
-msgid ""
-"This article was contributed by Rajendra G. Garawad in March 2013. He is the"
-" Field Director of Nameri Tiger Reserve, Assam, India. He holds Master "
-"Degrees in Forestry Science and Conservation & Land Management."
-msgstr "Dit artikel werd bijgedragen door Rajendra G. Garawad in maart 2013. Hij is de Field Director of Nameri Tiger Reserve, Assam, India. Hij bezit Master Degrees in Forestry Science and Conservation & Land Management."
-
-#: ../../source/site/about/case_studies/india_assam.rst:3
-msgid ""
-"QGIS for monitoring tigers (using camera traps in Nameri Tiger Reserve, "
-"Assam, India Sonitpur District)"
-msgstr "QGIS voor monitoren van tijgers (met behulp van cameravallen in Nameri Tiger Reserve, Assam, India Sonitpur District)"
-
-#: ../../source/site/about/case_studies/india_assam.rst:26
-msgid ""
-"During 2012-13, we implemented this new tiger monitoring protocol in NTR by "
-"using QGIS. To begin with, we digitized the NTR boundary in QGIS and saved "
-"it as polygon. This boundary polygon was exported to GPS for navigation "
-"purpose during the field surveys. We conducted an extensive sign survey in "
-"NTR for evidences of tiger presence such pugmarks, scratch marks and scats. "
-"GPS coordinates of tiger signs as well as suitable locations for camera "
-"traps were recorded. After completion of the survey, the data was "
-"transferred to QGIS using GPS tools for further processing and for "
-"finalizing camera trap locations. A shape file containing the tiger signs "
-"and probable camera trap locations was prepared."
-msgstr "Gedurende 2012-13 implementeerden we dit nieuwe protocol voor het monitoren van tijgers in NTR met behulp van QGIS. We digitaliseerden. om te beginnen, de begrenzing van NTR in QGIS en sloegen die op als polygoon. Dit polygoon voor de begrenzing werd geëxporteerd naar GPS voor navigatie-doeleinden gedurende de opnamen in het veld. We voerden een uitgebreide zoekactie naar tekenen van bewijs van de aanwezigheid van tijgers in NTR zoals voetafdrukken, krassporen en uitwerpselen. GPS-coördinaten van de teken van aanwezigheid van tijgers, alsmede geschikte locaties voor de cameravallen werden opgenomen. Na het voltooien van dit onderzoek werden de gegevens getransfereerd naar QGIS met behulp van GPS-programma's, voor verdere verwerking en het vaststellen van de locaties voor de cameravallen. Een shapefile dat de tekenen van aanwezigheid van de tijgers en de mogelijke locaties voor de cameravallen bevatte, werd voorbereid."
 
 #: ../../source/site/about/case_studies/india_assam.rst:46
 msgid ""
@@ -142,6 +144,29 @@ msgid ""
 "individuals/institutions/ involved in conserving endangered wildlife in the "
 "developing world by offering GIS technology at little or no cost."
 msgstr "Voor het eerst in de geschiedenis van dit kleine tijgerreservaat in noordoost India, was het mogelijk tijgers te monitoren met behulp van cameravallen, voornamelijk dankzij QGIS. Resultaten van deze oefening in monitoren geeft aan dat er ongeveer 8-15 tijgers in deze omgeving aanwezig zijn. In aanvulling op de tijgers, werden ook verschillende uitzonderlijke soorten ook fotografisch gedocumenteerd. Los van het monitoren van de tijgers gebruikten we QGIS ook voor activiteiten zoals het plannen van het werk voor het beheer van de woonomgeving, herzien van schema's voor patrouilles en het ontwerpen van kaarten voor bezoekers. De gebruikersvriendelijke interface, vele mogelijkheden, diepgang in de documentatie, online ondersteuning en de vrije/open source filosofie zijn enkele van de kwaliteiten van QGIS die ons ertoe bewogen het te kiezen boven andere merkgebonden software. We geloven dat QGIS een groot potentieel heeft voor bijdragen aan individuelen/instituten/ betrokken bij de bescherming van wilde dieren in de ontwikkelingswereld door GIS-technologie ter beschikking te stellen tegen weinig of geen kosten."
+
+#: ../../source/site/about/case_studies/india_assam.rst:50
+msgid "Author"
+msgstr "Auteur"
+
+#: ../../source/site/about/case_studies/india_assam.rst:57
+msgid "Rajendra Garawad"
+msgstr "Rajendra Garawad"
+
+#: ../../source/site/about/case_studies/india_assam.rst:59
+msgid ""
+"This article was contributed by Rajendra G. Garawad in March 2013. He is the"
+" Field Director of Nameri Tiger Reserve, Assam, India. He holds Master "
+"Degrees in Forestry Science and Conservation & Land Management."
+msgstr "Dit artikel werd bijgedragen door Rajendra G. Garawad in maart 2013. Hij is de Field Director of Nameri Tiger Reserve, Assam, India. Hij bezit Master Degrees in Forestry Science and Conservation & Land Management."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "QGIS for monitoring tigers"
 #~ msgstr ""

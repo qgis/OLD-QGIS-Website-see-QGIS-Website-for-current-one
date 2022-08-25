@@ -1,24 +1,25 @@
 # 
 # Translators:
-# YoViajo, 2015-2016
+# Eric Armijo, 2015-2016
 # Francisco Javier <fjaviquintana@gmail.com>, 2015
 # Julián Darío Giraldo Ocampo <ingenieria@juliangiraldo.co>, 2017
 # Mario Reyes <ernestoreyes561@gmail.com>, 2017
 # Minerva Durán Martínez <mine_tod@yahoo.com.mx>, 2018
-# YoViajo, 2016
+# Eric Armijo, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-05 15:28+0200\n"
-"PO-Revision-Date: 2018-12-13 19:23+0000\n"
-"Last-Translator: Minerva Durán Martínez <mine_tod@yahoo.com.mx>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:44+0000\n"
+"Last-Translator: Minerva Durán Martínez <mine_tod@yahoo.com.mx>, 2018\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:4
 msgid "Using the processing toolbox to automate snow classification"
@@ -199,3 +200,11 @@ msgid ""
 "exciting projects such as the Cloud Seeding experiment, and day to day "
 "operations within the organisation."
 msgstr "Andrew Jeffrey es un analista de SIG en Snowy Hydro Limited con sede en Cooma NSW, Australia. Se graduó de la Universidad Charles Sturt en Wagga Wagga con una Licenciatura en Ciencias (Bsc) con especialización en Sistemas de Información Espacial en 2004. Mientras que en Snowy Hydro Limited, ha podido brindar apoyo espacial a proyectos interesantes como el experimento Cloud Seeding, y el día a día de operaciones dentro de la organización."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"

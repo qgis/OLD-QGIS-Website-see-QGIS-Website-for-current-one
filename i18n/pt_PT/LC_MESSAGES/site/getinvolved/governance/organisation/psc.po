@@ -2,8 +2,8 @@
 # Translators:
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2013,2015
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2019
-# Manuela Silva <manuelarodsilva@gmail.com>, 2020
-# Manuela Silva <manuelarodsilva@gmail.com>, 2018
+# Manuela Silva <mmsrs@sky.com>, 2020
+# Manuela Silva <mmsrs@sky.com>, 2018
 # Rui Pedro Henriques <henriques.rui@gmail.com>, 2013
 # Rui <xymarior@yandex.com>, 2018
 msgid ""
@@ -11,14 +11,14 @@ msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2020-07-31 15:35+0000\n"
-"Last-Translator: Manuela Silva <manuelarodsilva@gmail.com>\n"
+"PO-Revision-Date: 2013-09-17 13:25+0000\n"
+"Last-Translator: Manuela Silva <mmsrs@sky.com>, 2020\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/qgis/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: pt_PT\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/getinvolved/governance/organisation/psc.rst:9
 msgid "Term of PSC members"

@@ -1,19 +1,25 @@
 # 
 # Translators:
 # DiGro, 2015
+# DiGro, 2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 19:58+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: DiGro, 2022\n"
 "Language-Team: Dutch (http://www.transifex.com/qgis/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:3
+msgid "QGIS Maps Historic Herpetofaunal Records (in Missouri, USA)"
+msgstr "QGIS-kaarten Historische herpetofaunal records (in Missouri, USA)"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:5
 msgid ""
@@ -61,6 +67,10 @@ msgid ""
 msgstr "Het proces van het maken van kaarten met QGIS begint met de gegevens die zijn opgeslagen in verschillende tabellen van PostgreSQL, ruimtelijk te gebruiken door middel van PostGIS. Omdat kaarten statisch zijn en uiteindelijk bedoeld voor ofwel het web of een afgedrukte atlas, worden zij voor elke soort automatisch gegenereerd door middle van een aangepaste Python-plug-in voor QGIS  (Figures 1,2)."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:21
+msgid "Custom map generation and export user interface"
+msgstr "Maken van aangepaste kaart en gebruikersinterface voor exporteren"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:21
 msgid ""
 "Custom map generation and export user interface, maps are generated and "
 "exported in a batch process."
@@ -76,8 +86,16 @@ msgid ""
 msgstr "D uiteindelijk kaarten voor de soorten hebben een helder en professioneel uiterlijk (Figure 3). Een serie basiskaarten wordt ook gemaakt en gelabeld om de verdeling van de soorten beter te begrijpen, (Figure 4). Vanwege de manier waarop de kaartstijlen worden bekeerd binnen elke gegevenslaag, kunnen de lagen van de basiskaart ook met weinig inspanning worden verwerkt in een set van kaarten van soorten."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:30
+msgid "Maps"
+msgstr "Map objecten"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:30
 msgid "Maps are displayed as static images."
 msgstr "Kaarten worden weergegeven als statische afbeeldingen."
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:37
+msgid "Labelled Level III Ecoregion map for Missouri"
+msgstr "Gelabelde Level III Ecoregion-kaart voor Missouri"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:37
 msgid "Labelled Level III Ecoregion map for Missouri and surrounding states."
@@ -86,26 +104,6 @@ msgstr "Gelabelde Level III Ecoregion-kaart voor Missouri en omliggende staten."
 #: ../../source/site/about/case_studies/usa_missouri.rst:40
 msgid "Conclusions"
 msgstr "Conclusies"
-
-#: ../../source/site/about/case_studies/usa_missouri.rst:49
-msgid "Author"
-msgstr "Auteur"
-
-#: ../../source/site/about/case_studies/usa_missouri.rst:56
-msgid "Brian Edmond"
-msgstr "Brian Edmond"
-
-#: ../../source/site/about/case_studies/usa_missouri.rst:58
-msgid ""
-"This article was contributed by Brian Edmond in February 2013. He is a "
-"Senior Systems Analyst in Computer Services at Missouri State University.  "
-"He holds a BS in Wildlife Biology from the University of Missouri and has "
-"spent his career in the intergrade zone between biology and technology."
-msgstr "Dit artikel werd bijgedragen door Brian Edmond in februari 2013. Hij is een Senior Systems Analyst in Computer Services aan de Missouri State University.  Hij heeft een BS in Wildlife Biology van de University of Missouri en ontwikkelde zijn carrière in de samengevoegde zone tussen biologie en technologie."
-
-#: ../../source/site/about/case_studies/usa_missouri.rst:3
-msgid "QGIS Maps Historic Herpetofaunal Records (in Missouri, USA)"
-msgstr "QGIS-kaarten Historische herpetofaunal records (in Missouri, USA)"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:42
 msgid ""
@@ -133,6 +131,30 @@ msgid ""
 "extensibility using Python is more than sufficient to tackle larger and more"
 " complex projects."
 msgstr "Hoewel we QGIS op een kleine en specifieke manier gebruiken, zijn zijn mogelijkheden en uitbreidingen met behulp van Python meer dna voldoende om grotere en meer complexe projecten te tackelen."
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:49
+msgid "Author"
+msgstr "Auteur"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:56
+msgid "Brian Edmond"
+msgstr "Brian Edmond"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:58
+msgid ""
+"This article was contributed by Brian Edmond in February 2013. He is a "
+"Senior Systems Analyst in Computer Services at Missouri State University.  "
+"He holds a BS in Wildlife Biology from the University of Missouri and has "
+"spent his career in the intergrade zone between biology and technology."
+msgstr "Dit artikel werd bijgedragen door Brian Edmond in februari 2013. Hij is een Senior Systems Analyst in Computer Services aan de Missouri State University.  Hij heeft een BS in Wildlife Biology van de University of Missouri en ontwikkelde zijn carrière in de samengevoegde zone tussen biologie en technologie."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "QGIS Maps Historic Herpetofaunal Records"
 #~ msgstr ""

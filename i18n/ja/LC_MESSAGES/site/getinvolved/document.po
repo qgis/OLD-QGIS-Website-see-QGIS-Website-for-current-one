@@ -1,21 +1,21 @@
 # 
 # Translators:
-# fairtommy <fairtommy@gmail.com>, 2018
+# fairtommy <fairtommy@gmail.com>, 2018,2021-2022
 # Kayama Yoichi <yoichi.kayama@gmail.com>, 2014-2018
 # fairtommy <fairtommy@gmail.com>, 2017-2018
-# 藤本理弘 <mfujimot@gmail.com>, 2019
+# Masahiro FUJIMOTO <mfujimot@gmail.com>, 2019
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-02 12:44+0100\n"
-"PO-Revision-Date: 2019-11-02 11:48+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-10-19 11:14+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2018,2021-2022\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -28,14 +28,14 @@ msgid ""
 "The update of the QGIS documentation is managed by the :ref:`Community Team "
 "Lead <community-resources>`. Have a look at the :ref:`QGIS Governance "
 "<whoiswho>` to find out who is in charge of guiding you."
-msgstr ""
+msgstr "QGIS の文書の更新は :ref:`コミュニティチーム主任 <community-resources>` によって管理されています。 :ref:`QGIS ガバナンス <whoiswho>`  をご覧になり、誰が案内してくれるかをお探しください。"
 
 #: ../../source/site/getinvolved/document.rst:10
 msgid ""
 "The complete list of documents managed by the QGIS documentation team can be"
-" found at http://www.qgis.org/en/docs/index.html. A list of documenters can "
-"be found at https://github.com/qgis/QGIS-Documentation/graphs/contributors."
-msgstr "QGISドキュメンテーションチームによって管理されている全てのドキュメントリストは http://www.qgis.org/en/docs/index.html にあります。ドキュメント作成者のリストは https://github.com/qgis/QGIS-Documentation/graphs/contributors にあります。"
+" found at https://www.qgis.org/en/docs/index.html. A list of documenters can"
+" be found at https://github.com/qgis/QGIS-Documentation/graphs/contributors."
+msgstr "QGISドキュメンテーションチームによって管理されている全てのドキュメントリストは https://www.qgis.org/en/docs/index.html にあります。ドキュメント作成者のリストは https://github.com/qgis/QGIS-Documentation/graphs/contributors にあります。"
 
 #: ../../source/site/getinvolved/document.rst:17
 msgid "Documentation Mailing list"
@@ -61,7 +61,7 @@ msgid ""
 "We strongly encourage anyone dealing with documentation and its translations"
 " to join this list and promise that it is usually a very low traffic mailing"
 " list."
-msgstr "文書作成と翻訳にかかわりたい人はどなたでもこのリストに参加されることを私たちは推奨します.このリストのメール流量は通常はとても少ないです."
+msgstr "文書作成と翻訳にかかわりたい人はどなたであれこのリストに参加されることをお奨めします。このリストのメール流量は通常はとても少ないです。"
 
 #: ../../source/site/getinvolved/document.rst:30
 msgid ""
@@ -89,11 +89,11 @@ msgstr "私たちはプロジェクトの管理方法の改善を試みていま
 #: ../../source/site/getinvolved/document.rst:45
 msgid ""
 "The complete list of documents managed by the QGIS Documentation Team can be"
-" found at http://www.qgis.org/en/docs/index.html. All the documentation "
+" found at https://www.qgis.org/en/docs/index.html. All the documentation "
 "sources are hosted in `QGIS-Documentation repository "
 "<https://github.com/qgis/QGIS-Documentation>`_. If you want to update some "
 "features in QGIS or document new ones, you need to:"
-msgstr "QGISドキュメントチームによって管理された文書の完全なリストは、 http://www.qgis.org/en/docs/index.html で見つけることができます。すべてのドキュメントのソースは `QGISドキュメントリポジトリ <https://github.com/qgis/QGIS-Documentation>`_ でホストされます。QGISの一部の機能を更新したり、新しいものを文書化したい場合は、以下を行う必要があります。"
+msgstr "QGISドキュメントチームによって管理された文書の完全なリストは、 https://www.qgis.org/en/docs/index.html にあります。すべてのドキュメントのソースは `QGISドキュメントリポジトリ <https://github.com/qgis/QGIS-Documentation>`_ でホストされます。QGISの一部の機能を更新したり、新しいものを文書化したい場合は、以下を行う必要があります："
 
 #: ../../source/site/getinvolved/document.rst:51
 msgid "have a `GitHub account <https://github.com/join>`_"
@@ -131,6 +131,14 @@ msgid ""
 "directly opens the source file in your forked repo. Just make your changes, "
 "commit in a new branch and submit pull request to the main repository."
 msgstr "リポジトリで更新するファイルを簡単に検索するには、 ``Testing`` ドキュメントのどのページの下部にもある ``このページを修正`` リンクを使用してください。これはソースファイルをあなたのフォークレポ中で直接開きます。変更を行い、新しいブランチにコミットし、メインリポジトリにプルリクエストを送信するだけです。 "
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "Update QGIS Documentation"
 #~ msgstr ""
@@ -272,4 +280,18 @@ msgstr "リポジトリで更新するファイルを簡単に検索するには
 #~ "The update of the QGIS documentation is managed by the :ref:`Community Team "
 #~ "Lead <gui-translation>`. Have a look at the :ref:`QGIS Governance <gui-"
 #~ "translation>` to find out who is in charge of guiding you."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The complete list of documents managed by the QGIS documentation team can be"
+#~ " found at http://www.qgis.org/en/docs/index.html. A list of documenters can "
+#~ "be found at https://github.com/qgis/QGIS-Documentation/graphs/contributors."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The complete list of documents managed by the QGIS Documentation Team can be"
+#~ " found at http://www.qgis.org/en/docs/index.html. All the documentation "
+#~ "sources are hosted in `QGIS-Documentation repository "
+#~ "<https://github.com/qgis/QGIS-Documentation>`_. If you want to update some "
+#~ "features in QGIS or document new ones, you need to:"
 #~ msgstr ""

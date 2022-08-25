@@ -1,22 +1,24 @@
 # 
 # Translators:
+# Tomas Straupis, 2021
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-05 15:28+0200\n"
-"PO-Revision-Date: 2020-03-16 09:23+0000\n"
-"Last-Translator: Jürgen E. Fischer <jef@norbit.de>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:44+0000\n"
+"Last-Translator: Tomas Straupis, 2021\n"
 "Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: lt\n"
 "Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:4
 msgid "Using the processing toolbox to automate snow classification"
-msgstr ""
+msgstr "Apdorojimo įrankinės naudojimas sniego klasifikavimo automatizavimui"
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:6
 msgid ""
@@ -25,7 +27,7 @@ msgid ""
 "generation assets across the country, Snowy Hydro Limited is best known for "
 "the custodianship of an iconic piece of Australian infrastructure, the Snowy"
 " Mountains Hydro Electric Scheme."
-msgstr ""
+msgstr "Snowy Hydro Limited (SHL) - tai piko elektros generatorius, esantis Snowy Mountains, New South Wales, Australijoje. Nepaisant to, kad Snowy Hydro Limited turi daug įvairių generatorių visoje šalyje, ji geriausiai žinoma už žymų Australijos infrastruktūros gabalą - Sniego kalnų hidroelektrinių schemą."
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:9
 msgid ""
@@ -34,7 +36,7 @@ msgid ""
 " is used to generate electricity addressing peak demand in the national "
 "electricity market, while also diverting water to the drier inland areas of "
 "South Eastern Australia for irrigation and agriculture."
-msgstr ""
+msgstr "Sniego kalnų hirdoelektrinių schemai veikti leidžia sezoninis snygis Naujojo Pietų Velso alpių regione. Pavasarinio sniego vanduo naudojamas piko elektros generavimui nacionalinėse elektros rinkose, tuo pačiu vandenį nukreipiant į sausesnes Pietrytinės Australijos vietas drėkinimui ir žemdirbystei."
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:12
 msgid ""
@@ -42,15 +44,15 @@ msgid ""
 " cycle of the snow covered area, archive coverage areas for historical "
 "records, and provide coverage statistics to the hydrographic services team "
 "for water yield and storage forecasts."
-msgstr ""
+msgstr "Sniego dangos klasifikavimas žiemos mėnesių metu leidžia SHL stebėti sniegu padengtų plotų gyvavimo ciklą, archyvuoti padengimo istorinius įrašus, teikti padengimo statistiką hidrografijos paslaugos komandai vandens gavimo ir saugojimo prognozėms."
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:20
 msgid "Map 1.1 Snowy Water Catchment Map"
-msgstr ""
+msgstr "Žemėlapis 1.1 Sniego vandens baseino žemėlapis"
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:23
 msgid "Background"
-msgstr "Fonas"
+msgstr "Bendra informacija"
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:25
 msgid ""
@@ -62,11 +64,11 @@ msgid ""
 "particular sensor, the MODIS instrument was chosen due to its adequate "
 "spatial resolution and daily coverage of the project area (Map 1.1 Snowy "
 "Water Catchment)."
-msgstr ""
+msgstr "Kiekvienų metų žiemos mėnesiais (nuo birželio 1-os iki spalio 31-os) SHL gauna kiek galima daugiau vaizdų be debesų iš MODIS Terra (EOS AM) palydovo. Šie vaizdai pateikiami algoritmui, žinomam kaip Normalizuotas Sniego Skirtumo Indeksas (NDSI), kuris naudojamas aptinkant plotus su sniegu. Nors šis algoritmas nėra unikalus ar pririštas prie kokio nors konkretaus jutiklio, MODIS buvo pasirinktas dėl savo tinkamos erdvinės raiškos ir kasdieninio projekto ploto padengimo (Žemėlapis 1.1 Sniego vandens baseinai)."
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:29
 msgid "Aim"
-msgstr ""
+msgstr "Tikslas"
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:31
 msgid ""
@@ -74,7 +76,7 @@ msgid ""
 "QGIS processing toolbox. The required output is a vector polygon showing the"
 " snow covered extent within the Snowy Water Catchment, along with "
 "attribution describing the total area covered in square kilometres."
-msgstr ""
+msgstr "Šio projekto tikslas yra automatizuoti NDSI procesus kaip QGIS apdorojimo įrankinės modelį. Reikiama išvestis yra vektorinis poligonas, rodantis sniegu padengtą plotą Sniego vandens baseine, kartu su atributais, aprašančiais visą padengtą plotą kvadratiniais kilometrais."
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:35
 msgid "Method"
@@ -86,11 +88,11 @@ msgid ""
 "Normalised Difference Snow Index (NDSI)) and the subsequent steps required "
 "to extract snow cover in a vector format also lends itself nicely to a "
 "processing toolbox model."
-msgstr ""
+msgstr "Pats NDSI algoritmas yra gan paprastas (rodomas žemiau Formulėje 1.1 - Normalizuotas Sniego Skirtumo Indeksas (NDSI)), o tolimesni reikiami žingsniai ištraukia sniego padengimą vektoriniu formatu, kuris taip pat puikiai tinka apdorojimo įrankinės modeliui."
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:44
 msgid "Formula 1.1 - Normalised Difference Snow Index (NDSI)"
-msgstr ""
+msgstr "Formulė 1.1 - Normalizuotas Sniego Skirtumo Indeksas (NDSI)"
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:47
 msgid ""
@@ -104,19 +106,19 @@ msgid ""
 "characteristics in the Near Infrared part of the spectrum. This "
 "characteristic of the NDSI indicates the need to incorporate a water mask at"
 " some stage in the model."
-msgstr ""
+msgstr "NDSI algoritmas grąžina rezultatus tarp -1 ir 1, sniego ribinė reikšmė paprastai būna didesnė už 0,4. Žemiau pateikiamas NDSI išvesties pavyzdys (Žemėlapis 1.3 - NDSI išvestis), kartu su natūralių spalvų vaizdu (Žemėlapis 1.2 MODIS tikros spalvos) 2014 liepos 13. Kaip matome šiuose rezultatuose, NDSI išvestis labai gerai atskiria plotus padengtus sniegu nuo kitų dangos tipų ir debesų. Kaip ten bebūtų, jis gali neteisingai klasifikuoti didelius vandens telkinius kaip sniegą, kadangi vanduo turi panašias absorbavimo charakteristikas spektre artimam infraraudonajam. Ši NDSI charakteristika rodo poreikį įtraukti vandens šabloną kažkuriame modelio etape."
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:55
 msgid "Map 1.2 - MODIS true colour"
-msgstr ""
+msgstr "Žemėlapis 1.2 MODIS tikros spalvos"
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:62
 msgid "Map 1.3 - NDSI output"
-msgstr ""
+msgstr "Žemėlapis 1.3 - NDSI išvestis"
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:69
 msgid "Map 1.4 - Recoded \"Snow\" vs \"Non snow\""
-msgstr ""
+msgstr "Žemėlapis 1.4 - Perkoduotas „Sniegas“ ir „Ne sniegas“"
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:72
 msgid ""
@@ -126,7 +128,7 @@ msgid ""
 "grid depicting \"Snow\" and \"Non snow\" areas. To get that classification "
 "another GRASS module \"r.recode\" was used and produced the result shown "
 "above in Map 1.4 Recoded ‘Snow’ vs ‘Non Snow’."
-msgstr ""
+msgstr "NDSI išvestis kuriama su labai paprastos juostos žemėlapiu naudojant GRASS modulį „r.mapcalculator“. Gavus NDSI gardelę, pritaikomas NDSI slenkstis 0.4 ir taip gaunamas loginių langelių tinklas, vaizduojantis „Sniego“ ir „Ne sniego“ plotus. Norint gauti tokią klasifikacija, naudojamas kitas GRASS modulis „r.recodr“, kuris sukuria aukščiau pateikiamą žemėlapį 1.4 Perkoduotas „Sniegas“ ir „Ne sniegas“."
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:75
 msgid ""
@@ -136,19 +138,19 @@ msgid ""
 "below, Map - 1.6 Snow inside the SWC), then the large water bodies are "
 "masked out (shown below, Map 1.7 - Final snow covered area), and finally the"
 " area statistics for the snow covered area is generated."
-msgstr ""
+msgstr "Tada įrašytas tinklelis buvo konvertuotas į vektorinių poligonų duomenų rinkinį ir buvo ištraukti sniegu padengti plotai (rodomi žemiau, Žemėlapis 1.5 - Ištrauktas sniegas). Sniegu padengti plotai tada buvo apkarpyti pagal Sniego Vandens Baseiną (rodoma apačioje, Žemėlapis - 1.6 Sniegas SWC), tada buvo atfiltruoti dideli vandens telkiniai (rodoma žemiau, Žemėlapis 1.7 - Galutinis sniegu padengtas plotas), ir galų gale buvo paskaičiuota sniegu padengtų plotų statistika."
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:83
 msgid "Map 1.5 - Extracted Snow"
-msgstr ""
+msgstr "Žemėlapis 1.5 - Ištrauktas sniegas"
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:90
 msgid "Map 1.6 - Snow inside the SWC"
-msgstr ""
+msgstr "Žemėlapis 1.6 - Sniegas SWC"
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:97
 msgid "Map 1.7 - Final snow covered area"
-msgstr ""
+msgstr "Žemėlapis 1.7 - Galutinis sniegu padengtas plotas"
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:100
 msgid ""
@@ -157,17 +159,17 @@ msgid ""
 "area covered by the snow and the percentage of the catchment that is "
 "covered. The model in its entirety can be seen below in \"Image 1.1 - "
 "Normalised Difference Snow Index (NDSI) QGIS processing toolbox model\"."
-msgstr ""
+msgstr "Modelio išvestis yra vektorinis poligonas, rodantis sniegu padengtą plotą Sniego vandens baseino ribose. Poligono atributuose yra sniegu padengtas plotas ir baseino padengimo procentas. Pilnas modelis matomas žemiau „Piešinys 1.1 - Normalizuotas Sniego Skirtumo Indeksas (NDSI) QGIS apdorojimo įrankinės modelis“."
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:108
 msgid ""
 "Image 1.1 - Normalised Difference Snow Index (NDSI) QGIS processing toolbox "
 "model"
-msgstr ""
+msgstr "Piešinys 1.1 - Normalizuotas Sniego Skirtumo Indeksas (NDSI) QGIS apdorojimo įrankinės modelis"
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:112
 msgid "Results/Conclusion"
-msgstr ""
+msgstr "Rezultatai/Išvados"
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:114
 msgid ""
@@ -178,7 +180,7 @@ msgid ""
 "successfully removes subjective user error associated with previous methods "
 "used by SHL, while providing a repeatable and consistent classification "
 "tool. Some seasonal results can be viewed here."
-msgstr ""
+msgstr "QGIS apdorojimo įrankinė yra galingas būdas automatizuoti procesus, tokius kaip sniego klasifikavimas. Aukščiau vaizduojamas modelis sėkmingai automatizuoja sniego klasifikavimo procesą ir sukuria GIS duomenų aibę, kurią galima naudoti vaizdavimui ir kaip įvestį tolimesniems statistiniams taikymams. Jis sėkmingai pašalina subjektyvias naudotojo klaidas, susijusias su ankstesniais SHL naudotais metodais, ir tuo pačiu teikia pakartojamą ir pastovų klasifikavimo įrankį. Čia galima matyti kai kuriuos sezoninius rezultatus."
 
 #: ../../source/site/about/case_studies/australia_snowyhydro.rst:118
 msgid "Author"
@@ -192,4 +194,12 @@ msgid ""
 "While at Snowy Hydro Limited he has been able to provide spatial support to "
 "exciting projects such as the Cloud Seeding experiment, and day to day "
 "operations within the organisation."
+msgstr "Andrew Jeffrey yra Snowy Hydro Limited, Cooma NSW, Australia GIS analitikas. Jis baigė Wagga Wagga Charles Sturt Universiteto mokslų bakalaurą (Bsc), o 2004 Erdvinių informacinių sistemų magistrą. Snowy Hydro Limited jis teikia erdvinę paramą įspūdingiems projektams, tokiems kaip Debesų sėjimo eksperimentui ir kasdieniams darbams organizacijoje."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""

@@ -1,19 +1,20 @@
 # 
 # Translators:
-# roby2107 <crcastelli@tiscali.it>, 2019
+# Roberta Castelli <crcastelli@tiscali.it>, 2019
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-05 15:28+0200\n"
-"PO-Revision-Date: 2020-03-16 09:23+0000\n"
-"Last-Translator: Luana Valentini <valentiniluana@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:44+0000\n"
+"Last-Translator: Roberta Castelli <crcastelli@tiscali.it>, 2019\n"
 "Language-Team: Italian (http://www.transifex.com/qgis/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: it\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/china_hydro.rst:3
 msgid "Producing an arcHYDRO like output with QGIS"
@@ -29,7 +30,11 @@ msgid ""
 "minor in Environmental Science."
 msgstr "Lavoro per una compagnia che si occupa di pianificazione urbana in Cina. Spesso è difficile progettare interventi di protezione ambientale adatti perché i dati possono essere segreto di stato o addirittura non esistere. Molte volte ci è chiesto di progettare senza dati rilevati. Inoltre solitamente non abbiamo abbastanza tempo per uno studio appropriato. La mia formazione è in Pianificazione Urbana con basi di Scienze Ambientali. "
 
+msgid "Overview Context Map"
+msgstr ""
+
 #: ../../source/site/about/case_studies/china_hydro.rst:14
+#, python-format
 msgid ""
 "The task was plan a conservation park on the Chinese side of the Ili River "
 "which supplies 80% of the water to Lake Balkhash.  FOSS GIS application + "
@@ -39,6 +44,9 @@ msgid ""
 "experience I could not have done it without all three.  My company did not "
 "and would not pay to purchase GIS software to run the industry standard "
 "arcHYDRO."
+msgstr ""
+
+msgid "Stream Order With Distance"
 msgstr ""
 
 #: ../../source/site/about/case_studies/china_hydro.rst:22
@@ -56,6 +64,9 @@ msgid ""
 "the attribute tables."
 msgstr "Con alcuni tentativi, sono stato in grado di produrre con QGIS un output simile ad arcHYDRO. Sono partito da un DEM USGS Hydrosheds, poi convertito in una Spline Regolarizzata con Tensione utilizzando ka funzione GRASS all'interno di QGIS e il training di Helena Mitasova. La superficie RST è stata analizzata per trovare i bacini e i percorsi di flusso, e le risultanti topologie vettoriali sono state poi ripulite in QGIS per generare una rete idrologica e costruire delle tabelle di attributi."
 
+msgid "Curve Number Grid"
+msgstr ""
+
 #: ../../source/site/about/case_studies/china_hydro.rst:31
 msgid ""
 "This network was ranked by r.stream extension in GRASS to build Hortons and "
@@ -67,6 +78,9 @@ msgid ""
 "invaluable."
 msgstr "Questa rete è stata classificata dall'estensione r.stream in GRASS per creare ordinamenti del reticolo secondo Horton e Hacks. È stata poi generate una superficie di distanza dallo scarico e analizzata da statistiche zonali per trovare il punto più lontano. Successivamente r.drain in GRASS per tracciare il tempo di concentrazione. In ultimo, è stato utilizzato v.net in GRASS per costruire una rete di punti di scorrimento, percorsi di flusso, percorsi di Carbonio Organico Totale (TOC) e HMDP per ogni bacino idrografico. In questo processo, le interrogazioni spaziali in QGIS sono state fondamentali."
 
+msgid "Flow Key"
+msgstr ""
+
 #: ../../source/site/about/case_studies/china_hydro.rst:38
 msgid ""
 "After the basic hydrologic network was finished I used UN FAO soils database"
@@ -77,6 +91,9 @@ msgid ""
 "Manning's n-value grid for overland flow.  Finally I wrote a lookup table in"
 " r.mapcalc and merged the soil and landcover grids into and NRCS TR-55 curve"
 " numbers following the arcHYDRO methodology."
+msgstr ""
+
+msgid "Flow rates"
 msgstr ""
 
 #: ../../source/site/about/case_studies/china_hydro.rst:45
@@ -118,6 +135,14 @@ msgid ""
 "at Tongji University and Autodesk University.  He is interested in GIS-based"
 " Hydrologic & Hydraulic modelling, Landscape Ecology modelling, Ecosystem "
 "Valuation, Transportation Modelling and GIS-Based Design Visualization."
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""
 
 #~ msgid ""

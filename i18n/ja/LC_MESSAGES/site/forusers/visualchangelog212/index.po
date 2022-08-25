@@ -9,14 +9,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-08 11:00+0200\n"
-"PO-Revision-Date: 2020-08-06 07:07+0000\n"
-"Last-Translator: TERAMOTO Ikuhiro <yellow@affrc.go.jp>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-10-30 12:06+0000\n"
+"Last-Translator: miyake mitsuha <miyake@mierune.co.jp>, 2018\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.3.4\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -27,6 +27,10 @@ msgstr "QGIS 2.12の変更履歴"
 #: ../../source/site/forusers/visualchangelog212/index.rst:6
 msgid "|image1|"
 msgstr "|image1|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:999
+msgid "image1"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:9
 msgid ""
@@ -180,8 +184,8 @@ msgstr "BRONZE Sponsor: `GFI - Gesellschaft fr Informations technologie mbH, Ger
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:81
 msgid ""
-"BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany <http://www"
-".gkg-kassel.de/>`__"
+"BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "
+"<http://www.gkg-kassel.de/>`__"
 msgstr "ブロンズスポンサー：GKGカッセル、ドイツ（Dr.Ing。Claas Leiner）、ドイツ<http://www.gkg-kassel.de/> `__"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:83
@@ -277,6 +281,10 @@ msgstr "**この機能の開発者:** Matthias Kuhn at `OPENGIS.ch <http://www.o
 msgid "|image11|"
 msgstr "|image11|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1009
+msgid "image11"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:132
 msgid "Feature: Ongoing improvements to code quality"
 msgstr "機能：コード品質の継続的改善"
@@ -297,6 +305,10 @@ msgstr "アドレスサニタイザライブラリの使用により、何百も
 #: ../../source/site/forusers/visualchangelog212/index.rst:144
 msgid "|image12|"
 msgstr "|image12|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1010
+msgid "image12"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:147
 msgid "Feature: Advanced settings editor"
@@ -322,6 +334,10 @@ msgstr "**この機能の開発者:** Matthias Kuhn at `OpenGIS <http://www.open
 #: ../../source/site/forusers/visualchangelog212/index.rst:157
 msgid "|image13|"
 msgstr "|image13|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1011
+msgid "image13"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:160
 msgid "Feature: Mutually exclusive layer tree groups"
@@ -355,6 +371,10 @@ msgstr "**この機能は以下によって資金提供されました：**ト�
 msgid "|image14|"
 msgstr "|image14|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1012
+msgid "image14"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:173
 msgid "Feature: Filtering for field values in expression widget"
 msgstr "機能：式ウィジェット内のフィールド値のフィルタリング"
@@ -372,6 +392,10 @@ msgstr "**この機能は、によって開発されました：** Salvatore Lar
 #: ../../source/site/forusers/visualchangelog212/index.rst:180
 msgid "|image15|"
 msgstr "|image15|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1013
+msgid "image15"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:183
 msgid "Feature: User Interface Theme support"
@@ -405,6 +429,10 @@ msgstr "**この機能は、以下によって開発されました：** `Nathan
 #: ../../source/site/forusers/visualchangelog212/index.rst:197
 msgid "|image16|"
 msgstr "|image16|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1014
+msgid "image16"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:200
 msgid "Feature: New expression functions in 2.12"
@@ -491,6 +519,10 @@ msgstr "さらに、表現機能の文脈ヘルプは、読みやすくするた
 msgid "|image17|"
 msgstr "|image17|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1015
+msgid "image17"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:244
 msgid "Feature: Variables in expressions"
 msgstr "機能: 式の中で使用する変数"
@@ -556,6 +588,10 @@ msgstr "**This feature was developed by:** `Nyall Dawson <http://nyalldawson.net
 msgid "|image18|"
 msgstr "|image18|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1016
+msgid "image18"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:272
 msgid "Analysis tools"
 msgstr "解析ツール"
@@ -613,6 +649,10 @@ msgstr "** この機能は以下の方の資金提供で開発されました:**
 msgid "|image2|"
 msgstr "|image2|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1000
+msgid "image2"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:298
 msgid "Feature: Geometry Checker and Geometry Snapper plugins"
 msgstr "機能: Geometry CheckerプラグインとGeometry Snapperプラグイン"
@@ -651,6 +691,10 @@ msgstr "**この機能は以下によって資金提供されました：** `Sol
 #: ../../source/site/forusers/visualchangelog212/index.rst:319
 msgid "|image3|"
 msgstr "|image3|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1001
+msgid "image3"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:322
 msgid "Application and Project Options"
@@ -783,6 +827,10 @@ msgstr "**この機能は次の方の資金提供で開発されました:** `Bo
 msgid "|image4|"
 msgstr "|image4|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1002
+msgid "image4"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:387
 msgid "Browser"
 msgstr "ブラウザ"
@@ -808,6 +856,10 @@ msgstr "** 次の方がテーブルをコピーしました:** Jürgen Fischer a
 #: ../../source/site/forusers/visualchangelog212/index.rst:401
 msgid "|image5|"
 msgstr "|image5|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1003
+msgid "image5"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:404
 msgid "Data Providers"
@@ -838,6 +890,10 @@ msgstr "** 複合キーは次の方が開発しました:** Jürgen Fischer at `
 #: ../../source/site/forusers/visualchangelog212/index.rst:416
 msgid "|image6|"
 msgstr "|image6|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1004
+msgid "image6"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:419
 msgid "Data management"
@@ -877,6 +933,10 @@ msgstr "新しいクエリウィンドウがタブとして作成され、ダイ
 msgid "|image7|"
 msgstr "|image7|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1005
+msgid "image7"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:438
 msgid "Feature: Conditional formatting for attribute table cells"
 msgstr "機能：属性テーブルセルの条件付き書式設定"
@@ -895,6 +955,10 @@ msgstr "これは、QGISのアトリビュートテーブルレンダリング�
 #: ../../source/site/forusers/visualchangelog212/index.rst:451
 msgid "|image8|"
 msgstr "|image8|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1006
+msgid "image8"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:454
 msgid "Feature: Support for relative paths in widgets"
@@ -931,6 +995,10 @@ msgstr "** この機能は次の方の資金提供で開発されました:** `A
 #: ../../source/site/forusers/visualchangelog212/index.rst:471
 msgid "|image9|"
 msgstr "|image9|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1007
+msgid "image9"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:474
 msgid "Digitising"
@@ -986,6 +1054,10 @@ msgstr "** この機能は次の方が開発しました:** Marco Hugentobler at
 msgid "|image10|"
 msgstr "|image10|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1008
+msgid "image10"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:504
 msgid "Labelling"
 msgstr "ラベリング"
@@ -1014,6 +1086,10 @@ msgstr "詳細は `こちらの記述を <http://nyalldawson.net/2015/07/recent-
 msgid "|image19|"
 msgstr "|image19|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1017
+msgid "image19"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:523
 msgid "Feature: Draw only labels which fit inside polygons"
 msgstr "機能：ポリゴンの内側に収まるラベルのみを描く"
@@ -1027,6 +1103,10 @@ msgstr "ポリゴンのレイヤーにオプションが追加され、ポリゴ
 #: ../../source/site/forusers/visualchangelog212/index.rst:530
 msgid "|image20|"
 msgstr "|image20|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1018
+msgid "image20"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:533
 msgid "Feature: Control priority of labeling obstacles"
@@ -1045,6 +1125,10 @@ msgstr "2.12では、障害のラベル付けの優先順位を指定できる�
 #: ../../source/site/forusers/visualchangelog212/index.rst:544
 msgid "|image21|"
 msgstr "|image21|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1019
+msgid "image21"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:547
 msgid "Feature: New options to control how polygon layers act as obstacles"
@@ -1065,6 +1149,10 @@ msgstr "ポリゴンレイヤーの地物が重複しないようにラベルを
 #: ../../source/site/forusers/visualchangelog212/index.rst:565
 msgid "|image22|"
 msgstr "|image22|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1020
+msgid "image22"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:568
 msgid "Feature: Data defined control over label priority"
@@ -1088,6 +1176,10 @@ msgstr "詳細は、この記事<http://nyalldawson.net/2015/07/recent-labelling
 #: ../../source/site/forusers/visualchangelog212/index.rst:583
 msgid "|image23|"
 msgstr "|image23|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1021
+msgid "image23"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:586
 msgid "Feature: Option for obstacle-only layers"
@@ -1123,6 +1215,10 @@ msgstr "ラベル設定の「レンダリング」タブで、「ラベルが機
 msgid "|image24|"
 msgstr "|image24|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1022
+msgid "image24"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:615
 msgid "Feature: Rule-based labeling"
 msgstr "機能：ルールベースのラベリング"
@@ -1146,6 +1242,10 @@ msgstr "詳細は `blogpost <http://www.lutraconsulting.co.uk/blog/2015/10/25/ru
 #: ../../source/site/forusers/visualchangelog212/index.rst:632
 msgid "|image25|"
 msgstr "|image25|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1023
+msgid "image25"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:635
 msgid "Map Composer"
@@ -1173,6 +1273,10 @@ msgstr "ページ名は、シンボル名やラベル式内でも使用でき、
 msgid "|image26|"
 msgstr "|image26|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1024
+msgid "image26"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:653
 msgid "Feature: Custom format for grid annotations"
 msgstr "機能：グリッドアノテーションのカスタムフォーマット"
@@ -1187,6 +1291,10 @@ msgstr "Composerのマップグリッドアノテーションは、エクスプ�
 #: ../../source/site/forusers/visualchangelog212/index.rst:661
 msgid "|image27|"
 msgstr "|image27|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1025
+msgid "image27"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:664
 msgid ""
@@ -1215,6 +1323,10 @@ msgstr "**この機能は以下によって資金提供されました：** `Cit
 msgid "|image28|"
 msgstr "|image28|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1026
+msgid "image28"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:680
 msgid "Feature: Advanced customisation of cell background color"
 msgstr "機能：セルの背景色の高度なカスタマイズ"
@@ -1239,6 +1351,10 @@ msgstr "** この機能は以下の方の資金提供で開発されました:**
 #: ../../source/site/forusers/visualchangelog212/index.rst:690
 msgid "|image29|"
 msgstr "|image29|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1027
+msgid "image29"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:693
 msgid ""
@@ -1284,6 +1400,10 @@ msgstr "**スポンサー:** `NIWA <https://www.niwa.co.nz/>`__"
 msgid "|image30|"
 msgstr "|image30|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1028
+msgid "image30"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:719
 msgid "Feature: Force vector layers to render as a raster images"
 msgstr "機能：ベクターレイヤーをラスター画像としてレンダリングする"
@@ -1304,6 +1424,10 @@ msgstr "レイヤープロパティの下に新しいオプションが追加さ
 #: ../../source/site/forusers/visualchangelog212/index.rst:733
 msgid "|image31|"
 msgstr "|image31|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1029
+msgid "image31"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:736
 msgid "Feature: Data defined control over map layers and style presets"
@@ -1330,6 +1454,10 @@ msgstr "マップレイヤーのこのコントロールを使用すると、マ
 #: ../../source/site/forusers/visualchangelog212/index.rst:754
 msgid "|image32|"
 msgstr "|image32|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1030
+msgid "image32"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:757
 msgid "Feature: Option to hide pages from view/export"
@@ -1387,9 +1515,10 @@ msgstr "GRASS 6とGRASS 7の両方のユーザーにとって、GRASSとQGISの�
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:791
 msgid ""
-"See also `QGIS GRASS Plugin Upgrade project page <http://www.gissula.eu"
-"/qgis-grass-plugin-crowdfunding/>`__ and `progress report "
-"<http://www.gissula.eu/qgis-grass-plugin-crowdfunding/progress.html>`__"
+"See also `QGIS GRASS Plugin Upgrade project page "
+"<http://www.gissula.eu/qgis-grass-plugin-crowdfunding/>`__ and `progress "
+"report <http://www.gissula.eu/qgis-grass-plugin-"
+"crowdfunding/progress.html>`__"
 msgstr "`QGIS GRASS Plugin Upgradeプロジェクトページ<http://www.gissula.eu/qgis-grass-plugin-crowdfunding/>` __と `progress report <http://www.gissula.eu/qgis-grass- plugin-crowdfunding / progress.html> `__"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:793
@@ -1406,6 +1535,10 @@ msgstr "**この機能は以下によって資金提供されました：**群�
 #: ../../source/site/forusers/visualchangelog212/index.rst:797
 msgid "|image33|"
 msgstr "|image33|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1031
+msgid "image33"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:800
 msgid "Programmability"
@@ -1482,6 +1615,10 @@ msgstr "Pythonistasは喜んでいます。コンソールに追加された新�
 #: ../../source/site/forusers/visualchangelog212/index.rst:856
 msgid "|image34|"
 msgstr "|image34|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1032
+msgid "image34"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:859
 msgid "Feature: New classes for PyQGIS programs"
@@ -1596,8 +1733,8 @@ msgstr "``LAYERS=yourdxfexportlayers``"
 #: ../../source/site/forusers/visualchangelog212/index.rst:912
 msgid ""
 "See also `QGIS as OGC data server "
-"<http://docs.qgis.org/2.18/en/docs/user_manual/working_with_ogc/ogc_server_support.html"
-"#dxf-export>`__ for all the available options."
+"<http://docs.qgis.org/2.18/en/docs/user_manual/working_with_ogc/ogc_server_support.html#dxf-"
+"export>`__ for all the available options."
 msgstr "すべての利用可能なオプションは `QGIS as OGC data server <http://docs.qgis.org/2.18/en/docs/user_manual/working_with_ogc/ogc_server_support.html#dxf-export>`__  を参照して下さい."
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:916
@@ -1617,6 +1754,10 @@ msgstr "**この機能は次の人が開発しました:** Marco Hugentobler `So
 msgid "|image35|"
 msgstr "|image35|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1033
+msgid "image35"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:927
 msgid "Symbology"
 msgstr "シンボロジー"
@@ -1635,6 +1776,10 @@ msgstr "スタイルマネージャーでは、選択したスタイルサムネ
 msgid "|image36|"
 msgstr "|image36|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1034
+msgid "image36"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:940
 msgid "Feature: New option for limiting size in mm when using map unit sizes"
 msgstr "機能：地図単位のサイズを使用する際のサイズをmm単位で制限する新しいオプション"
@@ -1649,6 +1794,10 @@ msgstr "以前は、マップユニットサイズのスケール範囲を制限
 #: ../../source/site/forusers/visualchangelog212/index.rst:946
 msgid "|image37|"
 msgstr "|image37|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1035
+msgid "image37"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:949
 msgid "Feature: Improvements to displacement renderer"
@@ -1672,6 +1821,10 @@ msgstr "同心円配置モード（リングのみよりもコンパクトな表
 msgid "|image38|"
 msgstr "|image38|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1036
+msgid "image38"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:961
 msgid "Feature: All color ramps can now be edited"
 msgstr "機能：すべてのカラーランプを編集できるようになりました"
@@ -1686,6 +1839,10 @@ msgstr "QGIS 2.12では、各カラーランプの横に「編集」ボタンが
 #: ../../source/site/forusers/visualchangelog212/index.rst:967
 msgid "|image39|"
 msgstr "|image39|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1037
+msgid "image39"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:970
 msgid "Feature: Improved handling of SVG marker outlines"
@@ -1716,6 +1873,10 @@ msgstr "これらの問題はQGIS 2.12で修正されていますが、結果と
 msgid "|image40|"
 msgstr "|image40|"
 
+#: ../../source/site/forusers/visualchangelog212/index.rst:1038
+msgid "image40"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog212/index.rst:987
 msgid "Feature: Add pixels as option for all symbology size unit choices"
 msgstr "機能：すべてのシンボルサイズユニットの選択肢のオプションとしてピクセルを追加する"
@@ -1731,6 +1892,22 @@ msgstr "すべてのサイズ入力ウィジェットには、「mm」と「マ�
 #: ../../source/site/forusers/visualchangelog212/index.rst:996
 msgid "|image41|"
 msgstr "|image41|"
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:1039
+msgid "image41"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog212/index.rst:998
+msgid "image0"
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "**GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"
 #~ msgstr ""

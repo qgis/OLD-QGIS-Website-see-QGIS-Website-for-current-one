@@ -5,15 +5,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-19 11:20+0200\n"
-"PO-Revision-Date: 2017-09-20 17:28+0000\n"
-"Last-Translator: Michał Kułach <michal.kulach@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-10-19 11:14+0000\n"
+"Last-Translator: Michał Kułach <michal.kulach@gmail.com>, 2015-2016\n"
 "Language-Team: Polish (http://www.transifex.com/qgis/qgis-website/language/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: pl\n"
 "Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+
+#: ../../source/site/getinvolved/governance/codeofconduct/codeofconduct.rst:4
+msgid "Code of Conduct"
+msgstr "Kodeks postępowania"
 
 #: ../../source/site/getinvolved/governance/codeofconduct/codeofconduct.rst:6
 msgid ""
@@ -159,9 +164,13 @@ msgstr "Oryginalny tekst pochodzi z projektu Speak Up! i kodeksu postępowania D
 msgid "If you have questions, feel free to contact us: psc@qgis.org"
 msgstr "W razie pytań i wątpliwości prosimy o kontakt: psc@qgis.org"
 
-#: ../../source/site/getinvolved/governance/codeofconduct/codeofconduct.rst:4
-msgid "Code of Conduct"
-msgstr "Kodeks postępowania"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "QGIS Code of Conduct"
 #~ msgstr ""

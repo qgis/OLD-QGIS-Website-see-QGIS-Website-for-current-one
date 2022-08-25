@@ -4,25 +4,26 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # 
 # Translators:
-# YoViajo, 2016
 # Darío Hereñú, 2016
-# Rodrigo Armesto <rodri_Armesto@hotmail.com>, 2020
+# Rodrigo Armesto Baztán <rodri_Armesto@hotmail.com>, 2020
+# Abigaíl García, 2022
+# Eric Armijo, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2016-06-21 12:24+0000\n"
-"Last-Translator: Rodrigo Armesto <rodri_Armesto@hotmail.com>, 2020\n"
+"Last-Translator: Eric Armijo, 2022\n"
 "Language-Team: Spanish (https://www.transifex.com/qgis/teams/6144/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/qgis_at_financial_times.rst:3
 msgid "Use of QGIS at the Financial Times Graphics Team"
@@ -91,6 +92,9 @@ msgstr ""
 "que incluye el uso de d3 para ayudar a crear un vocabulario gráfico más "
 "amplio y reducir el tiempo que lleva crear las imágenes."
 
+msgid "Migrant flows. Western Balkans route."
+msgstr ""
+
 #: ../../source/site/about/case_studies/qgis_at_financial_times.rst:32
 msgid "*Example: Migrant flows. Western Balkans route.*"
 msgstr "*Ejemplo: Flujos de migrantes. Ruto de los Balcanes Occidentales.*"
@@ -135,6 +139,11 @@ msgstr ""
 "forma en que producimos mapas, y junto con otras herramientas como Blender "
 "me ha ayudado a ser más creativo con la forma en que abordamos los mapas."
 
+msgid ""
+"Dora's journey from Nigeria to Sicily - one of thousands by trafficked women"
+" each year"
+msgstr ""
+
 #: ../../source/site/about/case_studies/qgis_at_financial_times.rst:54
 msgid ""
 "*Example: Animation of Dora's journey from Nigeria to Sicily - one of "
@@ -152,6 +161,9 @@ msgstr ""
 "**QGIS**: ¿Puedes contarnos un poco sobre ti? ¿Cuál es tu formación "
 "académica? ¿Qué hiciste antes de unirte al equipo de visualización de datos "
 "en FT?"
+
+msgid "Gotthard rail and road tunnel"
+msgstr ""
 
 #: ../../source/site/about/case_studies/qgis_at_financial_times.rst:65
 msgid "*Example: Gotthard rail and road tunnel in the Swiss Alps.*"
@@ -233,6 +245,9 @@ msgstr ""
 "Aunque algunos miembros de nuestro equipo también usan Map Publisher, ya que"
 " se sienten más cómodos alojándose en Adobe Illustrator. Yo diría que el 80%"
 " de nuestros mapas ahora se producen en QGIS."
+
+msgid "Public Lands in the US"
+msgstr ""
 
 #: ../../source/site/about/case_studies/qgis_at_financial_times.rst:99
 msgid "*Example: Public Lands in the US.*"
@@ -347,6 +362,9 @@ msgstr ""
 "**Steven**: QGIS todo el tiempo para mi, pero como mencioné arriba algunos "
 "de mis colegas usan también Map Publisher."
 
+msgid "Strikes on Syria in February 2016"
+msgstr ""
+
 #: ../../source/site/about/case_studies/qgis_at_financial_times.rst:136
 msgid "*Example: Strikes on Syria in February 2016.*"
 msgstr "*Ejemplo: Ataques en Siria en Febrero 2016.*"
@@ -423,6 +441,9 @@ msgstr ""
 "que me gustaría ver o poder hacer, pero no lo veo como una debilidad, solo "
 "una característica faltante."
 
+msgid "Urban Attraction and Migration within China"
+msgstr ""
+
 #: ../../source/site/about/case_studies/qgis_at_financial_times.rst:164
 msgid "*Example: Urban Attraction and Migration within China.*"
 msgstr "*Ejemplo: Atracción y Migración Urbana dentro de China.*"
@@ -445,6 +466,9 @@ msgstr ""
 " esto es absolutamente esencial cuando los plazos son ajustados. Lo cual, "
 "cuando se trabaja para una organización de noticias, suele ser el 90% del "
 "tiempo."
+
+msgid "Urban Attraction and Migration within China, Details"
+msgstr ""
 
 #: ../../source/site/about/case_studies/qgis_at_financial_times.rst:178
 msgid "*Example: Urban Attraction and Migration within China. Detail views.*"
@@ -522,6 +546,10 @@ msgstr ""
 "ningún presupuesto, por lo que utilizo otras herramientas para solucionar "
 "esto."
 
+msgid ""
+"Percentage of households with a broadband internet subscription in the US."
+msgstr ""
+
 #: ../../source/site/about/case_studies/qgis_at_financial_times.rst:207
 msgid ""
 "*Example: Percentage of households with a broadband internet subscription in"
@@ -570,6 +598,9 @@ msgstr ""
 "**QGIS**: Gracias por su tiempo y el trabajo que hace para promover y "
 "documentar los flujos de trabajo en QGIS!"
 
+msgid "Portrait Steve Bernard"
+msgstr ""
+
 #: ../../source/site/about/case_studies/qgis_at_financial_times.rst:228
 msgid ""
 "*Portrait of Steve Bernard. Interactive Design Editor at Financial Times.*"
@@ -589,3 +620,11 @@ msgstr ""
 #: ../../source/site/about/case_studies/qgis_at_financial_times.rst:233
 msgid "Interview questions by A. Neumann and T. Sutton. April 2016."
 msgstr "Preguntas de entrevista por A. Neumann y T. Sutton. Abril 2016."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"

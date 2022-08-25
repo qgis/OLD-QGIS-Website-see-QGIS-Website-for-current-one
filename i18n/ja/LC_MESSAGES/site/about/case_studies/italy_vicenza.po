@@ -6,15 +6,36 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2019-10-25 07:10+0000\n"
-"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2019\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:3
+msgid ""
+"Using QGIS for urban planning in the municipality of Montecchio Maggiore, "
+"Vicenza, Italy"
+msgstr "Montecchio Maggiore、ヴィチェンツァ、イタリア、自治体での都市計画にQGISを使用する"
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:5
+msgid ""
+"Montecchio Maggiore is a small town in the middle west of Vicenza (about "
+"24.000 population). And as many other italian municipality it manages the "
+"town planning; in particular the urban planning and what we call “recovery "
+"plan” aka PDR --- Piani Di Recupero. This urbanistic tool is dedicated to "
+"the historical area in the center of the town and it requires a specific "
+"study: building state of conservation, intended use, particular historical "
+"notice via survey and restitution to produce planimetric and prospectus "
+"graphics. For this purpose it has used QGIS in addition to "
+"Postgresql/Postgis database, PHP code and Libreoffice suite, QCAD "
+"(LibreCAD)."
+msgstr "モンテッキオマッジョーレは、ヴィチェンツァ（約24.000人口）の中央西部の小さな町です。それは都市計画を管理し、他の多くのイタリアの自治体。特に、都市計画と私たちはPianiディRecupero ---通称PDR「復興計画」と呼びます。このurbanisticツールは、町の中心部にある歴史的なエリアに専用されているし、それが特定の研究が必要です。調査と面積測定および目論見書グラフィックスを生成するために、反発を経て保全の状態、意図された使用、特定の歴史的な通知を構築します。この目的のためには、PostgreSQL / PostGISのデータベース、PHPコードとLibreOfficeのスイート、QCadは（LibreCAD）に加えて、QGISを用いました。"
 
 #: ../../source/site/about/case_studies/italy_vicenza.rst:8
 msgid "The task"
@@ -69,6 +90,25 @@ msgstr "意図された使用（プロジェクト）"
 msgid "Type of intervention admitted"
 msgstr "介入のタイプ"
 
+#: ../../source/site/about/case_studies/italy_vicenza.rst:31
+msgid ""
+"For every graphic thematic maps were produced using the attribute and data "
+"retrieve during the survey (for the present state) and data modified during "
+"the study and design fase."
+msgstr "すべてのグラフィック主題図の属性を使用して生成されたデータは、研究と設計FASE中に変更（現在の状態のための）調査とデータの間に取得します。"
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:33
+msgid ""
+"Thus a photo was linked to every building facilitating the design and "
+"analisys in the gis project (using the “action” feature). The SQL tools "
+"(pgquery, postgis manager, dbmanager et al.) allowed to obtain very "
+"sophisticated query immediately viewable in the map canvas such as: volume "
+"calculation split by building intended use, standards area calculation in "
+"percentage of the total planning area and other minor queries. All useful "
+"items for the design and planning study otherwise not possible without a "
+"very strength tool like gis (and QGIS in particular)."
+msgstr "したがって、写真は（「アクション」機能を使用して）、このGISプロジェクトにおける設計とanalisysを促進してすべての建物にリンクされました。SQLツール（pgquery、PostGISマネージャー、DBManager等）により、以下のような地図キャンバスですぐに閲覧可能な非常に洗練されたクエリを得ることが許されました：建物の使用目的で分割された体積計算、全計画面積の割合での標準面積計算、そして他の小さなクエリ。GIS（特にQGIS）のような非常に強力なツールのない場合は不可能な、設計と計画研究のためのすべての便利なアイテム。"
+
 #: ../../source/site/about/case_studies/italy_vicenza.rst:40
 msgid "QGIS project with building data viewing"
 msgstr "建物のデータを表示するQGISプロジェクト"
@@ -89,6 +129,23 @@ msgstr "最終的なグラフィックレイアウト用のQGISプリントコ�
 msgid "Conclusion"
 msgstr "結論"
 
+#: ../../source/site/about/case_studies/italy_vicenza.rst:54
+msgid ""
+"The strength of QGIS is the very user friendly interface coupled with the "
+"several tools it offers. The connection with vary data formats (shape files,"
+" spatialite db, postgresql/postgis db,...) facilitates and increases the "
+"interoperability between different worlds. And thus the freedom offered by "
+"the free software (QGIS, PHP, Libreoffice, QCAD) stimulates and open new "
+"horizons."
+msgstr "QGISの強さは、それが提供するいくつかのツールと相まって非常にユーザーフレンドリーなインターフェイスです。関連データ形式（シェープファイル、spatialite DBはPostgreSQL / PostGISのデシベル、...）を変化させるには、異なる世界の間の相互運用性を容易に増加させます。したがって、フリーソフトウェア（QGIS、PHP、LibreOfficeの、QCadは）によって提供される自由は刺激し、新しい地平を開きます。"
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:56
+msgid ""
+"And last but not least: we worked on different platform (Windows 7 64 bit, "
+"Windows xp 32 bit, Debian server and Debian client) but we never encountered"
+" insurmountable problems."
+msgstr "そして、言い残していましたが：私たちは、異なるプラットフォーム上（Windows 7の64ビット、Windows XPの32ビット、DebianのサーバとDebianのクライアント）で作業していましたが、乗り越えられない問題に遭遇したことはありません。"
+
 #: ../../source/site/about/case_studies/italy_vicenza.rst:59
 msgid "Author"
 msgstr "制作者"
@@ -107,61 +164,13 @@ msgid ""
 "was a member of the GFOSS.it board from 2010 to 2012."
 msgstr "この記事はフラビオ・リゴロンによって2012年5月に寄稿されました。氏はヴィチェンツァ（イタリア）に在住でSITマネージャーとしてモンテッキオマッジョーレの自治体で働いています。氏は、無料のプラットフォーム（QGISはPostgreSQL / PostGISの、Spatialite）に独自のほとんどすべてのGISデータを移行しました。氏は2007年以降GFOSS.it（L'あたりAssociazione ItalianaのInformazione Geograficaリベラ）のメンバーであり、2010年から2012年までGFOSS.itボードのメンバーでした。"
 
-#: ../../source/site/about/case_studies/italy_vicenza.rst:3
-msgid ""
-"Using QGIS for urban planning in the municipality of Montecchio Maggiore, "
-"Vicenza, Italy"
-msgstr "Montecchio Maggiore、ヴィチェンツァ、イタリア、自治体での都市計画にQGISを使用する"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/about/case_studies/italy_vicenza.rst:5
-msgid ""
-"Montecchio Maggiore is a small town in the middle west of Vicenza (about "
-"24.000 population). And as many other italian municipality it manages the "
-"town planning; in particular the urban planning and what we call “recovery "
-"plan” aka PDR --- Piani Di Recupero. This urbanistic tool is dedicated to "
-"the historical area in the center of the town and it requires a specific "
-"study: building state of conservation, intended use, particular historical "
-"notice via survey and restitution to produce planimetric and prospectus "
-"graphics. For this purpose it has used QGIS in addition to "
-"Postgresql/Postgis database, PHP code and Libreoffice suite, QCAD "
-"(LibreCAD)."
-msgstr "モンテッキオマッジョーレは、ヴィチェンツァ（約24.000人口）の中央西部の小さな町です。それは都市計画を管理し、他の多くのイタリアの自治体。特に、都市計画と私たちはPianiディRecupero ---通称PDR「復興計画」と呼びます。このurbanisticツールは、町の中心部にある歴史的なエリアに専用されているし、それが特定の研究が必要です。調査と面積測定および目論見書グラフィックスを生成するために、反発を経て保全の状態、意図された使用、特定の歴史的な通知を構築します。この目的のためには、PostgreSQL / PostGISのデータベース、PHPコードとLibreOfficeのスイート、QCadは（LibreCAD）に加えて、QGISを用いました。"
-
-#: ../../source/site/about/case_studies/italy_vicenza.rst:31
-msgid ""
-"For every graphic thematic maps were produced using the attribute and data "
-"retrieve during the survey (for the present state) and data modified during "
-"the study and design fase."
-msgstr "すべてのグラフィック主題図の属性を使用して生成されたデータは、研究と設計FASE中に変更（現在の状態のための）調査とデータの間に取得します。"
-
-#: ../../source/site/about/case_studies/italy_vicenza.rst:33
-msgid ""
-"Thus a photo was linked to every building facilitating the design and "
-"analisys in the gis project (using the “action” feature). The SQL tools "
-"(pgquery, postgis manager, dbmanager et al.) allowed to obtain very "
-"sophisticated query immediately viewable in the map canvas such as: volume "
-"calculation split by building intended use, standards area calculation in "
-"percentage of the total planning area and other minor queries. All useful "
-"items for the design and planning study otherwise not possible without a "
-"very strength tool like gis (and QGIS in particular)."
-msgstr "したがって、写真は（「アクション」機能を使用して）、このGISプロジェクトにおける設計とanalisysを促進してすべての建物にリンクされました。SQLツール（pgquery、PostGISマネージャー、DBManager等）により、以下のような地図キャンバスですぐに閲覧可能な非常に洗練されたクエリを得ることが許されました：建物の使用目的で分割された体積計算、全計画面積の割合での標準面積計算、そして他の小さなクエリ。GIS（特にQGIS）のような非常に強力なツールのない場合は不可能な、設計と計画研究のためのすべての便利なアイテム。"
-
-#: ../../source/site/about/case_studies/italy_vicenza.rst:54
-msgid ""
-"The strength of QGIS is the very user friendly interface coupled with the "
-"several tools it offers. The connection with vary data formats (shape files,"
-" spatialite db, postgresql/postgis db,...) facilitates and increases the "
-"interoperability between different worlds. And thus the freedom offered by "
-"the free software (QGIS, PHP, Libreoffice, QCAD) stimulates and open new "
-"horizons."
-msgstr "QGISの強さは、それが提供するいくつかのツールと相まって非常にユーザーフレンドリーなインターフェイスです。関連データ形式（シェープファイル、spatialite DBはPostgreSQL / PostGISのデシベル、...）を変化させるには、異なる世界の間の相互運用性を容易に増加させます。したがって、フリーソフトウェア（QGIS、PHP、LibreOfficeの、QCadは）によって提供される自由は刺激し、新しい地平を開きます。"
-
-#: ../../source/site/about/case_studies/italy_vicenza.rst:56
-msgid ""
-"And last but not least: we worked on different platform (Windows 7 64 bit, "
-"Windows xp 32 bit, Debian server and Debian client) but we never encountered"
-" insurmountable problems."
-msgstr "そして、言い残していましたが：私たちは、異なるプラットフォーム上（Windows 7の64ビット、Windows XPの32ビット、DebianのサーバとDebianのクライアント）で作業していましたが、乗り越えられない問題に遭遇したことはありません。"
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "Using QGIS for urban planning in the municipality of Montecchio Maggiore, "

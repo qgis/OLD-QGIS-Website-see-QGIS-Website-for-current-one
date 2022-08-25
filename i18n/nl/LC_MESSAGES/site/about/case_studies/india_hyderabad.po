@@ -5,19 +5,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 19:58+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: DiGro, 2015\n"
 "Language-Team: Dutch (http://www.transifex.com/qgis/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../source/site/about/case_studies/india_hyderabad.rst:3
 msgid "QGIS Trainings at NIRD Jaipur Centre, India"
 msgstr "Training QGIS aan het NIRD Jaipur Centre, India"
+
+msgid "Study area in Portugal"
+msgstr "Studiegebied in Portugal"
 
 #: ../../source/site/about/case_studies/india_hyderabad.rst:11
 msgid ""
@@ -87,6 +91,7 @@ msgid ""
 msgstr "De toepassingen van software gedurende de training werden over het algemeen geconcentreerd waterbergingen en  Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS). omdat die twee landelijk gebaseerde vlaggenschepen van de overheid van India zijn. Lokale open source raster- en vectorgegevens werden gebruikt in oefeningen. Deelnemers werden aangemoedigd hun eigen of departementale gegevens, indien beschikbaar, mee te brengen. Training werd verschaft in een lokaal dat was uitgerust met 15 computers van i5, 8GB RAM en Windows7 OS. Het aantal deelnemers aan het trainingsprogramma bleef tussen 20-30."
 
 #: ../../source/site/about/case_studies/india_hyderabad.rst:35
+#: ../../source/site/about/case_studies/india_hyderabad.rst:55
 msgid "Conducted QGIS training courses and participants"
 msgstr "Uitgevoerde trainingscursus in QGIS en deelnemers"
 
@@ -102,9 +107,27 @@ msgid ""
 " post training support."
 msgstr "Behandelde algemene onderwerpen waren basisintroducties voor GIS en QGIS-software , belangrijke werkbalken, structuur van plug-ins, geo-verwijzingen, maken/bewerken van vectorgegevens, clippen (raster/vector), samenvoegen, terreinanalyse, contouren, van .csv naar .shp-laag, .shp naar .kml en vice versa, afhandelen van GPS-gegevens, interpolatie, bewerken/bevragen van tabellen, veldberekeningen, printvormgeving etc. en enkele basisanalyses op vectorgegevens. Apart van de introductie naar verscheidene beschikbare koppelingen voor hulp, werd een groep in LinkedIn gemaakt voor deelnemers voor ondersteuning na de training."
 
+#: ../../source/site/about/case_studies/india_hyderabad.rst:39
+msgid ""
+"Number of QGIS-based trainings conducted by author with participants’ "
+"details is shown in the table:"
+msgstr "Aantal op QGIS gebaseerde trainingen, gegeven door de auteur met details over de deelnemers wordt weergegeven in tabel:"
+
 #: ../../source/site/about/case_studies/india_hyderabad.rst:42
 msgid "Success"
 msgstr "Succes"
+
+#: ../../source/site/about/case_studies/india_hyderabad.rst:44
+msgid ""
+"Every month training is conducted with 20-30 participants so this number is "
+"increasing every month. Training feedbacks are remaining very positive and "
+"encouraging. Certificates are provided to the participants after completion "
+"of training. Presently handouts are being supplied to the participants in "
+"hard copy and tutorial, software and practice data in soft copies but plan "
+"is there to create DVDs containing screen-recorded lectures/demo of various "
+"topics in Hindi and English language. In future certificate and diploma "
+"programmes may also be initiated."
+msgstr "Elke maand wordt de training gegeven met 20-30 deelnemers, dus het aantal groeit elke maand. terugkoppeling over de training  blijven zeer positief en bemoedigend. Certificaten worden aan de deelnemers verschaft na het voltooien van de training. Momenteel worden hand-outs op papier gegeven aan de deelnemers en handleidingen. software en gegevens voor oefeningen als data maar het plan is om DVD's te maken met vanaf het scherm opgenomen lessen/demo van verscheidene onderwerpen in Hindi en in het Engels. In de toekomst zouden ook programma's met certificaten en diploma's kunnen worden geïnitieerd."
 
 #: ../../source/site/about/case_studies/india_hyderabad.rst:48
 msgid "Author"
@@ -120,23 +143,13 @@ msgid ""
 "professor, NIRD Jaipur centre, Website: http://www.nird.org.in"
 msgstr "Dit artikel werd bijgedragen in juli 2012 door H K Solanki, Assistant professor, NIRD Jaipur centre, Website: http://www.nird.org.in"
 
-#: ../../source/site/about/case_studies/india_hyderabad.rst:39
-msgid ""
-"Number of QGIS-based trainings conducted by author with participants’ "
-"details is shown in the table:"
-msgstr "Aantal op QGIS gebaseerde trainingen, gegeven door de auteur met details over de deelnemers wordt weergegeven in tabel:"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/about/case_studies/india_hyderabad.rst:44
-msgid ""
-"Every month training is conducted with 20-30 participants so this number is "
-"increasing every month. Training feedbacks are remaining very positive and "
-"encouraging. Certificates are provided to the participants after completion "
-"of training. Presently handouts are being supplied to the participants in "
-"hard copy and tutorial, software and practice data in soft copies but plan "
-"is there to create DVDs containing screen-recorded lectures/demo of various "
-"topics in Hindi and English language. In future certificate and diploma "
-"programmes may also be initiated."
-msgstr "Elke maand wordt de training gegeven met 20-30 deelnemers, dus het aantal groeit elke maand. terugkoppeling over de training  blijven zeer positief en bemoedigend. Certificaten worden aan de deelnemers verschaft na het voltooien van de training. Momenteel worden hand-outs op papier gegeven aan de deelnemers en handleidingen. software en gegevens voor oefeningen als data maar het plan is om DVD's te maken met vanaf het scherm opgenomen lessen/demo van verscheidene onderwerpen in Hindi en in het Engels. In de toekomst zouden ook programma's met certificaten en diploma's kunnen worden geïnitieerd."
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "Number of QGIS Based trainings conducted by author with participants’ "

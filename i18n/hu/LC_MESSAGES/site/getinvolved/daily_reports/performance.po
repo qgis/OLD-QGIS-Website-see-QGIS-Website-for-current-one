@@ -5,20 +5,21 @@
 # 
 # Translators:
 # Zoltan Siki <siki.zoltan@epito.bme.hu>, 2019
+# Báthory Péter <bathory86p@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-19 17:16+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2018-12-19 16:24+0000\n"
-"Last-Translator: Zoltan Siki <siki.zoltan@epito.bme.hu>, 2019\n"
+"Last-Translator: Báthory Péter <bathory86p@gmail.com>, 2022\n"
 "Language-Team: Hungarian (https://www.transifex.com/qgis/teams/6144/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -31,8 +32,8 @@ msgid ""
 "At the moment, two tools are living together to test and generate "
 "performance reports."
 msgstr ""
-"Jelenleg két eszköz létezik a tesztelésre és a teljesítmény jelentések "
-"generálására."
+"Jelenleg két eszköz létezik a tesztelésre és a teljesítményjelentések "
+"létrehozására."
 
 #: ../../source/site/getinvolved/daily_reports/performance.rst:7
 msgid ""
@@ -41,6 +42,10 @@ msgid ""
 "MapServer). Reports are generated weekly and available `here "
 "<http://test.qgis.org/perf_test/ms_perf/>`_."
 msgstr ""
+"Az első az `MS-Perfs <https://github.com/camptocamp/ms_perfs>`_  amely "
+"lehetővé teszi a QGIS szerver összehasonlítását más térképszerverekkel (mint"
+" a GeoServer és a MapServer). A jelentések hetente készülnek és elérhetőek "
+"`itt <http://test.qgis.org/perf_test/ms_perf/>`_."
 
 #: ../../source/site/getinvolved/daily_reports/performance.rst:12
 msgid ""
@@ -51,4 +56,20 @@ msgid ""
 "<http://test.qgis.org/perf_test/graffiti/>`_. Note that `QGIS-Server-"
 "PerfSuite <http://github.com/Oslandia/QGIS-Server-PerfSuite>`_ project is "
 "the deployment infrastructure to run Graffiti in continuous integration."
+msgstr ""
+"A második a `Graffiti <https://github.com/pblottiere/graffiti>`_, ami "
+"lehetővé teszi teljesítményjelentések készítését  a QGIS Szerver több "
+"verziója és/vagy konkrét projektbeállítások között (párhuzamos megjelenítés,"
+" megbízhatósági opció, stb). A jelentések naponta készülnek és elérhetőek "
+"`Graffiti-ben <http://test.qgis.org/perf_test/graffiti/>`_. Ne feledje, hogy"
+" a `QGIS-Server-PerfSuite <http://github.com/Oslandia/QGIS-Server-"
+"PerfSuite>`_ projekt a folyamatos integrációban a Graffitit futtató telepítő"
+" infrastruktúra."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""

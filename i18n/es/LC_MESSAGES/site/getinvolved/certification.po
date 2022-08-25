@@ -7,23 +7,26 @@
 # Darío Hereñú, 2019
 # Ever Medina <ever.medinaftal@gmail.com>, 2019
 # vareli <ehespinosa@ya.com>, 2020
-# Rodrigo Armesto <rodri_Armesto@hotmail.com>, 2020
+# Rodrigo Armesto Baztán <rodri_Armesto@hotmail.com>, 2020
+# Minerva Durán Martínez <mine_tod@yahoo.com.mx>, 2022
+# Abigaíl García, 2022
+# Eric Armijo, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-26 11:45+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-03-13 19:40+0000\n"
-"Last-Translator: Rodrigo Armesto <rodri_Armesto@hotmail.com>, 2020\n"
+"Last-Translator: Eric Armijo, 2022\n"
 "Language-Team: Spanish (https://www.transifex.com/qgis/teams/6144/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/getinvolved/certification.rst:5
 msgid "Certification"
@@ -87,11 +90,20 @@ msgstr "Publicando cursos abiertos de QGIS"
 msgid "Authoring QGIS books"
 msgstr "Libros QGIS de autor"
 
-#: ../../source/site/getinvolved/certification.rst:23
-msgid "Workflow Certification"
-msgstr "Certificación del flujo de trabajo"
+#: ../../source/site/getinvolved/certification.rst:20
+msgid ""
+"To contact the certification team, please write to certification@qgis.org."
+msgstr ""
 
-#: ../../source/site/getinvolved/certification.rst:25
+#: ../../source/site/getinvolved/certification.rst:24
+msgid "Certification Process"
+msgstr ""
+
+#: ../../source/site/getinvolved/certification.rst:27
+msgid "Application"
+msgstr "Aplicación"
+
+#: ../../source/site/getinvolved/certification.rst:29
 msgid ""
 "You are required to provide the training material for each of your courses. "
 "This includes exercises, lectures and data. This material will be reviewed "
@@ -105,7 +117,7 @@ msgstr ""
 "del proyecto QGIS y su calidad en general. Si el material no es de la "
 "calidad adecuada, esto puede ser motivo de rechazo."
 
-#: ../../source/site/getinvolved/certification.rst:28
+#: ../../source/site/getinvolved/certification.rst:32
 msgid ""
 "Following an initial review, the application will be sent to local QGIS "
 "groups for their opinion. This portion of the review should take place in "
@@ -125,7 +137,7 @@ msgstr ""
 "local. Si no es considerado que es un miembro de la comunidad de QGIS con "
 "una buena reputación, esto puede ser motivo de rechazo."
 
-#: ../../source/site/getinvolved/certification.rst:30
+#: ../../source/site/getinvolved/certification.rst:34
 msgid ""
 "The PSC will make the final determination. If accepted as a QGIS Certified "
 "Organization your contributions to the project will be published for "
@@ -135,7 +147,7 @@ msgstr ""
 "Organización QGIS, sus contribuciones al proyecto se publicarán por motivos "
 "de transparencia."
 
-#: ../../source/site/getinvolved/certification.rst:32
+#: ../../source/site/getinvolved/certification.rst:36
 msgid ""
 "If approved you are required to pay a €20 certification fee to the QGIS "
 "project for each certificate you issue. This creates a mechanism for "
@@ -151,7 +163,7 @@ msgstr ""
 "factura regular y transferencia bancaria SEPA. Los pagos se pueden gestionar"
 " en lotes para muchos certificados a la vez."
 
-#: ../../source/site/getinvolved/certification.rst:35
+#: ../../source/site/getinvolved/certification.rst:39
 msgid ""
 "You can apply through `this form <certification_link_>`_ (make sure to first"
 " create a `login <certification_login_>`_). You can find more details about "
@@ -163,6 +175,22 @@ msgstr ""
 "<certification_login_>`_). Puede encontrar mas detalles sobre el programa de"
 " certificación `aquí <certification_details_>`_ (le recomendamos que lea "
 "esto antes de registrarse)."
+
+#: ../../source/site/getinvolved/certification.rst:47
+msgid "Course Certification Workflow"
+msgstr ""
+
+#: ../../source/site/getinvolved/certification.rst:52
+msgid "Workflow Certification"
+msgstr "Certificación del flujo de trabajo"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "If approved you are required to make a €20 donation to the QGIS project for "

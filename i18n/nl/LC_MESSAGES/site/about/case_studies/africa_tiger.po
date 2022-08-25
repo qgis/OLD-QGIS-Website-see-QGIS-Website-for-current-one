@@ -1,17 +1,19 @@
 # 
 # Translators:
 # DiGro, 2015
+# DiGro, 2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-05 15:28+0200\n"
-"PO-Revision-Date: 2017-09-22 09:58+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:43+0000\n"
+"Last-Translator: DiGro, 2022\n"
 "Language-Team: Dutch (http://www.transifex.com/qgis/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -79,6 +81,10 @@ msgid ""
 "standardized workflows (with instructions) for performing common but complex"
 " tasks related to EO data analysis within water resource management."
 msgstr "Een belangrijk voordeel van de Processing Toolbox is de mogelijkheid om naadloos functionaliteiten te kunnen gebruiken van verscheidene providers van algoritmen voor het verwerken van gegevens en voor analyses. Dit kan worden gebruikt voor het maken van geautomatiseerde modellen voor verwerking en, door middle van een plug-in voor QGIS die werd ontwikkeld gedurende het project TIGER-NET, om sequentieel algoritmen van verscheidene providers te combineren in op wizards gebaseerde ketens van verwerking. Deze functionaliteit werd gebruikt om een bibliotheek van gestandaardiseerde werkstromen samen te stellen (met instructies) voor het uitvoeren van veel voorkomende, maar complexe taken die zijn gerelateerd aan analyses van gegevens van EO bij het beheren van waterbronnen."
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:22
+msgid "The WOIS graphical user interface"
+msgstr "De WOIS grafische gebruikersinterface"
 
 #: ../../source/site/about/case_studies/africa_tiger.rst:22
 msgid ""
@@ -207,3 +213,11 @@ msgid ""
 " (http://rs.geo.tuwien.ac.at/) and Copenhagen (http://www.env.dtu.dk/) as "
 "well as the European Space Agency ( www.esa.int)."
 msgstr "Dit artikel werd bijgedragen door Radoslaw Guzinski (WOIS software-ontwikkelaar) met bijdragen van technische teams van TIGER-NET van DHI-GRAS (www.dhi-gras.com), GeoVille (www.geoville.com), de technische universiteiten in Wenen (http://rs.geo.tuwien.ac.at/) en Kopenhagen (http://www.env.dtu.dk/) als ook van het European Space Agency ( www.esa.int)."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"

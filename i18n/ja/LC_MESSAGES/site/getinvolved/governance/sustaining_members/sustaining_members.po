@@ -5,21 +5,22 @@
 # 
 # Translators:
 # Toshikazu SETO <tosseto@gmail.com>, 2020
-# fairtommy <fairtommy@gmail.com>, 2020
+# tomoyuki arai <tarai.3367@gmail.com>, 2022
+# fairtommy <fairtommy@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-12 16:20+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-07-12 14:28+0000\n"
-"Last-Translator: fairtommy <fairtommy@gmail.com>, 2020\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2022\n"
 "Language-Team: Japanese (https://www.transifex.com/qgis/teams/6144/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -269,13 +270,10 @@ msgstr "寄付"
 msgid ""
 "Donations can be of any amount, via direct transfers to our bank account "
 "(SEPA payment), credit card payment (through stripe.com) or Paypal "
-"(information available at :ref:`Donations <QGIS-donations>` page). Even a "
-"small donation can make a difference and help to reach important project "
-"goals!"
+"(information available at `Donations <https://donate.qgis.org>`__ page). "
+"Even a small donation can make a difference and help to reach important "
+"project goals!"
 msgstr ""
-"寄付は、当行の銀行口座への直接振替（SEPA支払い）、クレジットカード支払い（stripe.comを介して）、またはPaypalを通じて、いくらでも可能です（"
-" :ref:`寄付 <QGIS-donations>` "
-"ページに利用可能な情報）。ちょっとした寄付でさえも、変化をもたらし、重要なプロジェクト目標を達成するのを助けることができます！"
 
 #: ../../source/site/getinvolved/governance/sustaining_members/sustaining_members.rst:107
 msgid ""
@@ -390,3 +388,22 @@ msgstr ""
 "維持会員応募の受け入れは、QGIS "
 "PSCの裁量に委ねられます。会員組織または当事者が本プロジェクトの精神と相反する場合、維持会員の申し出を拒否する権利を留保します。例えば、GIS "
 "/空間サービスとは無関係のマーケティング会社からの申し出、またはスポンサーロゴおよびマーケティング資料が当社サイトや他の材料上に存在するとユーザーの利便性が低下すると信じる理由がある申し出はお断りします。"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
+
+#~ msgid ""
+#~ "Donations can be of any amount, via direct transfers to our bank account "
+#~ "(SEPA payment), credit card payment (through stripe.com) or Paypal "
+#~ "(information available at :ref:`Donations <QGIS-donations>` page). Even a "
+#~ "small donation can make a difference and help to reach important project "
+#~ "goals!"
+#~ msgstr ""
+#~ "寄付は、当行の銀行口座への直接振替（SEPA支払い）、クレジットカード支払い（stripe.comを介して）、またはPaypalを通じて、いくらでも可能です（"
+#~ " :ref:`寄付 <QGIS-donations>` "
+#~ "ページに利用可能な情報）。ちょっとした寄付でさえも、変化をもたらし、重要なプロジェクト目標を達成するのを助けることができます！"

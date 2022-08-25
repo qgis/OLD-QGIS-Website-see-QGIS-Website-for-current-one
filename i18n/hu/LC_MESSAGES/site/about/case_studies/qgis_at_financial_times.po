@@ -6,20 +6,21 @@
 # Translators:
 # Balázs Meskó <meskobalazs@mailbox.org>, 2017
 # Zoltan Siki <siki.zoltan@epito.bme.hu>, 2017
+# Báthory Péter <bathory86p@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2016-06-21 12:24+0000\n"
-"Last-Translator: Zoltan Siki <siki.zoltan@epito.bme.hu>, 2017\n"
+"Last-Translator: Báthory Péter <bathory86p@gmail.com>, 2022\n"
 "Language-Team: Hungarian (https://www.transifex.com/qgis/teams/6144/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -70,6 +71,9 @@ msgid ""
 "takes to create the visuals."
 msgstr ""
 
+msgid "Migrant flows. Western Balkans route."
+msgstr ""
+
 #: ../../source/site/about/case_studies/qgis_at_financial_times.rst:32
 msgid "*Example: Migrant flows. Western Balkans route.*"
 msgstr ""
@@ -102,6 +106,11 @@ msgid ""
 " with how we approach maps."
 msgstr ""
 
+msgid ""
+"Dora's journey from Nigeria to Sicily - one of thousands by trafficked women"
+" each year"
+msgstr ""
+
 #: ../../source/site/about/case_studies/qgis_at_financial_times.rst:54
 msgid ""
 "*Example: Animation of Dora's journey from Nigeria to Sicily - one of "
@@ -113,6 +122,9 @@ msgid ""
 "**QGIS**: Can you tell us a bit about yourself? What's your educational "
 "background? What did you do before joining the data visualization team at "
 "FT?"
+msgstr ""
+
+msgid "Gotthard rail and road tunnel"
 msgstr ""
 
 #: ../../source/site/about/case_studies/qgis_at_financial_times.rst:65
@@ -166,6 +178,9 @@ msgid ""
 "use any other GIS tool to create our maps. Although a few members of our "
 "team also use Map Publisher as they feel more comfortable staying within "
 "Adobe Illustrator. I would say 80% of our maps are now produced in QGIS."
+msgstr ""
+
+msgid "Public Lands in the US"
 msgstr ""
 
 #: ../../source/site/about/case_studies/qgis_at_financial_times.rst:99
@@ -252,6 +267,9 @@ msgid ""
 "colleagues use Map Publisher as well."
 msgstr ""
 
+msgid "Strikes on Syria in February 2016"
+msgstr ""
+
 #: ../../source/site/about/case_studies/qgis_at_financial_times.rst:136
 msgid "*Example: Strikes on Syria in February 2016.*"
 msgstr ""
@@ -308,6 +326,9 @@ msgid ""
 " a weakness, just a missing feature."
 msgstr ""
 
+msgid "Urban Attraction and Migration within China"
+msgstr ""
+
 #: ../../source/site/about/case_studies/qgis_at_financial_times.rst:164
 msgid "*Example: Urban Attraction and Migration within China.*"
 msgstr ""
@@ -324,6 +345,9 @@ msgid ""
 "But primarily Quick OSM and Georeferencer have saved me so much time, this "
 "is absolutely essential when deadlines are tight. Which, when working for a "
 "news organisation, is usually 90% of the time."
+msgstr ""
+
+msgid "Urban Attraction and Migration within China, Details"
 msgstr ""
 
 #: ../../source/site/about/case_studies/qgis_at_financial_times.rst:178
@@ -378,6 +402,10 @@ msgid ""
 " around this."
 msgstr ""
 
+msgid ""
+"Percentage of households with a broadband internet subscription in the US."
+msgstr ""
+
 #: ../../source/site/about/case_studies/qgis_at_financial_times.rst:207
 msgid ""
 "*Example: Percentage of households with a broadband internet subscription in"
@@ -410,6 +438,9 @@ msgid ""
 "documenting workflows in QGIS!"
 msgstr ""
 
+msgid "Portrait Steve Bernard"
+msgstr ""
+
 #: ../../source/site/about/case_studies/qgis_at_financial_times.rst:228
 msgid ""
 "*Portrait of Steve Bernard. Interactive Design Editor at Financial Times.*"
@@ -424,4 +455,12 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/qgis_at_financial_times.rst:233
 msgid "Interview questions by A. Neumann and T. Sutton. April 2016."
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""

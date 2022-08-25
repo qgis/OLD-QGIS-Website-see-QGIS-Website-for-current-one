@@ -1,23 +1,30 @@
 # 
 # Translators:
 # Diana Galindo <drgalindog@linuxmail.org>, 2015
-# YoViajo, 2015-2016
+# Eric Armijo, 2015-2016
 # Francisco Javier <fjaviquintana@gmail.com>, 2015
-# YoViajo, 2016
-# Rodrigo Armesto <rodri_Armesto@hotmail.com>, 2019
+# Eric Armijo, 2016
+# Rodrigo Armesto Baztán <rodri_Armesto@hotmail.com>, 2019
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-22 11:32+0100\n"
-"PO-Revision-Date: 2019-12-15 16:26+0000\n"
-"Last-Translator: Rodrigo Armesto <rodri_Armesto@hotmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-05-25 15:58+0000\n"
+"Last-Translator: Rodrigo Armesto Baztán <rodri_Armesto@hotmail.com>, 2019\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../../source/site/about/case_studies/italy_turin.rst:3
+msgid ""
+"The Research Institute for Geo-hydrological Protection of Turin --- Aerial "
+"photo archive management"
+msgstr "El Instituto de Investigación para Protección Geo-hidrológica de Turín --- gestión de archivo de fotos aéreas"
 
 #: ../../source/site/about/case_studies/italy_turin.rst:5
 msgid ""
@@ -38,6 +45,19 @@ msgid ""
 "are employed. Their use varies, from “simple” visual analyses to complex "
 "processing as stereoplotting or image segmentation."
 msgstr "Con el objetivo de llevar a cabo exhaustivos estudios e investigaciones, además del estudio de campo, modelado y análisis de registros históricos, se emplean fotogramas aereos. Su uso varia, desde simples análisis visuales a procesamientos complejos como estereoplotting o segmentacion de imágenes."
+
+#: ../../source/site/about/case_studies/italy_turin.rst:9
+msgid ""
+"The institute, for the explained purposes, keeps in its archive about "
+"170000, recent and historical, photograms --- the oldest one dating back to "
+"1920s (Figure 1) --- covering, in different years, the Po basin or part of "
+"it. Some photograms cover other basins in northern Italy. In addition the "
+"archives keeps flight plans of the described photograms (Figure 1)."
+msgstr "El instituto, para los propósitos explicados, guarda en su archivo alrededor de 170000, fotogramas recientes e históricos, el más antiguo data de 1920 (Figura 1) -abarcando, en diferentes años, la cuenca del Po o parte de ella. Algunos fotogramas cubren otras cuencas en el norte de Italia. Además, los archivos adjuntan planes de vuelo de los fotogramas descritos (Figura 1)."
+
+#: ../../source/site/about/case_studies/italy_turin.rst:16
+msgid "1929 photogram (left) and 1954 flight plan (right)"
+msgstr ""
 
 #: ../../source/site/about/case_studies/italy_turin.rst:16
 msgid "1929 photogram (left) and 1954 flight plan (right)."
@@ -147,6 +167,15 @@ msgstr "Autores"
 msgid "Danilo Godone"
 msgstr "Danilo Godone"
 
+#: ../../source/site/about/case_studies/italy_turin.rst:73
+msgid ""
+"Danilo Godone is a Postdoc grant holder, at Turin University, studying "
+"geomatic contribution in landslide, glacier and, more generally, natural "
+"disasters monitoring. He is a member of NATRISK --- Research Centre on "
+"Natural Risks in Mountain and Hilly Environments, in the same University. He"
+" acts as a freelance consultant in the same topics, too."
+msgstr "Danilo Godone es becario de Postdoctorado, en la Universidad de Turín, y estudia la contribución de la geomática para el control de deslizamientos de tierra, glaciares y, más generálmente, de monitorización de desastres naturales. Es miembro de NATRISK --- Centro de investigación sobre riesgos naturales en entornos montañosos y accidenatados, en la misma universidad. También actúa como asesor independiente sobre los mismos temas."
+
 #: ../../source/site/about/case_studies/italy_turin.rst:80
 msgid "Franco Godone"
 msgstr "Franco Godone"
@@ -159,29 +188,13 @@ msgid ""
 "alpine regions."
 msgstr "Franco Godone es un técnico especializado del Instituto de Investigación para la Protección Geohidrológica de Turín (IRPI-CNR) desde 1972. Está involucrado en levantamientos topográficos y aerofotogramétricos y análisis de datos en las regiones alpinas."
 
-#: ../../source/site/about/case_studies/italy_turin.rst:3
-msgid ""
-"The Research Institute for Geo-hydrological Protection of Turin --- Aerial "
-"photo archive management"
-msgstr "El Instituto de Investigación para Protección Geo-hidrológica de Turín --- gestión de archivo de fotos aéreas"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/about/case_studies/italy_turin.rst:9
-msgid ""
-"The institute, for the explained purposes, keeps in its archive about "
-"170000, recent and historical, photograms --- the oldest one dating back to "
-"1920s (Figure 1) --- covering, in different years, the Po basin or part of "
-"it. Some photograms cover other basins in northern Italy. In addition the "
-"archives keeps flight plans of the described photograms (Figure 1)."
-msgstr "El instituto, para los propósitos explicados, guarda en su archivo alrededor de 170000, fotogramas recientes e históricos, el más antiguo data de 1920 (Figura 1) -abarcando, en diferentes años, la cuenca del Po o parte de ella. Algunos fotogramas cubren otras cuencas en el norte de Italia. Además, los archivos adjuntan planes de vuelo de los fotogramas descritos (Figura 1)."
-
-#: ../../source/site/about/case_studies/italy_turin.rst:73
-msgid ""
-"Danilo Godone is a Postdoc grant holder, at Turin University, studying "
-"geomatic contribution in landslide, glacier and, more generally, natural "
-"disasters monitoring. He is a member of NATRISK --- Research Centre on "
-"Natural Risks in Mountain and Hilly Environments, in the same University. He"
-" acts as a freelance consultant in the same topics, too."
-msgstr "Danilo Godone es becario de Postdoctorado, en la Universidad de Turín, y estudia la contribución de la geomática para el control de deslizamientos de tierra, glaciares y, más generálmente, de monitorización de desastres naturales. Es miembro de NATRISK --- Centro de investigación sobre riesgos naturales en entornos montañosos y accidenatados, en la misma universidad. También actúa como asesor independiente sobre los mismos temas."
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "The Research Institute for Geo-hydrological Protection of Turin - Aerial "

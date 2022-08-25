@@ -16,15 +16,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-01 17:28+0100\n"
-"PO-Revision-Date: 2020-07-10 15:21+0000\n"
-"Last-Translator: Aline Furlanetto Viero <afviero@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-11-01 16:56+0000\n"
+"Last-Translator: Aline Furlanetto Viero <afviero@gmail.com>, 2020\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/qgis/qgis-website/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: pt_BR\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:4
+msgid "Changelog for QGIS 2.6"
+msgstr "Alterações no QGIS 2.6"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:6
 msgid ""
@@ -60,10 +65,24 @@ msgid ""
 "financial support they provide to this project:"
 msgstr "Finalmente queremos agradecer aos nossos patrocinadores oficial pelo suporte financeiro de valor inestimável que fornecem a este projecto:"
 
+#: ../../source/site/forusers/visualchangelog260/index.rst:26
+msgid "**GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"
+msgstr "**Patrocinador de OURO: Asia Air Survey, Japão** http://www.asiaairsurvey.com/"
+
 #: ../../source/site/forusers/visualchangelog260/index.rst:27
 msgid ""
 "SILVER Sponsor: `Sourcepole AG, Switzerland <http://www.sourcepole.com/>`_"
 msgstr "Patrocinador de PRATA: `Sourcepole AG, Suíça <http://www.sourcepole.com/>`_"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:28
+msgid ""
+"SILVER Sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_"
+msgstr "Patrocinador PRATA: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:29
+msgid ""
+"BRONZE Sponsor: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
+msgstr "Patrocinador BRONZE: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:30
 msgid "BRONZE Sponsor: `www.molitec.it, Italy <http://www.molitec.it/>`_"
@@ -83,6 +102,18 @@ msgid ""
 "BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "
 "<http://www.eschenlaub.de/>`_"
 msgstr "Patrocinador de BRONZE: `GKG Kassel,(Dr.-Ing. Claas Leiner), Alemanha <http://www.eschenlaub.de>`_"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:35
+msgid ""
+"A current list of donors who have made financial contributions large and "
+"small to the project can be seen on our `donors list "
+"<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`_. If you "
+"would like to become an official project sponsor, please visit `our "
+"sponsorship page "
+"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`_ for details."
+" Sponsoring QGIS helps us to fund our six monthly developer meetings, "
+"maintain project infrastructure and fund bug fixing efforts."
+msgstr "Uma lista atual de doadores que fizeram contribuições financeiras grandes e pequenas para o projeto pode ser vista em nossa lista de doadores <http://qgis.org/en/site/about/sponsorship.html#list-of-donors> _. Se você gostaria de se tornar um patrocinador oficial do projeto, visite nossa página de patrocínio <http://qgis.org/en/site/about/sponsorship.html#sponsorship> `_ para detalhes. O patrocínio do QGIS nos ajuda a financiar nossas seis reuniões de desenvolvedores mensais, manter a infraestrutura do projeto e financiar esforços de correção de bugs."
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:44
 msgid ""
@@ -177,6 +208,11 @@ msgstr "Adicionado o sufixo ao widget de intervalo"
 msgid "Feature: Optionally use just a subset of fields from the joined layer"
 msgstr "Funcionalidade: Opcionalmente use um subconjunto de campos numa junção de camada"
 
+#: ../../source/site/forusers/visualchangelog260/index.rst:109
+msgid ""
+"You can now use just a subset of related fields when creating a vector join."
+msgstr "Agora você pode usar apenas um subconjunto de campos relacionados ao criar uma união vetorial."
+
 #: ../../source/site/forusers/visualchangelog260/index.rst:117
 msgid "Feature: Expression field (virtual fields)"
 msgstr "Funcionalidade: Campo expressão (campos virtuais)"
@@ -267,6 +303,10 @@ msgid ""
 "entries for items not currently in the map view. It is available in the main"
 " map legend and in map composer and for WMS layers."
 msgstr "A nova opção de filtro de legenda localizado na barra de ferramentas da legenda irá remover itens da legenda para as classes que não estão atualmente na vista do mapa. Essa é uma melhoria impressionante, pois garante que a legenda do seu mapa não contenha entradas para os itens que não estão atualmente na visualização do mapa. Ele está disponível na principal legenda do mapa, no mapa compositor e para as camadas WMS."
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:179
+msgid "Rule-based renderer legends can now be displayed in a pseudo-tree"
+msgstr "As legendas do renderizador baseadas em regras agora podem ser exibidas em uma pseudo-árvore"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:186
 msgid "Data Providers"
@@ -495,6 +535,13 @@ msgstr "Removido o item de menu destrutivo 'Carregar do modelo', substitua por u
 #: ../../source/site/forusers/visualchangelog260/index.rst:325
 msgid "Feature: Improved item snapping"
 msgstr "Recurso: aprimoramento de encaixe de item"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:327
+msgid ""
+"Snapping thresholds are now set in pixels, allowing for finer movement and "
+"resizing of items when zoomed in to a composition. Items within a group are "
+"no longer used for auto snap lines."
+msgstr "Os limites de captura agora são definidos em pixels, permitindo movimentos e redimensionamentos mais precisos dos itens quando ampliados para uma composição. Os itens dentro de um grupo não são mais usados para aderir linhas automáticas."
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:336
 msgid "Feature: Multiple overviews for a map item"
@@ -803,6 +850,10 @@ msgstr "Funcionalidade: Nova caixa de diálogo de seleção de cores"
 msgid "There is a new custom QGIS color picker dialog. Features include:"
 msgstr "Existe uma nova caixa de diálogo de seleção de cores QGIS personalizada. As características incluem:"
 
+#: ../../source/site/forusers/visualchangelog260/index.rst:514
+msgid "Sliders for hue, saturation, value, red, green, blue color components."
+msgstr "Sliders para matiz, saturação, valor, vermelho, verde, componentes de cor azul."
+
 #: ../../source/site/forusers/visualchangelog260/index.rst:516
 msgid "Alpha slider."
 msgstr "Controle deslizante alfa."
@@ -822,6 +873,28 @@ msgstr "Widget de rampa de cor 2D interativo."
 #: ../../source/site/forusers/visualchangelog260/index.rst:520
 msgid "Hue wheel/triangle widget."
 msgstr ""
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:521
+msgid ""
+"Editable color palettes, including the ability to create new palettes and "
+"import/export colors to a GPL palette file."
+msgstr "Paletas de cores editáveis, incluindo a capacidade de criar novas paletas e importar/exportar cores para um arquivo de paleta GPL."
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:523
+msgid ""
+"Live color sampler with option to sample over a set radius (OS support "
+"dependant)."
+msgstr "Amostrador de cores ao vivo com a opção de amostragem sobre um raio definido (dependente do suporte ao sistema operacional)."
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:525
+msgid ""
+"Supports interaction with other apps via drag and drop of colors (OS support"
+" dependant)."
+msgstr "Suporta interação com outros aplicativos através de arrastar e soltar cores (dependente do suporte ao SO)."
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:527
+msgid "Option to disable the dialog and use the native picker dialog instead."
+msgstr "Opção para desabilitar a caixa de diálogo e usar a caixa de diálogo do selecionador nativo."
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:535
 msgid "Feature: Single select feature tool merged into select by rectangle"
@@ -880,77 +953,13 @@ msgid ""
 "which feature types you wish to identify (all all if you like)."
 msgstr "Ao usar a ferramenta de identificação, agora você pode clicar com o botão direito do mouse na tela para usar a ferramenta de identificação no modo de contexto. No menu que aparece, você pode definir quais tipos de recurso você deseja identificar (todos, se quiser)."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:35
-msgid ""
-"A current list of donors who have made financial contributions large and "
-"small to the project can be seen on our `donors list "
-"<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`_. If you "
-"would like to become an official project sponsor, please visit `our "
-"sponsorship page "
-"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`_ for details."
-" Sponsoring QGIS helps us to fund our six monthly developer meetings, "
-"maintain project infrastructure and fund bug fixing efforts."
-msgstr "Uma lista atual de doadores que fizeram contribuições financeiras grandes e pequenas para o projeto pode ser vista em nossa lista de doadores <http://qgis.org/en/site/about/sponsorship.html#list-of-donors> _. Se você gostaria de se tornar um patrocinador oficial do projeto, visite nossa página de patrocínio <http://qgis.org/en/site/about/sponsorship.html#sponsorship> `_ para detalhes. O patrocínio do QGIS nos ajuda a financiar nossas seis reuniões de desenvolvedores mensais, manter a infraestrutura do projeto e financiar esforços de correção de bugs."
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:109
-msgid ""
-"You can now use just a subset of related fields when creating a vector join."
-msgstr "Agora você pode usar apenas um subconjunto de campos relacionados ao criar uma união vetorial."
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:28
-msgid ""
-"SILVER Sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_"
-msgstr "Patrocinador PRATA: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:29
-msgid ""
-"BRONZE Sponsor: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
-msgstr "Patrocinador BRONZE: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:179
-msgid "Rule-based renderer legends can now be displayed in a pseudo-tree"
-msgstr "As legendas do renderizador baseadas em regras agora podem ser exibidas em uma pseudo-árvore"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:514
-msgid "Sliders for hue, saturation, value, red, green, blue color components."
-msgstr "Sliders para matiz, saturação, valor, vermelho, verde, componentes de cor azul."
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:521
-msgid ""
-"Editable color palettes, including the ability to create new palettes and "
-"import/export colors to a GPL palette file."
-msgstr "Paletas de cores editáveis, incluindo a capacidade de criar novas paletas e importar/exportar cores para um arquivo de paleta GPL."
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:523
-msgid ""
-"Live color sampler with option to sample over a set radius (OS support "
-"dependant)."
-msgstr "Amostrador de cores ao vivo com a opção de amostragem sobre um raio definido (dependente do suporte ao sistema operacional)."
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:525
-msgid ""
-"Supports interaction with other apps via drag and drop of colors (OS support"
-" dependant)."
-msgstr "Suporta interação com outros aplicativos através de arrastar e soltar cores (dependente do suporte ao SO)."
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:527
-msgid "Option to disable the dialog and use the native picker dialog instead."
-msgstr "Opção para desabilitar a caixa de diálogo e usar a caixa de diálogo do selecionador nativo."
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:26
-msgid "**GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"
-msgstr "**Patrocinador de OURO: Asia Air Survey, Japão** http://www.asiaairsurvey.com/"
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:327
-msgid ""
-"Snapping thresholds are now set in pixels, allowing for finer movement and "
-"resizing of items when zoomed in to a composition. Items within a group are "
-"no longer used for auto snap lines."
-msgstr "Os limites de captura agora são definidos em pixels, permitindo movimentos e redimensionamentos mais precisos dos itens quando ampliados para uma composição. Os itens dentro de um grupo não são mais usados para aderir linhas automáticas."
-
-#: ../../source/site/forusers/visualchangelog260/index.rst:4
-msgid "Changelog for QGIS 2.6"
-msgstr "Alterações no QGIS 2.6"
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "Changelog for QGIS: 2.6.0"
 #~ msgstr ""

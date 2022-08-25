@@ -5,15 +5,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-22 11:32+0100\n"
-"PO-Revision-Date: 2017-09-23 20:42+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-05-25 15:58+0000\n"
+"Last-Translator: Tomas Straupis, 2015\n"
 "Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: lt\n"
 "Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+#: ../../source/site/about/case_studies/italy_turin.rst:3
+msgid ""
+"The Research Institute for Geo-hydrological Protection of Turin --- Aerial "
+"photo archive management"
+msgstr "Geo-hidrologinės Turino apsaugos tyrimų institutas - oro fotografijų archyvo valdymas"
 
 #: ../../source/site/about/case_studies/italy_turin.rst:5
 msgid ""
@@ -34,6 +41,19 @@ msgid ""
 "are employed. Their use varies, from “simple” visual analyses to complex "
 "processing as stereoplotting or image segmentation."
 msgstr "Norint vykdyti išsamius tyrimus ir studijas, greta apžiūros vietovėje, modeliavimo ir istorinių įrašų naudojamos ir oro fotografijos. Jų panaudojimas skirtingas, pradedant „paprasta“ vizualia analize ir baigiant sudėtingu apdorojimu, tokiu kaip stereobraižymu ar vaizdo segmentacija."
+
+#: ../../source/site/about/case_studies/italy_turin.rst:9
+msgid ""
+"The institute, for the explained purposes, keeps in its archive about "
+"170000, recent and historical, photograms --- the oldest one dating back to "
+"1920s (Figure 1) --- covering, in different years, the Po basin or part of "
+"it. Some photograms cover other basins in northern Italy. In addition the "
+"archives keeps flight plans of the described photograms (Figure 1)."
+msgstr "Šiems tikslams, institutas augo daugiau nei 170000 dabartinių ir istorinių fotogramų archyvą - kurio seniausi elementai dar 1920 metų (1 pav.) - kurie skirtingais metais dengia Po baseiną arba jo dalį. Kai kurios fotogramos dengia kitus šiaurės Italijos baseinus. Archyve papildomai saugomi aprašytų fotogramų skrydžio planai (1 pav.)."
+
+#: ../../source/site/about/case_studies/italy_turin.rst:16
+msgid "1929 photogram (left) and 1954 flight plan (right)"
+msgstr ""
 
 #: ../../source/site/about/case_studies/italy_turin.rst:16
 msgid "1929 photogram (left) and 1954 flight plan (right)."
@@ -143,6 +163,15 @@ msgstr "Autoriai"
 msgid "Danilo Godone"
 msgstr "Danilo Godone"
 
+#: ../../source/site/about/case_studies/italy_turin.rst:73
+msgid ""
+"Danilo Godone is a Postdoc grant holder, at Turin University, studying "
+"geomatic contribution in landslide, glacier and, more generally, natural "
+"disasters monitoring. He is a member of NATRISK --- Research Centre on "
+"Natural Risks in Mountain and Hilly Environments, in the same University. He"
+" acts as a freelance consultant in the same topics, too."
+msgstr "Danilo Godone yra turi Turino universiteto Postdoc subsidiją, studijuoja geomatikos indėlį nuošliaužų, ledynų ir, bendrai paėmus, natūralių nelaimių stebėjime. Jis yra NATRISK --- natūralių rizikų kalnų ir kalvų aplinkose tyrimo centro narys tame pačiame universitete. Taipogi veikia kaip laisvai samdomas šių sričių konsultantas."
+
 #: ../../source/site/about/case_studies/italy_turin.rst:80
 msgid "Franco Godone"
 msgstr "Franco Godone"
@@ -155,29 +184,13 @@ msgid ""
 "alpine regions."
 msgstr "Franco Godone specializuotas technikas, dirbantis Geo-hirdologiniame Turino aplinkos tyrimo institute (IRPI-CNR) nuo 1972 metų. Dirba su alpių regionų topografiniais ir aerofotogrametriniais tyrimais ir duomenų analize."
 
-#: ../../source/site/about/case_studies/italy_turin.rst:3
-msgid ""
-"The Research Institute for Geo-hydrological Protection of Turin --- Aerial "
-"photo archive management"
-msgstr "Geo-hidrologinės Turino apsaugos tyrimų institutas - oro fotografijų archyvo valdymas"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/about/case_studies/italy_turin.rst:9
-msgid ""
-"The institute, for the explained purposes, keeps in its archive about "
-"170000, recent and historical, photograms --- the oldest one dating back to "
-"1920s (Figure 1) --- covering, in different years, the Po basin or part of "
-"it. Some photograms cover other basins in northern Italy. In addition the "
-"archives keeps flight plans of the described photograms (Figure 1)."
-msgstr "Šiems tikslams, institutas augo daugiau nei 170000 dabartinių ir istorinių fotogramų archyvą - kurio seniausi elementai dar 1920 metų (1 pav.) - kurie skirtingais metais dengia Po baseiną arba jo dalį. Kai kurios fotogramos dengia kitus šiaurės Italijos baseinus. Archyve papildomai saugomi aprašytų fotogramų skrydžio planai (1 pav.)."
-
-#: ../../source/site/about/case_studies/italy_turin.rst:73
-msgid ""
-"Danilo Godone is a Postdoc grant holder, at Turin University, studying "
-"geomatic contribution in landslide, glacier and, more generally, natural "
-"disasters monitoring. He is a member of NATRISK --- Research Centre on "
-"Natural Risks in Mountain and Hilly Environments, in the same University. He"
-" acts as a freelance consultant in the same topics, too."
-msgstr "Danilo Godone yra turi Turino universiteto Postdoc subsidiją, studijuoja geomatikos indėlį nuošliaužų, ledynų ir, bendrai paėmus, natūralių nelaimių stebėjime. Jis yra NATRISK --- natūralių rizikų kalnų ir kalvų aplinkose tyrimo centro narys tame pačiame universitete. Taipogi veikia kaip laisvai samdomas šių sričių konsultantas."
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "The Research Institute for Geo-hydrological Protection of Turin - Aerial "

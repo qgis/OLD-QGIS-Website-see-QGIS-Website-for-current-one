@@ -6,13 +6,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-05 15:28+0200\n"
-"PO-Revision-Date: 2019-10-25 01:38+0000\n"
-"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:44+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2018-2019\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -21,6 +22,16 @@ msgid ""
 "QGIS geoprocessing model to simplify first level seismic microzonation "
 "analysis"
 msgstr "第１レベルの地震マイクロゾーニングの分析を簡素化するQGISのジオプロセシングモデル"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:5
+msgid ""
+"The Institute of Environmental Geology and Geoengineering (IGAG) of the "
+"National Research Council (CNR) is located in Rome, in the Area of Research "
+"\"Roma 1\". It was founded in 2002 by regrouping five former research "
+"Institutes and Centers that had been active for more than 40 years in their "
+"field of expertise. IGAG covers a wide range of scientific topics in the "
+"field of Earth sciences, mainly focusing towards the study of:"
+msgstr "米国学術研究会議（CNR）の環境地質とジオエンジニアリング研究所（IGAGは）研究「ローマ1」のエリアで、ローマに位置しています。それは、それぞれの専門分野で40年以上にわたり活動していた5元研究機関やセンターを再編によって2002年に設立されました。IGAGは、主に研究に向けて焦点を当て、地球科学の分野で科学的なトピックの広い範囲をカバー："
 
 #: ../../source/site/about/case_studies/italy_rome.rst:12
 msgid ""
@@ -111,6 +122,36 @@ msgid ""
 "thematic maps:"
 msgstr "第１レベルの地震マイクロゾーニングは3つの主題図の作成で構成されています。"
 
+#: ../../source/site/about/case_studies/italy_rome.rst:51
+msgid "Survey map containing the surveys for seismic microzonation studies;"
+msgstr "地震マイクロゾーニング研究のための調査を含む調査マップ。"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:52
+msgid ""
+"Geo-lithological map, obtained from detailed scale geological and "
+"geomorphological maps integrating existing lithological, stratigraphic and "
+"geotechnical data related to surveys;"
+msgstr "調査に関連する既存の、岩相層序および地質データを統合詳細なスケール地質及び地形図から得られたジオ岩相図。"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:54
+msgid ""
+"Level 1 seismic microzonation map (the principal product of level 1 "
+"microzonation), identifying the microzones into three categories of local "
+"hazards:"
+msgstr "ローカル危険の三つのカテゴリーにマイクロ領域を識別レベル1地震マイクロゾーニングマップ（レベル1マイクロゾーニングの主生成物）。"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:57
+msgid "Stable zones;"
+msgstr "安定したゾーン。"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:58
+msgid "Stable zones prone to ground amplification;"
+msgstr "接地増幅しやすい安定したゾーン。"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:59
+msgid "Unstable zones."
+msgstr "不安定ゾーン。"
+
 #: ../../source/site/about/case_studies/italy_rome.rst:61
 msgid ""
 "The scope of this work is to contribute to the creation of a methodology for"
@@ -135,6 +176,10 @@ msgid ""
 "unified interface for heterogeneous GFOSS (Geospatial Free and Open Source "
 "Software) tools (Fig. 1)."
 msgstr "モデルは、異種GFOSS（地理空間フリーおよびオープンソースソフトウェア）ツール（図1）のための簡略化と統一されたインタフェースとしてQGISの有用性を実証し、さまざまなオープンソースソフトウェアやライブラリ（GRASS、GDAL、QGIS）を利用します。"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:79
+msgid "Geoprocessing model"
+msgstr ""
 
 #: ../../source/site/about/case_studies/italy_rome.rst:79
 msgid "(Fig. 1) Screenshot from the geoprocessing model."
@@ -168,12 +213,36 @@ msgid "The name of the resulting polygon layer."
 msgstr "結果のポリゴンレイヤーの名前"
 
 #: ../../source/site/about/case_studies/italy_rome.rst:94
+msgid "Model input form (left) and execution log (right)"
+msgstr ""
+
+#: ../../source/site/about/case_studies/italy_rome.rst:94
 msgid "(Fig. 2) Model input form (left) and execution log (right)."
 msgstr "（図2）モデル入力フォーム（左）と実行ログ（右）。"
 
 #: ../../source/site/about/case_studies/italy_rome.rst:96
 msgid "When launched, the model performs the following operations:"
 msgstr "起動すると、モデルは、次の操作を実行します。"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:98
+msgid ""
+"The GRASS tool v.to.rast.attribute converts contour elevation lines to "
+"raster, taking the contour shapefile, the name of the z field and the raster"
+" resolution as input;"
+msgstr "GRASSツールv.to.rast.attributeは、等高線シェープファイル、Zフィールドの名前およびラスター解像度を入力として取り、等高線をラスターに変換します；"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:100
+msgid ""
+"The GRASS tool r.surf.contour generates the elevation model taking as input "
+"the rasterized temporary output from previous step and the raster "
+"resolution;"
+msgstr "GRASSツールr.surf.contourは、前のステップからのラスター化された一時出力およびラスター解像度を入力として取り、標高モデルを作成します。"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:102
+msgid ""
+"The GDAL tool “gdaldem” generates the slope expressed as degrees from the "
+"elevation model;"
+msgstr "GDALツール「gdaldem」は標高モデルから度で表される勾配を作成します。"
 
 #: ../../source/site/about/case_studies/italy_rome.rst:103
 msgid ""
@@ -190,6 +259,10 @@ msgstr "if(A>15,1,null())"
 msgid "where A is the temporary slope raster generated by gdaldem;"
 msgstr "ここでAはgdaldemによって生成された一時的な勾配ラスタです。"
 
+#: ../../source/site/about/case_studies/italy_rome.rst:111
+msgid "The GDAL tool “gdal_polygonize” converts the 1 bit raster to polygons;"
+msgstr "GDALツール「gdal_polygonize」は1ビットラスターをポリゴンに変換します;"
+
 #: ../../source/site/about/case_studies/italy_rome.rst:112
 msgid ""
 "The QGIS tool “Intersection” is used to overlay the areas with slope greater"
@@ -202,6 +275,12 @@ msgid ""
 " value greater than 15 degrees, automatically extracted from a thematic map "
 "such as a landslides polygon layer (Fig. 3) or a lithological map."
 msgstr "結果は、地滑りポリゴンレイヤー（図3）または岩相地図といった主題図から自動的に抽出された、勾配値が15度よりも大きい不安定になりやすい領域を有するポリゴンレイヤーです。"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:124
+msgid ""
+"The model output (in red) shows highly unstable areas extracted from a "
+"landslides layer (orange)"
+msgstr ""
 
 #: ../../source/site/about/case_studies/italy_rome.rst:124
 msgid ""
@@ -235,6 +314,14 @@ msgstr "この作品は明らかにQGIS、GRASS、GDAL / OGR、のようなオ�
 #: ../../source/site/about/case_studies/italy_rome.rst:142
 msgid "References"
 msgstr "参考文献"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:144
+msgid ""
+"G. Baldassarre; Gallicchio, S.; Giannandrea, P. & Tropeano, M.: \"Relazione "
+"Finale Geolitologica per la microzonazione sismica di livello 1dei Comuni "
+"della Provincia di Foggia Dipartimento di Geologia e Geofisica "
+"dell'Università di Bari, 2011\""
+msgstr "G・バルダセア; ガッリッキオ、S。; Giannandrea、P.＆Tropeano、M：「2011地質および地球物理学、バーリの大学の学部フォッジャの州で1deiレベルの自治体の地震マイクロゾーニングのための最終報告書のgeolithological」"
 
 #: ../../source/site/about/case_studies/italy_rome.rst:147
 msgid ""
@@ -303,77 +390,13 @@ msgid ""
 " and Windows based servers and desktops."
 msgstr "フランチェスコ・ペニカ はGISやWebGISソフトウェア開発およびデータ管理を提供します：GeoServer、MapServerの、のArcGIS Serverの、GeoNetwork OGC標準ベースの型WebGISサービスやJava、HTML、CSS、Javascriptを、PythonやPHP言語やフレームワーク、OpenLayersをしてフロントエンドの開発を型WebGIS、ExtJSの、GeoExt、jQueryの、GWT、EXT-GWT、Google MapsのAPI SQL、ジオデータベース管理、PostgreSQLの、PostGISの、GISデスクトップソフトウェアベースの分析およびスクリプティング（ArcGISの、GRASS、GFOSSツール）、LinuxとWindowsベースのサーバーでのソフトウェア構成および管理とデスクトップ。"
 
-#: ../../source/site/about/case_studies/italy_rome.rst:5
-msgid ""
-"The Institute of Environmental Geology and Geoengineering (IGAG) of the "
-"National Research Council (CNR) is located in Rome, in the Area of Research "
-"\"Roma 1\". It was founded in 2002 by regrouping five former research "
-"Institutes and Centers that had been active for more than 40 years in their "
-"field of expertise. IGAG covers a wide range of scientific topics in the "
-"field of Earth sciences, mainly focusing towards the study of:"
-msgstr "米国学術研究会議（CNR）の環境地質とジオエンジニアリング研究所（IGAGは）研究「ローマ1」のエリアで、ローマに位置しています。それは、それぞれの専門分野で40年以上にわたり活動していた5元研究機関やセンターを再編によって2002年に設立されました。IGAGは、主に研究に向けて焦点を当て、地球科学の分野で科学的なトピックの広い範囲をカバー："
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/about/case_studies/italy_rome.rst:51
-msgid "Survey map containing the surveys for seismic microzonation studies;"
-msgstr "地震マイクロゾーニング研究のための調査を含む調査マップ。"
-
-#: ../../source/site/about/case_studies/italy_rome.rst:52
-msgid ""
-"Geo-lithological map, obtained from detailed scale geological and "
-"geomorphological maps integrating existing lithological, stratigraphic and "
-"geotechnical data related to surveys;"
-msgstr "調査に関連する既存の、岩相層序および地質データを統合詳細なスケール地質及び地形図から得られたジオ岩相図。"
-
-#: ../../source/site/about/case_studies/italy_rome.rst:54
-msgid ""
-"Level 1 seismic microzonation map (the principal product of level 1 "
-"microzonation), identifying the microzones into three categories of local "
-"hazards:"
-msgstr "ローカル危険の三つのカテゴリーにマイクロ領域を識別レベル1地震マイクロゾーニングマップ（レベル1マイクロゾーニングの主生成物）。"
-
-#: ../../source/site/about/case_studies/italy_rome.rst:57
-msgid "Stable zones;"
-msgstr "安定したゾーン。"
-
-#: ../../source/site/about/case_studies/italy_rome.rst:58
-msgid "Stable zones prone to ground amplification;"
-msgstr "接地増幅しやすい安定したゾーン。"
-
-#: ../../source/site/about/case_studies/italy_rome.rst:59
-msgid "Unstable zones."
-msgstr "不安定ゾーン。"
-
-#: ../../source/site/about/case_studies/italy_rome.rst:98
-msgid ""
-"The GRASS tool v.to.rast.attribute converts contour elevation lines to "
-"raster, taking the contour shapefile, the name of the z field and the raster"
-" resolution as input;"
-msgstr "GRASSツールv.to.rast.attributeは、等高線シェープファイル、Zフィールドの名前およびラスター解像度を入力として取り、等高線をラスターに変換します；"
-
-#: ../../source/site/about/case_studies/italy_rome.rst:100
-msgid ""
-"The GRASS tool r.surf.contour generates the elevation model taking as input "
-"the rasterized temporary output from previous step and the raster "
-"resolution;"
-msgstr "GRASSツールr.surf.contourは、前のステップからのラスター化された一時出力およびラスター解像度を入力として取り、標高モデルを作成します。"
-
-#: ../../source/site/about/case_studies/italy_rome.rst:102
-msgid ""
-"The GDAL tool “gdaldem” generates the slope expressed as degrees from the "
-"elevation model;"
-msgstr "GDALツール「gdaldem」は標高モデルから度で表される勾配を作成します。"
-
-#: ../../source/site/about/case_studies/italy_rome.rst:111
-msgid "The GDAL tool “gdal_polygonize” converts the 1 bit raster to polygons;"
-msgstr "GDALツール「gdal_polygonize」は1ビットラスターをポリゴンに変換します;"
-
-#: ../../source/site/about/case_studies/italy_rome.rst:144
-msgid ""
-"G. Baldassarre; Gallicchio, S.; Giannandrea, P. & Tropeano, M.: \"Relazione "
-"Finale Geolitologica per la microzonazione sismica di livello 1dei Comuni "
-"della Provincia di Foggia Dipartimento di Geologia e Geofisica "
-"dell'Università di Bari, 2011\""
-msgstr "G・バルダセア; ガッリッキオ、S。; Giannandrea、P.＆Tropeano、M：「2011地質および地球物理学、バーリの大学の学部フォッジャの州で1deiレベルの自治体の地震マイクロゾーニングのための最終報告書のgeolithological」"
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "The Institute of Environmental Geology and Geoengineering (IGAG) of the "

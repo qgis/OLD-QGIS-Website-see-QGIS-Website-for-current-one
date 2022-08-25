@@ -1,18 +1,18 @@
 # 
 # Translators:
-# Tomas Straupis, 2015,2018
+# Tomas Straupis, 2015,2018,2021
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-12 16:20+0200\n"
-"PO-Revision-Date: 2020-03-16 09:01+0000\n"
-"Last-Translator: Jürgen E. Fischer <jef@norbit.de>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:24+0000\n"
+"Last-Translator: Tomas Straupis, 2015,2018,2021\n"
 "Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: lt\n"
 "Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
 
@@ -29,7 +29,7 @@ msgid ""
 " available in the Desktop user interface and about eighty languages are "
 "available in transifex ready to be translated. Nearly the same apply for the"
 " web site and documentation."
-msgstr ""
+msgstr "QGIS originaliai kuriamas angliškai, tiek naudotojo sąsaja (GUI), tiek ir dokumentacija ar svetainė. Bet visi šie komponentai prieinami ir kitomis kalbomis, kadangi kuriami taip, kad galėtų būti paprastai išversti į bet kokią kalbą. Šiuo metu Darbastalį galima naudoti apie keturiasdešimt kalbų, į kurias verčiama transifex. Panašūs skaičiai tinka ir svetainei bei dokumentacijai."
 
 #: ../../source/site/getinvolved/translate.rst:14
 msgid ""
@@ -48,8 +48,8 @@ msgid ""
 "QGIS into a not yet existing language, see :ref:`becoming-translator`. For "
 "any other related questions, please contact the :ref:`Translation Team "
 "Leader <gui-translation>` or subscribe to the `QGIS Translation mailing list"
-" <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_."
-msgstr "Jei galvojate prisidėti prie esamos kalbos arba norite versti QGIS į dar nesamą kalbą, žiūrėkite :ref:`becoming-translator`. Dėl kitų klausimų susisiekite su :ref:`Vertimų komandos vadovu <gui-translation>` arba prisijunkite prie `QGIS Vertimo sąrašyno <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_."
+" <https://lists.osgeo.org/mailman/listinfo/qgis-tr>`_."
+msgstr ""
 
 #: ../../source/site/getinvolved/translate.rst:30
 msgid ""
@@ -76,14 +76,14 @@ msgstr "GUI Vertimas"
 msgid ""
 "The QGIS interface is natively programmed in English. However, at this "
 "moment over forty other languages are already available."
-msgstr ""
+msgstr "QGIS sąsaja pradžioje programuojama angliškai. Bet šiuo metu jau yra išversta į daugiau nei 40 kalbų."
 
 #: ../../source/site/getinvolved/translate.rst:47
 msgid ""
 "To start QGIS with the appropriate localization, run ``qgis --lang <language"
 " code>`` in command line or change localization in QGIS under "
 ":menuselection:`Settings --> Options --> General --> Locale` menu."
-msgstr ""
+msgstr "Norėdami paleisti QGIS su atitinkama lokalizacija, vykdykite ``qgis --lang <language code>`` komandinėje eilutėje arba pakeiskite lokalizaciją QGIS meniu :menuselection:`Nustatymai --> Parinktys --> Bendri --> Lokalė`."
 
 #: ../../source/site/getinvolved/translate.rst:51
 msgid ""
@@ -91,7 +91,7 @@ msgid ""
 "Applications or who is currently working on your language you have to take a"
 " look in the :menuselection:`Help --> About --> Translators` Box in the QGIS"
 " Desktop Application."
-msgstr ""
+msgstr "Jei norite sužinoti, ar jūsų kalba jau yra QGIS arba kas šiuo metu dirba su jūsų kalba, turite žiūrėti :menuselection:`Pagalba --> Apie --> Vertėjai` QGIS Darbastalio programoje."
 
 #: ../../source/site/getinvolved/translate.rst:55
 msgid ""
@@ -99,7 +99,7 @@ msgid ""
 "every \"stable\" version it will always stay at the same level). For finding"
 " the current percentage of translation you will either have to install the "
 "nightly build of QGIS or checkout the source code of QGIS."
-msgstr ""
+msgstr "Ten pat rasite ir vertimo progresą (atsiminkite, kad kiekvienoje „stabilioje“ versijoje progresas nesikeis). Norėdami rasti dabartinį vertimo progresą turėsite arba įdiegti kasnaktinę QGIS versiją arba išsitraukti QGIS kodą."
 
 #: ../../source/site/getinvolved/translate.rst:60
 msgid ""
@@ -108,7 +108,7 @@ msgid ""
 "that, the rapid development of the application continuously causes new and "
 "edited texts to be translated. A huge effort and your help will be "
 "appreciated!"
-msgstr ""
+msgstr "Visoje naudotojo sąsajoje yra virš dešimties tūkstančių teksto gabalų, taigi pilnam vertimui gali prireikti dienų, o gal net ir savaičių. Be to, greitas aplikacijos vystymas pastoviai sukuria naujas ir keičia esamas verčiamas eilutes. Didžiulės pastangos ir jūsų pagalba labai reikalinga!"
 
 #: ../../source/site/getinvolved/translate.rst:69
 msgid "Becoming a translator"
@@ -141,7 +141,7 @@ msgid ""
 "Please contact the :ref:`Translation team leader <gui-translation>` or "
 ":ref:`Community Assistant <community-resources>` to see your name entered in"
 " the About Box of QGIS Desktop."
-msgstr ""
+msgstr "Prašome susisiekti su :ref:`Vertimų komandos vadovu <gui-translation>` arba :ref:`Bendruomenės padėjėju <community-resources>`, kad jūsų vardas būtų įrašytas į QGIS Darbastalio Apie dialogą."
 
 #: ../../source/site/getinvolved/translate.rst:90
 msgid "Transifex"
@@ -157,10 +157,10 @@ msgstr "Tinklinė vertimo platforma Transifex naudojama visiems QGIS vertimams. 
 
 #: ../../source/site/getinvolved/translate.rst:98
 msgid "Join a Project"
-msgstr ""
+msgstr "Prisijunkite prie projekto"
 
 #: ../../source/site/getinvolved/translate.rst:100
-msgid "Go to http://www.transifex.com and create a new account"
+msgid "Go to https://www.transifex.com and create a new account"
 msgstr ""
 
 #: ../../source/site/getinvolved/translate.rst:101
@@ -181,17 +181,17 @@ msgstr "Pasirinkite rolę „Vertėjas“ ir atsakykite keletą kitų klausimų 
 msgid ""
 "At your dashboard page click “Join an existing organisation” and search for "
 "“qgis”. Some QGIS organisations are listed now, among them are:"
-msgstr ""
+msgstr "Savo skydelyje spauskite „Prisijungti prie esamos organizacijos“ ir ieškokite „qgis“. Šiuo metu rodomos kelios QGIS organizacijos, pavyzdžiui:"
 
 #: ../../source/site/getinvolved/translate.rst:107
 msgid ""
 "**QGIS Desktop** for all the pieces of text available in QGIS apps (QGIS "
 "Desktop and QGIS Server),"
-msgstr ""
+msgstr "**QGIS Desktop** viska tekstas, kurį rasite QGIS aplikacijose (QGIS Darbastalyje ir QGIS Serveryje),"
 
 #: ../../source/site/getinvolved/translate.rst:109
 msgid ""
-"**QGIS Docs and Website** to translate both QGIS web site and current "
+"**QGIS Docs and Website** to translate both QGIS website and current "
 "documentation."
 msgstr ""
 
@@ -223,7 +223,7 @@ msgid ""
 " request has been accepted. If your request has no answer for about a week, "
 "please consider writing to your language coordinator in Transifex or the "
 ":ref:`QGIS Translators mailing list <mailinglist-translation>`."
-msgstr ""
+msgstr "Dabar jums reikės palaukti, kol kalbos koordinatorius arba projekto prižiūrėtojai apdoros jūsų prašymą. Jums bus pranešta e-paštu, kai užklausa bus patenkinta. Jei atsakymo nesulauksite per savaitę, prašome parašyti jūsų kalbos koordinatoriui Transifex'e arba į :ref:`QGIS Vertėjų sąrašyną <mailinglist-translation>`."
 
 #: ../../source/site/getinvolved/translate.rst:126
 msgid ""
@@ -232,7 +232,7 @@ msgid ""
 "(regardless in which country you reside). Only if there are notable "
 "differences in the languages (for example portuguese in Portugal vs Brazil) "
 "we will create its own version."
-msgstr ""
+msgstr "Prašydami naujos kalbos turėkite omeny, kad mes stengiamės, kad viskas būtų kaip galima paprasčiau. Tiesiog paprašykite kalbos, į kurią norite versti (nepriklausomai nuo to, kurioje šalyje esate). Tik jei yra žymių skirtumų kalbose (pavyzdžiui portugalų kalba Portugalijoje ir Brazilijoje), mes sukursime atskirą versiją."
 
 #: ../../source/site/getinvolved/translate.rst:133
 msgid "Translate"
@@ -243,25 +243,33 @@ msgid ""
 "Once your request is accepted, you are able to translate any text in the "
 "project(s) you've chosen. Simply click on your language, select the chapter "
 "you want to translate and click on Translate. Easy, right?"
-msgstr ""
+msgstr "Patvirtinus jūsų užklausą, jūs galėsite versti bet kokį tekstą jūsų pasirinktame projekte(uose). Tiesiog spauskite ant jūsų kalbos, parinkite skyrių, kurį norite versti, ir spauskite „Versti“. Paprasta, ar ne?"
 
 #: ../../source/site/getinvolved/translate.rst:139
 msgid ""
 "In order to help you make good translation, some instructions are provided "
 "in the `QGIS Translation Guidelines "
-"<http://docs.qgis.org/testing/en/docs/documentation_guidelines/do_translations.html>`_."
+"<https://docs.qgis.org/testing/en/docs/documentation_guidelines/do_translations.html>`_."
 " We strongly recommend you to read them."
 msgstr ""
 
 #: ../../source/site/getinvolved/translate.rst:144
 msgid "**Quick access to translatable files in Transifex**"
-msgstr ""
+msgstr "**Greita prieiga prie verčiamų failų Transifex'e**"
 
 #: ../../source/site/getinvolved/translate.rst:146
 msgid ""
 "If you find a wrong or missing translation in the current documentation or "
 "web site, you can use the ``Fix me`` link at the bottom of the page to reach"
 " it sources in Transifex and perform any update you wish to."
+msgstr "Jei randate blogą ar trūkstamą vertimą dabartinėje dokumentacijoje arba svetainėje, galite spausti nuorodą ``Pataisyk mane`` puslapio apačioje, kad pasiektumėte šaltinį Transifex'e ir atliktumėte jums reikiamus atnaujinimus."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""
 
 #~ msgid ""
@@ -446,8 +454,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid ""
-#~ "For the different Linux distributions you should find a package called \"qt4"
-#~ "-dev-tools\" or similar."
+#~ "For the different Linux distributions you should find a package called "
+#~ "\"qt4-dev-tools\" or similar."
 #~ msgstr ""
 
 #~ msgid ""
@@ -549,4 +557,27 @@ msgstr ""
 #~ msgid ""
 #~ "**QGIS Desktop** for all the pieces of text available in QGIS apps (QGIS "
 #~ "Desktop, QGIS Browser and QGIS Server),"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you plan to contribute to an existing language or you want to translate "
+#~ "QGIS into a not yet existing language, see :ref:`becoming-translator`. For "
+#~ "any other related questions, please contact the :ref:`Translation Team "
+#~ "Leader <gui-translation>` or subscribe to the `QGIS Translation mailing list"
+#~ " <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_."
+#~ msgstr ""
+
+#~ msgid "Go to http://www.transifex.com and create a new account"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "**QGIS Docs and Website** to translate both QGIS web site and current "
+#~ "documentation."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In order to help you make good translation, some instructions are provided "
+#~ "in the `QGIS Translation Guidelines "
+#~ "<http://docs.qgis.org/testing/en/docs/documentation_guidelines/do_translations.html>`_."
+#~ " We strongly recommend you to read them."
 #~ msgstr ""

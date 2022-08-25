@@ -5,13 +5,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-05 15:28+0200\n"
-"PO-Revision-Date: 2017-09-22 09:58+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:43+0000\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2015\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
@@ -79,6 +80,10 @@ msgid ""
 "standardized workflows (with instructions) for performing common but complex"
 " tasks related to EO data analysis within water resource management."
 msgstr "Un avantaj cheie al instrumentelor Processing este capacitatea de a folosi fără probleme funcționalități de la diferiți furnizori de algoritmi de prelucrare și analiză a datelor. Acest lucru poate fi util pentru a crea modele de automate de prelucrare și, printr-un plugin QGIS dezvoltat în cadrul proiectului TIGER-NET, pentru a combina secvențial algoritmi de la diverși furnizori în lanțurile de prelucrare asistată de calculator. Această funcționalitate a fost folosită pentru a crea o bibliotecă de fluxuri de lucru standardizate (cu instrucțiuni) pentru îndeplinirea unor sarcini comune, dar complexe, legate de analiza datelor EO în managementul resurselor de apă."
+
+#: ../../source/site/about/case_studies/africa_tiger.rst:22
+msgid "The WOIS graphical user interface"
+msgstr ""
 
 #: ../../source/site/about/case_studies/africa_tiger.rst:22
 msgid ""
@@ -207,3 +212,11 @@ msgid ""
 " (http://rs.geo.tuwien.ac.at/) and Copenhagen (http://www.env.dtu.dk/) as "
 "well as the European Space Agency ( www.esa.int)."
 msgstr "Acest articol a fost transmis de Radoslaw Guzinski (dezvoltator software WOIS) cu contribuții din partea echipelor tehnice TIGER-NET de la DHI-GRAS (www.dhi-gras.com), GeoVille (www.geoville.com), universitățile tehnice din Viena (http://rs.geo.tuwien.ac.at/) și Copenhaga (http://www.env.dtu.dk/) precum și Agenția Spațială Europeană ( www.esa.int)."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"

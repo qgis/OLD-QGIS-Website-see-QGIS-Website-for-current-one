@@ -3,26 +3,26 @@
 # This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
-# Manuela Silva <manuelarodsilva@gmail.com>, 2017
+# Manuela Silva <mmsrs@sky.com>, 2017
 # slopes <sandramnlopes@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-11 18:41+0200\n"
-"PO-Revision-Date: 2019-12-05 20:46+0000\n"
-"Last-Translator: João Gaspar <joao.f.r.gaspar@gmail.com>\n"
+"PO-Revision-Date: 2016-03-05 14:48+0000\n"
+"Last-Translator: Manuela Silva <mmsrs@sky.com>, 2017\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/qgis/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.5.1\n"
 "Language: pt_PT\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:3
 msgid "Getting up and running with QtCreator and QGIS"
-msgstr ""
+msgstr "A configurar e a executar com o QtCreator e QGIS"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:6
 msgid ""
@@ -30,7 +30,7 @@ msgid ""
 "you can build any C++ project, but it's really optimised for people working "
 "on Qt(4) based applications (including mobile apps). Everything I describe "
 "below assumes you are running Ubuntu 11.04 'Natty'."
-msgstr ""
+msgstr "QtCreator é um IDE novo dos criadores da biblioteca Qt. Com o QtCreator, pode criar qualquer projeto C++, mas ele é realmente otimizado para as pessoas que trabalham em aplicações baseadas no Qt (4) (incluindo as aplicações móveis). Tudo o que descrevo em baixo pressupõe que está a executar o Ubuntu 11.04 'Natty'."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:13
 msgid "Installing QtCreator"
@@ -42,7 +42,7 @@ msgstr "Esta parte é fácil:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:22
 msgid "After installing you should find it in your gnome menu."
-msgstr ""
+msgstr "Depois da instalação deveria encontrá-lo no seu menu gnome"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:26
 msgid "Setting up your project"
@@ -66,7 +66,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:36
 msgid "On launching QtCreator do:"
-msgstr ""
+msgstr "Ao iniciar o QtCreator, faça:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:38
 msgid "*File* -> *Open File or Project*"
@@ -106,15 +106,15 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:78
 msgid "Setting up your build environment"
-msgstr ""
+msgstr "A configurar o seu ambiente da compilação"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:80
 msgid "Click on the 'Projects' icon on the left of the QtCreator window."
-msgstr ""
+msgstr "Clique mo ícone 'Projetos' à esquerda da janela do QtCreator."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:84
 msgid "Select the build settings tab (normally active by default)."
-msgstr ""
+msgstr "Selecione o separador da definições da compilação (normalmente ativo por predefinição)."
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:88
 msgid ""
@@ -126,23 +126,23 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:95
 msgid "Now we set the following details:"
-msgstr ""
+msgstr "Agora nós definimos os detalhes seguintes:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:97
 msgid "Enable custom process step: [yes]"
-msgstr ""
+msgstr "Ativar passo do processo personalizado:  [sim]"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:99
 msgid "Command: make"
-msgstr ""
+msgstr "Comando \"make\""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:101
 msgid "Working directory: $HOME/dev/cpp/QGIS/build-master-qtcreator"
-msgstr ""
+msgstr "Diretoria de trabalho: $HOME/dev/cpp/QGIS/build-master-qtcreator"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:103
 msgid "Command arguments: install"
-msgstr ""
+msgstr "Comando argumentos: \"install\""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:107
 msgid ""
@@ -161,7 +161,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:119
 msgid "Setting your run environment"
-msgstr ""
+msgstr "A configurar o seu ambiente de execução"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:121
 msgid ""
@@ -173,7 +173,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:128
 msgid "Now select the 'Run Settings' tab"
-msgstr ""
+msgstr "Agora selecione o separador 'Definições de Executar'"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:132
 msgid ""
@@ -189,31 +189,31 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:142
 msgid "Now in the properties area set the following details:"
-msgstr ""
+msgstr "Agora na área das propriedades defina os detalhes seguintes:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:144
 msgid "Executable: /usr/local/bin/qgis"
-msgstr ""
+msgstr "Executável: /usr/local/bin/qgis"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:146
 msgid "Arguments :"
-msgstr ""
+msgstr "Argumentos:"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:148
 msgid "Working directory: $HOME"
-msgstr ""
+msgstr "Diretoria de trabalho: $HOME"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:150
 msgid "Run in terminal: [no]"
-msgstr ""
+msgstr "Executar no terminal: [no]"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:152
 msgid "Debugger: C++ [yes]"
-msgstr ""
+msgstr "Depurador: C++ [sim]"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:154
 msgid "Qml [no]"
-msgstr ""
+msgstr "Qml [não]"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:156
 msgid ""
@@ -223,7 +223,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:162
 msgid "Running and debugging"
-msgstr ""
+msgstr "A executar e a depurar"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/qtcreator.rst:164
 msgid ""

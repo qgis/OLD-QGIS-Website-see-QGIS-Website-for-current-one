@@ -3,19 +3,19 @@
 # This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2016,2018,2020
+# Sorin Călinică <scalinica@gmail.com>, 2016,2018,2020-2021
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-09 12:40+0200\n"
-"PO-Revision-Date: 2020-07-29 13:48+0000\n"
-"Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2016-03-05 14:48+0000\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2016,2018,2020-2021\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.8.0\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
@@ -99,7 +99,7 @@ msgstr "https://github.com/qgis"
 msgid ""
 "Rights depending on sub project plz contact Marco B, Alessandro P, Tim S, "
 "Richard D"
-msgstr ""
+msgstr "Drepturile depind de subproiect, vă rugăm să-i contactați pe Marco B, Alessandro P, Tim S, Richard D"
 
 #: ../../source/site/getinvolved/governance/infrastructure.rst:43
 msgid "Flickr Groups"
@@ -168,7 +168,7 @@ msgstr "Marco B"
 
 #: ../../source/site/getinvolved/governance/infrastructure.rst:82
 msgid "OLD Wiki and Redmine"
-msgstr ""
+msgstr "Versiunile vechi de Wiki și Redmine"
 
 #: ../../source/site/getinvolved/governance/infrastructure.rst:84
 msgid "https://issues.qgis.org/projects/qgis/issues"
@@ -177,6 +177,14 @@ msgstr "https://issues.qgis.org/projects/qgis/issues"
 #: ../../source/site/getinvolved/governance/infrastructure.rst:85
 msgid "Pirmin K, Duivenvoorde R"
 msgstr "Pirmin K, Duivenvoorde R"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "Otto D, Richard D, ..."
 #~ msgstr ""

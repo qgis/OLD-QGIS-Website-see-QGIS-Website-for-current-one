@@ -1,22 +1,27 @@
 # 
 # Translators:
 # BelenMP <Beln1@hotmail.com>, 2014
-# YoViajo, 2015
-# YoViajo, 2016
-# Rodrigo Armesto <rodri_Armesto@hotmail.com>, 2019
+# Eric Armijo, 2015
+# Eric Armijo, 2016
+# Rodrigo Armesto Baztán <rodri_Armesto@hotmail.com>, 2019
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2019-12-20 12:04+0000\n"
-"Last-Translator: Rodrigo Armesto <rodri_Armesto@hotmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Rodrigo Armesto Baztán <rodri_Armesto@hotmail.com>, 2019\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:3
+msgid "QGIS Maps Historic Herpetofaunal Records (in Missouri, USA)"
+msgstr "QGIS Mapea Registros Históricos de Herpetofauna (en Missouri, EE.UU.)"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:5
 msgid ""
@@ -64,6 +69,10 @@ msgid ""
 msgstr "El proceso de creación de mapas con QGIS comienza con los datos almacenados en varias tablas de PostgreSQL, habilitados espacialmente con PostGIS. Debido a que los mapas son estáticos y, en última instancia, están destinados a la web o a un atlas impreso, se generan automáticamente para cada especie utilizando un complemento personalizado en Python de QGIS(Figuras 1,2)."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:21
+msgid "Custom map generation and export user interface"
+msgstr ""
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:21
 msgid ""
 "Custom map generation and export user interface, maps are generated and "
 "exported in a batch process."
@@ -79,8 +88,16 @@ msgid ""
 msgstr "Los mapas finales de especies tienen una clara apariencia profesional (Figura 3). Para un mejor entendimiento de la distribución de especies, una serie de mapas base son creados y etiquetados (Figura 4). Debido a que los estilos de forma son manejados dentro de cada capa de datos, las capas del mapa base pueden también ser incorporadas en un grupo de mapas de especie con un poco más de esfuerzo."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:30
+msgid "Maps"
+msgstr "Mapas"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:30
 msgid "Maps are displayed as static images."
 msgstr "Los mapas se muestran como imágenes estáticas."
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:37
+msgid "Labelled Level III Ecoregion map for Missouri"
+msgstr ""
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:37
 msgid "Labelled Level III Ecoregion map for Missouri and surrounding states."
@@ -89,26 +106,6 @@ msgstr "Mapa Etiquetado Nivel III de Ecorregión para Missouri y estados vecinos
 #: ../../source/site/about/case_studies/usa_missouri.rst:40
 msgid "Conclusions"
 msgstr "Conclusiones"
-
-#: ../../source/site/about/case_studies/usa_missouri.rst:49
-msgid "Author"
-msgstr "Autor"
-
-#: ../../source/site/about/case_studies/usa_missouri.rst:56
-msgid "Brian Edmond"
-msgstr "Brian Edmond"
-
-#: ../../source/site/about/case_studies/usa_missouri.rst:58
-msgid ""
-"This article was contributed by Brian Edmond in February 2013. He is a "
-"Senior Systems Analyst in Computer Services at Missouri State University.  "
-"He holds a BS in Wildlife Biology from the University of Missouri and has "
-"spent his career in the intergrade zone between biology and technology."
-msgstr "Brian Edmond contribuyó con este artículo en febrero de 2013. Es analista de sistemas sénior en servicios informáticos en la Universidad Estatal de Missouri. Tiene una licenciatura en Biología de Vida Silvestre de la Universidad de Missouri y ha pasado su carrera en la zona intergrada entre biología y tecnología."
-
-#: ../../source/site/about/case_studies/usa_missouri.rst:3
-msgid "QGIS Maps Historic Herpetofaunal Records (in Missouri, USA)"
-msgstr "QGIS Mapea Registros Históricos de Herpetofauna (en Missouri, EE.UU.)"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:42
 msgid ""
@@ -136,6 +133,30 @@ msgid ""
 "extensibility using Python is more than sufficient to tackle larger and more"
 " complex projects."
 msgstr "Aunque usamos QGIS de un modo breve y específico, sus capacidades y extensibilidad con Python son más que suficientes para abordar proyectos más grandes y complejos."
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:49
+msgid "Author"
+msgstr "Autor"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:56
+msgid "Brian Edmond"
+msgstr "Brian Edmond"
+
+#: ../../source/site/about/case_studies/usa_missouri.rst:58
+msgid ""
+"This article was contributed by Brian Edmond in February 2013. He is a "
+"Senior Systems Analyst in Computer Services at Missouri State University.  "
+"He holds a BS in Wildlife Biology from the University of Missouri and has "
+"spent his career in the intergrade zone between biology and technology."
+msgstr "Brian Edmond contribuyó con este artículo en febrero de 2013. Es analista de sistemas sénior en servicios informáticos en la Universidad Estatal de Missouri. Tiene una licenciatura en Biología de Vida Silvestre de la Universidad de Missouri y ha pasado su carrera en la zona intergrada entre biología y tecnología."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "QGIS Maps Historic Herpetofaunal Records"
 #~ msgstr ""

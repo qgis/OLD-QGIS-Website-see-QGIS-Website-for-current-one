@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 # 
 # Translators:
-# xanvieiro <gallaecia6@gmail.com>, 2020
+# Xan Vieiro <gallaecia6@gmail.com>, 2020
 # Navhy, 2020
 # 
 #, fuzzy
@@ -12,14 +12,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-12 16:20+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-07-12 14:28+0000\n"
 "Last-Translator: Navhy, 2020\n"
 "Language-Team: Galician (https://www.transifex.com/qgis/teams/6144/gl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: gl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -268,9 +268,9 @@ msgstr "Doazón"
 msgid ""
 "Donations can be of any amount, via direct transfers to our bank account "
 "(SEPA payment), credit card payment (through stripe.com) or Paypal "
-"(information available at :ref:`Donations <QGIS-donations>` page). Even a "
-"small donation can make a difference and help to reach important project "
-"goals!"
+"(information available at `Donations <https://donate.qgis.org>`__ page). "
+"Even a small donation can make a difference and help to reach important "
+"project goals!"
 msgstr ""
 
 #: ../../source/site/getinvolved/governance/sustaining_members/sustaining_members.rst:107
@@ -379,3 +379,19 @@ msgid ""
 "site and other materials will degrade the experience of our users will be "
 "declined."
 msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
+
+#~ msgid ""
+#~ "Donations can be of any amount, via direct transfers to our bank account "
+#~ "(SEPA payment), credit card payment (through stripe.com) or Paypal "
+#~ "(information available at :ref:`Donations <QGIS-donations>` page). Even a "
+#~ "small donation can make a difference and help to reach important project "
+#~ "goals!"
+#~ msgstr ""

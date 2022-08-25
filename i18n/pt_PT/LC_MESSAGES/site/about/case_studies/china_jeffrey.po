@@ -1,6 +1,6 @@
 # 
 # Translators:
-# Manuela Silva <manuelarodsilva@gmail.com>, 2018
+# Manuela Silva <mmsrs@sky.com>, 2018
 # Paula Moreira <prmpaula@gmail.com>, 2018
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2019
 # 
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: pt_PT\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/china_jeffrey.rst:3
 msgid "Using QGIS in Afghanistan ..."

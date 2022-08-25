@@ -6,29 +6,34 @@
 # Translators:
 # Calvin Ngei <calvin.ngei@gmail.com>, 2020
 # Jürgen E. Fischer <jef@norbit.de>, 2020
+# 徐保才 <1302638819@qq.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-05 19:50+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-07-12 14:44+0000\n"
-"Last-Translator: Jürgen E. Fischer <jef@norbit.de>, 2020\n"
+"Last-Translator: 徐保才 <1302638819@qq.com>, 2022\n"
 "Language-Team: Chinese Simplified (https://www.transifex.com/qgis/teams/6144/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: zh-Hans\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:4
 msgid "Changelog for QGIS 3.8"
-msgstr ""
+msgstr "QGIS 3.8 更新日志"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:6
 msgid "|image1|"
+msgstr "图像1|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1021
+msgid "image1"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:8
@@ -42,7 +47,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:10
 msgid "**Thanks**"
-msgstr ""
+msgstr "**谢谢**"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:12
 msgid ""
@@ -70,6 +75,8 @@ msgid ""
 ":raw-html:`<div id=\"qgissustainingmembersatom\"> <!-- to be filled via "
 "javascript loading of atom feed --> </div>`"
 msgstr ""
+":raw-html:`<div id=\"qgissustainingmembersatom\"> <!-- to be filled via "
+"javascript loading of atom feed --> </div>`"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:18
 msgid ""
@@ -99,6 +106,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:31
 msgid "|image2|"
+msgstr "图像2|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1023
+msgid "image2"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:33
@@ -113,7 +124,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:38
 msgid "User Interface"
-msgstr ""
+msgstr "用户界面"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:41
 msgid "Feature: Save to Template Button"
@@ -129,6 +140,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:45
 msgid "|image3|"
+msgstr "图像3|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1025
+msgid "image3"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:47
@@ -153,6 +168,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:54
 msgid "|image4|"
+msgstr "图像4|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1027
+msgid "image4"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:57
@@ -222,6 +241,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:73
 msgid "|image5|"
+msgstr "|image5|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1029
+msgid "image5"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:75
@@ -246,6 +269,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:82
 msgid "|image6|"
+msgstr "|image6|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1031
+msgid "image6"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:84
@@ -277,6 +304,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:93
 msgid "|image7|"
+msgstr "|image7|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1033
+msgid "image7"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:95
@@ -328,6 +359,10 @@ msgstr ""
 msgid "|image8|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog38/index.rst:1035
+msgid "image8"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog38/index.rst:117
 msgid "Feature: Offset settings for point pattern fill symbol layers"
 msgstr ""
@@ -344,6 +379,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:121
 msgid "|image9|"
+msgstr "|image9|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1037
+msgid "image9"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:126
@@ -371,7 +410,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:133
 msgid "Labelling"
-msgstr ""
+msgstr "标注"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:136
 msgid "Feature: Geometry generators for labeling"
@@ -401,6 +440,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:142
 msgid "|image10|"
+msgstr "|image10|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1039
+msgid "image10"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:144
@@ -452,6 +495,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:164
 msgid "|image11|"
+msgstr "|image11|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1041
+msgid "image11"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:166
@@ -479,6 +526,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:175
 msgid "|image12|"
+msgstr "|image12|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1043
+msgid "image12"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:177
@@ -525,9 +576,13 @@ msgstr ""
 msgid "|image13|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog38/index.rst:1045
+msgid "image13"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog38/index.rst:200
 msgid "Print Layouts"
-msgstr ""
+msgstr "打印布局"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:203
 msgid "Feature: Distribute spacing between items evenly"
@@ -572,6 +627,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:216
 msgid "|image14|"
+msgstr "|image14|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1047
+msgid "image14"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:218
@@ -591,7 +650,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:223
 msgid "Expressions"
-msgstr ""
+msgstr "表达式"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:226
 msgid ""
@@ -615,6 +674,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:232
 msgid "|image15|"
+msgstr "|image15|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1049
+msgid "image15"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:234
@@ -664,6 +727,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:255
 msgid "|image16|"
+msgstr "|image16|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1051
+msgid "image16"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:262
@@ -679,6 +746,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:266
 msgid "|image17|"
+msgstr "|image17|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1053
+msgid "image17"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:271
@@ -751,6 +822,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:291
 msgid "|image18|"
+msgstr "|image18|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1055
+msgid "image18"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:294
@@ -766,6 +841,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:298
 msgid "|image19|"
+msgstr "|image19|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1057
+msgid "image19"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:303
@@ -787,13 +866,18 @@ msgstr ""
 msgid "|image20|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog38/index.rst:1059
+msgid "image20"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog38/index.rst:312
 #: ../../source/site/forusers/visualchangelog38/index.rst:323
 #: ../../source/site/forusers/visualchangelog38/index.rst:720
 msgid ""
-"This feature was funded by `Kanton Schaffhausen <https://sh.ch/CMS/Webseite"
-"/Kanton-Schaffhausen/Beh-"
-"rde/Verwaltung/Volkswirtschaftsdepartement/Amt-f-r-Geoinformation-3854-DE.html>`__"
+"This feature was funded by `Kanton Schaffhausen "
+"<https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-"
+"rde/Verwaltung/Volkswirtschaftsdepartement/Amt-f-r-"
+"Geoinformation-3854-DE.html>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:314
@@ -817,6 +901,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:321
 msgid "|image21|"
+msgstr "|image21|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1061
+msgid "image21"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:328
@@ -832,6 +920,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:332
 msgid "|image22|"
+msgstr "|image22|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1063
+msgid "image22"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:334
@@ -848,7 +940,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:339
 msgid "Forms and Widgets"
-msgstr ""
+msgstr "对话框和控件"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:342
 msgid "Feature: Allow browsing feature list"
@@ -878,6 +970,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:352
 msgid "|image23|"
+msgstr "|image23|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1065
+msgid "image23"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:354
@@ -907,6 +1003,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:363
 msgid "|image24|"
+msgstr "|image24|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1067
+msgid "image24"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:370
@@ -946,6 +1046,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:382
 msgid "|image25|"
+msgstr "|image25|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1069
+msgid "image25"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:384
@@ -973,6 +1077,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:396
 msgid "|image26|"
+msgstr "|image26|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1071
+msgid "image26"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:403
@@ -1000,6 +1108,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:409
 msgid "|image27|"
+msgstr "|image27|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1073
+msgid "image27"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:416
@@ -1017,6 +1129,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:420
 msgid "|image28|"
+msgstr "图像28|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1075
+msgid "image28"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:422
@@ -1063,6 +1179,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:433
 msgid "|image29|"
+msgstr "|image29|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1077
+msgid "image29"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:440
@@ -1078,6 +1198,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:444
 msgid "|image30|"
+msgstr "|image30|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1079
+msgid "image30"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:446
@@ -1114,6 +1238,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:457
 msgid "|image31|"
+msgstr "|image31|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1081
+msgid "image31"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:459
@@ -1152,6 +1280,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:470
 msgid "|image32|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1083
+msgid "image32"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:477
@@ -1316,6 +1448,10 @@ msgstr ""
 msgid "|image33|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog38/index.rst:1085
+msgid "image33"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog38/index.rst:557
 msgid "Feature: Add X/Y fields to layer"
 msgstr ""
@@ -1330,6 +1466,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:561
 msgid "|image34|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1087
+msgid "image34"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:568
@@ -1362,6 +1502,10 @@ msgstr ""
 msgid "|image35|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog38/index.rst:1089
+msgid "image35"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog38/index.rst:583
 msgid "Feature: Grass r.geomorphon algorithm"
 msgstr ""
@@ -1376,6 +1520,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:587
 msgid "|image36|"
+msgstr "|image36|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1091
+msgid "image36"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:590
@@ -1391,6 +1539,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:594
 msgid "|image37|"
+msgstr "|image37|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1093
+msgid "image37"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:596
@@ -1446,6 +1598,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:620
 msgid "|image38|"
+msgstr "|image38|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1095
+msgid "image38"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:627
@@ -1467,6 +1623,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:634
 msgid "|image39|"
+msgstr "|image39|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1097
+msgid "image39"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:636
@@ -1712,6 +1872,10 @@ msgstr ""
 msgid "|image41|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog38/index.rst:1101
+msgid "image41"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog38/index.rst:722
 msgid ""
 "This feature was developed by Jürgen Fischer in collaboration with Matthias "
@@ -1805,6 +1969,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:758
 msgid "|image40|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1099
+msgid "image40"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:760
@@ -2047,7 +2215,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog38/index.rst:883
 #: ../../source/site/forusers/visualchangelog38/index.rst:987
 msgid "invalid"
-msgstr ""
+msgstr "无效"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:812
 msgid ""
@@ -2949,6 +3117,14 @@ msgstr ""
 msgid ""
 "This feature was developed by `Loïc Bartoletti <https://oslandia.com/en/>`__"
 msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "This feature was funded by `QGIS User Group Switzerland <http://qgis.ch>`__"

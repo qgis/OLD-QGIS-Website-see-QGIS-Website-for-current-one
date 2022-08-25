@@ -6,15 +6,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-28 17:39+0100\n"
-"PO-Revision-Date: 2020-03-16 09:21+0000\n"
-"Last-Translator: diana lopez <diana.lopezagostini@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-02-28 18:29+0000\n"
+"Last-Translator: josep constantí mata <iceberg.jcm@gmail.com>, 2019\n"
 "Language-Team: Catalan (http://www.transifex.com/qgis/qgis-website/language/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ca\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/forusers/visualchangelog28/index.rst:5
+msgid "Changelog for QGIS 2.8"
+msgstr "Llista de canvis a QGIS 2.8"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:7
 msgid ""
@@ -119,6 +124,10 @@ msgid ""
 "<http://www.opw.ie/>`_"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog28/index.rst:43
+msgid "BRONZE Sponsor: `GIS3W, Italy <http://www.gis3w.it/>`_"
+msgstr "Patrocinador BRONZE:  `GIS3W, Itàlia <http://www.gis3w.it/>`_"
+
 #: ../../source/site/forusers/visualchangelog28/index.rst:44
 msgid "BRONZE Sponsor: `www.molitec.it, Italy <http://www.molitec.it/>`_"
 msgstr "Patrocinador BRONZE:  `www.molitec.it, Itàlia <http://www.molitec.it/>`_"
@@ -131,6 +140,12 @@ msgstr "Patrocinador BRONZE: `www.argusoft.de, Alemanya <http://www.argusoft.de>
 msgid ""
 "BRONZE Sponsor: `www.openrunner.com, France <http://www.openrunner.com>`_"
 msgstr "Patrocinador BRONZE: `www.openrunner.com, França <http://www.openrunner.com>`_"
+
+#: ../../source/site/forusers/visualchangelog28/index.rst:47
+msgid ""
+"BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "
+"<http://www.gkg-kassel.de/>`_"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:48
 msgid ""
@@ -496,7 +511,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:254
 msgid "Layer Legend"
-msgstr ""
+msgstr "Llegenda de la capa"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:257
 msgid "Feature: Show rule-based renderer's legend as a tree"
@@ -912,6 +927,12 @@ msgid ""
 "correctly handles labelling and symbology, etc."
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog28/index.rst:496
+msgid ""
+"**This feature was funded by:** `Japan Space Imaging Corporation (JSI) "
+"<http://www.spaceimaging.co.jp/>`_"
+msgstr "**Aquesta característica va ser finançada per :** `Japan Space Imaging Corporation (JSI) <http://www.spaceimaging.co.jp/>`_"
+
 #: ../../source/site/forusers/visualchangelog28/index.rst:505
 msgid "User Interface"
 msgstr "Interfície d'usuari"
@@ -931,24 +952,12 @@ msgstr ""
 msgid "."
 msgstr "."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:5
-msgid "Changelog for QGIS 2.8"
-msgstr "Llista de canvis a QGIS 2.8"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:43
-msgid "BRONZE Sponsor: `GIS3W, Italy <http://www.gis3w.it/>`_"
-msgstr "Patrocinador BRONZE:  `GIS3W, Itàlia <http://www.gis3w.it/>`_"
-
-#: ../../source/site/forusers/visualchangelog28/index.rst:496
-msgid ""
-"**This feature was funded by:** `Japan Space Imaging Corporation (JSI) "
-"<http://www.spaceimaging.co.jp/>`_"
-msgstr "**Aquesta característica va ser finançada per :** `Japan Space Imaging Corporation (JSI) <http://www.spaceimaging.co.jp/>`_"
-
-#: ../../source/site/forusers/visualchangelog28/index.rst:47
-msgid ""
-"BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany <http://www"
-".gkg-kassel.de/>`_"
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""
 
 #~ msgid ""

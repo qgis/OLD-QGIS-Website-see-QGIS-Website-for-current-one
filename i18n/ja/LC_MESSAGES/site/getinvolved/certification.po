@@ -4,21 +4,23 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 # 
 # Translators:
-# fairtommy <fairtommy@gmail.com>, 2019
+# Jürgen E. Fischer <jef@norbit.de>, 2022
+# tomoyuki arai <tarai.3367@gmail.com>, 2022
+# fairtommy <fairtommy@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-26 11:45+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-03-13 19:40+0000\n"
-"Last-Translator: fairtommy <fairtommy@gmail.com>, 2019\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2022\n"
 "Language-Team: Japanese (https://www.transifex.com/qgis/teams/6144/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -77,11 +79,20 @@ msgstr "公開QGISコースウェアの公開"
 msgid "Authoring QGIS books"
 msgstr "QGIS書籍の著述"
 
-#: ../../source/site/getinvolved/certification.rst:23
-msgid "Workflow Certification"
-msgstr "ワークフロー認証"
+#: ../../source/site/getinvolved/certification.rst:20
+msgid ""
+"To contact the certification team, please write to certification@qgis.org."
+msgstr ""
 
-#: ../../source/site/getinvolved/certification.rst:25
+#: ../../source/site/getinvolved/certification.rst:24
+msgid "Certification Process"
+msgstr ""
+
+#: ../../source/site/getinvolved/certification.rst:27
+msgid "Application"
+msgstr "アプリケーション"
+
+#: ../../source/site/getinvolved/certification.rst:29
 msgid ""
 "You are required to provide the training material for each of your courses. "
 "This includes exercises, lectures and data. This material will be reviewed "
@@ -91,7 +102,7 @@ msgid ""
 msgstr ""
 "各コースのトレーニング教材を提供する必要があります。これには演習、講義、データが含まれます。この資料は、最新性、QGISプロジェクトの正確な表現、および全体的な品質についてレビューされます。材料の品質が十分でない場合は、これが拒否の原因になる可能性があります。"
 
-#: ../../source/site/getinvolved/certification.rst:28
+#: ../../source/site/getinvolved/certification.rst:32
 msgid ""
 "Following an initial review, the application will be sent to local QGIS "
 "groups for their opinion. This portion of the review should take place in "
@@ -104,14 +115,14 @@ msgid ""
 msgstr ""
 "最初の審査の後、申請書は地元のQGISグループに送付され、意見が寄せられます。レビューのこの部分は1か月以内に行われるべきです。地元のQGISユーザーグループがない場合は、QGISプロジェクト運営委員会（PSC）が、提供された資料とコミュニティでの評判に基づいて決定を下します。後者の場合は、ローカルのQGISユーザーグループを設立することをお勧めします。会費を納めているQGISコミュニティのメンバーであるとは思われない方の場合、これが拒絶の原因となる可能性があります。"
 
-#: ../../source/site/getinvolved/certification.rst:30
+#: ../../source/site/getinvolved/certification.rst:34
 msgid ""
 "The PSC will make the final determination. If accepted as a QGIS Certified "
 "Organization your contributions to the project will be published for "
 "transparency."
 msgstr "PSCが最終決定を下します。QGIS認証機関として承認された場合、プロジェクトへのあなたの貢献は透明性のために公開されます。"
 
-#: ../../source/site/getinvolved/certification.rst:32
+#: ../../source/site/getinvolved/certification.rst:36
 msgid ""
 "If approved you are required to pay a €20 certification fee to the QGIS "
 "project for each certificate you issue. This creates a mechanism for "
@@ -120,14 +131,34 @@ msgid ""
 "SEPA wire transfer. Payments can be handled in batches for many certificates"
 " at once."
 msgstr ""
+"承認された場合、発行する各証明書につき20ユーロの認証料をQGISプロジェクトに支払う必要があります。これにより、プロジェクトを財政的に支援するためのメカニズムが生まれます。証明書の支払いは、オンラインクレジットカード取引を使用するか、通常の請求書とSEPA電信送金による要求に応じて行われます。多くの証明書については支払いはまとめて一度に処理できます。"
 
-#: ../../source/site/getinvolved/certification.rst:35
+#: ../../source/site/getinvolved/certification.rst:39
 msgid ""
 "You can apply through `this form <certification_link_>`_ (make sure to first"
 " create a `login <certification_login_>`_). You can find more details about "
 "the certification programme `here <certification_details_>`_ (we advise you "
 "to read this before registering)."
 msgstr ""
+"`このフォーム <certification_link_>`_ から申請できます（必ず最初に `ログイン "
+"<certification_login_>`_ を作成してください）。認定プログラムの詳細については、 `こちら "
+"<certification_details_>`_ をご覧ください（登録する前にこれを読むことをお勧めします）。"
+
+#: ../../source/site/getinvolved/certification.rst:47
+msgid "Course Certification Workflow"
+msgstr ""
+
+#: ../../source/site/getinvolved/certification.rst:52
+msgid "Workflow Certification"
+msgstr "ワークフロー認証"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "If approved you are required to make a €20 donation to the QGIS project for "
@@ -145,3 +176,4 @@ msgstr ""
 #~ "project. Payments for certificates are made using online credit card "
 #~ "transactions."
 #~ msgstr ""
+#~ "承認された場合、証明書ごとにQGISプロジェクトに20ユーロの寄付をする必要があります。これにより、プロジェクトを財政的に支援するためのメカニズムが生まれます。証明書の支払いは、オンラインクレジットカード取引を使用して行われます。"

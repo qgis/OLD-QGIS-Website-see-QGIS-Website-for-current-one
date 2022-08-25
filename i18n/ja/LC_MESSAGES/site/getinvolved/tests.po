@@ -4,21 +4,22 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # 
 # Translators:
-# fairtommy <fairtommy@gmail.com>, 2018
+# tomoyuki arai <tarai.3367@gmail.com>, 2022
+# fairtommy <fairtommy@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-05 19:50+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2017-12-19 15:08+0000\n"
-"Last-Translator: fairtommy <fairtommy@gmail.com>, 2018\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2022\n"
 "Language-Team: Japanese (https://www.transifex.com/qgis/teams/6144/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -52,6 +53,9 @@ msgid ""
 "See `Unit testing "
 "<https://docs.qgis.org/testing/en/docs/developers_guide/unittesting.html>`_"
 msgstr ""
+"`ユニットテスト "
+"<https://docs.qgis.org/testing/en/docs/developers_guide/unittesting.html>`_ "
+"参照"
 
 #: ../../source/site/getinvolved/tests.rst:30
 msgid "OGC Conformance testing"
@@ -63,6 +67,9 @@ msgid ""
 "<https://docs.qgis.org/testing/en/docs/developers_guide/ogcconformancetesting.html>`_"
 " for more information and how to run these tests yourself."
 msgstr ""
+"詳細とこれらのテストをご自身で実行する方法については `OGC 適合度テスト "
+"<https://docs.qgis.org/testing/en/docs/developers_guide/ogcconformancetesting.html>`_"
+" を参照。"
 
 #: ../../source/site/getinvolved/tests.rst:35
 msgid ""
@@ -71,6 +78,17 @@ msgid ""
 "http://test.qgis.org/ogc_cite/wms_130/latest/report.html and for WFS 1.1.0 "
 "see http://test.qgis.org/ogc_cite/wfs_110/latest/report.html."
 msgstr ""
+"最近のテスト結果はこちら: http://test.qgis.org/ogc_cite 。最新のWMS 1.3.0テストについては "
+"http://test.qgis.org/ogc_cite/wms_130/latest/report.html を参照。WFS 1.1.0については "
+"http://test.qgis.org/ogc_cite/wfs_110/latest/report.html を参照。"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "See :ref:`qgis_unittesting`"
 #~ msgstr ":ref:`qgis_unittesting` 参照。"

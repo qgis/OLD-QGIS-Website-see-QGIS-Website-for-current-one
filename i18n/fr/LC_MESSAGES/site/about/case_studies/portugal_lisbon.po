@@ -7,21 +7,43 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-19 19:59+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Médéric RIBREUX <mederic.ribreux__translate@medspx.fr>, 2015\n"
 "Language-Team: French (http://www.transifex.com/qgis/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: fr\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/about/case_studies/portugal_lisbon.rst:3
 msgid ""
 "Using QGIS to Map Hotspot Areas for Biodiversity and Ecosystem Services "
 "(HABEaS)"
 msgstr "Utiliser QGIS pour cartographier les zones de services écosystémiques de la biodiversité (HABEaS)"
+
+#: ../../source/site/about/case_studies/portugal_lisbon.rst:5
+msgid ""
+"HABEaS --- Hotspot Areas for Biodiversity and Ecosystem Services is an "
+"online geographic information system (WebGIS) that was created by the "
+"`Centre for Applied Ecology "
+"<http://www.isa.utl.pt/ceabn/content/2/123/homepage>`_ (`Instituto Superior "
+"de Agronomia <http://www.isa.utl.pt/home/>`_, Technical University of "
+"Lisbon), Worldwide Fund for Nature (WWF) and Faunalia."
+msgstr "HABEaS - Hotspot Areas for Biodiversity and Ecosystem Services est un système d'information géographique en ligne (WebSIG) créé par le `Centre for Applied Ecology  <http://www.isa.utl.pt/ceabn/content/2/123/homepage>`_ (`Instituto Superior de Agronomia <http://www.isa.utl.pt/home/>`_, le  Worldwide Fund for Nature) (WWF) et l'entreprise Faunalia."
+
+#: ../../source/site/about/case_studies/portugal_lisbon.rst:7
+msgid ""
+"The main goal of this platform is to provide free access to a wide variety "
+"of data on biodiversity and ecosystem services for the Mediterranean Basin "
+"that was scattered across a number of public and private entities. Presently"
+" HABEaS WebGIS covers the south of Portugal, but by the end of 2012/early "
+"2013 it will be expanded to the north of Portugal and also to the Tuzla "
+"Canton in Bosnia & Herzegovina. In the long run we want to expand this tool "
+"to the entire Mediterranean Basin."
+msgstr "Le but principal de cette plateforme est de fournir un accès gratuit à un grand nombre de données sur les services écosystémiques et sur la biodiversité du bassin méditerranéen, qui étaient jusqu'alors réparties entre de nombreuses structures publiques et privées.\nÀ ce jour, le WebSIG HABEaS ne couvre que le sud du Portugal, mais à l'horizon fin 2012 / début 2013, son extension est prévue jusqu'au nord du pays ainsi qu'au canton de Tuzla en Bosnie Bosnie-Herzégovine. À terme, nous souhaitons étendre l'outil au bassin méditerranéen tout entier ."
 
 #: ../../source/site/about/case_studies/portugal_lisbon.rst:13
 msgid ""
@@ -58,42 +80,6 @@ msgstr "Pour déterminer quelle valeur de conservation concerne chaque propriét
 msgid "Conclusions"
 msgstr "Conclusions"
 
-#: ../../source/site/about/case_studies/portugal_lisbon.rst:39
-msgid "Author"
-msgstr "Auteur"
-
-#: ../../source/site/about/case_studies/portugal_lisbon.rst:46
-msgid "Filipe Dias"
-msgstr "Filipe Dias"
-
-#: ../../source/site/about/case_studies/portugal_lisbon.rst:48
-msgid ""
-"Filipe Dias is a PhD student at the Center for Applied Ecology (Instituto "
-"Superior de Agronomia, Techinical University of Lisbon) and a consultant of "
-"the Mediterranean Programme of World Wide Fund for Nature (WWF)."
-msgstr "Filipe Dias est un étudiant doctorant du Centre d’Écologie Appliquée (Instituto Superior de Agronomia, Université Technique de Lisbon) ainsi qu'un consultant pour le Programme Méditéranéen du World Wilde Fund for Nature (WWF)."
-
-#: ../../source/site/about/case_studies/portugal_lisbon.rst:5
-msgid ""
-"HABEaS --- Hotspot Areas for Biodiversity and Ecosystem Services is an "
-"online geographic information system (WebGIS) that was created by the "
-"`Centre for Applied Ecology "
-"<http://www.isa.utl.pt/ceabn/content/2/123/homepage>`_ (`Instituto Superior "
-"de Agronomia <http://www.isa.utl.pt/home/>`_, Technical University of "
-"Lisbon), Worldwide Fund for Nature (WWF) and Faunalia."
-msgstr "HABEaS - Hotspot Areas for Biodiversity and Ecosystem Services est un système d'information géographique en ligne (WebSIG) créé par le `Centre for Applied Ecology  <http://www.isa.utl.pt/ceabn/content/2/123/homepage>`_ (`Instituto Superior de Agronomia <http://www.isa.utl.pt/home/>`_, le  Worldwide Fund for Nature) (WWF) et l'entreprise Faunalia."
-
-#: ../../source/site/about/case_studies/portugal_lisbon.rst:7
-msgid ""
-"The main goal of this platform is to provide free access to a wide variety "
-"of data on biodiversity and ecosystem services for the Mediterranean Basin "
-"that was scattered across a number of public and private entities. Presently"
-" HABEaS WebGIS covers the south of Portugal, but by the end of 2012/early "
-"2013 it will be expanded to the north of Portugal and also to the Tuzla "
-"Canton in Bosnia & Herzegovina. In the long run we want to expand this tool "
-"to the entire Mediterranean Basin."
-msgstr "Le but principal de cette plateforme est de fournir un accès gratuit à un grand nombre de données sur les services écosystémiques et sur la biodiversité du bassin méditerranéen, qui étaient jusqu'alors réparties entre de nombreuses structures publiques et privées.\nÀ ce jour, le WebSIG HABEaS ne couvre que le sud du Portugal, mais à l'horizon fin 2012 / début 2013, son extension est prévue jusqu'au nord du pays ainsi qu'au canton de Tuzla en Bosnie Bosnie-Herzégovine. À terme, nous souhaitons étendre l'outil au bassin méditerranéen tout entier ."
-
 #: ../../source/site/about/case_studies/portugal_lisbon.rst:34
 msgid ""
 "QGIS is easy to use and has very powerful geoprocessing capabilities. The "
@@ -113,6 +99,29 @@ msgid ""
 "developers are always willing to listen to “end user's” needs and "
 "suggestions."
 msgstr "En général, notre expérience avec QGIS a été très positive, le logiciel fonctionne sans problème et la communauté est assez active et impliquée. Les bogues reportés sont d'habitude résolus peu de temps après leur signalement et les développeurs sont toujours enclins à écouter les besoins \"de l'utilisateur final\" ainsi que ses suggestions."
+
+#: ../../source/site/about/case_studies/portugal_lisbon.rst:39
+msgid "Author"
+msgstr "Auteur"
+
+#: ../../source/site/about/case_studies/portugal_lisbon.rst:46
+msgid "Filipe Dias"
+msgstr "Filipe Dias"
+
+#: ../../source/site/about/case_studies/portugal_lisbon.rst:48
+msgid ""
+"Filipe Dias is a PhD student at the Center for Applied Ecology (Instituto "
+"Superior de Agronomia, Techinical University of Lisbon) and a consultant of "
+"the Mediterranean Programme of World Wide Fund for Nature (WWF)."
+msgstr "Filipe Dias est un étudiant doctorant du Centre d’Écologie Appliquée (Instituto Superior de Agronomia, Université Technique de Lisbon) ainsi qu'un consultant pour le Programme Méditéranéen du World Wilde Fund for Nature (WWF)."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ "HABEaS - Hotspot Areas for Biodiversity and Ecosystem Services is an online "

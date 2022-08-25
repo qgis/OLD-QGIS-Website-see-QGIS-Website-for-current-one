@@ -4,19 +4,19 @@
 # 
 # Translators:
 # Richard Duivenvoorde <richard@duif.net>, 2016
-# Sorin Călinică <scalinica@gmail.com>, 2016,2019-2020
+# Sorin Călinică <scalinica@gmail.com>, 2016,2019-2021
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-11 18:41+0200\n"
-"PO-Revision-Date: 2020-07-10 08:55+0000\n"
-"Last-Translator: Sorin Călinică <scalinica@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2016-03-05 14:47+0000\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2016,2019-2021\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
@@ -27,6 +27,10 @@ msgstr "Jurnalul schimbărilor pentru QGIS 2.14"
 #: ../../source/site/forusers/visualchangelog214/index.rst:7
 msgid "|image1|"
 msgstr "|image1|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1922
+msgid "image1"
+msgstr "image1"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:9
 msgid ""
@@ -128,6 +132,22 @@ msgid ""
 "of humanity. If you are able to support QGIS, you can |donate here|"
 msgstr "QGIS este un soft gratuit iar dvs. nu aveți obligația de a plăti pentru folosirea lui - de fapt, vrem să încurajăm oamenii de oriunde să-l folosească, indiferent de starea financiară sau socială - având convingerea că, prin punerea la dispoziția utilizatorilor a posibilităților de decizie spațială, vom ajunge la o societate mai potrivită întregii omeniri. Dacă aveți posibilitatea de a sprijini QGIS, puteți |donate here|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst
+msgid "donate here"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:81
+msgid "bronze"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:84
+msgid "silver"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:87
+msgid "gold"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:98
 msgid "Current QGIS Sponsors"
 msgstr "Sponsori Actuali ai QGIS"
@@ -142,11 +162,19 @@ msgid ""
 "Ireland (12.2014-12.2016)"
 msgstr "|silver| |opw| `Oficiul Lucrărilor Publice, Irlanda <http://www.opw.ie/>`_, Irlanda (12.2014-12.2016)"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:130
+msgid "opw"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:105
 msgid ""
 "|silver| |gaia| `GAIA mbH <http://www.gaia-mbh.de>`_, Germany "
 "(11.2015-11.2016)"
 msgstr "|silver| |gaia| `G.A.I.A. mbH <http://www.gaia-mbh.de>`_, Germania (11.2015-11.2016)"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:118
+msgid "gaia"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:108
 msgid ""
@@ -154,17 +182,29 @@ msgid ""
 "Switzerland (10.2014-10.2016)"
 msgstr "|silver| |sourcepole| `Sourcepole AG <http://www.sourcepole.com/>`_, Elveția (10.2014-10.2016)"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:121
+msgid "sourcepole"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:111
 msgid ""
 "|silver| |agh| `AGH University of Science and Technology "
 "<http://www.agh.edu.pl/en>`_, Poland (06.2015-06.2016)"
 msgstr "|silver| |agh| `Universitatea de Știință și Tehnologie AGH <http://www.agh.edu.pl/en>`_, Polonia (06.2015-06.2016)"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:124
+msgid "agh"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:114
 msgid ""
 "|silver| |vorarlberg| `State of Vorarlberg <http://www.vorarlberg.at/>`_, "
 "Austria (03.2013-05.2016)"
 msgstr "|silver| |vorarlberg| `Statul Vorarlberg <http://www.vorarlberg.at/>`_, Austria (03.2013-05.2016)"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:127
+msgid "vorarlberg"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:136
 msgid "Bronze sponsors"
@@ -173,6 +213,10 @@ msgstr "Sponsori de Bronz"
 #: ../../source/site/forusers/visualchangelog214/index.rst:138
 msgid "|bronze| |geoinnova|"
 msgstr "|bronze| |geoinnova|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:217
+msgid "geoinnova"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:140
 msgid ""
@@ -183,6 +227,10 @@ msgstr "`Asociația Geoinnova <http://geoinnova.org/>`_, Spania (03.2016-03-2017
 msgid "|bronze| |gis3w|"
 msgstr "|bronze| |gis3w|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:295
+msgid "gis3w"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:143
 msgid "`Gis3W <http://www.gis3w.it/>`_, Italy (01.2014-01.2017)"
 msgstr "`GIS3W <http://www.gis3w.it/>`_, Italia (01.2014-01.2017)"
@@ -190,6 +238,10 @@ msgstr "`GIS3W <http://www.gis3w.it/>`_, Italia (01.2014-01.2017)"
 #: ../../source/site/forusers/visualchangelog214/index.rst:144
 msgid "|bronze| |claasleinert|"
 msgstr "|bronze| |claasleinert|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:262
+msgid "claasleinert"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:146
 msgid ""
@@ -201,6 +253,10 @@ msgstr "`GKG Kassel,(Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_, Germa
 msgid "|bronze| |cawdor_forestry|"
 msgstr "|bronze| |cawdor_forestry|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:220
+msgid "cawdor_forestry"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:149
 msgid ""
 "`CawdorForestry Resource Management <http://www.cawdorforestry.com/>`_, "
@@ -211,6 +267,10 @@ msgstr "`Managementul Resurselor din CawdorForestry <http://www.cawdorforestry.c
 msgid "|bronze| |chameleon_john|"
 msgstr "|bronze| |chameleon_john|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:223
+msgid "chameleon_john"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:152
 msgid ""
 "`ChameleonJohn <http://www.chameleonjohn.com/>`_, USA (02.2016-02.2017)"
@@ -220,6 +280,10 @@ msgstr "`ChameleonJohn <http://www.chameleonjohn.com/>`_, SUS (02.2016-02.2017)"
 msgid "|bronze| |2d3dgis|"
 msgstr "|bronze| |2d3dgis|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:292
+msgid "2d3dgis"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:155
 msgid "`2D3D.GIS <http://www.2d3d-gis.com/>`_, France (12.2015-12.2016)"
 msgstr "`2D3D.GIS <http://www.2d3d-gis.com/>`_, Franța (12.2015-12.2016)"
@@ -227,6 +291,10 @@ msgstr "`2D3D.GIS <http://www.2d3d-gis.com/>`_, Franța (12.2015-12.2016)"
 #: ../../source/site/forusers/visualchangelog214/index.rst:156
 msgid "|bronze| |kela|"
 msgstr "|bronze| |kela|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:226
+msgid "kela"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:158
 msgid ""
@@ -238,6 +306,10 @@ msgstr "`Dr. Kerth + Lampe Geo-Infometric GmbH <http://www.dr-kerth-lampe.de/>`_
 msgid "|bronze| |mappinggis|"
 msgstr "|bronze| |mappinggis|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:289
+msgid "mappinggis"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:161
 msgid "`MappingGIS <http://www.mappinggis.com/>`_, Spain (11.2015-11.2016)"
 msgstr "`MappingGIS <http://www.mappinggis.com/>`_, Spania (11.2015-11.2016)"
@@ -245,6 +317,10 @@ msgstr "`MappingGIS <http://www.mappinggis.com/>`_, Spania (11.2015-11.2016)"
 #: ../../source/site/forusers/visualchangelog214/index.rst:162
 msgid "|bronze| |hfacts|"
 msgstr "|bronze| |hfacts|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:229
+msgid "hfacts"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:164
 msgid ""
@@ -255,6 +331,10 @@ msgstr "`HostingFacts.com <https://hostingfacts.com/>`_, Estonia (12.2015-12.201
 msgid "|bronze| |urbsol|"
 msgstr "|bronze| |urbsol|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:286
+msgid "urbsol"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:167
 msgid "`Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2016)"
 msgstr "`Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2016)"
@@ -262,6 +342,10 @@ msgstr "`Urbsol <http://www.urbsol.com.au/>`_, Australia (11.2014-11.2016)"
 #: ../../source/site/forusers/visualchangelog214/index.rst:168
 msgid "|bronze| |lutra|"
 msgstr "|bronze| |lutra|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:298
+msgid "lutra"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:170
 msgid ""
@@ -273,6 +357,10 @@ msgstr "`Lutra Consulting <http://www.lutraconsulting.co.uk/>`_, UK (10.2015-10.
 msgid "|bronze| |whg|"
 msgstr "|bronze| |whg|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:232
+msgid "whg"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:173
 msgid ""
 "`WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germany "
@@ -282,6 +370,10 @@ msgstr "`WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_, Germania (08.2015-
 #: ../../source/site/forusers/visualchangelog214/index.rst:174
 msgid "|bronze| |npa|"
 msgstr "|bronze| |npa|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:235
+msgid "npa"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:176
 msgid ""
@@ -293,6 +385,10 @@ msgstr "`Nicholas Pearson Associates <http://www.npaconsult.co.uk/>`_, UK (07.20
 msgid "|bronze| |qpolska|"
 msgstr "|bronze| |qpolska|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:238
+msgid "qpolska"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:179
 msgid "`QGIS Polska <http://qgis-polska.org/>`_, Poland (07.2015-07.2016)"
 msgstr "`QGIS Polska <http://qgis-polska.org/>`_, Polonia (07.2015-07.2016)"
@@ -300,6 +396,10 @@ msgstr "`QGIS Polska <http://qgis-polska.org/>`_, Polonia (07.2015-07.2016)"
 #: ../../source/site/forusers/visualchangelog214/index.rst:180
 msgid "|bronze| |terrelogiche|"
 msgstr "|bronze| |terrelogiche|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:241
+msgid "terrelogiche"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:182
 msgid ""
@@ -311,6 +411,10 @@ msgstr "`www.terrelogiche.com <http://www.terrelogiche.com/>`_, Italia (06.2015-
 msgid "|bronze| |geosynergy|"
 msgstr "|bronze| |geosynergy|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:244
+msgid "geosynergy"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:185
 msgid ""
 "`www.geosynergy.com.au <http://www.geosynergy.com.au/>`_, Australia "
@@ -321,6 +425,10 @@ msgstr "`www.geosynergy.com.au <http://www.geosynergy.com.au/>`_, Australia (05.
 msgid "|bronze| |gaia3d|"
 msgstr "|bronze| |gaia3d|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:247
+msgid "gaia3d"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:188
 msgid ""
 "`Gaia3D, Inc. <http://www.gaia3d.com/>`_, South Korea (05.2015-05.2016)"
@@ -329,6 +437,10 @@ msgstr "`Gaia3D, Inc. <http://www.gaia3d.com/>`_, Coreea de Sud (05.2015-05.2016
 #: ../../source/site/forusers/visualchangelog214/index.rst:189
 msgid "|bronze| |windsor|"
 msgstr "|bronze| |windsor|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:250
+msgid "windsor"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:191
 msgid ""
@@ -340,6 +452,10 @@ msgstr "`Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_, UK
 msgid "|bronze| |chartwell|"
 msgstr "|bronze| |chartwell|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:253
+msgid "chartwell"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:194
 msgid ""
 "`Chartwell Consultants Ltd. <http://www.chartwell-consultants.com/>`_, "
@@ -350,6 +466,10 @@ msgstr "`Chartwell Consultants Ltd. <http://www.chartwell-consultants.com/>`_, C
 msgid "|bronze| |tragewegen|"
 msgstr "|bronze| |tragewegen|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:256
+msgid "tragewegen"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:197
 msgid ""
 "`Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgium (03.2015-03.2016)"
@@ -358,6 +478,10 @@ msgstr "`Trage Wegen vzw <http://www.tragewegen.be/>`_, Belgia (03.2015-03.2016)
 #: ../../source/site/forusers/visualchangelog214/index.rst:198
 msgid "|bronze| |gfi|"
 msgstr "|bronze| |gfi|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:259
+msgid "gfi"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:200
 msgid ""
@@ -369,6 +493,10 @@ msgstr "`GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-gis
 msgid "|bronze| |gis_supp|"
 msgstr "|bronze| |gis_supp|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:265
+msgid "gis_supp"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:203
 msgid "`GIS-Support <http://www.gis-support.com/>`_, Poland (02.2015-02.2016)"
 msgstr "`GIS-Support <http://www.gis-support.com/>`_, Polonia (02.2015-02.2016)"
@@ -376,6 +504,10 @@ msgstr "`GIS-Support <http://www.gis-support.com/>`_, Polonia (02.2015-02.2016)"
 #: ../../source/site/forusers/visualchangelog214/index.rst:204
 msgid "|bronze| |adlares|"
 msgstr "|bronze| |adlares|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:268
+msgid "adlares"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:206
 msgid "`ADLARES GmbH <http://www.adlares.com/>`_, Germany (01.2015-01.2016)"
@@ -385,6 +517,10 @@ msgstr "`ADLARES GmbH <http://www.adlares.com/>`_, Germania (01.2015-01.2016)"
 msgid "|bronze| |molitec|"
 msgstr "|bronze| |molitec|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:271
+msgid "molitec"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:209
 msgid "`www.molitec.it <http://www.molitec.it/>`_, Italy (01.2014-01.2016)"
 msgstr "`www.molitec.it <http://www.molitec.it/>`_, Italia (01.2014-01.2016)"
@@ -392,6 +528,10 @@ msgstr "`www.molitec.it <http://www.molitec.it/>`_, Italia (01.2014-01.2016)"
 #: ../../source/site/forusers/visualchangelog214/index.rst:210
 msgid "|bronze| |argus|"
 msgstr "|bronze| |argus|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:274
+msgid "argus"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:212
 msgid ""
@@ -403,11 +543,23 @@ msgstr "`www.argusoft.de <http://www.argusoft.de/>`_, Germania (06.2012-06.2013 
 msgid "|bronze| |canal|"
 msgstr "|bronze| |canal|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:277
+msgid "canal"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:215
 msgid ""
 "`Customer Analytics <http://www.customeranalytics.com/>`_, USA "
 "(12.2014-12.2015)"
 msgstr "`Customer Analytics <http://www.customeranalytics.com/>`_, SUA (12.2014-12.2015)"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:280
+msgid "avioportolano"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:283
+msgid "wggios"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:304
 msgid "General"
@@ -435,6 +587,10 @@ msgstr "Fișierele de proiect din versiunile anterioare QGIS vor trebui să fie 
 msgid "|image47|"
 msgstr "|image47|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1945
+msgid "image47"
+msgstr "image47"
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:321
 #: ../../source/site/forusers/visualchangelog214/index.rst:753
 #: ../../source/site/forusers/visualchangelog214/index.rst:970
@@ -454,6 +610,10 @@ msgstr "De acum, puteți transfoca la nivelulu oricărei entități din cadrul t
 #: ../../source/site/forusers/visualchangelog214/index.rst:331
 msgid "|image48|"
 msgstr "|image48|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1946
+msgid "image48"
+msgstr "image48"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:334
 msgid "Feature: Speed and memory improvements"
@@ -573,6 +733,10 @@ msgstr "``@user_full_name``: numele utilizatorului curent din sistemul de operar
 msgid "|image49|"
 msgstr "|image49|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1947
+msgid "image49"
+msgstr "image49"
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:386
 msgid ""
 "This feature was funded by Andreas Neumann (the OS and user related "
@@ -598,6 +762,10 @@ msgstr "QGIS 2.14 a dobândit un control mai bun asupra plasării pe canevas a s
 #: ../../source/site/forusers/visualchangelog214/index.rst:400
 msgid "|image50|"
 msgstr "|image50|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1948
+msgid "image50"
+msgstr "image50"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:403
 msgid "Feature: Paid bugfixing programme"
@@ -1109,6 +1277,10 @@ msgstr "Calculatorul de câmpuri poate fi utilizat de acum pentru a actualiza o 
 msgid "|image51|"
 msgstr "|image51|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1949
+msgid "image51"
+msgstr "image51"
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:598
 #: ../../source/site/forusers/visualchangelog214/index.rst:672
 #: ../../source/site/forusers/visualchangelog214/index.rst:686
@@ -1139,9 +1311,9 @@ msgstr "În versiunea 2.14 au fost adăugate multe funcții noi, specifice expre
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:606
 msgid ""
-"``relate``: performs a DE-9IM geometry relation by either returning the DE-"
-"9IM representation of the relationship between two geometries, or by testing"
-" whether the DE-9IM relationship matches a specified pattern."
+"``relate``: performs a DE-9IM geometry relation by either returning the "
+"DE-9IM representation of the relationship between two geometries, or by "
+"testing whether the DE-9IM relationship matches a specified pattern."
 msgstr "``relate``: realizează relații cu geometrii DE-9IM, fie prin returnarea reprezentării DE-9IM a relației dintre două geometrii, fie prin testarea potrivirii unei relații DE-9IM cu un model specificat."
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:610
@@ -1263,6 +1435,10 @@ msgstr "geometriile și entitățile pot fi folosite de acum în funcții condi�
 msgid "|image52|"
 msgstr "|image52|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1950
+msgid "image52"
+msgstr "image52"
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:658
 msgid "Analysis tools"
 msgstr "Instrumentele de analiză"
@@ -1283,6 +1459,10 @@ msgstr "Atunci când se utilizează îmbinarea valorilor atributului sau instrum
 msgid "|image27|"
 msgstr "|image27|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1925
+msgid "image27"
+msgstr "image27"
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:675
 msgid "Feature: z/m values are shown when using the identify tool"
 msgstr "Funcționalitate: Valorile z/m sunt afișate atunci când se utilizează instrumentul de identificare"
@@ -1299,6 +1479,10 @@ msgstr "Instrumentul de identificare este de acum capabil să arate orice valoar
 #: ../../source/site/forusers/visualchangelog214/index.rst:684
 msgid "|image28|"
 msgstr "|image28|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1926
+msgid "image28"
+msgstr "image28"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:689
 msgid ""
@@ -1349,6 +1533,10 @@ msgstr "De acum este posibilă afișarea coordonatelor în latitudine și longit
 msgid "|image29|"
 msgstr "|image29|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1927
+msgid "image29"
+msgstr "image29"
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:713
 msgid "This feature was funded by QGIS sponsored bug fixing program"
 msgstr "Această facilitate a fost finanțată prin programul de eliminare a erorilor, sponsorizat de QGIS"
@@ -1385,6 +1573,10 @@ msgstr "**Încărcarea proiectelor direct din navigator** - acum aveți posibili
 msgid "|image30|"
 msgstr "|image30|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1928
+msgid "image30"
+msgstr "image30"
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:737
 #: ../../source/site/forusers/visualchangelog214/index.rst:960
 #: ../../source/site/forusers/visualchangelog214/index.rst:1297
@@ -1411,6 +1603,10 @@ msgstr "De acum, QGIS va păstra în memoria tampon cererile ``GetCapabilities``
 msgid "|image31|"
 msgstr "|image31|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1929
+msgid "image31"
+msgstr "image31"
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:756
 msgid "Feature: Curved geometry support expanded"
 msgstr "Funcționalitate: S-a extins suportul pentru geometria curbată"
@@ -1427,6 +1623,10 @@ msgstr "Furnizorul de text delimitat acceptă de acum șirurile de caractere WKT
 #: ../../source/site/forusers/visualchangelog214/index.rst:765
 msgid "|image32|"
 msgstr "|image32|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1930
+msgid "image32"
+msgstr "image32"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:770
 msgid "Feature: Better handling of time and datetime fields"
@@ -1467,6 +1667,10 @@ msgstr "La salvarea straturilor în fișiere vectoriale se va păstra tipurile t
 msgid "|image33|"
 msgstr "|image33|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1931
+msgid "image33"
+msgstr "image33"
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:787
 msgid "This feature was developed by Jürgen Fischer, Nyall Dawson"
 msgstr "Această funcționalitate a fost dezvoltată de Jürgen Fischer, Nyall Dawson"
@@ -1485,6 +1689,10 @@ msgstr "Furnizorul de text delimitat dispune de suport pentru șiruri WKT care c
 #: ../../source/site/forusers/visualchangelog214/index.rst:797
 msgid "|image34|"
 msgstr "|image34|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1932
+msgid "image34"
+msgstr "image34"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:802
 msgid "Feature: Transaction groups for postgres editing"
@@ -1541,6 +1749,10 @@ msgstr "Acest lucru este aplicabil doar bazelor de date Postgres, la acest momen
 msgid "|image35|"
 msgstr "|image35|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1933
+msgid "image35"
+msgstr "image35"
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:828
 msgid "This feature was funded by `SIGE <http://www.sige.ch/>`__"
 msgstr "Această funcționalitate a fost finanțată de: `SIGE <http://www.sige.ch/>`_"
@@ -1567,6 +1779,10 @@ msgstr "Abilitatea de a utiliza Managerul de Autentificare QGIS, introdusă în 
 #: ../../source/site/forusers/visualchangelog214/index.rst:843
 msgid "|image36|"
 msgstr "|image36|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1934
+msgid "image36"
+msgstr "image36"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:845
 msgid "This feature was funded by `Boundless Spatial <boundlessgeo.com>`__"
@@ -1614,6 +1830,10 @@ msgstr "Suportul pentru straturile virtuale a fost adăugat și în DB Manager, 
 #: ../../source/site/forusers/visualchangelog214/index.rst:872
 msgid "|image37|"
 msgstr "|image37|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1935
+msgid "image37"
+msgstr "image37"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:874
 msgid ""
@@ -1760,6 +1980,10 @@ msgstr ".ovr pentru formatul de fișier raster vrt"
 msgid "|image38|"
 msgstr "|image38|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1936
+msgid "image38"
+msgstr "image38"
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:927
 #: ../../source/site/forusers/visualchangelog214/index.rst:1310
 #: ../../source/site/forusers/visualchangelog214/index.rst:1485
@@ -1791,6 +2015,10 @@ msgstr "Această metodă va reduce numărul de noduri al geometriilor pe care QG
 msgid "|image39|"
 msgstr "|image39|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1937
+msgid "image39"
+msgstr "image39"
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:944
 msgid ""
 "This feature was developed by `Michaël Douchin @kimaidou "
@@ -1816,6 +2044,10 @@ msgstr "Plugin-ul \"SPIT\" nu mai este livrat împreună cu QGIS, deoarece plugi
 msgid "|image40|"
 msgstr "|image40|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1938
+msgid "image40"
+msgstr "image40"
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:963
 msgid ""
 "Feature: DXF export: option to use title instead of name as DXF layer name "
@@ -1825,6 +2057,10 @@ msgstr "Funcționalitate: Exportul DXF: opțiunea de a utiliza titlul în loc de
 #: ../../source/site/forusers/visualchangelog214/index.rst:966
 msgid "|image41|"
 msgstr "|image41|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1939
+msgid "image41"
+msgstr "image41"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:968
 msgid "This feature was funded by `City of Uster <http://gis.uster.ch/>`__"
@@ -1851,6 +2087,10 @@ msgstr "În plus, au fost adăugate opțiuni pentru a forța ca fișierul de ie�
 #: ../../source/site/forusers/visualchangelog214/index.rst:984
 msgid "|image42|"
 msgstr "|image42|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1940
+msgid "image42"
+msgstr "image42"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:989
 msgid "Feature: Vector joins are now saved within QLR layer-definition-files"
@@ -1960,6 +2200,10 @@ msgstr "`Médéric Ribreux <https://medspx.fr>`__"
 msgid "|image43|"
 msgstr "|image43|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1941
+msgid "image43"
+msgstr "image43"
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:1051
 msgid "Feature: N:M relation editing"
 msgstr "Funcționalitate: Editarea relației N:M"
@@ -2010,6 +2254,10 @@ msgstr "Setarea cheii primare nu este importată la momentul adăugării de enti
 msgid "|image44|"
 msgstr "|image44|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1942
+msgid "image44"
+msgstr "image44"
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:1078
 msgid ""
 "This feature was funded by République et canton de Neuchâtel, Ville de "
@@ -2035,6 +2283,10 @@ msgstr "De acum, se pot seta lățimea și culoarea pentru banda elastică folos
 #: ../../source/site/forusers/visualchangelog214/index.rst:1092
 msgid "|image45|"
 msgstr "|image45|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1943
+msgid "image45"
+msgstr "image45"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1095
 msgid "Feature: Trace digitising tool"
@@ -2091,6 +2343,10 @@ msgstr "Această caracteristică a fost finanțată de: The Royal Borough of Win
 #: ../../source/site/forusers/visualchangelog214/index.rst:1121
 msgid "|image46|"
 msgstr "|image46|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1944
+msgid "image46"
+msgstr "image46"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1123
 msgid ""
@@ -2163,6 +2419,10 @@ msgstr "Prioritatea destinațiilor de plasare poate fi, de asemenea, setată pen
 msgid "|image53|"
 msgstr "|image53|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1951
+msgid "image53"
+msgstr "image53"
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:1157
 #: ../../source/site/forusers/visualchangelog214/index.rst:1176
 msgid "This feature was funded by Andreas Neumann"
@@ -2189,6 +2449,10 @@ msgstr "Rețineți că această setare este disponibilă numai pentru noul mod, 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1174
 msgid "|image54|"
 msgstr "|image54|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1952
+msgid "image54"
+msgstr "image54"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1181
 msgid "Feature: Control over label rendering order"
@@ -2238,6 +2502,10 @@ msgstr "Rețineți că acest control *NU* stabilește ca etichetele să fie dese
 msgid "|image55|"
 msgstr "|image55|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1953
+msgid "image55"
+msgstr "image55"
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:1211
 msgid ""
 "Feature: Actual rendered symbol is now considered as an obstacle for point "
@@ -2263,6 +2531,10 @@ msgstr "De acum, sunt luate în considerare atât dimensiunea reală, cât și d
 msgid "|image56|"
 msgstr "|image56|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1954
+msgid "image56"
+msgstr "image56"
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:1226
 msgid "This feature was funded by City of Uster"
 msgstr "Această funcționalitate a fost finanțată de City of Uster"
@@ -2286,6 +2558,10 @@ msgstr "Această facilitate adaugă posibilitatea de a aplica stilul unuia dintr
 #: ../../source/site/forusers/visualchangelog214/index.rst:1240
 msgid "|image57|"
 msgstr "|image57|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1955
+msgid "image57"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1242
 msgid "This feature was developed by Salvatore Larosa"
@@ -2311,6 +2587,10 @@ msgstr "Filtrarea legendei este disponibilă în legenda aplicației principale,
 #: ../../source/site/forusers/visualchangelog214/index.rst:1255
 msgid "|image59|"
 msgstr "|image59|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1957
+msgid "image59"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1257
 msgid ""
@@ -2347,6 +2627,10 @@ msgstr "A doua opțiune de filtrare permite legendei compozitorului să fie filt
 msgid "|image58|"
 msgstr "|image58|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1956
+msgid "image58"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:1281
 msgid ""
 "This feature was developed by `Hugo Mercier (Oslandia) "
@@ -2370,6 +2654,10 @@ msgstr "Aveți posibilitatea de a defini căile personalizate care ar trebui să
 msgid "|image60|"
 msgstr "|image60|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1958
+msgid "image60"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:1300
 msgid "Feature: Multiple selection of compositions in manager"
 msgstr "Funcționalitate: Selecție multiplă a compozițiilor din manager"
@@ -2384,6 +2672,10 @@ msgstr "Managerul de compoziții acceptă gestionarea mai multor compoziții în
 #: ../../source/site/forusers/visualchangelog214/index.rst:1308
 msgid "|image61|"
 msgstr "|image61|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1959
+msgid "image61"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1313
 msgid "Plugins"
@@ -2405,6 +2697,10 @@ msgstr "A fost adăugat managerului de plugin-uri suport pentru noul sistem de a
 #: ../../source/site/forusers/visualchangelog214/index.rst:1325
 msgid "|image62|"
 msgstr "|image62|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1960
+msgid "image62"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1327
 msgid ""
@@ -2477,6 +2773,10 @@ msgstr "Este posibil - și de dorit - ca mai multe teste să fie adăugate. Pute
 msgid "|image63|"
 msgstr "|image63|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1961
+msgid "image63"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:1371
 msgid "This feature was funded by `The QGIS Project <https://www.qgis.org>`__"
 msgstr "Această funcționalitate a fost finanțată de `Proiectul QGIS  <https://www.qgis.org>`__"
@@ -2491,7 +2791,7 @@ msgstr "Această funcționalitate a fost dezvoltată de `Matthias Kuhn, OPENGIS.
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1377
 msgid "Feature: Improved toolbox"
-msgstr "Funcționalitate:  Îmbunătățiri aduse barei de instrumente"
+msgstr "Funcționalitate: Îmbunătățiri aduse barei de instrumente"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1380
 msgid ""
@@ -2504,6 +2804,10 @@ msgstr "Interfața simplificată a fost eliminată, fiind adăugat un sistem nou
 #: ../../source/site/forusers/visualchangelog214/index.rst:1385
 msgid "|image64|"
 msgstr "|image64|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1962
+msgid "image64"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1387
 msgid ""
@@ -2524,6 +2828,10 @@ msgstr "Funcționalitate: Procesarea loturilor se poate salva, deschizându-se, 
 msgid "|image65|"
 msgstr "|image65|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1963
+msgid "image65"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:1399
 msgid "Feature: More informative algorithm dialog"
 msgstr "Funcționalitate: Dialogul algoritmilor conține mai multe informații"
@@ -2543,6 +2851,10 @@ msgstr "De asemenea, procesarea loturilor poate fi, de acum, pornită din dialog
 #: ../../source/site/forusers/visualchangelog214/index.rst:1408
 msgid "|image66|"
 msgstr "|image66|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1964
+msgid "image66"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1411
 msgid "Feature: GRASS7 v.net modules"
@@ -2705,9 +3017,13 @@ msgstr "Utilizați fila \"Ajutor\" pentru fiecare dintre algoritmii de procesare
 msgid "|image67|"
 msgstr "|image67|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1965
+msgid "image67"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:1488
 msgid "Programmability"
-msgstr "Programabilitatea"
+msgstr "Programabilitate"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1491
 msgid "Feature: Redesign expression function editor"
@@ -2720,6 +3036,10 @@ msgstr "Cu auto salvare"
 #: ../../source/site/forusers/visualchangelog214/index.rst:1496
 msgid "|image68|"
 msgstr "|image68|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1966
+msgid "image68"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1499
 msgid "Feature: Store python init code into the project"
@@ -2734,6 +3054,10 @@ msgstr "S-a adăugat opțiunea de stocare în proiect a codului de inițializare
 #: ../../source/site/forusers/visualchangelog214/index.rst:1505
 msgid "|image69|"
 msgstr "|image69|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1967
+msgid "image69"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1508
 msgid "Feature: New filtering and sorting options for QgsFeatureRequest"
@@ -2757,6 +3081,10 @@ msgstr "În plus, QgsFeatureRequest suportă de acum setarea ordinii pentru enti
 #: ../../source/site/forusers/visualchangelog214/index.rst:1521
 msgid "|image70|"
 msgstr "|image70|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1968
+msgid "image70"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1524
 msgid "Feature: Custom feature form Python code options"
@@ -2788,6 +3116,10 @@ msgstr "Opțiunile de configurare, inclusiv codul Python personalizat, introdus 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1537
 msgid "|image71|"
 msgstr "|image71|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1969
+msgid "image71"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1539
 msgid ""
@@ -3034,6 +3366,10 @@ msgstr "Această caracteristică are nevoie de un server fals de X."
 msgid "|image72|"
 msgstr "|image72|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1970
+msgid "image72"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:1650
 msgid "Feature: Option to avoid rendering artefacts at edges of tiles"
 msgstr "Funcționalitate: Opțiune de evitare a randării artefactelor, la marginile plăcuțelor"
@@ -3041,6 +3377,10 @@ msgstr "Funcționalitate: Opțiune de evitare a randării artefactelor, la margi
 #: ../../source/site/forusers/visualchangelog214/index.rst:1653
 msgid "|image73|"
 msgstr "|image73|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1971
+msgid "image73"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1656
 msgid "Feature: Configuration checker in project properties"
@@ -3071,6 +3411,10 @@ msgstr "lipsă codificărilor pentru straturile vectoriale"
 #: ../../source/site/forusers/visualchangelog214/index.rst:1668
 msgid "|image74|"
 msgstr "|image74|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1972
+msgid "image74"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1670
 msgid ""
@@ -3106,6 +3450,10 @@ msgstr "Capabilitățile WMS 1.3.0 reflectă configurația INSPIRE."
 #: ../../source/site/forusers/visualchangelog214/index.rst:1688
 msgid "|image75|"
 msgstr "|image75|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1973
+msgid "image75"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1693
 msgid "Feature: Add short name to layers, groups and project"
@@ -3166,6 +3514,10 @@ msgstr "În cazul în care un nume scurt a fost stabilit pentru straturi, grupur
 msgid "|image76|"
 msgstr "|image76|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1974
+msgid "image76"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:1725
 msgid "Symbology"
 msgstr "Simbologie"
@@ -3177,6 +3529,10 @@ msgstr "Funcționalitate: Asistent pentru ajustarea lățimii liniei"
 #: ../../source/site/forusers/visualchangelog214/index.rst:1731
 msgid "|image77|"
 msgstr "|image77|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1975
+msgid "image77"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1734
 msgid "Feature: Support for transparency in SVG color parameters"
@@ -3215,6 +3571,10 @@ msgstr "Un nou buton pentru \"duplicare\" a fost adăugat în dialogul propriet�
 #: ../../source/site/forusers/visualchangelog214/index.rst:1756
 msgid "|image78|"
 msgstr "|image78|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1976
+msgid "image78"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1761
 msgid "Feature: 2.5D Renderer"
@@ -3264,6 +3624,10 @@ msgstr "Wetu GIT cc"
 #: ../../source/site/forusers/visualchangelog214/index.rst:1787
 msgid "|image79|"
 msgstr "|image79|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1977
+msgid "image79"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1790
 msgid "Feature: Allow definition of rendering order for features"
@@ -3316,6 +3680,10 @@ msgstr "**Această funcționalitate a fost dezvoltată de:** Matthias Kuhn de la
 msgid "|image80|"
 msgstr "|image80|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1978
+msgid "image80"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:1826
 msgid "Feature: Geometry generator symbols"
 msgstr "Funcționalitate: Simboluri pentru generatorul de geometrie"
@@ -3367,6 +3735,10 @@ msgstr "Diversele straturi pentru simboluri pot conține diferite generatoare de
 msgid "|image81|"
 msgstr "|image81|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1979
+msgid "image81"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:1865
 msgid ""
 "This feature was funded by Regional Council of Picardy, ADUGA, Ville de "
@@ -3390,6 +3762,10 @@ msgstr "De acum, este disponibilă opțiunea de reîncărcare a atributelor din 
 msgid "|image82|"
 msgstr "|image82|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1980
+msgid "image82"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:1884
 msgid ""
 "Feature: Directly set renderer and class symbol colors from context menu in "
@@ -3405,6 +3781,10 @@ msgstr "Deschide un control grafic de tip roată de culoare direct din meniu, ce
 #: ../../source/site/forusers/visualchangelog214/index.rst:1891
 msgid "|image83|"
 msgstr "|image83|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1981
+msgid "image83"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1896
 msgid "Feature: Edit legend symbols directly from layer tree"
@@ -3424,6 +3804,10 @@ msgstr "Adaugă un nou element de \"editare simbol\" în meniul care apare după
 msgid "|image84|"
 msgstr "|image84|"
 
+#: ../../source/site/forusers/visualchangelog214/index.rst:1982
+msgid "image84"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog214/index.rst:1911
 msgid "Feature: Show/hide all legend items via the context menu"
 msgstr "Funcționalitate: Afișarea/ascunderea tuturor elementelor din legendă, prin intermediul meniului contextual"
@@ -3438,3 +3822,15 @@ msgstr "Prin intermediul meniului care apare după efectuarea unui click dreapta
 #: ../../source/site/forusers/visualchangelog214/index.rst:1918
 msgid "|image85|"
 msgstr "|image85|"
+
+#: ../../source/site/forusers/visualchangelog214/index.rst:1983
+msgid "image85"
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"

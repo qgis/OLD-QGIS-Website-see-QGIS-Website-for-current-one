@@ -1,6 +1,6 @@
 # 
 # Translators:
-# fairtommy <fairtommy@gmail.com>, 2018,2020
+# fairtommy <fairtommy@gmail.com>, 2018,2020,2022
 # 古川 泰人, 2014
 # fairtommy <fairtommy@gmail.com>, 2017-2018
 # k_zoar <zoar@k-side.net>, 2016
@@ -9,16 +9,237 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-26 11:45+0100\n"
-"PO-Revision-Date: 2020-10-26 10:57+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2018,2020,2022\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/site/about/case_studies/index.rst:24
+msgid "[2019/02] QGIS for distance learning and teaching GIS at Universities"
+msgstr "[2019/02]大学でのGISの遠隔学習指導のためのQGIS"
+
+#: ../../source/site/about/case_studies/index.rst:32
+msgid ""
+"[2017/12] Historical Gazetteer of the Crimea by Michael and Mark Polczynski"
+msgstr "[2017/12] クリミアの歴史的地名索引（マイケル／マーク・ポルチンスキ）"
+
+#: ../../source/site/about/case_studies/index.rst:32
+msgid "[2017/07] Use of QGIS at the Ministry of Social Development of Uruguay"
+msgstr "[2017/07] ウルグアイ社会開発省におけるQGISの利用"
+
+#: ../../source/site/about/case_studies/index.rst:32
+msgid ""
+"[2017/05] Using QGIS for FTTH/GPON network planning due to the "
+"implementation European Digital Agenda"
+msgstr "[2017/05] 欧州デジタルアジェンダ実施によるFTTH / GPONネットワーク計画のためにQGISを使用する"
+
+#: ../../source/site/about/case_studies/index.rst:42
+msgid "[2016/11] QGIS to describe the Cesena's Wall Camilla Fabbri"
+msgstr "[2016/11]チェゼーナの壁を描くQGIS（カミラ・ファブリ）"
+
+#: ../../source/site/about/case_studies/index.rst:42
+msgid "[2016/04] QGIS at the Financial Times Graphics Team by Steve Bernard"
+msgstr "[2016/04]フィナンシャル・タイムズ紙のグラフィックチームでのQGISの使用（スティーブ・バーナード）"
+
+#: ../../source/site/about/case_studies/index.rst:51
+msgid ""
+"[2015/08] Lynx habitat analysis in the Southern Carpathians by Angela "
+"Dichte, Luca Ehrminger, Silvana Garcia Travesi Reyes, Tobias Hoppe and David"
+" Winger"
+msgstr "[2015/08] 南カルパティア山脈のオオヤマネコ生息地分析（アンジェラ・ディヒテ、ルカ・アーミンガー、シルバナ・ガルシア、トラベシ・レイエス、トビアス・ホッペ、デビッド・ウィンガー）"
+
+#: ../../source/site/about/case_studies/index.rst:51
+msgid ""
+"[2015/04] Water Observation and Information System: Enabling the Use of "
+"Earth Observation Data for Integrated Water Resource Management in Africa by"
+" Radoslaw Guzinski"
+msgstr "[2015/04] 水の観察と情報システム：アフリカにおける統合水資源管理のために地球観測データの使用を可能にする（ラドスワフ・グジンスキー）"
+
+#: ../../source/site/about/case_studies/index.rst:51
+msgid ""
+"[2015/03] QGIS geoprocessing model to simplify first level seismic "
+"microzonation analysis by Giuseppe Cosentino and Francesco Pennica"
+msgstr "[2015/03]ジュゼッペ・コセンティーノとフランチェスコ・ペニカによる第１レベルの地震マイクロゾーニングの分析を簡素化するQGISのジオプロセシングモデル"
+
+#: ../../source/site/about/case_studies/index.rst:51
+msgid ""
+"[2015/02] Using the processing toolbox to automate snow classification by "
+"Andrew Jeffrey"
+msgstr "[2015/02] プロセシングツールボックスを使用して雪の分類を自動化する（アンドリュー・ジェフリー）"
+
+#: ../../source/site/about/case_studies/index.rst:51
+msgid "[2015/02] Producing an arcHYDRO like output with QGIS by Robert Ward"
+msgstr "[2015/02] QGISでarcHYDRO風の出力を作成する（ロバート・ウォード）"
+
+#: ../../source/site/about/case_studies/index.rst:63
+msgid ""
+"[2014/10] Danish Demining Group (DDG) using QGIS in Kabul, Afghanistan by "
+"Edward Crowther"
+msgstr "[2014/10] アフガニスタンのカブールでQGISを使用するデンマーク採掘グループ（DDG）（エドワード・クラウザー）"
+
+#: ../../source/site/about/case_studies/index.rst:63
+msgid ""
+"[2014/08] Trainings & Research activities using QGIS at NIRD&PR-NERC in "
+"Guwahati, India by Alajangi Simhachalam"
+msgstr "[2014/08] QGISを使用したトレーニング＆研究活動 、NIRD&PR-NERC, グワハティ、インド（Alajangi Simhachalam）"
+
+#: ../../source/site/about/case_studies/index.rst:63
+msgid ""
+"[2014/07] Using open source tools for characterization of a landscape. The "
+"LecosS plugin by André Duarte"
+msgstr "[2014/07] 景観の特徴付けのためにオープンソースツールを使用する。LecosSプラグイン（André Duarte）"
+
+#: ../../source/site/about/case_studies/index.rst:63
+msgid ""
+"[2014/05] Use of python console to prepare offline map from WMS (tile "
+"downloader) by Prashant Kadgi"
+msgstr "[2014/05] WMS（タイルダウンローダ）からオフラインマップを作成するためのPythonコンソールの使用（Prashant Kadgi）"
+
+#: ../../source/site/about/case_studies/index.rst:63
+msgid ""
+"[2014/01] The Research Institute for Geo-hydrological Protection of Turin - "
+"Aerial photo archive management by Danilo and Franco Godone"
+msgstr "[2014/01] トリノの地質水文保護研究所-航空写真アーカイブ管理（Danilo and Franco Godone）"
+
+#: ../../source/site/about/case_studies/index.rst:75
+msgid ""
+"[2013/08] The Burgundy Historical Landscapes Working Group by Scott Madry"
+msgstr "[2013/08] ブルゴーニュの歴史的風景ワーキンググループ（Scott Madry）"
+
+#: ../../source/site/about/case_studies/index.rst:75
+msgid ""
+"[2013/08] Quantarctica: An Antarctic GIS package by Anders Skoglund and "
+"Kenichi Matsuoka"
+msgstr "[2013/08] Quantarctica：南極GISパッケージ（Anders Skoglund and Kenichi Matsuoka）"
+
+#: ../../source/site/about/case_studies/index.rst:75
+msgid ""
+"[2013/03] QGIS for monitoring tigers using camera traps in Nameri Tiger "
+"Reserve, Assam, India by Rajendra  G Garawad"
+msgstr "[2013/03] インドのアッサム州NAMERIトラ保護区におけるカメラトラップを使用してトラを監視するためのQGIS（Rajendra  G Garawad）"
+
+#: ../../source/site/about/case_studies/index.rst:75
+msgid ""
+"[2013/02] QGIS Maps Historic Herpetofaunal Records in Missouri, USA by Brian"
+" Edmond"
+msgstr "[2013/02] QGISで米国ミズーリ州の歴史的な爬虫両棲類学的記録を地図化する（ブライアン・エドモント）"
+
+#: ../../source/site/about/case_studies/index.rst:75
+msgid ""
+"[2013/01] Creating the Fundy Footpath Trail Map with QGIS, by Jarrett Totton"
+msgstr "[2013/01] QGISでファンディ小径トレイルマップの作成（Jarrett Totton）"
+
+#: ../../source/site/about/case_studies/index.rst:87
+msgid ""
+"[2012/10] QGIS and Forest Fire Risk Mapping in Portugal, by Pedro Venâncio"
+msgstr "[2012/10] QGISとポルトガルの森林火災リスクの地図化（Pedro Venâncio）"
+
+#: ../../source/site/about/case_studies/index.rst:87
+msgid ""
+"[2012/10] Using QGIS to Map Hotspot Areas for Biodiversity and Ecosystem "
+"Services (HABEaS), by Filipe Dias"
+msgstr "[2012/10] QGISを使用して生物多様性と生態系サービス（HABEaS）のホットスポット地域を地図化する（Filipe Dias）"
+
+#: ../../source/site/about/case_studies/index.rst:87
+msgid ""
+"[2012/07] QGIS and GRASS for modelling ecological corridors for wolves in "
+"North Portugal by Monica Almeida"
+msgstr "[2012/07] 北ポルトガルのオオカミの生態系回廊をモデル化するためのQGISおよびGRASS（Monica Almeida）"
+
+#: ../../source/site/about/case_studies/index.rst:87
+msgid ""
+"[2012/07] QGIS Trainings at NIRD Jaipur Centre, India by Harish Kumar "
+"Solanki"
+msgstr "[2012/07] インドNIRD JaipurセンターでのQGIS 訓練（Harish Kumar Solanki）"
+
+#: ../../source/site/about/case_studies/index.rst:87
+msgid ""
+"[2012/05] Using QGIS for urban planning in the municipality of Montecchio "
+"Maggiore, Vicenza, Italy by Flavio Rigolon"
+msgstr "[2012/05] イタリア共和国ヴェネト州ヴィチェンツァ県モンテッキオ・マッジョーレ自治体での都市計画にQGISを使用する（Flavio Rigolon）"
+
+#: ../../source/site/about/case_studies/index.rst:87
+msgid ""
+"[2012/03] Amurum forest reserve habitat and avifauna mapping with QGIS, "
+"Nigeria by Eelke Folmer et. al."
+msgstr "[2012/03] ナイジェリアにおけるアムルム森林保護区と鳥相の地図のQGISでの作成（Eelke Folmerら）"
+
+#: ../../source/site/about/case_studies/index.rst:87
+msgid ""
+"[2012/03] Using QGIS for wildlife training in Tanzania by Nick McWilliam"
+msgstr "[2012/03] タンザニアにおける野生動物訓練のためのQGISの使用（ニック・マクウィリアム）"
+
+#: ../../source/site/about/case_studies/index.rst:87
+msgid ""
+"[2012/01] The growth of QGIS at the Federal Department of Town and Country "
+"Planning, Peninsular Malaysia by Abbas Abdul Wahab"
+msgstr "[2012/01] マレーシア半島の町と国の計画の連邦部門でのQGISの成長（Abbas Abdul Wahab）"
+
+#: ../../source/site/about/case_studies/index.rst:102
+msgid ""
+"[2011/09] QGIS at high school --- urban green spaces in Rada Tilly Coastal "
+"Town, Argentina by Mauro Novara and Alberto Vázquez"
+msgstr "[2011/09] 高等学校でのQGIS---アルゼンチンのラダ・ティリー沿岸町の都市緑空間（Mauro Novara and Alberto Vázquez）"
+
+#: ../../source/site/about/case_studies/index.rst:102
+msgid ""
+"[2011/04] The use of QGIS in the Geodata Infrastructure of the City of Uster"
+" by Andreas Neumann"
+msgstr "[2011/04] ウスター市の地理データインフラストラクチャでのQGISの使用 （アンドレアス・ノイマン）"
+
+#: ../../source/site/about/case_studies/index.rst:102
+msgid ""
+"[2011/03] Using a free GIS at Jaime Moniz Secondary School: QGIS by Fátima "
+"Vale"
+msgstr "[2011/03] JaimeMoniz中等学校で無料のGISを使用する：QGIS（Fátima Vale）"
+
+#: ../../source/site/about/case_studies/index.rst:102
+msgid ""
+"[2011/01] QGIS and GRASS in Local Government Bushfire Hazard Mapping by "
+"Nathan Woodrow"
+msgstr "[2011/01] 地方政府の森林火災ハザードマップでのQGISとGRASS（ネイサン・ウッドロー）"
+
+#: ../../source/site/about/case_studies/index.rst:113
+msgid ""
+"[2010/11] QGIS and GRASS applied to paleontological survey in Western "
+"Portugal by André Mano"
+msgstr "[2010/11] QGISとGRASSの西洋ポルトガルにおける古生物学の調査への応用（アンドレ・マノ）"
+
+#: ../../source/site/about/case_studies/index.rst:113
+msgid ""
+"[2010/11] QGIS as major GIS software in the Laboratory on Experimental and "
+"Applied Geography by Jakub Trojan"
+msgstr "[2010/11] 実験・応用地理研究所の主要なGISソフトウェアとしてのQGIS（Jakub Trojan）"
+
+#: ../../source/site/about/case_studies/index.rst:113
+msgid ""
+"[2010/07] Working with QGIS in a spatial data infrastructure of Jalisco in "
+"Mexico by Carlos Ruiz"
+msgstr "[2010/07] メキシコのJaliscoの空間データインフラストラクチャにおけるQGISの利用（Carlos Ruiz）"
+
+#: ../../source/site/about/case_studies/index.rst:113
+msgid ""
+"[2010/07] QGIS and GRASS in Biogeographical Research in Spain by Marcia "
+"Barbosa"
+msgstr "[2010/07]イベリア半島における生物地理研究におけるQGISとGRASS（ Marcia Barbosa）"
+
+#: ../../source/site/about/case_studies/index.rst:113
+msgid ""
+"[2010/06] QGIS --- an interesting instrument for forestry planning concepts "
+"at local and regional level in Switzerland by Raphael Häner"
+msgstr "[2010/06] QGIS ---地方および地域レベルでの林業計画の概念に関する興味深い道具（ラファエル・ヘーナー）"
+
+#: ../../source/site/about/case_studies/index.rst:125
+msgid ""
+"[2009/05] QGIS in the governmental FOSSGIS stack of the Canton of Solothurn "
+"in Switzerland by Dr. Horst Düster"
+msgstr "[2009/05] スイスのゾロトゥルン州の政府FOSSGISスタックにおけるQGIS（ホルスト・デュスター博士）"
 
 #: ../../source/site/about/case_studies/index.rst:5
 msgid "Case Studies"
@@ -43,7 +264,7 @@ msgstr "**形式**"
 msgid ""
 "The stories should follow a simple structure and we suggest to write about "
 "800 words including one or two screenshots."
-msgstr "事例は以下のシンプルな形式で約800ワードで2個のスクリーンショットを含むことを推奨します."
+msgstr "事例は以下の単純な構造にしてください。1-2枚のスクリーンショットを含め、800語くらいにまとめることを推奨します。"
 
 #: ../../source/site/about/case_studies/index.rst:13
 msgid "**Title**"
@@ -56,7 +277,7 @@ msgid ""
 "and what QGIS is used for (length about 400 words plus screenshots) "
 "Conclusion showing positive experiences/benefits using QGIS (length about "
 "200 words)"
-msgstr "企業/研究所/官庁/大学のバックグラウンドを含んだ短い紹介（約200ワード).あなたのプロジェクト/アプリケーションの説明とその中でQGISがどのように使われているか(約400ワードの長さとスクリーンショット).結論としてQGISを使って得られたポジティブな経験/利益の記述(約200ワード)"
+msgstr "企業／研究所／官庁／大学といった背景を含んだ短い紹介（200語くらいで）。ご自身のプロジェクト／アプリケーションの説明およびその中でQGISがどのように使われているか（スクリーンショットを付けて400語くらいで）。結論としてQGISを使用して得られた良い経験・利益の記述（200語くらいで）"
 
 #: ../../source/site/about/case_studies/index.rst:22
 msgid "2019"
@@ -97,6 +318,14 @@ msgstr "2010年"
 #: ../../source/site/about/case_studies/index.rst:123
 msgid "2009"
 msgstr "2009年"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "List of Case Studies"
 #~ msgstr ""

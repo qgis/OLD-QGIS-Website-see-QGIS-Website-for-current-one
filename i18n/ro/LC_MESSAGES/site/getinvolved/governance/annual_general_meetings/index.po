@@ -4,21 +4,21 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2020
+# Sorin Călinică <scalinica@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-10 10:41+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2018-05-20 14:24+0000\n"
-"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2020\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2022\n"
 "Language-Team: Romanian (https://www.transifex.com/qgis/teams/6144/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
@@ -41,16 +41,26 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/annual_general_meetings/index.rst:10
 msgid ""
-":download:`QGIS AGM Minutes 2020 (pdf) "
+":download:`QGIS AGM Minutes 2021 (pdf) "
 "<../../../../static/site/getinvolved/governance/agm-minutes/QGIS-"
-"AGM2020-Minutes.pdf>`"
+"AGM2021-Minutes.pdf>`"
 msgstr ""
-":download:`QGIS AGM Minutes 2020 (pdf) "
+":download:`Minutele AGM QGIS 2021 (pdf) "
 "<../../../../static/site/getinvolved/governance/agm-minutes/QGIS-"
-"AGM2020-Minutes.pdf>`"
+"AGM2021-Minutes.pdf>`"
 
 #: ../../source/site/getinvolved/governance/annual_general_meetings/index.rst:11
 msgid ""
+":download:`QGIS AGM Minutes 2020 (pdf) "
+"<../../../../static/site/getinvolved/governance/agm-minutes/QGIS-"
+"AGM2020-Minutes.pdf>`"
+msgstr ""
+":download:`QGIS AGM Minutes 2020 (pdf) "
+"<../../../../static/site/getinvolved/governance/agm-minutes/QGIS-"
+"AGM2020-Minutes.pdf>`"
+
+#: ../../source/site/getinvolved/governance/annual_general_meetings/index.rst:12
+msgid ""
 ":download:`QGIS AGM Minutes 2019 (pdf) "
 "<../../../../static/site/getinvolved/governance/agm-minutes/QGIS-"
 "AGM2019-Minutes.pdf>`"
@@ -59,7 +69,7 @@ msgstr ""
 "<../../../../static/site/getinvolved/governance/agm-minutes/QGIS-"
 "AGM2019-Minutes.pdf>`"
 
-#: ../../source/site/getinvolved/governance/annual_general_meetings/index.rst:12
+#: ../../source/site/getinvolved/governance/annual_general_meetings/index.rst:13
 msgid ""
 ":download:`QGIS AGM Minutes 2018 (pdf) "
 "<../../../../static/site/getinvolved/governance/agm-minutes/QGIS-"
@@ -69,7 +79,7 @@ msgstr ""
 "<../../../../static/site/getinvolved/governance/agm-minutes/QGIS-"
 "AGM2018-Minutes.pdf>`"
 
-#: ../../source/site/getinvolved/governance/annual_general_meetings/index.rst:13
+#: ../../source/site/getinvolved/governance/annual_general_meetings/index.rst:14
 msgid ""
 ":download:`QGIS AGM Minutes 2017 (pdf) "
 "<../../../../static/site/getinvolved/governance/agm-minutes/QGIS-"
@@ -79,7 +89,7 @@ msgstr ""
 "<../../../../static/site/getinvolved/governance/agm-minutes/QGIS-"
 "AGM2017-Minutes.pdf>`"
 
-#: ../../source/site/getinvolved/governance/annual_general_meetings/index.rst:14
+#: ../../source/site/getinvolved/governance/annual_general_meetings/index.rst:15
 msgid ""
 ":download:`QGIS AGM Minutes 2016 (pdf) "
 "<../../../../static/site/getinvolved/governance/agm-minutes/QGIS-"
@@ -88,3 +98,11 @@ msgstr ""
 ":download:`Minutele AGM QGIS 2016 (pdf) "
 "<../../../../static/site/getinvolved/governance/agm-minutes/QGIS-"
 "AGM2016-Minutes.pdf>`"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"

@@ -4,22 +4,22 @@
 # 
 # Translators:
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2020
-# Manuela Silva <manuelarodsilva@gmail.com>, 2017
+# Manuela Silva <mmsrs@sky.com>, 2017
 # slopes <sandramnlopes@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-13 20:36+0100\n"
-"PO-Revision-Date: 2020-05-01 09:11+0000\n"
-"Last-Translator: João Gaspar <joao.f.r.gaspar@gmail.com>\n"
+"PO-Revision-Date: 2016-03-05 14:48+0000\n"
+"Last-Translator: João Gaspar <joao.f.r.gaspar@gmail.com>, 2020\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/qgis/qgis-website/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.5.1\n"
 "Language: pt_PT\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/getinvolved/development/qgisdevelopersguide/git.rst:4
 msgid "GIT Access"
@@ -555,11 +555,11 @@ msgstr ""
 #~ "QGIS developers are busy folk. We do scan the incoming patches on bug "
 #~ "reports but sometimes we miss things. Don't be offended or alarmed. Try to "
 #~ "identify a developer to help you - using the `Technical Resources "
-#~ "<https://qgis.org/en/site/getinvolved/governance/organisation/governance.html"
-#~ "#community-resources>`_ and contact them asking them if they can look at "
-#~ "your patch. If you don't get any response, you can escalate your query to "
-#~ "one of the Project Steering Committee members (contact details also "
-#~ "available in the Technical Resources)."
+#~ "<https://qgis.org/en/site/getinvolved/governance/organisation/governance.html#community-"
+#~ "resources>`_ and contact them asking them if they can look at your patch. If"
+#~ " you don't get any response, you can escalate your query to one of the "
+#~ "Project Steering Committee members (contact details also available in the "
+#~ "Technical Resources)."
 #~ msgstr ""
 
 #~ msgid ""

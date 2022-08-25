@@ -5,20 +5,21 @@
 # 
 # Translators:
 # MapsIoT <maps.iot.ro@gmail.com>, 2019
+# Sorin Călinică <scalinica@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-13 10:56+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-09-05 17:56+0000\n"
-"Last-Translator: MapsIoT <maps.iot.ro@gmail.com>, 2019\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2022\n"
 "Language-Team: Romanian (https://www.transifex.com/qgis/teams/6144/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
@@ -107,6 +108,7 @@ msgstr "Pregătirea mediului de dezvoltare și configurarea depozitului"
 #: ../../source/site/getinvolved/development/development.rst:47
 msgid "Go to the QGIS repository in GitHub at https://github.com/qgis/QGIS/"
 msgstr ""
+"Accesați depozitul QGIS de pe GitHub, la https://github.com/qgis/QGIS/"
 
 #: ../../source/site/getinvolved/development/development.rst:48
 msgid ""
@@ -127,12 +129,12 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/development.rst:52
 msgid ""
-"Read the https://github.com/qgis/QGIS/blob/master/INSTALL about setting up "
-"the installation environment and make a compilation with ccache enabled."
+"Read the https://github.com/qgis/QGIS/blob/master/INSTALL.md about setting "
+"up the installation environment and make a compilation with ccache enabled."
 msgstr ""
-"Citiți la https://github.com/qgis/QGIS/blob/master/INSTALL despre "
-"configurarea mediului de instalare, și despre efectuarea unei compilații cu "
-"ccache activat."
+"Informații suplimentare la "
+"https://github.com/qgis/QGIS/blob/master/INSTALL.md despre configurarea "
+"mediului de instalare și despre efectuarea unei compilări cu ccache activat."
 
 #: ../../source/site/getinvolved/development/development.rst:56
 msgid "Setting up the Plugin Directory"
@@ -166,19 +168,24 @@ msgstr "Dezvoltarea plugin- urilor cu Python"
 
 #: ../../source/site/getinvolved/development/development.rst:77
 msgid "QGIS has a lot to offer to python developers too."
-msgstr ""
+msgstr "De asemenea, QGIS are multe de oferit și pentru dezvoltatorii Python."
 
 #: ../../source/site/getinvolved/development/development.rst:79
 msgid ""
 "QGIS has python bindings so you can automate tasks in QGIS via python. We "
 "provide a documentation for QGIS API at https://qgis.org/pyqgis/"
 msgstr ""
+"QGIS este astfel construit încât să puteți automatiza sarcinile prin "
+"intermediul Python. Oferim o documentație pentru API-ul QGIS la "
+"https://qgis.org/pyqgis/"
 
 #: ../../source/site/getinvolved/development/development.rst:83
 msgid ""
 "You can also have a look into the **Python Cookbook** in our Documentation "
 "site: https://docs.qgis.org/"
 msgstr ""
+"De asemenea, puteți arunca o privire în **Cartea de Rețete Python**, de pe "
+"site-ul Documentației: https://docs.qgis.org/"
 
 #: ../../source/site/getinvolved/development/development.rst:86
 msgid ""
@@ -186,10 +193,23 @@ msgid ""
 "instructions at "
 "https://docs.qgis.org/latest/en/docs/pyqgis_developer_cookbook/plugins/index.html"
 msgstr ""
+"Dacă aveți un interes deosebit pentru dezvoltarea de pluginuri Python, "
+"puteți găsi unele instrucțiuni la  "
+"https://docs.qgis.org/latest/en/docs/pyqgis_developer_cookbook/plugins/index.html"
 
 #: ../../source/site/getinvolved/development/development.rst:89
 msgid "Looking for examples of python plugins, see https://plugins.qgis.org"
 msgstr ""
+"Pentru a găsi exemple de plugin-uri Python, accesați "
+"https://plugins.qgis.org"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "Go to the QGIS repository in Github at https://github.com/qgis/QGIS/"
 #~ msgstr ""
@@ -211,8 +231,8 @@ msgstr ""
 #~ msgstr ""
 #~ "Dacă sunteți interesați în dezvoltarea plugin-urilor Python, cea mai simplă "
 #~ "modalitate de a începe este utilizarea Constructorului de Plugin-uri din "
-#~ "QGIS. Căutați 'Plugin Builder' în managerul de plugin-uri din QGIS, sau "
-#~ "citiți aici: http://plugins.qgis.org/plugins/pluginbuilder/"
+#~ "QGIS. Identificați ``Plugin Builder`` în managerul de plugin-uri din QGIS, "
+#~ "sau citiți despre el aici: https://plugins.qgis.org/plugins/pluginbuilder/"
 
 #~ msgid ""
 #~ "You can also have a look into the **Python Cookbook** in our Documentation "
@@ -238,3 +258,11 @@ msgstr ""
 
 #~ msgid "https://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)"
 #~ msgstr "https://qgis.org/api/1.8/classQgisInterface.html (pentru QGIS 1.8)"
+
+#~ msgid ""
+#~ "Read the https://github.com/qgis/QGIS/blob/master/INSTALL about setting up "
+#~ "the installation environment and make a compilation with ccache enabled."
+#~ msgstr ""
+#~ "Citiți la https://github.com/qgis/QGIS/blob/master/INSTALL despre "
+#~ "configurarea mediului de instalare, și despre efectuarea unei compilații cu "
+#~ "ccache activat."

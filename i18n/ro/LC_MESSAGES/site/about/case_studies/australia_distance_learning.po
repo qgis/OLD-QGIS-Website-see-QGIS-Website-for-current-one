@@ -4,21 +4,21 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2020
+# Sorin Călinică <scalinica@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-13 20:36+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-03-13 19:41+0000\n"
-"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2020\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2022\n"
 "Language-Team: Romanian (https://www.transifex.com/qgis/teams/6144/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
@@ -39,6 +39,13 @@ msgid ""
 "computers (e.g. Notebook, Desktop etc.) with different operating systems "
 "(e.g. Windows, MacOS, and Linux)."
 msgstr ""
+"Universitatea din Queensland de Sud (USQ) este o universitate regională, "
+"situată în sud-estul provinciei Queensland, Australia. Are 28.000 de "
+"studenți care studiază atât în ​​campus cât și în afara acestuia. Accesul "
+"studenților din afara campusului la tehnologii moderne precum serviciile de "
+"internet este extrem de larg. De asemenea, utilizează diferite tipuri de "
+"computere (de ex. Notebook, Desktop etc.) cu sisteme de operare diferite (de"
+" exemplu Windows, MacOS și Linux)."
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:10
 #, python-format
@@ -48,6 +55,11 @@ msgid ""
 "challenges. On average, 300-350 students enrol in the basic GIS course every"
 " year. About 80% of them study in the off-campus mode."
 msgstr ""
+"Accesul la educație atât în ​​campus, cât și din exteriorul acestuia ridică "
+"multe provocări tehnologice. Predarea unui curs GIS presupune depășirea "
+"acestor provocări. În medie, 300-350 de studenți se înscriu la cursul GIS de"
+" bază în fiecare an. Aproximativ 80% dintre ei studiază din afara "
+"campusului."
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:17
 msgid "USQ Main Campus Map created using QGIS"
@@ -104,6 +116,10 @@ msgid ""
 "QGIS users. The results (Figure 2) show the majority (82%) of the students "
 "rated QGIS software and the hands-on learning resources as, ‘helpful’ to "
 "‘very helpful’ in learning GIS. Most others rated it as ‘reasonable’."
+msgstr ""
+
+#: ../../source/site/about/case_studies/australia_distance_learning.rst:36
+msgid "Student response graph"
 msgstr ""
 
 #: ../../source/site/about/case_studies/australia_distance_learning.rst:36
@@ -222,3 +238,11 @@ msgid ""
 "unparalleled flexibility in processing. This familiarity allows him to "
 "develop instructional QGIS videos based on Australian spatial data sets."
 msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"

@@ -6,29 +6,34 @@
 # Translators:
 # Jürgen E. Fischer <jef@norbit.de>, 2020
 # Calvin Ngei <calvin.ngei@gmail.com>, 2020
+# 徐保才 <1302638819@qq.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-12 16:20+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2018-12-19 16:27+0000\n"
-"Last-Translator: Calvin Ngei <calvin.ngei@gmail.com>, 2020\n"
+"Last-Translator: 徐保才 <1302638819@qq.com>, 2022\n"
 "Language-Team: Chinese Simplified (https://www.transifex.com/qgis/teams/6144/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: zh-Hans\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:5
 msgid "Changelog for QGIS 3.4 LTR"
-msgstr ""
+msgstr "QGIS 3.4 LTR 更新日志"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:7
 msgid "|image0|"
+msgstr "图像0|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1091
+msgid "image0"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:9
@@ -49,7 +54,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:13
 msgid "**Thanks**"
-msgstr ""
+msgstr "**谢谢**"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:15
 msgid ""
@@ -78,6 +83,8 @@ msgid ""
 ":raw-html:`<div id=\"qgissustainingmembersatom\"> <!-- to be filled via "
 "javascript loading of atom feed --> </div>`"
 msgstr ""
+":raw-html:`<div id=\"qgissustainingmembersatom\"> <!-- to be filled via "
+"javascript loading of atom feed --> </div>`"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:21
 msgid ""
@@ -90,6 +97,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:23
 msgid "|image1|"
+msgstr "图像1|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:1093
+msgid "image1"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:30
@@ -98,7 +109,7 @@ msgstr "通用"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:33
 msgid "Feature: Flatpak"
-msgstr ""
+msgstr "要素: Flatpak"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:35
 msgid ""
@@ -114,11 +125,15 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:39
 msgid "|image28|"
+msgstr "图像28|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image28"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:41
 msgid "This feature was funded by `Aleix Pol <https://github.com/aleixpol>`__"
-msgstr ""
+msgstr "此功能由 `Aleix Pol 资助 <https://github.com/aleixpol>`__"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:43
 msgid ""
@@ -169,7 +184,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:64
 msgid "Expressions"
-msgstr ""
+msgstr "表达式"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:67
 msgid "Feature: New expression functions and variables"
@@ -273,6 +288,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:89
 msgid "|image2|"
+msgstr "图像2|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image2"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:91
@@ -301,6 +320,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:101
 msgid "|image3|"
+msgstr "图像3|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image3"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:103
@@ -333,6 +356,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:115
 msgid "|image4|"
+msgstr "图像4|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image4"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:117
@@ -347,7 +374,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:122
 msgid "User Interface"
-msgstr ""
+msgstr "用户界面"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:125
 msgid "Feature: Auto selection of exported files in file manager"
@@ -364,6 +391,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:129
 msgid "|image5|"
+msgstr "|image5|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image5"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:131
@@ -458,6 +489,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:151
 msgid "|image6|"
+msgstr "|image6|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image6"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:158
@@ -501,6 +536,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:173
 msgid "|image7|"
+msgstr "|image7|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image7"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:175
@@ -560,6 +599,10 @@ msgstr ""
 msgid "|image8|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image8"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog34/index.rst:199
 msgid ""
 "This feature was developed by Mathieu Pellerin (iMHere Asia), Nyall Dawson "
@@ -580,6 +623,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:207
 msgid "|image9|"
+msgstr "|image9|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image9"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:209
@@ -670,6 +717,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:244
 msgid "|image10|"
+msgstr "|image10|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image10"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:246
@@ -719,6 +770,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:267
 msgid "|image11|"
+msgstr "|image11|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image11"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:269
@@ -746,6 +801,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:278
 msgid "|image12|"
+msgstr "|image12|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image12"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:280
@@ -770,6 +829,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:289
 msgid "|image13|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image13"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:291
@@ -797,6 +860,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:302
 msgid "|image14|"
+msgstr "|image14|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image14"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:304
@@ -805,8 +872,9 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog34/index.rst:345
 #: ../../source/site/forusers/visualchangelog34/index.rst:738
 msgid ""
-"This feature was funded by `Kanton Solothurn <https://www.so.ch/verwaltung"
-"/bau-und-justizdepartement/amt-fuer-geoinformation/>`__"
+"This feature was funded by `Kanton Solothurn "
+"<https://www.so.ch/verwaltung/bau-und-justizdepartement/amt-fuer-"
+"geoinformation/>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:306
@@ -842,6 +910,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:323
 msgid "|image15|"
+msgstr "|image15|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image15"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:330
@@ -880,6 +952,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:343
 msgid "|image16|"
+msgstr "|image16|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image16"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:350
@@ -936,6 +1012,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:369
 msgid "|image17|"
+msgstr "|image17|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image17"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:376
@@ -959,6 +1039,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:382
 msgid "|image18|"
+msgstr "|image18|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image18"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:384
@@ -989,6 +1073,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:395
 msgid "|image19|"
+msgstr "|image19|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image19"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:397
@@ -1019,6 +1107,10 @@ msgstr ""
 msgid "|image20|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image20"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog34/index.rst:408
 #: ../../source/site/forusers/visualchangelog34/index.rst:941
 msgid ""
@@ -1034,7 +1126,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:413
 msgid "Forms and Widgets"
-msgstr ""
+msgstr "对话框和控件"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:416
 msgid "Feature: Drill-down (cascading) forms in QGIS Value Relation Widgets"
@@ -1050,12 +1142,16 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:420
 msgid "|image21|"
+msgstr "|image21|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image21"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:422
 msgid ""
-"This feature was funded by `QGIS community through crowd-funding <https"
-"://north-road.com/drill-down-cascading-forms/>`__"
+"This feature was funded by `QGIS community through crowd-funding "
+"<https://north-road.com/drill-down-cascading-forms/>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:424
@@ -1077,6 +1173,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:434
 msgid "|image22|"
+msgstr "|image22|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image22"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:436
@@ -1144,12 +1244,16 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:455
 msgid "|image23|"
+msgstr "|image23|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image23"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:457
 msgid ""
-"This feature was funded by `Crowdfunding campaign <https://north-road.com"
-"/edit-features-in-place-using-qgis-spatial-operations-campaign/>`__"
+"This feature was funded by `Crowdfunding campaign <https://north-"
+"road.com/edit-features-in-place-using-qgis-spatial-operations-campaign/>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:459
@@ -1192,6 +1296,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:477
 msgid "|image24|"
+msgstr "|image24|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image24"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:479
@@ -1408,6 +1516,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:614
 msgid "|image25|"
+msgstr "|image25|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image25"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:621
@@ -1424,6 +1536,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:625
 msgid "|image26|"
+msgstr "|image26|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image26"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:627
@@ -1482,6 +1598,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:651
 msgid "|image27|"
+msgstr "|image27|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image27"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:658
@@ -1578,6 +1698,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:692
 msgid "|image29|"
+msgstr "|image29|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image29"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:694
@@ -1599,6 +1723,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:703
 msgid "|image30|"
+msgstr "|image30|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image30"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:710
@@ -1618,6 +1746,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:714
 msgid "|image31|"
+msgstr "|image31|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image31"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:721
@@ -1638,6 +1770,10 @@ msgstr ""
 msgid "|image32|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image32"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog34/index.rst:732
 msgid "Feature: JSON/JSONB Type support"
 msgstr ""
@@ -1651,6 +1787,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:736
 msgid "|image33|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image33"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:740
@@ -1799,6 +1939,10 @@ msgstr ""
 msgid "|image34|"
 msgstr ""
 
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image34"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog34/index.rst:915
 msgid "Feature: Add ability to define min. scale for WMTS"
 msgstr ""
@@ -1843,6 +1987,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:939
 msgid "|image35|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image35"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:946
@@ -1943,6 +2091,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:1011
 msgid "|image36|"
+msgstr "|image36|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image36"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:1013
@@ -1979,6 +2131,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:1033
 msgid "|image37|"
+msgstr "|image37|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image37"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:1040
@@ -2001,6 +2157,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:1046
 msgid "|image38|"
+msgstr "|image38|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image38"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:1050
@@ -2034,6 +2194,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:1065
 msgid "|image39|"
+msgstr "|image39|"
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image39"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:1072
@@ -2048,6 +2212,10 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:1076
 msgid "|image40|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog34/index.rst
+msgid "image40"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:1078
@@ -2068,6 +2236,14 @@ msgid ""
 "Please note that for now the API is considered as experimental, so it may "
 "change in future 3.x releases."
 msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "This feature was developed by `Martin Dobias (Lutra Consulting) and Faunalia"

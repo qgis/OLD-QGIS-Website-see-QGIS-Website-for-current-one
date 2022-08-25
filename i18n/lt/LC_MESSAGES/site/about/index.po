@@ -1,20 +1,24 @@
 # 
 # Translators:
-# Tomas Straupis, 2015
+# Tomas Straupis, 2015,2021
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-26 11:45+0100\n"
-"PO-Revision-Date: 2020-10-26 10:58+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Tomas Straupis, 2015,2021\n"
 "Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: lt\n"
 "Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+#: ../../source/site/about/index.rst:6
+msgid "Blogs"
+msgstr "Dienoraščiai"
 
 #: ../../source/site/about/index.rst:4
 msgid "Discover QGIS"
@@ -26,6 +30,14 @@ msgid ""
 "theme/about_index.html. The html texts are translated in the 'spinx' "
 "resource: https://www.transifex.com/qgis/qgis-website/sphinx/ Only TOC is "
 "used."
+msgstr "Turinys nenaudojamas, jis perrašomas tekstu iš themes/qgis-theme/about_index.html. Html tekstai verčiami 'sphinx' resurse: https://www.transifex.com/qgis/qgis-website/sphinx/ Naudojamas tik turinys."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
 msgstr ""
 
 #~ msgid "Blogs"

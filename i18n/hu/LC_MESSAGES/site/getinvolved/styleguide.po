@@ -5,26 +5,27 @@
 # 
 # Translators:
 # Zoltan Siki <siki.zoltan@epito.bme.hu>, 2017
+# Báthory Péter <bathory86p@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-11 18:41+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2017-08-08 09:20+0000\n"
-"Last-Translator: Zoltan Siki <siki.zoltan@epito.bme.hu>, 2017\n"
+"Last-Translator: Báthory Péter <bathory86p@gmail.com>, 2022\n"
 "Language-Team: Hungarian (https://www.transifex.com/qgis/teams/6144/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../source/site/getinvolved/styleguide.rst:2
 msgid "Visual Style Guide"
-msgstr "Vizuális stílus útmutató"
+msgstr "Arculati kézikönyv"
 
 #: ../../source/site/getinvolved/styleguide.rst:5
 msgid "Version 1.0"
@@ -37,10 +38,10 @@ msgid ""
 "brand to make it stronger, more visible and more adaptable to a broad range "
 "of use cases."
 msgstr ""
-"Ez a mi QGIS vizuális stílus útmutatónk. Ez a dokumentum adja meg a "
-"szabványokat a vizuális megjelenésünkhöz. A QGIS márka korszerűsítését "
-"célozza annak érdekében, hogy erősebbé, láthatóbbá és alkalmazhatóbbá tegye "
-"a felhasználási esetek széles skálájához."
+"Ez a mi arculati kézikönyvünk a QGIS-hez. Ez a dokumentum adja meg a "
+"vizuális megjelenésünkre vonatkozó szabványokat. A QGIS márka "
+"korszerűsítését célozza annak érdekében, hogy erősebbé, láthatóbbá és "
+"alkalmazhatóbbá tegye a felhasználási módok széles skáláján."
 
 #: ../../source/site/getinvolved/styleguide.rst:13
 msgid ""
@@ -52,6 +53,13 @@ msgid ""
 "the uniformity of presentation necessary for successful promotion and "
 "marketing efforts for the QGIS project."
 msgstr ""
+"Az arculati kézikönyv egy élő dokumentum, amely azzal a céllal jött létre, "
+"hogy egységes üzenetet és képet alakítson ki a QGIS számára. „Élő” "
+"dokumentum, mivel bővíteni tervezzük olyan új felhasználási esetekkel, ahol "
+"fontos a következetes, szabályokkal jól leírható megjelenés. Az itt leírt "
+"szabványok és egyszerű irányelvek célja, hogy fenntartsák a QGIS projekt "
+"sikeres promóciójához és marketingjéhez szükséges megjelenítés "
+"egységességét."
 
 #: ../../source/site/getinvolved/styleguide.rst:23
 msgid ""
@@ -61,6 +69,11 @@ msgid ""
 "are a visual expression of QGIS and should serve as the base for our overall"
 " communications strategy."
 msgstr ""
+"Vizuális identitásunk a QGIS erejét, megbízható minőségét és kompetenciáját "
+"jelképezi. A logó, a betűtípusok és a színek megfelelő kezelése biztosítja, "
+"hogy a QGIS felismerhető legyen, és kitűnjön a kommunikáció erdejéből. A "
+"grafikai szabványok a QGIS vizuális kifejeződései és mint ilyenek, az átfogó"
+" kommunikációs stratégiánk alapjául szolgálnak."
 
 #: ../../source/site/getinvolved/styleguide.rst:30
 msgid ""
@@ -68,10 +81,14 @@ msgid ""
 "the new QGIS logo. Future versions will focus on branding assets and how to "
 "spread the QGIS brand across the web, mobile devices and printed materials."
 msgstr ""
+"A Grafikai kézikönyv első verziója felvázolja az új QGIS logó alapvető "
+"elemeit. A jövőbeli verziók a márkaépítési eszközökre és a QGIS márka "
+"terjesztésére fognak összpontosítani az interneten, a mobileszközökön és a "
+"nyomtatott anyagokban."
 
 #: ../../source/site/getinvolved/styleguide.rst:38
 msgid "Logotype"
-msgstr ""
+msgstr "Logó"
 
 #: ../../source/site/getinvolved/styleguide.rst:41
 msgid "Original"
@@ -79,23 +96,23 @@ msgstr "Eredeti"
 
 #: ../../source/site/getinvolved/styleguide.rst:47
 msgid "**Download logo file**"
-msgstr "**Logo fájl letöltés**"
+msgstr "**Logó fájl letöltése**"
 
 #: ../../source/site/getinvolved/styleguide.rst:49
 msgid ":download:`SVG logo <files/qgis-logo.svg>`"
-msgstr ":download:`SVG logo <files/qgis-logo.svg>`"
+msgstr ":download:`SVG logó <files/qgis-logo.svg>`"
 
 #: ../../source/site/getinvolved/styleguide.rst:51
 msgid ":download:`PNG logo <files/qgis-logo.png>`"
-msgstr ":download:`PNG logo <files/qgis-logo.png>`"
+msgstr ":download:`PNG logó <files/qgis-logo.png>`"
 
 #: ../../source/site/getinvolved/styleguide.rst:53
 msgid ":download:`SVG monochrome logo <files/qgis-logo-monochrome.svg>`"
-msgstr ":download:`SVG monokróm logo <files/qgis-logo-monochrome.svg>`"
+msgstr ":download:`SVG monokróm logó <files/qgis-logo-monochrome.svg>`"
 
 #: ../../source/site/getinvolved/styleguide.rst:55
 msgid ":download:`PNG monochrome logo <files/qgis-logo-monochrome.png>`"
-msgstr ":download:`PNG monokróm logo <files/qgis-logo-monochrome.png>`"
+msgstr ":download:`PNG monokróm logó <files/qgis-logo-monochrome.png>`"
 
 #: ../../source/site/getinvolved/styleguide.rst:62
 msgid ""
@@ -103,9 +120,10 @@ msgid ""
 "original QGIS logo (Q letter with an arrow through it), this new version "
 "intends to be sharp and scalable, introducing simpler and bolder shapes."
 msgstr ""
-"Az új QGIS logót itt mutatjuk be. Az eredeti QGIS logó központi elemeinek "
-"megtartásával (Q betű és nyíl azon keresztül), ez az új verzió élesnek és "
-"skálázhatónak tűnik, egyszerűbb és merészebb formákat mutat."
+"Az új QGIS logót itt mutatjuk be. Az eredeti QGIS logó alapvető elemeinek "
+"megtartása mellett (Q betű a rajta keresztül futó nyíllal) ez az új verzió "
+"éles és skálázható kíván lenni, miközben egyszerűbb de merészebb formákat "
+"vezet be."
 
 #: ../../source/site/getinvolved/styleguide.rst:67
 msgid "The proposed changes are listed below."
@@ -113,7 +131,7 @@ msgstr "A javasolt változások lent láthatók."
 
 #: ../../source/site/getinvolved/styleguide.rst:69
 msgid "The existing spirit is preserved but the logo is bold"
-msgstr "A korábbi szellemet megőriztük, de a logo merész"
+msgstr "A korábbi szellemet megőriztük, de a logó merész"
 
 #: ../../source/site/getinvolved/styleguide.rst:70
 msgid "Shadows removed"
@@ -121,7 +139,7 @@ msgstr "Az árnyékot eltávolítottuk"
 
 #: ../../source/site/getinvolved/styleguide.rst:71
 msgid "The Q is sans-serif"
-msgstr "A Q sans-serif"
+msgstr "A Q betűtípusa sans-serif"
 
 #: ../../source/site/getinvolved/styleguide.rst:72
 msgid "The arrow becomes the part of Q letter"
@@ -129,7 +147,7 @@ msgstr "A nyíl a Q betű részévé vált"
 
 #: ../../source/site/getinvolved/styleguide.rst:73
 msgid "The QGIS logo text is based on the free & libre Trueno Bold font."
-msgstr "A QGIS logo felirat a szabad Trueno Bold betűkészletet használja"
+msgstr "A QGIS logó felirata a szabad Trueno Bold betűkészletet használja."
 
 #: ../../source/site/getinvolved/styleguide.rst:76
 msgid "Minimal"
@@ -137,23 +155,23 @@ msgstr "Minimál"
 
 #: ../../source/site/getinvolved/styleguide.rst:80
 msgid "**Download minimal logo**"
-msgstr "**Minimál logo letöltése**"
+msgstr "**Minimál logó letöltése**"
 
 #: ../../source/site/getinvolved/styleguide.rst:82
 msgid ""
-":download:`SVG 128px <files/qgis-icon128.svg>` :download:`SVG 64px <files"
-"/qgis-icon64.svg>` :download:`SVG 32px <files/qgis-icon32.svg>`"
+":download:`SVG 128px <files/qgis-icon128.svg>` :download:`SVG 64px "
+"<files/qgis-icon64.svg>` :download:`SVG 32px <files/qgis-icon32.svg>`"
 msgstr ""
-":download:`SVG 128px <files/qgis-icon128.svg>` :download:`SVG 64px <files"
-"/qgis-icon64.svg>` :download:`SVG 32px <files/qgis-icon32.svg>`"
+":download:`SVG 128px <files/qgis-icon128.svg>` :download:`SVG 64px "
+"<files/qgis-icon64.svg>` :download:`SVG 32px <files/qgis-icon32.svg>`"
 
 #: ../../source/site/getinvolved/styleguide.rst:86
 msgid ""
-":download:`PNG 128px <files/qgis-icon128.png>` :download:`PNG 64px <files"
-"/qgis-icon64.png>` :download:`PNG 32px <files/qgis-icon32.png>`"
+":download:`PNG 128px <files/qgis-icon128.png>` :download:`PNG 64px "
+"<files/qgis-icon64.png>` :download:`PNG 32px <files/qgis-icon32.png>`"
 msgstr ""
-":download:`PNG 128px <files/qgis-icon128.png>` :download:`PNG 64px <files"
-"/qgis-icon64.png>` :download:`PNG 32px <files/qgis-icon32.png>`"
+":download:`PNG 128px <files/qgis-icon128.png>` :download:`PNG 64px "
+"<files/qgis-icon64.png>` :download:`PNG 32px <files/qgis-icon32.png>`"
 
 #: ../../source/site/getinvolved/styleguide.rst:93
 msgid "**Download minimal black**"
@@ -162,22 +180,22 @@ msgstr "**Minimál fekete letöltése**"
 #: ../../source/site/getinvolved/styleguide.rst:95
 msgid ""
 ":download:`SVG black 128px <files/qgis-icon-black128.svg>` :download:`SVG "
-"black 64px <files/qgis-icon-black64.svg>` :download:`SVG black 32px <files"
-"/qgis-icon-black32.svg>`"
+"black 64px <files/qgis-icon-black64.svg>` :download:`SVG black 32px "
+"<files/qgis-icon-black32.svg>`"
 msgstr ""
 ":download:`SVG black 128px <files/qgis-icon-black128.svg>` :download:`SVG "
-"black 64px <files/qgis-icon-black64.svg>` :download:`SVG black 32px <files"
-"/qgis-icon-black32.svg>`"
+"black 64px <files/qgis-icon-black64.svg>` :download:`SVG black 32px "
+"<files/qgis-icon-black32.svg>`"
 
 #: ../../source/site/getinvolved/styleguide.rst:99
 msgid ""
 ":download:`PNG black 128px <files/qgis-icon-black128.png>` :download:`PNG "
-"black 64px <files/qgis-icon-black64.png>` :download:`PNG black 32px <files"
-"/qgis-icon-black32.png>`"
+"black 64px <files/qgis-icon-black64.png>` :download:`PNG black 32px "
+"<files/qgis-icon-black32.png>`"
 msgstr ""
 ":download:`PNG black 128px <files/qgis-icon-black128.png>` :download:`PNG "
-"black 64px <files/qgis-icon-black64.png>` :download:`PNG black 32px <files"
-"/qgis-icon-black32.png>`"
+"black 64px <files/qgis-icon-black64.png>` :download:`PNG black 32px "
+"<files/qgis-icon-black32.png>`"
 
 #: ../../source/site/getinvolved/styleguide.rst:106
 msgid "**Download minimal green**"
@@ -186,22 +204,22 @@ msgstr "**Minimál zöld letöltése**"
 #: ../../source/site/getinvolved/styleguide.rst:108
 msgid ""
 ":download:`SVG green 128px <files/qgis-icon-green128.svg>` :download:`SVG "
-"green 64px <files/qgis-icon-green64.svg>` :download:`SVG green 32px <files"
-"/qgis-icon-green32.svg>`"
+"green 64px <files/qgis-icon-green64.svg>` :download:`SVG green 32px "
+"<files/qgis-icon-green32.svg>`"
 msgstr ""
 ":download:`SVG green 128px <files/qgis-icon-green128.svg>` :download:`SVG "
-"green 64px <files/qgis-icon-green64.svg>` :download:`SVG green 32px <files"
-"/qgis-icon-green32.svg>`"
+"green 64px <files/qgis-icon-green64.svg>` :download:`SVG green 32px "
+"<files/qgis-icon-green32.svg>`"
 
 #: ../../source/site/getinvolved/styleguide.rst:112
 msgid ""
 ":download:`PNG green 128px <files/qgis-icon-green128.png>` :download:`PNG "
-"green 64px <files/qgis-icon-green64.png>` :download:`PNG green 32px <files"
-"/qgis-icon-green32.png>`"
+"green 64px <files/qgis-icon-green64.png>` :download:`PNG green 32px "
+"<files/qgis-icon-green32.png>`"
 msgstr ""
 ":download:`PNG green 128px <files/qgis-icon-green128.png>` :download:`PNG "
-"green 64px <files/qgis-icon-green64.png>` :download:`PNG green 32px <files"
-"/qgis-icon-green32.png>`"
+"green 64px <files/qgis-icon-green64.png>` :download:`PNG green 32px "
+"<files/qgis-icon-green32.png>`"
 
 #: ../../source/site/getinvolved/styleguide.rst:119
 msgid "**Download minimal white**"
@@ -210,22 +228,22 @@ msgstr "**Minimál fehér letöltése**"
 #: ../../source/site/getinvolved/styleguide.rst:121
 msgid ""
 ":download:`SVG white 128px <files/qgis-icon-white128.svg>` :download:`SVG "
-"white 64px <files/qgis-icon-white64.svg>` :download:`SVG white 32px <files"
-"/qgis-icon-white32.svg>`"
+"white 64px <files/qgis-icon-white64.svg>` :download:`SVG white 32px "
+"<files/qgis-icon-white32.svg>`"
 msgstr ""
 ":download:`SVG white 128px <files/qgis-icon-white128.svg>` :download:`SVG "
-"white 64px <files/qgis-icon-white64.svg>` :download:`SVG white 32px <files"
-"/qgis-icon-white32.svg>`"
+"white 64px <files/qgis-icon-white64.svg>` :download:`SVG white 32px "
+"<files/qgis-icon-white32.svg>`"
 
 #: ../../source/site/getinvolved/styleguide.rst:125
 msgid ""
 ":download:`PNG white 128px <files/qgis-icon-white128.png>` :download:`PNG "
-"white 64px <files/qgis-icon-white64.png>` :download:`PNG white 32px <files"
-"/qgis-icon-white32.png>`"
+"white 64px <files/qgis-icon-white64.png>` :download:`PNG white 32px "
+"<files/qgis-icon-white32.png>`"
 msgstr ""
 ":download:`PNG white 128px <files/qgis-icon-white128.png>` :download:`PNG "
-"white 64px <files/qgis-icon-white64.png>` :download:`PNG white 32px <files"
-"/qgis-icon-white32.png>`"
+"white 64px <files/qgis-icon-white64.png>` :download:`PNG white 32px "
+"<files/qgis-icon-white32.png>`"
 
 #: ../../source/site/getinvolved/styleguide.rst:132
 msgid "Typography"
@@ -242,10 +260,10 @@ msgid ""
 "href=\"https://fontlibrary.org/face/trueno\" type=\"text/css\"/>`` in the "
 "site header"
 msgstr ""
-"Trueno egy szabad serif betűkészlet könyvtár. A beágyazásához használja  "
+"Trueno egy szabad serif betűkészlet könyvtár. A beágyazásához használja "
 "``<link rel=\"stylesheet\" media=\"screen\" "
-"href=\"https://fontlibrary.org/face/trueno\" type=\"text/css\"/> `` az oldal"
-" fej részében."
+"href=\"https://fontlibrary.org/face/trueno\" type=\"text/css\"/>`` kódot az "
+"oldal fejlécében."
 
 #: ../../source/site/getinvolved/styleguide.rst:140
 msgid "Name"
@@ -289,7 +307,7 @@ msgstr "Elsődleges színek"
 
 #: ../../source/site/getinvolved/styleguide.rst:154
 msgid "**Dark Green**"
-msgstr "**Sötét zöld**"
+msgstr "**Sötétzöld**"
 
 #: ../../source/site/getinvolved/styleguide.rst:158
 msgid "HEX: #589632"
@@ -309,12 +327,12 @@ msgid ""
 "monochrome version. It can also be used as background, primary headline or "
 "text color."
 msgstr ""
-"A QGIS sötét zöld szín használandó minden logo elemre a monokróm verzióban. "
-"Ez háttérszín, főcím vagy szöveg színként is használható."
+"A QGIS sötétzöld színe használandó a monokróm verzió összes logóelemén. "
+"Háttér-, főcím- vagy szövegszínként is használható."
 
 #: ../../source/site/getinvolved/styleguide.rst:168
 msgid "**Light Green**"
-msgstr "**Világos zöld**"
+msgstr "**Világoszöld**"
 
 #: ../../source/site/getinvolved/styleguide.rst:172
 msgid "HEX: #93b023"
@@ -333,26 +351,26 @@ msgid ""
 "The QGIS Light Green color to be used for content of lesser importance. It "
 "can be used as secondary background, text or links color."
 msgstr ""
-"A QGIS világos zöld szín használandó kevésbé fontos tartalom esetén. Ez "
-"másodlagos háttérszín, szöveg vagy link színként használható."
+"A QGIS világoszöld színe használandó a kevésbé fontos tartalmakhoz. "
+"Másodlagos háttérszínként, szöveg- vagy hivatkozásszínként használható."
 
 #: ../../source/site/getinvolved/styleguide.rst:182
 msgid "**The gradient**"
-msgstr "**Az átmenet**"
+msgstr "**A színátmenet**"
 
 #: ../../source/site/getinvolved/styleguide.rst:186
 msgid ""
 "The two primary colors are used as a vertical linear gradient in the logo, "
 "and this gradient can be used for website and printed materials background"
 msgstr ""
-"A két elsődleges szín használandó mint egy függőleges egyenletes átmenet a "
-"logoban és ez az átmenet használható a honlap vagy a nyomtatott anyagok "
-"háttereként."
+"A két elsődleges szín függőleges, lineáris színátmenetként jelenik meg a "
+"logóban, és ez a színátmenet használható weboldalak és nyomtatott anyagok "
+"hátterében is."
 
 #: ../../source/site/getinvolved/styleguide.rst:190
 #: ../../source/site/getinvolved/styleguide.rst:222
 msgid "**Color Palette**"
-msgstr "**Szín paletta**"
+msgstr "**Színpaletta**"
 
 #: ../../source/site/getinvolved/styleguide.rst:197
 msgid "Secondary colors"
@@ -395,5 +413,13 @@ msgid ""
 "The QGIS Lemon and Orange colors to be used for the accents and call-to-"
 "actions"
 msgstr ""
-"A QGIS citrom és narancs színeket nyomatékosításra és és cselekvésre való "
-"felhíváshoz használjuk"
+"A QGIS citrom és narancs színeit hangsúlyozásra és cselekvésre való "
+"felhíváshoz használjuk."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""

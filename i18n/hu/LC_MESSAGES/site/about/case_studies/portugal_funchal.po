@@ -5,13 +5,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2017-09-20 06:27+0000\n"
-"Last-Translator: Levente Juhasz <jlevente89@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Levente Juhasz <jlevente89@gmail.com>, 2015\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -40,6 +41,10 @@ msgid ""
 "very young age group.)"
 msgstr "A demokratikus iskolák gondolata csak akkor valósulhat meg, ha a nyílt forrású szoftverek használatát általánossá tesszük. Ez nem csak az emberek gondolkodásmódjának megváltoztatását (amely gyakran a reklámok befolyása alatt is áll), hanem a költségek fenntartható módon való tervezését is megköveteli, ezzel indirekt módon harcolva a szoftverkalózkodás ellen is. Amennyiben határok és függőségek nélküli, minőségi oktatást szeretnénk, a nyílt forrású szoftverek ideológiája mögötti előnyöket kell példává tennünk. Ennek az irányelvnek megfelelően a Jaime Moniz Középiskola 35. számú, 12-es osztálya a területi és környezeti technológiai program keretében használja a QGIS szoftvert, hogy a tanulók fejlesszék a Földrazi Információs Rendszerekhez, valamint az Alkalmazott Információs Rendszerekhez kapcsolódó készségeiket, melyeket majd a gyakorlati idejük alatt is hasznosítani tudnak. Az ingyenesen elérhető GIS szoftvereket mérlegelve három fontos szempont szerint választottunk a nyílt forrású szoftverek kőzül: mennyire felhasználóbarát és intuitív a szoftver, az elérhető információ mennyisége a fórumokon, illetve a bővítmények száma, valamint a szoftver végső minősége. (Fontos szem előtt tartani, hogy a szoftvert véső soron egy nagyon fiatal korcsoport hasznájla.)"
 
+#: ../../source/site/about/case_studies/portugal_funchal.rst:8
+msgid "The Project --- Expectation"
+msgstr "A projekt --- Várakozások"
+
 #: ../../source/site/about/case_studies/portugal_funchal.rst:10
 msgid ""
 "Expectation was the most dominating feeling in the firth lessons! The group "
@@ -51,6 +56,10 @@ msgid ""
 "figures 1 and 2 it is possible to view some of the activities developed in "
 "class."
 msgstr "Már az első órán érezhető volt a diákok várakozása. A csoport csupán elméleti és homályos tudással rendelkezett a GIS-ről. Pontosan ezért szükséges az eméleti tudást gyakorlati tevékenyéghez kapcsolni - elsőként földrajzi adatgyűjtéssel az iskola területén belül analóg térképeket használva, majd GPS-es adatgyűjtéssel az iskola környékén. Az 1. és 2. ábrákon példákat láthatunk ezekből a tevékenységekből."
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:18
+msgid "Distribution of dustbins (green) and garden benches (yellow)"
+msgstr ""
 
 #: ../../source/site/about/case_studies/portugal_funchal.rst:18
 msgid ""
@@ -68,6 +77,10 @@ msgid ""
 msgstr "Néhány diák jelenleg, a gyakorlati ideje alatt is használja a QGIS-t különböző munkatervek készítéséhez. A 3. ábra egy ilyen diák munkáját mutatja, amely szelektív hulladádékgyújtő konténerek elhelyezéséhez szolgál egy javaslattal, a lakosság területi eloszlásának figyelembe vételével Funchal településen."
 
 #: ../../source/site/about/case_studies/portugal_funchal.rst:27
+msgid "Functional map of an area in the old part of the town of Funchal"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:27
 msgid ""
 "Functional map of an area in the old part of the town of Funchal, "
 "surrounding Jaime Moniz Secondary School"
@@ -76,6 +89,21 @@ msgstr "Területhasználati térkép Funchal óvárosában, a Jaime Moniz Közé
 #: ../../source/site/about/case_studies/portugal_funchal.rst:31
 msgid "Decision for QGIS"
 msgstr "A QGIS előnyei"
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:33
+msgid ""
+"Generally speaking, QGIS allured the students: “to accomplish basic "
+"functions of GIS through exercise associations of graphic and non-graphic "
+"elements”; “to upload alphanumeric data”; “use functions of spacial "
+"analysis”; “to make thematic maps”; “to make a Digital Elevation Model” and,"
+" last but not least, “to recognize the relevance of a free GIS for the "
+"analysis of geographical  information, as well for the sustainable "
+"management of the territory”. These theoretical and practical purposes are "
+"achieved together along with other goals, extremely important in the "
+"education context, such as: “creating a diversified educational experience”;"
+" “being in contact with local reality” and “developing a constructive, "
+"positive and critical mind”."
+msgstr "Általánosságban beszélve, a QGIS hozzásegítette a diákokat, hogy: \"a különböző grafikus és nem  grafikus elemeken keresztül alapvető GIS műveletekkel ismerkedjenek meg\", \"alfanumerikus adatokkal töltsenek fel egy GIS-t\", \"térbeli elemzéseket végezzenek\", \"tematikus térképeket készítsenek\", \"digitális magasságmodelleket hozzanak létre\", és végül, de nem utolsó sorban, hogy \"felismerjék a szabad GIS szoftverek fontosságát a térbeli információk elemzésében, és a területmenedzsmentben\". Ezek a különböző elméleti és gyakorlati célok sok mással egyetemben elengedhetetlenek az oktatás szemszögéből a sokrétű oktatási élmény biztosítása, a helyi valósággal való kapcsolat megteremtése, valamint a kritikus, építő jellegű és pozitív gondolkodás elősegítése szempontjából."
 
 #: ../../source/site/about/case_studies/portugal_funchal.rst:36
 msgid "From the class room to the education community"
@@ -89,6 +117,12 @@ msgid ""
 "for the accomplishment of these school works”. At present, the website is a "
 "motivation source for the follow up of the whole teaching process."
 msgstr "A http://www.sig-na-jaime-moniz.webnode.pt honlap készítése mögött két fontos dolog állt: \"terjeszteni az igét a tanulók által készített munkákról\", valamint ezzel egy időben \"megmutatni, hogy a nyílt forrású QGIS hogyan járult hozzá ezen munkák sikeréhez\". Jelenleg a honlap motivációs forrás a teljes tanítási folyamat nyomonkövetéséhez."
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:45
+msgid ""
+"Placement proposal for recycle containers in the parish of Santo António "
+"Funchal"
+msgstr ""
 
 #: ../../source/site/about/case_studies/portugal_funchal.rst:45
 msgid ""
@@ -114,22 +148,6 @@ msgid ""
 "the amount of effort involved in the whole learning process."
 msgstr "A projekt gyors értékeléseként úgy érzem, hogy a QGIS, mint tanítást segítő eszköz választása kiváló választás volt. Először is nagy várakozás előzte meg. Nem használtam még GIS szoftver korábban, így gyakorlatilag egyszerre tanultam és tanítottam is. Az interneten elérhető információkkal együtt a felhasználóbarát GIS rendkívül hasznosnak bizonyult számomra. Mindezen felül az iskolának nem kelett még egy lincenszre költenie, a szoftver nem függ a licensz megújításától, ami végső soron az oktatás minőségét javította, extra költségek nélkül. Jelenleg, tanulóink gyakorlatilag önállóan használják a QGIS-t a különböző feladataik megoldásához. Remélhetőleg az eredmények megszolgálják a tanulási folyamatba fektetett erőfeszítéseiket."
 
-#: ../../source/site/about/case_studies/portugal_funchal.rst:61
-msgid "Author"
-msgstr "Szerző"
-
-#: ../../source/site/about/case_studies/portugal_funchal.rst:68
-msgid "Fátima Vale"
-msgstr "Fátima Vale"
-
-#: ../../source/site/about/case_studies/portugal_funchal.rst:70
-msgid ""
-"This article was elaborated in March 2011 by Fátima Vale with the support of"
-" Luís Antunes (supervisor of the students in the DRIGOT). In that moment, "
-"she is teacher in the Jaime Moniz Secondary School and supervisor teacher "
-"during the training period of students in the different Institutions."
-msgstr "A cikket Fátima Vale készítette 2011 márciusában Luís Antunes (a tanulók témavezetője). A cikk írásakor Fátima a Jaime Moniz Középiskola tanára, valamint számos diák gyakorlati témavezetője volt különböző szervezeteknél."
-
 #: ../../source/site/about/case_studies/portugal_funchal.rst:53
 msgid "References"
 msgstr "Hivatkozások"
@@ -146,24 +164,29 @@ msgstr "http://www.sres.pt/?page=drgc_loc_atend&separador=6&buttons=1"
 msgid "http://www.sig-na-jaime-moniz.webnode.pt"
 msgstr "http://www.sig-na-jaime-moniz.webnode.pt"
 
-#: ../../source/site/about/case_studies/portugal_funchal.rst:8
-msgid "The Project --- Expectation"
-msgstr "A projekt --- Várakozások"
+#: ../../source/site/about/case_studies/portugal_funchal.rst:61
+msgid "Author"
+msgstr "Szerző"
 
-#: ../../source/site/about/case_studies/portugal_funchal.rst:33
+#: ../../source/site/about/case_studies/portugal_funchal.rst:68
+msgid "Fátima Vale"
+msgstr "Fátima Vale"
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:70
 msgid ""
-"Generally speaking, QGIS allured the students: “to accomplish basic "
-"functions of GIS through exercise associations of graphic and non-graphic "
-"elements”; “to upload alphanumeric data”; “use functions of spacial "
-"analysis”; “to make thematic maps”; “to make a Digital Elevation Model” and,"
-" last but not least, “to recognize the relevance of a free GIS for the "
-"analysis of geographical  information, as well for the sustainable "
-"management of the territory”. These theoretical and practical purposes are "
-"achieved together along with other goals, extremely important in the "
-"education context, such as: “creating a diversified educational experience”;"
-" “being in contact with local reality” and “developing a constructive, "
-"positive and critical mind”."
-msgstr "Általánosságban beszélve, a QGIS hozzásegítette a diákokat, hogy: \"a különböző grafikus és nem  grafikus elemeken keresztül alapvető GIS műveletekkel ismerkedjenek meg\", \"alfanumerikus adatokkal töltsenek fel egy GIS-t\", \"térbeli elemzéseket végezzenek\", \"tematikus térképeket készítsenek\", \"digitális magasságmodelleket hozzanak létre\", és végül, de nem utolsó sorban, hogy \"felismerjék a szabad GIS szoftverek fontosságát a térbeli információk elemzésében, és a területmenedzsmentben\". Ezek a különböző elméleti és gyakorlati célok sok mással egyetemben elengedhetetlenek az oktatás szemszögéből a sokrétű oktatási élmény biztosítása, a helyi valósággal való kapcsolat megteremtése, valamint a kritikus, építő jellegű és pozitív gondolkodás elősegítése szempontjából."
+"This article was elaborated in March 2011 by Fátima Vale with the support of"
+" Luís Antunes (supervisor of the students in the DRIGOT). In that moment, "
+"she is teacher in the Jaime Moniz Secondary School and supervisor teacher "
+"during the training period of students in the different Institutions."
+msgstr "A cikket Fátima Vale készítette 2011 márciusában Luís Antunes (a tanulók témavezetője). A cikk írásakor Fátima a Jaime Moniz Középiskola tanára, valamint számos diák gyakorlati témavezetője volt különböző szervezeteknél."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "The Project - Expectation"
 #~ msgstr ""

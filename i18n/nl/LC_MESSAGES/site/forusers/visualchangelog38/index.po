@@ -4,22 +4,22 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 # 
 # Translators:
-# DiGro, 2019
 # Michel Stuyts, 2019
+# DiGro, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-05 19:50+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-07-12 14:44+0000\n"
-"Last-Translator: Michel Stuyts, 2019\n"
+"Last-Translator: DiGro, 2022\n"
 "Language-Team: Dutch (https://www.transifex.com/qgis/teams/6144/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -30,6 +30,10 @@ msgstr "Log met wijzigingen voor QGIS 3.8"
 #: ../../source/site/forusers/visualchangelog38/index.rst:6
 msgid "|image1|"
 msgstr "|image1|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1021
+msgid "image1"
+msgstr "image1"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:8
 msgid ""
@@ -141,6 +145,10 @@ msgstr ""
 msgid "|image2|"
 msgstr "|image2|"
 
+#: ../../source/site/forusers/visualchangelog38/index.rst:1023
+msgid "image2"
+msgstr "image2"
+
 #: ../../source/site/forusers/visualchangelog38/index.rst:33
 msgid "This feature was funded by `Oslandia <https://oslandia.com>`__"
 msgstr ""
@@ -180,6 +188,10 @@ msgstr ""
 msgid "|image3|"
 msgstr "|image3|"
 
+#: ../../source/site/forusers/visualchangelog38/index.rst:1025
+msgid "image3"
+msgstr "image3"
+
 #: ../../source/site/forusers/visualchangelog38/index.rst:47
 msgid ""
 "This feature was developed by `Matthias Kuhn (OPENGIS.ch) "
@@ -211,6 +223,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog38/index.rst:54
 msgid "|image4|"
 msgstr "|image4|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1027
+msgid "image4"
+msgstr "image4"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:57
 msgid "Feature: Drag and Drop Layers to Map Layer widgets"
@@ -265,8 +281,8 @@ msgid ""
 "This feature was developed by `Nyall Dawson (North Road) <http://north-"
 "road.com>`__"
 msgstr ""
-"Deze mogelijkheid werd ontwikkeld door: `Nyall Dawson (North Road) <http"
-"://north-road.com>`__"
+"Deze mogelijkheid werd ontwikkeld door: `Nyall Dawson (North Road) "
+"<http://north-road.com>`__"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:66
 msgid "Symbology"
@@ -301,6 +317,10 @@ msgstr ""
 msgid "|image5|"
 msgstr "|image5|"
 
+#: ../../source/site/forusers/visualchangelog38/index.rst:1029
+msgid "image5"
+msgstr "image5"
+
 #: ../../source/site/forusers/visualchangelog38/index.rst:75
 #: ../../source/site/forusers/visualchangelog38/index.rst:123
 #: ../../source/site/forusers/visualchangelog38/index.rst:268
@@ -331,6 +351,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog38/index.rst:82
 msgid "|image6|"
 msgstr "|image6|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1031
+msgid "image6"
+msgstr "image6"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:84
 msgid "This feature was developed by henrik"
@@ -374,6 +398,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog38/index.rst:93
 msgid "|image7|"
 msgstr "|image7|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1033
+msgid "image7"
+msgstr "image7"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:95
 #: ../../source/site/forusers/visualchangelog38/index.rst:112
@@ -449,6 +477,10 @@ msgstr ""
 msgid "|image8|"
 msgstr "|image8|"
 
+#: ../../source/site/forusers/visualchangelog38/index.rst:1035
+msgid "image8"
+msgstr "image8"
+
 #: ../../source/site/forusers/visualchangelog38/index.rst:117
 msgid "Feature: Offset settings for point pattern fill symbol layers"
 msgstr ""
@@ -475,6 +507,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog38/index.rst:121
 msgid "|image9|"
 msgstr "|image9|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1037
+msgid "image9"
+msgstr "image9"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:126
 msgid "Feature: Live Effects Blur Radius is now hi-dpi friendly"
@@ -560,6 +596,10 @@ msgstr ""
 msgid "|image10|"
 msgstr "|image10|"
 
+#: ../../source/site/forusers/visualchangelog38/index.rst:1039
+msgid "image10"
+msgstr "image10"
+
 #: ../../source/site/forusers/visualchangelog38/index.rst:144
 msgid ""
 "This feature was funded by `QGIS user group switzerland "
@@ -625,6 +665,10 @@ msgstr "Optioneel accentueren van randen van 3D-polygonen"
 msgid "|image11|"
 msgstr "|image11|"
 
+#: ../../source/site/forusers/visualchangelog38/index.rst:1041
+msgid "image11"
+msgstr "image11"
+
 #: ../../source/site/forusers/visualchangelog38/index.rst:166
 msgid "This feature was funded by Andreas Neumann"
 msgstr "Deze mogelijkheid werd mogelijk gemaakt door Andreas Neumann"
@@ -659,6 +703,10 @@ msgstr ""
 msgid "|image12|"
 msgstr "|image12|"
 
+#: ../../source/site/forusers/visualchangelog38/index.rst:1043
+msgid "image12"
+msgstr "image12"
+
 #: ../../source/site/forusers/visualchangelog38/index.rst:177
 msgid ""
 "This feature was funded by `Northumberland National Park Authority "
@@ -689,8 +737,8 @@ msgstr ""
 "Met deze nieuwe mogelijkheid voor versie 3.8, kunt u nu direct terreinen "
 "voor uw 3D-scenes ophalen vanaf online bronnen (bijv. tegels die worden "
 "gehost op AWS). Geen rasters meer als bronnen en het voorbereiden daarvan "
-"met DEM, eenvoudigweg deze optie inschakelen en out-of-the-box prachtige 3D-"
-"scenes bekijken!"
+"met DEM, eenvoudigweg deze optie inschakelen en out-of-the-box prachtige "
+"3D-scenes bekijken!"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:186
 msgid ""
@@ -710,13 +758,17 @@ msgid ""
 "In QGIS 3.8, the field of view of the camera through which 3D scenes are "
 "rendered has gained a new configurable field of view settings."
 msgstr ""
-"In QGIS 3.8, heeft het veld voor de weergave van de camera, waarmee 3D-"
-"scenes worden gerenderd, een nieuw te configureren veld voor instellingen "
-"van de weergave gekregen."
+"In QGIS 3.8, heeft het veld voor de weergave van de camera, waarmee "
+"3D-scenes worden gerenderd, een nieuw te configureren veld voor instellingen"
+" van de weergave gekregen."
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:195
 msgid "|image13|"
 msgstr "|image13|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1045
+msgid "image13"
+msgstr "image13"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:200
 msgid "Print Layouts"
@@ -789,6 +841,10 @@ msgstr ""
 msgid "|image14|"
 msgstr "|image14|"
 
+#: ../../source/site/forusers/visualchangelog38/index.rst:1047
+msgid "image14"
+msgstr "image14"
+
 #: ../../source/site/forusers/visualchangelog38/index.rst:218
 #: ../../source/site/forusers/visualchangelog38/index.rst:257
 #: ../../source/site/forusers/visualchangelog38/index.rst:398
@@ -841,6 +897,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog38/index.rst:232
 msgid "|image15|"
 msgstr "|image15|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1049
+msgid "image15"
+msgstr "image15"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:234
 msgid "This feature was funded by `SMEC/SJ <https://www.smec.com/>`__"
@@ -902,6 +962,10 @@ msgstr "Het is slechts een snellere verkorte versie!"
 msgid "|image16|"
 msgstr "|image16|"
 
+#: ../../source/site/forusers/visualchangelog38/index.rst:1051
+msgid "image16"
+msgstr "image16"
+
 #: ../../source/site/forusers/visualchangelog38/index.rst:262
 msgid "Feature: Retrieve vertices from the end of geometeries"
 msgstr "Mogelijkheid: Punten ophalen van einde van geometerieën"
@@ -920,6 +984,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog38/index.rst:266
 msgid "|image17|"
 msgstr "|image17|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1053
+msgid "image17"
+msgstr "image17"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:271
 msgid "Feature: New expression functions"
@@ -1009,6 +1077,10 @@ msgstr ""
 msgid "|image18|"
 msgstr "|image18|"
 
+#: ../../source/site/forusers/visualchangelog38/index.rst:1055
+msgid "image18"
+msgstr "image18"
+
 #: ../../source/site/forusers/visualchangelog38/index.rst:294
 msgid "Feature: New aggregation method: concatenate\\_unique"
 msgstr "Mogelijkheid: Nieuwe methode voor samenvoegen: concatenate\\_unique"
@@ -1027,6 +1099,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog38/index.rst:298
 msgid "|image19|"
 msgstr "|image19|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1057
+msgid "image19"
+msgstr "image19"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:303
 msgid "Digitising"
@@ -1051,17 +1127,23 @@ msgstr ""
 msgid "|image20|"
 msgstr "|image20|"
 
+#: ../../source/site/forusers/visualchangelog38/index.rst:1059
+msgid "image20"
+msgstr "image20"
+
 #: ../../source/site/forusers/visualchangelog38/index.rst:312
 #: ../../source/site/forusers/visualchangelog38/index.rst:323
 #: ../../source/site/forusers/visualchangelog38/index.rst:720
 msgid ""
-"This feature was funded by `Kanton Schaffhausen <https://sh.ch/CMS/Webseite"
-"/Kanton-Schaffhausen/Beh-"
-"rde/Verwaltung/Volkswirtschaftsdepartement/Amt-f-r-Geoinformation-3854-DE.html>`__"
+"This feature was funded by `Kanton Schaffhausen "
+"<https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-"
+"rde/Verwaltung/Volkswirtschaftsdepartement/Amt-f-r-"
+"Geoinformation-3854-DE.html>`__"
 msgstr ""
 "Deze mogelijkheid werd mogelijk gemaakt door `Kanton Schaffhausen "
 "<https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-"
-"rde/Verwaltung/Volkswirtschaftsdepartement/Amt-f-r-Geoinformation-3854-DE.html>`__"
+"rde/Verwaltung/Volkswirtschaftsdepartement/Amt-f-r-"
+"Geoinformation-3854-DE.html>`__"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:314
 #: ../../source/site/forusers/visualchangelog38/index.rst:325
@@ -1093,6 +1175,10 @@ msgstr ""
 msgid "|image21|"
 msgstr "|image21|"
 
+#: ../../source/site/forusers/visualchangelog38/index.rst:1061
+msgid "image21"
+msgstr "image21"
+
 #: ../../source/site/forusers/visualchangelog38/index.rst:328
 msgid "Feature: Improvements in the vertex editor"
 msgstr "Mogelijkheid: Verbeteringen aan bewerker voor punten"
@@ -1110,6 +1196,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog38/index.rst:332
 msgid "|image22|"
 msgstr "|image22|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1063
+msgid "image22"
+msgstr "image22"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:334
 msgid ""
@@ -1169,6 +1259,10 @@ msgstr ""
 msgid "|image23|"
 msgstr "|image23|"
 
+#: ../../source/site/forusers/visualchangelog38/index.rst:1065
+msgid "image23"
+msgstr "image23"
+
 #: ../../source/site/forusers/visualchangelog38/index.rst:354
 #: ../../source/site/forusers/visualchangelog38/index.rst:365
 msgid ""
@@ -1204,6 +1298,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog38/index.rst:363
 msgid "|image24|"
 msgstr "|image24|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1067
+msgid "image24"
+msgstr "image24"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:370
 msgid "Feature: Browse through features in the attribute table form view"
@@ -1253,12 +1351,16 @@ msgstr ""
 msgid "|image25|"
 msgstr "|image25|"
 
+#: ../../source/site/forusers/visualchangelog38/index.rst:1069
+msgid "image25"
+msgstr "image25"
+
 #: ../../source/site/forusers/visualchangelog38/index.rst:384
 msgid ""
 "This feature was funded by `regioDATA <https://www.regiodata-gmbh.de/>`__"
 msgstr ""
-"Deze mogelijkheid werd mogelijk gemaakt door `regioDATA <https://www"
-".regiodata-gmbh.de/>`__"
+"Deze mogelijkheid werd mogelijk gemaakt door `regioDATA "
+"<https://www.regiodata-gmbh.de/>`__"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:389
 msgid "Processing"
@@ -1288,6 +1390,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog38/index.rst:396
 msgid "|image26|"
 msgstr "|image26|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1071
+msgid "image26"
+msgstr "image26"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:403
 msgid "Feature: Overlap Analysis"
@@ -1330,6 +1436,10 @@ msgstr ""
 msgid "|image27|"
 msgstr "|image27|"
 
+#: ../../source/site/forusers/visualchangelog38/index.rst:1073
+msgid "image27"
+msgstr "image27"
+
 #: ../../source/site/forusers/visualchangelog38/index.rst:416
 msgid "Feature: Allow rounding values in Extract Layer Extent"
 msgstr ""
@@ -1354,6 +1464,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog38/index.rst:420
 msgid "|image28|"
 msgstr "|image28|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1075
+msgid "image28"
+msgstr "image28"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:422
 msgid "This feature was developed by Raymond Nijssen"
@@ -1423,6 +1537,10 @@ msgstr ""
 msgid "|image29|"
 msgstr "|image29|"
 
+#: ../../source/site/forusers/visualchangelog38/index.rst:1077
+msgid "image29"
+msgstr "image29"
+
 #: ../../source/site/forusers/visualchangelog38/index.rst:440
 msgid "Feature: Generate raster XYZ tiles"
 msgstr "Mogelijkheid: XYZ-rastertegels maken"
@@ -1441,6 +1559,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog38/index.rst:444
 msgid "|image30|"
 msgstr "|image30|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1079
+msgid "image30"
+msgstr "image30"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:446
 msgid ""
@@ -1490,6 +1612,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog38/index.rst:457
 msgid "|image31|"
 msgstr "|image31|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1081
+msgid "image31"
+msgstr "image31"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:459
 msgid "This feature was developed by Rashad Kanavath"
@@ -1546,6 +1672,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog38/index.rst:470
 msgid "|image32|"
 msgstr "|image32|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1083
+msgid "image32"
+msgstr "image32"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:477
 msgid "Feature: Improved modeler UI"
@@ -1778,6 +1908,10 @@ msgstr ""
 msgid "|image33|"
 msgstr "|image33|"
 
+#: ../../source/site/forusers/visualchangelog38/index.rst:1085
+msgid "image33"
+msgstr "image33"
+
 #: ../../source/site/forusers/visualchangelog38/index.rst:557
 msgid "Feature: Add X/Y fields to layer"
 msgstr "Mogelijkheid: Velden X/Y toevoegen aan laag"
@@ -1798,6 +1932,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog38/index.rst:561
 msgid "|image34|"
 msgstr "|image34|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1087
+msgid "image34"
+msgstr "image34"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:568
 msgid "Feature: \"Join attributes by nearest\" algorithm"
@@ -1840,6 +1978,10 @@ msgstr ""
 msgid "|image35|"
 msgstr "|image35|"
 
+#: ../../source/site/forusers/visualchangelog38/index.rst:1089
+msgid "image35"
+msgstr "image35"
+
 #: ../../source/site/forusers/visualchangelog38/index.rst:583
 msgid "Feature: Grass r.geomorphon algorithm"
 msgstr "Mogelijkheid: Algoritme Grass r.geomorphon "
@@ -1861,6 +2003,10 @@ msgstr ""
 msgid "|image36|"
 msgstr "|image36|"
 
+#: ../../source/site/forusers/visualchangelog38/index.rst:1091
+msgid "image36"
+msgstr "image36"
+
 #: ../../source/site/forusers/visualchangelog38/index.rst:590
 msgid "Feature: GDAL pansharpening algorithm"
 msgstr "Mogelijkheid: GDAL algoritme Pansharpening "
@@ -1879,6 +2025,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog38/index.rst:594
 msgid "|image37|"
 msgstr "|image37|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1093
+msgid "image37"
+msgstr "image37"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:596
 msgid "This feature was developed by Alexander Bruy"
@@ -1944,6 +2094,10 @@ msgstr ""
 msgid "|image38|"
 msgstr "|image38|"
 
+#: ../../source/site/forusers/visualchangelog38/index.rst:1095
+msgid "image38"
+msgstr "image38"
+
 #: ../../source/site/forusers/visualchangelog38/index.rst:627
 msgid "General"
 msgstr "Algemeen"
@@ -1970,6 +2124,10 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog38/index.rst:634
 msgid "|image39|"
 msgstr "|image39|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1097
+msgid "image39"
+msgstr "image39"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:636
 msgid ""
@@ -2315,6 +2473,10 @@ msgstr ""
 msgid "|image41|"
 msgstr "|image41|"
 
+#: ../../source/site/forusers/visualchangelog38/index.rst:1101
+msgid "image41"
+msgstr "image41"
+
 #: ../../source/site/forusers/visualchangelog38/index.rst:722
 msgid ""
 "This feature was developed by Jürgen Fischer in collaboration with Matthias "
@@ -2432,6 +2594,10 @@ msgstr "Niets doen"
 #: ../../source/site/forusers/visualchangelog38/index.rst:758
 msgid "|image40|"
 msgstr "|image40|"
+
+#: ../../source/site/forusers/visualchangelog38/index.rst:1099
+msgid "image40"
+msgstr "image40"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:760
 msgid "This feature was funded by `GISCE TI <https://gisce.net/>`__"
@@ -3655,6 +3821,14 @@ msgid ""
 msgstr ""
 "Deze mogelijkheid werd ontwikkeld door `Loïc Bartoletti  "
 "<https://oslandia.com/en/>`__"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "This feature was funded by `QGIS User Group Switzerland <http://qgis.ch>`__"

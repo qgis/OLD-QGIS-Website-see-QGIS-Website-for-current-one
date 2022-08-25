@@ -6,15 +6,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-05 15:28+0200\n"
-"PO-Revision-Date: 2020-03-16 09:23+0000\n"
-"Last-Translator: Kari Salovaara <kari.salovaara@pp1.inet.fi>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:45+0000\n"
+"Last-Translator: Pekka Sarkola <pekka.sarkola@gispo.fi>, 2018\n"
 "Language-Team: Finnish (http://www.transifex.com/qgis/qgis-website/language/fi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: fi\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/getinvolved/governance/codeofconduct/credits.rst:4
+msgid "Credits for Contributors"
+msgstr "Kiitokset tukijoille"
 
 #: ../../source/site/getinvolved/governance/codeofconduct/credits.rst:6
 msgid ""
@@ -28,19 +33,23 @@ msgid ""
 "please keep wording to an absolute minimum"
 msgstr "lisäämällä lyhyen huomautuksen tukitoimesta (kuten esimerkiksi (Tukenut ...); ole ystävällinen ja pidä teksti mahdollisimman lyhyenä"
 
-#: ../../source/site/getinvolved/governance/codeofconduct/credits.rst:17
-msgid "If you have questions, feel free to contact us: psc@qgis.org"
-msgstr "Jos sinulla on kysymyksiä, ota meihin yhteyttä: pcs@qgis.org"
-
-#: ../../source/site/getinvolved/governance/codeofconduct/credits.rst:4
-msgid "Credits for Contributors"
-msgstr "Kiitokset tukijoille"
-
 #: ../../source/site/getinvolved/governance/codeofconduct/credits.rst:11
 msgid ""
 "adding a note to the changelog for the first version where the code has been"
 " incorporated, of the type::"
 msgstr "lisäämällä huomautuksen muutoslokiin, kun koodi ensimmäistä kertaa on yhdistetty sovellukseen, tekstein"
+
+#: ../../source/site/getinvolved/governance/codeofconduct/credits.rst:17
+msgid "If you have questions, feel free to contact us: psc@qgis.org"
+msgstr "Jos sinulla on kysymyksiä, ota meihin yhteyttä: pcs@qgis.org"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "QGIS Credits for Contributors"
 #~ msgstr ""

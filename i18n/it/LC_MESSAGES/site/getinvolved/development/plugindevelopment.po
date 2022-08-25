@@ -3,20 +3,21 @@
 # This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
+# Simone Falceri, 2021
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-11 18:41+0200\n"
-"PO-Revision-Date: 2020-03-16 09:28+0000\n"
-"Last-Translator: Luca M. <luca76@gmail.com>\n"
+"PO-Revision-Date: 2016-03-05 14:48+0000\n"
+"Last-Translator: Simone Falceri, 2021\n"
 "Language-Team: Italian (http://www.transifex.com/qgis/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.5.1\n"
 "Language: it\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/getinvolved/development/plugindevelopment.rst:4
 msgid "Plugin Development"
@@ -27,17 +28,17 @@ msgid ""
 "QGIS has a plugin infrastructure. You can add a lot of new functionality by "
 "writing your own plugins. These plugins can either be written in C++ or in "
 "Python."
-msgstr ""
+msgstr "QGIS ha un'infrastruttura di plugin. Puoi aggiungere molte nuove funzionalità scrivendo i tuoi plugin. Questi plugin possono essere scritti in C++ o in Python."
 
 #: ../../source/site/getinvolved/development/plugindevelopment.rst:9
 msgid ""
 "If you want to contribute to QGIS Project with your plugin, it's highly "
 "recommended to read :ref:`QGIS-Developers-Guide`"
-msgstr ""
+msgstr "Se vuoi contribuire al Progetto QGIS con il tuo plugin, ti consigliamo vivamente di leggere :ref:`QGIS-Developers-Guide`"
 
 #: ../../source/site/getinvolved/development/plugindevelopment.rst:16
 msgid "Developing C++ Plugin"
-msgstr ""
+msgstr "Sviluppo Plugin C++"
 
 #: ../../source/site/getinvolved/development/plugindevelopment.rst:19
 msgid "Preparing the Environment and Setting up the Repo"
@@ -45,25 +46,25 @@ msgstr "Preparare l'ambiente per lo sviluppo e configurare il repository"
 
 #: ../../source/site/getinvolved/development/plugindevelopment.rst:21
 msgid "Go to the QGIS repository in Github at https://github.com/qgis/QGIS/"
-msgstr ""
+msgstr "Vai al repository QGIS in Github su https://github.com/qgis/QGIS/"
 
 #: ../../source/site/getinvolved/development/plugindevelopment.rst:22
 msgid ""
 "Make a Fork for yourself. Learn more about forking and keeping your repo in "
 "sync with the main development repo at http://help.github.com/fork-a-repo/"
-msgstr ""
+msgstr "Crea un Fork per te stesso. Scopri di più sul forking e sulla sincronizzazione del repository con il repository di sviluppo principale su http://help.github.com/fork-a-repo/"
 
 #: ../../source/site/getinvolved/development/plugindevelopment.rst:24
 msgid ""
 "Clone your personal copy of the repository to your system, and add upstream "
 "as mentioned in above provided link"
-msgstr ""
+msgstr "Clona la tua copia personale del repository sul tuo sistema e aggiungi upstream come menzionato nel link fornito sopra"
 
 #: ../../source/site/getinvolved/development/plugindevelopment.rst:26
 msgid ""
 "Read the https://github.com/qgis/QGIS/blob/master/INSTALL about setting up "
 "the installation environment and make a compilation with ccache enabled."
-msgstr ""
+msgstr "Leggi https://github.com/qgis/QGIS/blob/master/INSTALL sulla configurazione dell'ambiente di installazione e crea una compilazione con ccache abilitato."
 
 #: ../../source/site/getinvolved/development/plugindevelopment.rst:30
 msgid "Setting up the Plugin Directory"
@@ -84,7 +85,7 @@ msgstr "Ora segui le istruzioni della procedura guidata per creare una cartella 
 msgid ""
 "Building QGIS now will also build your plugin. After starting QGIS enable "
 "the plugin to see it and show its dialog."
-msgstr ""
+msgstr "Costruire QGIS ora creerà anche il tuo plugin. Dopo aver avviato QGIS, abilita il plugin per vederlo e mostrare la sua finestra di dialogo."
 
 #: ../../source/site/getinvolved/development/plugindevelopment.rst:50
 msgid "Developing Python plugin"
@@ -104,13 +105,13 @@ msgid ""
 "Plugin Builder plugin in QGIS. Search for 'Plugin Builder' in the plugin "
 "manager of QGIS, or read up here: "
 "http://plugins.qgis.org/plugins/pluginbuilder/"
-msgstr ""
+msgstr "Interessato allo sviluppo di plugin Python, il modo più semplice per iniziare è usare il plugin Plugin Builder in QGIS. Cerca 'Plugin Builder' nel gestore plugin di QGIS, o leggi qui: http://plugins.qgis.org/plugins/pluginbuilder/"
 
 #: ../../source/site/getinvolved/development/plugindevelopment.rst:61
 msgid ""
 "You can also go to :ref:`QGIS-python-plugin-development` or have a look into"
 " the Python Cookbook in our Documentation site: http://docs.qgis.org."
-msgstr ""
+msgstr "Puoi anche andare a :ref:`QGIS-python-plugin-development` o dare un'occhiata al Python Cookbook nel nostro sito di Documentazione: http://docs.qgis.org."
 
 #: ../../source/site/getinvolved/development/plugindevelopment.rst:64
 msgid "Looking for examples of python plugins, see http://plugins.qgis.org"

@@ -5,21 +5,21 @@
 # 
 # Translators:
 # Raymond Nijssen <r.nijssen@terglobo.nl>, 2019
-# DiGro, 2019
+# DiGro, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-02 12:44+0100\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-07-12 14:43+0000\n"
-"Last-Translator: DiGro, 2019\n"
+"Last-Translator: DiGro, 2022\n"
 "Language-Team: Dutch (https://www.transifex.com/qgis/teams/6144/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -47,6 +47,18 @@ msgid ""
 msgstr ""
 "Voor informatie om dragend lid te worden, bezoek "
 ":ref:`QGIS_sustaining_memberships`."
+
+#: ../../source/site/about/sustaining_members.rst:12
+msgid "small"
+msgstr "klein"
+
+#: ../../source/site/about/sustaining_members.rst:15
+msgid "medium"
+msgstr "medium"
+
+#: ../../source/site/about/sustaining_members.rst:18
+msgid "large"
+msgstr "groot"
 
 #: ../../source/site/about/sustaining_members.rst:24
 msgid "List of current sustaining members"
@@ -89,14 +101,14 @@ msgstr "Lijst van donoren"
 #: ../../source/site/about/sustaining_members.rst:43
 msgid ""
 "Donations can be of any amount, via our bank account, Stripe or Paypal "
-"(information available at :ref:`Donations <QGIS-donations>` page). Even a "
-"small donation can make a difference and help to reach important project "
-"goals!"
+"(information available at `Donations <https://donate.qgis.org>`__ page). "
+"Even a small donation can make a difference and help to reach important "
+"project goals!"
 msgstr ""
 "Elk bedrag kan gedoneerd worden via onze bankrekening, Stripe of Paypal "
-"(informatie is beschikbaar op de pagina :ref:`Donations <QGIS-donations>`) "
-"Zelfs een kleine donatie kan het verschil maken en helpen om een belangrijke"
-" projectdoelen te bereiken!"
+"(informatie is beschikbaar op de pagina Donaties "
+"<https://donate.qgis.org>`__ ). Zelfs een kleine donatie kan het verschil "
+"maken en helpen om belangrijke projectdoelen te bereiken!"
 
 #: ../../source/site/about/sustaining_members.rst:47
 msgid ""
@@ -107,7 +119,7 @@ msgid ""
 "larger amounts with credit cards through Stripe. We can send you a payment "
 "link and/or invoice."
 msgstr ""
-"Wanneer u ons ene grotere donatie wilt sturen, wordt u sterk aangeraden dit "
+"Wanneer u ons een grotere donatie wilt sturen, wordt u sterk aangeraden dit "
 "te doen via onze bankrekening of Stripe (als u met creditcard wilt betalen),"
 " in plaats van via PayPal (zij rekenen hogere overschrijvingskosten en een "
 "onnodige valutawissel is hierbij nodig). Neem contact op met "
@@ -121,6 +133,14 @@ msgid ""
 msgstr ""
 "Donaties aan QGIS zijn in verscheidene landen af te trekken van de "
 "belastingen. Vraag uw lokale belastingkantoor naar de details."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "Sustaining members, sponsors and Donors"
 #~ msgstr "Ondersteunende leden, sponsoren en donoren"
@@ -139,7 +159,7 @@ msgstr ""
 #~ "We danken onze leden, sponsoren en donoren die het QGIS-project ondersteunen"
 #~ " en ons in staat stellen onze infrastructuur te betalen, belangrijk "
 #~ "ontwikkelwerk en bijeenkomsten te financieren en QGIS te promoten in "
-#~ "workshops en conferenties. Momenteel zijn we in een transitiefase een van "
+#~ "workshops en conferenties. Momenteel zijn we in een transitiefase van "
 #~ "systeem met sponsoren naar een systeem met steunende leden. Dit moet het "
 #~ "voor overheden gemakkelijker maken het project QGIS.ORG te steunen door lid "
 #~ "te worden. Voor veel publieke organisaties was het moeilijk of onmogelijk "
@@ -169,3 +189,14 @@ msgstr ""
 
 #~ msgid "List of past sustaining members or sponsors"
 #~ msgstr "Lijst van voormalige dragende leden of sponsoren"
+
+#~ msgid ""
+#~ "Donations can be of any amount, via our bank account, Stripe or Paypal "
+#~ "(information available at :ref:`Donations <QGIS-donations>` page). Even a "
+#~ "small donation can make a difference and help to reach important project "
+#~ "goals!"
+#~ msgstr ""
+#~ "Elk bedrag kan gedoneerd worden via onze bankrekening, Stripe of Paypal "
+#~ "(informatie is beschikbaar op de pagina :ref:`Donaties <QGIS-donations>`) "
+#~ "Zelfs een kleine donatie kan het verschil maken en helpen om belangrijke "
+#~ "projectdoelen te bereiken!"

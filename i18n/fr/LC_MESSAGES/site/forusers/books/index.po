@@ -5,23 +5,25 @@
 # Christophe55 <christophe.maginot@gmail.com>, 2016
 # Jacolin <yjacolin@free.fr>, 2015
 # Jean Hemmi, 2019
-# MarieSilvestre, 2016,2019-2020
+# Jésahel Benoist <djes@free.fr>, 2021
+# MarieSilvestre, 2016,2019-2021
 # Michel Zevort <michel.zevort@developpement-durable.gouv.fr>, 2017
+# Romain Bazile <gromain_baz@hotmail.com>, 2022
 # Harrissou Sant-anna, 2015,2017
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-13 10:56+0100\n"
-"PO-Revision-Date: 2020-03-19 09:35+0000\n"
-"Last-Translator: MarieSilvestre\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-10-30 12:06+0000\n"
+"Last-Translator: Romain Bazile <gromain_baz@hotmail.com>, 2022\n"
 "Language-Team: French (http://www.transifex.com/qgis/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: fr\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../../source/site/forusers/books/index.rst:5
 msgid "Books"
@@ -50,111 +52,161 @@ msgid "English"
 msgstr "En anglais"
 
 #: ../../source/site/forusers/books/index.rst:24
+msgid ""
+"Land Use Cover Datasets and Validation Tools. Validation Practices with QGIS"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:25
+msgid ""
+"Introduction to Land Use Cover mapping, Land Use Cover Change Modelling and "
+"the validation of Land Use Cover datasets. The book includes practical "
+"exercises on the validation of Land Use Cover datasets with QGIS, as well as"
+" a comprehensive review of the Land Use Cover datasets currently available "
+"at global and continental scales."
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:30
+msgid "https://link.springer.com/book/10.1007/978-3-030-90998-7"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:31
+msgid ""
+"Authors: David García-Álvarez, María Teresa Camacho Olmedo, Martin Paegelow,"
+" Jean François Mas"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:32
+msgid "Date: June 2022"
+msgstr ""
+
+#: ../../source/site/forusers/books/index.rst:35
+msgid "Introduction to QGIS"
+msgstr "Introduction à QGIS"
+
+#: ../../source/site/forusers/books/index.rst:36
+msgid ""
+"Get started with QGIS with this introduction covering everything needed to "
+"get you going."
+msgstr "Commencez votre utilisation de QGIS avec ce livre en anglais qui couvre tout ce qu'il vous faudra pour commencer à utiliser l'application."
+
+#: ../../source/site/forusers/books/index.rst:38
+msgid "https://locatepress.com/book/itq"
+msgstr "https://locatepress.com/book/itq"
+
+#: ../../source/site/forusers/books/index.rst:39
+msgid "Authors: Professor Scott Madry"
+msgstr "Auteurs: Professeur Scott Madry"
+
+#: ../../source/site/forusers/books/index.rst:40
+msgid "Date: April 2021"
+msgstr "Date: Avril 2021"
+
+#: ../../source/site/forusers/books/index.rst:43
 msgid "QGIS for Hydrological applications"
 msgstr "QGIS pour les applications en hydrologie"
 
-#: ../../source/site/forusers/books/index.rst:25
+#: ../../source/site/forusers/books/index.rst:44
 msgid "Recipes for Catchment Hydrology and Water management"
 msgstr "Recettes pour l'hydrologie des bassins versants et la gestion de l'eau"
 
-#: ../../source/site/forusers/books/index.rst:27
+#: ../../source/site/forusers/books/index.rst:46
 msgid "https://locatepress.com/hyd"
 msgstr "https://locatepress.com/hyd"
 
-#: ../../source/site/forusers/books/index.rst:28
+#: ../../source/site/forusers/books/index.rst:47
 msgid "Authors: Hans van der Kwast, Kurt Menke"
 msgstr "Auteurs : Hans van der Kwast, Kurt Menke"
 
-#: ../../source/site/forusers/books/index.rst:29
-#: ../../source/site/forusers/books/index.rst:266
+#: ../../source/site/forusers/books/index.rst:48
+#: ../../source/site/forusers/books/index.rst:305
 msgid "Date: September 2019"
 msgstr "Date : Septembre 2019"
 
-#: ../../source/site/forusers/books/index.rst:32
+#: ../../source/site/forusers/books/index.rst:51
 msgid "Discover QGIS 3.x"
 msgstr "Découvrez QGIS 3.x"
 
-#: ../../source/site/forusers/books/index.rst:33
+#: ../../source/site/forusers/books/index.rst:52
 msgid "A workbook for Classroom or Independent Study"
 msgstr "Un manuel pour les cours ou pour l'apprentissage autonome"
 
-#: ../../source/site/forusers/books/index.rst:35
+#: ../../source/site/forusers/books/index.rst:54
 msgid "https://locatepress.com/dq3"
 msgstr "https://locatepress.com/dq3"
 
-#: ../../source/site/forusers/books/index.rst:36
+#: ../../source/site/forusers/books/index.rst:55
 msgid "Author: Kurt Menke"
 msgstr "Auteur : Kurt Menke"
 
-#: ../../source/site/forusers/books/index.rst:37
+#: ../../source/site/forusers/books/index.rst:56
 msgid "Date: May 2019"
 msgstr "Date : Mai 2019"
 
-#: ../../source/site/forusers/books/index.rst:40
+#: ../../source/site/forusers/books/index.rst:59
 msgid "Hands-On Geospatial Analysis with R and QGIS"
 msgstr "Hands-On Geospatial Analysis with R and QGIS"
 
-#: ../../source/site/forusers/books/index.rst:42
+#: ../../source/site/forusers/books/index.rst:61
 msgid ""
 "Practical examples with real-world projects in GIS, Remote sensing, "
 "Geospatial data management and Analysis using the R programming language"
 msgstr "Exemples pratiques d'utilisation du langage de programmation R sur des projets réels de SIG, télédétection, gestion et analyse de données géospatiales"
 
-#: ../../source/site/forusers/books/index.rst:44
+#: ../../source/site/forusers/books/index.rst:63
 msgid ""
-"https://www.packtpub.com/application-development/hands-geospatial-analysis-r"
-"-and-qgis"
+"https://www.packtpub.com/application-development/hands-geospatial-analysis-"
+"r-and-qgis"
 msgstr "https://www.packtpub.com/application-development/hands-geospatial-analysis-r-and-qgis"
 
-#: ../../source/site/forusers/books/index.rst:45
+#: ../../source/site/forusers/books/index.rst:64
 msgid "Author: Shammunul Islam"
 msgstr "Auteur : Shammunul Islam"
 
-#: ../../source/site/forusers/books/index.rst:46
-#: ../../source/site/forusers/books/index.rst:55
+#: ../../source/site/forusers/books/index.rst:65
+#: ../../source/site/forusers/books/index.rst:74
 msgid "Date: November 2018"
 msgstr "Date : Novembre 2018"
 
-#: ../../source/site/forusers/books/index.rst:49
+#: ../../source/site/forusers/books/index.rst:68
 msgid "Learn QGIS - Fourth Edition"
 msgstr "Learn QGIS - Quatrième édition"
 
-#: ../../source/site/forusers/books/index.rst:51
+#: ../../source/site/forusers/books/index.rst:70
 msgid ""
 "Learn to view, edit and analyse geospatial data using QGIS and Python 3"
 msgstr "Pour apprendre à visionner, éditer et analyser des données géospatiales avec QGIS et Python 3"
 
-#: ../../source/site/forusers/books/index.rst:53
+#: ../../source/site/forusers/books/index.rst:72
 msgid ""
 "https://www.packtpub.com/application-development/learn-qgis-fourth-edition"
 msgstr "https://www.packtpub.com/application-development/learn-qgis-fourth-edition"
 
-#: ../../source/site/forusers/books/index.rst:54
+#: ../../source/site/forusers/books/index.rst:73
 msgid "Authors: Andrew Cutts, Anita Graser"
 msgstr "Auteurs : Andrew Cutts, Anita Graser"
 
-#: ../../source/site/forusers/books/index.rst:59
+#: ../../source/site/forusers/books/index.rst:78
 msgid "On the Way with GIS"
 msgstr "En route avec le SIG"
 
-#: ../../source/site/forusers/books/index.rst:61
+#: ../../source/site/forusers/books/index.rst:80
 msgid "https://locatepress.com/otw"
 msgstr "https://locatepress.com/otw"
 
-#: ../../source/site/forusers/books/index.rst:62
-#: ../../source/site/forusers/books/index.rst:74
+#: ../../source/site/forusers/books/index.rst:81
+#: ../../source/site/forusers/books/index.rst:93
 msgid "Author(s): Toni Fisher"
 msgstr "Auteur(s) : Toni Fisher"
 
-#: ../../source/site/forusers/books/index.rst:63
+#: ../../source/site/forusers/books/index.rst:82
 msgid "Date: Feb 2018"
 msgstr "Date : Février 2018"
 
-#: ../../source/site/forusers/books/index.rst:67
+#: ../../source/site/forusers/books/index.rst:86
 msgid "Open the Door to GIS - Student and Teacher's Edition"
 msgstr "En route avec le SIG - édition séparée pour étudiants et enseignants"
 
-#: ../../source/site/forusers/books/index.rst:69
+#: ../../source/site/forusers/books/index.rst:88
 msgid ""
 "Open the Door to GIS offers a way for teachers to use this powerful software"
 " in their classes without having to become experts, with freely downloadable"
@@ -162,500 +214,545 @@ msgid ""
 " 10 to 15 years and is available as both a Teacher and Student edition."
 msgstr "En route vers le SIG offre un moyen aux enseignants d'utiliser ce logiciel puissant dans leurs cours sans avoir à devenir un expert, avec un SIG open source librement téléchargeable, QGIS. En route vers le SIG est recommandé pour les élèves de 10 à 15 ans et est disponible en éditions séparées pour enseignants et étudiants."
 
-#: ../../source/site/forusers/books/index.rst:73
+#: ../../source/site/forusers/books/index.rst:92
 msgid "https://locatepress.com/odg"
 msgstr "https://locatepress.com/odg"
 
-#: ../../source/site/forusers/books/index.rst:75
+#: ../../source/site/forusers/books/index.rst:94
 msgid "Date: May 2017"
 msgstr "Date : Mai 2017"
 
-#: ../../source/site/forusers/books/index.rst:79
+#: ../../source/site/forusers/books/index.rst:98
 msgid "QGIS Python Programming Cookbook - Second Edition"
 msgstr "QGIS Python Programming Cookbook - Deuxième édition"
 
-#: ../../source/site/forusers/books/index.rst:81
+#: ../../source/site/forusers/books/index.rst:100
 msgid ""
 "Based on version QGIS 2.18, this book will teach you how to write Python "
 "code that works with spatial data to automate geoprocessing tasks in QGIS."
 msgstr "Basé sur la version 2.18 de QGIS ce livre vous enseignera comment écrire du code Python qui fonctionnent avec des données géospatiales pour automatiser les tâches de géotraitement de QGIS."
 
-#: ../../source/site/forusers/books/index.rst:84
+#: ../../source/site/forusers/books/index.rst:103
 msgid ""
 "https://www.packtpub.com/application-development/qgis-python-programming-"
 "cookbook-second-edition"
 msgstr "https://www.packtpub.com/application-development/qgis-python-programming-cookbook-second-edition"
 
-#: ../../source/site/forusers/books/index.rst:85
+#: ../../source/site/forusers/books/index.rst:104
 msgid "Author(s): Joel Lawhead"
 msgstr "Auteur(s) : Joel Lawhead"
 
-#: ../../source/site/forusers/books/index.rst:86
+#: ../../source/site/forusers/books/index.rst:105
 msgid "Date: March 2017"
 msgstr "Date : Mars 2017"
 
-#: ../../source/site/forusers/books/index.rst:90
+#: ../../source/site/forusers/books/index.rst:109
 msgid "QGIS:Becoming a GIS Power User"
 msgstr "QGIS : Devenir un utilisateur avancé en SIG"
 
-#: ../../source/site/forusers/books/index.rst:92
+#: ../../source/site/forusers/books/index.rst:111
 msgid ""
 "Master data management, visualization, and spatial analysis techniques in "
 "QGIS and become a GIS power user"
 msgstr "Maîtriser la gestion et la visualisation des données et les techniques d'analyse spatiale de QGIS et devenir un expert en SIG"
 
-#: ../../source/site/forusers/books/index.rst:94
+#: ../../source/site/forusers/books/index.rst:113
 msgid ""
 "https://www.packtpub.com/big-data-and-business-intelligence/qgisbecoming-"
 "gis-power-user"
 msgstr "https://www.packtpub.com/big-data-and-business-intelligence/qgisbecoming-gis-power-user"
 
-#: ../../source/site/forusers/books/index.rst:95
+#: ../../source/site/forusers/books/index.rst:114
 msgid ""
 "Anita Graser, Ben Mearns, Alex Mandel, Victor Olaya Ferrero, Alexander Bruy"
 msgstr "Anita Graser, Ben Mearns, Alex Mandel, Victor Olaya Ferrero, Alexander Bruy"
 
-#: ../../source/site/forusers/books/index.rst:96
+#: ../../source/site/forusers/books/index.rst:115
 msgid "Date: February 2017"
 msgstr "Date : Février 2017"
 
-#: ../../source/site/forusers/books/index.rst:100
+#: ../../source/site/forusers/books/index.rst:119
 msgid "Mastering QGIS - Second Edition"
 msgstr "Mastering QGIS - Deuxième édition"
 
-#: ../../source/site/forusers/books/index.rst:102
+#: ../../source/site/forusers/books/index.rst:121
 msgid ""
 "Go beyond the basics and unleash the full power of QGIS with practical, "
 "step-by-step examples"
 msgstr "Pour aller plus loin et libérer toute la puissance de QGIS avec des exemples pratiques, étape par étape"
 
-#: ../../source/site/forusers/books/index.rst:104
+#: ../../source/site/forusers/books/index.rst:123
 msgid ""
 "https://www.packtpub.com/big-data-and-business-intelligence/mastering-qgis-"
 "second-edition"
 msgstr "https://www.packtpub.com/big-data-and-business-intelligence/mastering-qgis-second-edition"
 
-#: ../../source/site/forusers/books/index.rst:105
+#: ../../source/site/forusers/books/index.rst:124
 msgid "Kurt Menke, GISP et al."
 msgstr "Kurt Menke, GISP et al."
 
-#: ../../source/site/forusers/books/index.rst:106
+#: ../../source/site/forusers/books/index.rst:125
 msgid "Date: September 2016"
 msgstr "Date : Septembre 2016"
 
-#: ../../source/site/forusers/books/index.rst:110
+#: ../../source/site/forusers/books/index.rst:129
 msgid "Discover QGIS"
 msgstr "Discover QGIS"
 
-#: ../../source/site/forusers/books/index.rst:112
+#: ../../source/site/forusers/books/index.rst:131
 msgid "The Workbook for the GeoAcademy Curriculum"
 msgstr "Le manuel pour le curriculum de la Géo-académie"
 
-#: ../../source/site/forusers/books/index.rst:114
+#: ../../source/site/forusers/books/index.rst:133
 msgid "https://locatepress.com/dqw"
 msgstr "https://locatepress.com/dqw"
 
-#: ../../source/site/forusers/books/index.rst:115
+#: ../../source/site/forusers/books/index.rst:134
 msgid "Author(s): Kurt Menke"
 msgstr "Auteur : Kurt Menke"
 
-#: ../../source/site/forusers/books/index.rst:116
+#: ../../source/site/forusers/books/index.rst:135
 msgid "Date: July 2016"
 msgstr "Date : Juillet 2016"
 
-#: ../../source/site/forusers/books/index.rst:120
+#: ../../source/site/forusers/books/index.rst:139
 msgid "QGIS 2 Cookbook"
 msgstr "Livre de recettes Qgis 2"
 
-#: ../../source/site/forusers/books/index.rst:122
+#: ../../source/site/forusers/books/index.rst:141
 msgid ""
 "Become a QGIS power user and master QGIS data management, visualisation and "
 "spatial analysis techniques"
 msgstr "Devenez un utilisateur expérimenté de QGIS et passez maître dans la gestion de données, la visualisation et les techniques d'analyse spatiale sous QGIS"
 
-#: ../../source/site/forusers/books/index.rst:124
+#: ../../source/site/forusers/books/index.rst:143
 msgid "https://www.packtpub.com/application-development/qgis-2-cookbook"
 msgstr "https://www.packtpub.com/application-development/qgis-2-cookbook"
 
-#: ../../source/site/forusers/books/index.rst:125
+#: ../../source/site/forusers/books/index.rst:144
 msgid ""
 "Author(s): Alex Mandel, Anita Graser, Victor Olaya Ferrero, Alexander Bruy"
 msgstr "Auteur(s) : Alex Mandel, Anita Graser, Victor Olaya Ferrero, Alexander Bruy"
 
-#: ../../source/site/forusers/books/index.rst:126
+#: ../../source/site/forusers/books/index.rst:145
 msgid "Date: April 2016"
 msgstr "Date : Avril 2016"
 
-#: ../../source/site/forusers/books/index.rst:130
+#: ../../source/site/forusers/books/index.rst:149
 msgid "Learning QGIS - Third Edition"
 msgstr "Learning QGIS - Third Edition"
 
-#: ../../source/site/forusers/books/index.rst:132
+#: ../../source/site/forusers/books/index.rst:151
 msgid ""
 "Use QGIS to create great maps and perform all the geoprocessing tasks you "
 "need."
 msgstr "Utiliser |qg| pour créer de superbes cartes et réaliser les tâches de géotraitement nécessaires."
 
-#: ../../source/site/forusers/books/index.rst:134
+#: ../../source/site/forusers/books/index.rst:153
 msgid ""
 "https://www.packtpub.com/big-data-and-business-intelligence/learning-qgis-"
 "third-edition"
 msgstr "https://www.packtpub.com/big-data-and-business-intelligence/learning-qgis-third-edition"
 
-#: ../../source/site/forusers/books/index.rst:135
+#: ../../source/site/forusers/books/index.rst:154
 msgid "Author(s): Anita Graser"
 msgstr "Auteur(s) : Anita Graser"
 
-#: ../../source/site/forusers/books/index.rst:136
-#: ../../source/site/forusers/books/index.rst:146
+#: ../../source/site/forusers/books/index.rst:155
+#: ../../source/site/forusers/books/index.rst:165
 msgid "Date: March 2016"
 msgstr "Date : Mars 2016"
 
-#: ../../source/site/forusers/books/index.rst:140
+#: ../../source/site/forusers/books/index.rst:159
 msgid "QGIS Map Design"
 msgstr "Conception de carte sous QGIS"
 
-#: ../../source/site/forusers/books/index.rst:142
+#: ../../source/site/forusers/books/index.rst:161
 msgid ""
 "Learn how to use QGIS to take your cartographic products to the highest "
 "level."
 msgstr "Apprenez à utiliser QGIS pour tirer le meilleur parti de vos données cartographiques"
 
-#: ../../source/site/forusers/books/index.rst:144
+#: ../../source/site/forusers/books/index.rst:163
 msgid "http://locatepress.com/qmd"
 msgstr "http://locatepress.com/qmd"
 
-#: ../../source/site/forusers/books/index.rst:145
+#: ../../source/site/forusers/books/index.rst:164
 msgid "Author(s): Anita Graser and Gretchen N. Peterson"
 msgstr "Auteur(s) : Anita Graser et Gretchen N. Peterson"
 
-#: ../../source/site/forusers/books/index.rst:150
+#: ../../source/site/forusers/books/index.rst:169
 msgid "Mastering QGIS"
 msgstr "Mastering QGIS"
 
-#: ../../source/site/forusers/books/index.rst:152
+#: ../../source/site/forusers/books/index.rst:171
 msgid ""
 "Dive into QGIS and master geospatial data with this advanced guide, created "
 "to help you develop maps and applications that let you explore the world in "
 "new ways."
 msgstr "Plonger dans QGIS et maîtriser les données spatiales avec ce guide avancé. Celui-ci a été créé pour vous aider à produire des cartes et applications qui vous permettrons d'explorer le monde de nouvelles manières."
 
-#: ../../source/site/forusers/books/index.rst:156
+#: ../../source/site/forusers/books/index.rst:175
 msgid "https://www.packtpub.com/application-development/mastering-qgis"
 msgstr "https://www.packtpub.com/application-development/mastering-qgis"
 
-#: ../../source/site/forusers/books/index.rst:157
+#: ../../source/site/forusers/books/index.rst:176
 msgid ""
 "Author(s): Kurt Menke, GISP - Dr. Richard Smith Jr., GISP - Dr. Luigi "
 "Pirelli - Dr John Van Hoesen, GISP"
 msgstr "Auteur(s) : Kurt Menke, GISP - Dr. Richard Smith Jr., GISP - Dr. Luigi Pirelli - Dr John Van Hoesen, GISP"
 
-#: ../../source/site/forusers/books/index.rst:159
-#: ../../source/site/forusers/books/index.rst:252
+#: ../../source/site/forusers/books/index.rst:178
+#: ../../source/site/forusers/books/index.rst:291
 msgid "Date: March 2015"
 msgstr "Date : Mars 2015"
 
-#: ../../source/site/forusers/books/index.rst:163
+#: ../../source/site/forusers/books/index.rst:182
 msgid "QGIS Blueprints"
 msgstr "QGIS Blueprints"
 
-#: ../../source/site/forusers/books/index.rst:165
+#: ../../source/site/forusers/books/index.rst:184
 msgid "Develop analytical location-based web applications with QGIS"
 msgstr "Développez des applications web d'analyse basé sur la localisation avec QGIS"
 
-#: ../../source/site/forusers/books/index.rst:167
+#: ../../source/site/forusers/books/index.rst:186
 msgid "https://www.packtpub.com/hardware-and-creative/qgis-blueprints"
 msgstr "https://www.packtpub.com/hardware-and-creative/qgis-blueprints"
 
-#: ../../source/site/forusers/books/index.rst:168
+#: ../../source/site/forusers/books/index.rst:187
 msgid "Author(s): Ben Mearn"
 msgstr "Auteur(s) : Ben Mearn"
 
-#: ../../source/site/forusers/books/index.rst:169
-#: ../../source/site/forusers/books/index.rst:234
+#: ../../source/site/forusers/books/index.rst:188
+#: ../../source/site/forusers/books/index.rst:273
 msgid "Date: September 2015"
 msgstr "Date : Septembre 2015"
 
-#: ../../source/site/forusers/books/index.rst:173
+#: ../../source/site/forusers/books/index.rst:192
 msgid "QGIS By Example"
 msgstr "QGIS By Example"
 
-#: ../../source/site/forusers/books/index.rst:175
+#: ../../source/site/forusers/books/index.rst:194
 msgid ""
 "Leverage the power of QGIS in real-world applications to become a powerful "
 "user in cartography and GIS analysis"
 msgstr "Tirez parti de la puissance de QGIS dans les applications du monde réel pour devenir un expert dans la cartographie et l'analyse SIG"
 
-#: ../../source/site/forusers/books/index.rst:178
+#: ../../source/site/forusers/books/index.rst:197
 msgid "https://www.packtpub.com/application-development/qgis-example"
 msgstr "https://www.packtpub.com/application-development/qgis-example"
 
-#: ../../source/site/forusers/books/index.rst:179
+#: ../../source/site/forusers/books/index.rst:198
 msgid "Author(s): Alexander Bruy, Daria Svidzinsk"
 msgstr "Auteur(s) : Alexander Bruy, Daria Svidzinsk"
 
-#: ../../source/site/forusers/books/index.rst:180
+#: ../../source/site/forusers/books/index.rst:199
 msgid "Date: June 2015"
 msgstr "Date : Juin 2015"
 
-#: ../../source/site/forusers/books/index.rst:184
+#: ../../source/site/forusers/books/index.rst:203
 msgid "The PyQGIS Programmer's Guide - Extending QGIS with Python"
 msgstr "The PyQGIS Programmer's Guide - Extending QGIS with Python"
 
-#: ../../source/site/forusers/books/index.rst:186
+#: ../../source/site/forusers/books/index.rst:205
 msgid ""
 "Welcome to the world of PyQGIS, the blending of Quantum GIS and Python to "
 "extend and enhance your open source GIS toolbox. With PyQGIS you can write "
 "scripts and plugins to implement new features and perform automated tasks."
 msgstr "Bienvenu dans le monde de PyQGIS, le mélange de Quantum GIS et de Python pour étendre et renforcer votre boîte à outils open source SIG. Avec PyQGIS vous pouvez écrire des scripts et des extensions pour développer de nouvelles fonctionnalités et automatiser des tâches."
 
-#: ../../source/site/forusers/books/index.rst:190
+#: ../../source/site/forusers/books/index.rst:209
 msgid "http://locatepress.com/ppg"
 msgstr "http://locatepress.com/ppg"
 
-#: ../../source/site/forusers/books/index.rst:191
+#: ../../source/site/forusers/books/index.rst:210
 msgid "Author(s): Gary Sherman"
 msgstr "Auteur(s) : Gary Sherman"
 
-#: ../../source/site/forusers/books/index.rst:192
+#: ../../source/site/forusers/books/index.rst:211
 msgid "Date: April 2014"
 msgstr "Date : Avril 2014"
 
-#: ../../source/site/forusers/books/index.rst:196
+#: ../../source/site/forusers/books/index.rst:215
 msgid "The QGIS Training Manual - A Comprehensive Introduction to Quantum GIS"
 msgstr "Le manuel de formation de QGIS - Une introduction complète de Quantum GIS"
 
-#: ../../source/site/forusers/books/index.rst:198
+#: ../../source/site/forusers/books/index.rst:217
 msgid "Designed to work with QGIS 1.8"
 msgstr "Pensé pour fonctionner avec QGIS 1.8"
 
-#: ../../source/site/forusers/books/index.rst:200
+#: ../../source/site/forusers/books/index.rst:219
 msgid ""
 "Years of experience in a single book─the official Quantum GIS Training "
 "Manual written by seasoned trainers. It's the jump-start you need to learn "
 "this incredibly popular free desktop mapping and GIS toolset."
 msgstr "Des années d'expérience dans un seul livre - le manuel de formation de Quantum GIS écrit par des formateurs réguliers. C'est le document qu'il vous faut pour démarrer votre apprentissage du logiciel bureautique incroyablement populaire pour la cartographie et le SIG."
 
-#: ../../source/site/forusers/books/index.rst:202
+#: ../../source/site/forusers/books/index.rst:221
 msgid "http://locatepress.com/qtm"
 msgstr "http://locatepress.com/qtm"
 
-#: ../../source/site/forusers/books/index.rst:203
+#: ../../source/site/forusers/books/index.rst:222
 msgid ""
 "Author(s): Rüdiger Thiede, Tim Sutton, Horst Düster, and Marcelle Sutton"
 msgstr "Auteur(s) : Rüdiger Thiede, Tim Sutton, Horst Düster et Marcelle Sutton"
 
-#: ../../source/site/forusers/books/index.rst:204
+#: ../../source/site/forusers/books/index.rst:223
 msgid "Date: May 2013"
 msgstr "Date : Mai 2013"
 
-#: ../../source/site/forusers/books/index.rst:207
+#: ../../source/site/forusers/books/index.rst:226
+msgid "Chinese"
+msgstr "Chinois"
+
+#: ../../source/site/forusers/books/index.rst:229
+msgid "QGIS软件与应用教程"
+msgstr "QGIS软件与应用教程"
+
+#: ../../source/site/forusers/books/index.rst:231
+msgid "A tutorial of QGIS software and application."
+msgstr "Un livre en mandarin sur le logiciel QGIS et ses applications."
+
+#: ../../source/site/forusers/books/index.rst:233
+msgid "https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=57814"
+msgstr "https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=57814"
+
+#: ../../source/site/forusers/books/index.rst:234
+msgid "Authors: Yu Dong, Yunfeng Hu, Na Wang"
+msgstr "Auteurs: Yu Dong, Yunfeng Hu, Na Wang"
+
+#: ../../source/site/forusers/books/index.rst:235
+msgid "Date: March 2021"
+msgstr "Date: Mars 2021"
+
+#: ../../source/site/forusers/books/index.rst:238
 msgid "Dutch"
 msgstr "En néerlandais"
 
-#: ../../source/site/forusers/books/index.rst:210
+#: ../../source/site/forusers/books/index.rst:241
+msgid "QGIS voor landmeters en wegontwerpers"
+msgstr "QGIS voor landmeters en wegontwerpers"
+
+#: ../../source/site/forusers/books/index.rst:243
+msgid "https://huiz.net/boek/qgis-voor-landmeters-en-wegontwerpers/"
+msgstr "https://huiz.net/boek/qgis-voor-landmeters-en-wegontwerpers/"
+
+#: ../../source/site/forusers/books/index.rst:244
+msgid "Anton Huizinga"
+msgstr "Anton Huizinga"
+
+#: ../../source/site/forusers/books/index.rst:245
+msgid "Date: November 2020"
+msgstr "Date : Novembre 2020"
+
+#: ../../source/site/forusers/books/index.rst:249
 msgid ""
 "QGIS at secondary level - Geography Studies - Cartography at secondary level"
 " - GISwijzer GO game"
 msgstr "QGIS au niveau du secondaire - Géographie - Cartographie au niveau du secondaire - jeu de Go GISwijzer"
 
-#: ../../source/site/forusers/books/index.rst:212
+#: ../../source/site/forusers/books/index.rst:251
 msgid ""
 "https://www.giswijzer.nl/?product=qgis-op-vo-niveau-geografie-studies-"
 "cartografie-op-vo-niveau-giswijzer-go-spel"
 msgstr "https://www.giswijzer.nl/?product=qgis-op-vo-niveau-geografie-studies-cartografie-op-vo-niveau-giswijzer-go-spel"
 
-#: ../../source/site/forusers/books/index.rst:213
+#: ../../source/site/forusers/books/index.rst:252
 msgid "Margit Stapel"
 msgstr "Margit Stapel"
 
-#: ../../source/site/forusers/books/index.rst:214
-msgid "Date December 2016"
+#: ../../source/site/forusers/books/index.rst:253
+#: ../../source/site/forusers/books/index.rst:284
+msgid "Date: December 2016"
 msgstr "Date : Décembre 2016"
 
-#: ../../source/site/forusers/books/index.rst:217
+#: ../../source/site/forusers/books/index.rst:256
 msgid "French"
 msgstr "En français"
 
-#: ../../source/site/forusers/books/index.rst:220
+#: ../../source/site/forusers/books/index.rst:259
 msgid ""
 "Systèmes d'information géographique. Cours et exercices corrigés avec Grass "
 "et Qgis"
 msgstr "Systèmes d'information géographique. Cours et exercices corrigés avec Grass et Qgis"
 
-#: ../../source/site/forusers/books/index.rst:222
+#: ../../source/site/forusers/books/index.rst:261
 msgid ""
 "https://www.dunod.com/sciences-techniques/systemes-d-information-"
 "geographique-cours-et-exercices-corriges-avec-grass-et"
 msgstr "https://www.dunod.com/sciences-techniques/systemes-d-information-geographique-cours-et-exercices-corriges-avec-grass-et"
 
-#: ../../source/site/forusers/books/index.rst:223
+#: ../../source/site/forusers/books/index.rst:262
 msgid "Auteur : Yves Auda"
 msgstr "Auteur : Yves Auda"
 
-#: ../../source/site/forusers/books/index.rst:224
+#: ../../source/site/forusers/books/index.rst:263
 msgid "Date: March 2018"
 msgstr "Date : Mars 2018"
 
-#: ../../source/site/forusers/books/index.rst:228
+#: ../../source/site/forusers/books/index.rst:267
 msgid "Learning QGIS by example in french"
 msgstr "Apprendre QGIS par l'exemple en français"
 
-#: ../../source/site/forusers/books/index.rst:230
+#: ../../source/site/forusers/books/index.rst:269
 msgid ""
 "This book covers essential workflows in GIS from data creation to its "
 "cartographic representation and some basics in spatial analysis."
 msgstr "Ce livre couvre les opérations essentielles de SIG allant de la création des données jusqu'à leurs représentations cartographiques et les bases de l'analyse spatiale."
 
-#: ../../source/site/forusers/books/index.rst:232
+#: ../../source/site/forusers/books/index.rst:271
 msgid ""
 "https://www.amazon.fr/Apprendre-QGIS-par-lexemple-dInformation/dp/1517565766"
 msgstr "https://www.amazon.fr/Apprendre-QGIS-par-lexemple-dInformation/dp/1517565766"
 
-#: ../../source/site/forusers/books/index.rst:233
+#: ../../source/site/forusers/books/index.rst:272
 msgid "Author: Gerard Allali"
 msgstr "Auteur : Gerard Allali"
 
-#: ../../source/site/forusers/books/index.rst:238
+#: ../../source/site/forusers/books/index.rst:277
 msgid "Greek"
 msgstr "En grec"
 
-#: ../../source/site/forusers/books/index.rst:241
+#: ../../source/site/forusers/books/index.rst:280
 msgid "Introduction to Raster Analysis (Learning QGIS Book 2)"
 msgstr "Introduction à l'analyse de raster (Apprendre QGIS Livre 2)"
 
-#: ../../source/site/forusers/books/index.rst:243
+#: ../../source/site/forusers/books/index.rst:282
 msgid "https://www.kobo.com/cy/en/ebook/V7poK2Or2za3IqGN-__5ZA"
 msgstr "https://www.kobo.com/cy/en/ebook/V7poK2Or2za3IqGN-__5ZA"
 
-#: ../../source/site/forusers/books/index.rst:244
-#: ../../source/site/forusers/books/index.rst:251
+#: ../../source/site/forusers/books/index.rst:283
+#: ../../source/site/forusers/books/index.rst:290
 msgid "Author(s): Anthony Antoniou"
 msgstr "Auteur : Anthony Antoniou"
 
-#: ../../source/site/forusers/books/index.rst:245
-msgid "Date: December 2016"
-msgstr "Date : Décembre 2016"
-
-#: ../../source/site/forusers/books/index.rst:248
+#: ../../source/site/forusers/books/index.rst:287
 msgid "Basic Workbook is an introductory text for learning QGIS (2.8)"
 msgstr "Opérations de base est un livre d'introduction pour apprendre QGIS (2.8)"
 
-#: ../../source/site/forusers/books/index.rst:250
+#: ../../source/site/forusers/books/index.rst:289
 msgid "https://www.kobo.com/cy/en/ebook/ZmcAySXVLjKxvYmZk3eKVQ"
 msgstr "https://www.kobo.com/cy/en/ebook/ZmcAySXVLjKxvYmZk3eKVQ"
 
-#: ../../source/site/forusers/books/index.rst:256
+#: ../../source/site/forusers/books/index.rst:295
 msgid "Japanese"
 msgstr "Japonais"
 
-#: ../../source/site/forusers/books/index.rst:260
+#: ../../source/site/forusers/books/index.rst:299
 msgid "Pythonではじめるマップアプリケーションプラグイン"
 msgstr "Pythonではじめるマップアプリケーションプラグイン"
 
-#: ../../source/site/forusers/books/index.rst:262
+#: ../../source/site/forusers/books/index.rst:301
 msgid "Map Application Plug-in, Starting With Python (pdf and print)"
 msgstr "Applications cartographiques, débuter avec Python (disponible en pdf et version imprimée)"
 
-#: ../../source/site/forusers/books/index.rst:264
+#: ../../source/site/forusers/books/index.rst:303
 msgid "https://day-journal.com/memo/book-002"
 msgstr "https://day-journal.com/memo/book-002"
 
-#: ../../source/site/forusers/books/index.rst:265
+#: ../../source/site/forusers/books/index.rst:304
 msgid "Authors: Yasunori Kirimoto"
 msgstr "Auteur : Yasunori Kirimoto"
 
-#: ../../source/site/forusers/books/index.rst:269
+#: ../../source/site/forusers/books/index.rst:308
 msgid "【改訂新版】［オープンデータ＋QGIS］統計・防災・環境情報がひと目でわかる地図の作り方"
 msgstr "【改訂新版】［オープンデータ＋QGIS］統計・防災・環境情報がひと目でわかる地図の作り方"
 
-#: ../../source/site/forusers/books/index.rst:271
+#: ../../source/site/forusers/books/index.rst:310
 msgid "https://gihyo.jp/book/2019/978-4-297-10317-0"
 msgstr "https://gihyo.jp/book/2019/978-4-297-10317-0"
 
-#: ../../source/site/forusers/books/index.rst:272
+#: ../../source/site/forusers/books/index.rst:311
 msgid ""
 "Authors: Kosuke ASAHI, Shoichi OTOMO, Takayuki MIZUTANI, Norihiro YAMATE"
 msgstr "Auteurs : Kosuke ASAHI, Shoichi OTOMO, Takayuki MIZUTANI, Norihiro YAMATE"
 
-#: ../../source/site/forusers/books/index.rst:273
+#: ../../source/site/forusers/books/index.rst:312
 msgid "Date: December 2018"
 msgstr "Date : Décembre 2018"
 
-#: ../../source/site/forusers/books/index.rst:276
+#: ../../source/site/forusers/books/index.rst:315
 msgid "業務で使う林業QGIS　徹底使いこなしガイド"
 msgstr "業務で使う林業QGIS　徹底使いこなしガイド"
 
-#: ../../source/site/forusers/books/index.rst:278
+#: ../../source/site/forusers/books/index.rst:317
 msgid "http://www.ringyou.or.jp/publish/detail_1409.html"
 msgstr "http://www.ringyou.or.jp/publish/detail_1409.html"
 
-#: ../../source/site/forusers/books/index.rst:279
+#: ../../source/site/forusers/books/index.rst:318
 msgid "Authors: Koichi KITA"
 msgstr "Auteur : Koichi KITA"
 
-#: ../../source/site/forusers/books/index.rst:280
+#: ../../source/site/forusers/books/index.rst:319
 msgid "Date: June 2017"
 msgstr "Date : Juin 2017"
 
-#: ../../source/site/forusers/books/index.rst:284
+#: ../../source/site/forusers/books/index.rst:323
 msgid "Polish"
 msgstr "En polonais"
 
-#: ../../source/site/forusers/books/index.rst:287
+#: ../../source/site/forusers/books/index.rst:326
 msgid "Learn about GIS and QGIS in Polish"
 msgstr "Apprendre sur les SIG et QGIS en polonais."
 
-#: ../../source/site/forusers/books/index.rst:289
+#: ../../source/site/forusers/books/index.rst:328
 msgid "The book is prepared like the series \"for Dummies\"."
 msgstr "Le livre est présenté comme ceux de la série \"\"Pour les Nuls\"."
 
-#: ../../source/site/forusers/books/index.rst:291
+#: ../../source/site/forusers/books/index.rst:330
 msgid ""
 "http://helion.pl/ksiazki/qgis-tworzenie-i-analiza-map-bartlomiej-"
 "iwanczak,qgista.htm"
 msgstr "http://helion.pl/ksiazki/qgis-tworzenie-i-analiza-map-bartlomiej-iwanczak,qgista.htm"
 
-#: ../../source/site/forusers/books/index.rst:292
+#: ../../source/site/forusers/books/index.rst:331
 msgid "Author(s): Bartłomiej Iwańczak"
 msgstr "Auteur : Bartłomiej Iwańczak"
 
-#: ../../source/site/forusers/books/index.rst:293
+#: ../../source/site/forusers/books/index.rst:332
 msgid "Date: October 2016"
 msgstr "Date : Octobre 2016"
 
-#: ../../source/site/forusers/books/index.rst:297
+#: ../../source/site/forusers/books/index.rst:336
 msgid "Turkish"
 msgstr "En turc"
 
-#: ../../source/site/forusers/books/index.rst:300
+#: ../../source/site/forusers/books/index.rst:339
 msgid ""
 "Geological Applications with Open Source Coded Geographic Information "
 "Systems"
 msgstr "Geological Applications with Open Source Coded Geographic Information Systems"
 
-#: ../../source/site/forusers/books/index.rst:302
+#: ../../source/site/forusers/books/index.rst:341
 msgid "(Açık Kaynak Kodlu Coğrafi Bilgi Sistemleri ile Jeoloji Uygulamaları"
 msgstr "(Açık Kaynak Kodlu Coğrafi Bilgi Sistemleri ile Jeoloji Uygulamaları)"
 
-#: ../../source/site/forusers/books/index.rst:304
+#: ../../source/site/forusers/books/index.rst:343
 msgid ""
 "The book consists of 2 main parts; In the first part, Geographical "
 "Information Systems subject is explained. In the second part, QGIS is used "
 "with geological applications."
 msgstr "Le livre se compose de deux parties. La première partie explique ce que sont les Systèmes d'Information Géographiques. Dans la seconde partie, QGIS est utilisée avec des applications géologiques."
 
-#: ../../source/site/forusers/books/index.rst:306
+#: ../../source/site/forusers/books/index.rst:345
 msgid "http://www.jmo.org.tr/yayinlar/kitap_goster.php?kodu=260"
 msgstr "http://www.jmo.org.tr/yayinlar/kitap_goster.php?kodu=260"
 
-#: ../../source/site/forusers/books/index.rst:307
+#: ../../source/site/forusers/books/index.rst:346
 msgid "Authors: Can Ayday, Levent Sabah, Nefise Yaman, Kübra Keser"
 msgstr "Auteurs : Can Ayday, Levent Sabah, Nefise Yaman, Kübra Keser"
 
-#: ../../source/site/forusers/books/index.rst:308
+#: ../../source/site/forusers/books/index.rst:347
 msgid "Date: January 2016"
 msgstr "Date : Janvier 2016"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid ""
 #~ msgstr ""
@@ -691,4 +788,7 @@ msgstr "Date : Janvier 2016"
 #~ msgid ""
 #~ "Please write to richard@qgis.org if you want to have your book added here. "
 #~ "Or you edit this page in github and do a pull request."
+#~ msgstr ""
+
+#~ msgid "Date December 2016"
 #~ msgstr ""

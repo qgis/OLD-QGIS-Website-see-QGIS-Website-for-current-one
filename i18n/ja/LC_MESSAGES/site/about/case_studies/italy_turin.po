@@ -7,15 +7,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-22 11:32+0100\n"
-"PO-Revision-Date: 2018-11-28 00:32+0000\n"
-"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-05-25 15:58+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2018\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/site/about/case_studies/italy_turin.rst:3
+msgid ""
+"The Research Institute for Geo-hydrological Protection of Turin --- Aerial "
+"photo archive management"
+msgstr "トリノ地質・水文防災研究所 - 航空写真保管管理"
 
 #: ../../source/site/about/case_studies/italy_turin.rst:5
 msgid ""
@@ -36,6 +43,19 @@ msgid ""
 "are employed. Their use varies, from “simple” visual analyses to complex "
 "processing as stereoplotting or image segmentation."
 msgstr "徹底的な調査研究を行うため、現地調査、モデリングや歴史的な記録の分析に加えて、空中フォトグラムが使用されています。それらの使用は「単純な」視覚的分析から実体図化や画像分割などの複雑な処理まで様々です。"
+
+#: ../../source/site/about/case_studies/italy_turin.rst:9
+msgid ""
+"The institute, for the explained purposes, keeps in its archive about "
+"170000, recent and historical, photograms --- the oldest one dating back to "
+"1920s (Figure 1) --- covering, in different years, the Po basin or part of "
+"it. Some photograms cover other basins in northern Italy. In addition the "
+"archives keeps flight plans of the described photograms (Figure 1)."
+msgstr "研究所は、説明された目的のために、そのアーカイブに約170000、最近および歴史的な写真図を保存しています--- 1920年代にさかのぼる最も古いもの（図1）---異なる年に、ポー盆地またはその一部。いくつかの写真はイタリア北部の他の流域をカバーしています。さらに、アーカイブは記載されたフォトグラムの飛行計画を保持します（図1）。"
+
+#: ../../source/site/about/case_studies/italy_turin.rst:16
+msgid "1929 photogram (left) and 1954 flight plan (right)"
+msgstr ""
 
 #: ../../source/site/about/case_studies/italy_turin.rst:16
 msgid "1929 photogram (left) and 1954 flight plan (right)."
@@ -145,6 +165,15 @@ msgstr "著者"
 msgid "Danilo Godone"
 msgstr "ダニロ・ゴドーネ"
 
+#: ../../source/site/about/case_studies/italy_turin.rst:73
+msgid ""
+"Danilo Godone is a Postdoc grant holder, at Turin University, studying "
+"geomatic contribution in landslide, glacier and, more generally, natural "
+"disasters monitoring. He is a member of NATRISK --- Research Centre on "
+"Natural Risks in Mountain and Hilly Environments, in the same University. He"
+" acts as a freelance consultant in the same topics, too."
+msgstr "ダニロ・ゴドーネは、地滑り、氷河、さらに一般的には自然災害の監視における地形的貢献を研究している、トリオ大学のポストドック助成金所有者です。同大学のNATRISK ---山岳・丘陵環境における自然リスク研究センターのメンバーです。彼は同じトピックでフリー・コンサルタントとしても働いています。"
+
 #: ../../source/site/about/case_studies/italy_turin.rst:80
 msgid "Franco Godone"
 msgstr "フランコ・ゴドーネ"
@@ -157,29 +186,13 @@ msgid ""
 "alpine regions."
 msgstr "フランコ・ゴドーネは1972年以来、トリノ地質・水文防災研究所（IRPI-CNR）の専門技術者です。アルプス地方の地形学や航空写真測量の調査やデータ分析に携わります。"
 
-#: ../../source/site/about/case_studies/italy_turin.rst:3
-msgid ""
-"The Research Institute for Geo-hydrological Protection of Turin --- Aerial "
-"photo archive management"
-msgstr "トリノ地質・水文防災研究所 - 航空写真保管管理"
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
 
-#: ../../source/site/about/case_studies/italy_turin.rst:9
-msgid ""
-"The institute, for the explained purposes, keeps in its archive about "
-"170000, recent and historical, photograms --- the oldest one dating back to "
-"1920s (Figure 1) --- covering, in different years, the Po basin or part of "
-"it. Some photograms cover other basins in northern Italy. In addition the "
-"archives keeps flight plans of the described photograms (Figure 1)."
-msgstr "研究所は、説明された目的のために、そのアーカイブに約170000、最近および歴史的な写真図を保存しています--- 1920年代にさかのぼる最も古いもの（図1）---異なる年に、ポー盆地またはその一部。いくつかの写真はイタリア北部の他の流域をカバーしています。さらに、アーカイブは記載されたフォトグラムの飛行計画を保持します（図1）。"
-
-#: ../../source/site/about/case_studies/italy_turin.rst:73
-msgid ""
-"Danilo Godone is a Postdoc grant holder, at Turin University, studying "
-"geomatic contribution in landslide, glacier and, more generally, natural "
-"disasters monitoring. He is a member of NATRISK --- Research Centre on "
-"Natural Risks in Mountain and Hilly Environments, in the same University. He"
-" acts as a freelance consultant in the same topics, too."
-msgstr "ダニロ・ゴドーネは、地滑り、氷河、さらに一般的には自然災害の監視における地形的貢献を研究している、トリオ大学のポストドック助成金所有者です。同大学のNATRISK ---山岳・丘陵環境における自然リスク研究センターのメンバーです。彼は同じトピックでフリー・コンサルタントとしても働いています。"
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "The Research Institute for Geo-hydrological Protection of Turin - Aerial "

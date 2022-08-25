@@ -1,84 +1,24 @@
 # 
 # Translators:
+# 徐保才 <1302638819@qq.com>, 2021
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2020-03-16 09:16+0000\n"
-"Last-Translator: Jürgen E. Fischer <jef@norbit.de>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-10-13 18:59+0000\n"
+"Last-Translator: 徐保才 <1302638819@qq.com>, 2021\n"
 "Language-Team: Chinese Simplified (http://www.transifex.com/qgis/qgis-website/language/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: zh-Hans\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../source/site/about/case_studies/antarctica.rst:3
 msgid "Quantarctica: An Antarctic GIS package"
-msgstr ""
-
-#: ../../source/site/about/case_studies/antarctica.rst:13
-msgid "About the project"
-msgstr "欢迎访问 QGIS 项目！"
-
-#: ../../source/site/about/case_studies/antarctica.rst:20
-msgid ""
-"Screenshot from Quantarctica, showing one of the subglacial lakes datasets."
-msgstr ""
-
-#: ../../source/site/about/case_studies/antarctica.rst:29
-msgid ""
-"Quantarctica has been used to examine geographical data from continental to "
-"local scales, for viewing scientific project data on top of base maps or "
-"with other scientific datasets, and to prepare maps for publications and "
-"proposals. Quantarctica has so far proven to be a great tool, and a very "
-"good alternative and supplement to other software used by the researchers. "
-"It has provided new opportunities for our researchers in their daily work."
-msgstr ""
-
-#: ../../source/site/about/case_studies/antarctica.rst:41
-msgid ""
-"Quantarctica is also useful when navigating on the Antarctic ice shelves "
-"thanks to the GPS tracking capabilities within QGIS."
-msgstr ""
-
-#: ../../source/site/about/case_studies/antarctica.rst:44
-msgid ""
-"Since Quantarctica first came in use by our glaciologists three years ago, "
-"there has been many requests in the research community outside the institute"
-" to share this product, and we started to develop a public and improved "
-"version to replace the in-house version. Following Antarctic field testing, "
-"and adding new relevant datasets, Quantarctica version 1.0 was finally "
-"completed and made available for download in July 2013."
-msgstr ""
-
-#: ../../source/site/about/case_studies/antarctica.rst:57
-msgid "Links"
-msgstr "链接"
-
-#: ../../source/site/about/case_studies/antarctica.rst:59
-msgid "Quantarctica website: http://quantarctica.org/"
-msgstr ""
-
-#: ../../source/site/about/case_studies/antarctica.rst:60
-msgid "Norwegian Polar Institute: http://www.npolar.no/en/"
-msgstr ""
-
-#: ../../source/site/about/case_studies/antarctica.rst:63
-msgid "Authors"
-msgstr "作者"
-
-#: ../../source/site/about/case_studies/antarctica.rst:70
-msgid "Anders Skoglund and Kenichi Matsuoka"
-msgstr ""
-
-#: ../../source/site/about/case_studies/antarctica.rst:72
-msgid ""
-"This article was contributed in August 2013 by Anders Skoglund (left), GIS "
-"specialist, and Kenichi Matsuoka (right), glaciologist, both at the "
-"Norwegian Polar Institute."
-msgstr ""
+msgstr "Quantarctica：南极GIS组件"
 
 #: ../../source/site/about/case_studies/antarctica.rst:5
 msgid ""
@@ -90,6 +30,15 @@ msgid ""
 "available for non-commercial purposes."
 msgstr ""
 
+#: ../../source/site/about/case_studies/antarctica.rst:13
+msgid "About the project"
+msgstr "欢迎访问 QGIS 项目！"
+
+#: ../../source/site/about/case_studies/antarctica.rst:20
+msgid ""
+"Screenshot from Quantarctica, showing one of the subglacial lakes datasets."
+msgstr "Quantarctica截图显示了一个冰下水系数据集"
+
 #: ../../source/site/about/case_studies/antarctica.rst:23
 msgid ""
 "Quantarctica (QGIS + Antarctica) was first developed for in-house use at the"
@@ -97,6 +46,32 @@ msgid ""
 "need for a low or no cost complete GIS with essential datasets –-- ready-to-"
 "use, easy-to-use, functionality rich and with offline capabilities. QGIS "
 "seemed to be a perfect choice of GIS for the collected datasets."
+msgstr ""
+
+#: ../../source/site/about/case_studies/antarctica.rst:29
+msgid ""
+"Quantarctica has been used to examine geographical data from continental to "
+"local scales, for viewing scientific project data on top of base maps or "
+"with other scientific datasets, and to prepare maps for publications and "
+"proposals. Quantarctica has so far proven to be a great tool, and a very "
+"good alternative and supplement to other software used by the researchers. "
+"It has provided new opportunities for our researchers in their daily work."
+msgstr "Quantarctica已被用于检验从大陆到本地比例的地理数据，用于在基础地图或其他科学数据集上查看科学工程数据，以及为出版物和提案准备地图。迄今为止，Quantarctica已被证明是一个很好的工具，是研究人员使用的其他软件的一个很好的替代品和补充。它为我们的研究人员在日常工作中提供了新的有利条件。"
+
+#: ../../source/site/about/case_studies/antarctica.rst:41
+msgid ""
+"Quantarctica is also useful when navigating on the Antarctic ice shelves "
+"thanks to the GPS tracking capabilities within QGIS."
+msgstr "借助QGIS中的GPS跟踪功能，Quantarctica在南极冰架上导航也不错。"
+
+#: ../../source/site/about/case_studies/antarctica.rst:44
+msgid ""
+"Since Quantarctica first came in use by our glaciologists three years ago, "
+"there has been many requests in the research community outside the institute"
+" to share this product, and we started to develop a public and improved "
+"version to replace the in-house version. Following Antarctic field testing, "
+"and adding new relevant datasets, Quantarctica version 1.0 was finally "
+"completed and made available for download in July 2013."
 msgstr ""
 
 #: ../../source/site/about/case_studies/antarctica.rst:51
@@ -107,6 +82,41 @@ msgid ""
 "tool can be useful for the Antarctic community –-- as a complete Antarctic "
 "GIS package."
 msgstr ""
+
+#: ../../source/site/about/case_studies/antarctica.rst:57
+msgid "Links"
+msgstr "链接"
+
+#: ../../source/site/about/case_studies/antarctica.rst:59
+msgid "Quantarctica website: https://www.npolar.no/quantarctica/"
+msgstr ""
+
+#: ../../source/site/about/case_studies/antarctica.rst:60
+msgid "Norwegian Polar Institute: https://www.npolar.no/en/"
+msgstr ""
+
+#: ../../source/site/about/case_studies/antarctica.rst:63
+msgid "Authors"
+msgstr "作者"
+
+#: ../../source/site/about/case_studies/antarctica.rst:70
+msgid "Anders Skoglund and Kenichi Matsuoka"
+msgstr "Anders Skoglund 和 Kenichi Matsuoka"
+
+#: ../../source/site/about/case_studies/antarctica.rst:72
+msgid ""
+"This article was contributed in August 2013 by Anders Skoglund (left), GIS "
+"specialist, and Kenichi Matsuoka (right), glaciologist, both at the "
+"Norwegian Polar Institute."
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "Quantarctica is a collection of Antarctic geographical datasets, such as "
@@ -131,4 +141,10 @@ msgstr ""
 #~ "atmospheric sciences, geology and biology, and hope and believe that this "
 #~ "tool can be useful for the Antarctic community – as a complete Antarctic GIS"
 #~ " package."
+#~ msgstr ""
+
+#~ msgid "Quantarctica website: http://quantarctica.org/"
+#~ msgstr ""
+
+#~ msgid "Norwegian Polar Institute: http://www.npolar.no/en/"
 #~ msgstr ""

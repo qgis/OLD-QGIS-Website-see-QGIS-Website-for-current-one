@@ -4,26 +4,34 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2020
+# Sorin Călinică <scalinica@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-09 12:40+0200\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
 "PO-Revision-Date: 2019-07-12 14:28+0000\n"
-"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2020\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2022\n"
 "Language-Team: Romanian (https://www.transifex.com/qgis/teams/6144/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.8.0\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
+
 #~ msgid "Charter of the QGIS.ORG Association"
-#~ msgstr ""
+#~ msgstr "Diagrama Asociației QGIS.ORG"
 
 #~ msgid "(QGIS.ORG Verein)"
 #~ msgstr "(QGIS.ORG Verein)"
@@ -144,7 +152,7 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Support of research or studies around QGIS."
-#~ msgstr ""
+#~ msgstr "Finanțarea cercetărilor sau studiilor asupra QGIS."
 
 #~ msgid "Foster regular meetings of the QGIS community."
 #~ msgstr ""
@@ -158,10 +166,10 @@ msgstr ""
 #~ msgstr "4 Entitățile legale ale QGIS.ORG"
 
 #~ msgid "The General Meeting (the Voting Members)"
-#~ msgstr ""
+#~ msgstr "Adunarea Generală (Membrii cu Drept de Vot)"
 
 #~ msgid "The Board"
-#~ msgstr ""
+#~ msgstr "Consiliul"
 
 #~ msgid "Two non-Board members who shall act as financial auditors"
 #~ msgstr ""
@@ -195,7 +203,7 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Honorary voting members"
-#~ msgstr ""
+#~ msgstr "Membrii cu drept de vot onorifici"
 
 #~ msgid "5.2 Composition, appointment and role of voting members"
 #~ msgstr "5.2 Componența, rolul și numirea membrilor cu drept de vot"
@@ -235,6 +243,9 @@ msgstr ""
 #~ "The user group should democratically nominate one person from within their "
 #~ "ranks to act as their representative within the QGIS.ORG voting membership."
 #~ msgstr ""
+#~ "Grupul de utilizatori ar trebui să nominalizeze în mod democratic o persoană"
+#~ " din rândurile lor pentru a acționa ca reprezentant în cadrul membrilor cu "
+#~ "drept de vot QGIS.ORG."
 
 #~ msgid "5.4 Election and eligibility of QGIS Community voting members"
 #~ msgstr ""
@@ -344,6 +355,10 @@ msgstr ""
 #~ "enforce any membership levels - the organizations pick their own membership "
 #~ "level based on self-assessment."
 #~ msgstr ""
+#~ "Deoarece QGIS.ORG este un proiect la nivel mondial iar diversele companii, "
+#~ "ONG-uri sau organizații guvernamentale au perspective financiare diferite, "
+#~ "nu aplicăm niciun criteriu de departajare - organizațiile își aleg propriul "
+#~ "nivel de sponsorizare, pe baza autoevaluării."
 
 #~ msgid ""
 #~ "Acceptance of sustaining members shall be subject to the discretion and "
@@ -351,11 +366,18 @@ msgstr ""
 #~ "applications for sustaining membership and ongoing support memberships as "
 #~ "deemed appropriate."
 #~ msgstr ""
+#~ "Acceptarea membrilor susținători va fi supusă la discreția și aprobarea "
+#~ "consiliului de administrație, care își rezervă dreptul de a accepta sau de a"
+#~ " respinge cererile de aderare și de menținere a calității de membru, după "
+#~ "cum consideră necesar."
 
 #~ msgid ""
 #~ "The fees for membership levels and guidelines for management of sustaining "
 #~ "members are provided in the governance section of the QGIS.ORG website."
 #~ msgstr ""
+#~ "Taxele nivelurilor de sponsorizare și liniile directoare pentru managementul"
+#~ " membrilor susținători sunt expuse în secțiunea guvernanței site-ului web "
+#~ "QGIS.ORG."
 
 #~ msgid "7 The board"
 #~ msgstr "7 Consiliul"
@@ -474,6 +496,9 @@ msgstr ""
 #~ "honorary membership on the QGIS PSC from its inception. By common vote, "
 #~ "QGIS.ORG may award any individual a lifetime honorary seat on the PSC."
 #~ msgstr ""
+#~ "Gary Sherman, în calitate de fondator al proiectului QGIS, va primi "
+#~ "calitatea de membru de onoare pe viață în QGIS PSC. Prin vot comun, QGIS.ORG"
+#~ " poate acorda oricărei persoane un loc de onoare pe viață în PSC."
 
 #~ msgid "9 Administration of QGIS.ORG"
 #~ msgstr "9 Administrarea QGIS.ORG"
@@ -501,13 +526,13 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Approval of the annual report"
-#~ msgstr ""
+#~ msgstr "Aprobarea raportului anual"
 
 #~ msgid "Approval of the annual financial report"
 #~ msgstr ""
 
 #~ msgid "Approval of the annual budget"
-#~ msgstr ""
+#~ msgstr "Aprobarea bugetului anual"
 
 #~ msgid "Election of the board chair"
 #~ msgstr ""

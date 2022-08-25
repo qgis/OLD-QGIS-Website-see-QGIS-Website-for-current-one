@@ -2,21 +2,30 @@
 # Translators:
 # Diana Galindo <drgalindog@linuxmail.org>, 2013
 # Eduardo Gonzalez Latorre, 2014
-# Rodrigo Armesto <rodri_Armesto@hotmail.com>, 2020
+# Eric Armijo, 2021
+# Rodrigo Armesto Baztán <rodri_Armesto@hotmail.com>, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-26 11:45+0100\n"
-"PO-Revision-Date: 2020-10-26 22:21+0000\n"
-"Last-Translator: Rodrigo Armesto <rodri_Armesto@hotmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:24+0000\n"
+"Last-Translator: Eric Armijo, 2021\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../../source/site/getinvolved/index.rst:5
+msgid "Plugins website"
+msgstr "sitio web de complementos"
+
+#: ../../source/site/getinvolved/index.rst:5
+msgid "Donations"
+msgstr "Donaciones"
 
 #: ../../source/site/getinvolved/index.rst:3
 msgid "Get Involved / Development"
@@ -25,10 +34,18 @@ msgstr "Haz parte / Desarrollo"
 #: ../../source/site/getinvolved/index.rst:25
 msgid ""
 "Content is not used, it is overridden by text themes/qgis-"
-"theme/getinvolved_index.html. The html texts are translated in the 'spinx' "
+"theme/getinvolved_index.html. The html texts are translated in the 'sphinx' "
 "resource: https://www.transifex.com/qgis/qgis-website/sphinx/ Only TOC is "
 "used."
 msgstr "El contenido no se usa, se reemplaza por el texto en text themes/qgis-theme/getinvolved_index.html. Los textos html están traducidos en el recurso 'spinx': https://www.transifex.com/qgis/qgis-website/sphinx/ Solo se utiliza TOC."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid "Plugins website"
 #~ msgstr ""
@@ -36,4 +53,11 @@ msgstr "El contenido no se usa, se reemplaza por el texto en text themes/qgis-th
 #~ msgid ""
 #~ "Content is not used, it is overridden by themes/qgis-"
 #~ "theme/getinvolved_index.html."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Content is not used, it is overridden by text themes/qgis-"
+#~ "theme/getinvolved_index.html. The html texts are translated in the 'spinx' "
+#~ "resource: https://www.transifex.com/qgis/qgis-website/sphinx/ Only TOC is "
+#~ "used."
 #~ msgstr ""

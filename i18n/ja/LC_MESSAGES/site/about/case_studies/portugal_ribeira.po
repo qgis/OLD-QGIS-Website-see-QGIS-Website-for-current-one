@@ -6,13 +6,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 20:28\n"
-"PO-Revision-Date: 2019-01-31 03:47+0000\n"
-"Last-Translator: fairtommy <fairtommy@gmail.com>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2018-2019\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -33,6 +34,7 @@ msgid ""
 msgstr "イベリア狼はドウロ川の南に小さな孤立グループと、のみポルトガルおよびスペインの北に存在するオオカミの亜種です。前世紀の間に、それはスペインで、「脆弱な」種であることとポルトガルで「絶滅危惧」、高い回帰を負いました。今日では、わずか約300オオカミは高い迫害のためにポルトガル、生息地の破壊や断片化があります。"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:12
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:56
 msgid "Study area in Portugal"
 msgstr "ポルトガルの学習エリア"
 
@@ -67,46 +69,6 @@ msgid ""
 "enthusiastic with the analytical capabilities QGIS provided, specially with "
 "GRASS integration."
 msgstr "その間に、私はLinuxの新しい世界に入りました。その後で私は、リベイラ・デペーニャでオオカミのための生態回廊をGISを使用してモデル化するのを支援するため何人かの研究者に連絡をとりました。彼らはこの種のソフトウェアで作業したことがなかったからです。私はすでにWindowsではなくLinuxを使用していたので、私の最初の問題はどのソフトウェアを使用するかでした。それから私はQGISの話を聞き、すでに知っていたものに比較すると、それは非常に単純かつ不完全に見えたが、それを試してみることにしました。すぐに私がいかに間違っていたかに気づき、QGIS提供の分析能力、特にGRASSの統合、に本当に大信者になりました。"
-
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:39
-msgid ""
-"Ecological corridors and critical conservation areas for wolves in northern "
-"Portugal."
-msgstr "ポルトガル北部のオオカミの生態系回廊と重要な保護区域。"
-
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:42
-msgid "Conclusion"
-msgstr "結論"
-
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:44
-msgid ""
-"Both QGIS and plugin GRASS are very intuitive with user-friendly interface, "
-"with all essential functions to perform most analysis. For what I could see,"
-" QGIS and GRASS perform equally as well as the proprietary programs I was "
-"most familiar with from college days, with the big advantage of free open-"
-"source software, usable in every computer or notebook without licenses, "
-"constant upgrades and the ultimate advantage to contribute to it's "
-"improvement and/or tip the developers about some essential function."
-msgstr "QGISとプラグインGRASSの両方とも、ユーザーフレンドリーなインターフェイスで、ほとんどの分析を実行するすべての重要な機能で、非常に直感的です。私が見るかぎりでは、QGISとGRASSは私が大学時代から精通した商用プログラムと同等に動作します。そして無料のオープンソースソフトウェアの大きな利点があります、ライセンスなしですべてのコンピュータやノートブックで使用可能、定期的なアップグレード、そして究極の利点はその向上に寄与したり、かつ／または、いくつかの重要な機能については開発者にお知らせする。"
-
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:46
-msgid ""
-"Changing to Linux and then to QGIS and GRASS was one of my best calls, and "
-"although there can be some missing issues, easily resolved in the future "
-"with the developers, I don't regret my decision and advise everyone to use "
-"them."
-msgstr "Linuxへの、そしてその後のQGISとGRASSへの転向は、私の最高の決断の一つでした。そして、いくつかの不足している問題、将来的に開発者と簡単に解決されるもの、はありえますが、私は私の決断を後悔しませんし、皆にそれらを使用することを勧めます。"
-
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:49
-msgid "Author"
-msgstr "制作者"
-
-#: ../../source/site/about/case_studies/portugal_ribeira.rst:58
-msgid ""
-"This article was contributed in July 2012 by Monica Almeida. She is "
-"conservation biologist working in an non-governmental organization in the "
-"preservation of wolf in Portugal."
-msgstr "この記事は、モニカ・アルメイダによって2012年7月に寄稿されました。彼女はポルトガルで狼の保全に非政府組織で働く保全生物学者です。"
 
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:20
 msgid ""
@@ -169,9 +131,61 @@ msgid ""
 "human impact in this species."
 msgstr "この作品で、私たちは、リベイラデペーナの自治体でオオカミのための潜在的な生態回廊で地図を得ました。これらは、種のための保全対策を計画する際に市議会の技術者によって考慮される分野です。彼らははるかに安定ペネダ・ジェレスとスペインからのものと連続している北部のもの、と南にヴィラレアルで脆弱なオオカミパックを接続することができますので、これらの回廊は非常に重要です。それは小さな村、都市や道路のように、特定の重要性から、人間の居住地を横断し、それらの回廊です。これらの領域は、オオカミの保全のための重要と考えられており、この種のヒトへの影響を軽減するための措置を適用する必要があります。"
 
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:39
+msgid "Ecological corridors and critical conservation areas for wolves"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:39
+msgid ""
+"Ecological corridors and critical conservation areas for wolves in northern "
+"Portugal."
+msgstr "ポルトガル北部のオオカミの生態系回廊と重要な保護区域。"
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:42
+msgid "Conclusion"
+msgstr "結論"
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:44
+msgid ""
+"Both QGIS and plugin GRASS are very intuitive with user-friendly interface, "
+"with all essential functions to perform most analysis. For what I could see,"
+" QGIS and GRASS perform equally as well as the proprietary programs I was "
+"most familiar with from college days, with the big advantage of free open-"
+"source software, usable in every computer or notebook without licenses, "
+"constant upgrades and the ultimate advantage to contribute to it's "
+"improvement and/or tip the developers about some essential function."
+msgstr "QGISとプラグインGRASSの両方とも、ユーザーフレンドリーなインターフェイスで、ほとんどの分析を実行するすべての重要な機能で、非常に直感的です。私が見るかぎりでは、QGISとGRASSは私が大学時代から精通した商用プログラムと同等に動作します。そして無料のオープンソースソフトウェアの大きな利点があります、ライセンスなしですべてのコンピュータやノートブックで使用可能、定期的なアップグレード、そして究極の利点はその向上に寄与したり、かつ／または、いくつかの重要な機能については開発者にお知らせする。"
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:46
+msgid ""
+"Changing to Linux and then to QGIS and GRASS was one of my best calls, and "
+"although there can be some missing issues, easily resolved in the future "
+"with the developers, I don't regret my decision and advise everyone to use "
+"them."
+msgstr "Linuxへの、そしてその後のQGISとGRASSへの転向は、私の最高の決断の一つでした。そして、いくつかの不足している問題、将来的に開発者と簡単に解決されるもの、はありえますが、私は私の決断を後悔しませんし、皆にそれらを使用することを勧めます。"
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:49
+msgid "Author"
+msgstr "制作者"
+
 #: ../../source/site/about/case_studies/portugal_ribeira.rst:56
 msgid "Monica Almeida"
 msgstr "モニカ・アルメイダ"
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:58
+msgid ""
+"This article was contributed in July 2012 by Monica Almeida. She is "
+"conservation biologist working in an non-governmental organization in the "
+"preservation of wolf in Portugal."
+msgstr "この記事は、モニカ・アルメイダによって2012年7月に寄稿されました。彼女はポルトガルで狼の保全に非政府組織で働く保全生物学者です。"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
 
 #~ msgid ""
 #~ "To model the ecological corridors, we used the QGIS along with the GRASS "

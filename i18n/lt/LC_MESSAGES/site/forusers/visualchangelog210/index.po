@@ -1,17 +1,18 @@
 # 
 # Translators:
-# Tomas Straupis, 2015-2016
+# Tomas Straupis, 2015-2016,2021
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-30 12:18+0100\n"
-"PO-Revision-Date: 2019-09-05 17:58+0000\n"
-"Last-Translator: Richard Duivenvoorde <richard@duif.net>\n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-09-08 07:59+0000\n"
+"Last-Translator: Tomas Straupis, 2015-2016,2021\n"
 "Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
 "Language: lt\n"
 "Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
 
@@ -75,13 +76,19 @@ msgid ""
 "From the QGIS community we hope you enjoy this release! If you wish to "
 "donate time, money or otherwise get involved in making QGIS more awesome, "
 "please wander along to `qgis.org <https://qgis.org>`__ and lend a hand!"
-msgstr ""
+msgstr "QGIS bendruomenė tikisi, kad jums patiks ši laida. Jei norite skirti laiko, pinigų ar kaip nors kitaip prisidėti prie QGIS tobulinimo, prašome apsilankyti `qgis.org <https://qgis.org>`__ ir padėti!"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:46
 msgid ""
 "Finally we would like to thank our official sponsors for the invaluable "
 "financial support they provide to this project:"
 msgstr "Taipogi norime padėkoti mūsų oficialiems sponsoriams už jų neįkainojamą šiam projektui teikiamą finansinę paramą."
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:49
+msgid ""
+"**GOLD Sponsor:** `Asia Air Survey, Japan, "
+"<http://www.asiaairsurvey.com/>`__"
+msgstr "**AUKSINIS rėmėjas:** `Asia Air Survey, Japonija, <http://www.asiaairsurvey.com/>`__"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:51
 msgid ""
@@ -117,6 +124,12 @@ msgstr "BRONZINIS rėmėjas: `www.argusoft.de, Vokietija <http://www.argusoft.de
 msgid ""
 "BRONZE Sponsor: `www.openrunner.com, France <http://www.openrunner.com>`__"
 msgstr "BRONZINIS rėmėjas: `www.openrunner.com, Prancūzija <http://www.openrunner.com>`__"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:64
+msgid ""
+"BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "
+"<http://www.gkg-kassel.de/>`__"
+msgstr "BRONZINIS sponsorius: `GKG Kassel,(Dr.-Ing. Claas Leiner), Vokietija <http://www.gkg-kassel.de/>`__"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:66
 msgid ""
@@ -204,7 +217,7 @@ msgid ""
 "<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ for "
 "details. Sponsoring QGIS helps us to fund our six monthly developer "
 "meetings, maintain project infrastructure and fund bug fixing efforts."
-msgstr ""
+msgstr "Dabartinių rėmėjų, daugiau ar mažiau prisidėjusių prie projekto, sąrašą rasite  `rėmėjų sąraše <https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__. Jei norėtumėte tapti oficialiu projekto rėmėju, prašome aplankyti `mūsų rėmimo puslapį <http://qgis.org/en/site/about/sponsorship.html#sponsorship>`__, kur rasite daugiau informacijos. QGIS parama leidžia mums finansuoti šešis mėnesinius vystytojų susitikimus, palaikyti projekto infrastruktūrą ir finansuoti klaidų taisymo pastangas."
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:101
 msgid ""
@@ -234,6 +247,10 @@ msgstr "Nuo šiol galima redaguoti sujungimo operacijos parametrus (tokius kaip 
 msgid "|image14|"
 msgstr "|image14|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:648
+msgid "image14"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:123
 msgid "Feature: Layers with joins can now be filtered"
 msgstr "Savybė: sluoksnius su sujungimais jau galima filtruoti"
@@ -248,6 +265,10 @@ msgstr "Iki 2.10 versijos sluoksnio filtruoti nebuvo galima, jei jis turi bent v
 #: ../../source/site/forusers/visualchangelog210/index.rst:129
 msgid "|image15|"
 msgstr "|image15|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:649
+msgid "image15"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:132
 msgid "Feature: General improvements"
@@ -290,6 +311,10 @@ msgstr "Patobulinta nuo duomenų priklausančių etikečių savybių lango sąsa
 msgid "|image16|"
 msgstr "|image16|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:650
+msgid "image16"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:149
 msgid "Feature: Improved handling of potential project file overwrites"
 msgstr "Savybė: pagerintas potencialių projekto failo perrašymų valdymas"
@@ -312,6 +337,10 @@ msgstr "**Šią savybę sukūrė:** `Jürgen Fischer (norBIT) <http://www.norbit
 #: ../../source/site/forusers/visualchangelog210/index.rst:159
 msgid "|image17|"
 msgstr "|image17|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:651
+msgid "image17"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:162
 msgid "Feature: New geometry engine"
@@ -352,6 +381,10 @@ msgstr "**Šią savybę finansavo:** `KantonSolothurn, Switzerland <http://www.s
 msgid "|image18|"
 msgstr "|image18|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:652
+msgid "image18"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:196
 msgid "Analysis tools"
 msgstr "Analizės įrankiai"
@@ -373,6 +406,10 @@ msgstr "Gali rodyti vektorinio sluoksnio arba pažymėjimo lauko arba išraiško
 msgid "|image1|"
 msgstr "|image1|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:635
+msgid "image1"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:211
 msgid "Feature: Use logarithmic functions in the raster calculator"
 msgstr "Savybė: rastro skaičiuotuve naudokite logaritmines funkcijas"
@@ -388,6 +425,10 @@ msgstr "Rastro skaičiuotuvas (QGIS meniu ``Rastras -> Rastro skaičiuotuvas``) 
 #: ../../source/site/forusers/visualchangelog210/index.rst:218
 msgid "|image2|"
 msgstr "|image2|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:636
+msgid "image2"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:221
 msgid "Feature: New zonal statistics features"
@@ -426,6 +467,10 @@ msgstr "Pastebėtina, kad zonų statistika yra „bazinis priedas“ (t.y. pried
 msgid "|image3|"
 msgstr "|image3|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:637
+msgid "image3"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:240
 msgid "Browser"
 msgstr "Naršyklė"
@@ -448,6 +493,10 @@ msgstr "Naudojant QGIS naršyklės prišliejamus skydelius (``Rodymas -> Skydeli
 msgid "|image4|"
 msgstr "|image4|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:638
+msgid "image4"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:256
 msgid "Feature: New browser icon"
 msgstr "Savybė: nauja naršyklės piktograma"
@@ -466,6 +515,10 @@ msgstr "QGIS naršyklė - tai atskira nepriklausoma aplikacija, leidžianti nar�
 #: ../../source/site/forusers/visualchangelog210/index.rst:266
 msgid "|image5|"
 msgstr "|image5|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:639
+msgid "image5"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:269
 msgid "Data Providers"
@@ -499,6 +552,10 @@ msgstr "**Šią savybę finansavo:** Morges, Uster, Vevey ir SIGE bendruomenės"
 #: ../../source/site/forusers/visualchangelog210/index.rst:291
 msgid "|image6|"
 msgstr "|image6|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:640
+msgid "image6"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:294
 msgid "Feature: PostGIS provider side expression filters"
@@ -536,6 +593,10 @@ msgstr "``QgsVectorLayer::getFeatures( expression )``"
 msgid "|image7|"
 msgstr "|image7|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:641
+msgid "image7"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:316
 msgid "Data management"
 msgstr "Duomenų valdymas"
@@ -571,6 +632,10 @@ msgstr "**Šią savybę finansavo:** `Usterio miestas, Šveicarija <http://gis.u
 msgid "|image8|"
 msgstr "|image8|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:642
+msgid "image8"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:336
 msgid "Feature: Line edit with auto-completer for ValueRelation edit widget"
 msgstr "Savybė: eilutės redagavimo automatinis pabaigimas skirtas ValueRelation redagavimo valdikliui"
@@ -585,6 +650,10 @@ msgstr "Vektorinių sluoksnių reikšmės ryšio redagavimo valdikliui (``Sluoks
 #: ../../source/site/forusers/visualchangelog210/index.rst:343
 msgid "|image9|"
 msgstr "|image9|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:643
+msgid "image9"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:346
 msgid "Feature: Improvements to DB Manager"
@@ -630,6 +699,10 @@ msgstr "**Šias savybes sukūrė**: Hugo Mercier / Oslandia"
 msgid "|image10|"
 msgstr "|image10|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:644
+msgid "image10"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:370
 msgid "Feature: Filter chaining for relation reference widget"
 msgstr "Savybė: filtrų susiejimas pririštų klasifikatorių valdikliui"
@@ -655,6 +728,10 @@ msgstr "**Šią savybę finansavo:** `SIGE <http://www.sige.ch/>`__"
 #: ../../source/site/forusers/visualchangelog210/index.rst:388
 msgid "|image11|"
 msgstr "|image11|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:645
+msgid "image11"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:391
 msgid "Diagrams"
@@ -693,6 +770,10 @@ msgstr "Diagramų klasės dabar rodomos sluoksnio legendoje"
 msgid "|image12|"
 msgstr "|image12|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:646
+msgid "image12"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:409
 msgid "Digitising"
 msgstr "Skaitmeninimas"
@@ -730,6 +811,10 @@ msgstr "pasukimo pririšimas apibrėžiamas ``CTRL+paspaudimu``, o ne pelės per
 msgid "|image13|"
 msgstr "|image13|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:647
+msgid "image13"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:428
 msgid "Labelling"
 msgstr "Etiketės"
@@ -750,6 +835,10 @@ msgstr "Įjungus šį režimą, etikečių lygiavimas priklauso nuo galutinės e
 #: ../../source/site/forusers/visualchangelog210/index.rst:440
 msgid "|image19|"
 msgstr "|image19|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:653
+msgid "image19"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:443
 msgid "Map Composer"
@@ -792,6 +881,10 @@ msgstr "**Šią savybę finansavo:** `Kanton Glarus, Šveicarija <http://geo.gl.
 #: ../../source/site/forusers/visualchangelog210/index.rst:465
 msgid "|image20|"
 msgstr "|image20|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:654
+msgid "image20"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:468
 msgid "Programmability"
@@ -839,6 +932,10 @@ msgstr "Priedai dabar gali sukurti savus įrašus naršyklės valdiklyje su dvej
 msgid "|image21|"
 msgstr "|image21|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:655
+msgid "image21"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:490
 msgid "QGIS Server"
 msgstr "QGIS Serveris"
@@ -871,6 +968,10 @@ msgstr "ir pakeisti tolerancijos reikšmes (taškais), kad jos atitiktų jūsų 
 msgid "|image22|"
 msgstr "|image22|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:656
+msgid "image22"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:514
 msgid "Symbology"
 msgstr "Simbologija"
@@ -888,6 +989,10 @@ msgstr "Kategorizuoto braižymo sudėtingesniame meniu pridėta parinktis nurody
 #: ../../source/site/forusers/visualchangelog210/index.rst:523
 msgid "|image23|"
 msgstr "|image23|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:657
+msgid "image23"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:526
 msgid "Feature: Vary symbol sizes using the graduated renderer"
@@ -917,13 +1022,17 @@ msgstr "**Šią savybę sukūrė:** `Vincent Mora (Oslandia) <http://www.oslandi
 #: ../../source/site/forusers/visualchangelog210/index.rst:565
 #: ../../source/site/forusers/visualchangelog210/index.rst:606
 msgid ""
-"**This feature was funded by:** `Agence de l'eau Adour-Garonne <http://www"
-".eau-adour-garonne.fr/>`__"
+"**This feature was funded by:** `Agence de l'eau Adour-Garonne "
+"<http://www.eau-adour-garonne.fr/>`__"
 msgstr "**Šią savybę finansavo:** `Agence de l'eau Adour-Garonne <http://www.eau-adour-garonne.fr/>`__"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:542
 msgid "|image24|"
 msgstr "|image24|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:658
+msgid "image24"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:545
 msgid ""
@@ -943,6 +1052,10 @@ msgstr "Ši parinktis (kurią rasite po sudėtingesniu simbolių meniu) išjungi
 msgid "|image25|"
 msgstr "|image25|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:659
+msgid "image25"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:555
 msgid ""
 "Feature: Size scale and rotation have been removed from the advanced menu"
@@ -961,6 +1074,10 @@ msgstr "Mes pašalinome ``Dydį`` ir ``Pasukimą`` iš ```Sluoksnis -> Savybės 
 msgid "|image26|"
 msgstr "|image26|"
 
+#: ../../source/site/forusers/visualchangelog210/index.rst:660
+msgid "image26"
+msgstr ""
+
 #: ../../source/site/forusers/visualchangelog210/index.rst:570
 msgid "Feature: Data defined properties for font marker"
 msgstr "Savybė: nuo duomenų priklausančios šrifto žymeklio savybės"
@@ -974,6 +1091,10 @@ msgstr "Dauguma šrifto žymeklio savybių dabar galima nustatyti pagal duomenis
 #: ../../source/site/forusers/visualchangelog210/index.rst:575
 msgid "|image27|"
 msgstr "|image27|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:661
+msgid "image27"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:578
 msgid "Feature: Visualise and modify the graduated renderer using a histogram"
@@ -1000,6 +1121,10 @@ msgstr "**Šią savybę sukūrė:** `Nyall Dawson <http://nyalldawson.net/>`__"
 #: ../../source/site/forusers/visualchangelog210/index.rst:588
 msgid "|image28|"
 msgstr "|image28|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:662
+msgid "image28"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:591
 msgid ""
@@ -1029,6 +1154,10 @@ msgstr "Padėjėją su peržiūra galima rasti per duomenų priklausymo mygtuką
 #: ../../source/site/forusers/visualchangelog210/index.rst:608
 msgid "|image29|"
 msgstr "|image29|"
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:663
+msgid "image29"
+msgstr ""
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:611
 msgid "Feature: Live layer effects for layers and symbol layers"
@@ -1064,17 +1193,21 @@ msgstr "**Šią savybę finansavo:** `minios-finansavimo iniciatyva <https://www
 msgid "|image30|"
 msgstr "|image30|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:49
-msgid ""
-"**GOLD Sponsor:** `Asia Air Survey, Japan, "
-"<http://www.asiaairsurvey.com/>`__"
-msgstr "**AUKSINIS rėmėjas:** `Asia Air Survey, Japonija, <http://www.asiaairsurvey.com/>`__"
+#: ../../source/site/forusers/visualchangelog210/index.rst:664
+msgid "image30"
+msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:64
-msgid ""
-"BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany <http://www"
-".gkg-kassel.de/>`__"
-msgstr "BRONZINIS sponsorius: `GKG Kassel,(Dr.-Ing. Claas Leiner), Vokietija <http://www.gkg-kassel.de/>`__"
+#: ../../source/site/forusers/visualchangelog210/index.rst:634
+msgid "image0"
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
 
 #~ msgid "**GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"
 #~ msgstr ""
