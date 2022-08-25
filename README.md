@@ -5,13 +5,13 @@
 [![HTML Build](https://github.com/qgis/QGIS-Website/workflows/HTML%20build/badge.svg?branch=master)](https://github.com/qgis/QGIS-Website/actions?query=branch%3Amaster+workflow%3A%22HTML+build%22)
 [![Build Status](https://travis-ci.org/qgis/QGIS-Website.svg?branch=master)](https://travis-ci.org/qgis/QGIS-Website)
 
-Website is a static generated website using Sphinx (http://sphinx-doc.org/), 
+Website is a static generated website using Sphinx (http://sphinx-doc.org/),
 based on restructured text sources (rst: http://docutils.sourceforge.net/rst.html)
 and html (jinja2) templates.
 
 Most sources are in source/site. Only frontpage and landing pages are in theme/qgis-theme
 
-Styling is in theme/qgis-theme. This theme is used for website and documentation builds. 
+Styling is in theme/qgis-theme. This theme is used for website and documentation builds.
 The Website version is the canonical one.
 
 
@@ -34,7 +34,7 @@ open http://localhost/en/site/
 
 TLDR: `cd QGIS-Website && ./docker-run.sh html `
 
-Note: you will use a QGIS docker image from hub.docker.com, created with the dockerfile from: 
+Note: you will use a QGIS docker image from hub.docker.com, created with the dockerfile from:
 
 https://github.com/qgis/QGIS-Sysadmin/blob/master/docker/sphinx/Dockerfile-html
 
@@ -51,7 +51,7 @@ Start a command box (on Windows: double click the boot2docker icon on desktop, y
 Verify that Docker/Boot2docker is working by typing:
 
     docker run hello-world
-  
+
 If all goes ok, it will download a small Docker image and you will have an output like this:
 
     richard@kwik~$ docker run hello-world
@@ -78,17 +78,17 @@ either your own fork or the original QGIS repo like here:
     /home/richard/dev/QGIS-Website
     # on Win7 and Win8 I had:
     /c/Users/richard/dev/QGIS-Website
- 
-We are now going to use that QGIS-Website directory as the source and output directory for the 
+
+We are now going to use that QGIS-Website directory as the source and output directory for the
 Docker 'virtual machine' that will build the site.
 We will start this Docker container with a command line like below:
 
     docker run -t -i -v /home/richard/dev/QGIS-Website:/QGIS-Website -w=/QGIS-Website --rm=true qgis/sphinx_html_3 make html
- 
+
 Where "docker run -t -i qgis/sphinx_html_3 make html" means: "run a Docker container/process based on the qgis/sphinx_html_3 image available online, call make in the working directory of the container, with parameter 'html', meaning: only build english html"
 
 "-v /home/richard/dev/QGIS-Website:/QGIS-Website" means: use the directory "/home/richard/dev/QGIS-Website" as a virtual directory in the container and name it '/QGIS-Website'
-  
+
 "-w=/QGIS-Website" means that it is to be used as the working dir of Docker
 
 "--rm=true" means remove the container after the build
@@ -114,7 +114,7 @@ The contents of this file should be like this:
     [https://www.transifex.com]
     hostname = https://www.transifex.com
     password = yourpasswordhere
-    token = 
+    token =
     username = yourusernamehere
 
 Copy this file to the root of your repo. With me, that is /home/richard/dev/QGIS-Website. NOW you can run it using 'make full' and a LANG parameter like this:
@@ -128,7 +128,7 @@ Besides this, you can also have a look into the scripts docker-run.sh and docker
 
 Building is only tested on Linux systems using make, on windows we now started a Paver setup (see below)
 
-To be able to run localisation targets you will need Sphinx 1.2 which comes with pip. 
+To be able to run localisation targets you will need Sphinx 1.2 which comes with pip.
 Sphinx coming with most distro's is just 1.1.3. You will get a gettext error with those.
 
 Best to run the make file in a virtual env ( http://www.virtualenv.org/ ):
@@ -140,7 +140,7 @@ Move to a directory (~/myvirtualenvs/) and create a virtualenv enabled dir:
 
 And activate this virtualenv
 
-    source bin/activate 
+    source bin/activate
     # now you will see sphinx before your prompt:
     (sphinx)richard@mymachine
 
@@ -167,7 +167,7 @@ Then build:
     make html (to build the english language)
     make LANG=nl html (to build the dutch version)
 
-If you want add the QGIS-Documentation docs into the build, you either need to manually copy the sources, resources 
+If you want add the QGIS-Documentation docs into the build, you either need to manually copy the sources, resources
 and po files into the website project. Or use the fullhtml target of make (which will checkout the 2.0 branch):
 
     # to build english:
@@ -175,7 +175,7 @@ and po files into the website project. Or use the fullhtml target of make (which
     # to build eg dutch:
     make LANG=nl fullhtml
 
-To gather new strings in a pot (.po) file for your language, and merge them with 
+To gather new strings in a pot (.po) file for your language, and merge them with
 excisting translations in the po files (normally to be ran by your language maintainer):
 
     make pretranslate LANG=xx  # where xx is your language code
@@ -200,9 +200,9 @@ There are two scripts available:
 
 General use:
 
-    # first let bootstrap.py install all stuff    
+    # first let bootstrap.py install all stuff
     python bootstrap.py
-    
+
     # if the script is complaining about easysetup missing:
     # download: https://bitbucket.org/pypa/setuptools/raw/bootstrap/ez_setup.py
     # and install that first:
@@ -213,13 +213,13 @@ General use:
     you just need to:
     # 1) activate a virtual environment with all Sphinx related python machinery
     # 2) run the actual script to build the website
-    
+
     # to go into the virtual environment:
     # on Windows:
     virtualenv\Scripts\activate
     # on Linux:
     source virtualenv/bin/activate
-    
+
     # now build (only website, no included Documentation yet):
     # eg english only:
     paver html
@@ -231,14 +231,14 @@ On linux, install with::
 
 	# note that we use a slightly older version of tx
 	pip install transifex-client==0.9
-	
+
 On Windows, you should download it from: http://files.transifex.com/transifex-client/0.10/tx.exe
-see http://support.transifex.com/customer/portal/articles/998120-client-on-windows	
+see http://support.transifex.com/customer/portal/articles/998120-client-on-windows
 
 To make tx.exe usable in the paver script, either put it IN this directory next to the pavement.py file, OR add it to your PATH
 
-IMPORTANT: to be able to pull from transifex.com, you will need a credentials file. 
-This file should be named: ``.transifexrc`` and easiest is to put it in your home dir C:/users/you. 
+IMPORTANT: to be able to pull from transifex.com, you will need a credentials file.
+This file should be named: ``.transifexrc`` and easiest is to put it in your home dir C:/users/you.
 Another option is to put it in the root of this project, but be carefull to not put your credentials in Github :-)
 
 The file should contain this::
@@ -246,18 +246,18 @@ The file should contain this::
 	[https://www.transifex.com]
 	hostname = https://www.transifex.com
 	password = yourtransifexpassword
-	token = 
+	token =
 	username = yourtransifexusername
 
-With a working tx and a .transifexrc, you should be able to build for example the german version of docs via::	
+With a working tx and a .transifexrc, you should be able to build for example the german version of docs via::
 
     # german:
     paver html -l de
-    
+
 During the build you will see this command::
 
 	tx pull --minimum-perc=1 --skip -f -l de
-	
+
 This will pull all german po files from transifex (based on the .tx/config file in the root of this project)
 
 
@@ -267,8 +267,8 @@ Most javascript and css is in theme/qgis-style/ files.
 
 theme/qgis-style/qgis-style.css is based on Less (see http://lesscss.org/ )
 
-To make changes to CSS on MacOsx
- 
+To make changes to CSS on MacOSX
+
     download / install / open Less app (http://incident57.com/less/)
     in Finder navigate to themes/qgis-theme/static/
     drag qgis-style.less file to the Less app
@@ -288,9 +288,9 @@ To make changes on cli Linux
     lessc qgis-style.less > qgis-style.css
     # optional: compress the css
     yui-compressor -o qgis-style.css qgis-style.css
-    
-    
-## Publishing safely using rsync    
+
+
+## Publishing safely using rsync
 
 In this section we describe how you can set up a small cloud server to receive the static content produced by sphinx, suitable for publishing on the internet.
 
@@ -307,11 +307,11 @@ The configuration of this server is simple: We set up a non-privaledged user tha
 ```
 useradd runner -m -d /home/runner
 su - runner
-mkdir .ssh 
+mkdir .ssh
 chmod 0600 .ssh
 cd .ssh/
 rm id_rsa*
-echo  'command="/usr/bin/rrsync -wo /mnt/HC_Volume_22264126" ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMOvAYYgDA2LqWFSgk2YaoTf29KrFjcoj3qsnO+B37jt noreply@qgis.org' > authorized_keys
+echo 'command="/usr/bin/rrsync -wo /mnt/HC_Volume_22264126" ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDAca8gta0y4esFE8Ro9nq9uOPWvd9+M7kK9DZ84tIxI runner@qgis' > authorized_keys
 chmod 0600 authorized_keys
 exit
 chown runner /mnt/HC_Volume_22264126
@@ -370,6 +370,3 @@ sudo certbot --nginx
 Then open the site in your browser to test:
 
 ![image](https://user-images.githubusercontent.com/178003/185943941-86c3e444-ed49-4c58-bf42-5e39b8fe9e68.png)
-
-
-
