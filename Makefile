@@ -120,7 +120,7 @@ pulldocsources:
 
 html: localizeresources p-html
 
-p-html: output/html/version.txt output/html/version-ltr.txt source/site/getinvolved/development/schedule.inc source/schedule.py
+p-html: output/html/version.txt output/html/version-ltr.txt source/site/getinvolved/development/schedule.inc source/schedule.py $(BUILDDIR)/../schedule.ics
 	$(SPHINXINTL) --config $(SOURCEDIR)/conf.py build --language=$(LANG)
 
 	# ONLY in the english version run in nit-picky mode, so source errors/warnings will fail in CI
@@ -137,6 +137,9 @@ p-html: output/html/version.txt output/html/version-ltr.txt source/site/getinvol
 output/html/version.txt output/html/version-ltr.txt: source/conf.py source/schedule.py
 	mkdir -p $(BUILDDIR)
 	$(PYTHON) scripts/mkversion.py
+
+$(BUILDDIR)/../schedule.ics: source/schedule.ics
+	cp -u $< $@
 
 fullhtml: pulldocsources html
 
