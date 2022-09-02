@@ -123,7 +123,7 @@ p,
 li,
 table,
 .button {
-  font-size: .9rem;
+  font-size: 0.9rem;
   line-height: 1.4rem;
 }
 pre,
@@ -267,7 +267,7 @@ select#languages option {
   height: 60px;
   text-indent: -9999px;
   padding: 0 !important;
-  margin-left: .1%;
+  margin-left: 0.1%;
   background: transparent url("logo.png") no-repeat 0 0 !important;
   background-size: 60px !important;
 }
@@ -713,6 +713,9 @@ section.content h4 {
   border-radius: 4px;
   padding: 20px 9px;
   margin: 15px 0px;
+}
+#downloads #windows .accordion-inner.centered .card {
+  border: none;
 }
 #downloads .app-name {
   padding-top: 15px;
