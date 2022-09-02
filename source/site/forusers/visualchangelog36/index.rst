@@ -6,6 +6,8 @@ Changelog for QGIS 3.6
 
 |image1|
 
+Release date: 2019-02-24
+
 The greatest QGIS release ever! QGIS 3.6 brings a massive list of new changes - the highlights of which we will try to cover here. As always can we remind you that QGIS is an open source project and if you are able to, consider supporting our work through donations, sponsorship or contributions to the code documentation, web site and so on.
 
 Thanks

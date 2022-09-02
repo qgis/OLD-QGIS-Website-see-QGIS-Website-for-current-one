@@ -6,6 +6,8 @@ Changelog for QGIS 2.14
 
 |image1|
 
+Release date: 2016-02-29
+
 This is the changelog for the next release of QGIS - version 2.14 'Essen'.
 Essen was the host city to our developer meet ups in October 2012 and 2014.
 

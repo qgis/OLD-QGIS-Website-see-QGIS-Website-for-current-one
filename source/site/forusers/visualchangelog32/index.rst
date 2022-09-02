@@ -6,6 +6,8 @@ Changelog for QGIS 3.2
 
 |image1|
 
+Release date: 2018-06-22
+
 The greatest QGIS release ever! QGIS 3.2 brings a massive list of new changes - the highlights of which we will try to cover here. As always can we remind you that QGIS is an open source project and if you are able to, consider supporting our work through `donations <https://donate.qgis.org>`__, :ref:`sustaining memberships <QGIS_sustaining_memberships>` or contributions to the code documentation, web site and so on.
 
 

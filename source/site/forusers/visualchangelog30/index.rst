@@ -6,6 +6,7 @@ Changelog for QGIS 3.0
 
 |image1|
 
+Release date: 2018-02-23
 
 The greatest QGIS release ever! QGIS 3.0 is a huge overhaul and cleanup of our beloved Open Source GIS. QGIS 3.0 brings a massive list of new changes - the highlights of which we will try to cover here. As always can we remind you that QGIS is an open source project and if you are able to, consider supporting our work through `donations <http://www.qgis.org/en/site/getinvolved/donations.html?highlight=donate>`__, `sponsorship <http://www.qgis.org/en/site/getinvolved/governance/sponsorship/sponsorship.html>`__ or contributions to the code documentation, web site and so on.
 

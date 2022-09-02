@@ -4,6 +4,8 @@
 Changelog for QGIS 2.8
 =======================
 
+Release date: 2015-03-02
+
 This is the change log for the next release of QGIS - version 2.8 ' Wien'. Wien is German for 'Vienna' - host city to our developer meet up in November 2009 and again in March 2014.
 
 **Long Term Release**

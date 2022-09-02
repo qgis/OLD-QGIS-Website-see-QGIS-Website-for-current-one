@@ -5,6 +5,8 @@ Changelog for QGIS 3.22
 
 |image1|
 
+Release date: 2021-10-30
+
 QGIS 3.22 Białowieża is aimed at celebrating the 100-year anniversary of `Białowieża National Park <https://en.wikipedia.org/wiki/Bia%C5%82owie%C5%BCa_National_Park>`__, Poland, which was established in 1921. `Białowieża Forest <https://en.wikipedia.org/wiki/Bia%C5%82owie%C5%BCa_Forest>`__ is one of the world’s last primary woodlands, located on the border between Poland and Belarus. It is one of the few natural old-growth forests in temperate lowland Europe and has been protected for over 600 years. The outstanding value of Białowieża Forest has been acknowledged by its recognition as a `UNESCO Natural World Heritage Site <https://whc.unesco.org/en/list/33>`__.
 
 Białowieża Forest is named after the village Białowieża, which is located right in the middle of this woodland. It is one of the oldest settlements in the area, nowadays hosting numerous research and tourism activities. Today, there are three research institutions in the village: `Białowieża Geobotanical Station, University of Warsaw <https://bsg.bialowieza.pl/en/>`__, `The Mammal Research Institute, Polish Academy of Sciences <https://ibs.bialowieza.pl/en/>`__, and the `Forest Research Institute, Department of Natural Forests <https://www.ibles.pl/en/web/guest/home>`__. Additionally, a large number of scientists from Poland and abroad travel to Białowieża in order to carry out their studies, and as such, there are also other users of QGIS in the area, as well as additional projects which contribute to the Open Data and Open Source Software ecosystems, such as the `Open Forest Data <https://openforestdata.pl/>`__ project.

@@ -5,6 +5,8 @@
 Changelog for QGIS 2.0
 ======================
 
+Release date: 2013-09-20
+
 .. contents::
    :local:
 

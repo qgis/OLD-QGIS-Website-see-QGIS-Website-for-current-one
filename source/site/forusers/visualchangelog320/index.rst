@@ -5,6 +5,8 @@ Changelog for QGIS 3.20
 
 |image1|
 
+Release date: 2021-06-22
+
 QGIS 3.20 Odense features a splash screen which displays a section of `the earliest map <http://www5.kb.dk/maps/kortsa/2012/jul/kortatlas/object80440/en/>`__ of Denmark’s third largest city, `Odense <https://en.wikipedia.org/wiki/Odense>`__ from 1593. The map was published by `Georg Braun <https://en.wikipedia.org/wiki/Georg_Braun>`__ (1541-1622) in the work *Civitates orbis terrarum* (Cities of the World). Georg Braun’s maps are all beautiful and were, for the period, produced at a high cartographic level. *Civitates orbis terrarum* was long the main source of maps of the world’s cities, such as `Paris <http://www5.kb.dk/maps/kortsa/2012/jul/kortatlas/object62269/en/>`__, `London <http://www5.kb.dk/maps/kortsa/2012/jul/kortatlas/object62684/en/>`__, `Mexico City <http://www5.kb.dk/maps/kortsa/2012/jul/kortatlas/object62261/en/>`__ and `Aden <http://www5.kb.dk/maps/kortsa/2012/jul/kortatlas/object62257/en/>`__.
 
 The name Odense literally means “Odin’s temple”, and the place may have originally been a shrine to the pagan god Odin. At the bottom left of the map you see the ruins of one of the large Viking-Age ring-shaped fortress, which were constructed in Denmark by the Danish Viking king `Harald Bluetooth <https://en.wikipedia.org/wiki/Harald_Bluetooth>`__ (died c. 985/86). The ring fortress in Odense is called `Nonnebakken <https://odensebysmuseer.dk/nonnebakken-the-viking-ring-fortress-in-time-and-space/?lang=en>`__.

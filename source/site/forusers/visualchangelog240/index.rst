@@ -3,6 +3,8 @@
 Changelog for QGIS 2.4
 ======================
 
+Release date:  2014-06-27
+
 Change log for the next release of QGIS 2.4.0. The emphasis on this
 release has been very much on polish and performance - we have added
 many new features, tweaks and enhancements to make the user interface
