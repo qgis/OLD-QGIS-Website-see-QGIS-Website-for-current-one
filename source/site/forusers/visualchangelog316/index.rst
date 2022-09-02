@@ -5,6 +5,8 @@ Changelog for QGIS 3.16
 
 |image1|
 
+Release date: 2020-10-27
+
 Another great day for the QGIS project! The new long term support release brings a wide range of features to both QGIS Desktop and QGIS Server. This release brings a wealth of new options for 3D mapping, mesh generation from other data types, additional spatial analysis tools, symbology and user interface enhancements to name but a few! A host of tools have been incorporated into the ever-expanding processing framework, and the QGIS browser now supports advanced database interaction functionality that was previously reserved for the DB Manager plugin. These are a few of the improvements that have been introduced from this release, and users of the previous LTS will find a massive number of new features available since 3.10. We are pleased to detail some of the additional highlights of this new release below.
 
 **Thanks**
