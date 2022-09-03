@@ -25,13 +25,29 @@ which we strongly urge users to test**.
 Windows
 =======
 
-For Windows installers please go to
-`The main installers page <./download.html>`_.
+There are two options for installations on Windows.  For beginners the easiest way is using the standalone installers:
 
-For new users we recommend the standalone installers.
++-------------------+------------------------------+------------------------------------------------+
+| Release           | Version                      | Package                                        |
++===================+==============================+================================================+
+| Latest Release    | |release| |codename|         | `Installer <lr_msi_>`_ `Checksum <lr_sha_>`_   |
+|                   | |releasenote|                |                                                |
++-------------------+------------------------------+------------------------------------------------+
+| Long Term Release | |ltrrelease| |ltrcodename|   | `Installer <ltr_msi_>`_ `Checksum <ltr_sha_>`_ |
+|                   | |ltrnote|                    |                                                |
++-------------------+------------------------------+------------------------------------------------+
+| Development       | |devversion| master          | `Weekly snapshots <weekly_msi_>`_              |
++-------------------+------------------------------+------------------------------------------------+
 
-For more advanced QGIS users you can use OSGeo4W packages, which make it
-possible to install several versions in parallel.
+See also `The main installers page <./download.html>`_.
+
+The weekly snapshots of the nightly qgis-dev package of OSGeo4W are for users
+that cannot use OSGeo4W for some reason or just prefer standalone installers.
+In the feature freeze phase that also acts as **release candidate**.
+
+More advanced QGIS users should use OSGeo4W packages, which for one make it
+possible to install several versions in parallel and also to do much more
+efficient updates as only changed components are installed,
 
 The OSGeo4W repository contains a lot of software from OSGeo projects.
 QGIS and all dependencies are included, along with Python, GRASS, GDAL, etc.
@@ -61,20 +77,8 @@ Steps are:
 
 .. [1] Nightlies are debug builds (including debugging output)
 
-.. _QGIS-windows-weekly:
-
-For users that cannot use OSGeo4W for some reason or just prefer it there is
-also a `weekly snapshot <https://download.osgeo.org/qgis/windows/weekly/?C=M&O=D>`_ of
-qgis-dev from OSGeo4W as *standalone installer* (taken on monday).  In the
-feature freeze phase that also acts as **release candidate**.
-
 Before installing any of the nightly builds note the warning_.
 
-.. note:: Don't blindly do a full install of OSGeo4W. Only install QGIS and
-   maybe other components you like.  Dependencies will be included
-   automatically.  A full install pulls in components that require third party
-   additions, which need to be installed manually.  These components render the
-   installation unusable without those additions.
 
 Linux
 =====

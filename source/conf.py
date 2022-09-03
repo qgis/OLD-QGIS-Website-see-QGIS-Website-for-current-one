@@ -218,7 +218,7 @@ docs_rst_epilog = ""
 if "rst_epilog" in locals():
     docs_rst_epilog = rst_epilog  # NOQA
 
-rst_epilog = docs_rst_epilog + """
+rst_epilog = docs_rst_epilog + f"""
 .. |checkbox| image:: /static/site/common/checkbox.png
 .. |checkbox_unchecked| image:: /static/site/common/checkbox_unchecked.png
 .. |QG| replace:: QGIS
@@ -226,21 +226,26 @@ rst_epilog = docs_rst_epilog + """
 .. |yeartag| date:: %%Y
 .. |devcite| raw:: html
 
-     <a href="https://docs.qgis.org/%s/en/docs/developers_guide/index.html"> https://docs.qgis.org/%s/en/docs/developers_guide/index.html</a>
+     <a href="https://docs.qgis.org/{ltrversion}/en/docs/developers_guide/index.html"> https://docs.qgis.org/{ltrversion}/en/docs/developers_guide/index.html</a>
 
 .. |userguidecite| raw:: html
 
-     <a href="https://docs.qgis.org/%s/en/docs/user_manual/index.html"> https://docs.qgis.org/%s/en/docs/user_manual/index.html</a>
+     <a href="https://docs.qgis.org/{ltrversion}/en/docs/user_manual/index.html"> https://docs.qgis.org/{ltrversion}/en/docs/user_manual/index.html</a>
 
 .. |servercite| raw:: html
 
-     <a href="https://docs.qgis.org/%s/en/docs/server_manual/index.html"> https://docs.qgis.org/%s/en/docs/server_manual/index.html</a>
+     <a href="https://docs.qgis.org/{ltrversion}/en/docs/server_manual/index.html"> https://docs.qgis.org/{ltrversion}/en/docs/server_manual/index.html</a>
 
 .. |apicite| raw:: html
 
-     <a href="https://qgis.org/pyqgis/%s/index.html"> https://qgis.org/pyqgis/%s/index.html</a>
+     <a href="https://qgis.org/pyqgis/{ltrversion}/index.html"> https://qgis.org/pyqgis/{ltrversion}/index.html</a>
 
-"""% (ltrversion, ltrversion, ltrversion, ltrversion,ltrversion, ltrversion, ltrversion, ltrversion)
+.. _lr_msi: https://qgis.org/downloads/QGIS-OSGeo4W-{release}-{binary}.msi
+.. _lr_sha: https://qgis.org/downloads/QGIS-OSGeo4W-{release}-{binary}.sha256sum
+.. _ltr_msi: https://qgis.org/downloads/QGIS-OSGeo4W-{ltrrelease}-{ltrbinary}.msi
+.. _ltr_sha: https://qgis.org/downloads/QGIS-OSGeo4W-{ltrrelease}-{ltrbinary}.sha256sum
+.. _weekly_msi: https://download.osgeo.org/qgis/windows/weekly/?C=M&O=D
+"""
 
 # -- Options for LaTeX output --------------------------------------------------
 
@@ -357,7 +362,9 @@ context = {
     'binary': binary,
     'ltrbinary': ltrbinary,
     'infeaturefreeze': infeaturefreeze,
-    'stripeformurl': '/stripe/form'
+    'stripeformurl': '/stripe/form',
+    'lr_msi': f"https://qgis.org/downloads/QGIS-OSGeo4W-{release}-{binary}.msi",
+    'ltr_msi': f"https://qgis.org/downloads/QGIS-OSGeo4W-{ltrrelease}-{ltrbinary}.msi",
 }
 
 rst_epilog += "\n".join(map(lambda x: ".. |%s| replace:: %s" % (x, context[x]), context.keys()))

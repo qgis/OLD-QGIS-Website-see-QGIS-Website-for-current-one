@@ -36,25 +36,22 @@
                   </div>
                   <div id="windows" class="accordion-body collapse in">
                     <div class="accordion-inner centered">
-                      <a class="btn btn-large btn-success" href="https://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-{{ binary|e }}.msi">
+                      <a class="btn btn-large btn-success" href="{{ lr_msi|e }}">
                         <div class="primary-download-button">
-                          <div class="{{ "qgis{}-download".format( "2" if version.startswith("2.") else "" ) }}"></div>
+                          <div class="qgis-download"></div>
                           <div class="download-text">{{ _('QGIS Standalone Installer Version %s')|format( version ) }}</div>
                         </div>
                       </a>
-                      <a class="secondary-download-link" href="https://qgis.org/downloads/QGIS-OSGeo4W-{{ ltrrelease|e }}-{{ ltrbinary|e }}.msi">
-                        {{ _('Looking for Long Term Support ? Get QGIS Version %s')|format( ltrversion ) }} LTR
+                      <a class="secondary-download-link" href="{{ lr_msi|e }}">
+                        {{ _('Looking for Long Term Support ? Get QGIS Version %s %s')|format( ltrversion, ltrnote ) }}
                       </a>
-                      <p>{{ _('Standalone installers are recommended for new users. <em>Requires Windows 8 64 bit or higher because QGIS requires Python 3.9 or later, which is not available for Windows 7.') }} </em></p>
+                      <p>{{ _('The standalone installers are recommended for new users.') }}</p>
                       <br/>
                       <a class="secondary-download-link" href="https://download.osgeo.org/osgeo4w/v2/osgeo4w-setup.exe">
-                        {{ _('All in one OSGeo4W Network Installer') }}
+                        {{ _('OSGeo4W Network Installer') }}
                       </a>
-                      <p>{{_('OSGeo4W installer is recommended for regular users or organization deployments. <em>It allows to have several QGIS versions in one place, and to update each library without downloading the whole package. .')}}</em></p>
-    <!--
-    <strong><font color="red"><em>{{ _('CAUTION') }}:</em></font></strong> {{ _('Upgrades of old setups from OSGeo4W v1 using this repository are not supported. You need to do a fresh install or use a different directory.') }}<br/>
-    <strong><font color="red"><em>{{ _('CAUTION') }}:</em></font></strong> {{ _('32 bit binaries are not produced anymore.  Also Windows 7 no longer works as we are now using Python 3.9, which dropped support for it.') }}<br/>
-    -->
+                      <p>{{ _('The OSGeo4W installer is recommended for regular users or organization deployments. <em>It allows to have several QGIS versions in one place, and keep up-to-date each component individually without having to download the whole package.') }}</p>
+		      <p><strong><em>{{ _('QGIS requires Windows 8 64 bit or higher because QGIS uses Python 3.9 or later, which is not available for Windows 7.') }}</em></strong></p>
                     </div>
                   </div>
                 </div>
@@ -69,7 +66,7 @@
                     <div class="accordion-inner centered">
                       <a class="btn btn-large btn-success" href="https://qgis.org/downloads/macos/qgis-macos-pr.dmg">
                         <div class="primary-download-button">
-                          <div class="{{ "qgis{}-download".format( "2" if version.startswith("2.") else "" ) }}"></div>
+                          <div class="qgis-download"></div>
                           <div class="download-text">{{ _('QGIS All-In-One Signed Installer Version %s')|format( version ) }}</div>
                         </div>
                       </a>
