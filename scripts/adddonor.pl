@@ -24,7 +24,7 @@ while(<>) {
 open O, ">source/site/about/donors.inc";
 print O ".. list-table:: List of Donors\n\n";
 
-my $cols = 3;
+my $cols = 4;
 
 my $i=0;
 foreach ( sort { lc($a) cmp lc($b) } keys %donors ) {
