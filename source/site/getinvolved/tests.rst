@@ -5,20 +5,19 @@ Tests
 
 Both QGIS and QGIS server are being tested via all kind of ways.
 
-From build tests (Travis) and code unit tests to OGC conformance testing.
+From build tests (github workflows) and code unit tests to OGC conformance testing.
 
 Travis
 ......
 
-.. image:: https://travis-ci.org/qgis/QGIS.svg?branch=master
-    :target: https://travis-ci.org/qgis/QGIS
+.. image:: https://github.com/qgis/QGIS/workflows/QGIS%20tests/badge.svg
+    :target: https://github.com/qgis/QGIS/actions/workflows/run-tests.yml?query=branch%3Amaster+event%3Apush
 
 Docker
 ......
 
 .. image:: https://img.shields.io/docker/automated/qgis/qgis.svg
-    :target: https://cloud.docker.com/app/qgis/repository/docker/qgis/qgis/general
-
+    :target: https://hub.docker.com/r/qgis/qgis/tags
 
 Unit tests
 ..........
