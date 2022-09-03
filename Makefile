@@ -127,7 +127,7 @@ p-html: output/html/version.txt output/html/version-ltr.txt source/site/getinvol
 	#  -n   Run in nit-picky mode. Currently, this generates warnings for all missing references.
 	#  -W   Turn warnings into errors. This means that the build stops at the first warning and sphinx-build exits with exit status 1.
 	@if [ $(LANG) != "en" ]; then \
-		$(SPHINXBUILD) -j$(JOBS) -b html $(ALLSPHINXOPTS) $(BUILDDIR); \
+		$(SPHINXBUILD)       -j$(JOBS) -b html $(ALLSPHINXOPTS) $(BUILDDIR); \
 	else \
 		$(SPHINXBUILD) -n -W -j$(JOBS) -b html $(ALLSPHINXOPTS) $(BUILDDIR); \
 	fi
@@ -139,6 +139,7 @@ output/html/version.txt output/html/version-ltr.txt: source/conf.py source/sched
 	$(PYTHON) scripts/mkversion.py
 
 $(BUILDDIR)/../schedule.ics: source/schedule.ics
+	mkdir -p $(BUILDDIR)
 	cp -u $< $@
 
 fullhtml: pulldocsources html
