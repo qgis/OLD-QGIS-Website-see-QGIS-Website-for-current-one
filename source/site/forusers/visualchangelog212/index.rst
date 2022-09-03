@@ -5,7 +5,7 @@ Changelog for QGIS 2.12
 
 |image1|
 
-Release date: 2015-10-26
+Release date: 2015-10-23
 
 This is the change log for the next release of QGIS - version 2.12.0
 'Lyon' - host city to our developer meet up in April 2012.

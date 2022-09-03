@@ -5,7 +5,7 @@ Changelog for QGIS 3.26
 
 |image1|
 
-Release date: 2022-06-24
+Release date: 2022-06-17
 
 The feature-packed release of QGIS 3.26 Buenos Aires includes a vast number of enhancements to a range of advanced core functionalities. This includes numerous improvements to 3D capabilities, improved tooling for point clouds, and the introduction of a new profile plotting framework for the creation of cross-sections and elevation profiles. Best of all, the new plotting framework uses the native QGIS rendering capabilities and comes with all the styling, symbology, and data driven properties we all know and love baked right in!
 

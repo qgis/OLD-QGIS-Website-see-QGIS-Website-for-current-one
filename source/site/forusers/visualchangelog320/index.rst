@@ -5,7 +5,7 @@ Changelog for QGIS 3.20
 
 |image1|
 
-Release date: 2021-06-22
+Release date: 2021-06-18
 
 QGIS 3.20 Odense features a splash screen which displays a section of `the earliest map <http://www5.kb.dk/maps/kortsa/2012/jul/kortatlas/object80440/en/>`__ of Denmark’s third largest city, `Odense <https://en.wikipedia.org/wiki/Odense>`__ from 1593. The map was published by `Georg Braun <https://en.wikipedia.org/wiki/Georg_Braun>`__ (1541-1622) in the work *Civitates orbis terrarum* (Cities of the World). Georg Braun’s maps are all beautiful and were, for the period, produced at a high cartographic level. *Civitates orbis terrarum* was long the main source of maps of the world’s cities, such as `Paris <http://www5.kb.dk/maps/kortsa/2012/jul/kortatlas/object62269/en/>`__, `London <http://www5.kb.dk/maps/kortsa/2012/jul/kortatlas/object62684/en/>`__, `Mexico City <http://www5.kb.dk/maps/kortsa/2012/jul/kortatlas/object62261/en/>`__ and `Aden <http://www5.kb.dk/maps/kortsa/2012/jul/kortatlas/object62257/en/>`__.
 

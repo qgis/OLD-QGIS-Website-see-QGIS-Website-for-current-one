@@ -6,7 +6,7 @@ Changelog for QGIS 3.10
 
 |image1|
 
-Release date: 2019-11-02
+Release date: 2019-10-25
 
 QGIS 3.10 brings an extensive list of new changes and a lot of polishing of existing features - the highlights of which we will try to cover here. As always can we remind you that QGIS is an open source project and if you are able to, consider supporting our work through donations or contributions to the code documentation, web site and so on.
 

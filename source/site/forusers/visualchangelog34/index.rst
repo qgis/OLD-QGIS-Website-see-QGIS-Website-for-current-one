@@ -6,7 +6,7 @@ Changelog for QGIS 3.4 LTR
 
 |image0|
 
-Release date: 2018-10-28
+Release date: 2018-10-26
 
 The first long-term release (LTR) of QGIS 3. QGIS 3.4 just released. After five consolidation point releases (3.4.5) it will replace the previous LTR in the package repositories in February 2019 (see :ref:`release schedule <QGIS-release-schedule>`).
 This is a giant leap forward for the project - our first Long Term Release based on the 3.x platform. For users moving over from the 2.18 LTR there is a huge list of new features and impactful changes in this new LTR version.

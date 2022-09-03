@@ -5,7 +5,7 @@ Changelog for QGIS 3.8
 
 |image1|
 
-Release date: 2019-07-23
+Release date: 2019-06-21
 
 QGIS 3.8 brings an extensive list of new changes and a lot of polishing of existing features - the highlights of which we will try to cover here. As always can we remind you that QGIS is an open source project and if you are able to, consider supporting our work through donations, sponsorship or contributions to the code documentation, web site and so on.
 

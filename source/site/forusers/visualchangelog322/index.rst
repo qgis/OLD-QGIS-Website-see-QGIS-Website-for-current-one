@@ -5,7 +5,7 @@ Changelog for QGIS 3.22
 
 |image1|
 
-Release date: 2021-10-30
+Release date: 2021-10-22
 
 QGIS 3.22 Białowieża is aimed at celebrating the 100-year anniversary of `Białowieża National Park <https://en.wikipedia.org/wiki/Bia%C5%82owie%C5%BCa_National_Park>`__, Poland, which was established in 1921. `Białowieża Forest <https://en.wikipedia.org/wiki/Bia%C5%82owie%C5%BCa_Forest>`__ is one of the world’s last primary woodlands, located on the border between Poland and Belarus. It is one of the few natural old-growth forests in temperate lowland Europe and has been protected for over 600 years. The outstanding value of Białowieża Forest has been acknowledged by its recognition as a `UNESCO Natural World Heritage Site <https://whc.unesco.org/en/list/33>`__.
 

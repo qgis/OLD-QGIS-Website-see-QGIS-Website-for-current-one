@@ -5,7 +5,7 @@ Changelog for QGIS 3.18
 
 |image1|
 
-Release date: 2021-02-23
+Release date: 2021-02-19
 
 Following on from the feature-filled releases of `QGIS 3.14 <https://qgis.org/en/site/forusers/visualchangelog314/>`__ and `QGIS 3.16 <https://qgis.org/en/site/forusers/visualchangelog316/>`__, QGIS 3.18 introduces a host of enhancements and new features, along with a long-awaited feature - Native Point Cloud support in QGIS! Thanks to the efforts of `Lutra <https://www.lutraconsulting.co.uk/>`__, `North Road <https://north-road.com/>`__, and `Hobu <https://hobu.co/>`__, QGIS is now able to import and render point cloud data in various formats by leveraging the Open Source PDAL library. This functionality has been introduced due to the success of a `crowd-funding campaign <https://www.lutraconsulting.co.uk/crowdfunding/pointcloud-qgis/>`__ and would not have been possible without the support of the QGIS community and contributors. Thank you to all those involved in realizing this incredible milestone!
 

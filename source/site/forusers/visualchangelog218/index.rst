@@ -6,7 +6,7 @@ Changelog for QGIS 2.18
 
 |image1|
 
-Release date: 2016-11-03
+Release date: 2016-10-21
 
 This is the last release in the 2.x series. The current Long Term Release (LTR) remains version 2.14.x. 
 This release provides incremental improvements over our previous release. 

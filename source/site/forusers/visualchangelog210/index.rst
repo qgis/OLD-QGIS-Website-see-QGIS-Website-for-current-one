@@ -4,7 +4,7 @@
 Changelog for QGIS 2.10
 =======================
 
-Release date: 2015-07-21
+Release date: 2015-06-26
 
 This is the change log for the next release of QGIS - version 2.10.0 '
 Pisa' - host city to our developer meet up in March 2010.

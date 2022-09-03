@@ -5,7 +5,7 @@ Changelog for QGIS 3.14
 
 |image1|
 
-Release date: 2020-06-25
+Release date: 2020-06-19
 
 Another awesome release in the trail of great QGIS releases we have made across 18 years of development. This release is so jam-packed with new features and improvements big and small, it is hard to know where to start. Some of the marquee features include vector tile support, huge advances in mdal / mesh support, native support for temporal data in WMS-T, PG Raster, vector providers, and mesh layers. Users focussed on cartography and digitising haven't been left out either, with many new options for you!
 

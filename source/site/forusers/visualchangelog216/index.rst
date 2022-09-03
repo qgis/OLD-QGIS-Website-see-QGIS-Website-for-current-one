@@ -6,7 +6,7 @@ Changelog for QGIS 2.16
 
 |image1|
 
-Release date: 2016-07-22
+Release date: 2016-07-08
 
 This is the log for the next release of QGIS - version 2.16.0 'Nødebo'.
 The Department of Geoscience and Natural Resource Management

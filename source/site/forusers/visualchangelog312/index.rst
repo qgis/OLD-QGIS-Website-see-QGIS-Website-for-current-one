@@ -6,7 +6,7 @@ Changelog for QGIS 3.12
 
 |image1|
 
-Release date: 2020-02-26
+Release date: 2020-02-21
 
 If you are after new features and a ton of bug fixes, this release will have you smiling from ear to ear! QGIS 3.12 adds rich new capabilities to almost every part of QGIS. From label masks to a native PG Raster provider to incredible new mesh layer capabilities, and much, much more, this release has something for everyone. As always, we would like to remind you that QGIS is an open-source project and if you are able to, consider supporting our work through donations, sponsorship or contributions to the code documentation, web site and so on.
 
