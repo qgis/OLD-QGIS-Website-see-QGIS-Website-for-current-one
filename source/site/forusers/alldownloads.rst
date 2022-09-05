@@ -48,11 +48,11 @@ Steps are:
   +-------------------+------------------------------+------------------------+-------------------------------------------------------+
   | Release           | Version                      | Package                | Description                                           |
   +===================+==============================+========================+=======================================================+
-  | Latest Release    | |version|.x |codename|       | qgis                   | Release :windows_sha256:`[SHA256] <>`                 |
+  | Latest Release    | |version|.x |codename|       | qgis                   | Release                                               |
   |                   | |releasenote|                +------------------------+-------------------------------------------------------+
   |                   |                              | qgis-rel-dev [1]_      | Nightly build of the upcoming point release           |
   +-------------------+------------------------------+------------------------+-------------------------------------------------------+
-  | Long Term Release | |ltrversion|.x |ltrcodename| | qgis-ltr               | Release :windows_ltr_sha256:`[SHA256] <>`             |
+  | Long Term Release | |ltrversion|.x |ltrcodename| | qgis-ltr               | Release                                               |
   | Repository        | |ltrnote|                    +------------------------+-------------------------------------------------------+
   |                   |                              | qgis-ltr-dev [1]_      | Nightly build of the upcoming point long term release |
   +-------------------+------------------------------+------------------------+-------------------------------------------------------+
