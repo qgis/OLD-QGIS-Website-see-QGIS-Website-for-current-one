@@ -69,20 +69,16 @@
                   </div>
                   <div id="mac" class="accordion-body collapse in">
                     <div class="accordion-inner centered">
-                      <h5>{{ _('Official All-in-one, signed installers') }}</h5>
-                      <p>{{ _('Mac Installer Packages for macOS High Sierra (10.13) and newer.') }}</p>
-                      <p>{{ _('QGIS is not yet notarized as required by macOS Catalina (10.15) security rules. On first launch, please right-click on the QGIS app icon, hold down the Option key, then choose Open.') }}</p>
-
                       <a class="btn btn-large btn-success" href="https://qgis.org/downloads/macos/qgis-macos-pr.dmg">
                         <div class="primary-download-button">
                           <div class="{{ "qgis{}-download".format( "2" if version.startswith("2.") else "" ) }}"></div>
-                          <div class="download-text">{{ _('QGIS macOS Installer Version %s')|format( version ) }}</div>
+                          <div class="download-text">{{ _('QGIS All-In-One Signed Installer Version %s')|format( version ) }}</div>
                         </div>
                       </a>
                       <a class="secondary-download-link" href="https://qgis.org/downloads/macos/qgis-macos-ltr.dmg">
-                        {{ _('QGIS macOS Installer Version %s')|format( ltrversion ) }} LTR
+                        {{ _('Looking for Long Term Support ? Get QGIS Version %s')|format( ltrversion ) }} LTR
                       </a>
-                      <p><i>{{ _('Standalone installers are recommended for new users.') }} </i></p>
+                      <p>{{ _('Standalone installers are recommended for new users.') }} <em>{{ _('MacOS High Sierra (10.13) and newer are required. QGIS is not yet notarized as required by macOS Catalina (10.15) security rules. On first launch, please right-click on the QGIS app icon, hold down the Option key, then choose Open.') }}</em></p>
                     </div>
                   </div>
                 </div>
