@@ -36,29 +36,26 @@
                   </div>
                   <div id="windows" class="accordion-body collapse in">
                     <div class="accordion-inner centered">
-                      <div class="card">
-
-                        <a class="btn btn-large btn-success" href="https://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-{{ binary|e }}.msi">
-                          <div class="primary-download-button">
-                            <div class="{{ "qgis{}-download".format( "2" if version.startswith("2.") else "" ) }}"></div>
-                            <div class="download-text">{{ _('QGIS Standalone Installer Version %s')|format( version ) }}</div>
-                          </div>
-                        </a>
-                        <a class="secondary-download-link" href="https://qgis.org/downloads/QGIS-OSGeo4W-{{ ltrrelease|e }}-{{ ltrbinary|e }}.msi">
-                          {{ _('Looking for Long Term Support ? Get QGIS Version %s')|format( ltrversion ) }} LTR
-                        </a>
-                        <p>{{ _('Standalone installers are recommended for new users. <em>Requires Windows 8 64 bit or higher because QGIS needs Python 3.9, which does no longer support Windows 7.') }} </em></p>
-                        <br/>
-                        <div>
-                          <a class="secondary-download-link" href="https://download.osgeo.org/osgeo4w/v2/osgeo4w-setup.exe">
-                            {{ _('All in one OSGeo4W Network Installer') }}
-                          </a>
-                          <p>{{_('OSGeo4W installer is recommended for regular users or organization deployments. <em>It allows to have several QGIS versions in one place, and to update each library without downloading the whole package. .')}}</em></p>
-        <!--
-        <strong><font color="red"><em>{{ _('CAUTION') }}:</em></font></strong> {{ _('Upgrades of old setups from OSGeo4W v1 using this repository are not supported. You need to do a fresh install or use a different directory.') }}<br/>
-        <strong><font color="red"><em>{{ _('CAUTION') }}:</em></font></strong> {{ _('32 bit binaries are not produced anymore.  Also Windows 7 no longer works as we are now using Python 3.9, which dropped support for it.') }}<br/>
-        -->
+                      <a class="btn btn-large btn-success" href="https://qgis.org/downloads/QGIS-OSGeo4W-{{ release|e }}-{{ binary|e }}.msi">
+                        <div class="primary-download-button">
+                          <div class="{{ "qgis{}-download".format( "2" if version.startswith("2.") else "" ) }}"></div>
+                          <div class="download-text">{{ _('QGIS Standalone Installer Version %s')|format( version ) }}</div>
                         </div>
+                      </a>
+                      <a class="secondary-download-link" href="https://qgis.org/downloads/QGIS-OSGeo4W-{{ ltrrelease|e }}-{{ ltrbinary|e }}.msi">
+                        {{ _('Looking for Long Term Support ? Get QGIS Version %s')|format( ltrversion ) }} LTR
+                      </a>
+                      <p>{{ _('Standalone installers are recommended for new users. <em>Requires Windows 8 64 bit or higher because QGIS needs Python 3.9, which does no longer support Windows 7.') }} </em></p>
+                      <br/>
+                      <div>
+                        <a class="secondary-download-link" href="https://download.osgeo.org/osgeo4w/v2/osgeo4w-setup.exe">
+                          {{ _('All in one OSGeo4W Network Installer') }}
+                        </a>
+                        <p>{{_('OSGeo4W installer is recommended for regular users or organization deployments. <em>It allows to have several QGIS versions in one place, and to update each library without downloading the whole package. .')}}</em></p>
+      <!--
+      <strong><font color="red"><em>{{ _('CAUTION') }}:</em></font></strong> {{ _('Upgrades of old setups from OSGeo4W v1 using this repository are not supported. You need to do a fresh install or use a different directory.') }}<br/>
+      <strong><font color="red"><em>{{ _('CAUTION') }}:</em></font></strong> {{ _('32 bit binaries are not produced anymore.  Also Windows 7 no longer works as we are now using Python 3.9, which dropped support for it.') }}<br/>
+      -->
                       </div>
                     </div>
                   </div>
@@ -72,22 +69,20 @@
                   </div>
                   <div id="mac" class="accordion-body collapse in">
                     <div class="accordion-inner centered">
-                      <div class="card">
-                        <h5>{{ _('Official All-in-one, signed installers') }}</h5>
-                        <p>{{ _('Mac Installer Packages for macOS High Sierra (10.13) and newer.') }}</p>
-                        <p>{{ _('QGIS is not yet notarized as required by macOS Catalina (10.15) security rules. On first launch, please right-click on the QGIS app icon, hold down the Option key, then choose Open.') }}</p>
+                      <h5>{{ _('Official All-in-one, signed installers') }}</h5>
+                      <p>{{ _('Mac Installer Packages for macOS High Sierra (10.13) and newer.') }}</p>
+                      <p>{{ _('QGIS is not yet notarized as required by macOS Catalina (10.15) security rules. On first launch, please right-click on the QGIS app icon, hold down the Option key, then choose Open.') }}</p>
 
-                        <a class="btn btn-large btn-success" href="https://qgis.org/downloads/macos/qgis-macos-pr.dmg">
-                          <div class="primary-download-button">
-                            <div class="{{ "qgis{}-download".format( "2" if version.startswith("2.") else "" ) }}"></div>
-                            <div class="download-text">{{ _('QGIS macOS Installer Version %s')|format( version ) }}</div>
-                          </div>
-                        </a>
-                        <a class="secondary-download-link" href="https://qgis.org/downloads/macos/qgis-macos-ltr.dmg">
-                          {{ _('QGIS macOS Installer Version %s')|format( ltrversion ) }} LTR
-                        </a>
-                        <p><i>{{ _('Standalone installers are recommended for new users.') }} </i></p>
-                      </div>
+                      <a class="btn btn-large btn-success" href="https://qgis.org/downloads/macos/qgis-macos-pr.dmg">
+                        <div class="primary-download-button">
+                          <div class="{{ "qgis{}-download".format( "2" if version.startswith("2.") else "" ) }}"></div>
+                          <div class="download-text">{{ _('QGIS macOS Installer Version %s')|format( version ) }}</div>
+                        </div>
+                      </a>
+                      <a class="secondary-download-link" href="https://qgis.org/downloads/macos/qgis-macos-ltr.dmg">
+                        {{ _('QGIS macOS Installer Version %s')|format( ltrversion ) }} LTR
+                      </a>
+                      <p><i>{{ _('Standalone installers are recommended for new users.') }} </i></p>
                     </div>
                   </div>
                 </div>
