@@ -24,7 +24,7 @@ systems are exported.
 QGIS server is considered as a reference implementation for WMS 1.3.
 
 .. figure:: /static/site/getinvolved/daily_reports/qgis_server_wms_ogc_badge.png
-   :alt: QGIS Server OGC cerfication badge
+   :alt: QGIS Server OGC certification badge
    :align: center
 
 .. figure:: /static/site/about/images/qgisserverscreenshot.png
