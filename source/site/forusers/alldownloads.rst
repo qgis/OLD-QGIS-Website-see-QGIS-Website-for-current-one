@@ -25,7 +25,12 @@ which we strongly urge users to test**.
 Windows
 =======
 
-There are two options for installations on Windows.  For beginners the easiest way is using the standalone installers:
+There are two options for installations on Windows:
+
+Standalone installers
+---------------------
+
+For beginners the easiest way is using the standalone installers:
 
 +-------------------+------------------------------+------------------------------------------------+
 | Release           | Version                      | Package                                        |
@@ -42,8 +47,12 @@ There are two options for installations on Windows.  For beginners the easiest w
 See also `The main installers page <./download.html>`_.
 
 The weekly snapshots of the nightly qgis-dev package of OSGeo4W are for users
-that cannot use OSGeo4W for some reason or just prefer standalone installers.
-In the feature freeze phase that also acts as **release candidate**.
+that cannot use OSGeo4W (see below) for some reason or just prefer standalone
+installers.  In the feature freeze phase that also acts as **release
+candidate**.
+
+OSGeo4W installer
+-----------------
 
 More advanced QGIS users should use OSGeo4W packages, which for one make it
 possible to install several versions in parallel and also to do much more
@@ -76,6 +85,13 @@ Steps are:
   +-------------------+------------------------------+------------------------+-------------------------------------------------------+
 
 .. [1] Nightlies are debug builds (including debugging output)
+
+There are also metapackages with postfix "-full-free" and "-full" with install
+the corresponding QGIS version and a additional optional packages that are
+dependencies of popular plugins.   "-full-free" only contains open source
+components, while "-full" also includes proprietary parts (like Oracle, ECW and
+MrSID).  The standalone installers are also made from OSGeo4W packages and are
+based on the "-full" variant.
 
 Before installing any of the nightly builds note the warning_.
 

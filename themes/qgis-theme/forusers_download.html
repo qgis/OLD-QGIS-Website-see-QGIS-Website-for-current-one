@@ -46,7 +46,7 @@
                         {{ _('Looking for the most stable version? Get QGIS %s %s')|format( ltrversion, ltrnote ) }}
                       </a>
                       <br/>
-                      <a class="secondary-download-link" href="https://download.osgeo.org/osgeo4w/v2/osgeo4w-setup.exe">
+                      <a class="secondary-download-link" href="{{ pathto('site/forusers/alldownloads') }}#osgeo4w-installer">
                         <div class="primary-download-button">
                           <div class="osgeo-download"></div>
 			  &nbsp;&nbsp;{{ _('OSGeo4W Network Installer') }}
@@ -186,8 +186,6 @@
                  {{ _('and') }}
                  <a href="https://qgis.org/downloads/qgis-latest-ltr.tar.bz2">{{ _('here (long term release)') }}</a></p>
               <p>{{ _('Refer to the INSTALL guide on how to compile QGIS from source for the different platforms:') }} <a href="https://github.com/qgis/QGIS/blob/master/INSTALL.md"  class="reference external">{{ _('here') }}</a></p>
-              <p>{{ _('Note that you can also install the development version (nightly) via an installer from the normal downloads for your platform:') }} <a class="caption-link" href="{{ pathto('site/forusers/download') }}" target="_blank">{{ _('here')}}</a></p>
-              <p>{{ _('Plugins for QGIS are also available ') }}<a href="https://plugins.qgis.org/plugins/" class="reference external">{{ _('here') }}</a>.</p>
           </div>
         </div>
 
