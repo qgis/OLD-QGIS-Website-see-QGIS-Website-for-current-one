@@ -56,42 +56,49 @@ OSGeo4W installer
 
 More advanced QGIS users should use OSGeo4W packages, which for one make it
 possible to install several versions in parallel and also to do much more
-efficient updates as only changed components are installed,
+efficient updates as only changed components are downloaded and installed,
 
 The OSGeo4W repository contains a lot of software from OSGeo projects.
 QGIS and all dependencies are included, along with Python, GRASS, GDAL, etc.
 The installer is able to install from internet or just download all needed
 packages beforehand.
-The downloaded files are kept in a local directory for future installations.
+The downloaded files are kept in a local directory for future installations and
+could also be use to install offline.
+
 Steps are:
 
 - Download `OSGeo4W Installer <https://download.osgeo.org/osgeo4w/v2/osgeo4w-setup.exe>`_ and start it
-- Select *Advanced Install*,
-- navigate to the *Desktop* section
-- and pick one or more of the following packages:
+- Choose *Express Install* and select *QGIS* to install the *latest release*
+  and/or *QGIS LTR* to install the *long term release*.
 
-  +-------------------+------------------------------+------------------------+-------------------------------------------------------+
-  | Release           | Version                      | Package                | Description                                           |
-  +===================+==============================+========================+=======================================================+
-  | Latest Release    | |version|.x |codename|       | qgis                   | Release                                               |
-  |                   | |releasenote|                +------------------------+-------------------------------------------------------+
-  |                   |                              | qgis-rel-dev [1]_      | Nightly build of the upcoming point release           |
-  +-------------------+------------------------------+------------------------+-------------------------------------------------------+
-  | Long Term Release | |ltrversion|.x |ltrcodename| | qgis-ltr               | Release                                               |
-  | Repository        | |ltrnote|                    +------------------------+-------------------------------------------------------+
-  |                   |                              | qgis-ltr-dev [1]_      | Nightly build of the upcoming point long term release |
-  +-------------------+------------------------------+------------------------+-------------------------------------------------------+
-  | Development       | |devversion| master          | qgis-dev [1]_          | Nightly build of the development version              |
-  +-------------------+------------------------------+------------------------+-------------------------------------------------------+
+Alternatively to *Express* you also use the *Advanced Install*, navigate to the
+*Desktop* section and pick one or more of the following packages:
+
++-------------------+------------------------------+------------------------+-------------------------------------------------------+
+| Release           | Version                      | Package                | Description                                           |
++===================+==============================+========================+=======================================================+
+| Latest Release    | |release| |codename|         | qgis                   | Release                                               |
+|                   | |releasenote|                +------------------------+-------------------------------------------------------+
+|                   |                              | qgis-rel-dev [1]_      | Nightly build of the upcoming point release           |
++-------------------+------------------------------+------------------------+-------------------------------------------------------+
+| Long Term Release | |ltrrelease| |ltrcodename|   | qgis-ltr               | Release                                               |
+|                   | |ltrnote|                    +------------------------+-------------------------------------------------------+
+|                   |                              | qgis-ltr-dev [1]_      | Nightly build of the upcoming long term point release |
++-------------------+------------------------------+------------------------+-------------------------------------------------------+
+| Development       | |devversion| master          | qgis-dev [1]_          | Nightly build of the development version              |
++-------------------+------------------------------+------------------------+-------------------------------------------------------+
 
 .. [1] Nightlies are debug builds (including debugging output)
 
-There are also metapackages with postfix "-full-free" and "-full" with install
-the corresponding QGIS version and a additional optional packages that are
-dependencies of popular plugins.   "-full-free" only contains open source
-components, while "-full" also includes proprietary parts (like Oracle, ECW and
-MrSID).  The standalone installers are also made from OSGeo4W packages and are
-based on the "-full" variant.
+The packages listed in the table only install the necessary packages to run
+QGIS.  Corresponding to those packages there are also meta packages with
+the postfix ``-full-free`` and ``-full``.   The former contains additional optional
+dependencies that some popular - not included - plugins use and the latter
+include the former and also add proprietary extensions like Oracle, ECW and
+MrSID.
+
+The Express installs reference the corresponding ``-full`` variant and the
+standalone installers are also made from these OSGeo4W package sets.
 
 Before installing any of the nightly builds note the warning_.
 
