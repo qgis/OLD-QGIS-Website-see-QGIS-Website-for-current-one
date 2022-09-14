@@ -86,8 +86,8 @@ Steps are:
 
 .. [1] Nightlies are debug builds (including debugging output)
 
-There are also metapackages with postfix "-full-free" and "-full" with install
-the corresponding QGIS version and a additional optional packages that are
+There are also metapackages with postfix "-full-free" and "-full" which install
+the corresponding QGIS version and additional optional packages that are
 dependencies of popular plugins.   "-full-free" only contains open source
 components, while "-full" also includes proprietary parts (like Oracle, ECW and
 MrSID).  The standalone installers are also made from OSGeo4W packages and are
