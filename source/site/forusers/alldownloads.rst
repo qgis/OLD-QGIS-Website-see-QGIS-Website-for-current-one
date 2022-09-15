@@ -48,7 +48,7 @@ See also `The main installers page <./download.html>`_.
 
 The weekly snapshots of the nightly qgis-dev package of OSGeo4W are for users
 that cannot use OSGeo4W (see below) for some reason or just prefer standalone
-installers.  In the feature freeze phase that also acts as **release
+installers. In the feature freeze phase that also acts as **release
 candidate**.
 
 OSGeo4W installer
@@ -56,14 +56,14 @@ OSGeo4W installer
 
 More advanced QGIS users should use OSGeo4W packages, which for one make it
 possible to install several versions in parallel and also to do much more
-efficient updates as only changed components are downloaded and installed,
+efficient updates as only changed components are downloaded and installed.
 
 The OSGeo4W repository contains a lot of software from OSGeo projects.
 QGIS and all dependencies are included, along with Python, GRASS, GDAL, etc.
 The installer is able to install from internet or just download all needed
 packages beforehand.
 The downloaded files are kept in a local directory for future installations and
-could also be use to install offline.
+could also be used to install offline.
 
 Steps are:
 
@@ -111,7 +111,7 @@ need qgis and qgis-python (to run plugins).
 Packages like qgis-grass (or qgis-plugin-grass), qgis-server can be
 skipped initially, or installed only when you need them.
 
-Below you find instructions to install per distribution.  For most distro's
+Below you find instructions to install per distribution. For most distro's
 there are instructions to install QGIS stable and instructions to install a
 cutting edge QGIS testing build (note the warning_).
 
