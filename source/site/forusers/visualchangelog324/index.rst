@@ -479,11 +479,11 @@ Feature: map\_prefix\_keys function
 
 In QGIS 3.24 we've added a new ``map_prefix_keys`` function that takes a map and a prefix, the function returns a map with all keys prefixed by the prefix.
 
-| Example:
-| ``map_prefix_keys(map('1','one','2','two'), 'prefix-')``
+Example:
+``map_prefix_keys(map('1','one','2','two'), 'prefix-')``
 
-| returns:
-| ``{ 'prefix-1': 'one', 'prefix-2': 'two' }``
+returns:
+``{ 'prefix-1': 'one', 'prefix-2': 'two' }``
 
 |image33|
 
@@ -761,14 +761,11 @@ Feature: Suppress "bad layers" handler on startup
 
 We've added support for a new command line flag for the ``qgis`` executable, which allows you to disable the default dialog which shows when opening a project with missing/broken layers:
 
-``[--skipbadlayers]       don't prompt for missing layers``
+::
 
-example invocation:
+  [--skipbadlayers]       don't prompt for missing layers
 
-| ``./qgis --skipbadlayers``
-| or
-
-``./qgis -B``
+Example invocation: ``./qgis --skipbadlayers`` or ``./qgis -B``
 
 The use case for this is that sometimes users have automation or other post-startup processes happen and do not want to have the startup process interrupted if there are bad layers present in the project. After startup, QGIS will ignore any missing layers, but they will still be marked as broken in the layers list.
 
@@ -960,17 +957,21 @@ As discussed in `this issue <https://github.com/qgis/QGIS/pull/45007>`__, we hav
 
 This can be used in expressions and in the label placement properties tab where you can link the label placement to the second geometry column using the Point property. In the case where you using it for labelling, the second geometry column will be updated automatically if you use the move tool and the columnt type is Geometry. If the column type is text, you could also use that as a second geometry by doing e.g.
 
-``geom_from_wkt("my wkt string field")``
+::
+
+  geom_from_wkt("my wkt string field")
 
 In this case however, the column will be read only.
 
-So e.g. now in expressions if you have secondary geometry column you can do
+So e.g. now in expressions if you have secondary geometry column you can do:
 
-| ``buffer("my_second_geom_column", 10)``
+::
+
+  buffer("my_second_geom_column", 10)
 
 and it will work.
 
-**Warning**: This changes the behavior of existing projects.
+.. warning:: This changes the behavior of existing projects.
 
 |image58|
 
