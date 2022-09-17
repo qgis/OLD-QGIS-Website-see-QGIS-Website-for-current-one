@@ -33,3 +33,17 @@ jobs:
           TX_TOKEN: ${{ secrets.TX_TOKEN }}
         run: |
             tx push -s
+
+      - name: Update .tx/config if changed
+        run: |
+          git config --global user.name 'Transifex update'
+          git config --global user.email 'tx-update@users.noreply.github.com'
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          if [[ -n $(git status -s) ]]
+          then
+            git add .
+            git commit -m "Adjust .tx/config"
+            git push
+          else
+            echo ".tx/config unchanged"
+          fi
