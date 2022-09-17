@@ -42,7 +42,7 @@ jobs:
           if [[ -n $(git status -s) ]]
           then
             git add .
-            git commit -m "Automated update"
+            git commit -m "Adjust .tx/config"
             git push
           else
             echo ".tx/config unchanged"
