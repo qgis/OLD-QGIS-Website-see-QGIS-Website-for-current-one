@@ -341,6 +341,12 @@ schedule: clearschedule source/schedule.py
 	git pull --autostash --rebase
 	git commit -a -m "Update for $(shell sed -ne "s/^release = '\\(.*\\)'/\1/p" source/schedule.py)/$(shell sed -ne "s/^ltrrelease = '\\(.*\\)'/\\1/p" source/schedule.py) point releases"
 
+style: themes/qgis-theme/static/qgis-style.css
+
+themes/qgis-theme/static/qgis-style.css: themes/qgis-theme/static/qgis-style.less
+	lessc $< $@
+	yui-compressor -o $@ $@
+
 venvupdate:
 ifneq ($(VIRTUAL_ENV),)
 	[ -d sphinx ] || $(PYTHON) -m virtualenv sphinx; . sphinx/bin/activate; pip install -U -r REQUIREMENTS.txt
