@@ -7,6 +7,7 @@ Voting Members approve the budget for the coming year, the financial report
 for the past year, elect any new project members and so on. The minutes
 of these meetings are provided here as a matter of public record:
 
+* :download:`QGIS AGM Minutes 2022 (pdf) <../../../../static/site/getinvolved/governance/agm-minutes/QGIS-AGM2022-Minutes.pdf>`
 * :download:`QGIS AGM Minutes 2021 (pdf) <../../../../static/site/getinvolved/governance/agm-minutes/QGIS-AGM2021-Minutes.pdf>`
 * :download:`QGIS AGM Minutes 2020 (pdf) <../../../../static/site/getinvolved/governance/agm-minutes/QGIS-AGM2020-Minutes.pdf>`
 * :download:`QGIS AGM Minutes 2019 (pdf) <../../../../static/site/getinvolved/governance/agm-minutes/QGIS-AGM2019-Minutes.pdf>`
