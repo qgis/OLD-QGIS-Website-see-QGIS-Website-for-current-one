@@ -178,7 +178,7 @@ Default Debian and Ubuntu software repositories often hold older versions of
 QGIS.
 
 To have newer versions, you have to add alternative software repositories, by
-adding one of the deb-lines below to your /etc/apt/sources.list.d/qgis.sources file.
+adding one of the deb-lines below to your ``/etc/apt/sources.list.d/qgis.sources`` file.
 
 Our main repository contains multiple lines of packages for several versions of
 **Debian and Ubuntu** based on the dependencies the individual distributions
@@ -310,7 +310,7 @@ Alternatively you can download the key directly without manual verification::
   sudo mkdir -m755 -p /etc/apt/keyrings  # not needed since apt version 2.4.0 like Debian 12 and Ubuntu 22 or newer
   sudo wget -O /etc/apt/keyrings/qgis-archive-keyring.gpg https://download.qgis.org/downloads/qgis-archive-keyring.gpg
 
-With the keyring in place you can add the repository to as ``/etc/apt/sources.list.d/qgis.sources`` with following content::
+With the keyring in place you can add the repository as ``/etc/apt/sources.list.d/qgis.sources`` with following content::
 
   Types: deb deb-src
   URIs: *repository*
