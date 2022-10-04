@@ -124,7 +124,7 @@ Added 2018
 
 Added 2019 
 
-* None (No new usegroups created)
+* None (No new user groups created)
 
 Added 2020
 
