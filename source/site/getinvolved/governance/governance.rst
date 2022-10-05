@@ -27,11 +27,11 @@ Project Steering Committee
 --------------------------
 
 * Marco Bernasocchi (Chair) [Chair since May 2020; Vice chair April 2018 - April 2020]
-* Alessandro Pasotti (Vice chair) [Vice chair since May 2020]
+* Anita Graser (Vice chair) [Design Advisor Sept. 2013 - Sept. 2022]**
 * Andreas Neumann (Treasurer; Contact for Sustaining Members) [since Nov. 2015]
-* Anita Graser (Design Advisor) [since Sept. 2013]
-* Régis Haubourg [Since  Oct. 2022]
 * Jürgen Fischer (Release Manager) [since Sept. 2013]
+* Alessandro Pasotti (PSC Member) [Vice chair May 2020 - Sept.2022]
+* Régis Haubourg (PSC Member) [Since  Oct. 2022]
 
 To contact the PSC, please write to psc@qgis.org.
 
