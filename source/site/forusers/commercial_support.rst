@@ -402,6 +402,15 @@ provides commercial support and training for QGIS and open spatial data.
 
 ----
 
+.. |level2| image:: /static/site/about/images/level2.png
+   :width: 75 px
+
+|level2| `level2 <https://level2.si/?lang=en>`_ (based in Slovenia)
+provides support, training and custom development for QGIS and PostGIS, 
+with a special focus on Web-GIS and mobile applications.
+
+----
+
 .. |mierune| image:: /static/site/about/images/MIERUNE.png
    :width: 75 px
 
