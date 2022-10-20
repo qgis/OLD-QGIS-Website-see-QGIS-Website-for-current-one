@@ -580,6 +580,17 @@ Or to customize compilation options, you can build it from FreeBSD ports
  cd /usr/ports/graphics/qgis-ltr
  make install clean
 
+OpenBSD
+=======
+
+QGIS Stable
+
+To install QGIS from third package
+::
+
+ pkg_add qgis
+
+See: https://openports.pl/path/geo/qgis
 
 Android
 =======
