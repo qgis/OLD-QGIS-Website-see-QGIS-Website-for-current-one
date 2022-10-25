@@ -744,3 +744,9 @@ file_filter = i18n/<lang>/LC_MESSAGES/sphinx.po
 source_file = i18n/en/LC_MESSAGES/sphinx.po
 source_lang = en
 type = PO
+
+[qgis-website.site_forusers_visualchangelog328_index]
+file_filter = i18n/<lang>/LC_MESSAGES/site/forusers/visualchangelog328/index.po
+source_file = i18n/en/LC_MESSAGES/site/forusers/visualchangelog328/index.po
+source_lang = en
+type = PO
