@@ -300,6 +300,17 @@ A new ``concave_hull`` function is now available in QGIS expressions (GEOS 3.11+
 
 This feature was developed by `Loïc Bartoletti <https://github.com/lbartoletti>`__
 
+Feature: Ask for confirmation when discarding expression changes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A new confirmation dialog is now safeguarding users against accidentally discarding their unapplied changes in expression editor dialogs. This safeguard is used in the Expression String Builder, the Expression Dialog (Epsilon icon, e. g. for Geometry Generators or for Pre-calculated Values in the model builder) and the Expression Based Filter (Attribute Table -> Advanced filter expression).
+
+|image36|
+
+This feature was funded by `WhereGroup GmbH <https://wheregroup.com/>`__
+
+This feature was developed by `Johannes Kröger <https://github.com/kannes>`__
+
 Data Management
 ---------------
 
@@ -1005,4 +1016,5 @@ This feature was developed by `Loïc Bartoletti <https://oslandia.com/>`__
    :class: img-responsive img-rounded
 .. |image35| image:: images/entries/6a575714dfc905211f3518a4f5f3803c32e8afa9.png
    :class: img-responsive img-rounded
-
+.. |image36| image:: images/entries/cebe844ae2c28045a8b6e2e89cb2b40cdbbd38c6.png
+   :class: img-responsive img-rounded
