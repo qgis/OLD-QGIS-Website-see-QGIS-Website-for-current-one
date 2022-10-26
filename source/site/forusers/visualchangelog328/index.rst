@@ -5,7 +5,7 @@ Changelog for QGIS 3.28
 
 |image1|
 
-Release date: 2022-10-22
+Release date: 2022-10-21
 
 QGIS 3.28 Firenze introduces various feature updates, UX modifications, usability enhancements, and improved integration with various proprietary services and data backends. It is also set to introduce the long-awaited features provided by previous releases into the long-term support release, as outlined in the `QGIS Roadmap <https://www.qgis.org/en/site/getinvolved/development/roadmap.html>`__.
 
