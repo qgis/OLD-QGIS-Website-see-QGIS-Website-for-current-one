@@ -53,7 +53,7 @@ French
 ......
 
 The French Ministry of Environment supports the QGIS project. Training material from them is available here:
-http://www.geoinformations.developpement-durable.gouv.fr/qgis-supports-pedagogiques-r947.html
+http://www.geoinformations.developpement-durable.gouv.fr/qgis-formations-et-supports-pedagogiques-r947.html
 
 Other resources from them are available here:
 http://www.geoinformations.developpement-durable.gouv.fr/qgis-r625.html
