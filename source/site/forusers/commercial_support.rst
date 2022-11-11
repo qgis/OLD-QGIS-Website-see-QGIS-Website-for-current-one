@@ -237,13 +237,6 @@ OpenLayers
 
 ----
 
-.. |MammothGeospatial| image:: /static/site/about/images/mammoth_geospatial.png
-   :width: 100 px
-
-|MammothGeospatial| `Mammoth Geospatial <https://mammothgeospatial.com/>`_ (based in Australia) are open geospatial experts, providing consulting, support and training in QGIS and PostGIS.
-
-----
-
 .. |nextgis| image:: /static/site/about/images/nextgis.gif
    :width: 200 px
 
@@ -413,6 +406,13 @@ provides commercial support and training for QGIS and open spatial data.
 |level2| `level2 <https://level2.si/?lang=en>`_ (based in Slovenia)
 provides support, training and custom development for QGIS and PostGIS, 
 with a special focus on Web-GIS and mobile applications.
+
+----
+
+.. |MammothGeospatial| image:: /static/site/about/images/mammoth_geospatial.png
+   :width: 100 px
+
+|MammothGeospatial| `Mammoth Geospatial <https://mammothgeospatial.com/>`_ (based in Australia) are open geospatial experts, providing consulting, support and training in QGIS and PostGIS.
 
 ----
 
