@@ -237,7 +237,12 @@ OpenLayers
 
 ----
 
+.. |MammothGeospatial| image:: /static/site/about/images/mammoth_geospatial.png
+   :width: 100 px
 
+|MammothGeospatial| `Mammoth Geospatial <https://mammothgeospatial.com/>`_ (based in Australia) are open geospatial experts, providing consulting, support and training in QGIS and PostGIS.
+
+----
 
 .. |nextgis| image:: /static/site/about/images/nextgis.gif
    :width: 200 px
