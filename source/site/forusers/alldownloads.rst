@@ -149,7 +149,7 @@ Add the QGIS repo for the latest stable QGIS (|version|.x |codename|) to ``/etc/
 
   Types: deb deb-src
   URIs: https://qgis.org/debian
-  Suites: bullseye
+  Suites: your-distributions-codename
   Architectures: amd64
   Components: main
   Signed-By: /etc/apt/keyrings/qgis-archive-keyring.gpg
