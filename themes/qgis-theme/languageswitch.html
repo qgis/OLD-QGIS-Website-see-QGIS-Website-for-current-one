@@ -107,9 +107,9 @@
             '<br/><p><img src="{{pathto('_static/images/splash.png', 1)}}"/></p></div>');
             $('#thankyou').click(function(){ $('#thankyou').hide(); });
             $('#closethankyou').click(function(){ $('#thankyou').hide(); });
-            var showTankyouElements = $('a.reference')
+            var showThankyouElements = $('a.reference')
             if (currentPage.includes('/alldownloads.html')){
-              showTankyouElements = $(
+              showThankyouElements = $(
                 'section#windows a.reference:contains("Installer"), '+
                 'section#debian-ubuntu table a.reference, '+
                 'section#fedora a.reference, '+
@@ -122,7 +122,7 @@
                 'section#mac-os-x-macos #qgis-nightly-release a.reference '
               )
             }
-            showTankyouElements.click(function(){
+            showThankyouElements.click(function(){
                 $('#thankyou').show();
                 return true;
             });
