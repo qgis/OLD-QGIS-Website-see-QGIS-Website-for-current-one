@@ -107,22 +107,14 @@
             '<br/><p><img src="{{pathto('_static/images/splash.png', 1)}}"/></p></div>');
             $('#thankyou').click(function(){ $('#thankyou').hide(); });
             $('#closethankyou').click(function(){ $('#thankyou').hide(); });
-            var showThankyouElements = $('a.reference')
-            if (currentPage.includes('/alldownloads.html')){
-              showThankyouElements = $(
-                'section#windows a.reference:contains("Installer"), '+
-                'section#debian-ubuntu table a.reference, '+
-                'section#fedora a.reference, '+
-                'section#suse-opensuse a.reference, '+
-                'section#mandriva a.reference, '+
-                'section#slackware a.reference, '+
-                'section#arch-linux a.reference, '+
-                'section#flatpack a.reference:contains("qgis"), '+
-                'section#mac-os-x-macos a.reference:contains("kyngchaos"), '+
-                'section#mac-os-x-macos #qgis-nightly-release a.reference '
-              )
+            var showThankyouSelector
+            if (currentPage.includes('/download.html')){
+              showThankyouSelector = 'a.reference'
+            } else if (currentPage.includes('/alldownloads.html')){
+              // Only select the windows Installer download links
+              showThankyouSelector = 'section#windows a.reference:contains("Installer")'
             }
-            showThankyouElements.click(function(){
+            $(showThankyouSelector).click(function(){
                 $('#thankyou').show();
                 return true;
             });
