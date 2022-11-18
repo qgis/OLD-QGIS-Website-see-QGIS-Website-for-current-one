@@ -278,14 +278,17 @@ Supported distribution versions:
 |               +----------------+------------+-----------------------+
 |               | unstable       | sid        |                       |
 +---------------+----------------+------------+-----------------------+
-| Ubuntu        | 22.10          | kinetic    |                       |
+| Ubuntu        | 23.04          | lunar [6]_ |                       |
+|               +----------------+------------+-----------------------+
+|               | 22.10          | kinetic    |                       |
 |               +----------------+------------+-----------------------+
 |               | 22.04 (LTS)    | jammy      | yes                   |
 |               +----------------+------------+-----------------------+
-|               | 20.04 (LTS)    | focal [6]_ | yes                   |
+|               | 20.04 (LTS)    | focal [7]_ | yes                   |
 +---------------+----------------+------------+-----------------------+
 
-.. [6] only up to QGIS 3.26 (Qt 5.13 required for 3.27)
+.. [6] only nightlies builds
+.. [7] only up to QGIS 3.26 (Qt 5.13 required for 3.27)
 
 To use the qgis archive you have to first add the archive's repository public key::
 
