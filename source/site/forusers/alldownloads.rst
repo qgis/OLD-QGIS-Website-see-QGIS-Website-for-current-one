@@ -585,12 +585,14 @@ OpenBSD
 
 QGIS Stable
 
-To install QGIS from third package
+To install QGIS from third-party package
 ::
 
  pkg_add qgis
 
-See: https://openports.pl/path/geo/qgis
+See: 
+- https://openbsd.app/?search=qgis # for -stable OpenBSD
+- https://openbsd.app/?search=qgis&current=on # for -current OpenBSD
 
 Android
 =======
