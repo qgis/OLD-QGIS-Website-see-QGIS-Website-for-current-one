@@ -17,7 +17,7 @@ In February 2022, two days before the full-scale Russian aggression, the Ukraini
 Following its open source attitude, at the beginning of June, Julie's Data (https://juliesdata.com/) launched a crowdsourcing initiative aimed to implement the above mentioned structure with open source tools and called to join everyone to the development of GIS-applied tools for spatial planning using QGIS.
 
 Bringing spatial planning tools into life
-==========
+=========================================
 
 The initiative received significant feedback from the community - more than 100 applications from those who willed to join from various regions of Ukraine, including Kherson, Zaporizhzhia, Kharkiv, Chernihiv, Kyiv, Lviv, Ivano-Frankivsk, Poltava, and Vinnytsia regions.
 
