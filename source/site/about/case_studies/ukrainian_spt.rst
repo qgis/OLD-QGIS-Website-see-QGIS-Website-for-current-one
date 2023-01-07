@@ -34,7 +34,7 @@ The working group successfully implemented the database in PostgreSQL and GeoPac
 
 .. figure:: ./images/ukraine_spt1.png
    :alt: An example of the symbol library
-   :scale: 100%
+   :scale: 55%
    :align: left
 
    *An example of the symbol library*
@@ -45,7 +45,7 @@ During webinar project members shared their experience not only about participat
 
 .. figure:: ./images/ukraine_spt2.png
    :alt: An urban plan created with SPT
-   :scale: 100%
+   :scale: 25%
    :align: left
 
    *An example of urban plan created with SPT*
