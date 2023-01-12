@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+  workflow_dispatch:
 
 
 # Allow one concurrent deployment
@@ -23,6 +24,11 @@ jobs:
         run: |
           pip install -r REQUIREMENTS.txt
 
+      - name: Install Transifex client
+        run: |
+          curl -OL https://github.com/transifex/cli/releases/download/v1.3.1/tx-linux-amd64.tar.gz
+          tar -xvzf tx-linux-amd64.tar.gz
+
       - name: Generate translation sources
         run: |
             make pretranslate
@@ -32,7 +38,7 @@ jobs:
         env:
           TX_TOKEN: ${{ secrets.TX_TOKEN }}
         run: |
-            tx push -s
+            ./tx push -s
 
       - name: Update .tx/config if changed
         run: |
