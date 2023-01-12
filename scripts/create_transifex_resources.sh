@@ -44,7 +44,6 @@ make springclean
     ./tx add \
         --type PO \
         --resource $RESOURCE \
-        --source-lang en \
         "$GENERICFILE"
     #set +x
     # Now register the language translations for the localised po file against
