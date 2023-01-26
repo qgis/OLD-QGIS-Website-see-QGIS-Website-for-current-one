@@ -41,7 +41,7 @@ make springclean
     #echo $RESOURCE
     # Register each po file as a transifex resource (an individual translatable file)
     #set -x
-    ../tx add \
+    ./tx add \
         --resource $RESOURCE \
         --file-filter "$GENERICFILE"
         --type PO \
