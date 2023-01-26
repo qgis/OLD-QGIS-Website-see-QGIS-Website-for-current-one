@@ -176,7 +176,7 @@ contribute to and submit pull requests at:
   available at https://docs.qgis.org
 
 You can find a few guidelines that will help you to easily get your patches
-and pull requests into QGIS projects at `submit_patch
-<https://docs.qgis.org/testing/en/docs/developers_guide/git.html#submitting-patches-and-pull-requests>`_.
-And more widely, You may need to read `git_access
-<https://docs.qgis.org/testing/en/docs/developers_guide/git.html>`_.
+and pull requests into QGIS projects at `Submitting Pull Requests
+<https://docs.qgis.org/testing/en/docs/developers_guide/git.html#submitting-pull-requests>`_.
+And more widely, You may need to read the `Development Process
+<https://docs.qgis.org/testing/en/docs/developers_guide/git.html>`_ chapter.
