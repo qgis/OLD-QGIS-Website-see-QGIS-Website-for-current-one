@@ -33,7 +33,9 @@ jobs:
         env:
           TX_TOKEN: ${{ secrets.TX_TOKEN }}
         run: |
-            tx push -s
+            [ -n "$TX_TOKEN" ] || { echo No token; exit 1; }
+            echo $TX_TOKEN
+            tx push -s --no-interactive
 
       - name: Update .tx/config if changed
         run: |
