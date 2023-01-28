@@ -33,7 +33,7 @@ jobs:
         env:
           TX_TOKEN: ${{ secrets.TX_TOKEN }}
         run: |
-            ./tx push -s
+            tx push -s
 
       - name: Update .tx/config if changed
         run: |
