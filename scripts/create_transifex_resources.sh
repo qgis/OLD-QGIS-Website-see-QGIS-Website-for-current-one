@@ -42,9 +42,10 @@ make springclean
     # Register each po file as a transifex resource (an individual translatable file)
     #set -x
     ./tx add \
-        --type PO \
         --resource $RESOURCE \
-        "$GENERICFILE"
+        --file-filter "$GENERICFILE"
+        --type PO \
+        $POFILE
     #set +x
     # Now register the language translations for the localised po file against
     # this resource.
