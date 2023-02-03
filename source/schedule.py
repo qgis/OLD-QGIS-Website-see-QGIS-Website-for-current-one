@@ -10,7 +10,7 @@ releasenote = u'\u200B'
 
 # long term release repository
 ltrversion = '3.22'
-ltrrelease = '3.22.15'
+ltrrelease = '3.22.16'
 ltrcodename = u'Białowieża'
 ltrbinary = '1'
 ltrnote = u'LTR'
