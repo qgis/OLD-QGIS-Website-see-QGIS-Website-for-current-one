@@ -536,8 +536,6 @@ Mac OS X / macOS
 
 Official All-in-one, signed installers for macOS High Sierra (10.13) and newer can be downloaded from the `QGIS download page <https://qgis.org/en/site/forusers/download.html>`_.
 
-Alternative builds supporting macOS High Sierra (10.13) and newer are available from `kyngchaos.com <https://www.kyngchaos.com/software/qgis/>`_
-
 .. _QGIS-macos-testing:
 
 QGIS nightly release
