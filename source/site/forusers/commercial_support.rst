@@ -226,7 +226,7 @@ OpenLayers
 .. |geoideal| image:: /static/site/about/images/geoideal.png
    :width: 150 px
 
-|geoideal| `geoideal, S.A.S. <https://geoideal.co/>`_ (based in Colombia) was created by GeoTux founders to provide commercial support, development and training for QGIS (Desktop, Server as well as its related projects for Mobile and Web applications) and PostgreSQL/PostGIS. We have contributed code to QGIS core (as well as a large number of Python plugins) since 2009.
+|geoideal| `Geoideal S.A.S. <https://geoideal.co/>`_ (based in Colombia) was created by GeoTux founders to provide commercial support, development and training for QGIS (Desktop, Server as well as its related projects for Mobile and Web applications) and PostgreSQL/PostGIS. We have contributed code to QGIS core (as well as a large number of Python plugins) since 2009.
 
 ----
 
