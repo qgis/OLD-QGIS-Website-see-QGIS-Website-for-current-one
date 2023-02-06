@@ -29,7 +29,7 @@ Current list of QGIS user groups
 
 * `QGIS Norge (Norway) - contact: Antonio Armas Diaz <https://qgis.no/>`_
 * `QGIS ZA (South Africa) - contact: Admire Nyakudya <https://qgis.org.za/>`_ (certificate expired 2019-01-24)
-* `Groupe des Utilisateurs de QGIS - France (France) - contact: Harrissou Sant-anna <https://www.osgeo.asso.fr/>`_
+* `Groupe des Utilisateurs de QGIS - France (France) - contact: Harrissou Sant-anna <https://www.osgeo.fr/>`_
 * `QGIS Sverige (Sweden) - contact: Karl-Magnus Jönsson <https://qgis.se/>`_
 * `QGIS Kenya - contact: Benard Mitto <https://qgis.or.ke>`_
 * `QGIS Australia - contact: Andrew Jeffrey <https://www.qgis-au.org>`_
