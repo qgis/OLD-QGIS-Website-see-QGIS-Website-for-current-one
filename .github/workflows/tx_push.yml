@@ -38,9 +38,6 @@ jobs:
         run: |
           TX_TOKEN=$tx_token ./tx push -s
 
-      - name: Cleanup
-        run: find . -maxdepth 1 -name 'tx*' -exec rm {} \;
-
       - name: Update .tx/config if changed
         run: |
           git config --global user.name 'Transifex update'
@@ -48,7 +45,7 @@ jobs:
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           if [[ -n $(git status -s) ]]
           then
-            git add .
+            git add .tx/config
             git commit -m "Adjust .tx/config"
             git push
           else
