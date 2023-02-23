@@ -1,792 +1,372 @@
-# Transifex Client
+# QGIS-Website
 
-## Installation
+> **Note:** The notes provided here are for manual setup, push and publish of the web site. As of QGIS Hackfest 24 in Florence, Italy, August 2022, we also have GitHub workflow automation. Please see the [./github/workflows](./github/workflows) folder for insight into the process used. Also see the 'Publishing safely using rsync' section further down in this document for notes on how to set up the server to received the docs.
 
-### Installing with a script (Linux/Mac)
-You can install the Transifex CLI by executing:
+[![HTML Build](https://github.com/qgis/QGIS-Website/workflows/HTML%20build/badge.svg?branch=master)](https://github.com/qgis/QGIS-Website/actions?query=branch%3Amaster+workflow%3A%22HTML+build%22)
+[![Build Status](https://travis-ci.org/qgis/QGIS-Website.svg?branch=master)](https://travis-ci.org/qgis/QGIS-Website)
 
-```
-curl -o- https://raw.githubusercontent.com/transifex/cli/master/install.sh | bash
-```
+Website is a static generated website using Sphinx (http://sphinx-doc.org/),
+based on restructured text sources (rst: http://docutils.sourceforge.net/rst.html)
+and html (jinja2) templates.
 
-This script will:
-* Try to find the correct version for your system.
-* Download & extract the CLI to the current folder.
-* Check for a profile in one of `.profile, .bashrc, .bash_profile, .zshrc` and append `export PATH="<PWD result>:$PATH"`, so you can call 'tx' from any path.
+Most sources are in source/site. Only frontpage and landing pages are in theme/qgis-theme
 
-**Note:** You need to restart your terminal for the `PATH` changes to be applied.
+Styling is in theme/qgis-theme. This theme is used for website and documentation builds.
+The Website version is the canonical one.
 
-### Download from Github Releases (Linux/Mac/Windows)
-Another way to install the Transifex CLI is to download
-the latest version of the binary from GitHub
-[here](https://github.com/transifex/cli/releases).
 
-Choose the binary according to your system, download it and unzip it.
-Copy the binary into the location you want and update the `PATH` variable
-of your system if necessary.
 
-The other way to install Transifex CLI in the system is to use the code.
-
-Clone the [repository](https://github.com/transifex/cli) and go into the directory
-
-```shell
-cd /path/to/transifex/cli
-```
-### Building from source
-The default way to build the binary is
-
-  ```shell
-  make build
-  ```
-This method requires to have golang in your system. It compiles Transifex CLI and
-moves it into the `./bin/` directory of the repository.
-
-If you don't have golang installed, but you have Docker enabled, you can use
-the following command:
-
-  ```shell
-  make docker-build
-  ```
-
-This will build the binary and it will copy it at `./bin/` in the repository.
-
-## Migrating from older versions of the client
-
-The current version of the client maintains backwards compatibility for the `tx push`
-and `tx pull` commands. So, if you have a CI setup that uses them, you should not have
-to change anything. However, some things need to be different in the configuration files:
-
-The section headers in `.tx/config` need to be different to also store the organization slug.
-So after the migration `<project>.<resource>` should become `o:<org>:p:<proj>:r:<res>`.
-In case something fails during this process, we will provide a message with the failed
-migrated resource so that you can identify and change the section header manually.
-
-You will be prompted for an API token in case you are using a username/password pair in
-your `~/.transifexrc` file or if you are not using one.
-
-If you are migrating an existing software project from an older version of the Transifex
-client, you need to run:
+##  Development (Quick Start)
 
 ```
-tx migrate
+# move into the dir of this repo:
+cd QGIS-Website
+# perform the actualy building of the html (using our 'qgis/sphinx_html_3' image)
+docker run -t -i -v `pwd`:/QGIS-Website -w=/QGIS-Website --rm=true qgis/sphinx_html_3 make html
+# now serve the output of the build on port 80 (usign nginx image) so you can view it in your browser
+docker run -p 80:80 -v `pwd`/output/html:/usr/share/nginx/html nginx
+# open it in your browser:
+open http://localhost/en/site/
+#  (make sure there is not another webserver running on port 80, if so change to another port in the nginx start above, eg 8000 and then use http://localhost:8000/en/site)
 ```
 
-This will take care of all the changes and create a back up file of the original config
-in the same folder as `config_yyyymmddhhss.bak` before we start the migration process.
+## Building the website using Docker
 
-### Differences With the Previous Version
+TLDR: `cd QGIS-Website && ./docker-run.sh html `
 
-The two clients have some distinct differences when looking under the hood.
-The new client is using Go instead of Python
-  * for speed and
-  * for the ability to produce binary files
-  for multiple platforms.
+Note: you will use a QGIS docker image from hub.docker.com, created with the dockerfile from:
 
-Additionally, client is using APIv3 instead of APIv2 because
-  * it is faster (calls occur asynchronously and you don't have to wait
-    for parsing to finish) and
-  * APIv2 is getting deprecated.
+https://github.com/qgis/QGIS-Sysadmin/blob/master/docker/sphinx/Dockerfile-html
 
-`Init`
+First: install Docker.
 
-The new client's init command creates the `.tx` folder in the current path,
-and the config file with the following content which is required for the configuration:
+On Linux: use your package manager.
 
-```shell
-[main]
-host=https://www.transifex.com
-```
+On Windows: install boot2docker from: http://boot2docker.io/
+Some notes: you need admin rights to do this: the install script will generate some keys, just accept all defaults.
+If it does not work the first time, check if you need to 'enable virtualization' in your BIOS (eg Lenovo disables it by default).
 
-In case there is already a `.tx/config` file in the current directory, the users
-will get a prompt that informs them that, if they proceed, the contents of their
-`.tx/config` file will be overridden. A `y/n` answer, is needed to proceed or abort.
+Start a command box (on Windows: double click the boot2docker icon on desktop, you will get a terminal):
 
-`Add`
+Verify that Docker/Boot2docker is working by typing:
 
-For the previous client, parts of functionality in `tx config` command adds resources
-locally.
+    docker run hello-world
 
-In the new client, this command is responsible to add a resource in the local config file.
-Note that it needs all `organization`, `project` and `resource` slugs in order to build
-the resource id for the APIv3.
+If all goes ok, it will download a small Docker image and you will have an output like this:
 
-It will create a new section in the `.tx/config` file for a resource like:
+    richard@kwik~$ docker run hello-world
+    Unable to find image 'hello-world:latest' locally
+    latest: Pulling from hello-world
+    ....
+    Hello from Docker.
+    This message shows that your installation appears to be working correctly.
 
-```ini
-[o:org_slug:p:project_slug:r:resource_slug]
-...
-```
+Now we are going to create a working directory and pull the sources from github,
+either your own fork or the original QGIS repo like here:
 
-`Push`
+    # cd to your home dir
+    cd
+    # create a dev dir and move into it
+    mkdir dev
+    cd dev
+    # clone/copy the sources into it and go into the dir
+    git clone git@github.com:qgis/QGIS-Website.git
+    cd QGIS-Website
+    # check your current path
+    pwd
+    # ^^^ that shows your current path, with me on Linux it is:
+    /home/richard/dev/QGIS-Website
+    # on Win7 and Win8 I had:
+    /c/Users/richard/dev/QGIS-Website
 
-The differences of the new client, are summarized here:
+We are now going to use that QGIS-Website directory as the source and output directory for the
+Docker 'virtual machine' that will build the site.
+We will start this Docker container with a command line like below:
 
-* resource IDs, can be accepted without the `-r` flag
-* when neither `-s/-t` are set, `-s` is assumed
-* `--all` flag creates new languages on Transifex if
-  local files exist for them (on previous client this was the default behavior,
-  now it needs the `--all` flag)
-* without `--all` or `--languages`, the only languages that are considered are
-  the intersection of local and remote languages
+    docker run -t -i -v /home/richard/dev/QGIS-Website:/QGIS-Website -w=/QGIS-Website --rm=true qgis/sphinx_html_3 make html
 
+Where "docker run -t -i qgis/sphinx_html_3 make html" means: "run a Docker container/process based on the qgis/sphinx_html_3 image available online, call make in the working directory of the container, with parameter 'html', meaning: only build english html"
 
-`Pull`
+"-v /home/richard/dev/QGIS-Website:/QGIS-Website" means: use the directory "/home/richard/dev/QGIS-Website" as a virtual directory in the container and name it '/QGIS-Website'
 
-* resource IDs, can be accepted without the `-r` flag
-* when neither `-s/-t` are set, `-t` is assumed
-* without `--all` or `--languages`, the only languages that are considered are
-  the intersection of local and remote languages
-* `--json` download files (translations) as json files
-* `--content_encoding/-e` The encoding of the file. This can be one of the following:
-  * text (default)
-  * base64
+"-w=/QGIS-Website" means that it is to be used as the working dir of Docker
 
-## Usage
+"--rm=true" means remove the container after the build
 
-### Initialising a Project
+Now the actual command lines:
 
-The first thing we need to do is run:
+On linux (use your own repo path here!):
 
-```
-tx init
-```
+    # english html
+    docker run -t -i -v /home/richard/dev/QGIS-Website:/QGIS-Website -w=/QGIS-Website --rm=true qgis/sphinx_html_3 make html
 
-This will simply create an empty `.tx/config` file to mark the current folder
-as a _Transifex project_. Your directory structure should now look like this:
+On windows (tested on Win7 and Win8), use your own repo path here!
 
-```
-- my_project/
-  |
-  + .tx/
-  |  |
-  |  + config
-  |
-  + locale/
-    |
-    + en.php
-```
+IMPORTANT you need 2x a double // in the command !!!   Without it you will get an error message about a wrong working directory:
 
-### Adding Resources to Configuration
+    docker run -t -i -v //c/Users/richard/dev/QGIS-Website:/QGIS-Website -w=//QGIS-Website --rm=true qgis/sphinx_html_3 make html
 
-We will add the php file as a source language file in our local configuration. The simplest way to do this is with `tx add` which will start an interactive session:
+Note: only the first time it will pull the qgis/sphinx_html_3 image (>300Mb) from the online repository https://hub.docker.com/u/qgis/
 
-```
-The Transifex Client syncs files between your local directory and Transifex.
-The mapping configuration between the two is stored in a file called .tx/config
-in your current directory. For more information, visit
-https://docs.transifex.com/client/config/.
-
-What is the path of the source file? locale/en.php
-
-Next, we’ll need a path expression pointing to the location of the
-translation files (whether they exist yet or not) associated with
-the source file. You should include <lang> as a
-wildcard for the language code.
-
-What is your path extension? locale/<lang>.php
-
-Use the arrow keys to navigate: ↓ ↑ → ←  and / toggles search
-? Which organization will this resource be part of?:
-  > Organization 1 (organization-1)
-    Organization 2 (organization-2)
-    Organization 3 (organization-3)
-    Organization 4 (organization-4)
-↓   Organization 5 (organization-5)
-
-
-Use the arrow keys to navigate: ↓ ↑ → ←  and / toggles search
-? Which project will this resource be part of?:
-  > Project 1 (project-1)
-
-Use the arrow keys to navigate: ↓ ↑ → ←  and / toggles search
-? Which is the resource for this file?:
-  > en.php (en_php)
-    Create a new resource ()
-
-SUCCESS  Your configuration has been saved in '.tx/config'
-    You can now push and pull content with 'tx push' and 'tx pull'
-
-```
-
-
-Your `.tx/config` file should look like this:
-
-```ini
-[main]
-host = https://www.transifex.com
-
-[o:organization-1:p:project-1:r:en_php]
-source_file = locale/en.php
-file_filter = locale/<lang>.php
-type = PHP
-```
-
-You can skip steps from the interactive session by adding flags to the `tx add`
-command. In fact, you can skip the interactive session entirely if you provide
-all the flags:
-
-```
-→ tx add \
-    --file-filter=locale/<lang>.php \
-    --type=PHP \
-    --organization=organization-1 \
-    --project=project-1 \
-    --resource=en_php \
-    locale/en.php
-```
-
-#### Adding resources in bulk
-
-> With the old client I could add multiple resource at the same time with `tx
-> config mapping-bulk`. What should I do now?
-
-We decided not to implement this functionality in the new client because its
-usage was complicated and it couldn't satisfy every user's need anyway. You can
-add multiple resources with a relatively simple shell script. For example:
-
-1. Add every subfolder of a `locale` folder as a resource:
-
-   ```sh
-   for FOLDER in $(ls locale); do
-       # Exclusion list
-       if echo "excluded_a excluded_b" | grep -w -q $FOLDER; then
-           continue
-       fi
-
-       tx add \
-           --organization org \
-           --project proj \
-           --resource $FOLDER \
-           --file-filter "locale/$FOLDER/<lang>.po" \
-           --type PO \
-           "locale/$FOLDER/en.po"
-   done
-   ```
-
-2. Add specific folders as resources:
-
-   ```sh
-   for FOLDER in $(echo path/to/folder_a path/to/folder_b path/to/folder_c); do
-
-       # path/to/folder_a => path_to_folder_a
-       RESOURCE_SLUG=$(echo $FOLDER | tr '/' '_')
-
-       tx add \
-           --organization org \
-           --project proj \
-           --resource $RESOURCE_SLUG \
-           --file-filter "$FOLDER/<lang>.po" \
-           --type PO \
-           "$FOLDER/en.po"
-   done
-   ```
-
-3. Turn every `.po` file into a configured resource:
-
-   ```sh
-   for FILEPATH in $(find . -name '*.po'); do
+Now if you want to build a translated website, there is some more work to do. We have to pull the translations from transifex etc. You need your own transifex credentials to do this. So first get an account/password at www.transifex.com and then create a so-called '.transifexrc' file which is used to authorize you at transifex.
+The contents of this file should be like this:
 
-       # ./examples/locale/en.po => examples/locale/en.po
-       FILEPATH=$(echo $FILEPATH | sed 's/^\.\///')
-
-       # examples/locale/en.po => examples_locale
-       RESOURCE_SLUG=$(echo $FILEPATH | sed 's/\/[^\/]*$//' | tr '/' '_')
+    [https://www.transifex.com]
+    hostname = https://www.transifex.com
+    password = yourpasswordhere
+    token =
+    username = yourusernamehere
 
-       # examples/locale/en.po => examples/locale/<lang>.po
-       FILE_FILTER=$(echo $FILEPATH | sed 's/[^\/]*$/<lang>.po/')
-
-       tx add \
-           --organization org \
-           --project proj \
-           --resource $RESOURCE_SLUG \
-           --file-filter "$FILE_FILTER" \
-           --type PO \
-           $FILEPATH
-   done
-   ```
-
-#### Adding remote resources in bulk
-
-If you have content already setup in Transifex, you may want to setup local
-resources in order to pull the language files on your system. In order to do
-that, you can run:
-
-```sh
-tx add remote \
-    --file-filter 'translations/<project_slug>.<resource_slug>/<lang>.<ext>'
-    https://www.transifex.com/myorganization/myproject/dashboard/
-```
-
-This will create entries in your configuration file for each resource in your
-remote project. ie the configuration file may look like this:
-
-```ini
-[main]
-host = https://www.transifex.com
-
-[o:myorganization:p:myproject:r:resource1]
-file_filter = translations/myproject.resource1/<lang>.po
-source_file = translations/myproject.resource1/en.po
-type = PO
-minimum_perc = 0
-
-[o:myorganization:p:myproject:r:resource2]
-file_filter = translations/myproject.resource2/<lang>.json
-source_file = translations/myproject.resource2/en.json
-type = KEYVALUEJSON
-minimum_perc = 0
-
-[o:myorganization:p:myproject:r:resource3]
-file_filter = translations/myproject.resource3/<lang>.html
-source_file = translations/myproject.resource3/en.html
-type = HTML
-minimum_perc = 0
-```
-
-The options for this command are:
-
-- `--file-filter`: What to use as the file_filter and source_file options in
-  the resulting configuration. This is a pattern that accepts the following
-  parameters:
-
-  - `<project_slug>`
-  - `<resource_slug>` _(required)_
-  - `<lang>` _(required)_
-  - `<ext>`
-
-  The default value for this option is
-  `translations/<project_slug>.<resource_slug>/<lang>.<ext>` (the one we showed
-  in our example)
-
-- `--minimum-perc`: What to use as the minimum_perc option in the resulting configuration
-
-- One or more project URLs.
-
-After setting things up, you can pull the source files with `tx pull --source`.
-
-### Pushing Files to Transifex
-
-`tx push` is used to push language files (usually source language files) from
-your machine to Transifex. You will most likely want to do that frequently
-during the lifetime of you project when new source strings are introduced or
-existing ones are changed. This will make the new strings available to
-translators as soon as possible.
-
-The simplest invocation of `tx push` is simply:
-
-```sh
-→ tx push
-```
-
-This will attempt to push the source file of all local resources that have been
-configured with `tx add`.
-
-**Limiting resources:**
-
-You can limit the resources you want to push with:
-
-```sh
-→ tx push [RESOURCE_ID]...
-```
-
-A resource ID must refer to a resource that has already been configured with
-`tx add` and has the form `<project>.<resource>`. So, if the URL of your
-resource in Transifex is
-`https://www.transifex.com/myorganization/myproject/myresource`, then the
-resource ID will be `myproject.myresource`.
-
-> Note: for backwards compatibility with previous versions of the client, you
-> can also use the `-r/--resources` flag. You can also use both at the same
-> time:
->
-> ```sh
-> → tx push p1.r1 p1.r2 -r p1.r3,p1.r4
-> # Equivalent to
-> → tx push p1.r1 p1.r2 p1.r3 p1.r4
-> ```
-
-`tx push` will create the resources on Transifex if they are missing.
-
-**Language management:**
-
-By default, the client will push the source file (the file that's being pointed
-to by the `source_file` configuration option from `tx add`). If you use the
-`-t/--translation` flag, `tx push` will push translation files. This may be
-desirable if, for example, you previously pulled translation files with the
-`--mode translator` option, translated using an offline translation tool and
-now you want to push your work to Transifex, or if you are migrating from
-another localization management service to Transifex. If you use both the `-t`
-_and_ the `-s/--source` flags, then you will push both the source file and the
-translation files.
-
-When you use `-t`, the client will find all local files that match the
-`file-filter` configuration option. The files that are found, and their language
-codes constitute the _local_ languages. By default, the client will ask the
-Transifex API for the languages that are supported by the project you are
-pushing to (the _remote_ languages) and will only push languages that are both
-_local_ and _remote_ (aka the **intersection** of _local_ and _remote_
-languages).
-
-You can use the `-l/--languages` flag to handpick which languages you want to
-push. It only makes sense to include _local_ languages with the `-l` flag, ie
-languages for which a file exists according to the `file-filter` configuration
-option. The client will then push **only** the language files you have
-specified. If you specify _local_ languages that are not yet supported by the
-remote Transifex project, the client will attempt to add these languages to the
-project first. Be careful of this since it may affect your pricing if you are a
-paying customer.
-
-```sh
-→ tx push -t -l fr,de,pt_BR
-```
-
-The `-a/--all` flag will attempt to push **all** _local_ languages to the
-remote Transifex project, adding them if necessary. Essentially, `-a` is
-equivalent to using `-l` with all the _local_ language codes.
-
-Transifex uses the _ISO/IEC 15897_ standard for language codes (for example
-`en_US`). If you use a different format for the _local_ language codes, you can
-define a mapping in your configuration file `.tx/config` (later we will offer
-the `tx config` command to make editing the configuration more convenient). You
-can specify these mappings for all configured resources by adding them to the
-`[main]` section or you can specify mappings per resource. The "per-resource"
-mappings take precendence. Configuring a language mapping looks like this:
-
-```ini
-# ...
-[o:myorganization:p:myproject:r:myresource]
-source-file = ...
-# ...
-lang_map = pt_PT: pt-pt, pt_BR: pt-br
-```
-
-This means that the _remote_ `pt_PT` language code maps to the _local_ `pt-pt`
-language code and the _remote_ `pt_BR` language code maps to the _local_
-`pt-br` language code.
-
-The `-l` flag works with both _local_ and _remote_ language codes.
-
-**Skipping pushing older files:**
-
-The default behavior of the `tx push` command is to skip pushing a file when
-the remote resource on Transifex has had a change more recently than when the
-local file was last edited. To make sure that the local files are pushed even
-if they are older than the remote resource, use the `-f/--force` flag.
-
-You can use the `--use-git-timestamps` flag to compare against the last time
-the local files were *committed* to the local git repository instead of the
-last modification time in the filesystem. This can be useful in cases where you
-have just cloned a repository or pulled a branch. In this case, the filesystem
-modification time will reflect the time you pulled and not the time the file
-was edited by an actual person. If you use the `--use-git-timestamps` flag and
-no information about a local git repository can be found, then the client will
-fall back to taking the filesystem timestamp into account.
-
-**Other flags:**
-
-- `--xliff`: Push xliff files instead of regular ones. The files must be
-  located **in the same place** as indicated by the `file-filter` configuration
-  option, but with the added `.xlf` suffix (`tx pull`ing with the `--xliff`
-  option will put xliff files in the correct positions so you will probably not
-  have to do this by hand)
-
-- `--branch`: Using this flag, you can access copies of the regular remote
-  resource that are tied to the provided branch. So if `tx push proj.res`
-  pushes to the `https://www.transifex.com/org/proj/res` resource, then `tx
-  push --branch foo proj.res` will push to the
-  `https://www.transifex.com/org/proj/foo--res` resource. This way you can
-  separate the localization effort across different branches. If you supply an
-  empty string as the branch (`--branch ''`), then the client will attempt to
-  figure out the currently active branch in the local git repository. For
-  example:
-
-  ```sh
-  → git checkout -b new_feature
-  → # Edit some source code files
-  → # Extract source strings into language file
-  → tx push --branch 'new_feature' myproject.myresource
-  → # Or
-  → tx push --branch '' myproject.myresource
-  ```
-
-  This way, the "regular"
-  `https://www.transifex.com/myorganization/myproject/myresource` resource will
-  not be affected by the changes you did to the source strings and the
-  localization effort can be done in parallel on the
-  `https://www.transifex.com/myorganization/myproject/new_feature--myresource`
-  resource.
-
-- `--skip`: Normally, if an upload fails, the client will abort. This may not
-  be desirable if most uploads are expected to succeed. For example, the reason
-  of the failed upload may be a syntax error in _one_ of the language files. If
-  you set the `--skip` flag and an upload fails, then the client will simply
-  print a warning and move on to the next language file.
-
-- `--workers/-w` (default 5, max 30): The client will push files in parallel to improve
-  speed. The `--workers` flag sets the number of concurrent uploads possible at
-  any time.
-
-### Pulling Files from Transifex
-
-`tx pull` is used to pull language files (usually translation language files) from
-Transifex to your machine. Most likely, you will do this regularly when you want to
-incorporate newly available translations from Transifex into it.
-
-The simplest invocation of `tx pull` is simply:
-
-```shell
-→ tx pull
-```
-
-This will attempt to pull the translation files of all local resources that have been
-configured with `tx add`.
-
-**Limiting resources:**
-
-You can limit the resources you want to pull with:
-
-```shell
-→ tx pull [RESOURCE_ID]...
-```
-
-As stated in the `tx push` section, a resource ID must refer to a resource that has
-already been configured with `tx add` and has the form `<project>.<resource>`.
-
-> Note: for backwards compatibility with previous versions of the client, you
-> can also use the `-r/--resources` flag. You can also use both at the same
-> time:
->
-> ```sh
-> → tx pull p1.r1 p1.r2 -r p1.r3,p1.r4
-> # Equivalent to
-> → tx pull p1.r1 p1.r2 p1.r3 p1.r4
-> ```
-
-**Language management:**
-
-By default, the client will pull the translation files of the existing files in the paths
-that are defined in the `file_filter` configuration option from `tx add`.
-
-For instance, if the directory structure looks like this:
+Copy this file to the root of your repo. With me, that is /home/richard/dev/QGIS-Website. NOW you can run it using 'make full' and a LANG parameter like this:
+
+    # french html (linux)
+    docker run -t -i -v /home/richard/dev/QGIS-Website:/QGIS-Website -w=/QGIS-Website --rm=true qgis/sphinx_html_3 make full LANG=fr
+
+Besides this, you can also have a look into the scripts docker-run.sh and docker-world.sh which are used on our own webservers.
+
+## Building the website using Make
+
+Building is only tested on Linux systems using make, on windows we now started a Paver setup (see below)
+
+To be able to run localisation targets you will need Sphinx 1.2 which comes with pip.
+Sphinx coming with most distro's is just 1.1.3. You will get a gettext error with those.
+
+Best to run the make file in a virtual env ( http://www.virtualenv.org/ ):
+
+Move to a directory (~/myvirtualenvs/) and create a virtualenv enabled dir:
+
+    virtualenv sphinx  # one time action, only to create the environment
+    cd sphinx
+
+And activate this virtualenv
+
+    source bin/activate
+    # now you will see sphinx before your prompt:
+    (sphinx)richard@mymachine
+
+Now always activate your environment before building. To deactivate, you can do:
+
+    deactivate
+
+You can install all tools in one go via the REQUIREMENTS.txt here at the root of this repo:
+
+    pip install -r REQUIREMENTS.txt
+
+Alternatively, do it one by one:
+
+Install sphinx 1.2 now in your virtual env:
+
+    pip install sphinx==1.2
+
+Sphinx-intl extension ( https://pypi.python.org/pypi/sphinx-intl ):
+
+    pip install sphinx-intl
+
+Then build:
+
+    make html (to build the english language)
+    make LANG=nl html (to build the dutch version)
+
+If you want add the QGIS-Documentation docs into the build, you either need to manually copy the sources, resources
+and po files into the website project. Or use the fullhtml target of make (which will checkout the 2.0 branch):
+
+    # to build english:
+    make fullhtml
+    # to build eg dutch:
+    make LANG=nl fullhtml
+
+To gather new strings in a pot (.po) file for your language, and merge them with
+excisting translations in the po files (normally to be ran by your language maintainer):
+
+    make pretranslate LANG=xx  # where xx is your language code
+
+To add a new language (the scripts will need some directory structure):
+
+    make createlang LANG=xx
+
+See the website in action: http://www.qgis.org
+
+
+## Building the website using Paver
+
+Paver is a python based Make-like tool (http://paver.github.io/paver/)
+
+Paver can be used on Linux and Windows (somebody can test on OSX?)
+
+There are two scripts available:
+
+- bootstrap.py (for setting up the python related stuff)
+- pavement.py (the config file for Paver)
+
+General use:
+
+    # first let bootstrap.py install all stuff
+    python bootstrap.py
+
+    # if the script is complaining about easysetup missing:
+    # download: https://bitbucket.org/pypa/setuptools/raw/bootstrap/ez_setup.py
+    # and install that first:
+    python ez_setup.py
+
+    # after succesfull running of bootstrap.py you have all wheels on place, the script has created a virtual
+    environment (called "virtualenv") with all Sphinx related python machinery. Now, each time you want to build,
+    you just need to:
+    # 1) activate a virtual environment with all Sphinx related python machinery
+    # 2) run the actual script to build the website
+
+    # to go into the virtual environment:
+    # on Windows:
+    virtualenv\Scripts\activate
+    # on Linux:
+    source virtualenv/bin/activate
+
+    # now build (only website, no included Documentation yet):
+    # eg english only:
+    paver html
+
+To be able to build localized versions of the Website with paver the
+'Transifex-client (tx)' is needed.
+
+On linux, install with::
+
+	# note that we use a slightly older version of tx
+	pip install transifex-client==0.9
+
+On Windows, you should download it from: http://files.transifex.com/transifex-client/0.10/tx.exe
+see http://support.transifex.com/customer/portal/articles/998120-client-on-windows
+
+To make tx.exe usable in the paver script, either put it IN this directory next to the pavement.py file, OR add it to your PATH
+
+IMPORTANT: to be able to pull from transifex.com, you will need a credentials file.
+This file should be named: ``.transifexrc`` and easiest is to put it in your home dir C:/users/you.
+Another option is to put it in the root of this project, but be carefull to not put your credentials in Github :-)
+
+The file should contain this::
+
+	[https://www.transifex.com]
+	hostname = https://www.transifex.com
+	password = yourtransifexpassword
+	token =
+	username = yourtransifexusername
+
+With a working tx and a .transifexrc, you should be able to build for example the german version of docs via::
+
+    # german:
+    paver html -l de
+
+During the build you will see this command::
+
+	tx pull --minimum-perc=1 --skip -f -l de
+
+This will pull all german po files from transifex (based on the .tx/config file in the root of this project)
+
+
+## Styling the website
+
+Most javascript and css is in theme/qgis-style/ files.
+
+theme/qgis-style/qgis-style.css is based on Less (see http://lesscss.org/ )
+
+To make changes to CSS on MacOSX
+
+    download / install / open Less app (http://incident57.com/less/)
+    in Finder navigate to themes/qgis-theme/static/
+    drag qgis-style.less file to the Less app
+    make changes in qgis-style.less
+    on save it should automatically compile into qgis-style.css
+    for advance usage read docs on Less CSS: http://lesscss.org/
+
+    (if you have any questions ping yulka_plekhanova on Skype)
+
+To make changes on cli Linux
+
+    # install node-less and the compressor
+    sudo apt-get install node-less yui-compressor
+    # compile the less file to a normal css file:
+    lessc qgis-style.less qgis-style.css
+    # or
+    lessc qgis-style.less > qgis-style.css
+    # optional: compress the css
+    yui-compressor -o qgis-style.css qgis-style.css
+
+
+## Publishing safely using rsync
+
+In this section we describe how you can set up a small cloud server to receive the static content produced by sphinx, suitable for publishing on the internet.
+
+### Server configuration
+
+We use a CX11 Hetzner cloud machine configured with an external volume as per the image below:
+
+![image](https://user-images.githubusercontent.com/178003/185931856-f3e9abef-cb4e-4df7-94f9-73fe810b8db6.png)
+
+Using the external volume allows us to grow the disk without needing to upgrade the server itself.
+
+The configuration of this server is simple: We set up a non-privaledged user that is only allowed to rsync files to a specific directory. In the steps below we show the process for doing this.
 
 ```
-- my_project/
-  |
-  + .tx/
-  |  |
-  |  + config
-  |
-  + locale/
-    |
-    + en.php
+useradd runner -m -d /home/runner
+su - runner
+mkdir .ssh
+chmod 0600 .ssh
+cd .ssh/
+rm id_rsa*
+echo 'command="/usr/bin/rrsync -wo /mnt/HC_Volume_22264126" ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDAca8gta0y4esFE8Ro9nq9uOPWvd9+M7kK9DZ84tIxI runner@qgis' > authorized_keys
+chmod 0600 authorized_keys
+exit
+chown runner /mnt/HC_Volume_22264126
 ```
 
-and the `.tx/config` contains:
+Then the Github action worker is set up to upload files to /mnt/HC_Volume_22264126 - see the [./github/workflows](./github/workflows) for details.
 
-```ini
-source_file = locale/en.php
-file_filter = locale/<lang>.php
-```
-
-If you use the `-s/--source` flag, `tx pull` will pull the source file that is
-pointed from the `source_file` option of the config file.
-
-If you use both the `-t/--translation` _and_ the `-s/--source` flags,
-then you will pull both the source file, and the translation files.
-
-Then the client will try to search for any existing language file located
-at the `locale/<lang>` path (where `<lang>` is the language code) and will
-try to update it, for example `locale/el.php`, `locale/fr.php`, etc.
-
-In case that there aren't any translation files, like in the structure above,
-then you must either use the `-l/--language` or the `-a/--all` flag.
-
-Use the `-l/--languages` flag to handpick which languages you want to
-pull. It only makes sense to include _remote_ languages with the `-l` flag, ie
-languages for which a file does not exist according to the `file_filter`
-configuration option. The client will then pull **only** the language
-files you have specified:
-
-```shell
-tx pull -l el,fr,nl
-```
-
-> Note:
-> The languages that are defined with the -l/--language flag
-> should belong to the project for the client to download them.
-
-The `-a/--all` flag will attempt to pull **all** languages from the
-remote Transifex project. Essentially, `-a` is equivalent to using
-`-l` with all the project language codes.
-
-As stated before, Transifex uses the _ISO/IEC 15897_ standard for
-language codes. If you use a different format for the _local_ language
-codes, you can  define a mapping in your configuration file `.tx/config`.
-You can specify these mappings for all configured resources by adding them
-to the `[main]` section or you can specify mappings per resource.
-The "per-resource" mappings take precendence. Configuring a language mapping
-looks like this:
-
-```ini
-# ...
-[o:myorganization:p:myproject:r:myresource]
-source-file = ...
-# ...
-lang_map = pt_PT: pt-pt, pt_BR: pt-br
-```
-
-This means that the _remote_ `pt_PT` language code maps to the _local_ `pt-pt`
-language code and the _remote_ `pt_BR` language code maps to the _local_
-`pt-br` language code.
-
-The `-l` flag works with _remote_ language codes.
-
-**Skipping pulling older files:**
-
-The default behavior of the `tx pull` command is to skip pulling a file when
-a local file on a machine has had a change more recently than when the
-remote resource was last edited. To make sure that the remote resources
-are pulled even if they are older than the local files, use the `-f/--force` flag.
-
-You can use the `--use-git-timestamps` flag to compare against the last time
-the local files were *committed* to the local git repository instead of the
-last modification time in the filesystem. This can be useful in cases where you
-have just cloned a repository or pulled a branch. In this case, the filesystem
-modification time will reflect the time you pulled and not the time the file
-was edited by an actual person. If you use the `--use-git-timestamps` flag and
-no information about a local git repository can be found, then the client will
-default to taking the filesystem timestamp into account.
-
-**Other flags:**
-
-- `--xliff`: Pull xliff files instead of regular ones. The files will be
-  placed **in the same place** as indicated by the `source-file` and
-  `file-filter` configuration options, but with the added `.xlf` suffix.
-
-- `--json`: Pull translation files as json instead of regular ones. As above,
-  the files will be placed **in the same place** as indicated by the `file-filter`
-  configuration options, but with the added `.json` suffix. Currently, source
-  files are not supporting json format.
-
-- `--disable-overwrite`: If a file exists do not update it. This is useful
-  when using `-a/--all` flag and you don't want to change the existing files
-  but only download other language files.
-
-- `--branch`: Using this flag, you can access copies of the regular remote
-  resource that are tied to the provided branch. So if `tx pull proj.res`
-  pulls from the `https://www.transifex.com/org/proj/res` resource, then `tx
-  pull --branch foo proj.res` will pull from the
-  `https://www.transifex.com/org/proj/foo--res` resource. This way you can
-  separate the localization effort across different branches. If you supply an
-  empty string as the branch (`--branch ''`), then the client will attempt to
-  figure out the currently active branch in the local git repository. For
-  example:
-
-  ```sh
-  → git checkout new_feature
-  → # Get updated files for this branch
-  → tx pull --branch 'new_feature' myproject.myresource
-  → # Or
-  → tx pull --branch '' myproject.myresource
-  ```
-
-  This way, the "regular"
-    `https://www.transifex.com/myorganization/myproject/myresource` resource will
-  not be affected by the changes one did, and the localization effort can be done
-  in parallel on the
-  `https://www.transifex.com/myorganization/myproject/new_feature--myresource`
-  resource.
-
-- `--skip`: Normally, if a download fails, the client will abort. This may not
-  be desirable if most downloads are expected to succeed. For example, the reason
-  of the failed download may be a syntax error in _one_ of the language files. If
-  you set the `--skip` flag and an upload fails, then the client will simply
-  print a warning and move on to the next language file.
-
-- `--minimum_perc=MINIMUM_PERC` Specify the minimum translation completion
-  threshold required in order for a file to be downloaded.
-
-- `--workers/-w` (default 5, max 30): The client will pull files in parallel to improve
-  speed. The `--workers` flag sets the number of concurrent downloads possible at
-  any time.
-
-### Removing resources from Transifex
-The tx delete command lets you delete a resource that's in your `config` file and on Transifex.
-
-To delete a resource, use the following command:
-```
-tx delete <project_slug>.<resource_slug>
-```
-
-To delete all resources in a specific project at once, instead of referring to a specific resource_slug, you can use the asterisk character as follows:
-```
-tx delete project_slug.*
-or
-tx delete project_slug.\*
-```
-
-> Note: for backwards compatibility with previous versions of the client, you
-> can also use the `-r/--resources` flag. You can also use both at the same
-> time:
->
-> ```sh
-> tx delete -r <project_slug>.<resource_slug> ....
-> ```
-
-**Other flags:**
-- `--skip`: Normally, if a delete fails, the client will abort. This may not
-  be desirable if most deletes are expected to succeed. For example, the reason
-  of the failed delete may be a a resource that has translated content. If
-  you set the `-s/--skip` flag and an delete fails, then the client will simply
-  print a warning and move on to the next resource.
-- `--force`: In case you want to proceed to a deletion even if resources have
-  translations use the `-f/--force` flag.
-- `--branch`: In case you want to delete a resource's branch that is on Transifex.
-  If you supply an empty string as the branch (`--branch ''`), then the client
-  will attempt to figure out the currently active branch in the local git repository.
-
-
-
-### Getting the local status of the project
-The status command displays the existing configuration in a human readable format. It lists all resources that have been initialized under the local repo/directory and all their associated translation files:
+Next we need to harden the server a little and set up NGINX to publish the files that are pushed to the HC_Volume_22264126 folder.
 
 ```
-tx status
-myproject -> default (1 of 1)
-Translation Files:
- - en: po/smolt.pot (source)
- - ar: po/ar.po
- - as: po/as.po
- - bg: po/bg.po
- - bn_IN: po/bn_IN.p
- ...
- ```
+echo "PasswordAuthentication no" >> /etc/ssh/sshd_config
+systemctl restart sshd
+# installed by default on newer ubuntu distro versions
+apt install unattended-upgrades
+apt install fail2ban
+# Install crowdsec host protection
+curl -s https://packagecloud.io/install/repositories/crowdsec/crowdsec/script.deb.sh | sudo bash
+apt-get install crowdsec
+apt install nginx
+vim /etc/nginx/sites-enabled/default.conf
+```
 
- To get the status of specific resources just add the resources you want in your command:
+Now change the site root to use the volume directory.
 
- ```
- tx status <project_slug>.<resource_slug> ....
- ```
+```
+root /mnt/HC_Volume_22264126;
+```
 
-> Note: for backwards compatibility with previous versions of the client, you
-> can also use the `-r/--resources` flag. You can also use both at the same
-> time:
->
-> ```sh
-> tx status -r <project_slug>.<resource_slug> ....
-> ```
+Then restart nginx and push a little temp folder to test with:
 
-### Updating the CLI app
-The `tx update` command provides a way to self update the application without going to Github releases page.
+```
+systemctl restart nginx
+su - runner -c "echo 'hi' > /mnt/HC_Volume_22264126/index.html"
+```
 
- ```
- tx update
- ```
+Now in cloudflare create a DNS entry. For testing we create a new subdomain, but ultimately you should create it in the root domain:
 
- **Flags:**
-- `--check`: Check if there is a new release. Nothing gets updated.
-- `--no-interactive`: Proceed to update if there is a newer version without seeing the confirmation prompt.
-- `--debug`: Enable logging for the binary update process.
-# License
+![image](https://user-images.githubusercontent.com/178003/185939581-9f01123f-12ba-4b6c-8f41-305dc98b581f.png)
 
-Licensed under Apache License 2.0, see [LICENSE](LICENSE) file.
+You will see our site is not yet secure:
+
+![image](https://user-images.githubusercontent.com/178003/185940833-a242e75a-1d73-4d04-bb36-952d24c36b4a.png)
+
+So we set up certbos:
+
+Next get a Letsencrypt certificate for the site:
+`
+```
+apt install snapd
+snap install core; snap refresh core
+snap install --classic certbot
+sudo ln -s /snap/bin/certbot /usr/bin/certbot
+sudo certbot --nginx
+```
+
+Then open the site in your browser to test:
+
+![image](https://user-images.githubusercontent.com/178003/185943941-86c3e444-ed49-4c58-bf42-5e39b8fe9e68.png)
