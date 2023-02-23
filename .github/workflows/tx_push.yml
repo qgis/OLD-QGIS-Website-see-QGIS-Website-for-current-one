@@ -39,7 +39,7 @@ jobs:
           TX_TOKEN=$tx_token ./tx push -s
 
       - name: Cleanup
-        run: find  . -maxdepth 1 -name 'tx*' -exec rm {} \;
+        run: find . -maxdepth 1 -name 'tx*' -exec rm {} \;
 
       - name: Update .tx/config if changed
         run: |
