@@ -1,19 +1,22 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 # Richard Duivenvoorde <richard@duif.net>, 2016
-# Sorin Călinică <scalinica@gmail.com>, 2014-2015,2019-2021
+# Sorin Călinică <scalinica@gmail.com>, 2014-2015,2019-2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2014-10-19 11:13+0000\n"
-"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2014-2015,2019-2021\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2014-2015,2019-2022\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
@@ -22,6 +25,10 @@ msgid "Changelog for QGIS 2.2"
 msgstr "Jurnalul schimbărilor pentru QGIS 2.2"
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:7
+msgid "Release date: 2014-02-22"
+msgstr "Data lansării: 2014-02-22"
+
+#: ../../source/site/forusers/visualchangelog220/index.rst:9
 msgid ""
 "Change log for the next release of QGIS 2.2.0. The emphasis on this release "
 "has been very much on polish and performance - we have added many new "
@@ -31,63 +38,63 @@ msgid ""
 " more viable platform for creating great cartographic outputs."
 msgstr "Jurnalul schimbărilor pentru următoarea versiune a QGIS, 2.2.0. În această versiune, accentul a fost pus foarte mult pe cizelare și performanță - s-au adăugat multe caracteristici noi, reglaje și îmbunătățiri, pentru a face interfața cu utilizatorul mai consistentă și pentru a-i conferi un aspect profesional (și, sperăm, mai ușor de utilizat). Compozitorul (folosit pentru crearea de hărți gata pentru imprimare), a înglobat foarte multă muncă, în scopul transformării sale într-o platformă viabilă, dedicată obținerii unor rezultate cartografice deosebite."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:15
+#: ../../source/site/forusers/visualchangelog220/index.rst:17
 msgid ""
 "Whenever new features are added to software they introduce the possibility "
 "of new bugs - if you encounter any problems with this release, please file a"
 " ticket `on the QGIS Bug Tracker <http://hub.qgis.org>`__."
 msgstr "Ori de câte ori se adaugă noi caracteristici în aplicație, apare posibilitatea unor noi erori - dacă întâmpinați probleme cu această versiune, vă rugăm să le semnalați la `QGIS Bug Tracker <http://hub.qgis.org>`__."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:20
+#: ../../source/site/forusers/visualchangelog220/index.rst:22
 msgid ""
 "We would like to thank the developers, documenters, testers and all the many"
 " folks out there who volunteer their time and effort (or fund people to do "
 "so)."
 msgstr "Dorim să le mulțumim dezvoltatorilor, testerilor, autorilor documentațiilor și tuturor acelor persoane care, în mod voluntar, au consumat timp și efort (sau celor care au finanțat diverse persoane în acest scop)."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:24
+#: ../../source/site/forusers/visualchangelog220/index.rst:26
 msgid ""
 "From the QGIS community we hope you enjoy this release! If you wish to "
 "donate time, money or otherwise get involved in making QGIS more awesome, "
 "please wander along to `qgis.org <https://qgis.org>`__ and lend a hand!"
 msgstr "Din partea comunității QGIS, sperăm să vă bucurați de această versiune! Dacă doriți să contribuiți cu efort, bani, sau să vă implicați, într-un mod care ar putea îmbunătăți QGIS, vă rugăm să răsfoiți site-ul `qgis.org <https://qgis.org>`__ și să oferiți o mână de ajutor!"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:29
+#: ../../source/site/forusers/visualchangelog220/index.rst:31
 msgid ""
 "Finally we would like to thank our official sponsors for the invaluable "
 "financial support they provide to this project:"
 msgstr "În fine, am dori să mulțumim sponsorilor noștri oficiali pentru sprijinul financiar de neprețuit, pe care l-au oferit acestui proiect:"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:32
+#: ../../source/site/forusers/visualchangelog220/index.rst:34
 msgid ""
 "GOLD Sponsor: `Asia Air Survey, Japan <http://www.asiaairsurvey.com/>`__"
 msgstr "Sponsor de AUR: `Asia Air Survey, Japonia <http://www.asiaairsurvey.com/>`__"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:34
+#: ../../source/site/forusers/visualchangelog220/index.rst:36
 msgid "SILVER Sponsor: `G.A.I.A. mbH, Germany <http://www.gaia-mbh.de/>`__"
 msgstr "Sponsor de ARGINT: `G.A.I.A. mbH, Germania <http://www.gaia-mbh.de/>`__"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:35
+#: ../../source/site/forusers/visualchangelog220/index.rst:37
 msgid ""
 "SILVER Sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`__"
 msgstr "Sponsor de ARGINT: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`__"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:37
+#: ../../source/site/forusers/visualchangelog220/index.rst:39
 msgid "BRONZE Sponsor: `www.molitec.it, Italy <http://www.molitec.it/>`__"
 msgstr "Sponsor de BRONZ: `www.molitec.it, Italia <http://www.molitec.it/>`__"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:38
+#: ../../source/site/forusers/visualchangelog220/index.rst:40
 msgid "BRONZE Sponsor: `www.argusoft.de, Germany <http://www.argusoft.de>`__"
 msgstr "Sponsor de BRONZ: `www.argusoft.de, Germania <http://www.argusoft.de>`__"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:40
+#: ../../source/site/forusers/visualchangelog220/index.rst:42
 msgid ""
 "A current list of donors who have made financial contributions large and "
 "small to the project can be seen on our `donors list "
 "<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__."
 msgstr "Consultarea listei actualizate a donatorilor care au sprijinit financiar proiectul cu diverse sume, se poate face la `<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:44
+#: ../../source/site/forusers/visualchangelog220/index.rst:46
 msgid ""
 "If you would like to make a donation or sponsor our project, please visit "
 "`our sponsorship page "
@@ -97,38 +104,38 @@ msgid ""
 "maintain project infrastructure and fund bug fixing efforts."
 msgstr "Dacă doriți să efectuați o donație sau să sponsorizați proiectul nostru, vizitați `pagina dedicată sponsorizărilor <https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ pentru detalii. QGIS este un soft gratuit, dumneavoastră neavând nici o obligație în acest sens. Sponsorizările QGIS ne ajută să finanțăm întâlnirea dezvoltatorilor o dată la șase luni, să menținem infrastructura proiectului și să finanțăm eforturile de eliminare a erorilor."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:57
+#: ../../source/site/forusers/visualchangelog220/index.rst:59
 msgid "Application and Project Options"
 msgstr "Opțiunile Aplicației și ale Proiectului"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:60
+#: ../../source/site/forusers/visualchangelog220/index.rst:62
 msgid "Feature: Support for measurement in Nautical Miles"
 msgstr "Funcționalitate: Suport pentru măsurarea în Mile Nautice"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:62
+#: ../../source/site/forusers/visualchangelog220/index.rst:64
 msgid ""
 "For you seafaring folks out there, you can now measure distances using "
 "nautical miles. To enable this, use the ``Settings -> Options -> Map Tools``"
 " option panel."
 msgstr "Pentru navigatorii maritimi, este de acum disponibilă măsurarea distanțelor folosind milele maritime. Pentru a activa această opțiune, utilizați panoul de opțiuni ``Settings -> Options -> Map Tools``."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:66
+#: ../../source/site/forusers/visualchangelog220/index.rst:68
 msgid "|image1|"
 msgstr "|image1|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:451
+#: ../../source/site/forusers/visualchangelog220/index.rst:453
 msgid "image1"
 msgstr "image1"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:69
+#: ../../source/site/forusers/visualchangelog220/index.rst:71
 msgid "Data Providers"
 msgstr "Furnizorii de date"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:72
+#: ../../source/site/forusers/visualchangelog220/index.rst:74
 msgid "Feature: One to many relations support"
 msgstr "Funcționalitate: Suport pentru relațiile one to many"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:74
+#: ../../source/site/forusers/visualchangelog220/index.rst:76
 msgid ""
 "This release sports the ability to define 1:n relations. The relations are "
 "defined in the project properties dialog. Once relations exist for a layer, "
@@ -139,35 +146,35 @@ msgid ""
 "`here <http://blog.vitu.ch/10112013-1201/qgis-relations>`__."
 msgstr "Această versiune are abilitatea de a defini relațiile 1:n. Relațiile sunt definite în fereastra proprietăților proiectului. O dată ce există relații pentru un strat, un nou element de interfață cu utilizatorul, de tip formular (de exemplu, atunci când se identifică o entitate și se deschide formularul său) va lista entitățile aferente. Acest lucru oferă o modalitate puternică de a exprima, de exemplu, istoria inspecțiilor de-a lungul unei conducte sau a unui segment de drum. Puteți afla mai multe despre suportul pentru relații `aici <http://blog.vitu.ch/10112013-1201/qgis-relations>`__."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:83
+#: ../../source/site/forusers/visualchangelog220/index.rst:85
 msgid "|image2|"
 msgstr "|image2|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:452
+#: ../../source/site/forusers/visualchangelog220/index.rst:454
 msgid "image2"
-msgstr ""
+msgstr "image2"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:86
+#: ../../source/site/forusers/visualchangelog220/index.rst:88
 msgid "Feature: DXF Export tool"
 msgstr "Funcționalitate: Instrument de export DXF"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:88
+#: ../../source/site/forusers/visualchangelog220/index.rst:90
 msgid "A new tool for exporting DXF's has been added to the ``Project`` menu"
 msgstr "Un nou instrument pentru exportul DXF a fost adăugat la meniul ``Project``"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:90
+#: ../../source/site/forusers/visualchangelog220/index.rst:92
 msgid "|image3|"
 msgstr "|image3|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:453
+#: ../../source/site/forusers/visualchangelog220/index.rst:455
 msgid "image3"
 msgstr "image3"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:93
+#: ../../source/site/forusers/visualchangelog220/index.rst:95
 msgid "Feature: Paste as new vector layer"
 msgstr "Funcționalitate: Lipire ca strat vectorial nou"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:95
+#: ../../source/site/forusers/visualchangelog220/index.rst:97
 msgid ""
 "It is a common activity in a GIS to create a sub-selection and then to "
 "create a new layer from the selection. In QGIS you can already do ``save "
@@ -181,26 +188,26 @@ msgid ""
 "a new layer now."
 msgstr "Crearea unei sub-selecții, urmată de crearea unui nou strat din respectiva selecție, reprezintă o activitate comună într-un GIS. În QGIS puteți face deja ``salvarea ca selecție``, pentru a salva un strat dintr-o selecție, iar de acum există și o funcționalitate care vă permite crearea unui nou fișier sau a unui strat de memorie, din ceea ce se află în clipboard. Pur și simplu selectați anumite entități, le copiați în clipboard și apoi faceți ``Edit-> Lipire entități ca`` și alegeți din submeniu fie ``Nou strat vectorial``, fie ``Nou strat în memorie``. Cea mai bună parte a acestei noi caracteristici este faptul că, dacă există unele entități de tip Well Known Text (WKT) în clipboard, provenite din altă aplicație, le puteți insera de acum ca un nou strat în QGIS."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:106
+#: ../../source/site/forusers/visualchangelog220/index.rst:108
 msgid "|image4|"
 msgstr "|image4|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:454
+#: ../../source/site/forusers/visualchangelog220/index.rst:456
 msgid "image4"
 msgstr "image4"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:109
+#: ../../source/site/forusers/visualchangelog220/index.rst:111
 msgid "Feature: WMS legend graphic in table of contents and composer"
 msgstr "Funcționalitate: Legendă grafică WMS în cuprins și în compozitor"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:111
+#: ../../source/site/forusers/visualchangelog220/index.rst:113
 msgid ""
 "Prior to QGIS 2.2 the WMS data provider was not able to display a legend in "
 "the table of contents' layer list. Similarly no legend could be displayed in"
 " the map composer. QGIS 2.2 addresses both of these issues."
 msgstr "Înainte de QGIS 2.2 furnizorul de date WMS nu a fost capabil să afișeze o legendă în cuprinsul listei straturilor. În mod similar, nici o legendă nu s-a putea afișa în compozitor. QGIS 2.2 se adresează ambelor probleme."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:115
+#: ../../source/site/forusers/visualchangelog220/index.rst:117
 msgid ""
 "Clicking on the layer's legend will open a frame with the legend at full "
 "resolution. The legend will display contextual information based on your "
@@ -209,62 +216,62 @@ msgid ""
 "Canvas & Legend options."
 msgstr "Dacă faceți clic pe legenda stratului se va deschide un cadru cu o legendă, la rezoluție maximă. Legenda va afișa informații contextuale bazate pe scara curentă. Legenda WMS va fi afișată numai dacă serverul WMS are capabilități GetLegendGraphic. Rezoluția legendei poate fi modificată cu ajutorul opțiunilor Canvas & Legend."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:121
+#: ../../source/site/forusers/visualchangelog220/index.rst:123
 msgid "|image5|"
 msgstr "|image5|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:455
+#: ../../source/site/forusers/visualchangelog220/index.rst:457
 msgid "image5"
 msgstr "image5"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:124
+#: ../../source/site/forusers/visualchangelog220/index.rst:126
 msgid "Digitising"
 msgstr "Digitizarea"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:127
+#: ../../source/site/forusers/visualchangelog220/index.rst:129
 msgid "Feature: Fill ring digitizing tool"
 msgstr "Funcționalitate: Instrument de umplere a unui inel "
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:129
+#: ../../source/site/forusers/visualchangelog220/index.rst:131
 msgid ""
 "This new tool is used to cut holes in polygons and automatically fill them "
 "with new features. If you hold down ``Ctrl`` when finalising the feature, "
 "the attributes will be taken from parent feature."
 msgstr "Acest nou instrument este folosit pentru a reduce găurile din poligoane, umplându-le, în mod automat, cu noi entități. Dacă țineți apăsată tasta ``Ctrl`` la finalizarea entității, atributele vor fi luate din entitatea părinte."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:133
+#: ../../source/site/forusers/visualchangelog220/index.rst:135
 msgid "|image6|"
 msgstr "|image6|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:456
+#: ../../source/site/forusers/visualchangelog220/index.rst:458
 msgid "image6"
 msgstr "image6"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:136
+#: ../../source/site/forusers/visualchangelog220/index.rst:138
 msgid "General"
 msgstr "Generalități"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:139
+#: ../../source/site/forusers/visualchangelog220/index.rst:141
 msgid "Feature: Recent expressions saved"
 msgstr "Funcționalitate: Salvare expresii recente"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:141
+#: ../../source/site/forusers/visualchangelog220/index.rst:143
 msgid "The expression builder will now remember the last 20 used expressions."
 msgstr "De acum, constructorul de expresii memorează ultimele 20 de expresii folosite."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:143
+#: ../../source/site/forusers/visualchangelog220/index.rst:145
 msgid "|image7|"
 msgstr "|image7|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:457
+#: ../../source/site/forusers/visualchangelog220/index.rst:459
 msgid "image7"
 msgstr "image7"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:146
+#: ../../source/site/forusers/visualchangelog220/index.rst:148
 msgid "Feature: Paste WKT from clipboard"
 msgstr "Funcționalitate: Lipire WKT din clipboard"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:148
+#: ../../source/site/forusers/visualchangelog220/index.rst:150
 msgid ""
 "QGIS can now paste and create a new feature based on WKT that is found in "
 "the clipboard. Simply copy some WKT and paste into a editable layer. You can"
@@ -272,33 +279,33 @@ msgid ""
 "Layer``"
 msgstr "QGIS poate lipi și crea o nouă caracteristică bazată pe WKT, care se găsește în clipboard. Pur și simplu copiați și inserați unele WKT-uri într-un strat editabil. Puteți crea, de asemenea, un nou strat selectând ``Edit -> Paste As -> New Memory Layer``"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:154
+#: ../../source/site/forusers/visualchangelog220/index.rst:156
 msgid "Map Composer"
 msgstr "Compozitorul de Hărți"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:157
+#: ../../source/site/forusers/visualchangelog220/index.rst:159
 msgid "Feature: Zebra map border improvements"
 msgstr "Funcționalitate: Îmbunătățiri aduse bordurii de tip Zebra"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:159
+#: ../../source/site/forusers/visualchangelog220/index.rst:161
 msgid ""
 "You can now set the colours of the ``Zebra`` border on the map element in "
 "the map composer."
 msgstr "De acum se pot seta culorile bordurii de tip ``Zebra`` pentru harta din compozitor."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:162
+#: ../../source/site/forusers/visualchangelog220/index.rst:164
 msgid "|image8|"
 msgstr "|image8|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:458
+#: ../../source/site/forusers/visualchangelog220/index.rst:460
 msgid "image8"
 msgstr "image8"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:165
+#: ../../source/site/forusers/visualchangelog220/index.rst:167
 msgid "Feature: Element rotation support"
 msgstr "Funcționalitate: Suport pentru rotirea elementului"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:167
+#: ../../source/site/forusers/visualchangelog220/index.rst:169
 msgid ""
 "Every type of element in the composer can now be rotated, including scale "
 "bars, tables and legends. For example you can rotate a label on the "
@@ -306,19 +313,19 @@ msgid ""
 "Resizing of rotated elements has also been improved."
 msgstr "De acum, fiecare tip de element din compozitor poate fi rotit, inclusiv barele scării, tabelele și legendele. De exemplu, puteți roti o etichetă din compoziție, astfel încât să se încadreze mai bine în pagină (așa cum este ilustrat). Redimensionarea elementelor rotite a fost, de asemenea, îmbunătățită."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:172
+#: ../../source/site/forusers/visualchangelog220/index.rst:174
 msgid "|image9|"
 msgstr "|image9|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:459
+#: ../../source/site/forusers/visualchangelog220/index.rst:461
 msgid "image9"
 msgstr "image9"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:175
+#: ../../source/site/forusers/visualchangelog220/index.rst:177
 msgid "Feature: Composer scale added and ruler improvements"
 msgstr "Funcționalitate: Îmbunătățiri aduse scalei și riglelor din compozitor"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:177
+#: ../../source/site/forusers/visualchangelog220/index.rst:179
 msgid ""
 "The appearance of rulers has been improved by adjusting the scale logic and "
 "by adding smaller ruler divisions, and by making vertical rulers use rotated"
@@ -332,19 +339,19 @@ msgid ""
 "working with your compositions."
 msgstr "Aspectul riglelor a fost îmbunătățit prin ajustarea logicii scării, prin adăugarea de diviziuni mai mici, și prin rotirea textului pentru riglele verticale. Există, de asemenea, o nouă posibilitate de a ascunde/arăta riglele. Acum puteți mări rapid la 100% scara paginii, folosind instrumentul ``Zoom to 100%`` din bara de instrumente. Fereastra compozitorului permite de acum comutarea rapidă a scării paginii, printr-o nouă casetă din bara de stare. În plus, un indicator nou a fost adăugat pentru afișa poziția precisă a pixelului din vârful cursorului. Butoanele ``Close`` și ``Help`` au fost eliminate din partea de jos a ferestrei compozitorului, pentru a oferi un maximum de spațiu de lucru pe ecran."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:188
+#: ../../source/site/forusers/visualchangelog220/index.rst:190
 msgid "|image10|"
 msgstr "|image10|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:460
+#: ../../source/site/forusers/visualchangelog220/index.rst:462
 msgid "image10"
 msgstr "image10"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:191
+#: ../../source/site/forusers/visualchangelog220/index.rst:193
 msgid "Feature: World file generation"
 msgstr "Funcționalitate: Generarea fișierelor World"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:193
+#: ../../source/site/forusers/visualchangelog220/index.rst:195
 msgid ""
 "In the composer you can now create georefenced maps! Simply ensure that you "
 "choose the correct map element in the ``Composition tab`` and then export "
@@ -352,19 +359,19 @@ msgid ""
 " you to load your exported composition in QGIS as a raster layer."
 msgstr "În compozitor puteți crea acum hărți georefențiate! Pur și simplu asigurați-vă că alegeți elementul de hartă corect în fila ``Composition`` și apoi exportați harta sub formă de fișier PNG. Va apărea și un fișier world însoțitor, permițându-vă să încărcați compoziția exportată în QGIS, sub formă de strat raster."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:199
+#: ../../source/site/forusers/visualchangelog220/index.rst:201
 msgid "|image11|"
 msgstr "|image11|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:461
+#: ../../source/site/forusers/visualchangelog220/index.rst:463
 msgid "image11"
 msgstr "image11"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:202
+#: ../../source/site/forusers/visualchangelog220/index.rst:204
 msgid "Feature: Working with multiple items"
 msgstr "Funcționalitate: Lucrul cu mai multe elemente"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:204
+#: ../../source/site/forusers/visualchangelog220/index.rst:206
 msgid ""
 "Support has been added for moving and resizing multiple items "
 "simultaneously. You can now hold shift while resizing to maintain an item's "
@@ -375,11 +382,11 @@ msgid ""
 "pressing a cursor key to shift all selected items by a larger amount."
 msgstr "A fost adăugat suport pentru mutarea și redimensionarea mai multor elemente simultan. Puteți ține apăsată tasta Shift în timpul redimensionării, pentru a păstra raportul unui element, sau să țineți apăsată tasta Ctrl pentru a redimensiona elementul începând cu centrul acestuia. Aceste taste se aplică și elementelor în mișcare, așa că reținerea tastei Shift în timp ce se deplasează un element, are ca efect deplasarea lui doar pe orizontală sau pe verticală, în timp ce reținerea tastei Ctrl dezactivează temporar snapping-ul. Puteți reține, de asemenea, tasta Shift în același timp cu apăsarea tastelor cu săgeți, pentru a modifica cantitatea de elemente selectate."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:214
+#: ../../source/site/forusers/visualchangelog220/index.rst:216
 msgid "Feature: Atlas enhancements"
 msgstr "Funcționalitate: Îmbunătățiri aduse Atlasului"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:216
+#: ../../source/site/forusers/visualchangelog220/index.rst:218
 msgid ""
 "You can now preview the individual pages of the map atlas that will be "
 "generated in composer. While in atlas preview mode you can output the "
@@ -395,19 +402,19 @@ msgid ""
 "atlas-feature/>`__."
 msgstr "De acum, există posibilitatea de a examina paginile individuale ale atlasului cu hărți care va fi generat în compozitor. Atât timp cât va aflați în modul de previzualizare din atlas, aveți posibilitatea de obținere a paginii curente, fără a elabora întregul atlas. Puteți ajusta, de asemenea, limitele hărții sau scara pentru fiecare entitate, în timp ce examinați pagina atlasului. Setările hărții au fost mutate din panoul atlasului în panoul de proprietăți a hărții, astfel încât de acum veți putea controla mai mult de o hartă prin generarea atlasului. Există o nouă opțiune pentru a centra automat portul de vizualizare al unei hărți, care este foarte eficace atunci când creați hărți bazate pe atlas. Mai multe informații contextuale sunt acum disponibile, astfel încât să puteți ajusta simbologia în funcție de apartenența entității la atlasul curent. Parcurgeți `acest articol pentru mai multe informații <http://nathanw.net/2013/12/02/waiting-for-qgis-22-highlighting-current-atlas-feature/>`__."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:229
+#: ../../source/site/forusers/visualchangelog220/index.rst:231
 msgid "|image12|"
 msgstr "|image12|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:462
+#: ../../source/site/forusers/visualchangelog220/index.rst:464
 msgid "image12"
 msgstr "image12"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:232
+#: ../../source/site/forusers/visualchangelog220/index.rst:234
 msgid "Feature: Improved item selection"
 msgstr "Funcționalitate: Selecție îmbunătățită a elementelor"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:234
+#: ../../source/site/forusers/visualchangelog220/index.rst:236
 msgid ""
 "You can now select more then one item by clicking and dragging a box to "
 "select them, and there's shortcuts for adding to a selection (holding shift "
@@ -420,11 +427,11 @@ msgid ""
 " \"Select next item above/below\" in the new composer Edit menu."
 msgstr "Acum puteți selecta mai mult de un element, făcând clic și trasând un dreptunghi de selecție, apelând simultan la comenzi rapide pentru cumularea selecțiilor (apăsâd Shift în timp ce glisați), pentru scăderea din selecție (utilizând tasta Ctrl), sau trecând la modul de selecție \"în interior\" (ținând apăsată tasta Alt pe timpul glisării). Țineți apăsată tasta Shift și efectuați clic pe un element deja selectat, pentru a-l elimina din selecție. Există, de asemenea, comenzi rapide și elemente de meniu pentru selectarea tuturor elementelor, pentru anularea unei selecții sau pentru inversarea acesteia. Este, de asemenea, posibilă selectarea elementelor care sunt ascunse sub alte elemente, ținând apăsată tasta Ctrl și făcând clic pe un element, sau utilizând \"Selectați următorul element de deasupra/dedesubt\" din noul meniu Edit al compozitorului."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:246
+#: ../../source/site/forusers/visualchangelog220/index.rst:248
 msgid "Feature: Better navigation of compositions"
 msgstr "Funcționalitate: Navigare mai bună printre compoziții"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:248
+#: ../../source/site/forusers/visualchangelog220/index.rst:250
 msgid ""
 "QGIS 2.2 includes many improvements to help you navigate your compositions. "
 "You can now zoom in or out from a composition by using the mouse scroll "
@@ -436,11 +443,11 @@ msgid ""
 "and holding control-space and drawing a zoom region on the composition."
 msgstr "QGIS 2.2 include multe îmbunătățiri pentru a vă ajuta la navigarea printre compoziții. Puteți mări sau micșora o compoziție cu ajutorul rotiței de derulare a mouse-ului. A fost adăugat un instrument de deplasare dedicat compoziției, dumneavoastră putând comuta imediat în modul de deplasare menținând apăsată bara de spațiu sau prin apăsarea rotiței de derulare a mouse-ului. Există, de asemenea, un nou instrument de mărire, care vă permite să ajungeți exact la o anumită zonă din compoziție. Se poate trece la modul de mărire în orice moment, menținând apăsate tasta Ctrl și bara de spațiu, și trasând regiunea de mărit în compoziție."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:259
+#: ../../source/site/forusers/visualchangelog220/index.rst:261
 msgid "Feature: Improved styling of pages and shapes"
 msgstr "Funcționalitate: Stil îmbunătățit pentru pagini și forme"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:261
+#: ../../source/site/forusers/visualchangelog220/index.rst:263
 msgid ""
 "You can now control the style of the composition background using the full "
 "range of QGIS' symbology options. It's now possible to export compositions "
@@ -451,15 +458,15 @@ msgid ""
 "There's also a new option for rounding the corners of rectangle shapes."
 msgstr "De acum, puteți controla stilul pentru fundalul compoziției, folosind întreaga gamă de opțiuni a simbologiei QGIS. Este posibilă exportarea compozițiilor cu un fundal transparent (sau semi-transparent). Obiectele cu forme (dreptunghiuri, triunghiuri și elipse), pot fi, de asemenea, stilizate, folosind aceleași opțiuni ca straturile de hartă poligon. Puteți stiliza chiar fundalul paginii sau formele cu ajutorul setărilor definite de date în funcție de entitatea curentă din atlas! Există, de asemenea, o nouă opțiune pentru rotunjirea colțurilor forme dreptunghiulare."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:271
+#: ../../source/site/forusers/visualchangelog220/index.rst:273
 msgid "QGIS Server"
 msgstr "QGIS Server"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:274
+#: ../../source/site/forusers/visualchangelog220/index.rst:276
 msgid "Feature: WCS Support added to QGIS Server"
 msgstr "Funcționalitate: S-a adăugat suport WCS în QGIS Server"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:276
+#: ../../source/site/forusers/visualchangelog220/index.rst:278
 msgid ""
 "QGIS-Server already supports standards : Web Map Service (WMS version 1.3.0 "
 "and 1.1.1) and Web Feature Service (WFS version 1.0.0) and Web Feature "
@@ -468,125 +475,125 @@ msgid ""
 "standard."
 msgstr "QGIS-Server suportă deja următoarele standarde: Web Map Service (WMS versiunile 1.3.0 și 1.1.1), Web Feature Service (WFS versiunea 1.0.0) și Web Feature Service with Transaction (WFS-T). Începând cu această versiune de QGIS, puteți servi acum straturi raster utilizând standardul Web Coverage Service (WCS version 1.0.0))."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:282
+#: ../../source/site/forusers/visualchangelog220/index.rst:284
 msgid "|image13|"
 msgstr "|image13|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:463
+#: ../../source/site/forusers/visualchangelog220/index.rst:465
 msgid "image13"
 msgstr "image13"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:285
+#: ../../source/site/forusers/visualchangelog220/index.rst:287
 msgid "Symbology"
 msgstr "Simbologia"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:288
+#: ../../source/site/forusers/visualchangelog220/index.rst:290
 msgid "Feature: Gradient fill support"
 msgstr "Funcționalitate: Suport pentru umplerea cu gradient"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:290
+#: ../../source/site/forusers/visualchangelog220/index.rst:292
 msgid ""
 "The new gradient fill feature lets you create even better cartography than "
 "ever before. The feature has numerous options providing for great "
 "flexibility in how you apply gradients to your features. These include:"
 msgstr "Noua caracteristică de umplere cu gradient vă permite crearea unei cartografii mult mai bune decât înainte. Caracteristica are numeroase opțiuni care oferă o mare flexibilitate referitoare la modul în care puteți aplica degradeuri entităților dumneavoastră. Printre opțiuni sunt incluse:"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:294
+#: ../../source/site/forusers/visualchangelog220/index.rst:296
 msgid "Two colour or ramp based fills"
 msgstr "Umplere pe baza a două culori sau a unui degradeu"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:295
+#: ../../source/site/forusers/visualchangelog220/index.rst:297
 msgid "Canvas or object based origin for your gradients"
 msgstr "Origine bazată pe suprafața hărții sau pe obiect, pentru gradienții dvs."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:296
+#: ../../source/site/forusers/visualchangelog220/index.rst:298
 msgid "Gradients originating from the centroid of a feature"
 msgstr "Gradienți cu originea în centrul geometric al unui element"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:297
+#: ../../source/site/forusers/visualchangelog220/index.rst:299
 msgid "Conical, linear and radial gradient types"
 msgstr "Tipuri de gradienți radiali, conici și liniari"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:298
+#: ../../source/site/forusers/visualchangelog220/index.rst:300
 msgid ""
 "Data defined options (to use an expression or a table column) for all "
 "gradient properties."
 msgstr "Opțiuni de definire prin date (folosind o expresie sau o coloană a tabelului) pentru toate proprietățile gradientului."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:301
+#: ../../source/site/forusers/visualchangelog220/index.rst:303
 msgid ""
 "Read more about how to use gradient fills `here "
 "<http://nyalldawson.net/2014/01/waiting-for-qgis-2-2-gradient-fills/>`__."
 msgstr "Citiți mai multe despre modul de umplere cu gradienți `aici <http://nyalldawson.net/2014/01/waiting-for-qgis-2-2-gradient-fills/>`__."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:304
+#: ../../source/site/forusers/visualchangelog220/index.rst:306
 msgid "|image14|"
 msgstr "|image14|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:464
+#: ../../source/site/forusers/visualchangelog220/index.rst:466
 msgid "image14"
 msgstr "image14"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:307
+#: ../../source/site/forusers/visualchangelog220/index.rst:309
 msgid "Feature: Label support for palleted rasters"
 msgstr "Funcționalitate: Suport de etichetare pentru rasterele cu paletă"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:309
+#: ../../source/site/forusers/visualchangelog220/index.rst:311
 msgid ""
 "Rasters that use a fixed colour pallette (typical for e.g. a land cover map)"
 " can now have category labels assigned which will be shown in the map legend"
 " and in the composer legend."
 msgstr "Rasterelor care folosesc o paletă fixă de culori (cum ar fi, de exemplu, harta suprafețelor de teren) li se pot aloca de acum etichete de categorie, care vor fi prezentate atât în legenda hărții cât și în legenda compozitorului."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:313
+#: ../../source/site/forusers/visualchangelog220/index.rst:315
 msgid "|image15|"
 msgstr "|image15|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:465
+#: ../../source/site/forusers/visualchangelog220/index.rst:467
 msgid "image15"
 msgstr "image15"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:316
+#: ../../source/site/forusers/visualchangelog220/index.rst:318
 msgid "Feature: Colour ramps can be inverted"
 msgstr "Funcționalitate: Gamele de culori pot fi inversate"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:318
+#: ../../source/site/forusers/visualchangelog220/index.rst:320
 msgid ""
 "A new option has been added to symbology dialogs that deal with colour ramps"
 " to allow you to invert the colour ramp when it is created."
 msgstr "A fost adăugată o nouă opțiune, care folosește game de culori, în ferestrele de dialog ale simbologiei, permițându-vă inversarea gamei la momentul creării acesteia."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:321
+#: ../../source/site/forusers/visualchangelog220/index.rst:323
 msgid "|image16|"
 msgstr "|image16|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:466
+#: ../../source/site/forusers/visualchangelog220/index.rst:468
 msgid "image16"
 msgstr "image16"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:324
+#: ../../source/site/forusers/visualchangelog220/index.rst:326
 msgid "Feature: Copy and Paste in Rule based renderer"
 msgstr "Funcționalitate: Copiere și lipire în renderul bazat pe reguli"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:326
+#: ../../source/site/forusers/visualchangelog220/index.rst:328
 msgid ""
 "In the rule based renderer, you can now right click on a rule and then copy "
 "and paste the rule as a new rule."
 msgstr "În renderul bazat pe reguli, aveți acum posibilitatea să faceți clic dreapta pe o regulă, să o copiați și apoi să o inserați ca regulă nouă."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:329
+#: ../../source/site/forusers/visualchangelog220/index.rst:331
 msgid "|image17|"
 msgstr "|image17|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:467
+#: ../../source/site/forusers/visualchangelog220/index.rst:469
 msgid "image17"
 msgstr "image17"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:332
+#: ../../source/site/forusers/visualchangelog220/index.rst:334
 msgid "Feature: On the fly feature generalisation"
 msgstr "Funcționalitate: Generalizarea din zbor a entităților"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:334
+#: ../../source/site/forusers/visualchangelog220/index.rst:336
 msgid ""
 "QGIS 2.2 introduces support for on the fly feature generalisation. This can "
 "improve rendering times when drawing many complex features at small scales. "
@@ -597,19 +604,19 @@ msgid ""
 "and inaccurate rendering when using offset based symbol layers."
 msgstr "QGIS 2.2 introduce suport pentru generalizarea din zbor a entităților. Acest lucru poate îmbunătăți timpul de randare în momentul desenării la scări mici a unei multitudini de entități complexe. Această caracteristică poate fi activată sau dezactivată în setările stratului. Există, de asemenea, un nou cadru global care permite, în mod implicit, generalizarea pentru straturile nou adăugate. **Notă:** generalizarea entităților poate introduce artefacte în rezultatul randării, în unele cazuri. Acestea poate însemna prezentă unor așchii între poligoane și randarea inexactă atunci când se utilizează straturi simbol decalate."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:343
+#: ../../source/site/forusers/visualchangelog220/index.rst:345
 msgid "|image18|"
 msgstr "|image18|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:468
+#: ../../source/site/forusers/visualchangelog220/index.rst:470
 msgid "image18"
 msgstr "image18"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:346
+#: ../../source/site/forusers/visualchangelog220/index.rst:348
 msgid "Feature: Anchor points can be set for marker layers"
 msgstr "Funcționalitate: Punctele de ancorare pot fi setate pentru straturile cu marcaje"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:348
+#: ../../source/site/forusers/visualchangelog220/index.rst:350
 msgid ""
 "When defining symbology with marker layers (e.g. a point layer symbolized "
 "with SVG markers) you can now specify what part of the image should "
@@ -620,19 +627,19 @@ msgid ""
 " layer (or an arbitrary expression)."
 msgstr "La definirea simbologiei cu straturi cu marcaje (de exemplu, un strat de punct simbolizat cu marcaje SVG), puteți specifica acum ce parte a imaginii ar trebui să corespundă 'punctului de ancorare'. De exemplu, puteți preciza că, în cazul unei imagini, colțul din stânga-jos ar trebui să coincidă cu poziția entității. Puteți folosi, de asemenea, ``proprietăți definite prin date``, pentru a avea această proprietate setată la momentul randării, pe baza unui atribut din tabelul de date pentru acel strat (sau pe baza unei expresii arbitrare)."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:357
+#: ../../source/site/forusers/visualchangelog220/index.rst:359
 msgid "|image19|"
 msgstr "|image19|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:469
+#: ../../source/site/forusers/visualchangelog220/index.rst:471
 msgid "image19"
 msgstr "image19"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:360
+#: ../../source/site/forusers/visualchangelog220/index.rst:362
 msgid "Feature: Thematic maps based on expressions"
 msgstr "Funcționalitate: Hărți tematice bazate pe expresii"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:362
+#: ../../source/site/forusers/visualchangelog220/index.rst:364
 msgid ""
 "Categorized and Graduated thematic maps can now be created using the result "
 "of an expression. In the properties dialog for vector layers the attribute "
@@ -642,116 +649,116 @@ msgid ""
 "multiple fields, or a formula of some sort."
 msgstr "Hărțile tematice, clasificate pe categorii și pe grade, pot fi create folosindu-se rezultatul unei expresii. În fereastra de proprietăți a straturilor vectoriale, selectorului de atribute i s-a adăugat un constructor de expresii. Astfel, de acum nu mai este necesară introducerea atributului de clasificare într-o nouă coloană din tabelul de atribute, dacă doriți ca el să fie un compozit al mai multor câmpuri, sau vreo anumită formulă."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:369
+#: ../../source/site/forusers/visualchangelog220/index.rst:371
 msgid "|image20|"
 msgstr "|image20|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:470
+#: ../../source/site/forusers/visualchangelog220/index.rst:472
 msgid "image20"
 msgstr "image20"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:372
+#: ../../source/site/forusers/visualchangelog220/index.rst:374
 msgid "Feature: Expression support in symbol diagrams for size and attributes"
 msgstr "Funcționalitate: Suport pentru expresii în diagramele simbol, pentru dimensiune și atribute"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:374
+#: ../../source/site/forusers/visualchangelog220/index.rst:376
 msgid ""
 "You can now use an expression to define the size and attributes when using "
 "the diagramming capabilities of QGIS. For more info see the Pull Request "
 "here `Pull 1039 <https://github.com/qgis/QGIS/pull/1039>`__"
 msgstr "Acum puteți utiliza o expresie pentru a defini dimensiunea și atributele, atunci când utilizați diagramele de capabilități din QGIS. Pentru mai multe informații parcurgeți `Pull 1039 <https://github.com/qgis/QGIS/pull/1039>`__"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:378
+#: ../../source/site/forusers/visualchangelog220/index.rst:380
 msgid "|image21|"
 msgstr "|image21|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:471
+#: ../../source/site/forusers/visualchangelog220/index.rst:473
 msgid "image21"
 msgstr "image21"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:381
+#: ../../source/site/forusers/visualchangelog220/index.rst:383
 msgid "Feature: Else rule in rule based renderer"
 msgstr "Funcționalitate: Regulă Else în renderul bazat pe reguli"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:383
+#: ../../source/site/forusers/visualchangelog220/index.rst:385
 msgid ""
 "The Rule based renderer now supports a ELSE rule that will be run if none of"
 " the other rules on that level match. Else rules can be nested just like any"
 " other rules."
 msgstr "Renderul bazat pe reguli suportă de acum regula Else, care va fi rula în cazul în care nici una dintre celelalte reguli de la același nivel nu se potrivește. Regulile Else pot fi imbricate la fel ca orice alte reguli."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:387
+#: ../../source/site/forusers/visualchangelog220/index.rst:389
 msgid "An example might be:"
 msgstr "Un exemplu poate fi următorul:"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:389
+#: ../../source/site/forusers/visualchangelog220/index.rst:391
 msgid "``type = 'water' (style grey)``"
 msgstr "``type = 'water' (style grey)``"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:390
+#: ../../source/site/forusers/visualchangelog220/index.rst:392
 msgid "``ELSE (style red)``"
 msgstr "``ELSE (style red)``"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:392
+#: ../../source/site/forusers/visualchangelog220/index.rst:394
 msgid "|image22|"
 msgstr "|image22|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:472
+#: ../../source/site/forusers/visualchangelog220/index.rst:474
 msgid "image22"
 msgstr "image22"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:395
+#: ../../source/site/forusers/visualchangelog220/index.rst:397
 msgid "Feature: Inner stroke support for polygons"
 msgstr "Funcționalitate: Suport pentru conturul interior al poligoanelor"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:397
+#: ../../source/site/forusers/visualchangelog220/index.rst:399
 msgid ""
 "Support has been added for polygon strokes to be limited to the interior of "
 "the polygon (so that it does not overflow into a neighbouring polygon)."
 msgstr "A fost adăugat suport pentru contururile poligonale interioare, care pot fi menținute doar în interiorul poligonului (astfel încât să nu pătrundă într-un poligon învecinat)."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:401
+#: ../../source/site/forusers/visualchangelog220/index.rst:403
 msgid ""
 "More information on this feature can be found on the `second part of this "
 "article <http://nyalldawson.net/2014/01/qgis-two-neat-features-in-2-2/>`__."
 msgstr "Mai multe informații despre această caracteristică pot fi găsite în `a doua parte a acestui articol <http://nyalldawson.net/2014/01/qgis-two-neat-features-in-2-2/>`__."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:405
+#: ../../source/site/forusers/visualchangelog220/index.rst:407
 msgid "|image23|"
 msgstr "|image23|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:473
+#: ../../source/site/forusers/visualchangelog220/index.rst:475
 msgid "image23"
 msgstr "image23"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:408
+#: ../../source/site/forusers/visualchangelog220/index.rst:410
 msgid "User Interface"
 msgstr "Interfața cu Utilizatorul"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:411
+#: ../../source/site/forusers/visualchangelog220/index.rst:413
 msgid "Feature: Improved properties dialogs"
 msgstr "Funcționalitate: Ferestre de proprietăți îmbunătățite"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:413
+#: ../../source/site/forusers/visualchangelog220/index.rst:415
 msgid ""
 "All our properties dialogs have had their main property menus updated so "
 "they look slicker with a inverse coloured side bar. This is purely cosmetic "
 "but should make it easier to know what your current context is in a dialog."
 msgstr "Ferestrelor cu proprietăți li s-a actualizat meniul principal, acesta fiind afișate mai clar, cu o culoare inversă în bara laterală. Acest lucru este pur cosmetic, dar ar trebui să facă mai ușoară cunoașterea filei active în mod curent."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:418
+#: ../../source/site/forusers/visualchangelog220/index.rst:420
 msgid "|image24|"
 msgstr "|image24|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:474
+#: ../../source/site/forusers/visualchangelog220/index.rst:476
 msgid "image24"
 msgstr "image24"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:421
+#: ../../source/site/forusers/visualchangelog220/index.rst:423
 msgid "Feature: Expression dialog improvements"
 msgstr "Funcționalitate: Îmbunătățiri aduse ferestrei de expresii"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:423
+#: ../../source/site/forusers/visualchangelog220/index.rst:425
 msgid ""
 "We have made some tweaks to the expression dialog - power users can now hide"
 " the operator buttons. There are also now splitters between the function "
@@ -760,63 +767,63 @@ msgid ""
 "<https://github.com/qgis/QGIS/pull/1073>`__ for details."
 msgstr "S-au adus unele îmbunătățiri în fereastra expresiilor - utilizatorii avansați pot ascunde acum butoanele operatorilor. Există, de asemenea, o bară de separare între lista funcțiilor și zona de ajutor, și o alta între zona expresiilor și lista de funcții. A se vedea `<https://github.com/qgis/QGIS/pull/1073>`__ pentru detalii."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:429
+#: ../../source/site/forusers/visualchangelog220/index.rst:431
 msgid "|image25|"
 msgstr "|image25|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:475
+#: ../../source/site/forusers/visualchangelog220/index.rst:477
 msgid "image25"
 msgstr "image25"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:432
+#: ../../source/site/forusers/visualchangelog220/index.rst:434
 msgid "Feature: New keybindings"
 msgstr "Funcționalitate: Noi combinații de taste"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:434
+#: ../../source/site/forusers/visualchangelog220/index.rst:436
 msgid ""
 "We have updated the keyboard shortcuts in QGIS to make it more efficient to "
 "carry out repetitive tasks."
 msgstr "Am actualizat combinațiile de taste din QGIS, pentru a-l face mai eficient la îndeplinirea sarcinilor repetitive."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:437
+#: ../../source/site/forusers/visualchangelog220/index.rst:439
 msgid "``ctrl-d`` - Remove selected layers in table of contents"
 msgstr "``ctrl-d`` - Elimină din cuprins straturile selectate "
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:438
+#: ../../source/site/forusers/visualchangelog220/index.rst:440
 msgid "``>`` - Select next vertex when using the node tool"
 msgstr "``>`` - Selectează următorul nod, atunci când se folosește instrumentul nod"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:439
+#: ../../source/site/forusers/visualchangelog220/index.rst:441
 msgid "``<`` - Select previous vertex when using the node tool"
 msgstr "``<`` - Selectează nodul anterior, atunci când se folosește instrumentul nod"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:440
+#: ../../source/site/forusers/visualchangelog220/index.rst:442
 msgid ""
 "``Delete`` or ``Backspace`` - delete the selected features (you can undo "
 "these actions), or a node when using the nodetool."
 msgstr "``Delete`` sau ``Backspace`` - șterge entitățile selectate (aceste acțiuni pot fi date înapoi), sau un nod, atunci când se utilizează instrumentul nod."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:442
+#: ../../source/site/forusers/visualchangelog220/index.rst:444
 msgid "``F5`` updates the canvas (instead of ctrl-r)"
 msgstr "``F5`` actualizează suportul hărții (în locul combinației ctrl-r)"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:444
+#: ../../source/site/forusers/visualchangelog220/index.rst:446
 msgid ""
 "See also `Issue 9094 <http://hub.qgis.org/issues/9094>`__ and `Pull Request "
 "1010 <https://github.com/qgis/QGIS/pull/1010>`__ for more details."
 msgstr "Parcurgeți `Issue 9094 <http://hub.qgis.org/issues/9094>`__ și `Pull Request 1010 <https://github.com/qgis/QGIS/pull/1010>`__ pentru mai multe detalii."
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:448
+#: ../../source/site/forusers/visualchangelog220/index.rst:450
 msgid "|image26|"
 msgstr "|image26|"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:476
+#: ../../source/site/forusers/visualchangelog220/index.rst:478
 msgid "image26"
 msgstr "image26"
 
-#: ../../source/site/forusers/visualchangelog220/index.rst:450
+#: ../../source/site/forusers/visualchangelog220/index.rst:452
 msgid "image0"
-msgstr ""
+msgstr "image0"
 
 #: ../../<rst_epilog>:2
 msgid "checkbox"
@@ -825,37 +832,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "checkbox_unchecked"
-
-#~ msgid "|image0|"
-#~ msgstr ""
-
-#~ msgid "Changelog for QGIS 2.2.0"
-#~ msgstr ""
-
-#~ msgid "If you would like to make a donation or sponsor our project, please"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "visit `our sponsorship page "
-#~ "<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ for "
-#~ "details. QGIS is |  Free software and you are under no obligation to do so. "
-#~ "Sponsoring QGIS helps us to fund our six monthly developer meetings, "
-#~ "maintain project infrastructure |  and fund bug fixing efforts."
-#~ msgstr ""
-
-#~ msgid "You can now preview the individual pages of the map atlas that will be"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "generated in composer. While in atlas preview mode you can output the "
-#~ "current page without outputting the entire atlas. You can also tweak the map"
-#~ " extent or scale for each feature while previewing the atlas page. Atlas map"
-#~ " settings have been moved from the atlas panel to the map properties panel, "
-#~ "so now more than one map can be controlled by the atlas generation. There's "
-#~ "a new option to automatically centre an overview map, which comes in handy "
-#~ "when creating atlas based maps. |  More context information is now available"
-#~ " so that you can adjust your symbology based on whether the feature is the "
-#~ "current atlas feature or not. See `this article for more info "
-#~ "<http://nathanw.net/2013/12/02/waiting-for-qgis-22-highlighting-current-"
-#~ "atlas-feature/>`__."
-#~ msgstr ""

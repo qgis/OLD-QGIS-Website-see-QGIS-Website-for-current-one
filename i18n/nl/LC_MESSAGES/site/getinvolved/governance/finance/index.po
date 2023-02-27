@@ -1,3 +1,6 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 # DiGro, 2015-2020
@@ -6,14 +9,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2015-02-28 18:31+0000\n"
 "Last-Translator: DiGro, 2021-2022\n"
 "Language-Team: Dutch (http://www.transifex.com/qgis/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -36,10 +39,15 @@ msgstr ":download:`Budget 2022 (pdf) <../../../../static/site/getinvolved/govern
 
 #: ../../source/site/getinvolved/governance/finance/index.rst:10
 msgid ""
-":download:`Budget 2021 (pdf) "
-"<../../../../static/site/getinvolved/governance/finance/annual-"
+":download:`Financial report 2021 (pdf) "
+"<../../../../static/site/getinvolved/governance/finance/annual-financial-"
+"reports/PublicQGISfinancialreport2021.pdf>`, :download:`Financial auditing "
+"report 2021 (pdf) "
+"<../../../../static/site/getinvolved/governance/finance/annual-financial-"
+"reports/Financial-Auditing-Report_QGIS-ORG_2021.pdf>`, :download:`Budget "
+"2021 (pdf) <../../../../static/site/getinvolved/governance/finance/annual-"
 "budgets/QGISBudget2021.pdf>`"
-msgstr ":download:`Budget 2021 (pdf) <../../../../static/site/getinvolved/governance/finance/annual-budgets/QGISBudget2021.pdf>`"
+msgstr ":download:`Financial report 2021 (pdf) <../../../../static/site/getinvolved/governance/finance/annual-financial-reports/PublicQGISfinancialreport2021.pdf>`, :download:`Financial auditing report 2021 (pdf) <../../../../static/site/getinvolved/governance/finance/annual-financial-reports/Financial-Auditing-Report_QGIS-ORG_2021.pdf>`, :download:`Budget 2021 (pdf) <../../../../static/site/getinvolved/governance/finance/annual-budgets/QGISBudget2021.pdf>`"
 
 #: ../../source/site/getinvolved/governance/finance/index.rst:11
 msgid ""
@@ -121,48 +129,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "checkbox_unchecked"
-
-#~ msgid ""
-#~ msgstr ""
-
-#~ msgid "QGIS Finance"
-#~ msgstr ""
-
-#~ msgid "2014"
-#~ msgstr ""
-
-#~ msgid ""
-#~ ":download:`Financial report 2014 (pdf) "
-#~ "<../../../../static/site/getinvolved/governance/finance/PublicQGISfinancialreport2014.pdf>`"
-#~ msgstr ""
-
-#~ msgid ""
-#~ ":download:`Financial report 2015 (pdf) "
-#~ "<../../../../static/site/getinvolved/governance/finance/PublicQGISfinancialreport2015.pdf>`,"
-#~ " :download:`Budget proposal 2016 (pdf) "
-#~ "<../../../../static/site/getinvolved/governance/finance/BudgetProposal2016.pdf>`"
-#~ msgstr ""
-
-#~ msgid ""
-#~ ":download:`Budget 2017 (pdf) "
-#~ "<../../../../static/site/getinvolved/governance/finance/annual-"
-#~ "budgets/QGISBudget2017.pdf>`"
-#~ msgstr ""
-
-#~ msgid ""
-#~ ":download:`Budget 2018 (pdf) "
-#~ "<../../../../static/site/getinvolved/governance/finance/annual-"
-#~ "budgets/QGISBudget2018.pdf>`"
-#~ msgstr ""
-
-#~ msgid ""
-#~ ":download:`Budget 2019 (pdf) "
-#~ "<../../../../static/site/getinvolved/governance/finance/annual-"
-#~ "budgets/QGISBudget2019.pdf>`"
-#~ msgstr ""
-
-#~ msgid ""
-#~ ":download:`Budget 2020 (pdf) "
-#~ "<../../../../static/site/getinvolved/governance/finance/annual-"
-#~ "budgets/QGISBudget2020.pdf>`"
-#~ msgstr ""

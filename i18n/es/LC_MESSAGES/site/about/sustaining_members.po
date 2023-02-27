@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2019, QGIS Contributors
+# Copyright (C) 2023, QGIS Contributors
 # This file is distributed under the same license as the QGIS package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 # 
 # Translators:
 # Darío Hereñú, 2019
@@ -12,16 +12,16 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: QGIS 3.8\n"
+"Project-Id-Version: QGIS 3.28\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2019-07-12 14:43+0000\n"
 "Last-Translator: Eric Armijo, 2022\n"
 "Language-Team: Spanish (https://www.transifex.com/qgis/teams/6144/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: es\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
@@ -142,65 +142,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "checkbox_unchecked"
-
-#~ msgid "Sustaining members, sponsors and Donors"
-#~ msgstr "Miembros sustentadores, patrocinadores y donantes"
-
-#~ msgid ""
-#~ "We thank our sustaining members, sponsors and donors who support the QGIS "
-#~ "project and enable us to pay for our infrastructure and important "
-#~ "development work, as well as finance developer meetings and promotion of "
-#~ "QGIS in workshops and conferences. Note that we are currently in a "
-#~ "transition phase changing from a sponsor system to a system with sustaining "
-#~ "members. This should make it easier for public authorities to support the "
-#~ "QGIS.ORG project by becoming a sustaining member. For many public "
-#~ "organizations it was difficult or impossible to sponsor or donate to a "
-#~ "project."
-#~ msgstr ""
-#~ "Agradecemos a nuestros miembros sustentadores, patrocinadores y donantes que"
-#~ " apoyan el proyecto QGIS y nos permiten pagar nuestra infraestructura y "
-#~ "nuestro significativo trabajo de desarrollo, así como las reuniones de "
-#~ "promotores financieros y la promoción de QGIS en talleres y conferencias. "
-#~ "Tenga en cuenta que actualmente estamos en una fase de transición cambiando "
-#~ "de un sistema patrocinador a un sistema con miembros sustentadores. Esto "
-#~ "debería hacer que sea más fácil para las autoridades públicas apoyar el "
-#~ "proyecto QGIS.ORG al convertirse en un miembro sustentador. Para muchas "
-#~ "organizaciones públicas fue difícil o imposible patrocinar o donar al "
-#~ "proyecto."
-
-#~ msgid ""
-#~ "Organizations who supported QGIS before March 17, 2019 are still sponsors, "
-#~ "after that date we introduce new supporters as sustaining members."
-#~ msgstr ""
-#~ "Las organizaciones que dieron apoyo a QGIS antes del 17 de marzo de 2019 aun"
-#~ " son patrocinadores, después de esa fecha presentamos a los nuevos "
-#~ "partidarios como miembros sustentadores."
-
-#~ msgid "List of current sustaining members or sponsors"
-#~ msgstr "Listado de los actuales miembros sustentadores o patrocinantes"
-
-#~ msgid ""
-#~ "Annually we also receive support from various organisations who appreciate "
-#~ "the work we do and would like to facilitate the sustained development effort"
-#~ " that goes into the project. These sustaining members and sponsors are "
-#~ "listed below with our thanks!"
-#~ msgstr ""
-#~ "También recibimos anualmente el apoyo de varias organizaciones que aprecian "
-#~ "el trabajo que hacemos y desean facilitar el esfuerzo de desarrollo "
-#~ "continuado que se pone de manifiesto en el proyecto. ¡Estos miembros "
-#~ "aportantes y patrocinantes están nombrados a continuación con nuestro "
-#~ "agradecimiento!"
-
-#~ msgid "List of past sustaining members or sponsors"
-#~ msgstr "LIstado de los antiguos miembros sostenedores o patrocinantes"
-
-#~ msgid ""
-#~ "Donations can be of any amount, via our bank account, Stripe or Paypal "
-#~ "(information available at :ref:`Donations <QGIS-donations>` page). Even a "
-#~ "small donation can make a difference and help to reach important project "
-#~ "goals!"
-#~ msgstr ""
-#~ "Las donaciones pueden ser cualquier monto, vía PayPal o a través de su banco"
-#~ " (información disponible en la página :ref:`Donaciones <QGIS-donations>`). "
-#~ "¡Incluso una pequeña aporte puede hacer la diferencia y ayudar a conseguir "
-#~ "los objetivos del proyecto!"

@@ -1,3 +1,6 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 # Sorin Călinică <scalinica@gmail.com>, 2013-2016,2019,2021-2022
@@ -5,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2013-09-17 13:24+0000\n"
 "Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2013-2016,2019,2021-2022\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
@@ -87,11 +90,13 @@ msgstr "Matrix (https://matrix.org) este un proiect de chat descentralizat. QGIS
 #: ../../source/site/forusers/support.rst:41
 msgid ""
 "To use Matrix: create an account (at matrix.org is easiest, but if you have "
-"an OSGeo account you can also use your OSGeo id as matrix id), install a "
-"client (Elements is easiest, but see https://matrix.org/docs/projects/try-"
-"matrix-now/#clients for more), OR point your browser to "
-"(https://matrix.to/#/!qgis:osgeo.org)"
-msgstr "Pentru a utiliza Matrix: creați-vă un cont (la matrix.org puteți utiliza id-ul de OSGeo, dacă aveți deja un cont la OSGeo ), apoi instalați un client (Elements este cel mai ușor, dar pentru alte variante consultați https://matrix.org/docs/projects/try-matrix-now/#clients), SAU apelați (https://matrix.to/#/!qgis:osgeo.org) în browser."
+"an OSGeo account you can also `use your OSGeo id as matrix id "
+"<https://wiki.osgeo.org/wiki/Matrix#Connecting_to_the_OSGeo_Matrix_Homeserver>`_),"
+" install a client (Elements is easiest, but see "
+"https://matrix.org/docs/projects/try-matrix-now/#clients for more), OR point"
+" your browser to `https://matrix.to/#/#qgis:osgeo.org "
+"<https://matrix.to/#/#qgis:osgeo.org>`_"
+msgstr "Pentru a utiliza Matrix: creați-vă un cont (la matrix.org este cel mai simplu, dar puteți `utiliza și id-ul de OSGeo, dacă aveți deja un cont la OSGeo <https://wiki.osgeo.org/wiki/Matrix#Connecting_to_the_OSGeo_Matrix_Homeserver>`_), apoi instalați un client (Elements este cel mai ușor, dar puteți consulta și https://matrix.org/docs/projects/try-matrix-now/#clients pentru alte variante), SAU apelați `https://matrix.to/#/#qgis:osgeo.org <https://matrix.to/#/#qgis:osgeo.org>`_ în browser."
 
 #: ../../source/site/forusers/support.rst:43
 msgid ""
@@ -106,8 +111,9 @@ msgstr "Facebook"
 #: ../../source/site/forusers/support.rst:47
 msgid ""
 "For Facebook users, an english-speaking global community group for QGIS "
-"users can be found at https://facebook.com/groups/612486875596534"
-msgstr "Pe Facebook, la adresa https://facebook.com/groups/612486875596534, există un grup comunitar global al utilizatorilor QGIS vorbitori de limbă engleză"
+"users can be found at "
+"https://www.facebook.com/groups/qgiscommunityofficialvirtualgroup"
+msgstr "Pentru utilizatorii Facebook, există un grup comunitar global al utilizatorilor QGIS vorbitori de limbă engleză la adresa https://www.facebook.com/groups/qgiscommunityofficialvirtualgroup"
 
 #: ../../source/site/forusers/support.rst:51
 msgid "User Groups"
@@ -170,217 +176,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "checkbox_unchecked"
-
-#~ msgid ""
-#~ "If you go to the osgeo section of it: http://osgeo-org.1560.x6.nabble.com/ "
-#~ "you see there is a QGIS section also, where you can do a search over all "
-#~ "QGIS lists, or refine it to eg only the users list."
-#~ msgstr ""
-
-#~ msgid "QGIS Support"
-#~ msgstr ""
-
-#~ msgid "There is a #qgis channel on freenode.net"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "You can also use a web interface: "
-#~ "http://webchat.freenode.net/?channels=#qgis"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "QGIS does not have a forum. Please either search in StackExchange (see "
-#~ "below), or via http://nabble.com in the history of our Mailinglists (see "
-#~ "above)"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "On http://gis.stackexchange.com you can ask QGIS questions also. If you use "
-#~ "the tag 'qgis' you'll see all QGIS related questions and answer: "
-#~ "http://gis.stackexchange.com/?tags=qgis"
-#~ msgstr ""
-
-#~ msgid "Goals of a user group"
-#~ msgstr ""
-
-#~ msgid "Organization of user meetings"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Coordination of development, taking into account regional/national standards"
-#~ " and requirements"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "QGIS information: meetings, articles in GIS magazines, QGIS information in "
-#~ "social media, GIS discussion boards, etc."
-#~ msgstr ""
-
-#~ msgid "Collection of case studies of local QGIS usage"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Sponsoring: a local user group could collect reasonable annual membership "
-#~ "fees (depending on the country). This collected funds could be used to pay "
-#~ "development of certain features, to help with bug-fixing or as a donation to"
-#~ " the international QGIS project."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "establishment of interest groups, e.g. surveying, urban planning, server/web"
-#~ " client, etc."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "initialization/coordination of application modules, e.g. surveying, urban "
-#~ "planning, server/web client, etc."
-#~ msgstr ""
-
-#~ msgid "General assumptions/recommendations"
-#~ msgstr ""
-
-#~ msgid "stay vendor/company neutral"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "establish democratic structures for the steering committee, voting and "
-#~ "important decision"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "stay transparent, esp. if you deal with membership-fees and how you spend it"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "inform the international project from time to time about your local "
-#~ "activities"
-#~ msgstr ""
-
-#~ msgid "Organization"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Depending on your country, a smaller legal entity, e.g. an association, "
-#~ "could be established. Depending on local legislation such an entity implies "
-#~ "that you meet at least once per year (general assembly), publish a yearly "
-#~ "report and make the financial report available to your members. Often it "
-#~ "also implies the creation of statutes."
-#~ msgstr ""
-
-#~ msgid "Statutes of the Swiss QGIS user group as an example:"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "german (master): http://www.qgis.ch/de/verein/statuten-der-qgis-"
-#~ "anwendergruppe-schweiz"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "english (translation): http://www.qgis.ch/en/association/statutes-of-the-"
-#~ "swiss-qgis-user-group"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "french (translation): http://www.qgis.ch/fr/association/statuts-du-"
-#~ "groupe-d2019utilisateurs-qgis-suisse"
-#~ msgstr ""
-
-#~ msgid "Membership application forms:"
-#~ msgstr ""
-
-#~ msgid "german: http://www.qgis.ch/de/verein/beitrittserklaerung"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "english: http://www.qgis.ch/en/association/qgis-usergroup-switzerland-"
-#~ "membership-application-form"
-#~ msgstr ""
-
-#~ msgid "french: http://www.qgis.ch/fr/association/declaration-d2019adhesion"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "You can use these statutes and membership application forms as an idea or "
-#~ "reference and change them to your local situation."
-#~ msgstr ""
-
-#~ msgid "Local Country domain qgis.xx"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "It is recommended to register your local country domains, e.g. qgis.ch or "
-#~ "qgis.uk. If the domain is already taken by someone other organization, "
-#~ "company or person please negotiate if you can transfer the owner to the "
-#~ "local QGIS user group. The QGIS international project has registered QGIS as"
-#~ " a trademark, which should help you during your negotations."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "If you want to file bugs or issues, you need an osgeo ID. You can create an "
-#~ "account here: https://www2.osgeo.org/cgi-bin/ldap_create_user.py"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "More info to be found here: http://hub.qgis.org/wiki/quantum-gis/Bugreports"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "All issues can be browsed here: http://hub.qgis.org/projects/quantum-"
-#~ "gis/issues"
-#~ msgstr ""
-
-#~ msgid "TODO: write something about the IRC ethiquette?"
-#~ msgstr ""
-
-#~ msgid "TODO"
-#~ msgstr ""
-
-#~ msgid "On http://gis.stackexchange.com you can ask QGIS questions also."
-#~ msgstr ""
-
-#~ msgid "A lot of the development buzz will be spoken on IRC."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "There is a #qgis channel on freenode.net. You can also use a web interface: "
-#~ "http://webchat.freenode.net/?channels=#qgis If you missed a discussion on "
-#~ "IRC, not a problem! We log all discussion, so you can easily catch up. Just "
-#~ "go to https://qgis.org/irclogs."
-#~ msgstr ""
-
-#~ msgid "Searchable Mailing Lists"
-#~ msgstr ""
-
-#~ msgid "Nabble (http://nabble.com) keeps a history of a lot of mailinglists."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "If you go to the osgeo section of it: http://osgeo-org.1560.x6.nabble.com/ "
-#~ "you see there is a QGIS section also, where you can do a search over all "
-#~ "QGIS lists, or refine it to e.g. only the users list."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "To use Matrix: create an account (at matrix.org is easiest, but if you have "
-#~ "an OSGeo account you can also use your OSGeo id as matrix id), install a "
-#~ "client (Elements is easiest, but see https://matrix.org/docs/projects/try-"
-#~ "matrix-now/#clients for more), OR point your browser to "
-#~ "(https://matrix.to/#qgis:osgeo.org)"
-#~ msgstr ""
-
-#~ msgid "Forums"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "QGIS does not have a forum. Please either search in StackExchange (see "
-#~ "below), or via http://nabble.com in the history of our Mailinglists (see "
-#~ "above)."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "For non-english, note that there also exist local forums that have a "
-#~ "dedicated section for QGIS you may need to search in."
-#~ msgstr ""
-
-#~ msgid "Chat"
-#~ msgstr ""

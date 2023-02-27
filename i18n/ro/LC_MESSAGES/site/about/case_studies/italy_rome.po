@@ -1,19 +1,22 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 # Richard Duivenvoorde <richard@duif.net>, 2016
-# Sorin Călinică <scalinica@gmail.com>, 2015-2016
+# Sorin Călinică <scalinica@gmail.com>, 2015-2016,2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2015-06-05 13:44+0000\n"
-"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2015-2016\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2015-2016,2022\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
@@ -138,7 +141,7 @@ msgid ""
 "Level 1 seismic microzonation map (the principal product of level 1 "
 "microzonation), identifying the microzones into three categories of local "
 "hazards:"
-msgstr "Hartade microzonare seismică, de nivelul 1 (produsul principal al nivelului 1 de microzonare), identificând microzone în trei categorii de pericole locale:"
+msgstr "Harta de microzonare seismică, de nivelul 1 (produsul principal al nivelului 1 de microzonare), cu microzonele împărțite în trei categorii de pericole locale:"
 
 #: ../../source/site/about/case_studies/italy_rome.rst:57
 msgid "Stable zones;"
@@ -179,7 +182,7 @@ msgstr "Modelul face uz de diferite aplicații și biblioteci cu sursă deschis�
 
 #: ../../source/site/about/case_studies/italy_rome.rst:79
 msgid "Geoprocessing model"
-msgstr ""
+msgstr "Model de geoprocesare"
 
 #: ../../source/site/about/case_studies/italy_rome.rst:79
 msgid "(Fig. 1) Screenshot from the geoprocessing model."
@@ -214,7 +217,7 @@ msgstr "Numele stratului poligonal rezultat."
 
 #: ../../source/site/about/case_studies/italy_rome.rst:94
 msgid "Model input form (left) and execution log (right)"
-msgstr ""
+msgstr "Formularul de intrare al modelului (stânga) și jurnalul de execuție (dreapta)"
 
 #: ../../source/site/about/case_studies/italy_rome.rst:94
 msgid "(Fig. 2) Model input form (left) and execution log (right)."
@@ -280,7 +283,7 @@ msgstr "Rezultatul constă într-un strat poligonal cu zone predispuse la instab
 msgid ""
 "The model output (in red) shows highly unstable areas extracted from a "
 "landslides layer (orange)"
-msgstr ""
+msgstr "Modelul de ieșire (în roșu) arată zone extrem de instabile extrase dintr-un strat al alunecărilor de teren (portocaliu)."
 
 #: ../../source/site/about/case_studies/italy_rome.rst:124
 msgid ""
@@ -397,49 +400,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "checkbox_unchecked"
-
-#~ msgid ""
-#~ "The Institute of Environmental Geology and Geoengineering (IGAG) of the "
-#~ "National Research Council (CNR) is located in Rome, in the Area of Research "
-#~ "“Roma 1”. It was founded in 2002 by regrouping five former research "
-#~ "Institutes and Centers that had been active for more than 40 years in their "
-#~ "field of expertise. IGAG covers a wide range of scientific topics in the "
-#~ "field of Earth sciences, mainly focusing towards the study of:"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "# Survey map containing the surveys for seismic microzonation studies; # "
-#~ "Geo-lithological map, obtained from detailed scale geological and "
-#~ "geomorphological maps integrating existing lithological, stratigraphic and "
-#~ "geotechnical data related to surveys; # Level 1 seismic microzonation map "
-#~ "(the principal product of level 1 microzonation), identifying the microzones"
-#~ " into three categories of local hazards: * Stable zones; * Stable zones "
-#~ "prone to ground amplification; * Unstable zones."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The GRASS tool v.to.rast.attribute convert contour elevation lines to "
-#~ "raster, taking the coutour shapefile, the name of the z field and the raster"
-#~ " resolution as input;"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The GRASS tool r.surf.contour generate the elevation model taking as input "
-#~ "the rasterized temporary output from previous step and the raster "
-#~ "resolution;"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The GDAL tool “gdaldem” generate the slope expressed as degrees from the "
-#~ "elevation model;"
-#~ msgstr ""
-
-#~ msgid "The GDAL tool “gdal_polygonize” convert the 1 bit raster to polygons;"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Baldassarre; Gallicchio, S.; Giannandrea, P. & Tropeano, M.: \"Relazione "
-#~ "Finale Geolitologica per la microzonazione sismica di livello 1dei Comuni "
-#~ "della Provincia di Foggia Dipartimento di Geologia e Geofisica "
-#~ "dell'Università di Bari, 2011\""
-#~ msgstr ""

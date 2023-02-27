@@ -1,24 +1,27 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2013-2015
+# Sorin Călinică <scalinica@gmail.com>, 2013-2015,2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2013-09-17 13:26+0000\n"
-"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2013-2015\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2013-2015,2022\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:3
 msgid "QGIS and GRASS in Biogeographical Research in the Iberian Peninsula"
-msgstr "QGIS și GRASS, în cercetarea biogeografică din Peninsula Iberică"
+msgstr "QGIS și GRASS în cercetarea biogeografică din Peninsula Iberică"
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:5
 msgid ""
@@ -29,11 +32,11 @@ msgid ""
 "rather annoying that we were constantly dealing with license renewal issues,"
 " and that I could not use the software away from the workplace unless I "
 "acquired my own license."
-msgstr "Am început să folosesc GIS în munca mea din biogeografie acum aproximativ 10 ani. Pe perioada stagiaturii, a tezei de doctorat și a altor două activități de cercetare, am folosit pachetele software proprietare care erau disponibile la locul de muncă - în principal CartaLinx, Idrisi, ArcView și ArcGIS. Dar am găsit destul de enervant faptul că, în mod constant, am avut de-a face cu probleme de reînnoire a licenței, și nu am putut folosi software-ul mai departe de locul de muncă, fără a nu cumpăra propria licență."
+msgstr "Am început să folosesc GIS în biogeografie cu aproximativ 10 ani în urmă. Pe perioada stagiaturii, a tezei de doctorat și a altor două activități de cercetare, am folosit pachetele software proprietare care erau disponibile la locul de muncă - în principal CartaLinx, Idrisi, ArcView și ArcGIS. Dar am găsit destul de supărător faptul că, în mod constant, aveam de-a face cu probleme de reînnoire a licenței, neputând folosi softurile în afara locului de muncă fără a-mi cumpăra propriile licențe."
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:11
 msgid "Distribution of Spanish algyroides"
-msgstr ""
+msgstr "Distribuția algyroidelor spaniole"
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:11
 msgid ""
@@ -74,7 +77,7 @@ msgstr " Am început să folosesc ambele programe imediat după curs. Nu numai c
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:21
 msgid "Environmental suitability for the Pyrenean desman"
-msgstr ""
+msgstr "Compatibilitatea cu mediul a șobolanului-trompetă din Pirinei"
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:21
 msgid ""
@@ -158,7 +161,7 @@ msgstr "Autor"
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:48
 msgid "A. Márcia Barbosa"
-msgstr ""
+msgstr "A. Márcia Barbosa"
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:48
 msgid "A Márcia Barbosa"
@@ -178,41 +181,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "checkbox_unchecked"
-
-#~ msgid ""
-#~ "I started applying GIS to my work in biogeography about 10 years ago. "
-#~ "Through my graduate internship, PhD work and two other research jobs, I used"
-#~ " the proprietary software packages that were available and used at my "
-#~ "workplaces – mainly CartaLinx, Idrisi, ArcView and ArcGIS. But I found it "
-#~ "rather annoying that we were constantly dealing with license renewal issues,"
-#~ " and that I could not use the software away from the workplace unless I "
-#~ "acquired my own license."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "It crossed my mind on several occasions that switching to free software "
-#~ "would spare me those problems. However, there was prejudice against the "
-#~ "analytical capabilities of free software, and even after I heard about the "
-#~ "potential of GRASS, I was still reluctant because I thought it would be too "
-#~ "difficult to learn. I was also afraid it would be cumbersome to migrate all "
-#~ "the maps and analyses that I had done so far. At the beginning of my post-"
-#~ "doc in 2008, I finally gave it an opportunity and took a training course on "
-#~ "QGIS and GRASS. It was probably the best decision of my professional life! I"
-#~ " found that QGIS provided a very intuitive interface for GRASS, hat they "
-#~ "complemented each other perfectly, and they provided all the analytical "
-#~ "capabilities I needed. I started using both programs immediately after the "
-#~ "course. Not only did I begin all my new GIS work with QGIS/GRASS [e.g. 1,2],"
-#~ " but I also did follow-up analyses on previous works that I had done with "
-#~ "commercial software. For example, I had built models of otter [3] and desman"
-#~ " [4] distribution in the Iberian Peninsula. After switching to QGIS-GRASS, I"
-#~ " analysed how those models behaved when downscaled to a finer resolution "
-#~ "[5]. Another previous work on biogeographic relationships between Iberian "
-#~ "lynx and rabbit [6] had a follow-up after I switched to QGIS-GRASS [7]. Not "
-#~ "only did I not have any problems with the migration of the data and previous"
-#~ " results: I also found it much easier to do the things I wanted to do with "
-#~ "the new software, and was able to do extra analyses which I could not have "
-#~ "done with the programs I used before."
-#~ msgstr ""
-
-#~ msgid "Márcia Barbosa"
-#~ msgstr ""

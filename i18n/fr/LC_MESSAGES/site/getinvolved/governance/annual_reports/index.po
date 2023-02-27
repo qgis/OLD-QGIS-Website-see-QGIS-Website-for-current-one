@@ -1,27 +1,28 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018, QGIS Contributors
+# Copyright (C) 2023, QGIS Contributors
 # This file is distributed under the same license as the QGIS package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 # 
 # Translators:
 # Benoît de Cabissole, 2018
 # MarieSilvestre, 2020
 # Maxence Gérard, 2022
 # Harrissou Sant-anna, 2022
+# Mehdi SEMCHAOUI, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: QGIS 3.2\n"
+"Project-Id-Version: QGIS 3.28\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2018-05-20 14:25+0000\n"
-"Last-Translator: Harrissou Sant-anna, 2022\n"
+"Last-Translator: Mehdi SEMCHAOUI, 2022\n"
 "Language-Team: French (https://www.transifex.com/qgis/teams/6144/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: fr\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
@@ -50,6 +51,13 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/annual_reports/index.rst:12
 msgid ""
+":download:`QGIS Annual Report 2021 (pdf) "
+"<../../../../static/site/getinvolved/governance/annual-project-"
+"reports/QGISAnnualReport2021.pdf>`"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/annual_reports/index.rst:13
+msgid ""
 ":download:`QGIS Annual Report 2020 (pdf) "
 "<../../../../static/site/getinvolved/governance/annual-project-"
 "reports/QGISAnnualReport2020.pdf>`"
@@ -58,7 +66,7 @@ msgstr ""
 "<../../../../static/site/getinvolved/governance/annual-project-"
 "reports/QGISAnnualReport2020.pdf>`"
 
-#: ../../source/site/getinvolved/governance/annual_reports/index.rst:13
+#: ../../source/site/getinvolved/governance/annual_reports/index.rst:14
 msgid ""
 ":download:`QGIS Annual Report 2019 (pdf) "
 "<../../../../static/site/getinvolved/governance/annual-project-"
@@ -68,7 +76,7 @@ msgstr ""
 "<../../../../static/site/getinvolved/governance/annual-project-"
 "reports/QGISAnnualReport2019.pdf>`"
 
-#: ../../source/site/getinvolved/governance/annual_reports/index.rst:14
+#: ../../source/site/getinvolved/governance/annual_reports/index.rst:15
 msgid ""
 ":download:`QGIS Annual Report 2018 (pdf) "
 "<../../../../static/site/getinvolved/governance/annual-project-"
@@ -78,7 +86,7 @@ msgstr ""
 "<../../../../static/site/getinvolved/governance/annual-project-"
 "reports/QGISAnnualReport2018.pdf>`"
 
-#: ../../source/site/getinvolved/governance/annual_reports/index.rst:15
+#: ../../source/site/getinvolved/governance/annual_reports/index.rst:16
 msgid ""
 ":download:`QGIS Annual Report 2017 (pdf) "
 "<../../../../static/site/getinvolved/governance/annual-project-"
@@ -88,7 +96,7 @@ msgstr ""
 "<../../../../static/site/getinvolved/governance/annual-project-"
 "reports/QGISAnnualReport2017.pdf>`"
 
-#: ../../source/site/getinvolved/governance/annual_reports/index.rst:16
+#: ../../source/site/getinvolved/governance/annual_reports/index.rst:17
 msgid ""
 ":download:`QGIS Annual Report 2016 (pdf) "
 "<../../../../static/site/getinvolved/governance/annual-project-"
@@ -104,13 +112,4 @@ msgstr "checkbox"
 
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
-msgstr ""
-
-#~ msgid ""
-#~ "Starting in 2017 (coincident with the establishment of a formal legal entity"
-#~ " (Swiss \"Verein\"), we are publishing an annual report for the preceding "
-#~ "year highlighting key activities within the QGIS project."
-#~ msgstr ""
-#~ "Depuis 2017, avec la mise en place d'une structure légale formelle "
-#~ "(association suisse, \"Verein\"), nous publions un rapport annuel pour "
-#~ "l'année précédente qui met en valeur les activités clés du projet QGIS."
+msgstr "case décochée"

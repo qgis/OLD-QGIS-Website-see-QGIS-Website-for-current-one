@@ -1,3 +1,6 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 # alexbruy <alexander.bruy@gmail.com>, 2015-2016
@@ -6,14 +9,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2014-11-01 16:56+0000\n"
 "Last-Translator: Richard Duivenvoorde <richard@duif.net>, 2016\n"
 "Language-Team: Ukrainian (http://www.transifex.com/qgis/qgis-website/language/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: uk\n"
 "Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
 
@@ -22,78 +25,82 @@ msgid "Changelog for QGIS 2.6"
 msgstr "Список змін для QGIS 2.6"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:6
+msgid "Release date: 2014-10-31"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:8
 msgid ""
 "Change log for the next release of QGIS 2.6.0. We have added many new "
 "features, tweaks and enhancements to make the most popular Free desktop GIS "
 "even more feature filled and useful."
 msgstr "Список змін у QGIS 2.6.0. Ми додали багато нових можливостей, вдосконалень та покращень щоб зробити найпопулярнішу настільну ГІС ще більш функціональною та корисною."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:10
+#: ../../source/site/forusers/visualchangelog260/index.rst:12
 msgid ""
 "Whenever new features are added to software they introduce the possibility "
 "of new bugs - if you encounter any problems with this release, please file a"
 " ticket `on the QGIS Bug Tracker <http://hub.qgis.org>`_."
 msgstr "Новий функціонал може призводити до появи нових помилок --- якщо ви знайшли помилку, будь ласка, повідомте про неї у `багтрекері QGIS <http://hub.qgis.org>`_."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:14
+#: ../../source/site/forusers/visualchangelog260/index.rst:16
 msgid ""
 "We would like to thank the developers, documenters, testers and all the many"
 " folks out there who volunteer their time and effort (or fund people to do "
 "so)."
 msgstr "Ми хочемо подякувати всім розробникам, авторам документації, тестувальникам та іншим людям, які добровільно витрачали свій час та сили."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:18
+#: ../../source/site/forusers/visualchangelog260/index.rst:20
 msgid ""
 "From the QGIS community we hope you enjoy this release! If you wish to "
 "donate time, money or otherwise get involved in making QGIS more awesome, "
 "please wander along to `qgis.org <https://qgis.org>`_ and lend a hand!"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:23
+#: ../../source/site/forusers/visualchangelog260/index.rst:25
 msgid ""
 "Finally we would like to thank our official sponsors for the invaluable "
 "financial support they provide to this project:"
 msgstr "І нарешті ми хочемо подякувати нашим офіційним спонсорам за їх безцінну підтримку:"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:26
+#: ../../source/site/forusers/visualchangelog260/index.rst:28
 msgid "**GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"
 msgstr "**ЗОЛОТИЙ спонсор: Asia Air Survey, Японія** http://www.asiaairsurvey.com/>"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:27
+#: ../../source/site/forusers/visualchangelog260/index.rst:29
 msgid ""
 "SILVER Sponsor: `Sourcepole AG, Switzerland <http://www.sourcepole.com/>`_"
 msgstr "СРІБНИЙ спонсор: `Sourcepole AG, Швейцарія <http://www.sourcepole.com/>`_"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:28
+#: ../../source/site/forusers/visualchangelog260/index.rst:30
 msgid ""
 "SILVER Sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_"
 msgstr "СРІБНИЙ спонсор: `Федеральна земля Форарльберг, Австрія <http://www.vorarlberg.at/>`_"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:29
+#: ../../source/site/forusers/visualchangelog260/index.rst:31
 msgid ""
 "BRONZE Sponsor: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
 msgstr "БРОНЗОВИЙ спонсор: `Lutra Consulting, Велика Британія <http://www.lutraconsulting.co.uk/>`_"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:30
+#: ../../source/site/forusers/visualchangelog260/index.rst:32
 msgid "BRONZE Sponsor: `www.molitec.it, Italy <http://www.molitec.it/>`_"
 msgstr "БРОНЗОВИЙ спонсор: `www.molitec.it, Італія <http://www.molitec.it/>`_"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:31
+#: ../../source/site/forusers/visualchangelog260/index.rst:33
 msgid "BRONZE Sponsor: `www.argusoft.de, Germany <http://www.argusoft.de>`_"
 msgstr "БРОНЗОВИЙ спонсор: `www.argusoft.de, Німеччина <http://www.argusoft.de>`_"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:32
+#: ../../source/site/forusers/visualchangelog260/index.rst:34
 msgid ""
 "BRONZE Sponsor: `www.openrunner.com, France <http://www.openrunner.com>`_"
 msgstr "БРОНЗОВИЙ спонсор: `www.openrunner.com, Франція <http://www.openrunner.com>`_"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:33
+#: ../../source/site/forusers/visualchangelog260/index.rst:35
 msgid ""
 "BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "
 "<http://www.eschenlaub.de/>`_"
 msgstr "БРОНЗОВИЙ спонсор: `GKG Kassel,(Dr.-Ing. Claas Leiner), Німеччина <http://www.eschenlaub.de/>`_"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:35
+#: ../../source/site/forusers/visualchangelog260/index.rst:37
 msgid ""
 "A current list of donors who have made financial contributions large and "
 "small to the project can be seen on our `donors list "
@@ -105,7 +112,7 @@ msgid ""
 "maintain project infrastructure and fund bug fixing efforts."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:44
+#: ../../source/site/forusers/visualchangelog260/index.rst:46
 msgid ""
 "If you enjoy using QGIS, please consider making a donation to support the "
 "project - either `financial "
@@ -118,7 +125,7 @@ msgid ""
 "the best possible releases."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:54
+#: ../../source/site/forusers/visualchangelog260/index.rst:56
 msgid ""
 "QGIS is Free software and you are under no obligation to pay anything to use"
 " it - in fact we want to encourage people far and wide to use it regardless "
@@ -127,165 +134,165 @@ msgid ""
 "of humanity."
 msgstr "QGIS є вільним програмним забезпеченням і ви не зобов'язані сплачувати її використання. Ми заохочуємо людей зі всього світу, не залежно від фінансового чи соціального статусу, використовувати її. Також ми вважаємо, що можливість використовувати інструменти для обробки просторових даних допоможе людству побудувати гарне суспільство."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:64
+#: ../../source/site/forusers/visualchangelog260/index.rst:66
 msgid "General"
 msgstr "Загальне"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:67
+#: ../../source/site/forusers/visualchangelog260/index.rst:69
 msgid "Feature: Project filename in properties"
 msgstr "Ім'я файлу проекту у діалозі настройок"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:69
+#: ../../source/site/forusers/visualchangelog260/index.rst:71
 msgid ""
 "You can now see the full path for the QGIS project file in the project "
 "properties dialog."
 msgstr "Тепер повний шлях до файлу проекту QGIS відображається у діалозі настройок проекту."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:77
+#: ../../source/site/forusers/visualchangelog260/index.rst:79
 msgid ""
 "Feature: Allow removing last point while measuring via del/backspace keys"
 msgstr "Можливість видаляти останню точку під час вимірювання"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:79
+#: ../../source/site/forusers/visualchangelog260/index.rst:81
 msgid ""
 "Now when you are measuring areas and distances, you can remove unwanted "
 "vertices from your measurement line using the delete or backspace keys."
 msgstr "Тепер під час вимірювання площі або відстані ви можете видалити непотрібні вузли за допомогою клавіш :kbd:`Del` або :kbd:`Backspace`."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:87
+#: ../../source/site/forusers/visualchangelog260/index.rst:89
 msgid ""
 "Feature: select related feature on the canvas from the relation reference "
 "widget"
 msgstr "Вибір пов'язаних об'єктів на карті з віджету зв'язаних таблиць"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:90
+#: ../../source/site/forusers/visualchangelog260/index.rst:92
 msgid "Feature: Editor widgets"
 msgstr "Віджети редагування"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:92
+#: ../../source/site/forusers/visualchangelog260/index.rst:94
 msgid "We have made a number of improvements to the editor widgets:"
 msgstr "Було вдосконалено віджети редагування:"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:94
+#: ../../source/site/forusers/visualchangelog260/index.rst:96
 msgid "new edit widget for date/time capable of setting null dates"
 msgstr "новий віджет редагування дати/часу з підтримкою значень NULL"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:95
+#: ../../source/site/forusers/visualchangelog260/index.rst:97
 msgid "filter line edit"
 msgstr "текстове поле з підтримкою фільтрації"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:96
+#: ../../source/site/forusers/visualchangelog260/index.rst:98
 msgid "Proper handling of NULL values for edit widgets"
 msgstr "підтримка значень NULL у всіх віджетах"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:97
+#: ../../source/site/forusers/visualchangelog260/index.rst:99
 msgid "Photo widget preserves NULL value"
 msgstr "віджет «Зображення» зберігає значення NULL"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:98
+#: ../../source/site/forusers/visualchangelog260/index.rst:100
 msgid "Web widget preserves NULL value"
 msgstr "Віджет «Веб-сторінка» зберігає значення NULL"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:99
+#: ../../source/site/forusers/visualchangelog260/index.rst:101
 msgid "Attribute table can distinguish between 0 and NULL"
 msgstr "Таблиця атрибутів відрізняє 0 та NULL"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:100
+#: ../../source/site/forusers/visualchangelog260/index.rst:102
 msgid "Add suffix support for range widget"
 msgstr "підтримка суфіксів у віджеті «Діапазон»"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:107
+#: ../../source/site/forusers/visualchangelog260/index.rst:109
 msgid "Feature: Optionally use just a subset of fields from the joined layer"
 msgstr "Можливість вибору лише необхідних полів при з'єднані таблиць"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:109
+#: ../../source/site/forusers/visualchangelog260/index.rst:111
 msgid ""
 "You can now use just a subset of related fields when creating a vector join."
 msgstr "Під час з’єднання таблиць можна вибрати лише необхідні поля"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:117
+#: ../../source/site/forusers/visualchangelog260/index.rst:119
 msgid "Feature: Expression field (virtual fields)"
 msgstr "Віртуальні поля"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:119
+#: ../../source/site/forusers/visualchangelog260/index.rst:121
 msgid ""
 "Sometimes you want to have an attribute that is calculated and that is "
 "always 'fresh' - reflecting the current state of the feature properties. Now"
 " you can add virtual fields to your table which are based on an expression."
 msgstr "Іноді виникає необхідність в атрибутах, значення яких залежать від поточних атрибутів об'єкта. Тепер ви можете створювати «віртуальні» поля на основі виразів."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:129
+#: ../../source/site/forusers/visualchangelog260/index.rst:131
 msgid "Feature: Actions can now have an associated icon"
 msgstr "Іконки для дій"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:131
+#: ../../source/site/forusers/visualchangelog260/index.rst:133
 msgid ""
 "When creating a custom action for a vector layer, you can now define an icon"
 " to be used for the action too."
 msgstr "При створені «дії» для векторного шару можна вказати іконку для цієї дії."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:139
+#: ../../source/site/forusers/visualchangelog260/index.rst:141
 msgid "Feature: Additional expressions types and options"
 msgstr "Додаткові типи виразів"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:141
+#: ../../source/site/forusers/visualchangelog260/index.rst:143
 msgid "Allow using ``+`` for string concatenation."
 msgstr "для конкатенації рядків можна використовувати оператор ``+``"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:142
+#: ../../source/site/forusers/visualchangelog260/index.rst:144
 msgid ""
 "New keyword: ``attribute( feature, attribute_name )`` - gets the specified "
 "attribute from a feature."
 msgstr "``attribute(feature, attribute_name)`` --- для отримання значення атрибута об’єкта"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:144
+#: ../../source/site/forusers/visualchangelog260/index.rst:146
 msgid "New keyword: ``$currentfeature`` - returns the current feature."
 msgstr "``$currentfeature`` --- повертає поточний об’єкт"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:145
+#: ../../source/site/forusers/visualchangelog260/index.rst:147
 msgid "New keyword: ``$atlasfeature`` - returns the atlas feature."
 msgstr "``$atlasfeature`` --- повертає поточний об’єкт атласу"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:146
+#: ../../source/site/forusers/visualchangelog260/index.rst:148
 msgid "New keyword: ``getFeature`` - gets a matching feature from a layer."
 msgstr "``getFeature` --- повертає об’єкт шару, який відповідає заданому"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:153
+#: ../../source/site/forusers/visualchangelog260/index.rst:155
 msgid ""
 "Feature: Classes within graduated and categorised renderers can be toggled"
 msgstr "Відключення класів для «Градуйованого знаку» та «Унікальних значеннь»"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:155
+#: ../../source/site/forusers/visualchangelog260/index.rst:157
 msgid ""
 "You can now choose to disable certain classes in graduated and categorised "
 "renderers without actually removing them."
 msgstr "Реалізовано можливість відключення візуалізації певних класів рендерерів «Градуйований знак» та «Унікальні значення» без їх видалення."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:163
+#: ../../source/site/forusers/visualchangelog260/index.rst:165
 msgid "Feature: Legend improvements"
 msgstr "Вдосконалена легенда"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:165
+#: ../../source/site/forusers/visualchangelog260/index.rst:167
 msgid ""
 "The second phase of the legend / table of contents overhaul has been "
 "completed. This includes:"
 msgstr "Завершено другий етап вдосконалення легенди. Сюди входить:"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:168
+#: ../../source/site/forusers/visualchangelog260/index.rst:170
 msgid "API cleanup (for developers)"
 msgstr "Змінено API (для розробників)"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:169
+#: ../../source/site/forusers/visualchangelog260/index.rst:171
 msgid ""
 "Visibility groups of map layers in layer tree. This new toolbar button "
 "allows quick changes between the groups of layers that should be visible."
 msgstr "Групи візуалізації. Нова кнопка дозволяє швидко перемикатися між наборами видимих шарів."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:172
+#: ../../source/site/forusers/visualchangelog260/index.rst:174
 msgid "Ability to manage layer groups from the legend toolbar"
 msgstr "Можливість управляти групами з пеналі легенди"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:173
+#: ../../source/site/forusers/visualchangelog260/index.rst:175
 msgid ""
 "The new legend filter option on the legend toolbar will remove legend items "
 "for any classes which are not currently in the view extent. This is an "
@@ -294,250 +301,250 @@ msgid ""
 " map legend and in map composer and for WMS layers."
 msgstr "Нова настройка для фільтрації легенди в залежності від поточного масштабу карти. Дозволяє динамічно видаляти елементи, які відповідають об'єктам, що не відображаються на карті."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:179
+#: ../../source/site/forusers/visualchangelog260/index.rst:181
 msgid "Rule-based renderer legends can now be displayed in a pseudo-tree"
 msgstr "класи рендереру «Правила» відображаються у вигляді дерева"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:186
+#: ../../source/site/forusers/visualchangelog260/index.rst:188
 msgid "Data Providers"
 msgstr "Провайдери даних"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:189
+#: ../../source/site/forusers/visualchangelog260/index.rst:191
 msgid "Feature: DXF export improvements"
 msgstr "Вдосконалений експорт у DXF"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:191
+#: ../../source/site/forusers/visualchangelog260/index.rst:193
 msgid "tree view and attribute selection for layer assigment in dialog"
 msgstr "вибір атрибутів у діалозі призначення шару"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:192
+#: ../../source/site/forusers/visualchangelog260/index.rst:194
 msgid "support fill polygons/HATCH"
 msgstr "підтримка зафарбовування полігонів/HATCH"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:193
+#: ../../source/site/forusers/visualchangelog260/index.rst:195
 msgid ""
 "represent texts as MTEXT instead of TEXT (including font, slant and weight)"
 msgstr "конвертація тексту в MTEXT замість TEXT (включаючи шрифт, нахил та насиченість)"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:195
+#: ../../source/site/forusers/visualchangelog260/index.rst:197
 msgid "support for RGB colors when there's no exact color match"
 msgstr "підтримка RGB на випадок відсутності точного співпадіння кольорів"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:196
+#: ../../source/site/forusers/visualchangelog260/index.rst:198
 msgid "use AutoCAD 2000 DXF (R15) instead of R12"
 msgstr "замість R12 використовується формат AutoCAD 2000 DXF (R15)"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:197
+#: ../../source/site/forusers/visualchangelog260/index.rst:199
 msgid "remove R18 test methods"
 msgstr "видалені тестові методи R18"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:204
+#: ../../source/site/forusers/visualchangelog260/index.rst:206
 msgid "Map Composer"
 msgstr "Редактор макетів"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:207
+#: ../../source/site/forusers/visualchangelog260/index.rst:209
 msgid "Feature: Control over hiding print composer items from prints/exports"
 msgstr "Виключення елементів з списків експорту/друку"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:209
+#: ../../source/site/forusers/visualchangelog260/index.rst:211
 msgid ""
 "We have added a checkbox and data defined button for controlling whether an "
 "item is excluded from composer exports/printouts. If the item is unchecked "
 "it will be visible at composition design time only."
 msgstr "Ми додали перемикач для виключення елементів макета зі списків експорту/друку. Якщо перемикач активовано, відповідний елемент буде відображатися лише в режимі редагування."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:218
+#: ../../source/site/forusers/visualchangelog260/index.rst:220
 msgid "Feature: Control over page printing for empty composer frames"
 msgstr "Виключення пустих фреймів зі списків експорту/друку"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:220
+#: ../../source/site/forusers/visualchangelog260/index.rst:222
 msgid ""
 "For table or HTML frames, a checkbox now controls whether the containing "
 "page should be exported when the frame is empty."
 msgstr "Для таблиць та фреймів HTML з'явилась можливість виключення елементів зі списків експорту/друку, якщо вони не містять даних."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:228
+#: ../../source/site/forusers/visualchangelog260/index.rst:230
 msgid "Feature: Item tree panel"
 msgstr "Панель елементів"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:230
+#: ../../source/site/forusers/visualchangelog260/index.rst:232
 msgid ""
 "The item tree panel in the map composer allows for selection of items, "
 "hiding/showing items, toggling lock status of items and double-clicking to "
 "edit item id. You can also use drag and drop to reorder items."
 msgstr "Дозволяє швидко вибирати елементи, блокувати їх положення та розміри тощо. Також підтримується зміна порядку шляхом перетягування елементів у панелі."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:239
+#: ../../source/site/forusers/visualchangelog260/index.rst:241
 msgid "Feature: More control over appearance of composer arrow/line items"
 msgstr "Більше настройок для ліній та стрілок у редакторі макетів"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:241
+#: ../../source/site/forusers/visualchangelog260/index.rst:243
 msgid "Lines can be styled using line symbol style dialog"
 msgstr "Для налаштування відображення ліній тепер використовуються всі можливості символіки"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:242
+#: ../../source/site/forusers/visualchangelog260/index.rst:244
 msgid "Arrow head fill and outline colors can be user defined"
 msgstr "Колір контуру та фону стрілки може налаштовуватися"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:243
+#: ../../source/site/forusers/visualchangelog260/index.rst:245
 msgid "Arrow head outline width can be user defined"
 msgstr "Товщина контуру стрілки налаштовується"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:250
+#: ../../source/site/forusers/visualchangelog260/index.rst:252
 msgid "Feature: Data defined control of composer items"
 msgstr "Підтримка настройок, що визначаються даними, елементами макета"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:252
+#: ../../source/site/forusers/visualchangelog260/index.rst:254
 msgid ""
 "Many properties of composer items can now be controlled using data binding. "
 "These include:"
 msgstr "Більшість параметрів елементів макета тепер може визначатися даними, включаючи:"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:255
+#: ../../source/site/forusers/visualchangelog260/index.rst:257
 msgid "Transparency and blend mode."
 msgstr "прозорість та режим змішування кольорів"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:256
+#: ../../source/site/forusers/visualchangelog260/index.rst:258
 msgid "Item rotation."
 msgstr "обертання"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:257
+#: ../../source/site/forusers/visualchangelog260/index.rst:259
 msgid "Map scale, extents and rotation."
 msgstr "масштаб карти, охоплення та обертання"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:258
+#: ../../source/site/forusers/visualchangelog260/index.rst:260
 msgid "Atlas feature margin."
 msgstr "Поля об'єкту атласу."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:259
+#: ../../source/site/forusers/visualchangelog260/index.rst:261
 msgid "Item size and position."
 msgstr "розмір та позицію елемента."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:260
+#: ../../source/site/forusers/visualchangelog260/index.rst:262
 msgid "Page size, orientation and number of pages."
 msgstr "розмір та орієнтацію сторінки, число сторінок."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:267
+#: ../../source/site/forusers/visualchangelog260/index.rst:269
 msgid "Feature: Composer images can be specifed as remote URLS"
 msgstr "Завантаження зображень за вказаним посиланням"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:269
+#: ../../source/site/forusers/visualchangelog260/index.rst:271
 msgid ""
 "Picture items in the map composer now support remote urls as a picture "
 "source. This source can also be data defined."
 msgstr "Зображення в макеті тепер можуть завантажуватися не тільки з локальних файлів, а й за вказаним посиланням."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:277
+#: ../../source/site/forusers/visualchangelog260/index.rst:279
 msgid "Feature: Composer Table improvements"
 msgstr "Вдосконалена таблиця атрибутів"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:279
+#: ../../source/site/forusers/visualchangelog260/index.rst:281
 msgid "You can now set table header and content font colors."
 msgstr "Реалізовано можливість вибору кольору шрифтів заголовка та вмісту таблиці."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:280
+#: ../../source/site/forusers/visualchangelog260/index.rst:282
 msgid ""
 "Tables can now be split across multiple frames, allowing their content to be"
 " distributed over columns or over different pages."
 msgstr "Таблиці автоматично розбиваються на декілька фреймів, що дозволяє розміщувати їх у колонках або на декількох сторінках."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:282
+#: ../../source/site/forusers/visualchangelog260/index.rst:284
 msgid "Added option show headers on first frame, all frames, or no frames."
 msgstr "Можливість відображення заголовків на першому фреймі, на всіх фреймах або виводи таблицю без заголовків."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:283
+#: ../../source/site/forusers/visualchangelog260/index.rst:285
 msgid "Allow manual control of column widths."
 msgstr "Ручне налаштування ширини стовпчиків."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:284
+#: ../../source/site/forusers/visualchangelog260/index.rst:286
 msgid ""
 "New options for table source, including current atlas feature and child "
 "features from a relation."
 msgstr "Нові настройки джерела таблиці, включаючи поточний об'єкт атласу та дочірній об'єкт."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:286
+#: ../../source/site/forusers/visualchangelog260/index.rst:288
 msgid ""
 "Choice of behaviour for empty tables, include hiding the entire table, "
 "showing empty cells, or displaying a set message in the table body."
 msgstr "Настройка поведінки пустих таблиць включаючи видалення пустої таблиці, відображення пустої таблиці або відображення повідомлення замість таблиці."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:289
+#: ../../source/site/forusers/visualchangelog260/index.rst:291
 msgid ""
 "Added a checkbox to filter table features to those which intersect the "
 "current atlas feature."
 msgstr "Можливість відображення в таблиці лише об'єктів, які перетинаються з поточним об'єктом атласу."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:291
+#: ../../source/site/forusers/visualchangelog260/index.rst:293
 msgid "Added checkbox to remove duplicate rows from table."
 msgstr "Можливість видалення однакових рядків з таблиці."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:293
+#: ../../source/site/forusers/visualchangelog260/index.rst:295
 msgid ""
 "Note that tables in existing projects are not automatically updated to the "
 "new table format which supports these features, and tables must be readded "
 "to a composition for the new settings to appear."
 msgstr "Слід пам'ятати, що таблиці в наявних проектах не будуть автоматично конвертуватися у новий формат, тому їх необхідно створити знову."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:302
+#: ../../source/site/forusers/visualchangelog260/index.rst:304
 msgid "Feature: Composer improvements"
 msgstr "Вдосконалення в редакторі макетів"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:304
+#: ../../source/site/forusers/visualchangelog260/index.rst:306
 msgid ""
 "The map composer (used to prepare printable map compositions) has received a"
 " number of improvements in QGIS 2.6."
 msgstr "Редактор макетів у версії 2.6 отримав велику кількість вдосконалень."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:307
+#: ../../source/site/forusers/visualchangelog260/index.rst:309
 msgid "You can now change the secondary fill color for scalebars"
 msgstr "Тепер можна налаштовувати другий колір для масштабних лінійок"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:308
+#: ../../source/site/forusers/visualchangelog260/index.rst:310
 msgid ""
 "Holding shift while drawing line/arrow items constrains drawing to "
 "horizontal, vertical or 45 degree angles"
 msgstr "Натискання :kbd:`Shift` під час малювання ліній/стрілок дозволяє точно створювати вертикальні, горизонтальні та з нахилом у 45 градусів лінії"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:310
+#: ../../source/site/forusers/visualchangelog260/index.rst:312
 msgid ""
 "Holding shift while drawing other new items constrains them to squares, "
 "holding alt causes item to be drawn from the center"
 msgstr "Натискання :kbd:`Shift` під час створення нових об'єктів робить їх квадратними, а натискання :kbd:`Alt` --- активує малювання від центру"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:312
+#: ../../source/site/forusers/visualchangelog260/index.rst:314
 msgid ""
 "Right click no longer locks/unlocks items, this is now handled by the new "
 "items panel. Locked items can no longer be selected from the composer "
 "canvas, allowing for interaction with items below them."
 msgstr "Для блокування/розблокування елементів тепер використовується панель елементів, а не права клавіша миші. Заблоковані елементи не вибираються, що значно спрощує взаємодію з іншими елементами."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:315
+#: ../../source/site/forusers/visualchangelog260/index.rst:317
 msgid ""
 "Holding alt while pressing cursor keys results in a 1px movement for items"
 msgstr "Натискання :kbd:`Alt` одночасно з клавішами управління курсором призводить до зсуву елементів на 1 піксель"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:317
+#: ../../source/site/forusers/visualchangelog260/index.rst:319
 msgid ""
 "Removed the destructive 'Load from template' menu item, replace with a new "
 "non-destructive 'Add items from template' action"
 msgstr "Видалена команда «Load from template», замість неї запроваджено команду «Add items from template»"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:325
+#: ../../source/site/forusers/visualchangelog260/index.rst:327
 msgid "Feature: Improved item snapping"
 msgstr "Вдосконалена прив'язка елементів"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:327
+#: ../../source/site/forusers/visualchangelog260/index.rst:329
 msgid ""
 "Snapping thresholds are now set in pixels, allowing for finer movement and "
 "resizing of items when zoomed in to a composition. Items within a group are "
 "no longer used for auto snap lines."
 msgstr "Межа прив'язки задається у пікселях, що робить переміщення та зміну розмірів елементів більш плавною. Згруповані елементи більше не використовуються для автоматичної прив'язки."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:336
+#: ../../source/site/forusers/visualchangelog260/index.rst:338
 msgid "Feature: Multiple overviews for a map item"
 msgstr "Підтримка декількох оглядових карт"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:338
+#: ../../source/site/forusers/visualchangelog260/index.rst:340
 msgid ""
 "Sometimes it is useful to be able to show more than one overview frame for a"
 " map frame. For example if you want to show where your map is in local, "
@@ -546,99 +553,99 @@ msgid ""
 "maps as you like to the 'overview' role in your composition."
 msgstr "Іноді виникає необхідність відображати декілька оглядових карт. QGIS 2.6 підтримує необмежену кількість оглядових карт."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:350
+#: ../../source/site/forusers/visualchangelog260/index.rst:352
 msgid "Feature: HTML item improvements"
 msgstr "Вдосконалений елемент HTML"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:352
+#: ../../source/site/forusers/visualchangelog260/index.rst:354
 msgid "There are a number of useful new options for the HTML composer item:"
 msgstr "Елемент HTML отримав велику кількість вдосконалень:"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:354
+#: ../../source/site/forusers/visualchangelog260/index.rst:356
 msgid "Option for manual entry of HTML source"
 msgstr "можливість вручну задавати вміст"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:355
+#: ../../source/site/forusers/visualchangelog260/index.rst:357
 msgid ""
 "QGIS expressions within HTML source can be evaluated prior to rendering HTML"
 " content"
 msgstr "підтримка виразів QGIS всередині HTML"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:357
+#: ../../source/site/forusers/visualchangelog260/index.rst:359
 msgid "Data defined URL for HTML source"
 msgstr "Посилання для завантаження може визначатися даними"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:358
+#: ../../source/site/forusers/visualchangelog260/index.rst:360
 msgid "Allow for creating a user stylesheet to override HTML styles"
 msgstr "Користувач може вказати свою таблицю стилів"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:365
+#: ../../source/site/forusers/visualchangelog260/index.rst:367
 msgid "Feature: Composer map grid improvements"
 msgstr "Вдосконалення сітки"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:367
+#: ../../source/site/forusers/visualchangelog260/index.rst:369
 msgid "You can now have multiple grids with different properties."
 msgstr "З'явилась можливість відображення декількох сіток з різними параметрами."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:368
+#: ../../source/site/forusers/visualchangelog260/index.rst:370
 msgid "You can mix reprojected grids and Lat/Long grids."
 msgstr "Можна комбінувати географічні та зпроектовані сітки."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:369
+#: ../../source/site/forusers/visualchangelog260/index.rst:371
 msgid "You can use standard QGIS symbology grid lines etc."
 msgstr "Для налаштування зовнішнього вигляду сіток доступні всі можливості символіки."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:370
+#: ../../source/site/forusers/visualchangelog260/index.rst:372
 msgid ""
 "There is a new frame/annotations only grid style. Selecting this style "
 "causes only the frame and annotations to be drawn, with no grid lines or "
 "other markings over the map."
 msgstr "Новий тип сітки з відображенням лише анотацій."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:373
+#: ../../source/site/forusers/visualchangelog260/index.rst:375
 msgid ""
 "There are now options for controlling which side of a map item the frame is "
 "drawn on."
 msgstr "Нова настройка, що визначає на якій стороні карти відображати рамку."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:375
+#: ../../source/site/forusers/visualchangelog260/index.rst:377
 msgid ""
 "There are new tick styles for frames, with inner ticks, outer ticks and both"
 " inner and outer tick options."
 msgstr "Нові стилі штрихів для рамки: внутрішні, зовнішні та внутрішні і зовнішні."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:377
+#: ../../source/site/forusers/visualchangelog260/index.rst:379
 msgid ""
 "We have made improvements to grid annotations, including many new formats "
 "for annotations."
 msgstr "Нові формати анотацій"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:379
+#: ../../source/site/forusers/visualchangelog260/index.rst:381
 msgid ""
 "Grid annotations now use the typographically correct prime and double prime "
 "symbols for grid annotations."
 msgstr "Для анотацій використовуються правильні символи штрихів та подвійних штрихів."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:387
+#: ../../source/site/forusers/visualchangelog260/index.rst:389
 msgid "Processing"
 msgstr "Processing"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:390
+#: ../../source/site/forusers/visualchangelog260/index.rst:392
 msgid "Feature: On-line collection of models and scripts"
 msgstr "Онлайн репозиторій моделей та сценаріїв"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:392
+#: ../../source/site/forusers/visualchangelog260/index.rst:394
 msgid ""
 "Models and scripts can be downloaded from the online collection and "
 "installed directly from the Processing interface. The collection will be "
 "expanded with new scripts and models provided by Processing users."
 msgstr "З'явилась можливість завантажувати моделі та сценарії з онлайн репозиторію. Колекція поповнюється користувачами Processing."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:401
+#: ../../source/site/forusers/visualchangelog260/index.rst:403
 msgid "Feature: New modeler implementation"
 msgstr "Новий редактор моделей"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:403
+#: ../../source/site/forusers/visualchangelog260/index.rst:405
 msgid ""
 "The modeler has been rewritten, and now provides extra functionality such as"
 " allowing nested models with no depth limit. Models are now stored as JSON "
@@ -647,282 +654,282 @@ msgid ""
 "modeler graph."
 msgstr "Було повністю переписано редактор моделей, тепер він дозволяє створювати складні моделі без обмеження вкладеності. Моделі зберігаються у форматі JSON. Також ми подбали про підтримку моделей старого формату, тому ви зможете використовувати свої старі моделі. З'явилась підтримка перетягування алгоритмів та параметрів на робочу область з відповідних списків."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:414
+#: ../../source/site/forusers/visualchangelog260/index.rst:416
 msgid "Programmability"
 msgstr "Програмування"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:417
+#: ../../source/site/forusers/visualchangelog260/index.rst:419
 msgid "Feature: API changes for QGIS widgets"
 msgstr "Змінено API віджетів QGIS"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:419
+#: ../../source/site/forusers/visualchangelog260/index.rst:421
 msgid ""
 "In order to normalise the naming of QGIS widgets, some minor API changes "
 "have been made. Almost all edit widgets were renamed by adding \"Wrapper\" "
 "at the end of their names. In particular this concerns:"
 msgstr "З метою нормалізації назв віджетів змінено API. Практично всі віджети перейменовані шляхом додавання «Wrapper» у кінець назви. Це стосується:"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:423
+#: ../../source/site/forusers/visualchangelog260/index.rst:425
 msgid "QgsCheckboxWidget -> QgsCheckboxWidgetWrapper"
 msgstr "QgsCheckboxWidget -> QgsCheckboxWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:424
+#: ../../source/site/forusers/visualchangelog260/index.rst:426
 msgid "QgsClassificationWidget -> QgsClassificationWidgetWrapper"
 msgstr "QgsClassificationWidget -> QgsClassificationWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:425
+#: ../../source/site/forusers/visualchangelog260/index.rst:427
 msgid "QgsColorWidget -> QgsColorWidgetWrapper"
 msgstr "QgsColorWidget -> QgsColorWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:426
+#: ../../source/site/forusers/visualchangelog260/index.rst:428
 msgid "QgsEnumerationWidget -> QgsEnumerationWidgetWrapper"
 msgstr "QgsEnumerationWidget -> QgsEnumerationWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:427
+#: ../../source/site/forusers/visualchangelog260/index.rst:429
 msgid "QgsFilenameWidget -> QgsFilenameWidgetWrapper"
 msgstr "QgsFilenameWidget -> QgsFilenameWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:428
+#: ../../source/site/forusers/visualchangelog260/index.rst:430
 msgid "QgsHiddenWidget -> QgsHiddenWidgetWrapper"
 msgstr "QgsHiddenWidget -> QgsHiddenWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:429
+#: ../../source/site/forusers/visualchangelog260/index.rst:431
 msgid "QgsPhotoWidget -> QgsPhotoWidgetWrapper"
 msgstr "QgsPhotoWidget -> QgsPhotoWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:430
+#: ../../source/site/forusers/visualchangelog260/index.rst:432
 msgid "QgsRangeWidget -> QgsRangeWidgetWrapper"
 msgstr "QgsRangeWidget -> QgsRangeWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:431
+#: ../../source/site/forusers/visualchangelog260/index.rst:433
 msgid "QgsTexteditWidget -> QgsTexteditWrapper"
 msgstr "QgsTexteditWidget -> QgsTexteditWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:432
+#: ../../source/site/forusers/visualchangelog260/index.rst:434
 msgid "QgsUniquevalueWidget -> QgsUniquevalueWidgetWrapper"
 msgstr "QgsUniquevalueWidget -> QgsUniquevalueWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:433
+#: ../../source/site/forusers/visualchangelog260/index.rst:435
 msgid "QgsUuidWidget -> QgsUuidWidgetWrapper"
 msgstr "QgsUuidWidget -> QgsUuidWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:434
+#: ../../source/site/forusers/visualchangelog260/index.rst:436
 msgid "QgsValuemapWidget -> QgsValuemapWidgetWrapper"
 msgstr "QgsValuemapWidget -> QgsValuemapWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:435
+#: ../../source/site/forusers/visualchangelog260/index.rst:437
 msgid "QgsValuerelationWidget -> QgsValuerelationWidgetWrapper"
 msgstr "QgsValuerelationWidget -> QgsValuerelationWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:436
+#: ../../source/site/forusers/visualchangelog260/index.rst:438
 msgid "QgsWebviewWidget -> QgsWebviewWidgetWrapper"
 msgstr "QgsWebviewWidget -> QgsWebviewWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:439
+#: ../../source/site/forusers/visualchangelog260/index.rst:441
 msgid "QGIS Server"
 msgstr "QGIS Server"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:442
+#: ../../source/site/forusers/visualchangelog260/index.rst:444
 msgid "Feature: Enhancements of searching with GetFeatureInfo request"
 msgstr "Вдосконалено пошук за допомогою запитів GetFeatureInfo"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:444
+#: ../../source/site/forusers/visualchangelog260/index.rst:446
 msgid ""
 "https://github.com/qgis/QGIS/commit/8888c5f0c0e0ffdf23453a20addf6abaf125845d"
 msgstr "https://github.com/qgis/QGIS/commit/8888c5f0c0e0ffdf23453a20addf6abaf125845d"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:447
+#: ../../source/site/forusers/visualchangelog260/index.rst:449
 msgid ""
 "Feature: Add a precision setting for GetFeatureInfo geometry attributes"
 msgstr "Налаштування точності відображення геометрії у результатах запитів GetFeatureInfo"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:450
+#: ../../source/site/forusers/visualchangelog260/index.rst:452
 msgid "Symbology"
 msgstr "Символіка"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:453
+#: ../../source/site/forusers/visualchangelog260/index.rst:455
 msgid "Feature: Better random colour choice"
 msgstr "Кращий вибір випадкових кольорів"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:455
+#: ../../source/site/forusers/visualchangelog260/index.rst:457
 msgid ""
 "We have improved the random colour algorithm for classified renderer so that"
 " the colours generated are more visually distinct from each other."
 msgstr "Ви вдосконалили алгоритм генерації випадкових кольорів, тепер вони більше відрізняються один від одного."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:463
+#: ../../source/site/forusers/visualchangelog260/index.rst:465
 msgid "Feature: Symbology user interface improvements"
 msgstr "Вдосконалений інтерфейс символіки"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:465
+#: ../../source/site/forusers/visualchangelog260/index.rst:467
 msgid ""
 "Where possible, properties of symbol layer are maintained when changing "
 "symbol layer type."
 msgstr "За можливості параметри символьного шару зберігаються при зміні його типу."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:467
+#: ../../source/site/forusers/visualchangelog260/index.rst:469
 msgid "Added an edit button for shapeburst and gradient color ramps."
 msgstr "Можливість редагування кольорових шкал"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:468
+#: ../../source/site/forusers/visualchangelog260/index.rst:470
 msgid "Automatic update of label and neighboring ranges boundaries."
 msgstr "Автоматичне оновлення підписів та значень сусідніх діапазонів"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:469
+#: ../../source/site/forusers/visualchangelog260/index.rst:471
 msgid ""
 "Classes are automatically converted from categorised and graduated classes "
 "when switching to rule based renderer."
 msgstr "Автоматична конвертація класів градуйованого та унікального знака у правила"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:471
+#: ../../source/site/forusers/visualchangelog260/index.rst:473
 msgid "Added units and number of decimal places to graduated renderer labels."
 msgstr "Можливість вказувати одиниці виміру та розрядність для підписів градуйованого знаку"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:473
+#: ../../source/site/forusers/visualchangelog260/index.rst:475
 msgid ""
 "Improved responsiveness to changes in color ramp, inverted colour ramp, and "
 "other options in GUI."
 msgstr "покращено швидкість реакції на зміну кольорової шкали та інших настройок"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:475
+#: ../../source/site/forusers/visualchangelog260/index.rst:477
 msgid ""
 "Retain symbol when switching between simple, graduated, categorized, and "
 "other renderers."
 msgstr "Збереження настройок знаку при зміні рендерера"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:477
+#: ../../source/site/forusers/visualchangelog260/index.rst:479
 msgid "Improved labelling of StdDev calculation mode."
 msgstr "Виправлений підпис для режиму стандартного відхилення."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:484
+#: ../../source/site/forusers/visualchangelog260/index.rst:486
 msgid "User Interface"
 msgstr "Графічний інтерфейс"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:487
+#: ../../source/site/forusers/visualchangelog260/index.rst:489
 msgid "Feature: Syntax highlighting code editor"
 msgstr "Підсвітка синтаксису у редакторі коду"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:489
+#: ../../source/site/forusers/visualchangelog260/index.rst:491
 msgid ""
 "For python script editors, expression builder, filter window, composer HTML "
 "and CSS editors"
 msgstr "Для редакторів Python, виразів, фільтрів та редакторів HTML/CSS"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:497
+#: ../../source/site/forusers/visualchangelog260/index.rst:499
 msgid "Feature: Color palettes"
 msgstr "Палітри кольорів"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:499
+#: ../../source/site/forusers/visualchangelog260/index.rst:501
 msgid "You can now define your own custom color palettes for use in QGIS."
 msgstr "З'явилась можливість задавати власні палітри кольорів."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:501
+#: ../../source/site/forusers/visualchangelog260/index.rst:503
 msgid "Custom user global color palette (in options dialog)."
 msgstr "Глобальна палітра кольорів"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:502
+#: ../../source/site/forusers/visualchangelog260/index.rst:504
 msgid "Per project color palette (in project properties dialog)."
 msgstr "Палітра кольорів проекту"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:503
+#: ../../source/site/forusers/visualchangelog260/index.rst:505
 msgid "Colors are shown in color button menus and new color picker dialog."
 msgstr "Кольори відображаються у вигляді кнопок вибору"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:504
+#: ../../source/site/forusers/visualchangelog260/index.rst:506
 msgid "You can import/export colors to a GPL palette file."
 msgstr "Також палітри можна імпортувати/експортувати"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:511
+#: ../../source/site/forusers/visualchangelog260/index.rst:513
 msgid "Feature: New color picker dialog"
 msgstr "Новий діалог вибору кольору"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:528
+#: ../../source/site/forusers/visualchangelog260/index.rst:530
 msgid "There is a new custom QGIS color picker dialog. Features include:"
 msgstr "Розроблено новий діалог вибору кольорів. Серед його можливостей:"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:514
+#: ../../source/site/forusers/visualchangelog260/index.rst:516
 msgid "Sliders for hue, saturation, value, red, green, blue color components."
 msgstr "Повзунки для насиченості, тону, значення та червоного, синього і зеленого компонентів"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:516
+#: ../../source/site/forusers/visualchangelog260/index.rst:518
 msgid "Alpha slider."
 msgstr "Повзунок для налаштування прозорості"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:517
+#: ../../source/site/forusers/visualchangelog260/index.rst:519
 msgid "Option to copy/paste html color codes (in a variety of formats)."
 msgstr "підтримка копіювання та вставки HTML-кодів кольору в різних форматах"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:518
+#: ../../source/site/forusers/visualchangelog260/index.rst:520
 msgid "Before/after color preview, with alpha preview."
 msgstr "попередній перегляд з можливістю порівняння попереднього та поточного кольору"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:519
+#: ../../source/site/forusers/visualchangelog260/index.rst:521
 msgid "Interactive 2D color ramp widget."
 msgstr "Інтерактивний віджет палітри кольорів"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:520
+#: ../../source/site/forusers/visualchangelog260/index.rst:522
 msgid "Hue wheel/triangle widget."
 msgstr "Колесо/трикутник відтінків"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:521
+#: ../../source/site/forusers/visualchangelog260/index.rst:523
 msgid ""
 "Editable color palettes, including the ability to create new palettes and "
 "import/export colors to a GPL palette file."
 msgstr "Редагування палітр, включаючи можливість створення нової та імпорт/експорт"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:523
+#: ../../source/site/forusers/visualchangelog260/index.rst:525
 msgid ""
 "Live color sampler with option to sample over a set radius (OS support "
 "dependant)."
 msgstr "можливість «захвату» кольору (так звана «піпетка», доступно не для всіх ОС)"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:525
+#: ../../source/site/forusers/visualchangelog260/index.rst:527
 msgid ""
 "Supports interaction with other apps via drag and drop of colors (OS support"
 " dependant)."
 msgstr "підтримка перетягування кольорів в/з інші програми (доступно не для всіх ОС)"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:527
+#: ../../source/site/forusers/visualchangelog260/index.rst:529
 msgid "Option to disable the dialog and use the native picker dialog instead."
 msgstr "користувач має вибір який саме діалог буде використовуватися: системний чи діалог QGIS"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:535
+#: ../../source/site/forusers/visualchangelog260/index.rst:537
 msgid "Feature: Single select feature tool merged into select by rectangle"
 msgstr "Новий інструмент вибору об'єктів"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:537
+#: ../../source/site/forusers/visualchangelog260/index.rst:539
 msgid ""
 "We have merged the single selection tool into the rectangle tool. If you "
 "want to select a single feature, simply enable the rectangle tool and then "
 "single click (rather than dragging a rectangle) a feature."
 msgstr "Інструменти «Вибрати об’єкт» та «Вибрати об’єкти прямокутником» замінено одним універсальним інструментом."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:546
+#: ../../source/site/forusers/visualchangelog260/index.rst:548
 msgid "Feature: Add layer to map canvas behaviour"
 msgstr "Додавання шарів на карту за замовчанням"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:548
+#: ../../source/site/forusers/visualchangelog260/index.rst:550
 msgid ""
 "In many of QGIS' dialogs that generate a new layer, the 'Add layer to map "
 "canvas' checkbox is now checked by default so that the new layer "
 "automatically gets added to the map."
 msgstr "У більшості діалогів, які створюють новий шар, перемикач «Додати на карту» за замовчанням активовано."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:557
+#: ../../source/site/forusers/visualchangelog260/index.rst:559
 msgid "Feature: Add icon size 48 and 64"
 msgstr "Іконки розмірів 48 та 64"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:559
+#: ../../source/site/forusers/visualchangelog260/index.rst:561
 msgid ""
 "For those using QGIS on touch devices (or if you just like big, chunky "
 "icons), you can now set the icons up to 64 x 64 pixels in size."
 msgstr "Для тих, хто використовує QGIS на планшетах реалізовано можливість вибору великих іконок, включно до 64х64."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:567
+#: ../../source/site/forusers/visualchangelog260/index.rst:569
 msgid "Feature: New colour buttons"
 msgstr "Нові кнопки вибору кольорів"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:569
+#: ../../source/site/forusers/visualchangelog260/index.rst:571
 msgid ""
 "This is probably one of the most useful new features in QGIS 2.6 - "
 "especially if you are involved a lot in cartography work. The colour button "
@@ -932,11 +939,11 @@ msgid ""
 "of the colour widget to see a standard colour chooser dialog."
 msgstr "Це, мабуть, одна з найбільш помітних змін у QGIS 2.6 особливо якщо ви займаєтесь підготовкою карт. Нова кнопка містить випадаюче меню зі списком стандартних кольорів, зразки кольорів тощо."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:582
+#: ../../source/site/forusers/visualchangelog260/index.rst:584
 msgid "Feature: Context menu for identify tool"
 msgstr "Контекстне меню інструмента ідентифікації"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:584
+#: ../../source/site/forusers/visualchangelog260/index.rst:586
 msgid ""
 "When using the identify tool, you can now right click on the canvas to use "
 "the identify tool in context mode. In the menu that appears you can define "
@@ -950,74 +957,3 @@ msgstr ""
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr ""
-
-#~ msgid "Changelog for QGIS: 2.6.0"
-#~ msgstr ""
-
-#~ msgid "Changelog for version: 2.6.0"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "**GOLD Sponsor: `Asia Air Survey, Japan <http://www.asiaairsurvey.com/>`_**"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Snapping thresholds are now set in pixels, allowing for finer movement and "
-#~ "resizing of items when zoomed in to a composition."
-#~ msgstr ""
-
-#~ msgid "Items within a group are no longer used for auto snap lines."
-#~ msgstr ""
-
-#~ msgid "Scale-based filtering of legend nodes (in WMS)"
-#~ msgstr ""
-
-#~ msgid "Rule-based renderer legends can now be displayed in in a pseudo-tree"
-#~ msgstr ""
-
-#~ msgid "Sliders for hue, saturation, value, red, green, blue color"
-#~ msgstr ""
-
-#~ msgid "components."
-#~ msgstr ""
-
-#~ msgid "Editable color palettes, including the ability to create new palettes"
-#~ msgstr ""
-
-#~ msgid "and import/export colors to a GPL palette file."
-#~ msgstr ""
-
-#~ msgid "Live color sampler with option to sample over a set radius (OS"
-#~ msgstr ""
-
-#~ msgid "support dependant)."
-#~ msgstr ""
-
-#~ msgid "Supports interaction with other apps via drag and drop of colors (OS"
-#~ msgstr ""
-
-#~ msgid "Option to disable the dialog and use the native picker dialog"
-#~ msgstr ""
-
-#~ msgid "instead."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "SILVER Sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_ "
-#~ "BRONZE Sponsor: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "A current list of donors who have made financial contributions large and "
-#~ "small to the project can be seen on our `donors list "
-#~ "<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`_. If you "
-#~ "would like to become and official project sponsor, please visit `our "
-#~ "sponsorship page "
-#~ "<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`_ for details."
-#~ " Sponsoring QGIS helps us to fund our six monthly developer meetings, "
-#~ "maintain project infrastructure and fund bug fixing efforts."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "You can now use just a subset a related fields when creating a vector join."
-#~ msgstr ""

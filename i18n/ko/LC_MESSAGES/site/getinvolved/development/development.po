@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2019, QGIS Contributors
+# Copyright (C) 2023, QGIS Contributors
 # This file is distributed under the same license as the QGIS package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 # 
 # Translators:
 # Richard Duivenvoorde <richard@duif.net>, 2020
@@ -10,16 +10,16 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: QGIS 3.8\n"
+"Project-Id-Version: QGIS 3.28\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2019-09-05 17:56+0000\n"
 "Last-Translator: Kwon.Yongchan <ruvyn@naver.com>, 2022\n"
 "Language-Team: Korean (https://www.transifex.com/qgis/teams/6144/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: ko\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -163,45 +163,4 @@ msgstr "checkbox"
 
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
-msgstr ""
-
-#~ msgid "Go to the QGIS repository in Github at https://github.com/qgis/QGIS/"
-#~ msgstr ""
-
-#~ msgid "QGIS has a lot to offer for python developers too."
-#~ msgstr "QGIS에는 파이썬 개발자를 위해서도 많은 지원이 있습니다."
-
-#~ msgid "QGIS has python bindings so you can automate tasks in QGIS via python."
-#~ msgstr "QGIS에 파이썬이 포함되어 있어서 사용자가 파이썬을 이용한 QGIS 자동화를 할 수 있습니다."
-
-#~ msgid ""
-#~ "Interested in python plugin development, easiest way to start is using the "
-#~ "Plugin Builder plugin in QGIS. Search for ``Plugin Builder`` in the plugin "
-#~ "manager of QGIS, or read up here: "
-#~ "https://plugins.qgis.org/plugins/pluginbuilder/"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "You can also have a look into the **Python Cookbook** in our Documentation "
-#~ "site: https://docs.qgis.org."
-#~ msgstr ""
-
-#~ msgid "Looking for examples of python plugins, see http://plugins.qgis.org"
-#~ msgstr "파이썬 플러그인을 찾으시려면, 다음을 보십시오: http://plugins.qgis.org"
-
-#~ msgid "You can find the QGIS-iface which you can use via python here:"
-#~ msgstr "사용자는 파이썬을 통해 사용하실 수 있는 QGIS-iface를 다음에서 찾으실 수 있습니다:"
-
-#~ msgid "https://qgis.org/api/classQgisInterface.html (for QGIS testing)"
-#~ msgstr ""
-
-#~ msgid "https://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)"
-#~ msgstr ""
-
-#~ msgid "https://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Read the https://github.com/qgis/QGIS/blob/master/INSTALL about setting up "
-#~ "the installation environment and make a compilation with ccache enabled."
-#~ msgstr ""
+msgstr "checkbox_unchecked"

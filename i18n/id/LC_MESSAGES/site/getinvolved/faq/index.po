@@ -1,19 +1,22 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
-# Imron Fauzi <imronfauzi@gmail.com>, 2014
+# imron fauzi <imronfauzi@gmail.com>, 2014
 # Ridho Dwi Dharmawan <ridhodwidh@gmail.com>, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2013-09-17 13:24+0000\n"
 "Last-Translator: Ridho Dwi Dharmawan <ridhodwidh@gmail.com>, 2020\n"
 "Language-Team: Indonesian (http://www.transifex.com/qgis/qgis-website/language/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: id\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -258,97 +261,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "cekbox_tidakterpilih"
-
-#~ msgid ""
-#~ msgstr ""
-
-#~ msgid "Can I compile QGIS myself on Windows?"
-#~ msgstr ""
-
-#~ msgid "Can I compile QGIS myself on MacOS?"
-#~ msgstr ""
-
-#~ msgid "Can I compile QGIS myself on Linux?"
-#~ msgstr ""
-
-#~ msgid "If you use the OSGeo4w 64 bit installer, it is included."
-#~ msgstr ""
-
-#~ msgid "Yes, please read: INSTALL_"
-#~ msgstr ""
-
-#~ msgid "QGIS error on your machine. How to ask a question?"
-#~ msgstr ""
-
-#~ msgid "Please provide the following information:"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "In case of a broken function, you may give a look at `QGIS issue tracker "
-#~ "<http://hub.qgis.org/projects/quantum-gis/issues>`_ before mailing to the "
-#~ "list. More information at :ref:`QGIS-bugreporting`."
-#~ msgstr ""
-
-#~ msgid "Why is QGIS 2.0 named 'Dufour'?"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "After a succesfull developer meeting in Zurich (Switzerland), we decided "
-#~ "that the next release should be related to it. `General Guillaume-Henri "
-#~ "Dufour <http://en.wikipedia.org/wiki/Guillaume-Henri_Dufour>`_ was a famous "
-#~ "and influential swiss cartographer. Furthermore Dufourspitze is the `highest"
-#~ " peak "
-#~ "<http://map.geo.admin.ch/?selectedNode=LT1_1&Y=632553.1393289&X=87054.893445183&zoom=6&bgLayer=ch.swisstopo.pixelkarte-"
-#~ "farbe&layers=ch.swisstopo.hiks-"
-#~ "dufour&layers_opacity=1&layers_visibility=true&time_current=latest&lang=en>`_"
-#~ " in Switzerland."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "If you are going to ask QGIS related question via the mailing lists, please "
-#~ "provide enough information to help others easily understand what your "
-#~ "problem is. Without a clear and precise question, it is very hard to answer "
-#~ "for anybody or takes just too much time because the answer will be a "
-#~ "question to you etc etc. You may provide information such as:"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "In case of a broken function, you may give a look at `QGIS issue tracker "
-#~ "<https://issues.qgis.org/projects/qgis/issues>`_ before mailing to the list."
-#~ " More information at :ref:`QGIS-bugreporting`."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "To cite QGIS in your piece of work, or for an assignment, this general "
-#~ "citation might be helpful: \"QGIS Development Team (YEAR). QGIS Geographic "
-#~ "Information System. Open Source Geospatial Foundation Project. "
-#~ "http://qgis.osgeo.org\"."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Yes, compiling QGIS from source is possible whatever OS you use (Windows, OS"
-#~ " X, Linux). Please read `Building QGIS from source "
-#~ "<http://htmlpreview.github.io/?https://github.com/qgis/QGIS/blob/master/doc/INSTALL.html>`_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "After a succesfull developer meeting in Zurich (Switzerland), we decided "
-#~ "that the next release should be related to it. Since then, all releases have"
-#~ " been named after locations of our developer meetings."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "To cite QGIS in your piece of work, or for an assignment, this general "
-#~ "citation might be helpful: \"QGIS.org (YEAR). QGIS Geographic Information "
-#~ "System. Open Source Geospatial Foundation Project. http://qgis.org\"."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "If you are using OS X, you can find the ECW plugin and install instructions "
-#~ "at http://www.kyngchaos.com/software/frameworks"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "For other instructions, eg look here: "
-#~ "http://www.faunalia.com/content/adding-ecw-support-quantum-gis"
-#~ msgstr ""

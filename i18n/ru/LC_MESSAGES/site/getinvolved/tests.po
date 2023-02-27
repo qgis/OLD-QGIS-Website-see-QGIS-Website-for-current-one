@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018, QGIS Contributors
+# Copyright (C) 2023, QGIS Contributors
 # This file is distributed under the same license as the QGIS package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 # 
 # Translators:
 # Arthur <un-logic@ya.ru>, 2020
@@ -10,16 +10,16 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: QGIS 3.2\n"
+"Project-Id-Version: QGIS 3.28\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2017-12-19 15:08+0000\n"
 "Last-Translator: Sponsor - Statistisk sentralbyrå (Statistics Norway) <tinara.shaildaeva@gmail.com>, 2022\n"
 "Language-Team: Russian (https://www.transifex.com/qgis/teams/6144/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: ru\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 
@@ -33,24 +33,23 @@ msgstr "И QGIS и сервер QGIS подвергаются разнообра
 
 #: ../../source/site/getinvolved/tests.rst:8
 msgid ""
-"From build tests (Travis) and code unit tests to OGC conformance testing."
+"From build tests (github workflows) and code unit tests to OGC conformance "
+"testing."
 msgstr ""
-"Начиная с тестирования сборки (Travis) и автономных тестов кода, заканчивая "
-"тестированием на соответствие OGC."
 
 #: ../../source/site/getinvolved/tests.rst:11
-msgid "Travis"
-msgstr "Travis"
+msgid "Github workflows"
+msgstr ""
 
 #: ../../source/site/getinvolved/tests.rst:17
 msgid "Docker"
 msgstr "Docker"
 
-#: ../../source/site/getinvolved/tests.rst:24
+#: ../../source/site/getinvolved/tests.rst:23
 msgid "Unit tests"
 msgstr "Автономные тесты"
 
-#: ../../source/site/getinvolved/tests.rst:26
+#: ../../source/site/getinvolved/tests.rst:25
 msgid ""
 "See `Unit testing "
 "<https://docs.qgis.org/testing/en/docs/developers_guide/unittesting.html>`_"
@@ -58,11 +57,11 @@ msgstr ""
 "Смотри `Автономное тестирование "
 "<https://docs.qgis.org/testing/en/docs/developers_guide/unittesting.html>`_"
 
-#: ../../source/site/getinvolved/tests.rst:30
+#: ../../source/site/getinvolved/tests.rst:29
 msgid "OGC Conformance testing"
 msgstr "Тестирование на соответствие OGC"
 
-#: ../../source/site/getinvolved/tests.rst:32
+#: ../../source/site/getinvolved/tests.rst:31
 msgid ""
 "See `OGC conformance testing "
 "<https://docs.qgis.org/testing/en/docs/developers_guide/ogcconformancetesting.html>`_"
@@ -72,7 +71,7 @@ msgstr ""
 "OGC "
 "<https://docs.qgis.org/testing/en/docs/developers_guide/ogcconformancetesting.html>`_."
 
-#: ../../source/site/getinvolved/tests.rst:35
+#: ../../source/site/getinvolved/tests.rst:34
 msgid ""
 "Recent tests output can be found here: http://test.qgis.org/ogc_cite. For "
 "latest WMS 1.3.0 test see "
@@ -90,17 +89,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr ""
-
-#~ msgid "See :ref:`qgis_unittesting`"
-#~ msgstr "Смотри :ref:`qgis_unittesting`"
-
-#~ msgid ""
-#~ "See :ref:`qgis_ogc_conformance` for more information and how to run these "
-#~ "tests yourself."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Recent test output can be found here: http://test.qgis.org/ogc_cite and for "
-#~ "latests WMS 1.3.0 test see "
-#~ "http://test.qgis.org/ogc_cite/latest_wms_1_3_0.html."
-#~ msgstr ""

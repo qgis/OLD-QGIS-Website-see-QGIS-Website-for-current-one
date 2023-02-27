@@ -1,0 +1,4451 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+# 
+# Translators:
+# matteo ghetta <matteo.ghetta@gmail.com>, 2022
+# Roberta Castelli <crcastelli@tiscali.it>, 2022
+# Luca M. <luca76@gmail.com>, 2022
+# Martina Savarese <martina.savarese@gmail.com>, 2022
+# Simone Falceri, 2022
+# Marco Grisolia <marco.grisolia5@gmail.com>, 2022
+# Jürgen E. Fischer <jef@norbit.de>, 2022
+# Stefano Campus <skampus@gmail.com>, 2022
+# Andrea Giudiceandrea <andreaerdna@libero.it>, 2022
+# Giuseppe Mattiozzi <mattiozzig@gmail.com>, 2022
+# marcobra <marcobra.ubuntu@gmail.com>, 2022
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS 3.28\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
+"PO-Revision-Date: 2022-03-02 13:45+0000\n"
+"Last-Translator: marcobra <marcobra.ubuntu@gmail.com>, 2022\n"
+"Language-Team: Italian (https://www.transifex.com/qgis/teams/6144/it/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+"Language: it\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:4
+msgid "Changelog for QGIS 3.24"
+msgstr "Elenco cambiamenti per QGIS 3.24"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:6
+msgid "|image1|"
+msgstr "|image1|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1302
+msgid "image1"
+msgstr "image1"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:8
+msgid "Release date: 2022-02-18"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:10
+msgid ""
+"In Memorium: This release is named 'Tisler' after a small Norwegian island "
+"that was a favourite visiting place of Håvard Tveite who passed away in May "
+"2021. Håvard was a very active member of the QGIS community, providing "
+"valuable input to the documentation, developing numerous plugins, and taking"
+" care of the QGIS Resources Sharing Repository to name just a few of his "
+"contributions. The map on the QGIS 3.24 splash screen is an orienteering map"
+" that Håvard has created. He liked spending some time each year map-making "
+"at Tisler."
+msgstr ""
+"In memoria: Questo rilascio è chiamato 'Tisler' da una piccola isola "
+"norvegese che era uno dei luoghi preferiti di Håvard Tveite, scomparso nel "
+"maggio 2021. Håvard è stato un membro molto attivo della comunità QGIS, "
+"fornendo un prezioso contributo alla documentazione, sviluppando numerosi "
+"plugin e occupandosi del QGIS Resources Sharing Repository per citare solo "
+"alcuni dei suoi contributi. La mappa sullo splash screen di QGIS 3.24 è una "
+"mappa di orienteering che Håvard ha creato. Gli piaceva passare un po' di "
+"tempo ogni anno a fare mappe a Tisler."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:12
+msgid ""
+"We would also like to extend a big thank you to the developers, documenters,"
+" testers, and all the many folks out there who volunteer their time and "
+"effort (or fund people to do so) to make these releases possible. From the "
+"QGIS community, we hope you enjoy this release! If you wish to donate time, "
+"money, or otherwise get involved in making QGIS more awesome, please wander "
+"along to `QGIS.ORG <qgis.org>`__ and lend a hand!"
+msgstr ""
+"Vogliamo ringraziare gli sviluppatori, chi cura la documentazione, i tester "
+"e tutti coloro che hanno offerto volontariamente il proprio tempo e impegno "
+"(o finanziato altri per farlo) per rendere possibili questi rilasci. Da "
+"parte della comunità di QGIS,  speriamo ti piaccia questa versione! Se "
+"vorrai donare tempo, denaro o partecipare in altro modo per rendere QGIS "
+"migliore, visita il sito `QGIS.ORG <qgis.org>`__ e dacci una mano!"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:14
+msgid ""
+"For a whirlwind tour of all the new functionalities introduced, you can view"
+" the highlight reel video on youtube at https://youtu.be/gVgR4Oxqtkk"
+msgstr ""
+"Per una carrellata di tutte le nuove funzionalità introdotte, è possibile "
+"visualizzare il video highlight reel su youtube all'indirizzo "
+"https://youtu.be/gVgR4Oxqtkk"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:16
+msgid ""
+":raw-html:`<div style=\"position:relative;width:100%;height:0;padding-"
+"bottom:56.25%\"><iframe "
+"style=\"position:absolute;top:0;left:0;width:100%;height:100%\" "
+"src=\"https://www.youtube.com/embed/gVgR4Oxqtkk\" frameborder=\"0\" "
+"allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; "
+"gyroscope;\" allowfullscreen></iframe></div>`"
+msgstr ""
+":raw-html:`<div style=\"position:relative;width:100%;height:0;padding-"
+"bottom:56.25%\"><iframe "
+"style=\"position:absolute;top:0;left:0;width:100%;height:100%\" "
+"src=\"https://www.youtube.com/embed/gVgR4Oxqtkk\" frameborder=\"0\" "
+"allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; "
+"gyroscope;\" allowfullscreen></iframe></div>`"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:18
+msgid ""
+"QGIS is supported by donors and sustaining members. A current list of donors"
+" who have made financial contributions large and small to the project can be"
+" seen on our `donors list "
+"<https://www.qgis.org/en/site/about/sustaining_members.html#list-of-"
+"donors>`__. If you would like to become an official project sustaining "
+"member, please visit our `sustaining member page "
+"<https://www.qgis.org/en/site/getinvolved/governance/sustaining_members/sustaining_members.html#qgis-"
+"sustaining-memberships>`__ for details. Sponsoring QGIS helps us to fund our"
+" regular developer meetings, maintain project infrastructure, and fund bug "
+"fixing efforts. A complete list of current sponsors is provided below - our "
+"very great thank you to all of our sponsors!"
+msgstr ""
+"QGIS è sostenuto da donatori e membri sostenitori. Una lista attuale di "
+"donatori che hanno dato contributi finanziari grandi e piccoli al progetto "
+"può essere vista sulla nostra `lista dei donatori "
+"<https://www.qgis.org/en/site/about/sustaining_members.html#list-of-"
+"donors>`__. Se vuoi diventare un membro sostenitore ufficiale del progetto, "
+"visita la nostra `pagina dei membri sostenitori "
+"<https://www.qgis.org/en/site/getinvolved/governance/sustaining_members/sustaining_members.html#qgis-"
+"sustaining-memberships>`__ per i dettagli. Sponsorizzare QGIS ci aiuta a "
+"finanziare i nostri regolari incontri con gli sviluppatori, a mantenere "
+"l'infrastruttura del progetto e a finanziare gli sforzi per risolvere i bug."
+" Una lista completa degli attuali sponsor è fornita qui sotto - il nostro "
+"grande ringraziamento a tutti i nostri sponsor!"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:20
+msgid ""
+":raw-html:`<div id=\"qgissustainingmembersatom\"> <!-- to be filled via "
+"javascript loading of atom feed --> </div>`"
+msgstr ""
+":raw-html:`<div id=\"qgissustainingmembersatom\"> <!-- to be filled via "
+"javascript loading of atom feed --> </div>`"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:22
+msgid ""
+"QGIS is Free software and you are under no obligation to pay anything to use"
+" it - in fact, we want to encourage people far and wide to use it regardless"
+" of what your financial or social status is - we believe empowering people "
+"with spatial decision-making tools will result in a better society for all "
+"of humanity."
+msgstr ""
+"QGIS è un Software Libero e non c'è alcun obbligo di pagare nulla per "
+"utilizzarlo - vogliamo infatti incoraggiare le persone di ogni parte del "
+"mondo ad usarlo, indipendentemente dalla propria situazione finanziaria o "
+"sociale - crediamo che mettere tutti nella condizione di utilizzare gli "
+"strumenti decisionali spaziali produrrà una società migliore per tutta "
+"l'umanità."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:29
+msgid "User Interface"
+msgstr "Interfaccia Utente"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:32
+msgid "Feature: Retrieve map extents directly from layout maps and bookmarks"
+msgstr ""
+"Funzionalità: Recupera le estensioni delle mappe direttamente dalle mappe di"
+" layout e dai segnalibri"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:34
+msgid ""
+"This is a handy time-saver! The extent widget in QGIS now allows you to "
+"directly retrieve and match the extent of maps from bookmarks and layouts in"
+" your project."
+msgstr ""
+"Questo è un comodo risparmio di tempo! Il widget dell'estensione in QGIS ora"
+" ti permette di recuperare direttamente l'estensione delle mappe dai "
+"segnalibri e dai layout del tuo progetto."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:36
+msgid "|image3|"
+msgstr "|image3|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1306
+msgid "image3"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:38
+#: ../../source/site/forusers/visualchangelog324/index.rst:231
+#: ../../source/site/forusers/visualchangelog324/index.rst:333
+#: ../../source/site/forusers/visualchangelog324/index.rst:342
+#: ../../source/site/forusers/visualchangelog324/index.rst:654
+#: ../../source/site/forusers/visualchangelog324/index.rst:663
+#: ../../source/site/forusers/visualchangelog324/index.rst:745
+#: ../../source/site/forusers/visualchangelog324/index.rst:897
+#: ../../source/site/forusers/visualchangelog324/index.rst:906
+msgid ""
+"This feature was developed by `Mathieu Pellerin <https://www.opengis.ch/>`__"
+msgstr ""
+"Questa funzionalità è stata sviluppata da`Mathieu Pellerin "
+"<https://www.opengis.ch/>`__"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:41
+msgid "Feature: Easier creation of custom coordinate reference systems"
+msgstr ""
+"Funzionalità: Creazione più facile di sistemi di riferimento di coordinate "
+"personalizzati"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:43
+msgid ""
+"We've added a new option when selecting a Coordinate Reference System (CRS) "
+"which allows you to just directly enter a custom CRS definition (from proj "
+"or WKT strings), instead of requiring you to specifically add these custom "
+"CRS to the projection database first."
+msgstr ""
+"Abbiamo aggiunto una nuova opzione quando si seleziona un sistema di "
+"riferimento di coordinate (SR) che permette di inserire direttamente una "
+"definizione SR personalizzata (da stringhe proj o WKT), invece di richiedere"
+" di aggiungere specificamente questi SR personalizzati al database delle "
+"proiezioni."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:45
+msgid ""
+"It's much friendlier when you just want to define a custom projection for a "
+"single-purpose use, e.g. an overview map with a projection designed for a "
+"particular latitude and longitude location."
+msgstr ""
+"È molto più amichevole quando si vuole solo definire una proiezione "
+"personalizzata per un singolo scopo, ad esempio una mappa panoramica con una"
+" proiezione progettata per una particolare latitudine e longitudine."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:47
+msgid "|image4|"
+msgstr "|image4|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1308
+msgid "image4"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:49
+#: ../../source/site/forusers/visualchangelog324/index.rst:67
+#: ../../source/site/forusers/visualchangelog324/index.rst:78
+#: ../../source/site/forusers/visualchangelog324/index.rst:93
+#: ../../source/site/forusers/visualchangelog324/index.rst:102
+#: ../../source/site/forusers/visualchangelog324/index.rst:115
+#: ../../source/site/forusers/visualchangelog324/index.rst:126
+#: ../../source/site/forusers/visualchangelog324/index.rst:137
+#: ../../source/site/forusers/visualchangelog324/index.rst:155
+#: ../../source/site/forusers/visualchangelog324/index.rst:170
+#: ../../source/site/forusers/visualchangelog324/index.rst:194
+#: ../../source/site/forusers/visualchangelog324/index.rst:205
+#: ../../source/site/forusers/visualchangelog324/index.rst:220
+#: ../../source/site/forusers/visualchangelog324/index.rst:247
+#: ../../source/site/forusers/visualchangelog324/index.rst:266
+#: ../../source/site/forusers/visualchangelog324/index.rst:280
+#: ../../source/site/forusers/visualchangelog324/index.rst:304
+#: ../../source/site/forusers/visualchangelog324/index.rst:324
+#: ../../source/site/forusers/visualchangelog324/index.rst:405
+#: ../../source/site/forusers/visualchangelog324/index.rst:419
+#: ../../source/site/forusers/visualchangelog324/index.rst:501
+#: ../../source/site/forusers/visualchangelog324/index.rst:512
+#: ../../source/site/forusers/visualchangelog324/index.rst:527
+#: ../../source/site/forusers/visualchangelog324/index.rst:538
+#: ../../source/site/forusers/visualchangelog324/index.rst:683
+#: ../../source/site/forusers/visualchangelog324/index.rst:699
+#: ../../source/site/forusers/visualchangelog324/index.rst:708
+#: ../../source/site/forusers/visualchangelog324/index.rst:757
+#: ../../source/site/forusers/visualchangelog324/index.rst:815
+#: ../../source/site/forusers/visualchangelog324/index.rst:822
+#: ../../source/site/forusers/visualchangelog324/index.rst:845
+msgid ""
+"This feature was developed by `Nyall Dawson "
+"<https://github.com/nyalldawson>`__"
+msgstr ""
+"Questa funzionalità è stata sviluppata da `Nyall Dawson "
+"<https://github.com/nyalldawson>`__"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:52
+msgid "Symbology"
+msgstr "Simbologia"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:55
+msgid ""
+"Feature: Marker/hash line: offsets along line by \"percent\" of line length "
+"(and negative offsets!)"
+msgstr ""
+"Funzionalità: Marker/hash line: offset lungo la linea per \"percentuale\" "
+"della lunghezza della linea (e offset negativi!)"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:57
+msgid ""
+"You can now specify the *offset along line* in percentage for both marker "
+"and hash line symbol layer types. (These offsets are treated as percentages "
+"of the overall line length)."
+msgstr ""
+"È ora possibile specificare lo *offset lungo la linea* in percentuale per "
+"entrambi i tipi di simbolo di linea marker e hash. (Questi offset sono "
+"trattati come percentuali della lunghezza totale della linea)."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:59
+#, python-format
+msgid ""
+"Additionally, when the *offset along line* setting for a marker or hash line"
+" symbol layer is longer than the size of a **closed** ring, QGIS will now "
+"treat the offset as continuing to loop around the ring. For example, setting"
+" the offset to 150% results in the offset being treated as 50% of the length"
+" of the closed ring."
+msgstr ""
+"Inoltre, quando l'impostazione *offset lungo la linea* per un marcatore o un"
+" simbolo di linea hash è più lunga della dimensione di un anello **chiuso**,"
+" QGIS ora tratta l'offset come se continuasse a girare intorno all'anello. "
+"Per esempio, impostando l'offset al 150%, l'offset viene trattato come il "
+"50% della lunghezza dell'anello chiuso."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:61
+msgid ""
+"Lastly, we also made it possible to specify a negative *offset along line* "
+"for a closed ring. Negative offsets are calculated backwards along the ring."
+msgstr ""
+"Infine, abbiamo anche reso possibile specificare un *offset negativo lungo "
+"la linea* per un anello chiuso. Gli offset negativi sono calcolati "
+"all'indietro lungo l'anello."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:63
+msgid "|image5|"
+msgstr "|image5|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1310
+msgid "image5"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:65
+#: ../../source/site/forusers/visualchangelog324/index.rst:76
+#: ../../source/site/forusers/visualchangelog324/index.rst:100
+#: ../../source/site/forusers/visualchangelog324/index.rst:113
+#: ../../source/site/forusers/visualchangelog324/index.rst:124
+#: ../../source/site/forusers/visualchangelog324/index.rst:153
+#: ../../source/site/forusers/visualchangelog324/index.rst:168
+#: ../../source/site/forusers/visualchangelog324/index.rst:192
+#: ../../source/site/forusers/visualchangelog324/index.rst:203
+#: ../../source/site/forusers/visualchangelog324/index.rst:218
+#: ../../source/site/forusers/visualchangelog324/index.rst:245
+#: ../../source/site/forusers/visualchangelog324/index.rst:264
+#: ../../source/site/forusers/visualchangelog324/index.rst:278
+#: ../../source/site/forusers/visualchangelog324/index.rst:302
+#: ../../source/site/forusers/visualchangelog324/index.rst:403
+#: ../../source/site/forusers/visualchangelog324/index.rst:417
+#: ../../source/site/forusers/visualchangelog324/index.rst:499
+#: ../../source/site/forusers/visualchangelog324/index.rst:510
+#: ../../source/site/forusers/visualchangelog324/index.rst:525
+#: ../../source/site/forusers/visualchangelog324/index.rst:536
+msgid ""
+"This feature was funded by `North Road, thanks to SLYR <https://north-"
+"road.com>`__"
+msgstr ""
+"Questa funzionalità è stata finanziata da `North Road, grazie a SLYR "
+"<https://north-road.com>`__"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:70
+msgid ""
+"Feature: Control whether first/last vertex placements apply to every part of"
+" multi-part geometries"
+msgstr ""
+"Funzionalità: Controllo se i posizionamenti del primo/ultimo vertice si "
+"applicano a ogni parte delle geometrie multiparte"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:72
+msgid ""
+"This new symbology option for the Marker and Hash line symbol types allows "
+"you to control whether the First and Last Vertex placement options should "
+"apply to every part of a multi-part line (or polygon) individually, or only "
+"the very first and last vertex in the whole multi-part geometry."
+msgstr ""
+"Questa nuova opzione di simbologia per i tipi di simboli Marker e Hash line "
+"permette di controllare se le opzioni di posizionamento del primo e "
+"dell'ultimo vertice devono essere applicate ad ogni parte di una linea (o "
+"poligono) in più parti individualmente, o solo al primo e all'ultimo vertice"
+" nell'intera geometria in più parti."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:74
+msgid "|image6|"
+msgstr "|image6|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1312
+msgid "image6"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:81
+msgid ""
+"Feature: Marker/hash line \"on vertices\" placement option replaced by \"on "
+"inner vertices\""
+msgstr ""
+"Funzionalità: Opzione di posizionamento del marcatore/linea \"sui vertici\" "
+"sostituito da \"sui vertici interni\"."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:83
+msgid ""
+"The new *On Inner Vertices* mode places the symbols on all **inner** "
+"vertices only (i.e. all vertices except the first or last vertex)."
+msgstr ""
+"La nuova modalità *Su Vertici Interni* pone i simboli solo su tutti i "
+"vertici **interni** (cioè tutti i vertici tranne il primo o l'ultimo)."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:85
+msgid ""
+"Previously, the old \"Vertex\" mode put symbols on the first and last vertex"
+" as well as all inner vertices, making it basically impossible to style a "
+"line with a **different** marker on the first or last vertex to the rest of "
+"the line's vertices. With the new *On Inner Vertices* option it's easy to "
+"create a style where a line has a different marker on the first or last "
+"vertex vs the rest of the vertices!"
+msgstr ""
+"In precedenza, la vecchia modalità \"Vertice\" metteva i simboli sul primo e"
+" sull'ultimo vertice così come su tutti i vertici interni, rendendo "
+"praticamente impossibile creare uno stile con un marcatore **diverso** sul "
+"primo o sull'ultimo vertice rispetto al resto dei vertici della linea. Con "
+"la nuova opzione *Sui vertici interni* è facile creare uno stile in cui una "
+"linea ha un marcatore diverso sul primo o sull'ultimo vertice rispetto al "
+"resto dei vertici!"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:87
+msgid ""
+"(This change is paired nicely with the switch to using checkboxes for the "
+"placement options -- to get a marker to show on all vertices, just make sure"
+" the first, last and inner vertices options are checked)."
+msgstr ""
+"(Questo cambiamento si abbina bene con il passaggio all'uso di caselle di "
+"controllo per le opzioni di posizionamento -- per ottenere un marcatore da "
+"mostrare su tutti i vertici, basta assicurarsi che le opzioni primo, ultimo "
+"e vertici interni siano selezionate)."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:89
+msgid "|image7|"
+msgstr "|image7|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1314
+msgid "image7"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:91
+msgid "This feature was funded by North Road, thanks to SLYR"
+msgstr "Questa funzionalità è stata finanziata da North Road, grazie a SLYR"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:96
+msgid ""
+"Feature: Placement options in marker and hash line symbol layers are now "
+"checkboxes instead of mutually exclusive buttons"
+msgstr ""
+"Funzionalità: Le opzioni di posizionamento nei livelli dei simboli dei "
+"marcatori e delle linee di hash sono ora caselle di controllo invece di "
+"pulsanti che si escludono a vicenda"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:98
+msgid ""
+"This improvement makes it considerably easier to create marker (or hash) "
+"lines with the markers on both the first **and** last vertex (amongst other "
+"useful combinations!)"
+msgstr ""
+"Questo miglioramento rende notevolmente più facile creare linee di marcatori"
+" (o hash) con i marcatori sia sul primo **e** ultimo vertice (fra le altre "
+"combinazioni utili!)"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:105
+msgid ""
+"Feature: Control the color model used when interpolating gradient ramps"
+msgstr ""
+"Funzionalità: controllo del modello di colore usato quando si interpolano le"
+" rampe del gradiente"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:107
+msgid ""
+"When rendering a gradient ramp some combinations of gradient colors will "
+"cause the ramp to pass through murky grey mid-tones if the interpolation is "
+"performed using red/green/blue channels independently. An alternative "
+"approach is to instead interpolate colors via their hue/saturation/lightness"
+" or value channels. This approach can avoid these desaturated mid tones, "
+"resulting in more visually pleasing gradients."
+msgstr ""
+"Quando si esegue il rendering di una rampa di gradiente, alcune combinazioni"
+" di colori del gradiente causeranno il passaggio della rampa attraverso "
+"mezzitoni grigi se l'interpolazione viene eseguita utilizzando i canali "
+"rosso/verde/blu in modo indipendente. Un approccio alternativo è invece "
+"quello di interpolare i colori attraverso i loro canali "
+"hue/saturation/lightness o value. Questo approccio può evitare questi toni "
+"medi desaturati, risultando in gradienti visivamente più piacevoli."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:109
+msgid ""
+"We now allow the color specifcation to be set per stop in a multi-stop color"
+" gradient to give users control over which interpolation technique to use. "
+"There's also an option to control the direction which interpolation should "
+"follow for the Hue component of a HSL/HSV color spec interpolation,m which "
+"can help avoid unwanted interpolation through the entire rainbow hue "
+"spectrum in some circumstances!"
+msgstr ""
+"Ora permettiamo che la specificazione del colore sia impostata per stop in "
+"un gradiente di colore multi-stop per dare agli utenti il controllo su quale"
+" tecnica di interpolazione usare. C'è anche un'opzione per controllare la "
+"direzione che l'interpolazione dovrebbe seguire per la componente Hue di "
+"un'interpolazione delle specifiche di colore HSL/HSV, il che può aiutare ad "
+"evitare un'interpolazione indesiderata attraverso l'intero spettro di "
+"tonalità dell'arcobaleno in alcune circostanze!"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:111
+msgid ""
+"This `video <https://user-"
+"images.githubusercontent.com/1829991/140872101-b6d7dd66-3595-4584-8e1a-0a384f5ec82d.mp4>`__"
+" shows the difference in mid-tones of a color ramp, where the RGB "
+"interpolation results in murky colors, while the HSL/HSV interpolation "
+"remains nice and vibrant."
+msgstr ""
+"Questo `video <https://user-"
+"images.githubusercontent.com/1829991/140872101-b6d7dd66-3595-4584-8e1a-0a384f5ec82d.mp4>`__"
+" mostra la differenza nei mezzitoni di una rampa di colore, dove "
+"l'interpolazione RGB risulta in colori torbidi, mentre l'interpolazione "
+"HSL/HSV rimane bella e vibrante."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:118
+msgid "Feature: Resizable thumbnails in the style manager dialog"
+msgstr ""
+"Funzionalità: Miniature ridimensionabili nella finestra di dialogo del "
+"gestore di stili"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:120
+msgid ""
+"We've added a new slider to control the size of thumbnails shown in the "
+"style manager dialog, because sometimes these thumbnail sizes are just too "
+"small to get a good representation of a symbol!"
+msgstr ""
+"Abbiamo aggiunto un nuovo cursore per controllare la dimensione delle "
+"miniature mostrate nella finestra di dialogo del gestore degli stili, perché"
+" a volte queste dimensioni delle miniature sono semplicemente troppo piccole"
+" per ottenere una buona rappresentazione di un simbolo!"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:122
+msgid "|image8|"
+msgstr "|image8|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1316
+msgid "image8"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:129
+msgid "Feature: \"Lineburst\" symbols"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:131
+msgid ""
+"We've added a brand new \"Lineburst\" symbol layer type, which renders a "
+"gradient along the **width** of a line (as opposed to the Interpolated Line "
+"renderer, which renders a gradient along the **length** of a line). It's "
+"just like the Shapeburst fill symbol type, but for lines!"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:133
+msgid "|image9|"
+msgstr "|image9|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1318
+msgid "image9"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:135
+msgid ""
+"This feature was funded by `North Road, thanks to SLYR! <https://north-"
+"road.com>`__"
+msgstr ""
+"Questa funzionalità è stata finanziata da `North Road, grazie a SLYR! "
+"<https://north-road.com>`__"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:140
+msgid "Feature: \"Raster Line\" symbols"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:142
+msgid ""
+"We're super-excited to bring you this brand new line symbol type, which "
+"allows you to render a raster image following a line feature's shape. This "
+"symbol type opens a whole new realm of possibilities for QGIS symbology, and"
+" is especially useful when creating maps in a hand drawn or painted style."
+msgstr ""
+"Siamo super-eccitati di portarvi questo nuovissimo tipo di simbolo di linea,"
+" che vi permette di rendere un'immagine raster seguendo la forma di una "
+"caratteristica di linea. Questo tipo di simbolo apre un intero nuovo regno "
+"di possibilità per la simbologia di QGIS, ed è particolarmente utile quando "
+"si creano mappe in uno stile disegnato o dipinto a mano."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:144
+msgid "Options are available to control:"
+msgstr "Sono disponibili opzioni per il controllo:"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:146
+msgid "the picture path (including data defined path)"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:147
+msgid "line width"
+msgstr "spessore linea"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:148
+msgid "opacity"
+msgstr "opacità"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:149
+msgid "line join and cap styles"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:151
+msgid "|image10|"
+msgstr "|image10|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1320
+msgid "image10"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:158
+msgid "Feature: Choice of clipping behaviour for line pattern fills"
+msgstr ""
+"Funzionalità: Scelta del comportamento di ritaglio per i riempimenti del "
+"modello di linea"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:160
+msgid ""
+"You can now control how lines in a line pattern fill symbol are clipped to "
+"polygon shapes. The available options include:"
+msgstr ""
+"È ora possibile controllare come le linee in un simbolo di riempimento del "
+"modello di linea sono ritagliate nelle forme poligonali. Le opzioni "
+"disponibili includono:"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:162
+msgid ""
+"**Clip During Render Only**: lines are created covering the whole *bounding "
+"box* of the feature which are then clipped while drawing. The line "
+"extremities (beginning and end) will not be visible (this is same behaviour "
+"as older QGIS releases)."
+msgstr ""
+"**Taglio solo durante il rendering**: le linee vengono create coprendo "
+"l'intero *riquadro di delimitazione* della feature che viene poi ritagliata "
+"durante il disegno. Le estremità della linea (inizio e fine) non saranno "
+"visibili (questo è lo stesso comportamento delle vecchie versioni di QGIS)."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:163
+msgid ""
+"**Clip Lines Before Render**: lines are clipped to the *exact shape* of the "
+"polygon prior to rendering. The line extremities (including cap styles, "
+"start/end marker line symbols, etc) will be visible, and may sometimes "
+"extend outside of the polygon (depending on the line symbol settings)."
+msgstr ""
+"**Taglio Linee Prima del Render**: le linee sono ritagliate alla *forma "
+"esatta* del poligono prima del rendering. Le estremità delle linee (inclusi "
+"gli stili della punta, i simboli delle linee di inizio e fine, ecc.) saranno"
+" visibili, e possono talvolta estendersi al di fuori del poligono (a seconda"
+" delle impostazioni del simbolo della linea)."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:164
+msgid ""
+"**No Clipping**: no clipping at all is done - the lines will cover the whole"
+" bounding box of the feature"
+msgstr ""
+"**Nessun taglio**: non viene fatto alcun ritaglio - le linee copriranno "
+"l'intero riquadro di delimitazione della feature"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:166
+msgid "|image11|"
+msgstr "|image11|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1322
+msgid "image11"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:173
+msgid "Feature: Improved rendering of line pattern fills"
+msgstr ""
+"Funzionalità: Migliorato il rendering dei riempimenti con motivi di linee"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:175
+msgid ""
+"When exporting to a vector format (e.g. PDF or SVG) or when a line subsymbol"
+" has dynamic (data defined) properties, we now automatically switch to a "
+"line-by-line based approach to render the fill. (Previously, a tiled pattern"
+" approach was always used, which often resulted in undesirable artefacts and"
+" visible seams in the pattern)."
+msgstr ""
+"Quando si esporta in un formato vettoriale (ad esempio PDF o SVG) o quando "
+"un sottosimbolo di linea ha proprietà dinamiche (definite dai dati), ora si "
+"passa automaticamente ad un approccio basato sulla linea per linea per "
+"renderizzare il riempimento. (In precedenza, veniva sempre utilizzato un "
+"approccio basato su un pattern a piastrelle, che spesso causava artefatti "
+"indesiderati e cuciture visibili nel pattern)."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:177
+msgid "Some of the many benefits of this change include:"
+msgstr "Alcuni dei molti benefici di questo cambiamento includono:"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:179
+msgid ""
+"Smaller PDF/SVG output file sizes -- the line pattern fills aren't stored as"
+" raster images in the output so the overall file size will often be much "
+"smaller"
+msgstr ""
+"Dimensioni dei file di output PDF/SVG più piccole: i riempimenti del modello"
+" di linea non sono memorizzati come immagini raster nell'output, quindi la "
+"dimensione complessiva del file sarà spesso molto più piccola"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:180
+msgid ""
+"PDF/SVG exported files are easier to modify in external applications (such "
+"as Inkscape or Adobe Illustrator) for post production, as each individual "
+"line in the pattern can be modified."
+msgstr ""
+"I file esportati in PDF/SVG sono più facili da modificare in applicazioni "
+"esterne (come Inkscape o Adobe Illustrator) per la post-produzione, poiché "
+"ogni singola linea del modello può essere modificata."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:181
+msgid ""
+"Better quality PDF/SVG outputs, since the fill isn't DPI dependent and looks"
+" pixel perfect regardless of how far in you zoom"
+msgstr ""
+"Migliore qualità degli output PDF/SVG, dato che il riempimento non dipende "
+"dai DPI e sembra perfetto nei pixel indipendentemente da quanto si "
+"ingrandisce"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:182
+msgid ""
+"No visible artifacts at certain angles, distances or with certain line "
+"symbol styles"
+msgstr ""
+"Nessun difetto visibile a certe angolazioni, distanze o con certi stili di "
+"simboli di linea"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:184
+msgid ""
+"And even more excitingly, it opens the door for a range of new symbol "
+"styles, for example:"
+msgstr ""
+"E, cosa ancora più eccitante, apre la porta a una serie di nuovi stili di "
+"simboli, per esempio:"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:186
+msgid "line patterns where the individual lines change color/width/dash/ etc."
+msgstr ""
+"modelli di linee in cui le singole linee cambiano colore/larghezza/ "
+"trattino/ ecc."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:187
+msgid "line patterns with marker line symbols on center point/etc"
+msgstr "modelli di linee con simboli di linee marcate sul punto centrale/ecc."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:188
+msgid ""
+"geometry generator effects per line, e.g. wavy line patterns, hand drawn "
+"line styles, etc"
+msgstr ""
+"generatore di effetti geometrici per linea, ad esempio modelli di linee "
+"ondulate, stili di linee disegnate a mano, ecc."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:190
+msgid "|image12|"
+msgstr "|image12|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1324
+msgid "image12"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:197
+msgid "Feature: Rotation angle for point pattern fills"
+msgstr ""
+"Funzionalità: Angolo di rotazione per i riempimenti con pattern di punti"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:199
+msgid ""
+"Now you can specify an optional rotation angle for point pattern fills, "
+"which causes the entire point pattern to be angled. This can be extremely "
+"useful when overlaying multiple point pattern fills!"
+msgstr ""
+"Ora puoi specificare un angolo di rotazione opzionale per i riempimenti del "
+"motivo a punti, che fa sì che l'intero motivo a punti sia angolato. Questo "
+"può essere estremamente utile quando si sovrappongono più riempimenti di "
+"pattern di punti!"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:201
+msgid "|image13|"
+msgstr "|image13|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1326
+msgid "image13"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:208
+msgid "Feature: Randomized point offsets for point pattern fills"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:210
+msgid ""
+"This (optional) setting allows each point in a point pattern fill to be "
+"randomly shifted up to the specified maximum distance in the x or y "
+"direction. You can specify the maximum offset in millimeters, points, map "
+"units, or even \"percentage\" units (where percentage is relative to the "
+"pattern width or height)."
+msgstr ""
+"Questa impostazione (opzionale) permette ad ogni punto nel riempimento di un"
+" motivo a punti di essere spostato casualmente fino alla distanza massima "
+"specificata nella direzione x o y. Potete specificare lo spostamento massimo"
+" in millimetri, punti, unità di mappa o anche unità \"percentuali\" (dove la"
+" percentuale è relativa alla larghezza o all'altezza del motivo)."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:212
+msgid ""
+"You can set an optional random number seed to avoid the symbol patterns "
+"\"jumping\" around between map refreshes. Data defined overrides are also "
+"supported."
+msgstr ""
+"È possibile impostare un seme opzionale di numeri casuali per evitare che i "
+"modelli di simboli \"saltino\" tra gli aggiornamenti della mappa. Sono "
+"supportati anche scavalcamenti definiti dai dati."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:214
+msgid ""
+"The main difference between this new setting and the existing *random marker"
+" fill* symbol type is that the random offset with a point pattern allows for"
+" quasi-\"regular\" placement of markers -- because the points in the pattern"
+" are effectively constrained to a grid, this allows creation of semi-random "
+"fills which don't have empty areas or overlapping markers. (As opposed to "
+"the random marker fill, which will always place points completely "
+"randomly... sometimes resulting in visual clusters of points or unwanted "
+"empty areas)."
+msgstr ""
+"La differenza principale tra questa nuova impostazione e il tipo di simbolo "
+"esistente *riempimento con marker casuale* è che l'offset casuale con un "
+"modello di punti permette un posizionamento quasi \"regolare\" dei marker - "
+"perché i punti nel modello sono effettivamente vincolati a una griglia, "
+"questo permette la creazione di riempimenti semi-casuali che non hanno aree "
+"vuote o marker sovrapposti. (In contrasto con il riempimento casuale dei "
+"marcatori, che posizionerà sempre i punti in modo completamente casuale... a"
+" volte risultando in gruppi visivi di punti o aree vuote indesiderate)."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:216
+msgid "|image14|"
+msgstr "|image14|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1328
+msgid "image14"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:223
+msgid ""
+"Feature: Coordinate reference mode setting for line pattern and point "
+"pattern fill symbol layers"
+msgstr ""
+"Funzionalità: Impostazione della modalità di riferimento delle coordinate "
+"per i livelli di riempimento dei simboli del modello a linee e del modello a"
+" punti"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:225
+msgid ""
+"Line pattern and point pattern fill symbol layers have a new coordinate "
+"reference mode setting to tweak the anchoring of the patterns. Practically "
+"speaking, this allows for patterns to nicely align across adjacent and "
+"overlapping features."
+msgstr ""
+"I livelli dei simboli di riempimento dei modelli di linee e dei modelli di "
+"punti hanno una nuova impostazione della modalità di riferimento delle "
+"coordinate per regolare l'ancoraggio dei modelli. In pratica, questo "
+"permette ai motivi di allinearsi bene attraverso elementi adiacenti e "
+"sovrapposti."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:227
+msgid "|relief|"
+msgstr "|relief|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1330
+msgid "relief"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:229
+msgid "|image16|"
+msgstr "|image16|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1331
+msgid "image16"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:234
+msgid "Feature: Control marker clipping for point pattern fills"
+msgstr ""
+"Funzionalità: Controllo del ritaglio del marcatore per i riempimenti del "
+"modello a punti"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:236
+msgid ""
+"This new option gives you control over how markers are clipped in a point "
+"pattern fill. The available options include:"
+msgstr ""
+"Questa nuova opzione vi dà il controllo su come i marcatori sono ritagliati "
+"in un riempimento con motivo a punti. Le opzioni disponibili includono:"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:238
+msgid ""
+"**Clip to shape**: markers will be clipped by the boundary of the shape, so "
+"\"cut off\" markers may be visible (same behaviour as previous QGIS "
+"versions)"
+msgstr ""
+"**Taglio alla forma**: i marcatori saranno ritagliati dal confine della "
+"forma, quindi i marcatori \"tagliati\" potrebbero essere visibili (stesso "
+"comportamento delle versioni precedenti di QGIS)"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:239
+msgid ""
+"**Marker centroid within shape**: markers will be drawn only if their "
+"centroid falls within the shape, and markers will **not** be clipped to the "
+"shape boundary"
+msgstr ""
+"**Centroide del marcatore all'interno della forma**: i marcatori saranno "
+"disegnati solo se il loro centroide cade all'interno della forma, e i "
+"marcatori **non** saranno ritagliati sul confine della forma"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:240
+msgid ""
+"**Marker Completely Within Shape**: markers will only be drawn if they fit "
+"completely within the shape"
+msgstr ""
+"**Marker Completamente Dentro la Forma**: i marcatori saranno disegnati solo"
+" se rientrano completamente nella forma"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:241
+msgid ""
+"**No clipping**: whole marker symbols will be drawn if **any** part of the "
+"marker falls within the shape"
+msgstr ""
+"**No ritaglio**: i simboli di marcatori interi saranno disegnati se "
+"**qualsiasi** parte del marcatore cade all'interno della forma"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:243
+msgid "|image17|"
+msgstr "|image17|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1333
+msgid "image17"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:250
+msgid ""
+"Feature: Expression functions for creating triangular/square/curved waves"
+msgstr ""
+"Funzionalità: Funzioni di espressione per creare onde "
+"triangolari/quadrate/curve"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:252
+msgid ""
+"We've added some new expression functions which produce \"wavy lines\" along"
+" geometry boundaries. Multiple wave shapes are available, including:"
+msgstr ""
+"Abbiamo aggiunto alcune nuove funzioni di espressione che producono \"linee "
+"ondulate\" lungo i confini della geometria. Sono disponibili diverse forme "
+"d'onda, tra cui:"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:254
+msgid "Wave (sine-like)"
+msgstr "Onda (sinusoidale)"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:255
+msgid "Triangular"
+msgstr "Triangolare"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:256
+msgid "Square"
+msgstr "Quadrato"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:258
+msgid ""
+"In addition, expressions functions have also been added for creating waves "
+"in a regular fashion or with randomization."
+msgstr ""
+"Inoltre, sono state aggiunte funzioni di espressioni per creare onde in modo"
+" regolare o con randomizzazione."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:260
+msgid ""
+"When used with geometry generators, these expressions can be used for some "
+"very advanced cartographic effects!"
+msgstr ""
+"Se utilizzate con i generatori di geometria, queste espressioni possono "
+"essere usate per alcuni effetti cartografici molto avanzati!"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:262
+msgid "|image18|"
+msgstr "|image18|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1335
+msgid "image18"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:269
+msgid "Labelling"
+msgstr "Etichettatura"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:272
+msgid ""
+"Feature: \"Percentage\" units for text buffer size, shadow offset and blur "
+"radius"
+msgstr ""
+"Funzionalità: Unità \"percentuali\" per la dimensione del buffer di testo, "
+"l'offset dell'ombra e il raggio di sfocatura"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:274
+msgid ""
+"We now allow the sizes for text buffer, shadow offset and shadow blur radius"
+" to be set as a percentage of the font size. This is desirable as it allows "
+"the creation of text formats where the components nicely scale as the text "
+"size is changed, instead of having fixed buffer/shadow sizes that need to be"
+" independently adjusted when the text size changes."
+msgstr ""
+"Ora permettiamo che le dimensioni del buffer di testo, dell'offset "
+"dell'ombra e del raggio di sfocatura dell'ombra siano impostate come "
+"percentuale della dimensione del carattere. Questo è auspicabile in quanto "
+"permette la creazione di formati di testo in cui i componenti scalano "
+"piacevolmente quando la dimensione del testo viene modificata, invece di "
+"avere dimensioni fisse di buffer/ombra che devono essere regolate "
+"indipendentemente quando la dimensione del testo cambia."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:276
+msgid "|image19|"
+msgstr "|image19|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1337
+msgid "image19"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:283
+msgid "Feature: Data defined label positions by point geometries"
+msgstr ""
+"Funzionalità: Posizioni delle etichette definite da geometrie di punti"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:285
+msgid ""
+"You can now set the data defined placement of labels to be bound to a point "
+"geometry field or expression. (Previous QGIS versions only allowed data "
+"defined placement to be set via two separate numeric x and y fields)."
+msgstr ""
+"È ora possibile impostare il posizionamento definito dai dati delle "
+"etichette in modo che sia legato a un campo di una geometria punto o ad una "
+"espressione. (Le versioni precedenti di QGIS permettevano solo di impostare "
+"il posizionamento definito dai dati tramite due campi numerici x e y "
+"separati)."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:287
+msgid ""
+"This change also allow you to use the *Move Label* tool to change the "
+"position of a label which is bound to a point geometry field, causing the "
+"new label position to be stored as a point geometry in that attribute."
+msgstr ""
+"Questo cambiamento vi permette anche di usare lo strumento *Sposta "
+"Etichetta* per cambiare la posizione di un'etichetta che è legata ad un "
+"campo geometrico di un punto, facendo sì che la nuova posizione "
+"dell'etichetta sia memorizzata come una geometria punto in quell'attributo."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:289
+msgid "|image20|"
+msgstr "|image20|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1339
+msgid "image20"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:291
+msgid "This feature was funded by Swiss QGIS user group"
+msgstr ""
+"Questa funzionalità è stata finanziata dal gruppo di utenti svizzeri di QGIS"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:293
+msgid "This feature was developed by `Damiano Lombardi <http://OPENGIS.ch>`__"
+msgstr ""
+"Questa funzionalità è stata sviluppata da `Damiano Lombardi "
+"<http://OPENGIS.ch>`__"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:296
+msgid "Feature: Stretched text for labels and text formats"
+msgstr "Funzionalità: Testo allungato per etichette e formati testo"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:298
+msgid ""
+"This improvement allows your text to be horizontally stretched or condensed "
+"by a percentage factor. It's often handy for tweaking the widths of fonts to"
+" fit a bit of extra text into labels (when used sparingly, that is... you "
+"can certainly abuse font stretching with some horrendous results!)"
+msgstr ""
+"Questo miglioramento permette al vostro testo di essere allungato o "
+"condensato orizzontalmente di un fattore percentuale. È spesso utile per "
+"modificare le larghezze dei font per inserire un po' di testo extra nelle "
+"etichette (se usato con parsimonia, cioè... si può certamente abusare "
+"dell'allungamento dei font con alcuni risultati orrendi!)"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:300
+msgid ""
+"**Note:** This improvement requires Qt 6.3+ or KDE's 5.15 fork. (On other "
+"builds the stretch options are hidden and can't be set)"
+msgstr ""
+"**Nota:** Questo miglioramento richiede Qt 6.3+ o il fork 5.15 di KDE. (Su "
+"altre build le opzioni di stretch sono nascoste e non possono essere "
+"impostate)"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:307
+msgid "Rendering"
+msgstr "Visualizzazione"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:310
+msgid "Feature: Rendering layers as groups"
+msgstr "Funzionalità: Visualizzazione dei livelli come gruppi"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:312
+msgid ""
+"This is another exciting cartographic enhancement which opens up a whole new"
+" arena of symbology and map visualisation in QGIS!"
+msgstr ""
+"Questo è un altro eccitante miglioramento cartografico che apre una nuova "
+"arena di simbologia e visualizzazione di mappe in QGIS!"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:314
+msgid ""
+"Prior to this improvement, QGIS supported grouping layers within the layer "
+"tree as a means of structuring projects, but these groups had no impact on "
+"how the component layers were rendered. In QGIS 3.24 we've introduced a new "
+"option allowing these layer groups to \"*Render as Group*\", which causes "
+"all the component layers to be rendered as a single flattened object during "
+"map renders."
+msgstr ""
+"Prima di questo miglioramento, QGIS supportava il raggruppamento dei layer "
+"all'interno dell'albero dei layer come mezzo per strutturare i progetti, ma "
+"questi gruppi non avevano alcun impatto su come i layer componenti venivano "
+"visualizzati. In QGIS 3.24 abbiamo introdotto una nuova opzione che permette"
+" a questi gruppi di layer di \"*Visualizzare come gruppo*\", che fa sì che "
+"tutti i layer componenti vengano visualizzati come un singolo oggetto "
+"appiattito durante il disegno della mappa."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:316
+msgid ""
+"This option is available within the layer styling dock whenever a group "
+"layer is selected. This panel also allows you to control the appearance of "
+"the group as a whole, with options for the overall group opacity, blend "
+"mode, and layer effects!"
+msgstr ""
+"Questa opzione è disponibile all'interno del pannello di stile dei livelli "
+"ogni volta che viene selezionato un livello di gruppo. Questo pannello ti "
+"permette anche di controllare l'aspetto del gruppo nel suo insieme, con "
+"opzioni per l'opacità generale del gruppo, la modalità di fusione e gli "
+"effetti di livello!"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:318
+msgid ""
+"Additionally, when a layer is contained in a group which has the new *Render"
+" as Group* option activated, new blending modes will be available which "
+"perform \"clipping\" style operations during the render. These allow you to "
+"achieve some very powerful results, such as clipping the render of one "
+"layer's content by the content in a second \"mask\" layer!"
+msgstr ""
+"Inoltre, quando un livello è contenuto in un gruppo che ha la nuova opzione "
+"*Visualizza come Gruppo* attivata, saranno disponibili nuove modalità di "
+"fusione che eseguono operazioni in stile \"ritaglio\" durante la "
+"visualizzazione. Queste permettono di ottenere alcuni risultati molto "
+"potenti, come il ritaglio della visualizzazione del contenuto di un livello "
+"dal contenuto di un secondo livello \"maschera\"!"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:320
+msgid "|image21|"
+msgstr "|image21|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1341
+msgid "image21"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:322
+msgid "This feature was funded by Andrew Fletcher."
+msgstr "Questa funzionalità è stata finanziata da Andrew Fletcher."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:327
+msgid ""
+"Feature: Support for \"Line pattern\" when converting Mapbox GL vector tile "
+"layer styles"
+msgstr ""
+"Funzionalità: Supporto per \" Modello di linea\" durante la conversione "
+"degli stili di livello delle tile vettoriali di Mapbox GL"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:329
+msgid ""
+"Making use of the brand new raster line symbol layer, QGIS 3.24 now properly"
+" renders Mapbox GL line pattern styling for newly-added vector tile layers."
+msgstr ""
+"Facendo uso del nuovissimo strato di simbolo di linea raster, QGIS 3.24 ora "
+"visualizza correttamente lo stile del pattern di linea Mapbox GL per gli "
+"strati di piastrelle vettoriali appena aggiunti."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:331
+msgid "|image22|"
+msgstr "|image22|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1343
+msgid "image22"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:336
+msgid ""
+"Feature: Support background styles for Mapbox GL-styled vector tile layers"
+msgstr ""
+"Funzionalità: Supporto degli stili di sfondo per i livelli di tile "
+"vettoriali in stile Mapbox GL"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:338
+msgid ""
+"We now correctly render any predefined background styling present in Mapbox "
+"GL-styled vector tile layers. This dramatically improves the appearance of "
+"vector tile layers with dark styles!"
+msgstr ""
+"Ora visualizziamo correttamente qualsiasi stile di sfondo predefinito "
+"presente nei livelli di tiles vettoriali con stile Mapbox GL. Questo "
+"migliora notevolmente l'aspetto dei livelli di tiles vettoriali con stili "
+"scuri!"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:340
+msgid "|image23|"
+msgstr "|image23|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1345
+msgid "image23"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:345
+msgid "3D Features"
+msgstr "Funzionalità 3D"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:348
+msgid "Feature: Respect Z ordering when rendering point clouds in 2D"
+msgstr ""
+"Funzionalità: Rispetta l'ordine Z durante la visualizzazione delle nuvole di"
+" punti in 2D"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:350
+msgid ""
+"We've added an option to render point clouds according to their Z-order in "
+"2D map views. With the new *bottom-to-top* ordering option enabled, points "
+"with larger Z values will cover lower points -- resulting in the appearance "
+"of a true orthographic photo. There's also an option for reverse sorting "
+"(*top-to-bottom*), where the scene appears as if viewed from below."
+msgstr ""
+"Abbiamo aggiunto un'opzione per rendere le nuvole di punti in base al loro "
+"ordine Z nelle viste di mappe 2D. Con la nuova opzione di ordinamento *dal "
+"basso verso l'alto* abilitata, i punti con valori Z più grandi copriranno i "
+"punti più bassi - ottenendo l'aspetto di una vera foto ortografica. C'è "
+"anche un'opzione per l'ordinamento inverso (*dal alto verso il basso*), dove"
+" la scena appare come se fosse vista dal basso."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:352
+msgid "|image24|"
+msgstr "|image24|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1347
+msgid "image24"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:354
+#: ../../source/site/forusers/visualchangelog324/index.rst:365
+#: ../../source/site/forusers/visualchangelog324/index.rst:378
+msgid ""
+"This feature was funded by `Crowdfunding: Enhancing elevation data and point"
+" clouds in QGIS <https://www.lutraconsulting.co.uk/crowdfunding/elevation-"
+"pointcloud-enhancements-qgis/>`__"
+msgstr ""
+"Questa funzione è stata finanziata da `Crowdfunding: Migliorare i dati di "
+"elevazione e le nuvole di punti in QGIS "
+"<https://www.lutraconsulting.co.uk/crowdfunding/elevation-pointcloud-"
+"enhancements-qgis/>`__"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:356
+msgid ""
+"This feature was developed by `Stefanos Natsis (Lutra Consulting) "
+"<https://www.lutraconsulting.co.uk/>`__"
+msgstr ""
+"Questa funzionalità è stata sviluppata da `Stefanos Natsis (Lutra "
+"Consulting) <https://www.lutraconsulting.co.uk/>`__"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:359
+msgid "Feature: Dock/Undock 3D views"
+msgstr "Funzionalità: Visualizzazioni 3D Agganciate/Sganciate"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:361
+msgid ""
+"We've been aware that using dock widgets for 3D maps can be inconvenient, "
+"and in many situations these are frustrating to resize and move as they are "
+"prone to re-dock as you adjust their sizes! With QGIS 3.24 we added the "
+"ability to switch 3D maps from a dockable widget to a top-level window (and "
+"back to a dock widget), so that these map views can now be managed, resized "
+"and moved just like a standard application window."
+msgstr ""
+"Ci siamo resi conto che l'uso dei widget agganciabili per le mappe 3D può "
+"essere scomodo, e in molte situazioni questi sono frustranti da "
+"ridimensionare e spostare perché sono inclini a ri-agganciarsi quando si "
+"regolano le loro dimensioni! Con QGIS 3.24 abbiamo aggiunto la possibilità "
+"di passare le mappe 3D da un widget agganciabile a una finestra di primo "
+"livello (e di nuovo a un widget agganciabile), in modo che queste viste "
+"delle mappe possano essere gestite, ridimensionate e spostate proprio come "
+"una finestra standard dell'applicazione."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:363
+msgid "|image25|"
+msgstr "|image25|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1349
+msgid "image25"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:367
+#: ../../source/site/forusers/visualchangelog324/index.rst:380
+#: ../../source/site/forusers/visualchangelog324/index.rst:391
+msgid ""
+"This feature was developed by `Nedjima Belgacem (Lutra Consulting) "
+"<https://www.lutraconsulting.co.uk/>`__"
+msgstr ""
+"Questa funzionalità è stata sviluppata da `Nedjima Belgacem (Lutra "
+"Consulting) <https://www.lutraconsulting.co.uk/>`__"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:370
+msgid "Feature: 3D map view manager"
+msgstr "Funzionalità: Gestore della vista della mappa 3D"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:372
+msgid ""
+"Previously, if you closed a 3D map view and then saved your project, the 3D "
+"map view and all its settings would be lost when you reopen that project. So"
+" in QGIS 3.24 we've added a \"*3D map view manager\"* that takes care of "
+"listing, removing, renaming and duplicating 3D map views in your projects!"
+msgstr ""
+"In precedenza, se si chiudeva una vista di mappa 3D e poi si salvava il "
+"progetto, la vista di mappa 3D e tutte le sue impostazioni venivano perse "
+"quando si riapriva il progetto. Così in QGIS 3.24 abbiamo aggiunto un "
+"\"*Gestore delle viste 3D \"* che si occupa di elencare, rimuovere, "
+"rinominare e duplicare le viste 3D nei vostri progetti!"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:374
+msgid ""
+"We've also added a new \"*3D Map Views*\" menu, which contains all your "
+"created 3D map views for easy access!"
+msgstr ""
+"Abbiamo anche aggiunto un nuovo menu \"*Viste Mappe 3D*\", che contiene "
+"tutte le tue viste di mappe 3D create per un facile accesso!"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:376
+msgid "|image26|"
+msgstr "|image26|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1351
+msgid "image26"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:383
+msgid "Feature: Improved camera navigation"
+msgstr "Funzionalità: Navigazione della telecamera migliorata"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:385
+msgid ""
+"The default navigation mode in earlier versions of QGIS would sometimes "
+"behave strangely when moving around, rotating or zooming in/out. A lot of "
+"effort went into improvements of the camera control, so since QGIS 3.24 the "
+"camera navigation's behavior should feel more natural and similar to other "
+"3D mapping software."
+msgstr ""
+"La modalità di navigazione predefinita nelle versioni precedenti di QGIS a "
+"volte si comportava in modo strano quando ci si muoveva, si ruotava o si "
+"zoomava in/out. Sono stati fatti molti sforzi per migliorare il controllo "
+"della fotocamera, quindi da QGIS 3.24 il comportamento della navigazione "
+"della fotocamera dovrebbe essere più naturale e simile a quello di altri "
+"software di mappatura 3D."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:387
+msgid ""
+"For more details, see `Fixing terrain and camera issues in 3D "
+"<https://github.com/qgis/QGIS-Enhancement-Proposals/issues/215>`__"
+msgstr ""
+"Per maggiori dettagli, vedere `Correzione dei problemi del terreno e della "
+"telecamera in 3D <https://github.com/qgis/QGIS-Enhancement-"
+"Proposals/issues/215>`__"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:389
+msgid "This feature was funded by QGIS.org grant (2021)"
+msgstr ""
+"Questa funzione è stata finanziata dalla sovvenzione di QGIS.org (2021)"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:394
+msgid "Print Layouts"
+msgstr "Layout di stampe"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:397
+msgid "Feature: Full text rendering capabilities for layout text labels"
+msgstr ""
+"Funzionalità: Capacità complete di rendering del testo per le etichette di "
+"testo del layout"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:399
+msgid ""
+"In older QGIS releases you had to revert to hacky tricks like using HTML and"
+" CSS to add effects like drop shadows to text in your map layouts. Hack no "
+"more! In 3.24 we now allow you to use the familiar properties from the "
+"labeling text options for text on layouts too! This means you can now add "
+"shadows, text buffers, backgrounds, letter and word spacing, etc. all on the"
+" text items in your layouts."
+msgstr ""
+"Nelle vecchie versioni di QGIS si doveva ricorrere a trucchi come l'uso di "
+"HTML e CSS per aggiungere effetti come le ombre al testo nei layout delle "
+"mappe. Niente più hack! Nella 3.24 ora vi permettiamo di usare le familiari "
+"proprietà delle opzioni di etichettatura del testo anche per il testo nei "
+"layout! Questo significa che ora puoi aggiungere ombre, buffer di testo, "
+"sfondi, spaziatura di lettere e parole, ecc. agli elementi di testo nei tuoi"
+" layout."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:401
+msgid "|image27|"
+msgstr "|image27|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1353
+msgid "image27"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:408
+msgid "Expressions"
+msgstr "Espressioni"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:411
+msgid "Feature: geometry\\_type function"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:413
+msgid ""
+"The new ``geometry_type`` function returns the high-level type of a geometry"
+" (i.e. 'Point', 'Line' or 'Polygon')."
+msgstr ""
+"La nuova funzione ``geometry_type`` restituisce il tipo di alto livello di "
+"una geometria (cioè 'Point', 'Line' o 'Polygon')."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:415
+msgid "|image28|"
+msgstr "|image28|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1355
+msgid "image28"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:422
+msgid "Feature: Overlay intersects sort by intersection size"
+msgstr ""
+"Funzionalità: Sovrapposizione di intersezioni ordinate per dimensione "
+"dell'intersezione"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:424
+msgid ""
+"We have added further enhancements to the ``overlay_intersects`` function. "
+"The change adds two new optional arguments to the existing function:"
+msgstr ""
+"Abbiamo aggiunto ulteriori miglioramenti alla funzione "
+"``overlay_intersects``. La modifica aggiunge due nuovi argomenti opzionali "
+"alla funzione esistente:"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:426
+msgid ""
+"**return\\_details**: only valid when used with an expression, set this to "
+"true to return a list of maps containing (key names in quotes) the feature "
+"'id', the expression 'result' and the 'overlap' value, the 'radius' of the "
+"maximum inscribed circle is also returned when the target layer is a "
+"polygon."
+msgstr ""
+"**return_details**: valido solo se usato con un'espressione, impostalo a "
+"true per restituire una lista di mappe contenenti (nomi chiave tra "
+"virgolette) la caratteristica 'id', l'espressione 'result' e il valore "
+"'overlap', il 'radius' del cerchio massimo inscritto è anche restituito "
+"quando il livello di destinazione è un poligono."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:427
+msgid ""
+"**sort\\_by\\_intersection\\_size**: only valid when used with an "
+"expression, set this to true to return the results ordered by the overlap "
+"value in descending order."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:429
+msgid "|image29|"
+msgstr "|image29|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1357
+msgid "image29"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:431
+msgid ""
+"This feature was funded by `Kanton Solothurn, Amt für Geoinformation "
+"<https://geo.so.ch/>`__"
+msgstr ""
+"Questa funzione è stata finanziata da `Kanton Solothurn, Amt für "
+"Geoinformation <https://geo.so.ch/>`__"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:433
+#: ../../source/site/forusers/visualchangelog324/index.rst:444
+#: ../../source/site/forusers/visualchangelog324/index.rst:461
+#: ../../source/site/forusers/visualchangelog324/index.rst:475
+#: ../../source/site/forusers/visualchangelog324/index.rst:492
+#: ../../source/site/forusers/visualchangelog324/index.rst:600
+#: ../../source/site/forusers/visualchangelog324/index.rst:611
+#: ../../source/site/forusers/visualchangelog324/index.rst:719
+#: ../../source/site/forusers/visualchangelog324/index.rst:940
+msgid ""
+"This feature was developed by `Alessandro Pasotti "
+"<https://github.com/elpaso>`__"
+msgstr ""
+"Questa funzionalità è stata sviluppata da `Alessandro Pasotti "
+"<https://github.com/elpaso>`__"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:436
+msgid "Feature: Show all layer field names when building expressions"
+msgstr ""
+"Funzionalità: Mostra tutti i nomi dei campi del livello quando si "
+"costruiscono le espressioni"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:438
+msgid ""
+"As a handy time-saver, we now make a list of all field names from all layers"
+" in your project available directly in the expression builder. If you "
+"double-click any of these field names, they'll be added to your expression "
+"as string values (``'field_name'``)."
+msgstr ""
+"Per risparmiare tempo, ora rendiamo disponibile una lista di tutti i nomi "
+"dei campi di tutti i livelli del tuo progetto direttamente nel costruttore "
+"di espressioni. Se fai doppio clic su uno di questi nomi di campo, verranno "
+"aggiunti alla tua espressione come valori di stringa (``'field_name'``)."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:440
+msgid "|image30|"
+msgstr "|image30|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1359
+msgid "image30"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:442
+#: ../../source/site/forusers/visualchangelog324/index.rst:609
+msgid "This feature was funded by ARPA Piemonte"
+msgstr "Questa funzione è stata finanziata da ARPA Piemonte"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:447
+msgid "Feature: represent\\_attributes function"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:449
+msgid ""
+"This new function returns a map with all attribute (field) names as the keys"
+" and the configured representation values as values. The representation "
+"value for the attributes depends on the configured widget type for each "
+"attribute."
+msgstr ""
+"Questa nuova funzione restituisce una mappa con tutti i nomi degli attributi"
+" (campi) come chiavi e i valori di rappresentazione configurati come valori."
+" Il valore di rappresentazione per gli attributi dipende dal tipo di widget "
+"configurato per ogni attributo."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:451
+msgid "The function can be used with zero, one, or more arguments:"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:453
+msgid ""
+"If called with no parameters, the function will return the representation of"
+" the attributes of the **current feature** in the current layer."
+msgstr ""
+"Se chiamata senza parametri, la funzione restituisce la rappresentazione "
+"degli attributi dell' **elemento attuale** nel livello corrente."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:454
+msgid ""
+"If called with a 'feature' parameter only, the function will return the "
+"representation of the attributes of the specified feature from the current "
+"layer."
+msgstr ""
+"Se chiamata solo con un parametro 'feature', la funzione restituisce la "
+"rappresentazione degli attributi dell'elemento specificato dal layer "
+"corrente."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:455
+msgid ""
+"If called with a 'layer' and a 'feature' parameter, the function will return"
+" the representation of the attributes of the specified feature from the "
+"specified layer."
+msgstr ""
+"Se chiamata con un parametro 'layer' e un parametro 'feature', la funzione "
+"restituirà la rappresentazione degli attributi dell'elemento specificato dal"
+" layer specificato."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:457
+msgid "|image31|"
+msgstr "|image31|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1361
+msgid "image31"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:459
+#: ../../source/site/forusers/visualchangelog324/index.rst:473
+#: ../../source/site/forusers/visualchangelog324/index.rst:490
+#: ../../source/site/forusers/visualchangelog324/index.rst:598
+#: ../../source/site/forusers/visualchangelog324/index.rst:717
+msgid "This feature was funded by Kanton Solothurn"
+msgstr "Questa funzione è stata finanziata da Kanton Solothurn"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:464
+msgid ""
+"Feature: Optional minimum overlap area and circle radius for "
+"overlay\\_intersection"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:466
+msgid ""
+"We have added two optional arguments to the ``overlay_intersection()`` "
+"expression function:"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:468
+msgid ""
+"``min_overlap``: for polygons an optional minimum area in current feature "
+"squared units for the intersection (if the intersection results in multiple "
+"polygons the intersection will be returned if at least one of the polygons "
+"has an area greater or equal to the value), for lines an optional minimum "
+"length in current feature units (if the intersection results in multiple "
+"lines the intersection will be returned if at least one of the lines has a "
+"length greater or equal to the value)"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:469
+msgid ""
+"``min_inscribed_circle_radius``: for polygons only an optional minimum "
+"radius in current feature units for the maximum inscribed circle of the "
+"intersection (if the intersection results in multiple polygons the "
+"intersection will be returned if at least one of the polygons has a radius "
+"for the maximum inscribed circle greater or equal to the value). Read more "
+"on the underlying GEOS predicate, as described in PostGIS "
+"ST\\_MaximumInscribedCircle function."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:471
+msgid "|image32|"
+msgstr "|image32|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1363
+msgid "image32"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:478
+msgid "Feature: map\\_prefix\\_keys function"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:480
+msgid ""
+"In QGIS 3.24 we've added a new ``map_prefix_keys`` function that takes a map"
+" and a prefix, the function returns a map with all keys prefixed by the "
+"prefix."
+msgstr ""
+"In QGIS 3.24 abbiamo aggiunto una nuova funzione ``map_prefix_keys`` che "
+"accetta una mappa e un prefisso, la funzione restituisce una mappa con tutte"
+" le chiavi precedute dal prefisso."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:482
+msgid "Example: ``map_prefix_keys(map('1','one','2','two'), 'prefix-')``"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:485
+msgid "returns: ``{ 'prefix-1': 'one', 'prefix-2': 'two' }``"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:488
+msgid "|image33|"
+msgstr "|image33|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1365
+msgid "image33"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:495
+msgid "Feature: densify\\_by\\_count and densify\\_by\\_distance functions"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:497
+msgid ""
+"This functionality, which was previously only available through the "
+"Processing toolbox, is now available for use in expressions!"
+msgstr ""
+"Questa funzionalità, che prima era disponibile solo attraverso la casella "
+"degli strumenti di Processing, è ora disponibile per l'uso nelle "
+"espressioni!"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:504
+msgid ""
+"Feature: Rotate parts of multi-part geometries independently with \"rotate\""
+" expression function"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:506
+msgid ""
+"The new \"per\\_part\" option for the \"rotate\" expression function allows "
+"you to rotate each part of a multi-part geometry around the center of each "
+"part (instead of the center of the geometry as a whole). This enhancement is"
+" designed to help out symbology when the rotate function is used as a "
+"cartographic tool as part of a geometry generator symbol layer."
+msgstr ""
+"La nuova opzione \"per\\_part\" per la funzione di espressione \"ruota\" "
+"permette di ruotare ogni parte di una geometria multiparte attorno al centro"
+" di ogni parte (invece che al centro della geometria nel suo insieme). "
+"Questo miglioramento è stato progettato per aiutare la simbologia quando la "
+"funzione di rotazione è usata come strumento cartografico come parte di un "
+"livello di simbolo di un generatore di geometria."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:508
+msgid "|image34|"
+msgstr "|image34|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1367
+msgid "image34"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:515
+msgid "Feature: apply\\_dash\\_pattern function"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:517
+msgid ""
+"This exciting new expression function applies a dash pattern to a geometry, "
+"returning a MultiLineString geometry which is the input geometry stroked "
+"along each line (or ring) using a dashed line pattern."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:519
+msgid ""
+"Rules can be set to control how the dash pattern is adjusted at line "
+"endings. If you specify a start rule or end rule, then the \"adjustment\" "
+"option defines whether both dash and gaps, or only dash or gap sizes are "
+"adjusted to apply these rules."
+msgstr ""
+"Le regole possono essere impostate per controllare come il modello dei "
+"trattini viene regolato alle estremità delle linee. Se specifichi una regola"
+" d'inizio o una regola di fine, allora l'opzione \"regolazione\" definisce "
+"se sia i trattini che gli spazi vuoti, o solo le dimensioni dei trattini o "
+"degli spazi vuoti sono regolati per applicare queste regole."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:521
+msgid ""
+"You can also set an optional pattern offset to specify how far along the "
+"pattern the result should start at."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:523
+msgid "|image35|"
+msgstr "|image35|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1369
+msgid "image35"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:530
+msgid "Feature: scale function"
+msgstr "Funzionalità: funzione di scala"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:532
+msgid ""
+"This new expression function allows you to scale (resize) a geometry. Just "
+"like the 'rotate' function, the function accepts an optional point position "
+"to apply the scaling from. If no anchor point is not specified then scaling "
+"is done from the center of the geometry's bounding box."
+msgstr ""
+"Questa nuova funzione di espressione permette di scalare (ridimensionare) "
+"una geometria. Proprio come la funzione 'ruota', la funzione accetta una "
+"posizione opzionale del punto da cui applicare il ridimensionamento. Se non "
+"viene specificato alcun punto di ancoraggio, allora il ridimensionamento "
+"viene fatto dal centro del bounding box della geometria."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:534
+msgid "|image36|"
+msgstr "|image36|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1371
+msgid "image36"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:541
+msgid "Feature: Filter by multiple attributes for get\\_feature function"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:543
+msgid ""
+"We extended the ``get_feature`` function to allow multi-attribute filtering,"
+" by adding an option to pass an array of filter values to the input."
+msgstr ""
+"Abbiamo esteso la funzione ``get_feature`` per permettere il filtraggio "
+"multi-attributo, aggiungendo un'opzione per passare un array di valori di "
+"filtro all'input."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:545
+msgid "This feature was developed by `Alex <https://github.com/roya0045>`__"
+msgstr ""
+"Questa funzionalità è stata sviluppata da `Alex "
+"<https://github.com/roya0045>`__"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:548
+msgid "Data Management"
+msgstr "Gestione Dati"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:551
+msgid "Feature: Multiedit support for relation editor"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:553
+msgid ""
+"We've added a new multi edit mode for the relation editor, which allows the "
+"rapid addition of child features to multiple parent features. This improves "
+"efficiency for data management operations, such as the ability to select "
+"multiple trees and adding a maintenance item to all of them in one click."
+msgstr ""
+"Abbiamo aggiunto una nuova modalità di modifica multipla per l'editor delle "
+"relazioni, che permette la rapida aggiunta di elementi figli a più elementi "
+"genitori. Questo migliora l'efficienza per le operazioni di gestione dei "
+"dati, come la possibilità di selezionare più alberi e aggiungere un elemento"
+" di manutenzione a tutti loro con un solo clic."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:555
+msgid "|image37|"
+msgstr "|image37|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1373
+msgid "image37"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:557
+msgid ""
+"This feature was funded by `QGIS Model Baker "
+"<https://opengisch.github.io/QgisModelBaker>`__"
+msgstr ""
+"Questa funzione è stata finanziata da `QGIS Model Baker "
+"<https://opengisch.github.io/QgisModelBaker>`__"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:559
+msgid ""
+"This feature was developed by `Damiano Lombardi, OPENGIS.ch "
+"<https://github.com/domi4484>`__"
+msgstr ""
+"Questa funzionalità è stata sviluppata da `Damiano Lombardi, OPENGIS.ch "
+"<https://github.com/domi4484>`__"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:562
+msgid "Metadata and Metasearch"
+msgstr "Metadati e Metaricerca"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:565
+msgid "Feature: Support for OGC API - Records in MetaSearch"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:567
+msgid ""
+"We updated the MetaSearch tool to provide support for the `OGC API - Records"
+" <https://ogcapi.ogc.org/records>`__ (OARec) standard. As part of the OGC "
+"API evolution, OGC API - Records is the successor to OGC:CSW (like OGC API -"
+" Features is to WFS, etc.)."
+msgstr ""
+"Abbiamo aggiornato lo strumento MetaSearch per fornire supporto allo "
+"standard `OGC API - Records <https://ogcapi.ogc.org/records>`__ (OARec). "
+"Come parte dell'evoluzione di OGC API, OGC API - Records è il successore di "
+"OGC:CSW (come OGC API - Features lo è per WFS, ecc.)."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:569
+msgid ""
+"The OGC API - Records standard is currently in development and the current "
+"timeline for a public RFC by OGC is Q1 2022. This we ask you to take note of"
+" the draft status of the specification so you are aware that the "
+"specification may change a bit more over the next few months. We still need "
+"to flesh out how actionable links are handled over the next few months "
+"(which should be a significant improvement compared to the CSW "
+"publish/find/bind workflow)."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:571
+msgid ""
+"Adding this feature to QGIS is a huge win for easier search and will help "
+"both users and providers for the long term."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:573
+msgid "|image38|"
+msgstr "|image38|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1375
+msgid "image38"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:575
+msgid ""
+"This feature was developed by `Tom Kralidis "
+"<https://github.com/tomkralidis>`__"
+msgstr ""
+"Questa funzionalità è stata sviluppata da `Tom Kralidis "
+"<https://github.com/tomkralidis>`__"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:578
+msgid "Forms and Widgets"
+msgstr "Moduli e Widget"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:581
+msgid "Feature: Form submit actions with HTTP POST"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:583
+msgid ""
+"In QGIS 3.24 we added two new HTTP POST actions, similar to the existing "
+"``Open`` action which uses an HTTP GET request."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:585
+msgid "The two actions differ in the way the form data are encoded:"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:587
+msgid "application/x-www-form-urlencoded"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:588
+msgid "multipart/form-data"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:590
+msgid "In both cases, data are passed to the action in a URL encoded URL."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:592
+msgid ""
+"A new function ``url_encode(<map>)`` is provided to convert a dictionary (a "
+"map) to the encoded format."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:594
+msgid ""
+"The response from the submitted URL is opened by delegating to the operating"
+" system ``QDesktopServices::openUrl()`` after the payload has been stored in"
+" a temporary file."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:596
+msgid "|image39|"
+msgstr "|image39|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1377
+msgid "image39"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:603
+msgid "Feature: New button to open attribute table on filtered features"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:605
+msgid ""
+"We've added a new button to the attribute form (when in search mode) which "
+"enables you to open an attribute table filtered to only show the matching "
+"features."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:607
+msgid "|image40|"
+msgstr "|image40|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1379
+msgid "image40"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:614
+msgid "Analysis Tools"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:617
+msgid "Feature: Add roundness method to curve polygon"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:619
+msgid ""
+"We added a \"roundness\" method to ``QgsCurvePolygon``, allowing the "
+"calculation of the \"roundness\" of an area feature based on the formula "
+"``Roundness = (4 * pi * Area) / Perimeter^2``."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:621
+msgid ""
+"This includes the addition of a new expression and a processing tool for "
+"calculating roundness. The processing tool creates a new layer with the "
+"roundness of each feature in a new field."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:623
+msgid "|image41|"
+msgstr "|image41|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1381
+msgid "image41"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:625
+msgid ""
+"This feature was developed by `Antoine Facchini "
+"<https://github.com/Koyaani>`__"
+msgstr ""
+"Questa funzionalità è stata sviluppata da `Antoine Facchini "
+"<https://github.com/Koyaani>`__"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:628
+msgid "Processing"
+msgstr "Processing"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:631
+msgid "Feature: Extract labels algorithm"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:633
+msgid ""
+"For 3.24 we added a new tool to QGIS' processing toolbox: \"Extract "
+"labels\". As its name hints at, this algorithm extracts label information "
+"from a rendered map at a specific extent and scale."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:635
+msgid ""
+"Extracted label information include its position (as point geometries), the "
+"associated layer name and feature ID, as well as label appearance properties"
+" such as rotation, text, alignment, font family, size, weight, etc."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:637
+msgid ""
+"The algorithm also generates a default symbol-less & labelled style for the "
+"output layer which allows for those saved layers to be drag and dropped into"
+" projects and have the label drawn exactly as they were exported."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:639
+msgid ""
+"If a map theme is specified when extracting labels, the exported labels will"
+" match the visibility and symbology of that theme. If left blank, the "
+"project's current visible layers will be used."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:641
+msgid "|image42|"
+msgstr "|image42|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1383
+msgid "image42"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:643
+msgid "This feature was funded by `TEKSI <https://www.teksi.ch/>`__"
+msgstr ""
+"Questa funzione è stata finanziata da `TEKSI <https://www.teksi.ch/>`__"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:645
+msgid ""
+"This feature was developed by `Mathieu Pellerin "
+"<https://github.com/nirvn>`__"
+msgstr ""
+"Questa funzionalità è stata sviluppata da `Mathieu Pellerin "
+"<https://github.com/nirvn>`__"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:648
+msgid ""
+"Feature: Optional output extent parameter for the GDAL Raster Calculator "
+"algorithm"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:650
+msgid ""
+"When running against GDAL 3.3 or newer, QGIS processing toolbox's GDAL "
+"Raster Calculator algorithm now allows you to specify an optional \"output "
+"extent\" parameter. This can be quite useful when working with large "
+"datasets, often avoiding the need to create an intermediary clipped raster "
+"prior to running the calculator algorithm."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:652
+msgid "|image43|"
+msgstr "|image43|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1385
+msgid "image43"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:657
+msgid ""
+"Feature: Optional extent parameter for the GDAL clip raster by mask "
+"algorithm"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:659
+msgid ""
+"We added an optional extent parameter to the GDAL \"clip raster by mask\" "
+"algorithm, which can come in handy when working with large raster datasets."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:661
+msgid "|image44|"
+msgstr "|image44|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1387
+msgid "image44"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:666
+msgid "Feature: Processing history rework"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:668
+msgid ""
+"QGIS 3.24 includes a partial implementation of the framework described in "
+"`QEP 130 <https://github.com/qgis/QGIS-Enhancement-Proposals/issues/130>`__,"
+" and ports the Processing history log over to this framework."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:670
+msgid ""
+"This is a much more flexible approach to storing Processing history, as it "
+"allows us to store unlimited additional information about the executed tool "
+"(including all the input parameters, output results, and the full text log "
+"too!). The history log is now stored in a sqlite database instead of the "
+"text file previously used, which allows for more efficient "
+"storage/retrieval/filtering."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:672
+msgid ""
+"The new framework potentially extends to more than just Processing - it "
+"could also be used to store the history of other user operations, such as "
+"project edits, layout exports etc!"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:674
+msgid ""
+"We'll be using this framework in future to further extend the Processing "
+"history dialog. For 3.24, we're using it to expose a number of helpful "
+"additions to the history dialog:"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:676
+msgid ""
+"Right clicking an entry in the log has a new option to copy the execution "
+"parameters as a \"qgis\\_process\" command line equivalent, giving you a "
+"super-easy way to generate qgis\\_process commands for execution in a CLI."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:677
+msgid ""
+"Right clicking an entry also shows a new \"Copy as JSON\" option, which "
+"copies a JSON string of the input parameters and algorithm settings"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:679
+msgid "|image45|"
+msgstr "|image45|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1389
+msgid "image45"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:681
+#: ../../source/site/forusers/visualchangelog324/index.rst:697
+#: ../../source/site/forusers/visualchangelog324/index.rst:813
+msgid ""
+"This feature was funded by the `Research Institute for Nature and Forest "
+"<https://www.inbo.be/en>`__, Flemish Govt"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:686
+msgid "Feature: Advanced actions in Processing dialogs"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:688
+msgid ""
+"We have added new actions on the processing dialog including **copy as "
+"qgis\\_process command**, and **copy/paste as JSON**. Together these "
+"actions:"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:690
+msgid ""
+"Allows for easy copying of the equivalent PyQGIS command to run the tool "
+"using the parameters defined in the dialog"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:691
+msgid ""
+"Allow for easy generation of qgis\\_process commands via the QGIS GUI, "
+"including any tricky parameter values like GeoPackage outputs with specific "
+"layers"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:692
+msgid ""
+"Provide a way for you to copy the settings defined in the dialog in a text "
+"format, so that you can store these easily and then restore them later by "
+"pasting the values."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:693
+msgid ""
+"Provides an easy way for you to copy the settings into the JSON format "
+"consumed by qgis\\_process, so that it is easy to see the expected format "
+"even for complex parameters (like TIN interpolation parameters)."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:695
+msgid "|image46|"
+msgstr "|image46|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1391
+msgid "image46"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:702
+msgid "Feature: Single file exports from Atlas to PDF algorithm"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:704
+msgid ""
+"You can now export an atlas layout to a single (collated) PDF file using the"
+" \"Export atlas layout as PDF\" processing algorithm."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:706
+msgid "|image47|"
+msgstr "|image47|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1393
+msgid "image47"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:711
+msgid "Feature: Project Models are shown in the Project menu"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:713
+msgid ""
+"We added a new submenu to the \"Project\" menu, which will list any "
+"Processing models stored within the current project. This gives you a quick "
+"way to launch these project-specific models, in either a single or batch "
+"mode!"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:715
+msgid "|image48|"
+msgstr "|image48|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1395
+msgid "image48"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:722
+msgid ""
+"Feature: Add point cloud destination parameter and output to Processing"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:724
+msgid ""
+"We have extended and improved point cloud support in Processing, namely by:"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:726
+msgid ""
+"Fixing the filtering of point cloud layers in "
+"``QgsProcessingMapLayerComboBox``-based widget used for parameters"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:727
+msgid ""
+"Adding a destination point cloud parameter type and point cloud output types"
+" with corresponding widgets. (Currently these are useful for 3rd party "
+"providers and plugins which create point cloud outputs.)"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:728
+msgid ""
+"Exposing the newly added point cloud output and destination parameters to "
+"the ``algfactory`` wrapper"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:730
+msgid ""
+"This feature was developed by `Alexander Bruy "
+"<https://github.com/alexbruy>`__"
+msgstr ""
+"Questa funzionalità è stata sviluppata da `Alexander Bruy "
+"<https://github.com/alexbruy>`__"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:733
+msgid "Feature: Array field support"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:735
+msgid ""
+"In QGIS 3.24, we've made array field types first-class citizen in the "
+"Processing toolbox! The following algorithms have all been updated to "
+"support array fields:"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:737
+msgid "Refactor algorithm;"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:738
+msgid "Aggregate algorithm;"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:739
+msgid "Add field to attributes table algorithm;"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:740
+msgid "Field calculator algorithm; and"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:741
+msgid "Advanced (i.e. python) field calculator algorithm"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:743
+msgid ""
+"This feature was funded by `SwissTierras Colombia "
+"<https://www.swisstierrascolombia.com/>`__"
+msgstr ""
+"Questa funzione è stata finanziata da `SwissTierras Colombia "
+"<https://www.swisstierrascolombia.com/>`__"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:748
+msgid "Application and Project Options"
+msgstr "Applicazioni e Opzioni del progetto"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:751
+msgid "Feature: qgis\\_process --no-python argument"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:753
+msgid ""
+"This new, optional command line parameter for the qgis\\_process command-"
+"line tool allows you to skip launching Processing with Python support when "
+"it is not required. This can result in a significant improvement in "
+"qgis\\_process startup times!"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:755
+msgid "This feature was funded by `North Road <https://north-road.com>`__"
+msgstr ""
+"Questa funzione è stata finanziata da `North Road <https://north-"
+"road.com>`__"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:760
+msgid "Feature: Suppress \"bad layers\" handler on startup"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:762
+msgid ""
+"We've added support for a new command line flag for the ``qgis`` executable,"
+" which allows you to disable the default dialog which shows when opening a "
+"project with missing/broken layers:"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:768
+msgid "Example invocation: ``./qgis --skipbadlayers`` or ``./qgis -B``"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:770
+msgid ""
+"The use case for this is that sometimes users have automation or other post-"
+"startup processes happen and do not want to have the startup process "
+"interrupted if there are bad layers present in the project. After startup, "
+"QGIS will ignore any missing layers, but they will still be marked as broken"
+" in the layers list."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:772
+msgid ""
+"This feature was suggested by Giuseppe Baiamonte during, and live coded on, "
+"the QGIS Open Day, 17 Dec 2021."
+msgstr ""
+"Questa funzione è stata suggerita da Giuseppe Baiamonte durante il QGIS Open"
+" Day del 17 dicembre 2021, e codificata dal vivo."
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:774
+msgid "|image49|"
+msgstr "|image49|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1397
+msgid "image49"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:776
+msgid ""
+"This feature was developed by `Tim Sutton <https://github.com/timlinux>`__"
+msgstr ""
+"Questa funzionalità è stata sviluppata da `Tim Sutton "
+"<https://github.com/timlinux>`__"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:779
+msgid ""
+"Feature: Parameter values for qgis\\_process can be specified as a JSON "
+"object via stdin"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:781
+msgid ""
+"We now provide a mechanism to support complex input parameters for "
+"algorithms when running the qgis\\_process command line tool."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:783
+msgid ""
+"To indicate that parameters will be specified via stdin then the "
+"qgis\\_process command must follow the format"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:789
+msgid "(with a trailing ``-`` in place of the usual arguments list)."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:791
+msgid ""
+"The JSON object must contain an \"inputs\" key, which is a map of the input "
+"parameter values."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:797
+msgid ""
+"Additionally, extra settings like the distance units, area units, ellipsoid "
+"and project path can be included in this JSON object:"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:809
+msgid ""
+"(Specifying input parameters via stdin implies automatically the --json "
+"output format for results.)"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:811
+msgid ""
+"One big motivation behind this enhancement is to provide a way for the "
+"qgis\\_process R libraries to support parameter types such as aggregates!"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:818
+msgid "Feature: Run Python script algorithms directly via qgis\\_process"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:820
+msgid ""
+"The qgis\\_process command-line tool now supports running a Python script "
+"algorithm directly by specifying the path to the .py file, in place of an "
+"algorithm ID or model file path!"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:825
+msgid "Data Providers"
+msgstr "Sorgenti Dati"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:828
+msgid "Feature: Friendlier errors from XYZ raster tiles, WMS and vector tiles"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:830
+msgid ""
+"Server errors which occur during XYZ, vector tile or WMS network requests "
+"are now shown directly in the QGIS window via the message bar. We've made "
+"these error messages much more descriptive and helpful, by including the "
+"original response error text wherever possible!"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:832
+msgid "|image50|"
+msgstr "|image50|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1399
+msgid "image50"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:834
+#: ../../source/site/forusers/visualchangelog324/index.rst:854
+#: ../../source/site/forusers/visualchangelog324/index.rst:871
+#: ../../source/site/forusers/visualchangelog324/index.rst:886
+msgid "This feature was funded by `MapTiler <https://www.maptiler.com/>`__"
+msgstr ""
+"Questa funzione è stata finanziata da `MapTiler "
+"<https://www.maptiler.com/>`__"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:836
+#: ../../source/site/forusers/visualchangelog324/index.rst:856
+#: ../../source/site/forusers/visualchangelog324/index.rst:873
+#: ../../source/site/forusers/visualchangelog324/index.rst:888
+msgid ""
+"This feature was developed by `Lutra Consulting (Vincent Cloarec) "
+"<http://www.lutraconsulting.co.uk>`__"
+msgstr ""
+"Questa funzionalità è stata sviluppata da `Lutra Consulting (Vincent "
+"Cloarec) <http://www.lutraconsulting.co.uk>`__"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:839
+msgid "Feature: Add out-of-the-box connection to Mapzen Global Terrain tiles"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:841
+msgid ""
+"QGIS now sports built-in support for the Terrarium DEM format for WMS/XYZ "
+"layers. In addition, we now have out-of-the-box ability to add Mapzen Global"
+" Terrain Tiles hosted on AWS. You can find the new MapZen option in the XYZ "
+"section of the browser panel. Users now have an immediately accessible "
+"global DEM source for their projects!! See also "
+"https://registry.opendata.aws/terrain-tiles/"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:843
+msgid "|image51|"
+msgstr "|image51|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1401
+msgid "image51"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:848
+msgid "Feature: HMAC SHA256 auth method for MapTiler"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:850
+msgid ""
+"We've added a new authentication method specific for MapTiler which allows "
+"you to use a token encrypted with HMAC-SHA256."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:852
+msgid "|image52|"
+msgstr "|image52|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1403
+msgid "image52"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:859
+msgid "Feature: Template parameter {usage} for XYZ raster and vector tiles"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:861
+msgid ""
+"For XYZ tile-based raster layers and for vector tile layers, we now allow "
+"the possibility to insert {usage} template parameters (in addition to {x}, "
+"{y}, {z}). If present, this parameter will be replaced by the context in "
+"which the request is being made."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:863
+msgid "The possible context values are:"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:865
+msgid "**view** - when the request comes from 2D or 3D map canvas"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:866
+msgid ""
+"**export** - when the request comes from exporting a layer or exporting a "
+"print layout for high-quality output (map previews in print layout designer "
+"are classed as “view”)"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:867
+msgid ""
+"**unknown** - when coming from some other context, but the source is unknown"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:869
+msgid ""
+"This functionality is useful for MapTiler clients, where they need to "
+"recognize the context in which tiles are used in order to bill users "
+"accordingly."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:876
+msgid "Feature: Convert WMTS/XYZ raster tiles to terrain (DEM)"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:878
+msgid ""
+"In QGIS 3.24 we've introduced the possibility to convert WMTS/XYZ raster "
+"datasets to a raster layer of single band float type following a predefined "
+"encoding scheme."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:880
+msgid ""
+"You can activate this option and choose an encoding scheme (for now, "
+"\"MapTiler Terrain RGB\" or \"Terrarium Terrain RGB\" are available) in the "
+"source settings of the XYZ connection or in the Data Source Manager when "
+"adding a WMST layer."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:882
+msgid ""
+"The selected converter will translate the RGB source values to float values "
+"for each pixel. After loading, the layer will be presented as a single band "
+"floating point raster layer, ready for styling using a pseudocolor or hill "
+"shade renderer!"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:884
+msgid "|image53|"
+msgstr "|image53|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1405
+msgid "image53"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:891
+msgid "Feature: Array field types for scratch layers"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:893
+msgid ""
+"You can now add array field types directly to newly created scratch layers. "
+"(While array field types have previously been supported by scratch layers, "
+"there was no way for users to add them when creating a new scratch layer.)"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:895
+msgid "|image54|"
+msgstr "|image54|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1407
+msgid "image54"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:900
+msgid "Feature: JSON field types for new GeoPackage layers"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:902
+msgid ""
+"We've added support for creating JSON fields directly to newly created "
+"GeoPackage layers. (While JSON field types have previously been supported by"
+" GeoPackage layers, there was no way for users to add them when creating a "
+"new layer.)"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:904
+msgid "|image55|"
+msgstr "|image55|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1409
+msgid "image55"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:909
+msgid "Feature: Delimited text type overrides and other improvements"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:911
+msgid ""
+"We've given some love to the delimited text data provider in 3.24, with "
+"several enhancements which include:"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:913
+msgid "**Boolean type support and automatic detection**"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:915
+msgid ""
+"Boolean data types are now first-class citizens, which are automatically "
+"recognized when all records in a column contain one of the following values "
+"(case insensitive):"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:917
+msgid "t/f"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:918
+msgid "true/false"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:919
+msgid "yes/no"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:920
+msgid "0/1"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:922
+msgid ""
+"Boolean fields are also detected from a CSVT file, a GDAL/GeoCSV format e.g."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:924
+msgid "``Integer(Boolean)``"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:926
+msgid ""
+"You can also add custom string representations for TRUE/FALSE (for example a"
+" localized \"yes\"/\"no\" value)."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:928
+msgid "**Column type override**"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:930
+msgid ""
+"Column types are automatically determined (by an initial limited scan of the"
+" file for immediate feedback followed by a full scan of the file which "
+"happens in a separate thread to not block the GUI and is user-"
+"interruptible), the types are exposed to the GUI as combo boxes and the user"
+" can override the automatically determined types."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:932
+msgid "**Enhanced CSVT support**."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:934
+msgid ""
+"CoordX, CoordY, Point(X/Y), WKT are now recognized as specified in "
+"https://giswiki.hsr.ch/GeoCSV"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:936
+msgid "|image56|"
+msgstr "|image56|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1411
+msgid "image56"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:938
+msgid "This feature was funded by Stadt Freiburg im Breisgau"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:943
+msgid ""
+"Feature: New authentication method for HTTP header based authentication"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:945
+msgid ""
+"A new authentication method is available for network requests which that "
+"supports user defined HTTP header authentication. Multiple custom headers "
+"can be included in these requests."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:947
+msgid ""
+"This is useful in various scenarios, such as when a WMS requires an API key "
+"that is to be used in a HTTP header with the header key being ``X-API-KEY``,"
+" which can now be included in requests from QGIS to authenticate against the"
+" WMS endpoint."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:949
+msgid "|image57|"
+msgstr "|image57|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1413
+msgid "image57"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:951
+msgid "This feature was developed by `Tom C <https://github.com/Cumminsc9>`__"
+msgstr ""
+"Questa funzionalità è stata sviluppata da `Tom C "
+"<https://github.com/Cumminsc9>`__"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:954
+msgid ""
+"Feature: Expose secondary PostGIS geometry columns as referenced geometries"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:956
+msgid ""
+"As discussed in `this issue <https://github.com/qgis/QGIS/pull/45007>`__, we"
+" have added support for exposing additional geometry columns from the "
+"Postgres provider as QgsReferencedGeometry. This allows more efficient "
+"interaction with additional geometry columns through the API. For example, "
+"in label placement, the additional geometry column can be used instead of "
+"the feature geometry. The fields will be represented as ``WKT [CRS User-"
+"Friendly Identifier]`` in the attribute table."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:958
+msgid ""
+"This can be used in expressions and in the label placement properties tab "
+"where you can link the label placement to the second geometry column using "
+"the Point property. In the case where you using it for labelling, the second"
+" geometry column will be updated automatically if you use the move tool and "
+"the columnt type is Geometry. If the column type is text, you could also use"
+" that as a second geometry by doing e.g."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:964
+msgid "In this case however, the column will be read only."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:966
+msgid ""
+"So e.g. now in expressions if you have secondary geometry column you can do:"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:972
+msgid "and it will work."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:974
+msgid "This changes the behavior of existing projects."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:976
+msgid "|image58|"
+msgstr "|image58|"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1415
+msgid "image58"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:978
+msgid "This feature was funded by `OPENGIS.ch <https://www.opengis.ch>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:980
+msgid ""
+"This feature was developed by `Matthias Kuhn, OPENGIS.ch "
+"<https://github.com/m-kuhn>`__"
+msgstr ""
+"Questa funzionalità è stata sviluppata da `Matthias Kuhn, OPENGIS.ch "
+"<https://github.com/m-kuhn>`__"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:983
+msgid "QGIS Server"
+msgstr "QGIS Server"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:986
+msgid ""
+"Feature: Allow better control of the response flow chain from server filters"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:988
+msgid ""
+"New filters allow control of the call chain by implementing new filter "
+"callbacks that allow returning a control value for stopping propagation. "
+"This allows for the better control of streamed data and response flow."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:990
+msgid ""
+"Deprecate ``bool QgsFilter::onRequestReady()``, ``bool "
+"QgsFilter::onSendResponse()``, ``bool QgsFilter::onResponseComplete()``"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:991
+msgid ""
+"Add new methods ``bool QgsFilter::onRequestReady()``, ``bool "
+"QgsFilter::onSendResponse()``, ``bool QgsFilter::onResponseComplete()`` "
+"which return boolean values for controlling data flow"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:992
+msgid "Handle flow control in ``QgsFilterResponseDecorator::flush()``"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:994
+msgid ""
+"This feature was developed by `David Marteau "
+"<https://github.com/dmarteau>`__"
+msgstr ""
+"Questa funzionalità è stata sviluppata da `David Marteau "
+"<https://github.com/dmarteau>`__"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:997
+msgid "Notable Fixes"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1000
+msgid "Bug fixes by Alessandro Pasotti"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1003
+#: ../../source/site/forusers/visualchangelog324/index.rst:1068
+#: ../../source/site/forusers/visualchangelog324/index.rst:1093
+#: ../../source/site/forusers/visualchangelog324/index.rst:1120
+#: ../../source/site/forusers/visualchangelog324/index.rst:1137
+#: ../../source/site/forusers/visualchangelog324/index.rst:1190
+#: ../../source/site/forusers/visualchangelog324/index.rst:1211
+#: ../../source/site/forusers/visualchangelog324/index.rst:1224
+#: ../../source/site/forusers/visualchangelog324/index.rst:1293
+msgid "Bug Title"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1003
+#: ../../source/site/forusers/visualchangelog324/index.rst:1068
+#: ../../source/site/forusers/visualchangelog324/index.rst:1093
+#: ../../source/site/forusers/visualchangelog324/index.rst:1120
+#: ../../source/site/forusers/visualchangelog324/index.rst:1137
+#: ../../source/site/forusers/visualchangelog324/index.rst:1190
+#: ../../source/site/forusers/visualchangelog324/index.rst:1211
+#: ../../source/site/forusers/visualchangelog324/index.rst:1224
+#: ../../source/site/forusers/visualchangelog324/index.rst:1293
+msgid "URL issues.qgis.org (if reported)"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1003
+#: ../../source/site/forusers/visualchangelog324/index.rst:1068
+#: ../../source/site/forusers/visualchangelog324/index.rst:1093
+#: ../../source/site/forusers/visualchangelog324/index.rst:1120
+#: ../../source/site/forusers/visualchangelog324/index.rst:1137
+#: ../../source/site/forusers/visualchangelog324/index.rst:1190
+#: ../../source/site/forusers/visualchangelog324/index.rst:1211
+#: ../../source/site/forusers/visualchangelog324/index.rst:1224
+#: ../../source/site/forusers/visualchangelog324/index.rst:1293
+msgid "URL Commit (Github)"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1003
+#: ../../source/site/forusers/visualchangelog324/index.rst:1068
+#: ../../source/site/forusers/visualchangelog324/index.rst:1093
+#: ../../source/site/forusers/visualchangelog324/index.rst:1120
+#: ../../source/site/forusers/visualchangelog324/index.rst:1137
+#: ../../source/site/forusers/visualchangelog324/index.rst:1190
+#: ../../source/site/forusers/visualchangelog324/index.rst:1211
+#: ../../source/site/forusers/visualchangelog324/index.rst:1224
+#: ../../source/site/forusers/visualchangelog324/index.rst:1293
+msgid "3.22 backport commit (GitHub)"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1005
+msgid "Wrong raster projection on HIDPI screens"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1005
+msgid "`#46882 <https://github.com/qgis/QGIS/issues/46882>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1005
+msgid "`PR #46931 <https://github.com/qgis/QGIS/pull/46931>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1005
+#: ../../source/site/forusers/visualchangelog324/index.rst:1007
+#: ../../source/site/forusers/visualchangelog324/index.rst:1015
+#: ../../source/site/forusers/visualchangelog324/index.rst:1019
+#: ../../source/site/forusers/visualchangelog324/index.rst:1021
+#: ../../source/site/forusers/visualchangelog324/index.rst:1023
+#: ../../source/site/forusers/visualchangelog324/index.rst:1025
+#: ../../source/site/forusers/visualchangelog324/index.rst:1027
+#: ../../source/site/forusers/visualchangelog324/index.rst:1029
+#: ../../source/site/forusers/visualchangelog324/index.rst:1033
+#: ../../source/site/forusers/visualchangelog324/index.rst:1037
+#: ../../source/site/forusers/visualchangelog324/index.rst:1041
+#: ../../source/site/forusers/visualchangelog324/index.rst:1045
+#: ../../source/site/forusers/visualchangelog324/index.rst:1047
+#: ../../source/site/forusers/visualchangelog324/index.rst:1051
+#: ../../source/site/forusers/visualchangelog324/index.rst:1053
+#: ../../source/site/forusers/visualchangelog324/index.rst:1055
+#: ../../source/site/forusers/visualchangelog324/index.rst:1194
+#: ../../source/site/forusers/visualchangelog324/index.rst:1196
+#: ../../source/site/forusers/visualchangelog324/index.rst:1198
+msgid "TODO"
+msgstr "Da fare"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1007
+msgid "Data Source Manager title not translatable"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1007
+msgid "`#46929 <https://github.com/qgis/QGIS/issues/46929>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1007
+msgid "`PR #46932 <https://github.com/qgis/QGIS/pull/46932>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1009
+msgid "QGIS 3.22 - Identical map names in print composer"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1009
+msgid "`#46927 <https://github.com/qgis/QGIS/issues/46927>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1009
+#: ../../source/site/forusers/visualchangelog324/index.rst:1011
+#: ../../source/site/forusers/visualchangelog324/index.rst:1017
+#: ../../source/site/forusers/visualchangelog324/index.rst:1149
+#: ../../source/site/forusers/visualchangelog324/index.rst:1169
+#: ../../source/site/forusers/visualchangelog324/index.rst:1200
+msgid "Works for me"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1011
+msgid "Bold and italic attributes of labels that reinitialize"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1011
+msgid "`#46896 <https://github.com/qgis/QGIS/issues/46896>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1013
+msgid "NameError: name 'QGISAPP' is not defined when using stop\\_app()"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1013
+msgid "`#46883 <https://github.com/qgis/QGIS/issues/46883>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1013
+msgid "Works for me on Linux/master, might be windows only"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1015
+msgid "Virtual layer not loaded correctly after re-opening a project"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1015
+msgid "`#46834 <https://github.com/qgis/QGIS/issues/46834>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1015
+msgid "`PR #46938 <https://github.com/qgis/QGIS/pull/46938>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1017
+msgid "QGIS crashes while calling readLayerXml()"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1017
+msgid "`#46741 <https://github.com/qgis/QGIS/issues/46741>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1019
+msgid "Crash when changing orientation of page in layout"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1019
+msgid "`#46575 <https://github.com/qgis/QGIS/issues/46575>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1019
+msgid "`PR #46972 <https://github.com/qgis/QGIS/pull/46972>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1021
+msgid "\"sort\" funcionality of attributes table sort numeric fields as text"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1021
+msgid "`#34935 <https://github.com/qgis/QGIS/issues/34935>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1021
+msgid "`PR #47035 <https://github.com/qgis/QGIS/pull/47035>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1023
+msgid "OAPIF: api-key not included when requesting /collections endpoint"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1023
+msgid "`#46535 <https://github.com/qgis/QGIS/issues/46535>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1023
+msgid "`PR #47145 <https://github.com/qgis/QGIS/pull/47145>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1025
+msgid "XML notation if missing from tooltips in vector file writer dialog"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1025
+msgid "`#46508 <https://github.com/qgis/QGIS/issues/46508>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1025
+msgid "`PR #47148 <https://github.com/qgis/QGIS/pull/47148>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1027
+msgid ""
+"Ignore out of range option in interpolated symbol renderer creates artifacts"
+" if start value is out of range"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1027
+msgid "`#46362 <https://github.com/qgis/QGIS/issues/46362>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1027
+msgid "`PR #47174 <https://github.com/qgis/QGIS/pull/47174>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1029
+msgid ""
+"start width > end width is ignored when using the \"exact\" color "
+"interpolation method"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1029
+msgid "`#46371 <https://github.com/qgis/QGIS/issues/46371>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1029
+msgid "`PR #47195 <https://github.com/qgis/QGIS/pull/47195>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1031
+msgid ""
+"QGIS Layouts: using \"Data defined override\" for HTML Source URL not "
+"working"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1031
+msgid "`#34395 <https://github.com/qgis/QGIS/issues/34395>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1031
+msgid "works for me (closed - not a bug)"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1033
+msgid "(Un)force hide form in relation widget"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1033
+msgid "`#47226 <https://github.com/qgis/QGIS/issues/47226>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1033
+msgid "`PR #47245 <https://github.com/qgis/QGIS/pull/47245>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1035
+msgid ""
+"Oauth2 authentication protocol does not honors the defined port number in "
+"redirect URL in QGIS 3.22.1"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1035
+msgid "`#46354 <https://github.com/qgis/QGIS/issues/46354>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1035
+msgid "works for me (left open)"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1037
+msgid ""
+"HTML/String-ish QByteArray as result of expression function breaks "
+"expression preview display"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1037
+msgid "`#46174 <https://github.com/qgis/QGIS/issues/46174>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1037
+msgid "`PR #47229 <https://github.com/qgis/QGIS/pull/47229>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1039
+msgid ""
+"Raster layer exported to GeoPackage with the character 'ß' in the name is "
+"not immediately loaded in the project"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1039
+msgid "`#45965 <https://github.com/qgis/QGIS/issues/45965>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1039
+msgid "works for me (closed)"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1041
+msgid ""
+"Layout Attribute Table sorting does not work in Print Layouts when column "
+"name has spaces"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1041
+msgid "`#43744 <https://github.com/qgis/QGIS/issues/43744>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1041
+msgid "`PR #47249 <https://github.com/qgis/QGIS/pull/47249>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1043
+msgid ""
+"Incorrect scale range legend after applying logarithmic graduated symbology "
+"to a vector layer"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1043
+msgid "`#45454 <https://github.com/qgis/QGIS/issues/45454>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1043
+msgid "`PR #47259 <https://github.com/qgis/QGIS/pull/47259>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1043
+#: ../../source/site/forusers/visualchangelog324/index.rst:1057
+msgid "Risky?"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1045
+msgid "fix server crash"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1045
+#: ../../source/site/forusers/visualchangelog324/index.rst:1126
+#: ../../source/site/forusers/visualchangelog324/index.rst:1159
+#: ../../source/site/forusers/visualchangelog324/index.rst:1194
+#: ../../source/site/forusers/visualchangelog324/index.rst:1196
+#: ../../source/site/forusers/visualchangelog324/index.rst:1228
+#: ../../source/site/forusers/visualchangelog324/index.rst:1230
+#: ../../source/site/forusers/visualchangelog324/index.rst:1232
+#: ../../source/site/forusers/visualchangelog324/index.rst:1264
+#: ../../source/site/forusers/visualchangelog324/index.rst:1266
+#: ../../source/site/forusers/visualchangelog324/index.rst:1270
+#: ../../source/site/forusers/visualchangelog324/index.rst:1272
+#: ../../source/site/forusers/visualchangelog324/index.rst:1278
+msgid "unreported"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1045
+msgid "`PR #47271 <https://github.com/qgis/QGIS/pull/47271>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1047
+msgid "Load QGIS project from command line from a PostgreSQL project"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1047
+msgid "`#47270 <https://github.com/qgis/QGIS/issues/47270>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1047
+msgid "`PR #47272 <https://github.com/qgis/QGIS/pull/47272>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1049
+msgid "Aggregate function with filter doesn't work in layout manager"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1049
+msgid "`#45552 <https://github.com/qgis/QGIS/issues/45552>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1049
+msgid "Works for me (closed)"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1051
+msgid ""
+"Value map widget: \"value\"/\"description\" inconsistency when table added "
+"to print layouts"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1051
+msgid "`#41798 <https://github.com/qgis/QGIS/issues/41798>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1051
+msgid "`PR #47300 <https://github.com/qgis/QGIS/pull/47300>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1053
+msgid "Missing entries in attributetable in layout with atlas at page break"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1053
+msgid "`#44086 <https://github.com/qgis/QGIS/issues/44086>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1053
+msgid "`PR #47303 <https://github.com/qgis/QGIS/pull/47303>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1055
+msgid ""
+"Server OAPIF: bbox filter isn't working if data source CRS is not "
+"EPSG:4326/WGS84"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1055
+msgid "`#47302 <https://github.com/qgis/QGIS/issues/47302>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1055
+msgid "`PR #47318 <https://github.com/qgis/QGIS/pull/47318>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1057
+msgid ""
+"Drag & Drop designer control visibility by expression with field IS NOT NULL"
+" doesn't work if the field is configured with html"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1057
+msgid "`#47363 <https://github.com/qgis/QGIS/issues/47363>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1057
+msgid "`PR #47432 <https://github.com/qgis/QGIS/pull/47432>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1060
+#: ../../source/site/forusers/visualchangelog324/index.rst:1085
+#: ../../source/site/forusers/visualchangelog324/index.rst:1112
+#: ../../source/site/forusers/visualchangelog324/index.rst:1129
+#: ../../source/site/forusers/visualchangelog324/index.rst:1182
+#: ../../source/site/forusers/visualchangelog324/index.rst:1203
+#: ../../source/site/forusers/visualchangelog324/index.rst:1216
+#: ../../source/site/forusers/visualchangelog324/index.rst:1285
+#: ../../source/site/forusers/visualchangelog324/index.rst:1298
+msgid ""
+"These bugfixes were funded by `QGIS.ORG (through donations and sustaining "
+"memberships) <https://qgis.org/>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1062
+msgid "Bugs fixed by `Alessandro Pasotti <https://www.qcooperative.net/>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1065
+msgid "Bug fixes by Sandro Santilli"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1070
+msgid "DistanceWithin algorithm failing with PostgreSQL provider"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1070
+msgid "`#45352 <https://github.com/qgis/QGIS/issues/45352>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1070
+msgid "`PR #46971 <https://github.com/qgis/QGIS/pull/46971>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1070
+msgid "`PR #47076 <https://github.com/qgis/QGIS/pull/47076>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1072
+msgid "GH\\_WORKSPACE -> QGIS\\_WORKSPACE"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1072
+msgid "`PR #47060 <https://github.com/qgis/QGIS/pull/47060>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1074
+msgid "Improve documentation about running tests"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1074
+msgid "`PR #47057 <https://github.com/qgis/QGIS/pull/47057>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1076
+msgid "Use variables to set postgresql connection config in authmanager test"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1076
+msgid "`PR #47059 <https://github.com/qgis/QGIS/pull/47059>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1078
+msgid "Re-use possibly cached postgis\\_version from pgsql description method"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1078
+msgid "`PR #47393 <https://github.com/qgis/QGIS/pull/47393>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1078
+msgid "`PR #47401 <https://github.com/qgis/QGIS/pull/47401>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1080
+msgid "Trust primary key of layers setup by DBManager TopoViewer plugin"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1080
+msgid "`#47389 <https://github.com/qgis/QGIS/issues/47389>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1080
+msgid "`PR #47390 <https://github.com/qgis/QGIS/pull/47390>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1080
+msgid "`PR #47403 <https://github.com/qgis/QGIS/pull/47403>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1082
+msgid "Improved debugging output in QgsPostgresConn class"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1082
+msgid "`PR #47396 <https://github.com/qgis/QGIS/pull/47396>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1087
+msgid "Bugs fixed by `Sandro Santilli <https://strk.kbt.io/>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1090
+msgid "Bug fixes by Even Rouault"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1095
+msgid ""
+"QGIS 3.21.0: preset transform required \"nehpgn.gsb\" but downloads "
+"\"nehpgn.tif\" which does not work"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1095
+msgid "`#45470 <https://github.com/qgis/QGIS/issues/45470>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1095
+msgid "`PR #46918 <https://github.com/qgis/QGIS/pull/46918>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1095
+msgid "`PR #46952 <https://github.com/qgis/QGIS/pull/46952>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1097
+msgid "Raster layer misaligns when bbox bigger than projected raster layer"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1097
+msgid "`#34518 <https://github.com/qgis/QGIS/issues/34518>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1097
+msgid "`PR #46939 <https://github.com/qgis/QGIS/pull/46939>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1097
+msgid "`PR #46956 <https://github.com/qgis/QGIS/pull/46956>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1099
+msgid "Filter for WFS layer: The \"Tables\" button is missing"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1099
+msgid "`#46887 <https://github.com/qgis/QGIS/issues/46887>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1099
+#: ../../source/site/forusers/visualchangelog324/index.rst:1171
+msgid "Not a bug"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1101
+msgid "Something simpler than SQL to filter a WFS layer"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1101
+msgid "`#46888 <https://github.com/qgis/QGIS/issues/46888>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1101
+msgid "`PR #47056 <https://github.com/qgis/QGIS/pull/47056>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1101
+msgid "`PR #47132 <https://github.com/qgis/QGIS/pull/47132>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1103
+msgid "renaming/deleting columns takes a lot of time on large vectors"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1103
+msgid "`#47012 <https://github.com/qgis/QGIS/issues/47012>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1103
+msgid "`GDAL PR 5193 <https://github.com/OSGeo/gdal/pull/5193>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1103
+msgid "`GDAL PR 5204 <https://github.com/OSGeo/gdal/pull/5204>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1105
+msgid ""
+"Opening a Vector Geopackage in QGIS alters its file even when no changes are"
+" done by user"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1105
+msgid "`#23991 <https://github.com/qgis/QGIS/issues/23991>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1105
+msgid "`PR #47098 <https://github.com/qgis/QGIS/pull/47098>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1105
+msgid "`PR #47301 <https://github.com/qgis/QGIS/pull/47301>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1107
+msgid "MapInfo CRS not correctly recognized"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1107
+msgid "`GDAL issue #5217 <https://github.com/OSGeo/gdal/issues/5217>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1107
+msgid "`PR #47149 <https://github.com/qgis/QGIS/pull/47149>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1107
+msgid "`PR #47157 <https://github.com/qgis/QGIS/pull/47157>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1109
+msgid "Crash exporting dxf using \"Symbol layer symbology\""
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1109
+msgid "`#46245 <https://github.com/qgis/QGIS/issues/46245>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1109
+msgid "`PR #47277 <https://github.com/qgis/QGIS/pull/47277>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1109
+msgid "`PR #47297 <https://github.com/qgis/QGIS/pull/47297>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1114
+msgid "Bugs fixed by `Even Rouault <https://www.spatialys.com/>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1117
+msgid "Bug fixes by Denis Rouzaud"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1122
+msgid "Trying to add GPKG from data source manager crashes QGIS master"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1122
+msgid "`#46463 <https://github.com/qgis/QGIS/issues/46463>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1122
+msgid "`PR #46928 <https://github.com/qgis/QGIS/pull/46928>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1122
+msgid "not relevant"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1124
+#: ../../source/site/forusers/visualchangelog324/index.rst:1151
+msgid "Display name in layer properties is not automatically filled"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1124
+#: ../../source/site/forusers/visualchangelog324/index.rst:1151
+msgid "`#28353 <https://github.com/qgis/QGIS/issues/28353>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1124
+msgid "`PR #47016 <https://github.com/qgis/QGIS/pull/47016>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1126
+msgid "Fixes to QgsGeometry::addPart + new test cases"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1126
+msgid "`PR #47009 <https://github.com/qgis/QGIS/pull/47009>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1131
+msgid "Bugs fixed by `Denis Rouzaud <http://www.opengis.ch/>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1134
+msgid "Bug fixes by Alex Bruy"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1139
+msgid ""
+"Layout picture: data-defined svg parameters should be disabled for "
+"incompatible pictures"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1139
+msgid "`#26524 <https://github.com/qgis/QGIS/issues/26524>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1139
+msgid "`PR #46976 <https://github.com/qgis/QGIS/pull/46976>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1141
+msgid "TypeError in MetaSearch when adding WFS data"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1141
+msgid "`#46135 <https://github.com/qgis/QGIS/issues/46135>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1141
+msgid "`PR #46993 <https://github.com/qgis/QGIS/pull/46993>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1141
+msgid "`PR #47003 <https://github.com/qgis/QGIS/pull/47003>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1143
+msgid ""
+"Split Vector Layer algorithm does not export both null and empty values"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1143
+msgid "`#38105 <https://github.com/qgis/QGIS/issues/38105>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1143
+msgid "`PR #46997 <https://github.com/qgis/QGIS/pull/46997>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1143
+msgid "`PR #47030 <https://github.com/qgis/QGIS/pull/47030>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1145
+msgid ""
+"data source manager not opening with correct sub menu for point cloud "
+"datasources"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1145
+msgid "`#42881 <https://github.com/qgis/QGIS/issues/42881>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1145
+msgid "`PR #46998 <https://github.com/qgis/QGIS/pull/46998>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1145
+msgid "`PR #47002 <https://github.com/qgis/QGIS/pull/47002>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1147
+msgid "SLD import doesn't recognize html enconding in ttf font references"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1147
+msgid "`#27263 <https://github.com/qgis/QGIS/issues/27263>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1147
+msgid "`PR #46975 <https://github.com/qgis/QGIS/pull/46975>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1147
+msgid "`PR #47040 <https://github.com/qgis/QGIS/pull/47040>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1149
+msgid "Error opening data loader dialog from MetaSearch"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1149
+msgid "`#40490 <https://github.com/qgis/QGIS/issues/40490>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1151
+msgid "`PR #46978 <https://github.com/qgis/QGIS/pull/46978>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1153
+msgid "No way to add mbtiles file-based MVT package except drag and drop"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1153
+msgid "`#36449 <https://github.com/qgis/QGIS/issues/36449>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1153
+msgid "`PR #47028 <https://github.com/qgis/QGIS/pull/47028>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1153
+msgid "`PR #47068 <https://github.com/qgis/QGIS/pull/47068>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1155
+msgid "\"GDAL rasterize overwrite with attribute\" does not refresh/reload output"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1155
+msgid "`#45729 <https://github.com/qgis/QGIS/issues/45729>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1155
+msgid "`PR #47055 <https://github.com/qgis/QGIS/pull/47055>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1155
+msgid "`PR #47105 <https://github.com/qgis/QGIS/pull/47105>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1157
+msgid "Delete Column in Matrix Parameter in Graphic Modeler not Working"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1157
+msgid "`#45694 <https://github.com/qgis/QGIS/issues/45694>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1157
+msgid "`PR #47064 <https://github.com/qgis/QGIS/pull/47064>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1157
+msgid "`PR #47067 <https://github.com/qgis/QGIS/pull/47067>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1159
+msgid ""
+"Wrong signature of the QgsProcessingParameterMeshDatasetGroups when "
+"exporting to Python"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1159
+msgid "`PR #47152 <https://github.com/qgis/QGIS/pull/47152>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1159
+msgid "`PR #47156 <https://github.com/qgis/QGIS/pull/47156>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1161
+msgid "Error message when GRASS tools cannot be run is (now) wrong"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1161
+msgid "`#46052 <https://github.com/qgis/QGIS/issues/46052>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1161
+#: ../../source/site/forusers/visualchangelog324/index.rst:1163
+msgid "`PR #47163 <https://github.com/qgis/QGIS/pull/47163>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1163
+msgid ""
+"\"Ignore invalid input features\" processing setting location is misleading"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1163
+msgid "`#42557 <https://github.com/qgis/QGIS/issues/42557>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1165
+msgid "Inconsistent number of decimal places in Identify tool"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1165
+msgid "`#27929 <https://github.com/qgis/QGIS/issues/27929>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1165
+msgid "`PR #47173 <https://github.com/qgis/QGIS/pull/47173>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1167
+msgid ""
+"qgis\\_process is not showing algorithm providers installed via a python "
+"plugin"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1167
+msgid "`#41120 <https://github.com/qgis/QGIS/issues/41120>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1167
+msgid "`PR #47258 <https://github.com/qgis/QGIS/pull/47258>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1167
+msgid "`PR #47263 <https://github.com/qgis/QGIS/pull/47263>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1169
+msgid ""
+"Unable to delete files .shp and .dbf using python code (removeMapLayers, "
+"deleteShapeFile)"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1169
+msgid "`#39428 <https://github.com/qgis/QGIS/issues/39428>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1171
+msgid "QgsProcessingParameterFile extension option"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1171
+msgid "`#45633 <https://github.com/qgis/QGIS/issues/45633>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1173
+msgid "Make the labels \"edit rule\" widget a real dialog with buttons"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1173
+msgid "`#36761 <https://github.com/qgis/QGIS/issues/36761>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1173
+msgid "`PR #47305 <https://github.com/qgis/QGIS/pull/47305>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1175
+msgid "Edit form python editor tabs/spaces confusion"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1175
+msgid "`#46988 <https://github.com/qgis/QGIS/issues/46988>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1175
+msgid "`PR #47345 <https://github.com/qgis/QGIS/pull/47345>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1175
+msgid "`PR #47352 <https://github.com/qgis/QGIS/pull/47352>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1177
+msgid ""
+"Error when making buffer from empty layer with 'Dissolve result' option "
+"checked"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1177
+msgid "`#46396 <https://github.com/qgis/QGIS/issues/46396>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1177
+msgid "`PR #47348 <https://github.com/qgis/QGIS/pull/47348>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1177
+msgid "`PR #47384 <https://github.com/qgis/QGIS/pull/47384>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1179
+msgid ""
+"QGIS does not replace commas in layer names when exporting to DXF (so is "
+"incompatible with AutoCAD)"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1179
+msgid "`#47381 <https://github.com/qgis/QGIS/issues/47381>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1179
+msgid "`PR #47418 <https://github.com/qgis/QGIS/pull/47418>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1179
+msgid "`PR #47430 <https://github.com/qgis/QGIS/pull/47430>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1184
+msgid "Bugs fixed by Alex Bruy"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1187
+msgid "Bug fixes by Paul Blottiere"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1192
+msgid "Fixes WFS EXP\\_FILTER parsing in GetFeature request"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1192
+msgid ""
+"`mailing list <https://www.mail-archive.com/qgis-"
+"user@lists.osgeo.org/msg50029.html>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1192
+msgid "`PR #47029 <https://github.com/qgis/QGIS/pull/47029>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1192
+msgid "Too risky"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1194
+msgid ""
+"Fix output filename when a raster is saved in a format without extension"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1194
+msgid "`PR #46992 <https://github.com/qgis/QGIS/pull/46992>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1196
+msgid "WFS GetFeature document and exceptions"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1196
+msgid "`PR #47198 <https://github.com/qgis/QGIS/pull/47198>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1198
+msgid ""
+"Exluding a print layout in project propteries -> server do not avoid that a "
+"GetPrint request can be done for that layout"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1198
+msgid "`#46140 <https://github.com/qgis/QGIS/issues/46140>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1198
+msgid "`PR #47199 <https://github.com/qgis/QGIS/pull/47199>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1200
+msgid ""
+"Server: Can't enable WFS3 API update endpoint (PUT/PATCH) on layers without "
+"geometry"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1200
+msgid "`#46119 <https://github.com/qgis/QGIS/issues/46119>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1205
+msgid "Bugs fixed by `Pau Blottiere <https://hytech-imaging.fr/>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1208
+msgid "Bug fixes by Matthias Kuhn"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1213
+msgid "Fix HTTP Post with MultiPart"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1213
+msgid "`#46989 <https://github.com/qgis/QGIS/issues/46989>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1213
+msgid "`PR #47006 <https://github.com/qgis/QGIS/pull/47006>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1213
+msgid "not needed"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1218
+msgid "Bugs fixed by `Matthias Kuhn <https://www.opengis.ch/>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1221
+msgid "Bug fixes by Nyall Dawson"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1226
+msgid "Add .tsv extension to delimited text supported files filter"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1226
+#: ../../source/site/forusers/visualchangelog324/index.rst:1234
+#: ../../source/site/forusers/visualchangelog324/index.rst:1240
+msgid "reported on youtube screencast"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1226
+#: ../../source/site/forusers/visualchangelog324/index.rst:1228
+msgid "`PR #47181 <https://github.com/qgis/QGIS/pull/47181>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1226
+#: ../../source/site/forusers/visualchangelog324/index.rst:1232
+msgid "pending"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1228
+msgid ""
+"Fix line anchor placements are reversed for labels which sit below lines"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1230
+msgid ""
+"Fix incorrect return code from QgsProcessingModelAlgorithm::fromFile when "
+"file does not exist"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1230
+msgid "`PR #47161 <https://github.com/qgis/QGIS/pull/47161>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1230
+msgid "`PR #47162 <https://github.com/qgis/QGIS/pull/47162>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1232
+msgid "Fix many georeferencer regressions"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1232
+msgid "multiple"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1234
+msgid ""
+"Avoid some unwanted \"unhandled exception\" message boxes which can pop up "
+"while moving the mouse"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1234
+msgid "`PR #47138 <https://github.com/qgis/QGIS/pull/47138>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1234
+msgid "`PR #47154 <https://github.com/qgis/QGIS/pull/47154>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1236
+msgid ""
+"Don't use custom palette in crash handler dialog, this results in unreadable"
+" text on dark themes"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1236
+#: ../../source/site/forusers/visualchangelog324/index.rst:1238
+#: ../../source/site/forusers/visualchangelog324/index.rst:1262
+msgid "`#47065 <https://github.com/qgis/QGIS/issues/47065>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1236
+msgid "`PR #47110 <https://github.com/qgis/QGIS/pull/47110>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1236
+msgid "`PR #47136 <https://github.com/qgis/QGIS/pull/47136>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1238
+msgid "Don't slightly colorise the icons for selected items in lists"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1238
+msgid "`PR #47133 <https://github.com/qgis/QGIS/pull/47133>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1238
+#: ../../source/site/forusers/visualchangelog324/index.rst:1248
+#: ../../source/site/forusers/visualchangelog324/index.rst:1252
+#: ../../source/site/forusers/visualchangelog324/index.rst:1260
+#: ../../source/site/forusers/visualchangelog324/index.rst:1264
+#: ../../source/site/forusers/visualchangelog324/index.rst:1270
+#: ../../source/site/forusers/visualchangelog324/index.rst:1276
+msgid "not suitable"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1240
+msgid ""
+"Fix python exception raised after running in-place algorithm which requires "
+"no parameters"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1240
+msgid "`PR #47108 <https://github.com/qgis/QGIS/pull/47108>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1240
+msgid "`PR #47130 <https://github.com/qgis/QGIS/pull/47130>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1242
+msgid ""
+"Fix labelling shown for features out of range of temporal controller dates"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1242
+msgid "`#45160 <https://github.com/qgis/QGIS/issues/45160>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1242
+msgid "`PR #47119 <https://github.com/qgis/QGIS/pull/47119>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1242
+msgid "`PR #47126 <https://github.com/qgis/QGIS/pull/47126>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1244
+msgid "Fix line dependent orientation rendering of curved labels"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1244
+msgid "`#45051 <https://github.com/qgis/QGIS/issues/45051>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1244
+msgid "`PR #47118 <https://github.com/qgis/QGIS/pull/47118>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1244
+msgid "`PR #47137 <https://github.com/qgis/QGIS/pull/47137>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1246
+msgid ""
+"When processing is initialized in external scripts, ensure the GRASS, SAGA "
+"and OTB providers are included by default"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1246
+msgid "`#45935 <https://github.com/qgis/QGIS/issues/45935>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1246
+msgid "`PR #47114 <https://github.com/qgis/QGIS/pull/47114>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1246
+msgid "`PR #47121 <https://github.com/qgis/QGIS/pull/47121>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1248
+msgid ""
+"Show descriptive error when label rotation tool cannot be used because of "
+"invalid expressions"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1248
+msgid "`#47091 <https://github.com/qgis/QGIS/issues/47091>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1248
+msgid "`PR #47112 <https://github.com/qgis/QGIS/pull/47112>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1250
+msgid ""
+"QgsRasterDataProvider.block() returns invalid QgsRasterBlock if requested "
+"block size exceeds a certain threshold"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1250
+msgid "`#47097 <https://github.com/qgis/QGIS/issues/47097>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1250
+msgid "`PR #47106 <https://github.com/qgis/QGIS/pull/47106>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1250
+msgid "`PR #47129 <https://github.com/qgis/QGIS/pull/47129>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1252
+msgid "Fix missing icons for array field types"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1252
+msgid "`#47078 <https://github.com/qgis/QGIS/issues/47078>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1252
+msgid "`PR #47086 <https://github.com/qgis/QGIS/pull/47086>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1254
+msgid ""
+"Use correct approach to unset data defined field for label position when "
+"auxiliary column is removed"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1254
+msgid "`#46403 <https://github.com/qgis/QGIS/issues/46403>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1254
+msgid "`PR #47085 <https://github.com/qgis/QGIS/pull/47085>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1254
+msgid "`PR #47088 <https://github.com/qgis/QGIS/pull/47088>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1256
+msgid "Fix atlas sorting with complex field names"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1256
+msgid "`#40332 <https://github.com/qgis/QGIS/issues/40332>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1256
+msgid "`PR #47083 <https://github.com/qgis/QGIS/pull/47083>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1256
+msgid "`PR #47103 <https://github.com/qgis/QGIS/pull/47103>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1258
+msgid "improve field handling when converting to rule-based"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1258
+msgid "`#46459 <https://github.com/qgis/QGIS/issues/46459>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1258
+msgid "`PR #47081 <https://github.com/qgis/QGIS/pull/47081>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1258
+msgid "`PR #47104 <https://github.com/qgis/QGIS/pull/47104>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1260
+msgid ""
+"Fix 'Save all Styles/Save current Style' only appears after close/reopen the"
+" layer properties window"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1260
+msgid "`#46596 <https://github.com/qgis/QGIS/issues/46596>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1260
+msgid "`PR #47080 <https://github.com/qgis/QGIS/pull/47080>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1262
+msgid "Fix readability of text when using dark themes"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1262
+msgid "`PR #47071 <https://github.com/qgis/QGIS/pull/47071>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1262
+msgid "`PR #47074 <https://github.com/qgis/QGIS/pull/47074>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1264
+msgid ""
+"Fix sqlite errors on startup caused by default style database import logic"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1264
+msgid "`PR #47070 <https://github.com/qgis/QGIS/pull/47070>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1266
+msgid ""
+"Fix color widgets incorrectly change colors when mouse is hovered over "
+"widget"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1266
+msgid "`PR #47069 <https://github.com/qgis/QGIS/pull/47069>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1266
+msgid "`PR #47077 <https://github.com/qgis/QGIS/pull/47077>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1268
+msgid "Avoid crs definition errors when closing options dialog"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1268
+msgid "`#47014 <https://github.com/qgis/QGIS/issues/47014>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1268
+msgid "`PR #47061 <https://github.com/qgis/QGIS/pull/47061>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1268
+#: ../../source/site/forusers/visualchangelog324/index.rst:1278
+msgid "n/a"
+msgstr "n/d"
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1270
+msgid "Fix duplicate shortcut registered warning on startup"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1270
+msgid "`PR #46983 <https://github.com/qgis/QGIS/pull/46983>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1272
+msgid "Fix scroll wheel events get \"stuck\" when scrolling to bottom of areas"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1272
+msgid "`PR #46958 <https://github.com/qgis/QGIS/pull/46958>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1272
+msgid "`PR #46987 <https://github.com/qgis/QGIS/pull/46987>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1274
+msgid ""
+"Flag a lot of situations where ballpark transforms are appropriate so "
+"warnings are not shown"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1274
+msgid "`#45621 <https://github.com/qgis/QGIS/issues/45621>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1274
+msgid "`PR #46957 <https://github.com/qgis/QGIS/pull/46957>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1274
+msgid "`PR #46961 <https://github.com/qgis/QGIS/pull/46961>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1276
+msgid "Fix crashes when saving layer styles"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1276
+msgid "`#46954 <https://github.com/qgis/QGIS/issues/46954>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1276
+msgid "`PR #46955 <https://github.com/qgis/QGIS/pull/46955>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1278
+msgid "Fix broken merge features tool"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1278
+msgid "`PR #46924 <https://github.com/qgis/QGIS/pull/46924>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1280
+msgid "[mssql] Fix provider on case-sensitive database locales"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1280
+msgid "`#46907 <https://github.com/qgis/QGIS/issues/46907>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1280
+msgid "`PR #46923 <https://github.com/qgis/QGIS/pull/46923>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1280
+msgid "`PR #46949 <https://github.com/qgis/QGIS/pull/46949>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1282
+msgid ""
+"[mssql] Fix inserting features when pk attribute name contains special chars"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1282
+msgid "`#42290 <https://github.com/qgis/QGIS/issues/42290>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1282
+msgid "`PR #46876 <https://github.com/qgis/QGIS/pull/46876>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1282
+msgid "`PR #46903 <https://github.com/qgis/QGIS/pull/46903>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1287
+msgid "Bugs fixed by `Nyall Dawson <https://north-road.com/>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1290
+msgid "Bug fixes by Damiano Lombardi"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1295
+msgid "Fix #47089 wrong rotation point for rotate label tool preview"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1295
+msgid "`#47089 <https://github.com/qgis/QGIS/issues/47089>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1295
+msgid "`PR #47124 <https://github.com/qgis/QGIS/pull/47124>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst:1300
+msgid "Bugs fixed by `Damiano Lombardi <https://www.opengis.ch/>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog324/index.rst
+msgid "image2"
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""

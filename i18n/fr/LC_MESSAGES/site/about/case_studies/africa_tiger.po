@@ -1,7 +1,10 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 # Céline Ndong Garnier <c_c_leen@hotmail.com>, 2015
-# Mehdi SEMCHAOUI, 2015
+# Mehdi SEMCHAOUI, 2015,2022
 # Harrissou Sant-anna, 2015
 # Sylvain Théry <sylvain.thery@upmc.fr>, 2017
 # Thomas_M <thomas.michel@idgeo.fr>, 2020
@@ -9,14 +12,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2015-06-05 13:43+0000\n"
-"Last-Translator: Thomas_M <thomas.michel@idgeo.fr>, 2020\n"
+"Last-Translator: Mehdi SEMCHAOUI, 2015,2022\n"
 "Language-Team: French (http://www.transifex.com/qgis/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: fr\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
@@ -87,7 +90,7 @@ msgstr "Un avantage clé de la Boîte à outils de Traitement est la capacité d
 
 #: ../../source/site/about/case_studies/africa_tiger.rst:22
 msgid "The WOIS graphical user interface"
-msgstr ""
+msgstr "L'interface utilisateur graphique WOIS"
 
 #: ../../source/site/about/case_studies/africa_tiger.rst:22
 msgid ""
@@ -223,4 +226,4 @@ msgstr "checkbox"
 
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
-msgstr ""
+msgstr "case décochée"

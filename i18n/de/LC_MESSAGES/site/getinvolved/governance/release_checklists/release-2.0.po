@@ -1,18 +1,21 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
-# Jürgen E. Fischer <jef@norbit.de>, 2014,2016
+# Jürgen E. Fischer <jef@norbit.de>, 2014,2016,2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2013-09-17 13:25+0000\n"
-"Last-Translator: Jürgen E. Fischer <jef@norbit.de>, 2014,2016\n"
+"Last-Translator: Jürgen E. Fischer <jef@norbit.de>, 2014,2016,2022\n"
 "Language-Team: German (http://www.transifex.com/qgis/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: de\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -22,7 +25,7 @@ msgstr "Prüfliste für QGIS-Release 2.0"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:9
 msgid "Key Dates"
-msgstr ""
+msgstr "Wichtige Termine:"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:11
 msgid "**1 April 2013** - Feature freeze - no new features in master."
@@ -93,7 +96,7 @@ msgstr "|checkbox_unchecked| Kleine Erweiterungen und Fehlerbehebungen können w
 
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
-msgstr ""
+msgstr "checkbox_unchecked"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:36
 msgid ""
@@ -547,121 +550,121 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:175
 msgid "|checkbox_unchecked| http://freshmeat.net"
-msgstr ""
+msgstr "|checkbox_unchecked| http://freshmeat.net"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:176
 msgid "|checkbox_unchecked| http://kde-apps.org"
-msgstr ""
+msgstr "|checkbox_unchecked| http://kde-apps.org"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:177
 msgid "|checkbox_unchecked| http://qt-apps.org"
-msgstr ""
+msgstr "|checkbox_unchecked| http://qt-apps.org"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:178
 msgid "|checkbox_unchecked| http://freegis.org"
-msgstr ""
+msgstr "|checkbox_unchecked| http://freegis.org"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:179
 msgid "|checkbox_unchecked| http://apple.com"
-msgstr ""
+msgstr "|checkbox_unchecked| http://apple.com"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:180
 msgid "|checkbox_unchecked| http://slashgeo.org/submit.pl"
-msgstr ""
+msgstr "|checkbox_unchecked| http://slashgeo.org/submit.pl"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:181
 msgid "|checkbox_unchecked| http://lxer.com/module/newswire/stories/add.php"
-msgstr ""
+msgstr "|checkbox_unchecked| http://lxer.com/module/newswire/stories/add.php"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:182
 msgid "|checkbox_unchecked| http://www.freemacware.com/let-us-know"
-msgstr ""
+msgstr "|checkbox_unchecked| http://www.freemacware.com/let-us-know"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:183
 msgid "|checkbox_unchecked| http://www.osnews.com/submit.php"
-msgstr ""
+msgstr "|checkbox_unchecked| http://www.osnews.com/submit.php"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:184
 msgid "|checkbox_unchecked| http://directory.fsf.org/project/QGIS/"
-msgstr ""
+msgstr "|checkbox_unchecked| http://directory.fsf.org/project/QGIS/"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:186
 msgid "|checkbox_unchecked| *Announcements on mailing lists*"
-msgstr ""
+msgstr "|checkbox_unchecked| *Announcements on mailing lists*"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:188
 msgid ""
 "|checkbox_unchecked| freegis-list: "
 "http://intevation.de/mailman/listinfo/freegis-list"
-msgstr ""
+msgstr "|checkbox_unchecked| freegis-list: http://intevation.de/mailman/listinfo/freegis-list"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:189
 msgid ""
 "|checkbox_unchecked| grassuser: "
 "http://grass.itc.it/mailman/listinfo/grassuser"
-msgstr ""
+msgstr "|checkbox_unchecked| grassuser: http://grass.itc.it/mailman/listinfo/grassuser"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:190
 msgid ""
 "|checkbox_unchecked| qgis-user: "
 "http://lists.osgeo.org/mailman/listinfo/qgis-user"
-msgstr ""
+msgstr "|checkbox_unchecked| qgis-user: http://lists.osgeo.org/mailman/listinfo/qgis-user"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:191
 msgid ""
 "|checkbox_unchecked| qgis-developer: "
 "https://lists.sourceforge.net/lists/listinfo/qgis-developer"
-msgstr ""
+msgstr "|checkbox_unchecked| qgis-developer: https://lists.sourceforge.net/lists/listinfo/qgis-developer"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:192
 msgid ""
 "|checkbox_unchecked| pkg-grass-general: "
 "http://lists.alioth.debian.org/mailman/listinfo/pkg-grass-general"
-msgstr ""
+msgstr "|checkbox_unchecked| pkg-grass-general: http://lists.alioth.debian.org/mailman/listinfo/pkg-grass-general"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:193
 msgid "|checkbox_unchecked| osgeo-announce: news_item@osgeo.org"
-msgstr ""
+msgstr "|checkbox_unchecked| osgeo-announce: news_item@osgeo.org"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:194
 msgid ""
 "|checkbox_unchecked| osgeo-discuss: "
 "http://lists.osgeo.org/mailman/listinfo/discuss"
-msgstr ""
+msgstr "|checkbox_unchecked| osgeo-discuss: http://lists.osgeo.org/mailman/listinfo/discuss"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:195
 msgid ""
 "|checkbox_unchecked| osgeo-africa: "
 "http://lists.osgeo.org/mailman/listinfo/africa"
-msgstr ""
+msgstr "|checkbox_unchecked| osgeo-africa: http://lists.osgeo.org/mailman/listinfo/africa"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:196
 msgid "|checkbox_unchecked| ppgis: ppgis@dgroups.org"
-msgstr ""
+msgstr "|checkbox_unchecked| ppgis: ppgis@dgroups.org"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:197
 msgid ""
 "|checkbox_unchecked| gav-talk: http://www.grass-verein.de/ml_irc.html "
 "(german)"
-msgstr ""
+msgstr "|checkbox_unchecked| gav-talk: http://www.grass-verein.de/ml_irc.html (german)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:198
 msgid ""
 "|checkbox_unchecked| grass-de: http://www.grass-verein.de/ml_irc.html "
 "(german)"
-msgstr ""
+msgstr "|checkbox_unchecked| grass-de: http://www.grass-verein.de/ml_irc.html (german)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:199
 msgid ""
 "|checkbox_unchecked| viscom-de: "
 "http://lists.osgeo.org/mailman/listinfo/viscom-discuss-de (german)"
-msgstr ""
+msgstr "|checkbox_unchecked| viscom-de: http://lists.osgeo.org/mailman/listinfo/viscom-discuss-de (german)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:200
 msgid ""
 "|checkbox_unchecked| gfoss.it: http://www.faunalia.com/cgi-"
 "bin/mailman/listinfo/gfoss (italian)"
-msgstr ""
+msgstr "|checkbox_unchecked| gfoss.it: http://www.faunalia.com/cgi-bin/mailman/listinfo/gfoss (italian)"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:201
 msgid "|checkbox_unchecked| info@aet.org.es (spanish)"
@@ -721,7 +724,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:260
 msgid "Bug Tracker System"
-msgstr ""
+msgstr "Fehlerverfolgungssystem"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:262
 msgid ""
@@ -865,17 +868,3 @@ msgstr ""
 #: ../../<rst_epilog>:2
 msgid "checkbox"
 msgstr "Kontrollkästchen"
-
-#~ msgid "Key Dates:"
-#~ msgstr ""
-
-#~ msgid "Note you can get stats for the previous release like with \"awstats\":"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "http://www.qgis.org/cgi-bin/awstats.pl?urlfilter=%2Fdownloads%2FQGIS-"
-#~ "OSGeo4W-2.0.0-.*-Setup.exe&urlfilterex=&output=urldetail&config=qgis&framename=mainright&month=all&year=2011"
-#~ msgstr ""
-
-#~ msgid "Source @ qgis.org/dowloads/"
-#~ msgstr ""

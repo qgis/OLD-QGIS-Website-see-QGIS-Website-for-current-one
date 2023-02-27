@@ -1,18 +1,21 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2014-2015,2019-2021
+# Sorin Călinică <scalinica@gmail.com>, 2014-2015,2019-2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2014-11-01 16:56+0000\n"
-"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2014-2015,2019-2021\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2014-2015,2019-2022\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
@@ -21,78 +24,82 @@ msgid "Changelog for QGIS 2.6"
 msgstr "Jurnalul schimbărilor pentru QGIS 2.6"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:6
+msgid "Release date: 2014-10-31"
+msgstr "Data lansării: 2014-10-31"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:8
 msgid ""
 "Change log for the next release of QGIS 2.6.0. We have added many new "
 "features, tweaks and enhancements to make the most popular Free desktop GIS "
 "even more feature filled and useful."
 msgstr "Jurnalul schimbărilor pentru versiunea QGIS 2.6.0. S-au adăugat multe caracteristici noi, reglaje și îmbunătățiri, pentru a face cel mai popular GIS desktop, gratuit cât mai complet și util."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:10
+#: ../../source/site/forusers/visualchangelog260/index.rst:12
 msgid ""
 "Whenever new features are added to software they introduce the possibility "
 "of new bugs - if you encounter any problems with this release, please file a"
 " ticket `on the QGIS Bug Tracker <http://hub.qgis.org>`_."
 msgstr "Ori de câte ori se adaugă noi caracteristici în aplicație, apare posibilitatea unor noi erori - dacă întâmpinați probleme cu această versiune, vă rugăm să le semnalați la `QGIS Bug Tracker <http://hub.qgis.org>`_."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:14
+#: ../../source/site/forusers/visualchangelog260/index.rst:16
 msgid ""
 "We would like to thank the developers, documenters, testers and all the many"
 " folks out there who volunteer their time and effort (or fund people to do "
 "so)."
 msgstr "Dorim să le mulțumim dezvoltatorilor, tester-ilor, autorilor documentațiilor și tuturor acelor persoane care, în mod voluntar, au consumat timp și efort (sau celor care au finanțat diverse persoane în acest scop)."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:18
+#: ../../source/site/forusers/visualchangelog260/index.rst:20
 msgid ""
 "From the QGIS community we hope you enjoy this release! If you wish to "
 "donate time, money or otherwise get involved in making QGIS more awesome, "
 "please wander along to `qgis.org <https://qgis.org>`_ and lend a hand!"
 msgstr "Din partea comunității QGIS, sperăm să vă bucurați de această versiune! Dacă doriți să contribuiți cu efort, bani, sau să vă implicați, într-un mod care ar putea îmbunătăți QGIS, vă rugăm să răsfoiți site-ul `qgis.org <https://qgis.org>`__ și să oferiți o mână de ajutor!"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:23
+#: ../../source/site/forusers/visualchangelog260/index.rst:25
 msgid ""
 "Finally we would like to thank our official sponsors for the invaluable "
 "financial support they provide to this project:"
 msgstr "În fine, am dori să mulțumim sponsorilor noștri oficiali pentru sprijinul financiar de neprețuit, pe care l-au oferit acestui proiect:"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:26
+#: ../../source/site/forusers/visualchangelog260/index.rst:28
 msgid "**GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"
 msgstr "**Sponsor de AUR: Asia Air Survey, Japonia** http://www.asiaairsurvey.com/"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:27
+#: ../../source/site/forusers/visualchangelog260/index.rst:29
 msgid ""
 "SILVER Sponsor: `Sourcepole AG, Switzerland <http://www.sourcepole.com/>`_"
 msgstr "Sponsor de ARGINT: `Sourcepole AG, Elveția <http://www.sourcepole.com/>`_"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:28
+#: ../../source/site/forusers/visualchangelog260/index.rst:30
 msgid ""
 "SILVER Sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_"
 msgstr "Sponsor de ARGINT: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:29
+#: ../../source/site/forusers/visualchangelog260/index.rst:31
 msgid ""
 "BRONZE Sponsor: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
 msgstr "Sponsor de BRONZ: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:30
+#: ../../source/site/forusers/visualchangelog260/index.rst:32
 msgid "BRONZE Sponsor: `www.molitec.it, Italy <http://www.molitec.it/>`_"
 msgstr "Sponsor de BRONZ: `www.molitec.it, Italia <http://www.molitec.it/>`_"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:31
+#: ../../source/site/forusers/visualchangelog260/index.rst:33
 msgid "BRONZE Sponsor: `www.argusoft.de, Germany <http://www.argusoft.de>`_"
 msgstr "Sponsor de BRONZ: `www.argusoft.de, Germania <http://www.argusoft.de>`_"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:32
+#: ../../source/site/forusers/visualchangelog260/index.rst:34
 msgid ""
 "BRONZE Sponsor: `www.openrunner.com, France <http://www.openrunner.com>`_"
 msgstr "Sponsor de BRONZ: `www.openrunner.com, Franța <http://www.openrunner.com>`_"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:33
+#: ../../source/site/forusers/visualchangelog260/index.rst:35
 msgid ""
 "BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "
 "<http://www.eschenlaub.de/>`_"
 msgstr "Sponsor de BRONZ: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germania <http://www.eschenlaub.de/>`_"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:35
+#: ../../source/site/forusers/visualchangelog260/index.rst:37
 msgid ""
 "A current list of donors who have made financial contributions large and "
 "small to the project can be seen on our `donors list "
@@ -104,7 +111,7 @@ msgid ""
 "maintain project infrastructure and fund bug fixing efforts."
 msgstr "Lista curentă a celor care au efectuat contribuții financiare mari și mici la proiect poate fi consultată `aici <https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`_. Dacă doriți să deviniți un sponsor oficial al proiectului, vă rugăm să vizitați `pagina sponsorizărilor noastre <https://qgis.org/en/site/about/sponsorship.html#sponsorship>`_ pentru detalii. Sponsorizarea QGIS ne ajută să finanțăm întâlnirea dezvoltatorilor o dată la șase luni, să menținem infrastructura proiectului și să finanțăm eforturile de eliminare a erorilor."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:44
+#: ../../source/site/forusers/visualchangelog260/index.rst:46
 msgid ""
 "If you enjoy using QGIS, please consider making a donation to support the "
 "project - either `financial "
@@ -117,7 +124,7 @@ msgid ""
 "the best possible releases."
 msgstr "Dacă vă place să folosiți QGIS, vă rugăm să luați în considerare efectuarea unei donații pentru a sprijini proiectul - fie `financiară <https://qgis.org/en/site/getinvolved/donations.html>`_ fie `sub formă de timp și de îndemânare <https://qgis.org/en/site/getinvolved/index.html>`_! În cele din urmă, dorim să vă încurajăm să finanțați o `campanie specială <http://blog.vitu.ch/10102014-1046/crowdfunding-initiative-automated-testing>`_ a unuia dintre dezvoltatorii QGIS, pentru a crea o suită de testare pentru QGIS, în așa fel încât să se poată îmbunătăți procesul de asigurare a calității și să se poată livra cele mai bune versiuni posibile."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:54
+#: ../../source/site/forusers/visualchangelog260/index.rst:56
 msgid ""
 "QGIS is Free software and you are under no obligation to pay anything to use"
 " it - in fact we want to encourage people far and wide to use it regardless "
@@ -126,165 +133,165 @@ msgid ""
 "of humanity."
 msgstr "QGIS este un soft gratuit iar dvs. nu aveți obligația de a plăti pentru folosirea lui - de fapt, vrem să încurajăm oamenii de oriunde să-l folosească, indiferent de starea financiară sau socială - având convingerea că, punerea la dispoziția utilizatorilor a posibilităților de decizie spațială, va duce la o societate mai bună pentru întreaga omenire."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:64
+#: ../../source/site/forusers/visualchangelog260/index.rst:66
 msgid "General"
 msgstr "Generalități"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:67
+#: ../../source/site/forusers/visualchangelog260/index.rst:69
 msgid "Feature: Project filename in properties"
 msgstr "Funcționalitate: Numele fișierului proiectului apare în Proprietăți"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:69
+#: ../../source/site/forusers/visualchangelog260/index.rst:71
 msgid ""
 "You can now see the full path for the QGIS project file in the project "
 "properties dialog."
 msgstr "De acum, se poate vedea calea completă pentru fișierul proiectului în fereastra de dialog a proprietăților proiectului."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:77
+#: ../../source/site/forusers/visualchangelog260/index.rst:79
 msgid ""
 "Feature: Allow removing last point while measuring via del/backspace keys"
 msgstr "Funcționalitate: Del/Backspace elimină ultimul punct dintr-o măsurătoare"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:79
+#: ../../source/site/forusers/visualchangelog260/index.rst:81
 msgid ""
 "Now when you are measuring areas and distances, you can remove unwanted "
 "vertices from your measurement line using the delete or backspace keys."
 msgstr "De acum, când măsurați suprafețele sau distanțele, puteți elimina nodurile nedorite de pe linia de măsurare folosind tastele Delete sau Backspace."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:87
+#: ../../source/site/forusers/visualchangelog260/index.rst:89
 msgid ""
 "Feature: select related feature on the canvas from the relation reference "
 "widget"
 msgstr "Funcționalitate: Selectarea entității corespondente de pe hartă prin intermediul widget-ului de relații"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:90
+#: ../../source/site/forusers/visualchangelog260/index.rst:92
 msgid "Feature: Editor widgets"
 msgstr "Funcționalitate: Widget-uri de editare"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:92
+#: ../../source/site/forusers/visualchangelog260/index.rst:94
 msgid "We have made a number of improvements to the editor widgets:"
 msgstr "S-au adus o serie de îmbunătățiri la widget-urile de editare:"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:94
+#: ../../source/site/forusers/visualchangelog260/index.rst:96
 msgid "new edit widget for date/time capable of setting null dates"
 msgstr "nou widget de editare pentru dată/oră, capabil să afișeze datele nule"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:95
+#: ../../source/site/forusers/visualchangelog260/index.rst:97
 msgid "filter line edit"
 msgstr "editarea liniei de filtru"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:96
+#: ../../source/site/forusers/visualchangelog260/index.rst:98
 msgid "Proper handling of NULL values for edit widgets"
 msgstr "Manipularea corespunzătoare a valorilor NULL de către widget-urile de editare"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:97
+#: ../../source/site/forusers/visualchangelog260/index.rst:99
 msgid "Photo widget preserves NULL value"
 msgstr "Widgetul foto păstrează valoarea NULL"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:98
+#: ../../source/site/forusers/visualchangelog260/index.rst:100
 msgid "Web widget preserves NULL value"
 msgstr "Widgetul web păstrează valoarea NULL"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:99
+#: ../../source/site/forusers/visualchangelog260/index.rst:101
 msgid "Attribute table can distinguish between 0 and NULL"
 msgstr "Tabelul de atribute poate distinge între 0 și NULL"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:100
+#: ../../source/site/forusers/visualchangelog260/index.rst:102
 msgid "Add suffix support for range widget"
 msgstr "Adăugare suport pentru sufix pentru widget-ul gamă"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:107
+#: ../../source/site/forusers/visualchangelog260/index.rst:109
 msgid "Feature: Optionally use just a subset of fields from the joined layer"
 msgstr "Funcționalitate: Folosiți în mod opțional doar un subset de câmpuri din stratul alăturat"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:109
+#: ../../source/site/forusers/visualchangelog260/index.rst:111
 msgid ""
 "You can now use just a subset of related fields when creating a vector join."
 msgstr "De acum, pentru crearea unei uniuni vectoriale, se poate utiliza doar un subset de câmpuri conexe."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:117
+#: ../../source/site/forusers/visualchangelog260/index.rst:119
 msgid "Feature: Expression field (virtual fields)"
 msgstr "Funcționalitate: Câmp de expresii (câmpuri virtuale)"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:119
+#: ../../source/site/forusers/visualchangelog260/index.rst:121
 msgid ""
 "Sometimes you want to have an attribute that is calculated and that is "
 "always 'fresh' - reflecting the current state of the feature properties. Now"
 " you can add virtual fields to your table which are based on an expression."
 msgstr "Uneori e nevoie de un atribut care să fie calculat și să fie mereu 'împroaspătat' - reflectând starea curentă a proprietăților entității. Acum puteți adăuga câmpuri virtuale, care să se bazeze pe o expresie, la tabela dvs. "
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:129
+#: ../../source/site/forusers/visualchangelog260/index.rst:131
 msgid "Feature: Actions can now have an associated icon"
 msgstr "Funcționalitate: De acum, acțiunile pot avea asociată o pictogramă"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:131
+#: ../../source/site/forusers/visualchangelog260/index.rst:133
 msgid ""
 "When creating a custom action for a vector layer, you can now define an icon"
 " to be used for the action too."
 msgstr "Când creați o acțiune personalizată pentru un strat vectorial, puteți defini acum o pictogramă care să fie utilizată, de asemenea, pentru acțiune."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:139
+#: ../../source/site/forusers/visualchangelog260/index.rst:141
 msgid "Feature: Additional expressions types and options"
 msgstr "Funcționalitate: Diverse opțiuni și tipuri de expresii suplimentare"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:141
+#: ../../source/site/forusers/visualchangelog260/index.rst:143
 msgid "Allow using ``+`` for string concatenation."
 msgstr "Permite utilizarea ``+`` pentru concatenarea șirurilor."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:142
+#: ../../source/site/forusers/visualchangelog260/index.rst:144
 msgid ""
 "New keyword: ``attribute( feature, attribute_name )`` - gets the specified "
 "attribute from a feature."
 msgstr "Nou cuvânt cheie: ``attribute( feature, attribute_name )`` - obține de la o entitate atributul specificat."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:144
+#: ../../source/site/forusers/visualchangelog260/index.rst:146
 msgid "New keyword: ``$currentfeature`` - returns the current feature."
 msgstr "Nou cuvânt cheie: ``$currentfeature`` - returnează entitatea curentă."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:145
+#: ../../source/site/forusers/visualchangelog260/index.rst:147
 msgid "New keyword: ``$atlasfeature`` - returns the atlas feature."
 msgstr "Nou cuvânt cheie: ``$atlasfeature`` - returnează entitatea atlas."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:146
+#: ../../source/site/forusers/visualchangelog260/index.rst:148
 msgid "New keyword: ``getFeature`` - gets a matching feature from a layer."
 msgstr "Nou cuvânt cheie: ``getFeature`` - obține entitatea respectivă dintr-un strat."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:153
+#: ../../source/site/forusers/visualchangelog260/index.rst:155
 msgid ""
 "Feature: Classes within graduated and categorised renderers can be toggled"
 msgstr "Funcționalitate: Se pot inversa clasele din cadrul renderelor clasificate pe grade și categorii"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:155
+#: ../../source/site/forusers/visualchangelog260/index.rst:157
 msgid ""
 "You can now choose to disable certain classes in graduated and categorised "
 "renderers without actually removing them."
 msgstr "De acum, puteți alege să dezactivați anumite clase din renderele organizate pe grade și categorii, fără a le elimina efectiv."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:163
+#: ../../source/site/forusers/visualchangelog260/index.rst:165
 msgid "Feature: Legend improvements"
 msgstr "Funcționalitate:  Îmbunătățiri aduse legendei"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:165
+#: ../../source/site/forusers/visualchangelog260/index.rst:167
 msgid ""
 "The second phase of the legend / table of contents overhaul has been "
 "completed. This includes:"
 msgstr "Cea de-a doua fază de revizuire a legendei / cuprinsului s-a finalizat. Aceasta include:"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:168
+#: ../../source/site/forusers/visualchangelog260/index.rst:170
 msgid "API cleanup (for developers)"
 msgstr "Curățare API (pentru dezvoltatori)"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:169
+#: ../../source/site/forusers/visualchangelog260/index.rst:171
 msgid ""
 "Visibility groups of map layers in layer tree. This new toolbar button "
 "allows quick changes between the groups of layers that should be visible."
 msgstr "Vizibilitatea grupurilor prezente în arborele straturilor. Acest nou buton al bării de instrumente permite modificarea rapidă a grupurilor de straturi care ar trebui să fie vizibile."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:172
+#: ../../source/site/forusers/visualchangelog260/index.rst:174
 msgid "Ability to manage layer groups from the legend toolbar"
 msgstr "Abilitatea de a gestiona grupurile cu straturi prin intermediul barei de instrumente a legendei"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:173
+#: ../../source/site/forusers/visualchangelog260/index.rst:175
 msgid ""
 "The new legend filter option on the legend toolbar will remove legend items "
 "for any classes which are not currently in the view extent. This is an "
@@ -293,250 +300,250 @@ msgid ""
 " map legend and in map composer and for WMS layers."
 msgstr "Noua opțiune de filtrare, din bara de instrumente a legendei, va elimina elementele legendei pentru orice clase care nu sunt prezente în suprafața vizualizată. Acesta este un avantaj major, deoarece garantează că legenda hărții nu conține intrări pentru elementele care nu sunt prezente, în mod curent, în harta vizualizată. Această opțiune este disponibilă pentru legenda hărții principale, în compozitor și pentru straturile WMS."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:179
+#: ../../source/site/forusers/visualchangelog260/index.rst:181
 msgid "Rule-based renderer legends can now be displayed in a pseudo-tree"
 msgstr "Legendele renderelor bazate pe reguli pot fi afișate într-un pseudo-arbore"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:186
+#: ../../source/site/forusers/visualchangelog260/index.rst:188
 msgid "Data Providers"
 msgstr "Furnizorii de date"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:189
+#: ../../source/site/forusers/visualchangelog260/index.rst:191
 msgid "Feature: DXF export improvements"
 msgstr "Funcționalitate:  Îmbunătățiri aduse exportului DXF"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:191
+#: ../../source/site/forusers/visualchangelog260/index.rst:193
 msgid "tree view and attribute selection for layer assigment in dialog"
 msgstr "vedere de tip arbore și selecție atribut pentru atribuirea stratului în fereastra de dialog"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:192
+#: ../../source/site/forusers/visualchangelog260/index.rst:194
 msgid "support fill polygons/HATCH"
 msgstr "posibilitate de umplere a poliguanelor/HAȘURĂ"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:193
+#: ../../source/site/forusers/visualchangelog260/index.rst:195
 msgid ""
 "represent texts as MTEXT instead of TEXT (including font, slant and weight)"
 msgstr "reprezentarea textelor ca MTEXT în loc de TEXT (incluzând tipul, înclinația și grosimea fontului)"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:195
+#: ../../source/site/forusers/visualchangelog260/index.rst:197
 msgid "support for RGB colors when there's no exact color match"
 msgstr "suport pentru culori RGB, atunci când nu există nici o corespondență exactă de culoare"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:196
+#: ../../source/site/forusers/visualchangelog260/index.rst:198
 msgid "use AutoCAD 2000 DXF (R15) instead of R12"
 msgstr "se folosește AutoCAD 2000 DXF (R15) în loc de R12"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:197
+#: ../../source/site/forusers/visualchangelog260/index.rst:199
 msgid "remove R18 test methods"
 msgstr "eliminarea metodelor de testare R18"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:204
+#: ../../source/site/forusers/visualchangelog260/index.rst:206
 msgid "Map Composer"
 msgstr "Compozitorul de Hărți"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:207
+#: ../../source/site/forusers/visualchangelog260/index.rst:209
 msgid "Feature: Control over hiding print composer items from prints/exports"
 msgstr "Funcționalitate: Controlul asupra ascunderii elementelor hărții din compozitor"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:209
+#: ../../source/site/forusers/visualchangelog260/index.rst:211
 msgid ""
 "We have added a checkbox and data defined button for controlling whether an "
 "item is excluded from composer exports/printouts. If the item is unchecked "
 "it will be visible at composition design time only."
 msgstr "S-a adăugat o casetă de bifare și un buton definit cu ajutorul datelor, pentru specificarea elementelor care vor fi excluse hărțile compozitorului. Dacă elementul nu este bifat, el va fi vizibil doar la momenul creării compoziției."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:218
+#: ../../source/site/forusers/visualchangelog260/index.rst:220
 msgid "Feature: Control over page printing for empty composer frames"
 msgstr "Funcționalitate: Control asupra tipăririi paginilor pentru cadrele albe ale compozitorului"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:220
+#: ../../source/site/forusers/visualchangelog260/index.rst:222
 msgid ""
 "For table or HTML frames, a checkbox now controls whether the containing "
 "page should be exported when the frame is empty."
 msgstr "Pentru tabelele sau cadrele HTML, o casetă de bifare specifică dacă se va exporta conținutul paginii atunci când cadrul este gol."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:228
+#: ../../source/site/forusers/visualchangelog260/index.rst:230
 msgid "Feature: Item tree panel"
 msgstr "Funcționalitate: Panoul arborelui cu elemente"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:230
+#: ../../source/site/forusers/visualchangelog260/index.rst:232
 msgid ""
 "The item tree panel in the map composer allows for selection of items, "
 "hiding/showing items, toggling lock status of items and double-clicking to "
 "edit item id. You can also use drag and drop to reorder items."
 msgstr "Panoul arborelui cu elemente, din compozitorul de hărți, permite selecția elementelor, ascunderea/afișarea acestora, inversarea stării de blocare a elementelor precum și editarea id-ului  elementului prin efectuarea unui dublu-click pe acesta. Puteți utiliza, de asemenea, drag and drop pentru a reordona elementele."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:239
+#: ../../source/site/forusers/visualchangelog260/index.rst:241
 msgid "Feature: More control over appearance of composer arrow/line items"
 msgstr "Funcționalitate: Mai mult control asupra aspectului săgeților/liniilor din compozitor"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:241
+#: ../../source/site/forusers/visualchangelog260/index.rst:243
 msgid "Lines can be styled using line symbol style dialog"
 msgstr "Liniile pot fi stilizate folosindu-se dialogul de stilizare a simbolurilor pentru linii"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:242
+#: ../../source/site/forusers/visualchangelog260/index.rst:244
 msgid "Arrow head fill and outline colors can be user defined"
 msgstr "Utilizatorul poate defini culorile de umplere ale vârfului și a conturului săgeților"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:243
+#: ../../source/site/forusers/visualchangelog260/index.rst:245
 msgid "Arrow head outline width can be user defined"
 msgstr "Utilizatorul poate defini dimensiunea conturului săgeților"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:250
+#: ../../source/site/forusers/visualchangelog260/index.rst:252
 msgid "Feature: Data defined control of composer items"
 msgstr "Funcționalitate: Control definit cu ajutorul datelor, pentru elementele compozitorului"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:252
+#: ../../source/site/forusers/visualchangelog260/index.rst:254
 msgid ""
 "Many properties of composer items can now be controlled using data binding. "
 "These include:"
 msgstr "Multe proprietăți ale elementelor compozitorului pot fi de acum controlate cu ajutorul datelor. Printre acestea sunt incluse:"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:255
+#: ../../source/site/forusers/visualchangelog260/index.rst:257
 msgid "Transparency and blend mode."
 msgstr "Transparența și modul interacțiunii pixelillor."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:256
+#: ../../source/site/forusers/visualchangelog260/index.rst:258
 msgid "Item rotation."
 msgstr "Rotaţia elementului."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:257
+#: ../../source/site/forusers/visualchangelog260/index.rst:259
 msgid "Map scale, extents and rotation."
 msgstr "Scara, limitele și rotația hărții."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:258
+#: ../../source/site/forusers/visualchangelog260/index.rst:260
 msgid "Atlas feature margin."
 msgstr "Geometria marginii atlasului."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:259
+#: ../../source/site/forusers/visualchangelog260/index.rst:261
 msgid "Item size and position."
 msgstr "Poziția și mărimea elementului."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:260
+#: ../../source/site/forusers/visualchangelog260/index.rst:262
 msgid "Page size, orientation and number of pages."
 msgstr "Dimensiunea paginii, orientarea și numărul paginilor."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:267
+#: ../../source/site/forusers/visualchangelog260/index.rst:269
 msgid "Feature: Composer images can be specifed as remote URLS"
 msgstr "Funcționalitate: Imaginile compozitorului se pot afla la distanță, fiind specificate ca URL-uri"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:269
+#: ../../source/site/forusers/visualchangelog260/index.rst:271
 msgid ""
 "Picture items in the map composer now support remote urls as a picture "
 "source. This source can also be data defined."
 msgstr "De acum, elementele de tip imagine din compozitorul de hărți, acceptă URL-uri de la distanță ca sursă pentru imagini. Această sursă poate fi, de asemenea, definită cu ajutorul datelor."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:277
+#: ../../source/site/forusers/visualchangelog260/index.rst:279
 msgid "Feature: Composer Table improvements"
 msgstr "Funcționalitate: Îmbunătățiri aduse tabelelor din Compozitor"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:279
+#: ../../source/site/forusers/visualchangelog260/index.rst:281
 msgid "You can now set table header and content font colors."
 msgstr "De acum, se pot seta antetul tabelului și culorile fontului conținutului."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:280
+#: ../../source/site/forusers/visualchangelog260/index.rst:282
 msgid ""
 "Tables can now be split across multiple frames, allowing their content to be"
 " distributed over columns or over different pages."
 msgstr "Tabelele pot fi împărțite de-a lungul mai multor cadre, permițând conținutului lor să fie distribuit pe coloane sau pe diferite pagini."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:282
+#: ../../source/site/forusers/visualchangelog260/index.rst:284
 msgid "Added option show headers on first frame, all frames, or no frames."
 msgstr "S-a adăugat opțiunea de a se afișa anteturile în primul cadru, în toate cadrele, sau fără cadre."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:283
+#: ../../source/site/forusers/visualchangelog260/index.rst:285
 msgid "Allow manual control of column widths."
 msgstr "Se permite controlul manual al lățimii coloanelor."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:284
+#: ../../source/site/forusers/visualchangelog260/index.rst:286
 msgid ""
 "New options for table source, including current atlas feature and child "
 "features from a relation."
 msgstr "Noi opțiuni pentru sursa tabelelor, inclusiv pentru atlas și pentru entitățile copil dintr-o relație."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:286
+#: ../../source/site/forusers/visualchangelog260/index.rst:288
 msgid ""
 "Choice of behaviour for empty tables, include hiding the entire table, "
 "showing empty cells, or displaying a set message in the table body."
 msgstr "Stabilirea comportamentului tabelelor goale, incluzând ascunderea întregului tabel, afișarea celulelor goale, sau afișarea unui set de mesaje în interiorul tabelului."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:289
+#: ../../source/site/forusers/visualchangelog260/index.rst:291
 msgid ""
 "Added a checkbox to filter table features to those which intersect the "
 "current atlas feature."
 msgstr "Adăugarea unei o casete de bifare pentru a filtra acelor entități din tabel care intersectează atlasul curent."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:291
+#: ../../source/site/forusers/visualchangelog260/index.rst:293
 msgid "Added checkbox to remove duplicate rows from table."
 msgstr "S-a adăugat o casetă de bifare pentru eliminarea rândurilor duplicate dintr-o tabelă."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:293
+#: ../../source/site/forusers/visualchangelog260/index.rst:295
 msgid ""
 "Note that tables in existing projects are not automatically updated to the "
 "new table format which supports these features, and tables must be readded "
 "to a composition for the new settings to appear."
 msgstr "Rețineți că tabelele din proiectele existente nu sunt actualizate automat la noul format de tabel care acceptă aceste caracteristici, de aceea tabelele trebuie să fie reinserate într-o compoziție pentru a vedea noile setări."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:302
+#: ../../source/site/forusers/visualchangelog260/index.rst:304
 msgid "Feature: Composer improvements"
 msgstr "Funcționalitate: Îmbunătățiri generale aduse compozitorului"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:304
+#: ../../source/site/forusers/visualchangelog260/index.rst:306
 msgid ""
 "The map composer (used to prepare printable map compositions) has received a"
 " number of improvements in QGIS 2.6."
 msgstr "Compozitorului de hărți (utilizat pentru a crea hărți imprimabile) i s-au adus o serie de îmbunătățiri în QGIS 2.6."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:307
+#: ../../source/site/forusers/visualchangelog260/index.rst:309
 msgid "You can now change the secondary fill color for scalebars"
 msgstr "De acum, se poate schimba culoarea de umplere secundară pentru scările grafice"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:308
+#: ../../source/site/forusers/visualchangelog260/index.rst:310
 msgid ""
 "Holding shift while drawing line/arrow items constrains drawing to "
 "horizontal, vertical or 45 degree angles"
 msgstr "Ținându-se apăsată tasta SHIFT în timp ce se desenează elementele de tip linie/săgeată, constrânge desenarea lor orizontală, verticală sau la un unghi de 45 grade"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:310
+#: ../../source/site/forusers/visualchangelog260/index.rst:312
 msgid ""
 "Holding shift while drawing other new items constrains them to squares, "
 "holding alt causes item to be drawn from the center"
 msgstr "Ținându-se apăsată tasta SHIFT, în timp ce se desenează alte noi elemente, vor rezulta pătrate, iar reținându-se ALT ele vor fi desenate dinspre centru"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:312
+#: ../../source/site/forusers/visualchangelog260/index.rst:314
 msgid ""
 "Right click no longer locks/unlocks items, this is now handled by the new "
 "items panel. Locked items can no longer be selected from the composer "
 "canvas, allowing for interaction with items below them."
 msgstr "Clic dreapta nu mai blochează/deblochează elementele, acest lucru fiind gestionat acum de către noul panou de elemente. Articolele blocate nu mai pot fi selectate din canevasul compozitorului, permițându-se interacțiunea cu elementele de sub ele."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:315
+#: ../../source/site/forusers/visualchangelog260/index.rst:317
 msgid ""
 "Holding alt while pressing cursor keys results in a 1px movement for items"
 msgstr "Reținându-se ALT, în timp ce se apasă tastele cursorului, rezultă o deplasare a elementelor cu 1px"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:317
+#: ../../source/site/forusers/visualchangelog260/index.rst:319
 msgid ""
 "Removed the destructive 'Load from template' menu item, replace with a new "
 "non-destructive 'Add items from template' action"
 msgstr "S-a eliminat elementul de meniu distructiv 'Încărcare din șablon', fiind înlocuit cu o nouă acțiune non-distructivă 'Adăugare articole din șablon'"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:325
+#: ../../source/site/forusers/visualchangelog260/index.rst:327
 msgid "Feature: Improved item snapping"
 msgstr "Funcționalitate: Acroșaj îmbunătățit al elementelor"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:327
+#: ../../source/site/forusers/visualchangelog260/index.rst:329
 msgid ""
 "Snapping thresholds are now set in pixels, allowing for finer movement and "
 "resizing of items when zoomed in to a composition. Items within a group are "
 "no longer used for auto snap lines."
 msgstr "Pragul de acroșare este de acum stabilit în pixeli, pentru a permite o mișcare și o redimensionare mai fină a elementelor, atunci când o compoziție este mărită. Elementele din cadrul unui grup nu mai sunt folosite pentru liniile cu auto-acroșare."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:336
+#: ../../source/site/forusers/visualchangelog260/index.rst:338
 msgid "Feature: Multiple overviews for a map item"
 msgstr "Funcționalitate: Multiple vederi de ansamblu pentru o hartă"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:338
+#: ../../source/site/forusers/visualchangelog260/index.rst:340
 msgid ""
 "Sometimes it is useful to be able to show more than one overview frame for a"
 " map frame. For example if you want to show where your map is in local, "
@@ -545,99 +552,99 @@ msgid ""
 "maps as you like to the 'overview' role in your composition."
 msgstr "Uneori este util să puteți afișa mai mult de o vedere ansamblu în cadrul unei hărți. De exemplu, dacă doriți să prezentați harta în context local, regional și global, folosind mai multe vederi de ansamblu, puteți realiza acest lucru. O dată cu versiunea 2.6 a QGIS se poate realiza acest lucru, prin atribuirea câtor mai multor hărți rolul de 'vedere de ansamblu', în cadrul compoziției dvs."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:350
+#: ../../source/site/forusers/visualchangelog260/index.rst:352
 msgid "Feature: HTML item improvements"
 msgstr "Funcționalitate:  Îmbunătățiri pentru codul HTML din elemente"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:352
+#: ../../source/site/forusers/visualchangelog260/index.rst:354
 msgid "There are a number of useful new options for the HTML composer item:"
 msgstr "Există o serie de noi opțiuni utile pentru elementele HTML din compozitor:"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:354
+#: ../../source/site/forusers/visualchangelog260/index.rst:356
 msgid "Option for manual entry of HTML source"
 msgstr "Posibilitatea de specificare manuală a sursei HTML"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:355
+#: ../../source/site/forusers/visualchangelog260/index.rst:357
 msgid ""
 "QGIS expressions within HTML source can be evaluated prior to rendering HTML"
 " content"
 msgstr "Expresiile QGIS din interiorul sursei HTML pot fi evaluate înainte de randarea conținutului HTML"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:357
+#: ../../source/site/forusers/visualchangelog260/index.rst:359
 msgid "Data defined URL for HTML source"
 msgstr "Definire cu ajutorul datelor pentru URL-ul sursei HTML"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:358
+#: ../../source/site/forusers/visualchangelog260/index.rst:360
 msgid "Allow for creating a user stylesheet to override HTML styles"
 msgstr "Posibilitate de a crea un stil propriu, care să suprascrie stilurile HTML"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:365
+#: ../../source/site/forusers/visualchangelog260/index.rst:367
 msgid "Feature: Composer map grid improvements"
 msgstr "Funcționalitate: Îmbunătățiri aduse grilei hărții din compozitor"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:367
+#: ../../source/site/forusers/visualchangelog260/index.rst:369
 msgid "You can now have multiple grids with different properties."
 msgstr "De acum, puteți avea mai multe grile cu proprietăți diferite."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:368
+#: ../../source/site/forusers/visualchangelog260/index.rst:370
 msgid "You can mix reprojected grids and Lat/Long grids."
 msgstr "Puteți mixa grilele reproiectate cu cele Lat/Long."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:369
+#: ../../source/site/forusers/visualchangelog260/index.rst:371
 msgid "You can use standard QGIS symbology grid lines etc."
 msgstr "Se poate utiliza simbologia QGIS standard pentru linii, grile etc."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:370
+#: ../../source/site/forusers/visualchangelog260/index.rst:372
 msgid ""
 "There is a new frame/annotations only grid style. Selecting this style "
 "causes only the frame and annotations to be drawn, with no grid lines or "
 "other markings over the map."
 msgstr "Există noi cadre/adnotări numai de stil grilă. Selectând acest stil, se vor desena doar cadrul și adnotările, fără linii de grilă sau alte marcaje peste hartă."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:373
+#: ../../source/site/forusers/visualchangelog260/index.rst:375
 msgid ""
 "There are now options for controlling which side of a map item the frame is "
 "drawn on."
 msgstr "Există de acum opțiuni pentru controlul părții unei hărți pe care este desenat un cadru."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:375
+#: ../../source/site/forusers/visualchangelog260/index.rst:377
 msgid ""
 "There are new tick styles for frames, with inner ticks, outer ticks and both"
 " inner and outer tick options."
 msgstr "Există noi stiluri pentru cadre, cu opțiuni pentru caneluri interne, externe, sau ambele."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:377
+#: ../../source/site/forusers/visualchangelog260/index.rst:379
 msgid ""
 "We have made improvements to grid annotations, including many new formats "
 "for annotations."
 msgstr "S-au adus îmbunătățiri la adnotările grilelor, inclusiv mai multe formate noi pentru adnotări."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:379
+#: ../../source/site/forusers/visualchangelog260/index.rst:381
 msgid ""
 "Grid annotations now use the typographically correct prime and double prime "
 "symbols for grid annotations."
 msgstr "Adnotările grilelor folosesc de acum simboluri tipografice prime și duble, corecte."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:387
+#: ../../source/site/forusers/visualchangelog260/index.rst:389
 msgid "Processing"
 msgstr "Processing"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:390
+#: ../../source/site/forusers/visualchangelog260/index.rst:392
 msgid "Feature: On-line collection of models and scripts"
 msgstr "Funcționalitate: Colecție de modele și script-uri on-line"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:392
+#: ../../source/site/forusers/visualchangelog260/index.rst:394
 msgid ""
 "Models and scripts can be downloaded from the online collection and "
 "installed directly from the Processing interface. The collection will be "
 "expanded with new scripts and models provided by Processing users."
 msgstr "Modelele și script-urile pot fi descărcate și instalate din colecțiile online, direct din interfața de procesare. Colecția va fi extinsă cu noi script-uri și modele oferite de utilizatorii Processing."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:401
+#: ../../source/site/forusers/visualchangelog260/index.rst:403
 msgid "Feature: New modeler implementation"
 msgstr "Funcționalitate: Implementarea unui modelator nou"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:403
+#: ../../source/site/forusers/visualchangelog260/index.rst:405
 msgid ""
 "The modeler has been rewritten, and now provides extra functionality such as"
 " allowing nested models with no depth limit. Models are now stored as JSON "
@@ -646,282 +653,282 @@ msgid ""
 "modeler graph."
 msgstr "Modelatorul a fost rescris, iar acum oferă funcționalități suplimentare, cum ar fi acceptarea modelelor fără nici o limită de adâncime. Modelele sunt acum stocate ca fișiere JSON. Compatibilitatea este păstrată, astfel încât toate modelele pot fi folosite în continuare. De asemenea, puteți de acum să glisați și să fixați elementele din intrări și algoritmii pe modelatorul grafic."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:414
+#: ../../source/site/forusers/visualchangelog260/index.rst:416
 msgid "Programmability"
 msgstr "Programabilitate"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:417
+#: ../../source/site/forusers/visualchangelog260/index.rst:419
 msgid "Feature: API changes for QGIS widgets"
 msgstr "Funcționalitate: Schimbări API pentru widget-urile QGIS "
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:419
+#: ../../source/site/forusers/visualchangelog260/index.rst:421
 msgid ""
 "In order to normalise the naming of QGIS widgets, some minor API changes "
 "have been made. Almost all edit widgets were renamed by adding \"Wrapper\" "
 "at the end of their names. In particular this concerns:"
 msgstr "În scopul normalizării denumirii widget-urilor QGIS, s-au efectuat unele modificări minore de API. Aproape toate widget-urile de editare au fost redenumite, prin adăugarea sufixului \"Wrapper\". În special, este vorba de:"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:423
+#: ../../source/site/forusers/visualchangelog260/index.rst:425
 msgid "QgsCheckboxWidget -> QgsCheckboxWidgetWrapper"
 msgstr "QgsCheckboxWidget -> QgsCheckboxWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:424
+#: ../../source/site/forusers/visualchangelog260/index.rst:426
 msgid "QgsClassificationWidget -> QgsClassificationWidgetWrapper"
 msgstr "QgsClassificationWidget -> QgsClassificationWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:425
+#: ../../source/site/forusers/visualchangelog260/index.rst:427
 msgid "QgsColorWidget -> QgsColorWidgetWrapper"
 msgstr "QgsColorWidget -> QgsColorWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:426
+#: ../../source/site/forusers/visualchangelog260/index.rst:428
 msgid "QgsEnumerationWidget -> QgsEnumerationWidgetWrapper"
 msgstr "QgsEnumerationWidget -> QgsEnumerationWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:427
+#: ../../source/site/forusers/visualchangelog260/index.rst:429
 msgid "QgsFilenameWidget -> QgsFilenameWidgetWrapper"
 msgstr "QgsFilenameWidget -> QgsFilenameWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:428
+#: ../../source/site/forusers/visualchangelog260/index.rst:430
 msgid "QgsHiddenWidget -> QgsHiddenWidgetWrapper"
 msgstr "QgsHiddenWidget -> QgsHiddenWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:429
+#: ../../source/site/forusers/visualchangelog260/index.rst:431
 msgid "QgsPhotoWidget -> QgsPhotoWidgetWrapper"
 msgstr "QgsPhotoWidget -> QgsPhotoWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:430
+#: ../../source/site/forusers/visualchangelog260/index.rst:432
 msgid "QgsRangeWidget -> QgsRangeWidgetWrapper"
 msgstr "QgsRangeWidget -> QgsRangeWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:431
+#: ../../source/site/forusers/visualchangelog260/index.rst:433
 msgid "QgsTexteditWidget -> QgsTexteditWrapper"
 msgstr "QgsTexteditWidget -> QgsTexteditWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:432
+#: ../../source/site/forusers/visualchangelog260/index.rst:434
 msgid "QgsUniquevalueWidget -> QgsUniquevalueWidgetWrapper"
 msgstr "QgsUniquevalueWidget -> QgsUniquevalueWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:433
+#: ../../source/site/forusers/visualchangelog260/index.rst:435
 msgid "QgsUuidWidget -> QgsUuidWidgetWrapper"
 msgstr "QgsUuidWidget -> QgsUuidWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:434
+#: ../../source/site/forusers/visualchangelog260/index.rst:436
 msgid "QgsValuemapWidget -> QgsValuemapWidgetWrapper"
 msgstr "QgsValuemapWidget -> QgsValuemapWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:435
+#: ../../source/site/forusers/visualchangelog260/index.rst:437
 msgid "QgsValuerelationWidget -> QgsValuerelationWidgetWrapper"
 msgstr "QgsValuerelationWidget -> QgsValuerelationWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:436
+#: ../../source/site/forusers/visualchangelog260/index.rst:438
 msgid "QgsWebviewWidget -> QgsWebviewWidgetWrapper"
 msgstr "QgsWebviewWidget -> QgsWebviewWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:439
+#: ../../source/site/forusers/visualchangelog260/index.rst:441
 msgid "QGIS Server"
 msgstr "Serverul QGIS"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:442
+#: ../../source/site/forusers/visualchangelog260/index.rst:444
 msgid "Feature: Enhancements of searching with GetFeatureInfo request"
 msgstr "Funcționalitate: Îmbunătățiri ale căutării care utilizează cereri GetFeatureInfo"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:444
+#: ../../source/site/forusers/visualchangelog260/index.rst:446
 msgid ""
 "https://github.com/qgis/QGIS/commit/8888c5f0c0e0ffdf23453a20addf6abaf125845d"
 msgstr "https://github.com/qgis/QGIS/commit/8888c5f0c0e0ffdf23453a20addf6abaf125845d"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:447
+#: ../../source/site/forusers/visualchangelog260/index.rst:449
 msgid ""
 "Feature: Add a precision setting for GetFeatureInfo geometry attributes"
 msgstr "Funcționalitate: S-a adăugat o setare de precizie pentru atributele geometriei GetFeatureInfo"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:450
+#: ../../source/site/forusers/visualchangelog260/index.rst:452
 msgid "Symbology"
 msgstr "Simbologia"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:453
+#: ../../source/site/forusers/visualchangelog260/index.rst:455
 msgid "Feature: Better random colour choice"
 msgstr "Funcționalitate: Generare mai bună a culorilor aleatorii"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:455
+#: ../../source/site/forusers/visualchangelog260/index.rst:457
 msgid ""
 "We have improved the random colour algorithm for classified renderer so that"
 " the colours generated are more visually distinct from each other."
 msgstr "S-a îmbunătățit algoritmul de generare a culorilor aleatorii pentru randarea clasificată, astfel încât culorile sunt vizibil mai diferite între ele."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:463
+#: ../../source/site/forusers/visualchangelog260/index.rst:465
 msgid "Feature: Symbology user interface improvements"
 msgstr "Funcționalitate: Îmbunătățiri aduse interfeței cu utilizatorul"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:465
+#: ../../source/site/forusers/visualchangelog260/index.rst:467
 msgid ""
 "Where possible, properties of symbol layer are maintained when changing "
 "symbol layer type."
 msgstr "Acolo unde este posibil, proprietățile stratului simbolului sunt menținute la schimbarea tipului de strat."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:467
+#: ../../source/site/forusers/visualchangelog260/index.rst:469
 msgid "Added an edit button for shapeburst and gradient color ramps."
 msgstr "S-a adăugat un buton de editare pentru umplere de tip shapeburst și cu gradienți."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:468
+#: ../../source/site/forusers/visualchangelog260/index.rst:470
 msgid "Automatic update of label and neighboring ranges boundaries."
 msgstr "Actualizarea automată a etichetelor și a intervalelor de vecinătate."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:469
+#: ../../source/site/forusers/visualchangelog260/index.rst:471
 msgid ""
 "Classes are automatically converted from categorised and graduated classes "
 "when switching to rule based renderer."
 msgstr "Clasele sunt convertite automat începând de la clasele organizate pe categorii și pe grade, atunci când se trece la renderul bazat pe reguli."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:471
+#: ../../source/site/forusers/visualchangelog260/index.rst:473
 msgid "Added units and number of decimal places to graduated renderer labels."
 msgstr "S-au adăugat unități și numere cu zecimale la etichetele renderului gradual."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:473
+#: ../../source/site/forusers/visualchangelog260/index.rst:475
 msgid ""
 "Improved responsiveness to changes in color ramp, inverted colour ramp, and "
 "other options in GUI."
 msgstr "Reacție îmbunătățită la schimbările gamei de culori, la inversarea ei și la alte opțiuni din GUI."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:475
+#: ../../source/site/forusers/visualchangelog260/index.rst:477
 msgid ""
 "Retain symbol when switching between simple, graduated, categorized, and "
 "other renderers."
 msgstr "Se păstrează simbolul la comutarea între renderele simple, graduale, pe categorii, și altele."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:477
+#: ../../source/site/forusers/visualchangelog260/index.rst:479
 msgid "Improved labelling of StdDev calculation mode."
 msgstr "Etichetare îmbunătățită a modului de calcul StdDev."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:484
+#: ../../source/site/forusers/visualchangelog260/index.rst:486
 msgid "User Interface"
 msgstr "Interfața cu utilizatorul"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:487
+#: ../../source/site/forusers/visualchangelog260/index.rst:489
 msgid "Feature: Syntax highlighting code editor"
 msgstr "Funcționalitate: Evidențierea sintaxei din editorul de cod"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:489
+#: ../../source/site/forusers/visualchangelog260/index.rst:491
 msgid ""
 "For python script editors, expression builder, filter window, composer HTML "
 "and CSS editors"
 msgstr "Pentru editoarele de script-uri python, constructorul de expresii, fereastra filtrului, compozitorul HTML și editoarele CSS"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:497
+#: ../../source/site/forusers/visualchangelog260/index.rst:499
 msgid "Feature: Color palettes"
 msgstr "Funcționalitate: Palete de culori"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:499
+#: ../../source/site/forusers/visualchangelog260/index.rst:501
 msgid "You can now define your own custom color palettes for use in QGIS."
 msgstr "Puteți defini de acum propriile palete de culori, pentru utilizarea în QGIS."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:501
+#: ../../source/site/forusers/visualchangelog260/index.rst:503
 msgid "Custom user global color palette (in options dialog)."
 msgstr "Posibilitate de personalizare a paletei de culori globale (în opțiunile ferestrei de dialog)."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:502
+#: ../../source/site/forusers/visualchangelog260/index.rst:504
 msgid "Per project color palette (in project properties dialog)."
 msgstr "Paletă de culori per proiect (în fereastra de dialog a proprietăților proiectului)."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:503
+#: ../../source/site/forusers/visualchangelog260/index.rst:505
 msgid "Colors are shown in color button menus and new color picker dialog."
 msgstr "Culorile sunt afișate sub formă de meniuri cu butoane colorate și în noua fereastră de dialog a selectorului de culoare."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:504
+#: ../../source/site/forusers/visualchangelog260/index.rst:506
 msgid "You can import/export colors to a GPL palette file."
 msgstr "Puteți importa/exporta culorile într-un fișier GPL, de tip paletă."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:511
+#: ../../source/site/forusers/visualchangelog260/index.rst:513
 msgid "Feature: New color picker dialog"
 msgstr "Funcționalitate: Noul dialog al selectorului de culoare"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:528
+#: ../../source/site/forusers/visualchangelog260/index.rst:530
 msgid "There is a new custom QGIS color picker dialog. Features include:"
 msgstr "Există un nou dialog personalizat de selectare a culorii în QGIS. Caracteristicile acestuia includ:"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:514
+#: ../../source/site/forusers/visualchangelog260/index.rst:516
 msgid "Sliders for hue, saturation, value, red, green, blue color components."
 msgstr "Butoane glisante pentru nuanță, saturație, valoare, culorile roșu, verde și albastru."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:516
+#: ../../source/site/forusers/visualchangelog260/index.rst:518
 msgid "Alpha slider."
 msgstr "Buton glisant pentru transparență."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:517
+#: ../../source/site/forusers/visualchangelog260/index.rst:519
 msgid "Option to copy/paste html color codes (in a variety of formats)."
 msgstr "Opțiune de copiere/lipire coduri de culoare html (în diverse formate)."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:518
+#: ../../source/site/forusers/visualchangelog260/index.rst:520
 msgid "Before/after color preview, with alpha preview."
 msgstr "Previzualizare culoare înainte/după, cu previzualizare transparență."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:519
+#: ../../source/site/forusers/visualchangelog260/index.rst:521
 msgid "Interactive 2D color ramp widget."
 msgstr "Widget interactiv, 2D, pentru rampa de culoare."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:520
+#: ../../source/site/forusers/visualchangelog260/index.rst:522
 msgid "Hue wheel/triangle widget."
 msgstr "Widget rotund/triunghiular pentru nuanță."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:521
+#: ../../source/site/forusers/visualchangelog260/index.rst:523
 msgid ""
 "Editable color palettes, including the ability to create new palettes and "
 "import/export colors to a GPL palette file."
 msgstr "S-au introdus palete de culori editabile, inclusiv abilitatea de a crea noi palete, și importul/exportul culorilor către un fișier GPL, de tip paletă."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:523
+#: ../../source/site/forusers/visualchangelog260/index.rst:525
 msgid ""
 "Live color sampler with option to sample over a set radius (OS support "
 "dependant)."
 msgstr "Selectare a culorii în timp real, cu posibilitate de probare pe o rază presetată (în funcție de SO)."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:525
+#: ../../source/site/forusers/visualchangelog260/index.rst:527
 msgid ""
 "Supports interaction with other apps via drag and drop of colors (OS support"
 " dependant)."
 msgstr "Suport pentru interacțiunea cu alte aplicații prin intermediul drag and drop pentru culori (în funcție de SO)."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:527
+#: ../../source/site/forusers/visualchangelog260/index.rst:529
 msgid "Option to disable the dialog and use the native picker dialog instead."
 msgstr "Opțiunea de a dezactiva fereastra de dialog și de a se folosi fereastra de selectare nativă."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:535
+#: ../../source/site/forusers/visualchangelog260/index.rst:537
 msgid "Feature: Single select feature tool merged into select by rectangle"
 msgstr "Funcționalitate: Instrumentul de selecție a unei entități singulare a fuzionat cu selectarea după un dreptunghi"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:537
+#: ../../source/site/forusers/visualchangelog260/index.rst:539
 msgid ""
 "We have merged the single selection tool into the rectangle tool. If you "
 "want to select a single feature, simply enable the rectangle tool and then "
 "single click (rather than dragging a rectangle) a feature."
 msgstr "Instrumentul de selecție singulară s-a îmbinat cu instrumentul de selecție dreptunghiulară. Dacă se dorește selectarea unui singur element, pur și simplu se activează instrumentul dreptunghiular și apoi se efectuează un singur clic pe entitate (în locul trasării unui dreptunghi)."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:546
+#: ../../source/site/forusers/visualchangelog260/index.rst:548
 msgid "Feature: Add layer to map canvas behaviour"
 msgstr "Funcționalitate: Comportamentul comenzii de adăugare a unui strat la canevas"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:548
+#: ../../source/site/forusers/visualchangelog260/index.rst:550
 msgid ""
 "In many of QGIS' dialogs that generate a new layer, the 'Add layer to map "
 "canvas' checkbox is now checked by default so that the new layer "
 "automatically gets added to the map."
 msgstr "De acum, în multe dintre dialogurile QGIS care generează un nou strat, caseta 'Adăugare strat la canevasul hărții' este bifată în mod implicit, astfel încât stratul nou va fi adăugat la hartă în mod automat."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:557
+#: ../../source/site/forusers/visualchangelog260/index.rst:559
 msgid "Feature: Add icon size 48 and 64"
 msgstr "Funcționalitate: S-au adăugat pictograme cu mărimi de 48 și 64"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:559
+#: ../../source/site/forusers/visualchangelog260/index.rst:561
 msgid ""
 "For those using QGIS on touch devices (or if you just like big, chunky "
 "icons), you can now set the icons up to 64 x 64 pixels in size."
 msgstr "Pentru cei care folosesc QGIS pe dispozitivele cu exran tactil (sau cărora le plac pictogramele mari), de acum se pot seta pictogramele de până la 64 x 64 pixeli."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:567
+#: ../../source/site/forusers/visualchangelog260/index.rst:569
 msgid "Feature: New colour buttons"
 msgstr "Funcționalitate: Butoane cu noi culori"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:569
+#: ../../source/site/forusers/visualchangelog260/index.rst:571
 msgid ""
 "This is probably one of the most useful new features in QGIS 2.6 - "
 "especially if you are involved a lot in cartography work. The colour button "
@@ -931,11 +938,11 @@ msgid ""
 "of the colour widget to see a standard colour chooser dialog."
 msgstr "Aceasta este, probabil, una dintre caracteristicile noi cele mai utile în QGIS 2.6 - mai ales dacă sunteți foarte implicați în munca de cartografie. Butonul colorat, utilizat peste tot în QGIS, a fost îmbunătățit, cu meniuri culisante, eșantioane de culoare, culori implicite, etc. Efectuați clic pe elementul culisant din dreapta butonului colorat, pentru a vedea opțiunile rapide. Faceți clic pe butonul din stânga widget-ului colorat, pentru a vedea un dialog standard pentru selectorul de culoare."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:582
+#: ../../source/site/forusers/visualchangelog260/index.rst:584
 msgid "Feature: Context menu for identify tool"
 msgstr "Funcționalitate: Meniu contextual pentru instrumentul de identificare"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:584
+#: ../../source/site/forusers/visualchangelog260/index.rst:586
 msgid ""
 "When using the identify tool, you can now right click on the canvas to use "
 "the identify tool in context mode. In the menu that appears you can define "
@@ -949,74 +956,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "checkbox_unchecked"
-
-#~ msgid "Changelog for QGIS: 2.6.0"
-#~ msgstr ""
-
-#~ msgid "Changelog for version: 2.6.0"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "**GOLD Sponsor: `Asia Air Survey, Japan <http://www.asiaairsurvey.com/>`_**"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Snapping thresholds are now set in pixels, allowing for finer movement and "
-#~ "resizing of items when zoomed in to a composition."
-#~ msgstr ""
-
-#~ msgid "Items within a group are no longer used for auto snap lines."
-#~ msgstr ""
-
-#~ msgid "Scale-based filtering of legend nodes (in WMS)"
-#~ msgstr ""
-
-#~ msgid "Rule-based renderer legends can now be displayed in in a pseudo-tree"
-#~ msgstr ""
-
-#~ msgid "Sliders for hue, saturation, value, red, green, blue color"
-#~ msgstr ""
-
-#~ msgid "components."
-#~ msgstr ""
-
-#~ msgid "Editable color palettes, including the ability to create new palettes"
-#~ msgstr ""
-
-#~ msgid "and import/export colors to a GPL palette file."
-#~ msgstr ""
-
-#~ msgid "Live color sampler with option to sample over a set radius (OS"
-#~ msgstr ""
-
-#~ msgid "support dependant)."
-#~ msgstr ""
-
-#~ msgid "Supports interaction with other apps via drag and drop of colors (OS"
-#~ msgstr ""
-
-#~ msgid "Option to disable the dialog and use the native picker dialog"
-#~ msgstr ""
-
-#~ msgid "instead."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "SILVER Sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_ "
-#~ "BRONZE Sponsor: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "A current list of donors who have made financial contributions large and "
-#~ "small to the project can be seen on our `donors list "
-#~ "<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`_. If you "
-#~ "would like to become and official project sponsor, please visit `our "
-#~ "sponsorship page "
-#~ "<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`_ for details."
-#~ " Sponsoring QGIS helps us to fund our six monthly developer meetings, "
-#~ "maintain project infrastructure and fund bug fixing efforts."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "You can now use just a subset a related fields when creating a vector join."
-#~ msgstr ""

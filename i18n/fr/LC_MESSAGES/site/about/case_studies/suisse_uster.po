@@ -1,6 +1,10 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 # cheznouscarte <b.veler@laposte.net>, 2013
+# fiuzzy <fiuzzy1@gmail.com>, 2022
 # Julien Francois <julien.francois1@hotmail.fr>, 2013
 # Médéric RIBREUX <mederic.ribreux__translate@medspx.fr>, 2015
 # Robin PREST, 2013
@@ -8,14 +12,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2013-09-17 13:26+0000\n"
-"Last-Translator: Médéric RIBREUX <mederic.ribreux__translate@medspx.fr>, 2015\n"
+"Last-Translator: fiuzzy <fiuzzy1@gmail.com>, 2022\n"
 "Language-Team: French (http://www.transifex.com/qgis/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: fr\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
@@ -32,7 +36,7 @@ msgid ""
 "new features and by financially supporting the development. In return Uster "
 "receives a rapidly evolving and platform independent Desktop GIS and WebGIS "
 "solution backed by a worldwide user and development community."
-msgstr "La ville d'Uster utilise QGIS depuis 2007. Encouragé par la décision du canton de Solothurn d'utiliser QGIS pour remplacer Arcgis comme SIG bureautique, Uster a alors décidé de tenter sa chance. La ville a non seulement rejoint  l'effort de développement de l'application en suggérant et en testant de nouvelles fonctionnalités mais également en finançant son développement. En retour, Uster peut utiliser une plate forme SIG et un WebSIG indépendants dont l'évolution est soutenue par une communauté d'utilisateurs et de développeurs internationale."
+msgstr "La ville d'Uster utilise QGIS depuis 2007. Encouragé par la décision du canton de Soleure d'utiliser QGIS pour remplacer Arcgis comme SIG bureautique, Uster a alors décidé de tenter sa chance. La ville a non seulement rejoint l'effort de développement de l'application en suggérant et en testant de nouvelles fonctionnalités mais également en finançant son développement. En retour, Uster peut utiliser une plate forme SIG et un WebSIG indépendants dont l'évolution est soutenue par une communauté d'utilisateurs et de développeurs internationale."
 
 msgid "uster"
 msgstr ""
@@ -50,7 +54,7 @@ msgid ""
 "(University of Berne)) we coordinate and sponsor the improvements of these "
 "tools, along with some improvements in data driven symbolization, automated "
 "labeling, attribute handling and forms."
-msgstr "Postgis/PostgreSQL est utilisé comme entrepôt de données central. Les autres bases de données et sources de données, sont dupliquées régulièrement dans  PostgreSQL, en utilisant des outils comme OGR et FME. Au départ, Qgis était principalement utilisé comme viewer. Le premier utilisateur de Qgis a été un agriculteur qui avait besoin de mener à bien la déclaration de ses parcelles pour recevoir des subventions pour son exploitation.  Puis, Qgis fut aussi proposé comme éditeur de données, plateforme de publication de cartes, ou encore pour améliorer la manipulation des objets, ou même pour le composeur d'impressions.  La coordination et le parrainage de ces outils fut réalisée, En compagnie des autres utilisateurs suisses de Qgis,  (Solothurn, Thun etCDE (Université de Berne))  ainsi que des améliorations sur les analyses thématiques, l'étiquettage automatique, l'utilisation des attributs ou des formulaires. "
+msgstr "Postgis/PostgreSQL est utilisé comme entrepôt de données central. Les autres bases de données et sources de données, sont dupliquées régulièrement dans PostgreSQL, en utilisant des outils comme OGR et FME. Au départ, QGIS était principalement utilisé pour la visualisation. Le premier utilisateur de QGIS a été un agriculteur qui avait besoin de mener à bien la déclaration de ses parcelles pour recevoir des subventions pour son exploitation. Puis, QGIS fut aussi proposé comme éditeur de données, plateforme de publication de cartes, ou encore pour améliorer la manipulation des objets, ou même pour le composeur d'impressions. La coordination et le parrainage de ces outils furent réalisés, en association avec d'autres utilisateurs suisses de QGIS (Soleure, Thoune et CDE (Université de Berne))  ainsi que des améliorations sur les analyses thématiques, l’étiquetage automatique, l'utilisation des attributs ou des formulaires. "
 
 msgid "uster location"
 msgstr ""
@@ -63,7 +67,7 @@ msgid ""
 "electricity networks. However, these are expert systems in use by specially "
 "trained staff. All other GIS projects and the viewing of all data is handled"
 " by QGIS."
-msgstr "Les services techniques de la ville utilisent également des logiciels de SIG commerciaux : Autodesk Topobase, pour la capture et l'édition des données d'infrastructure cadastrale et de gestion des eaux usées,  et GE Smallworld pour la gestion des réseaux de gaz, d'eau et d'électricité. Cependant, ces systèmes experts sont utilisés par du personnel spécifiquement formé. Tous les autres projets SIG, plus la visualisation des données, est gérée avec Qgis. "
+msgstr "Les services techniques de la ville utilisent également des logiciels de SIG commerciaux : Autodesk Topobase, pour la capture et l'édition des données d'infrastructure cadastrale et de gestion des eaux usées, et GE Smallworld pour la gestion des réseaux de gaz, d'eau et d'électricité. Cependant, ces systèmes experts sont utilisés par du personnel spécifiquement formé. Tous les autres projets SIG, ainsi que la visualisation des données, sont gérés avec QGIS. "
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:21
 msgid ""
@@ -76,7 +80,7 @@ msgid ""
 "rich set of symbolization and labeling options and the consistent map "
 "rendering between the Desktop GIS application and the Web-GIS. The QGIS "
 "webclient can be tested and used at http://gis.uster.ch/"
-msgstr "Dans le second semestre de 2010, les premiers tests avec QGIS server ont été entrepris. En 2011 nous avons proposé un nouveau système de WebGIS, basé sur le serveur QGIS WMS et le client web GeoExt/OpenLayers. La principale raison menant à la décision d'utiliser Qgis server fut le temps considérable sauvegardé par la possibilité de réutiliser la configuration des projets Qgis Desktop, plutôt que d'avoir à conduire en parallèle la configuration d'un projet web. Des avantages additionnels se sont ajoutés à cela, comme la richesse des symboles de visualisation, les options d'étiquettage, et l'interface consistante entre  Qgis desktop et Qgis server pour paramétrer la représentation des cartes. Le webclient Qgis peut être testé et utilisé à l'adresse http://gis.uster.ch/"
+msgstr "Dans le second semestre de 2010, les premiers tests avec QGIS server ont été entrepris. En 2011 nous avons proposé un nouveau système de WebGIS, basé sur le serveur QGIS WMS et le client web GeoExt/OpenLayers. La principale raison menant à la décision d'utiliser Qgis server fut le temps considérable économisé par la possibilité de réutiliser la configuration des projets QGIS Desktop, plutôt que d'avoir à conduire en parallèle la configuration d'un projet web. Des avantages additionnels se sont ajoutés à cela, comme la richesse des symboles de visualisation, les options d’étiquetage et l'interface cohérente entre QGIS Desktop et QGIS Server pour paramétrer la représentation des cartes. Le webclient QGIS peut être testé et utilisé à l'adresse http://gis.uster.ch/"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:28
 msgid "Today, QGIS is used for the following GIS projects:"
@@ -93,7 +97,7 @@ msgid ""
 "viewing and editing for monitoring and the environmental and urban planning "
 "of the waste water and hydrology systems (german: Genereller "
 "Entwässerungsplan)"
-msgstr "Visulation et édition pour les systèmes de planification urbaine, de planification environnementale, de gestion de l'hydrologie, et de gestion des eaux usées."
+msgstr "Visualisation et édition pour les systèmes de planification urbaine, de planification environnementale, de gestion de l'hydrologie, et de gestion des eaux usées."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:32
 msgid ""
@@ -182,10 +186,4 @@ msgstr "checkbox"
 
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
-msgstr ""
-
-#~ msgid ""
-#~ "Planning and visualization for energy planning (gas supply regions, heat use"
-#~ " from waste water, near-surface geothermal energy, block heating stations, "
-#~ "etc.) Additional further projects are currently under development."
-#~ msgstr ""
+msgstr "case décochée"

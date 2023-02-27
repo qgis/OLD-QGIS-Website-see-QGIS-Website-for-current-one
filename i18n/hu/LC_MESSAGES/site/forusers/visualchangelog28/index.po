@@ -1,3 +1,6 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 # Csaba Sandor <sandor.csaba@gmail.com>, 2015
@@ -10,14 +13,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2015-02-28 18:29+0000\n"
 "Last-Translator: Zoltán Toldi <ifj.toldi.zoltan@gmail.com>, 2019\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -26,17 +29,21 @@ msgid "Changelog for QGIS 2.8"
 msgstr "A QGIS 2.8 verzió változásnaplója"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:7
+msgid "Release date: 2015-02-20"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog28/index.rst:9
 msgid ""
 "This is the change log for the next release of QGIS - version 2.8 ' Wien'. "
 "Wien is German for 'Vienna' - host city to our developer meet up in November"
 " 2009 and again in March 2014."
 msgstr "Ez egy változásnapló a következő QGIS kiadáshoz - 2.8 verzió 'Wien'. Wien Bécs német neve - a 2009 novemberi és 2014 márciusi fejlesztői találkozó vendéglátó városa."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:9
+#: ../../source/site/forusers/visualchangelog28/index.rst:11
 msgid "**Long Term Release**"
 msgstr "**Hosszútávú kiadás**"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:11
+#: ../../source/site/forusers/visualchangelog28/index.rst:13
 msgid ""
 "This is a special release since it is designated an 'LTR' (Long Term "
 "Release). LTR releases will be supported with backported bug fixes for one "
@@ -44,7 +51,7 @@ msgid ""
 "added, only bug fixes and trivial updates)."
 msgstr "Ez egy speciális kiadás, LTR-nek (hosszútávú kiadás) jelölték ki. LTR kiadásokba egy éven keresztül a hibajavításokat átvezetik, de állandó funkció bővítés befagyasztás állapotban lesz (azaz új funkciókkal nem bővül, csak hibajavításokkal és triviális frisítésekkel)."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:13
+#: ../../source/site/forusers/visualchangelog28/index.rst:15
 msgid ""
 "The purpose of LTR releases is to provide a stable and less frequently "
 "changing platform for enterprises and organisations that do not want to deal"
@@ -56,7 +63,7 @@ msgid ""
 "branch."
 msgstr "Az LTR kiadások célja, hogy egy stabil, kevésbé gyakran változó platformot biztosítson azoknak a vállalatoknak és szervezeteknek, melyek évente egynél többször nem akarnak foglalkozni a felhasználói ismeretek, az oktató anyagok, stb. frissítésével. Az LTR sikere nagyban öntől függ, a kedves felhasználóinktól - szükségünk van a támogatására a hibajavítások finanszírozásában és bizonyosodjon meg róla, hogy a támogatás nyújtó szerződésében vállalja a hibajavítások átvezetését az LTR ágon és a fejlesztési ágon is."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:15
+#: ../../source/site/forusers/visualchangelog28/index.rst:17
 msgid ""
 "If an LTR is important to you, please consider also directly supporting the "
 "QGIS project, or encourage your commercial provider to use LTR as a basis "
@@ -66,128 +73,128 @@ msgid ""
 "monthly releases will continue unabated."
 msgstr "Ha egy LTR fontos önnek, kérjük fontolja meg a QGIS projekt közvetlen támogatását, ösztönözze a kereskedelmi szolgáltatóját, hogy az LTR-t használja a vállalati megoldás alapjául, így mindenkinek előnyös lehet a stabil platform, melyet folyamatosan javítanak és finomítanak. Ne feledje, hogy a négy hónaponkénti kiadások töretlenül folytatódnak azoknak a felhasználóknak és szervezeteknek, akik élen akarnak járni."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:17
+#: ../../source/site/forusers/visualchangelog28/index.rst:19
 msgid "**New Features**"
 msgstr "**Újdonságok**"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:19
+#: ../../source/site/forusers/visualchangelog28/index.rst:21
 msgid ""
 "QGIS 2.8 is also a special release because it includes so many great new "
 "features, tweaks and enhancements to make the most popular Free desktop GIS "
 "even more feature filled and useful."
 msgstr "A QGIS 2.8 egy különleges kiadás, mert sok nagyszerű új funkciót, gyorsításokat és fejlesztéseket tartalmaz, hogy a legnépszerűbb szabad asztali GIS-t még funkció gazdagabbá és hasznosabbá tegye."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:21
+#: ../../source/site/forusers/visualchangelog28/index.rst:23
 msgid ""
 "Whenever new features are added to software they introduce the possibility "
 "of new bugs - if you encounter any problems with this release, please file a"
 " ticket `on the QGIS Bug Tracker <http://hub.qgis.org>`_."
 msgstr "Amikor egy új funkciót adnak a szoftverhez azzal az új hibák lehetőségét is bevezetik - ha bármilyen problémával találkozik ebben a kiadásban, kérjük küldjön egy jelzést `a QGIS hibakövetőben  <http://hub.qgis.org>`_."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:23
+#: ../../source/site/forusers/visualchangelog28/index.rst:25
 msgid "**Thanks**"
 msgstr "**Köszönet**"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:25
+#: ../../source/site/forusers/visualchangelog28/index.rst:27
 msgid ""
 "We would like to thank the developers, documenters, testers and all the many"
 " folks out there who volunteer their time and effort (or fund people to do "
 "so)."
 msgstr "Szeretnénk megköszönni a fejlesztőknek, a dokumentáció készítőknek, tesztelőknek és a sok embernek akik önként adják az idejüket és energiájukat (vagy finanszírozza, hogy mások tegyenek így)."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:29
+#: ../../source/site/forusers/visualchangelog28/index.rst:31
 msgid ""
 "From the QGIS community we hope you enjoy this release! If you wish to "
 "donate time, money or otherwise get involved in making QGIS more awesome, "
 "please wander along to `qgis.org <https://qgis.org>`_ and lend a hand!"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:34
+#: ../../source/site/forusers/visualchangelog28/index.rst:36
 msgid ""
 "Finally we would like to thank our official sponsors for the invaluable "
 "financial support they provide to this project:"
 msgstr "Végül szeretnénk megköszönni a hivatalos szponzorainknak a felbecsülhetetlen anyagi támogatást, melyet a projektnek nyújtottak:"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:37
+#: ../../source/site/forusers/visualchangelog28/index.rst:39
 msgid "**GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"
 msgstr "**ARANY szponzor: Asia Air Survey, Japán** http://www.asiaairsurvey.com/"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:39
+#: ../../source/site/forusers/visualchangelog28/index.rst:41
 msgid ""
 "SILVER Sponsor: `Sourcepole AG, Switzerland <http://www.sourcepole.com/>`_"
 msgstr "Ezüst szponzor: `Sourcepole AG, Svájc <http://www.sourcepole.com/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:40
+#: ../../source/site/forusers/visualchangelog28/index.rst:42
 msgid ""
 "SILVER Sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_"
 msgstr "EZÜST szponzor: `State of Vorarlberg, Ausztria <http://www.vorarlberg.at/>`__"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:41
+#: ../../source/site/forusers/visualchangelog28/index.rst:43
 msgid ""
 "SILVER Sponsor: `Office of Public Works, Ireland, Ireland "
 "<http://www.opw.ie/>`_"
 msgstr "EZÜST szponzor: `Office of Public Works, Írország,  Írország <http://www.opw.ie/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:43
+#: ../../source/site/forusers/visualchangelog28/index.rst:45
 msgid "BRONZE Sponsor: `GIS3W, Italy <http://www.gis3w.it/>`_"
 msgstr "BRONZ szponzor: `GIS3W, Olaszország <http://www.gis3w.it/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:44
+#: ../../source/site/forusers/visualchangelog28/index.rst:46
 msgid "BRONZE Sponsor: `www.molitec.it, Italy <http://www.molitec.it/>`_"
 msgstr "BRONZ szponzor: `www.molitec.it, Olaszország <http://www.molitec.it/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:45
+#: ../../source/site/forusers/visualchangelog28/index.rst:47
 msgid "BRONZE Sponsor: `www.argusoft.de, Germany <http://www.argusoft.de>`_"
 msgstr "Bronz szponzor: `www.argusoft.de, Germany <http://www.argusoft.de>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:46
+#: ../../source/site/forusers/visualchangelog28/index.rst:48
 msgid ""
 "BRONZE Sponsor: `www.openrunner.com, France <http://www.openrunner.com>`_"
 msgstr "Bronz szponzor: `www.openrunner.com, Franciaország <http://www.openrunner.com>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:47
+#: ../../source/site/forusers/visualchangelog28/index.rst:49
 msgid ""
 "BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "
 "<http://www.gkg-kassel.de/>`_"
 msgstr "BRONZ Szponzor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Németország <http://www.gkg-kassel.de/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:48
+#: ../../source/site/forusers/visualchangelog28/index.rst:50
 msgid ""
 "BRONZE Sponsor: `Customer Analytics, USA "
 "<http://www.customeranalytics.com/>`_"
 msgstr "BRONZ szponzor: `Customer Analytics, USA <http://www.customeranalytics.com/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:49
+#: ../../source/site/forusers/visualchangelog28/index.rst:51
 msgid "BRONZE Sponsor: `Urbsol, Australia <http://www.urbsol.com.au/>`_"
 msgstr "BRONZE szponzor: `Urbsol, Australia <http://www.urbsol.com.au/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:50
+#: ../../source/site/forusers/visualchangelog28/index.rst:52
 msgid "BRONZE Sponsor: `MappingGIS, Spain <http://www.mappinggis.com/>`_"
 msgstr "BRONZ szponzor: `MappingGIS, Spain <http://www.mappinggis.com/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:51
+#: ../../source/site/forusers/visualchangelog28/index.rst:53
 msgid ""
 "BRONZE Sponsor: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
 msgstr "BRONZ szponzor: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:52
+#: ../../source/site/forusers/visualchangelog28/index.rst:54
 msgid "BRONZE Sponsor: `ADLARES GmbH, Germany <http://www.adlares.com/>`_"
 msgstr "BRONZ szponzor: `ADLARES GmbH, Németország <http://www.adlares.com/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:53
+#: ../../source/site/forusers/visualchangelog28/index.rst:55
 msgid ""
 "BRONZE Sponsor: `Avioportolano Italia, Italy "
 "<http://www.avioportolano.it/>`_"
 msgstr "BRONZ szponzor: `Avioportolano Olaszország, Olaszország <http://www.avioportolano.it/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:54
+#: ../../source/site/forusers/visualchangelog28/index.rst:56
 msgid ""
 "BRONZE Sponsor: `Faculty of Geology, Geophysics and Environmental "
 "Protection, AGH, ​University of Science and Technology, Poland "
 "<http://www.wggios.agh.edu.pl/en>`_"
 msgstr "BRONZ szponzor: `Faculty of Geology, Geophysics and Environmental Protection, AGH, ​University of Science and Technology, Lengyelország <http://www.wggios.agh.edu.pl/en>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:56
+#: ../../source/site/forusers/visualchangelog28/index.rst:58
 msgid ""
 "A current list of donors who have made financial contributions large and "
 "small to the project can be seen on our `donors list "
@@ -199,7 +206,7 @@ msgid ""
 "maintain project infrastructure and fund bug fixing efforts."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:65
+#: ../../source/site/forusers/visualchangelog28/index.rst:67
 msgid ""
 "If you enjoy using QGIS, please consider making a donation to support the "
 "project - either `financial "
@@ -212,7 +219,7 @@ msgid ""
 "the best possible releases."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:75
+#: ../../source/site/forusers/visualchangelog28/index.rst:77
 msgid ""
 "QGIS is Free software and you are under no obligation to pay anything to use"
 " it - in fact we want to encourage people far and wide to use it regardless "
@@ -221,40 +228,40 @@ msgid ""
 "of humanity."
 msgstr "A QGIS szabad szoftver és semmi sem kötelezi arra, hogy fizessen használatáért. Valójában a QGIS használatára bátorítjuk az embereket, legyenek bárhol a világon, pénzügyi és társadalmi helyzettől függetlenül. Hiszünk benne, hogy térbeli  döntéstámogatási eszközök biztosítása jobb társadalmakat eredményez az emberiség egészének hasznára."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:85
+#: ../../source/site/forusers/visualchangelog28/index.rst:87
 msgid "General"
 msgstr "Általános"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:88
+#: ../../source/site/forusers/visualchangelog28/index.rst:90
 msgid "Feature: Enter expressions into spin boxes"
 msgstr "Funkció: Kifejezés bevitel a léptethető mezőkbe"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:90
+#: ../../source/site/forusers/visualchangelog28/index.rst:92
 msgid ""
 "When editing attributes in the **attribute table or forms**, you can now "
 "enter expressions directly into spin boxes, e.g. ``5 * 2.5`` and they will "
 "be automatically evaluated."
 msgstr "Az **attribútum táblában vagy űrlapokban**, amikor az attribútumokat szerkeszti, kifejezéseket is beírhat közvetlenül a léptethető mezőkbe, pl. ``5 * 2.5`` és a program automatikusan kiértékeli azokat."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:98
+#: ../../source/site/forusers/visualchangelog28/index.rst:100
 msgid "Feature: Bookmarks can be imported/exported"
 msgstr "Funkció: Könyvjelzők importálhatók, exportálhatók"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:100
+#: ../../source/site/forusers/visualchangelog28/index.rst:102
 msgid ""
 "It is now possible to save / load your bookmarks to a file. This makes it "
 "easy to share bookmarked locations, or transfer them between computers."
 msgstr "Már lehetséges a könyvjelzők mentése / betöltése fájlból, ami megkönnyíti a megjelölt helyek megosztását és átvitelét számítógépek között."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:102
+#: ../../source/site/forusers/visualchangelog28/index.rst:104
 msgid "**This feature was developed by:** Salvatore Larosa"
 msgstr "**Ezt a funkciót fejlesztette:** Salvatore Larosa"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:109
+#: ../../source/site/forusers/visualchangelog28/index.rst:111
 msgid "Feature: Improvements to expressions"
 msgstr "Funkció: fejlesztések a kifejezésekhez"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:111
+#: ../../source/site/forusers/visualchangelog28/index.rst:113
 msgid ""
 "**Integer division produces a double when required**: Previously dividing "
 "two integers in an expression would always result in an integer value, i.e. "
@@ -264,36 +271,36 @@ msgid ""
 " 2``."
 msgstr "**Az egész osztás eredménye dupla, ha szükséges**: korábban két egész érték osztása a kifejezésben mindig egész eredményt adott, pl. ``5 / 2 = 2``. Az eredmény most mindig dupla érték lesz, így ``5 / 2 = 2.5``, melyet a felhasználók sokkal inkább várnak. Egy új egész osztás operátort -  ``//`` adtunk meg, hogy a korábbi viselkedést utánozzuk, pl.  ``5 // 2 = 2``."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:112
+#: ../../source/site/forusers/visualchangelog28/index.rst:114
 msgid ""
 "**New 'if()' function**: There is now a new ``if(cond, true, false)`` "
 "expression"
 msgstr "**Új 'if() függvény**: egy új ``if(feltétel, igaz, hamis)`` kifejezés"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:113
+#: ../../source/site/forusers/visualchangelog28/index.rst:115
 msgid "**Lazy evaluation for expressions**"
 msgstr "**Kifejezések \"lusta\" kiértékelése**"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:114
+#: ../../source/site/forusers/visualchangelog28/index.rst:116
 msgid ""
 "**Added get and transform geometry**: These new keywords can be used with "
 "``getFeature`` for some geometry tests like intersects, crosses, contains, "
 "etc."
 msgstr "**Hozzáadtuk a geometra lekérét és transzformációját**: Ezek az új kulcsszavak a ``getFeature`` kéréssel használhatók geometriai relációk meghatározására, mint a metszés, keresztezés, tartalmazás stb."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:115
+#: ../../source/site/forusers/visualchangelog28/index.rst:117
 msgid "``geometry`` - returns the feature's geometry"
 msgstr "``geometry`` - az elem geometriáját adja vissza"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:116
+#: ../../source/site/forusers/visualchangelog28/index.rst:118
 msgid "``transform`` - returns the transformed geometry"
 msgstr "``transform`` - a transzformált geometriát adja vissza"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:123
+#: ../../source/site/forusers/visualchangelog28/index.rst:125
 msgid "Feature: Continuous testing framework and QA improvements"
 msgstr "Funkció: Folyamatos tesztelő keretrendszer és minőségbiztosítási fejlesztések"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:125
+#: ../../source/site/forusers/visualchangelog28/index.rst:127
 msgid ""
 "In our ongoing quest to improve the stability and quality of QGIS, every "
 "commit is now tested against a growing test suite to identify regressions "
@@ -304,7 +311,7 @@ msgid ""
 " or updated."
 msgstr "Folyamatos törekvésünk részeként a QGIS stabiitásának és minőségének javítására, minden commit-ot egy egyre növekvő tesztsorozatnak vetünk alá a visszatérő hibák automatikus kiszűrésére. A jobb oldali képen látható, hogy  GitHub oldalunkra bejövő pull kéréseket megjelöljük egy pipával, vagy kereszttel, attól függően, hogy a tesztsorozat sikeresen futott-e a `Travis.ci <https://travis-ci.org/qgis/QGIS>`_ -on, mikor a pull kérést küldik, vagy frissítik."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:127
+#: ../../source/site/forusers/visualchangelog28/index.rst:129
 msgid ""
 "We are also now regularly performing Coverity scans of QGIS codebase. As a "
 "result of this, we have identified and fixed over 1000 flagged issues, "
@@ -312,15 +319,15 @@ msgid ""
 "0.01 wheras the average for programs of similar size is about 1.0."
 msgstr "Rendszeresen végzünk \"Coverity Scan\" vizsgálatot a QGIS kódbázison. Ennek eredményeképpen több, mint 1000 megjelölt problémát azonosítottunk és javítottunk, mint pl. a memória szivárgás és potenciális összeomlások. A QGIS hibasűrűsége 0.01, míg az átlagos, hasonló  méretű programoké körülbelül 1.0."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:135
+#: ../../source/site/forusers/visualchangelog28/index.rst:137
 msgid "Analysis tools"
 msgstr "Elemző eszközök"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:138
+#: ../../source/site/forusers/visualchangelog28/index.rst:140
 msgid "Feature: Measure dialog improvements"
 msgstr "Funkció: mérés párbeszédablak fejlesztések"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:140
+#: ../../source/site/forusers/visualchangelog28/index.rst:142
 msgid ""
 "The measure tool has been improved so that you can now select which units "
 "should be used in the measure dialog. There is also a new info section in "
@@ -328,15 +335,15 @@ msgid ""
 "calculations."
 msgstr "A mérőeszközt továbbfejlesztettük, így már kiválasztható a mértékegység a párbeszédablakban. A párbeszédablaknak van egy információs része is, ami mutatja a mérés közben érvényes beállításokat."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:147
+#: ../../source/site/forusers/visualchangelog28/index.rst:149
 msgid "Browser"
 msgstr "Böngésző"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:150
+#: ../../source/site/forusers/visualchangelog28/index.rst:152
 msgid "More responsive browser"
 msgstr "Reszponzívabb böngésző"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:152
+#: ../../source/site/forusers/visualchangelog28/index.rst:154
 msgid ""
 "In the QGIS Browser items are now expanded in their own threads, speeding up"
 " the load time of the browser and making the browser more responsive. "
@@ -346,19 +353,19 @@ msgid ""
 "is restored on startup."
 msgstr "A QGIS Böngészőben az egyes tételek megnyitása külön szálon történik, ezért a böngésző gyorsabban betöltődik és reszponzívabb lett. A PostGIS források tallózása sokkal gyorsabb lett a böngészőben. Az animált nézőkép a jobb oldalon (klikkeljen a képre az animáció megtekintéséért) mutatja két lassú WMS szerver párhuzamos betöltését. A böngésző állapota (fastruktúra ágai) megőrződik újraindításkor."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:155
+#: ../../source/site/forusers/visualchangelog28/index.rst:157
 msgid "**This feature was developed by:** Radim Blazek"
 msgstr "**Ezt a funkciót fejlesztette:** Radim Blazek"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:162
+#: ../../source/site/forusers/visualchangelog28/index.rst:164
 msgid "Data Providers"
 msgstr "Adatszolgáltatók"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:165
+#: ../../source/site/forusers/visualchangelog28/index.rst:167
 msgid "Feature: Support for contextual WMS legend graphics"
 msgstr "Funkció: WMS jelkulcsi grafikák környezetérzékeny támogatása"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:167
+#: ../../source/site/forusers/visualchangelog28/index.rst:169
 msgid ""
 "If your WMS server supports contextual legends, you can make use of them in "
 "QGIS now too. Contextual legends are getLegendGraphic requests which return "
@@ -366,64 +373,64 @@ msgid ""
 "include legend items for things you can't see in the current map."
 msgstr "Ha WMS szervere támogatja a környezetérzékeny jelkulcsokat, azokat már QGIS-ben is használhatja. A környezetérzékeny jelkulcsok getLegendGraphic hívások, melyek a jelkulcs adott nézetre releváns részét adják vissza és így nem tartalmaznak jelkulcsi bejegyzéseket a térképen éppen nem látható dolgokra."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:169
-#: ../../source/site/forusers/visualchangelog28/index.rst:469
+#: ../../source/site/forusers/visualchangelog28/index.rst:171
+#: ../../source/site/forusers/visualchangelog28/index.rst:471
 msgid ""
 "**This feature was funded by:** `Regione Toscana "
 "<http://www.regione.toscana.it/>`_"
 msgstr "Ezt a funkciót finaszírozta: **  `Regione Toscana <http://www.regione.toscana.it/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:171
-#: ../../source/site/forusers/visualchangelog28/index.rst:498
+#: ../../source/site/forusers/visualchangelog28/index.rst:173
+#: ../../source/site/forusers/visualchangelog28/index.rst:500
 msgid ""
 "**This feature was developed by:** `Faunalia <http://www.faunalia.eu/>`_"
 msgstr "Ezt a funkciót fejlesztette:** `Faunalia <http://www.faunalia.eu/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:178
+#: ../../source/site/forusers/visualchangelog28/index.rst:180
 msgid "Data management"
 msgstr "Adatkezelés"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:181
+#: ../../source/site/forusers/visualchangelog28/index.rst:183
 msgid "Feature: Custom prefix for joins"
 msgstr "Funkció: Egyedi előtag kapcsolásokhoz (join)"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:183
+#: ../../source/site/forusers/visualchangelog28/index.rst:185
 msgid ""
 "You can now define a custom prefix in the joins manager in the layer "
 "properties dialog. When using a prefix, the attribute table in will show "
 "joined attribute names with your preferred prefix."
 msgstr "Megadhat egy egyedi előtagot a kapcsolások kezelőjében a rétegtulajdonságok párbeszédablakban. Ha előtagot használ, az attribútum tábla a kapcsolt attribútumokat a beállított előtaggal mutatja."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:190
+#: ../../source/site/forusers/visualchangelog28/index.rst:192
 msgid "Feature: Support for creation of temporary memory layers"
 msgstr "Funkció: Ideiglenesen, memóriában létező rétegek készítésének támogatása"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:192
+#: ../../source/site/forusers/visualchangelog28/index.rst:194
 msgid ""
 "This release add support for creating new temporary scratch layers within "
 "QGIS core. Scratch layers can be created in the ``Layer --> Create layer -->"
 " New Temporary Scratch Layer`` menu option."
 msgstr "Ez a kiadás támogatja ideiglenes vázlatrétegek létrehozását a QGIS core-on belül. Vázlat réteget a ``Réteg-->Új réteg--> Új ideiglenes vázlatréteg`` menüponttal készíthet."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:199
+#: ../../source/site/forusers/visualchangelog28/index.rst:201
 msgid "Feature: Support for calculations on selected rows"
 msgstr "Funkció: Kiválasztott sorokon számítások végzésének támogatása"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:201
+#: ../../source/site/forusers/visualchangelog28/index.rst:203
 msgid ""
 "In the attribute table you can now do calculations on selected rows only "
 "thanks to the new button added to the field calculator bar."
 msgstr "Az attribútum táblában végezhet számításokat a kiválasztott sorokon a mező-számológép eszköztáron elhelyezett új gomb segítségével."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:208
+#: ../../source/site/forusers/visualchangelog28/index.rst:210
 msgid "Digitising"
 msgstr "Digitalizálás"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:211
+#: ../../source/site/forusers/visualchangelog28/index.rst:213
 msgid "Feature: Advanced digitizing tools"
 msgstr "Funkció: Fejlett digitalizáló eszközök"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:213
+#: ../../source/site/forusers/visualchangelog28/index.rst:215
 msgid ""
 "If you ever wished you could digitise lines exactly parallel or at right "
 "angles, lock lines to specific angles and so on in QGIS, now you can! The "
@@ -432,64 +439,64 @@ msgid ""
 "geometry parts"
 msgstr "Ha párhuzamos, merőleges, meghatározott szögű szakaszokat stb. szeretne digitalizálni, most már lehet QGIS-ben! A fejett digitalizáló eszközök a CADinput modul portolásával jöttek létre és egy új panelre kerültek QGIS-ben. A panel aktívvá válik, mikor új geometriát, vagy geometria részeket szerkesztünk."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:220
+#: ../../source/site/forusers/visualchangelog28/index.rst:222
 msgid "Feature: Improved simplify tool"
 msgstr "Funkció: javított egyszerűsítés eszköz"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:222
+#: ../../source/site/forusers/visualchangelog28/index.rst:224
 msgid "The simplify tool has been overhauled, adding:"
 msgstr "Az egyszerűsítő eszközt átírtuk. Új funkciói:"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:224
+#: ../../source/site/forusers/visualchangelog28/index.rst:226
 msgid "OTF reprojection support"
 msgstr "azonnali újravetítési támogatás"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:225
+#: ../../source/site/forusers/visualchangelog28/index.rst:227
 msgid "user can specify exact tolerance (not just non-sense relative value)"
 msgstr "felhasználó megadhatja a pontos toleranciát (nem csak egy nem sokat mondó relatív értéket)"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:226
+#: ../../source/site/forusers/visualchangelog28/index.rst:228
 msgid ""
 "tolerance can be specified either in map units or layer units or pixels"
 msgstr "a toleranciát térkép-i, réteg-, vagy pixel mértékegységben adhatjuk meg"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:227
+#: ../../source/site/forusers/visualchangelog28/index.rst:229
 msgid "tolerance settings are stored in settings"
 msgstr "a tolerancia beállítások az egyéb beállításokkal mentődnek"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:228
+#: ../../source/site/forusers/visualchangelog28/index.rst:230
 msgid ""
 "simplify multiple features at once (drag a rectangle instead of just "
 "clicking)"
 msgstr "több elem együttes egyszerűsítése (húzzon téglalapot klikkelés helyett)"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:229
+#: ../../source/site/forusers/visualchangelog28/index.rst:231
 msgid "support for multi-part features"
 msgstr "több részből álló elemek támogatása"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:230
+#: ../../source/site/forusers/visualchangelog28/index.rst:232
 msgid "statistics about reduction of the number of vertices"
 msgstr "statisztika a töréspontok számának csökkenéséről"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:232
+#: ../../source/site/forusers/visualchangelog28/index.rst:234
 msgid ""
 "**This feature was funded by:** `Tracks for Africa "
 "<http://tracks4africa.com/>`_"
 msgstr "**Ezt a funkciót támogatta:**  `Tracks for Africa <http://tracks4africa.com/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:234
-#: ../../source/site/forusers/visualchangelog28/index.rst:263
+#: ../../source/site/forusers/visualchangelog28/index.rst:236
+#: ../../source/site/forusers/visualchangelog28/index.rst:265
 msgid ""
 "**This feature was developed by:** `Lutra Consulting "
 "<http://www.lutraconsulting.co.uk/>`_ in cooperation with  `Kartoza "
 "<http://kartoza.com/>`_"
 msgstr "**Ezt a funkciót fejlesztette:** `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_ együttműködésben a `Kartoza <http://kartoza.com/>`_-val"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:241
+#: ../../source/site/forusers/visualchangelog28/index.rst:243
 msgid "Feature: Snapping improvements"
 msgstr "Funkció: Illesztés fejlesztések"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:243
+#: ../../source/site/forusers/visualchangelog28/index.rst:245
 msgid ""
 "There is a new snapping mode : **snap to all layers** which makes it quick "
 "to enable snapping between all layers. Also the underlying snapping "
@@ -500,28 +507,28 @@ msgid ""
 "tolerances without you knowing."
 msgstr "Készült egy új illesztési mód: **illesztés az összes réteghez**, ami gyorsítja az illesztés összes rétegre történő bekapcsolását. A QGIS illesztési motorját is átírtuk, ami által az illesztés felgyorsult nagy projektek esetén is, továbbá fejlődött az illesztés pontossága. Az illesztési tolerancia körüli bizonytalanság is kisebb lett a térképi-, vagy réteg mértékegységgel kapcsolatosan, így az elvárt 1 méteres tolerancia nem válik 1 fokossá magától."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:245
+#: ../../source/site/forusers/visualchangelog28/index.rst:247
 msgid ""
 "**This feature was funded by:** ` Ville de Vevey, SITNyon "
 "<http://www.vevey.ch/>`_ and `QGIS Usergroup Switzerland "
 "<http://www.qgis.ch/>`_"
 msgstr "**Ezt a funkciót támogatta:** ` Ville de Vevey, SITNyon <http://www.vevey.ch/>`_ és a `QGIS Svájci Felhasználói Csoport <http://www.qgis.ch/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:247
+#: ../../source/site/forusers/visualchangelog28/index.rst:249
 msgid ""
 "**This feature was developed by:** `Lutra Consulting "
 "<http://www.lutraconsulting.co.uk/>`_"
 msgstr "**Ezt a funkciót fejlesztette:** `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:254
+#: ../../source/site/forusers/visualchangelog28/index.rst:256
 msgid "Layer Legend"
 msgstr "Réteg jelmagyarázat"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:257
+#: ../../source/site/forusers/visualchangelog28/index.rst:259
 msgid "Feature: Show rule-based renderer's legend as a tree"
 msgstr "Funkció: a szabály alapú renderelő jelkulcsa fastruktúrában szemlélhető"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:259
+#: ../../source/site/forusers/visualchangelog28/index.rst:261
 msgid ""
 "Advanced users who leverage QGIS's rule based renderer system will be "
 "pleased to see that the rules are now presented as a tree in the legend. "
@@ -530,19 +537,19 @@ msgid ""
 " in your map."
 msgstr "A QGIS szabály alapú renderelőjének felhasználói örülni fognak a változásnak, hogy a szabályokat egy fastruktúrában jelenítjük meg a jelkulcsban. Még jobb, hogy minden levél a **fán** egyedileg **ki- és bekapcsolható**, nagy rugalmasságot biztosítva a tekintetben, hogy melyik alrétege renderelődik a térképen."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:261
+#: ../../source/site/forusers/visualchangelog28/index.rst:263
 msgid "**This feature was funded by:** `SIGE <http://www.sige.ch/>`_"
 msgstr "**A funckciót támogatta:** `SIGE <http://www.sige.ch/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:270
+#: ../../source/site/forusers/visualchangelog28/index.rst:272
 msgid "Map Composer"
 msgstr "Térkép összeállítás"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:273
+#: ../../source/site/forusers/visualchangelog28/index.rst:275
 msgid "Feature: Composer GUI Improvements"
 msgstr "Funkció:  Lapösszeállítő felhasználói felület fejlesztések"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:275
+#: ../../source/site/forusers/visualchangelog28/index.rst:277
 msgid ""
 "View menu option to **hide bounding boxes**. This allows users to hide the "
 "bounding boxes for selected items within a composition. It's a handy feature"
@@ -551,11 +558,11 @@ msgid ""
 "view."
 msgstr "A Nézet menü-ben megjelent a **Befoglaló téglalap megjelenítés**. Ez lehetővé teszi a felhasználóknak a befoglaló téglalap elrejtését egy lapösszeállításon. Ez lehetővé teszi az egyes elemek kezelését, miközben pont úgy néznek ki, ahogy a lapot exportálni fogjuk, nagy, megtekintést akadályozó téglalapok nélkül."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:276
+#: ../../source/site/forusers/visualchangelog28/index.rst:278
 msgid "**Full screen mode for composer**"
 msgstr "**Teljes képernyős mód a lapösszeállítóban**"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:277
+#: ../../source/site/forusers/visualchangelog28/index.rst:279
 msgid ""
 "Option to **toggle display of panels** in composer, available by both the "
 "``view menu``, using the shortcut ``F10`` and by pressing ``Tab`` when the "
@@ -563,11 +570,11 @@ msgid ""
 "planning a map layout."
 msgstr "A **panelek elrejtése** opció a lapösszeállítóban, elérhető a  ``Nézet menüben ``,  ``F10`` gyorsgombbal és a  ``Tab`` billentyű megnyomásával, mikor a lapösszeállító munkaterülete aktív. Térképlap tervezésekor ez hasznos a terület maximalizálása érdekében."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:284
+#: ../../source/site/forusers/visualchangelog28/index.rst:286
 msgid "Feature: Grid improvements"
 msgstr "Funkció: Rács fejlesztése"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:286
+#: ../../source/site/forusers/visualchangelog28/index.rst:288
 msgid ""
 "In the composer you now have finer control of frame and annotation display. "
 "Previously, for rotated maps or reprojected grids, the composer would draw "
@@ -578,18 +585,18 @@ msgid ""
 "frame is divided."
 msgstr "A lapösszeállítóban finomabban vezérelhető a keret és a feliratok megjelenítése. Korábban, elforgatott térképek, vagy újravetített rácsok esetén a lapösszeállító minden koordinátát a térkép minden oldalára felírt. Ennek eredménye kevert szélesség/y és hosszúság/x koordináta megírás volt egy-egy oldalon. Most kiválasztható, hogy minden koordinátát szeretne, csak szélességit, vagy csak hosszúságit megírni a térképkeret oldalaira. Hasonló opciók elérhetők a térképrács keret felosztására is."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:289
+#: ../../source/site/forusers/visualchangelog28/index.rst:291
 msgid ""
 "New vertical descending direction for annotations. This change adds a new "
 "descending vertical direction mode for map grid annotations. Previously only"
 " ascending text was supported for vertical annotations."
 msgstr "Új függőlegesen lefelé íródó feliratok. Ez a változás egy lefelé íródó irányt ad hozzá a térképrács megírások irányaihoz. Korábban függőleges irányban csak felfelé íródó feliratokat támogattunk."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:297
+#: ../../source/site/forusers/visualchangelog28/index.rst:299
 msgid "Feature: Label item margins"
 msgstr "Funkció: Címke margók"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:299
+#: ../../source/site/forusers/visualchangelog28/index.rst:301
 msgid ""
 "You can now control both horizontal and vertical **margins for label** "
 "items. Previously only a single margin setting would apply to both "
@@ -597,7 +604,7 @@ msgid ""
 "different horizontal and vertical margins."
 msgstr "Most már vezérelheti mind a vízszintes, mind függőleges irányban a **címke margót**. Korábban egy azonos margó beállítást lehetett alkalmazni vízszintes és függőleges irányban. Ez a változtatás lehetővé teszi különböző vízszintes és függőleges margók használatát."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:300
+#: ../../source/site/forusers/visualchangelog28/index.rst:302
 msgid ""
 "You can now specify negative margins for label items, **allowing text to be "
 "drawn slightly outside of a label item's bounds**. This is desirable for "
@@ -605,211 +612,211 @@ msgid ""
 "alignment for the label type."
 msgstr "Negatív margó is megadható a címkékre, ami megengedi a **címke megírását kissé annak határain kívülre is**. Ez akkor kívánatos, ha más elemekhez kell igazítani a címkét, az optikai margó igazítás érdekében az adott címke típusra."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:307
+#: ../../source/site/forusers/visualchangelog28/index.rst:309
 msgid "Plugins"
 msgstr "Modulok"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:310
+#: ../../source/site/forusers/visualchangelog28/index.rst:312
 msgid "Feature: Python console improvements"
 msgstr "Funkció: Python konzol fejlesztések"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:312
+#: ../../source/site/forusers/visualchangelog28/index.rst:314
 msgid ""
 "You can now drag and drop python scripts into QGIS window and they will be "
 "executed automatically. We also added a toolbar icon to the plugins toolbar "
 "and a shortcut ( ``Ctrl-Alt-P`` ) for quick access to the python console."
 msgstr "Lehetséges python scriptek fogd-és-vidd bedobása a QGIS ablakba, melyeket rögtön végrehajt a rendszer. Hozzáadtunk egy eszköztár ikont is a modulok eszköztárhoz és egy billentyűkombinációt (``Ctrl-Alt-P``) a python konzol gyors eléréshez."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:319
+#: ../../source/site/forusers/visualchangelog28/index.rst:321
 msgid "Processing"
 msgstr "Feldolgozás"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:322
+#: ../../source/site/forusers/visualchangelog28/index.rst:324
 msgid "Feature: New geometric predicate parameter type"
 msgstr "Funkció: Új geometriai predikátum paraméter típus"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:324
+#: ../../source/site/forusers/visualchangelog28/index.rst:326
 msgid ""
 "With this new parameter type, used in **Select by location, Extract by "
 "location** and **Join attributes by location** algorithms, the user can "
 "select precisely the spatial operator to use."
 msgstr "Ezzel az új paraméterrel, melyet a **Hely szerinti  kiválasztás, Hely szerinti  kivágás** és a **Attribútumok kapcsolása hely szerint** algoritmusok használnak, a felhasználó pontosan beállíthatja a használandó térbeli operátort."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:326
+#: ../../source/site/forusers/visualchangelog28/index.rst:328
 msgid ""
 "**This feature was funded by:** `French Ministry of Ecology, Sustainable "
 "Development and Energy <http://www.developpement-durable.gouv.fr/>`_"
 msgstr "**Ezt a funkciót támogatta:** `French Ministry of Ecology, Sustainable Development and Energy <http://www.developpement-durable.gouv.fr/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:328
+#: ../../source/site/forusers/visualchangelog28/index.rst:330
 msgid ""
 "**This feature was developed by:** `Camptocamp <http//www.camptocamp.com>`_"
 msgstr "**Ezt a funkciót fejlesztette:** `Camptocamp <http//www.camptocamp.com>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:335
+#: ../../source/site/forusers/visualchangelog28/index.rst:337
 msgid "Feature: New algorithms"
 msgstr "Funkció: Új algoritmusok"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:337
+#: ../../source/site/forusers/visualchangelog28/index.rst:339
 msgid ""
 "A number of new algorithms have been added to the processing framework:"
 msgstr "Jópár új algoritmust adtunk hozzá a feldolgozó keretrendszerhez."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:339
+#: ../../source/site/forusers/visualchangelog28/index.rst:341
 msgid "**Regular points** algorithm (addresses #5953)"
 msgstr "**Szabályos pontok** algoritmus (#5953-as hibát javítja)"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:340
+#: ../../source/site/forusers/visualchangelog28/index.rst:342
 msgid "**Symetrical difference** algorithm (addresses #5953)"
 msgstr "**Szimmetrikus különbség**  (addresses #5953)"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:341
+#: ../../source/site/forusers/visualchangelog28/index.rst:343
 msgid "**Vector split** algorithm (addresses #5953)"
 msgstr "**Vektor darabolás** algoritmus (addresses #5953)"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:342
+#: ../../source/site/forusers/visualchangelog28/index.rst:344
 msgid "**Vector grid** algorithm (addresses #5953)"
 msgstr "**Vektor rács** algoritmus (#5953)"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:343
+#: ../../source/site/forusers/visualchangelog28/index.rst:345
 msgid "**Hypsometric curves** calculation algorithm"
 msgstr "**Hipszometrikus görbe** számítási algoritmus"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:344
+#: ../../source/site/forusers/visualchangelog28/index.rst:346
 msgid "**Split lines with lines**"
 msgstr "**Vonalak darabolása vonalakkal**"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:345
+#: ../../source/site/forusers/visualchangelog28/index.rst:347
 msgid "**Refactor fields** attributes manipulation algorithm"
 msgstr "**Refaktor mezők** attribútum kezelő algoritmus"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:352
+#: ../../source/site/forusers/visualchangelog28/index.rst:354
 msgid "Programmability"
 msgstr "Programozhatóság"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:355
+#: ../../source/site/forusers/visualchangelog28/index.rst:357
 msgid "Feature: Add comment functionality to expressions"
 msgstr "Funkció: megjegyzés hozzáadása a kifejezésekhez"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:357
+#: ../../source/site/forusers/visualchangelog28/index.rst:359
 msgid ""
 "Comments can now be added to expressions using an SQL style ``--`` prefix."
 msgstr "Megjegyzéseket adhatunk a kifejezésekhez az SQL stílus alkalmazásával, ``--`` előtag."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:364
+#: ../../source/site/forusers/visualchangelog28/index.rst:366
 msgid "Feature: Custom expression function editor"
 msgstr "Funkció: Testre szabott kifejezések, függvény szerkesztő"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:366
+#: ../../source/site/forusers/visualchangelog28/index.rst:368
 msgid ""
 "You can now define custom expression functions in the expression widget. See"
 " `this blog post <http://nathanw.net/2015/01/19/function-editor-for-qgis-"
 "expressions/>`_ for more details."
 msgstr "Most már saját függvényeket definiálhat a kifejezés ablakban. A további részletekért nézze meg `ezt a blog bejegyzést <http://nathanw.net/2015/01/19/function-editor-for-qgis-expressions/>`_."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:373
+#: ../../source/site/forusers/visualchangelog28/index.rst:375
 msgid "Feature: Qt5 support"
 msgstr "Funkció: Qt5 támogatás"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:375
+#: ../../source/site/forusers/visualchangelog28/index.rst:377
 msgid ""
 "QGIS can now be built using Qt5 libraries. Note that currently most binaries"
 " will still with Qt4 by default."
 msgstr "A QGIS összeszerkeszthető a Qt5 könyvtárak használatával. Vegye figyelembe, hogy az aktuális bináris változatok alapértelmezés szerint még Qt4-el készülnek."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:382
+#: ../../source/site/forusers/visualchangelog28/index.rst:384
 msgid "Feature: Bulk loading spatial index"
 msgstr "Funkció: Térbeli index tömeges betöltése"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:384
+#: ../../source/site/forusers/visualchangelog28/index.rst:386
 msgid ""
 "In the API we have added support for bulk loading of spatial index. This is "
 "much faster way of initializing a spatial index. From python it is as simple"
 " as:"
 msgstr "Az API-ban a térbeli indexek tömeges betöltéséhez adtunk támogatást. A térbeli indexek inicializálására ez egy sokkal gyorsabb módszer. Pythonból ilyen egyszerű:"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:386
+#: ../../source/site/forusers/visualchangelog28/index.rst:388
 msgid "``index = QgsSpatialIndex( layer.getFeatures() )``"
 msgstr "``index = QgsSpatialIndex( layer.getFeatures() )``"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:388
+#: ../../source/site/forusers/visualchangelog28/index.rst:390
 msgid "From a simple test with 50K points in a memory layer:"
 msgstr "Egy egyszerű teszt 50K ponttal egy memória rétegen:"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:390
+#: ../../source/site/forusers/visualchangelog28/index.rst:392
 msgid "**bulk loading ~ 100 ms**"
 msgstr "**tömeges betöltés ~ 100 ms**"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:392
+#: ../../source/site/forusers/visualchangelog28/index.rst:394
 msgid "inserting features ~ 600 ms"
 msgstr "elemek beszúrása ~ 600 ms"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:394
+#: ../../source/site/forusers/visualchangelog28/index.rst:396
 msgid ""
 "The index tree should be also in theory be better constructed and may result"
 " in faster lookups."
 msgstr "Az index fa elméletileg jobban felépített lehetne és ez gyorsabb kereséseket eredményezne."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:401
+#: ../../source/site/forusers/visualchangelog28/index.rst:403
 msgid "Feature: Run only the selected part of a SQL query"
 msgstr "Funkció: Az SQL lekérdezés szelektált részének futtatása"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:403
+#: ../../source/site/forusers/visualchangelog28/index.rst:405
 msgid ""
 "In the DB Manager SQL editor, it is now possible to highlight a portion of "
 "the SQL and only that portion will be executed when you press ``F5`` or "
 "click the ``run`` button"
 msgstr "A DB kezelő SQL szerkesztőjében kiemelheti az SQL utasítás egy részét és csak azt hajtja végre, ha megnyomja az ``F5`` billentyűt vagy ha a ``futtatás`` gombra kattint"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:410
+#: ../../source/site/forusers/visualchangelog28/index.rst:412
 msgid "QGIS Server"
 msgstr "QGIS Server"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:413
+#: ../../source/site/forusers/visualchangelog28/index.rst:415
 msgid "Feature: Server python plugins"
 msgstr "Funkció: Szerver python modulok"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:415
+#: ../../source/site/forusers/visualchangelog28/index.rst:417
 msgid ""
 "Python plugins support for QGIS server brings the power of python to server "
 "side, allowing for fast and efficient development and deployment of new "
 "features."
 msgstr "A Python modulok támogatása a QGIS szerveren a Python erejét hozza a szerver oldalra, az új funkciók gyors, hatékony fejlesztését és továbbítását lehetővé téve."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:417
+#: ../../source/site/forusers/visualchangelog28/index.rst:419
 msgid ""
 "**This feature was developed by:** `Alessandro Pasotti (ItOpen) "
 "<http://www.itopen.it/>`_"
 msgstr "**Ezt a funkciót fejlesztette:** `Alessandro Pasotti  (ItOpen) <http://www.itopen.it/>`__"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:420
+#: ../../source/site/forusers/visualchangelog28/index.rst:422
 msgid "Feature: Support for layer styles"
 msgstr "Funkció: réteg stílusok támogatása"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:422
+#: ../../source/site/forusers/visualchangelog28/index.rst:424
 msgid "QGIS Server now supports predefined layer styles in GetMap requests"
 msgstr "A QGIS szerver támogatja az előre definiált réteg stílusokat a GetMap kérésekben"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:423
+#: ../../source/site/forusers/visualchangelog28/index.rst:425
 msgid ""
 "QGIS Server now supports multiple styles in GetStyles request (see symbology"
 " section below)"
 msgstr "A QGIS szerver most már támogatja a többszörös stílusokat GetStyles kérésekben (lásd. a lenti jelrendszer szakaszban)"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:426
+#: ../../source/site/forusers/visualchangelog28/index.rst:428
 msgid "Feature: Add DescribeLayer Method to WMS"
 msgstr "Funkció: DescribeLayer metódus hozzáadása a WMS-hez"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:428
+#: ../../source/site/forusers/visualchangelog28/index.rst:430
 msgid ""
 "**Styled Layer Descriptor profile of the Web Map Service : DescribeLayer**"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:430
+#: ../../source/site/forusers/visualchangelog28/index.rst:432
 msgid "http://www.opengeospatial.org/standards/sld"
 msgstr "http://www.opengeospatial.org/standards/sld"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:432
+#: ../../source/site/forusers/visualchangelog28/index.rst:434
 msgid ""
 "Defining a user-defined style requires information about the features being "
 "symbolized, or at least their feature/coverage type. Since user-defined "
@@ -821,13 +828,13 @@ msgid ""
 "request."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:434
+#: ../../source/site/forusers/visualchangelog28/index.rst:436
 msgid ""
 "DescribeLayer method has been thought to be a better approach than "
 "overloading the WMS capabilities document even more."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:436
+#: ../../source/site/forusers/visualchangelog28/index.rst:438
 msgid ""
 "For each named layer, the description should indicate if it is indeed based "
 "on feature data and if so it should indicate the WFS/WCS (by a URL prefix) "
@@ -835,48 +842,48 @@ msgid ""
 "layer not to be describable in this way."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:439
+#: ../../source/site/forusers/visualchangelog28/index.rst:441
 msgid "Symbology"
 msgstr "Jelrendszer"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:442
+#: ../../source/site/forusers/visualchangelog28/index.rst:444
 msgid "Feature: Raster image fill type"
 msgstr "Funkció: Raszter kép kitöltési típus"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:444
+#: ../../source/site/forusers/visualchangelog28/index.rst:446
 msgid ""
 "This new symbol layer type allows for filling polygons with a (tiled) raster"
 " image."
 msgstr "Ez az új szimbólum réteg típus lehetővé teszi egy felület kitöltését (csempe) raszter képpel."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:446
+#: ../../source/site/forusers/visualchangelog28/index.rst:448
 msgid ""
 "Options include (data defined) file name, opacity, image size (in pixels, mm"
 " or map units), coordinate mode (feature or view), and rotation."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:453
+#: ../../source/site/forusers/visualchangelog28/index.rst:455
 msgid "Feature: Live heatmap renderer"
 msgstr "Funkció: élő hőtérkép rajzolás"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:455
+#: ../../source/site/forusers/visualchangelog28/index.rst:457
 msgid ""
 "The new heatmap vector layer renderer allows for live, dynamic heatmaps for "
 "point layers."
 msgstr "Az új hőtérkép vektor réteg rajzoló lehetővé teszi a pont rétegekre az élő, dinamikus hótérképeket."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:457
+#: ../../source/site/forusers/visualchangelog28/index.rst:459
 msgid ""
 "Options include specifying heatmap radius in pixels, mm or map units, choice"
 " of color ramp,weighting points by field, and a slider for selecting a "
 "tradeoff between render speed and quality."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:465
+#: ../../source/site/forusers/visualchangelog28/index.rst:467
 msgid "Feature: Multiple styles per layer"
 msgstr "Funkció: Több stílus rétegenként"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:467
+#: ../../source/site/forusers/visualchangelog28/index.rst:469
 msgid ""
 "It is now possible to set multiple styles for a layer and then easily toggle"
 " between them. This functionality is available in the ``legend context menu "
@@ -888,17 +895,17 @@ msgid ""
 "<http://www.lutraconsulting.co.uk/blog/2015/02/19/towering-qgis-release/>`_."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:471
+#: ../../source/site/forusers/visualchangelog28/index.rst:473
 msgid ""
 "**This feature was developed by:** `Gis3W <http://www.gis3w.it/>`_, `Lutra "
 "Consulting <http://www.lutraconsulting.co.uk/>`_"
 msgstr "**Ezt a funkciót fejlesztette:** `Gis3W <http://www.gis3w.it/>`_, `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:478
+#: ../../source/site/forusers/visualchangelog28/index.rst:480
 msgid "Feature: More data-defined symbology settings"
 msgstr "Funkció: Több adatvezérelt megjelenítési beállítások"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:480
+#: ../../source/site/forusers/visualchangelog28/index.rst:482
 msgid ""
 "The user interface for data defined symbology settings has been improved - "
 "moving the data defined option next to each data definable property (in "
@@ -909,21 +916,21 @@ msgid ""
 "settings."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:487
+#: ../../source/site/forusers/visualchangelog28/index.rst:489
 msgid "Feature: DXF export: improve marker symbol export"
 msgstr "Funkció: DXF export: szimbólum export tökéletesítése"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:489
+#: ../../source/site/forusers/visualchangelog28/index.rst:491
 msgid ""
 "The exporter functionality for DXF files has been improved, with better "
 "fidelity of exported marker symbols to the original QGIS symbology."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:492
+#: ../../source/site/forusers/visualchangelog28/index.rst:494
 msgid "Feature: Map rotation in canvas, improved rotation in composer"
 msgstr "Funkció: Térkép forgatás a vásznon, tökéletesített forgatás az összeállítás szerkesztőben"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:494
+#: ../../source/site/forusers/visualchangelog28/index.rst:496
 msgid ""
 "This release includes preliminary support for rotation in the map canvas. "
 "You can rotate the canvas using the new rotation widget in the status bar. "
@@ -931,28 +938,28 @@ msgid ""
 "correctly handles labelling and symbology, etc."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:496
+#: ../../source/site/forusers/visualchangelog28/index.rst:498
 msgid ""
 "**This feature was funded by:** `Japan Space Imaging Corporation (JSI) "
 "<http://www.spaceimaging.co.jp/>`_"
 msgstr "Ezt a funkciót finanszírozta: **   `Japan Space Imaging Corporation (JSI) <http://www.spaceimaging.co.jp/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:505
+#: ../../source/site/forusers/visualchangelog28/index.rst:507
 msgid "User Interface"
 msgstr "Felhasználói interfész"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:508
+#: ../../source/site/forusers/visualchangelog28/index.rst:510
 msgid "Feature: Improved/consistent projection selection"
 msgstr "Funkció: Javított/konzisztens vetület kiválasztás"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:510
+#: ../../source/site/forusers/visualchangelog28/index.rst:512
 msgid ""
 "All dialogs now use a consistent projection selection widget, which allows "
 "for quickly selecting from recently used and standard project/QGIS "
 "projections."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:517
+#: ../../source/site/forusers/visualchangelog28/index.rst:519
 msgid "."
 msgstr "."
 
@@ -962,17 +969,4 @@ msgstr "checkbox"
 
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
-msgstr ""
-
-#~ msgid ""
-#~ "BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "
-#~ "<http://www.eschenlaub.de/>`_"
-#~ msgstr ""
-
-#~ msgid "Changelog for QGIS: 2.8"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "**This feature was funded by:** `Georepublic Japan "
-#~ "<http://georepublic.co.jp/>`_"
-#~ msgstr ""
+msgstr "checkbox_unchecked"

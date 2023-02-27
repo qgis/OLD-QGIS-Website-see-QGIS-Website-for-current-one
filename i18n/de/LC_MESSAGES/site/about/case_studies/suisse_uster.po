@@ -1,18 +1,22 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
-# Jürgen E. Fischer <jef@norbit.de>, 2013,2015
+# Jürgen E. Fischer <jef@norbit.de>, 2013,2015,2022
+# Steffen Hollah, 2023
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2013-09-17 13:26+0000\n"
-"Last-Translator: Jürgen E. Fischer <jef@norbit.de>, 2013,2015\n"
+"Last-Translator: Steffen Hollah, 2023\n"
 "Language-Team: German (http://www.transifex.com/qgis/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: de\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -32,7 +36,7 @@ msgid ""
 msgstr "Die Stadt Uster benutzt QGIS seit 2007. Durch die Entscheidung des Kanton Solothurn für die Nutzung von QGIS als Desktop-GIS-Ersatz für ArcView wurde auch in Uster entschieden QGIS auszuprobieren. Die Stadt beteiligte sich an der weiteren Entwicklung der QGIS-Applikation durch die Anregung und den Test neuer Funktionen und durch die finzanzielle Unterstützung der Entwicklung. Im Gegenzug erhält User eine sich schnell entwickelndes, plattformunabhängiges Desktop-GIS- und WebGIS-Lösung, das durch eine weltweite Benutzer- und Entwicklungsgemeinschaft gestützt wird."
 
 msgid "uster"
-msgstr ""
+msgstr "Uster"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:12
 msgid ""
@@ -50,7 +54,7 @@ msgid ""
 msgstr "PostGIS/PostgreSQL wird als zentrales Geodatenlager verwendet. Andere Datenbanken und Datenquellen werden in regelmäßigen Abständen mit Werkzeugen wie OGR und FME in PostgreSQL repliziert. Zu Beginn wurde QGIS hauptsächlich zur Anzeige verwendet. Der erste QGIS-Benutzer war ein Bauer, der die Erklärungen andere Bauern der Umgebung für landwirtschaftliche Zuschüsse zu überwachen hatte.  Später wurde QGIS auch als Plattform zur Datenbearbeitung und Kartenveröffentlichung eingeführt - dabei wurden auch die Bearbeitungswerkzeuge und die Druckzusammenstellung verbessert. Zusammen mit anderen schweizer QGIS-Benutzer (Solothurn, Thun und CDE (Berner Universität)) koordinieren und sponsorn wir die Verbesserung dieser Werkzeuge und auch einige Verbesserungen bei der datengetriebenen Darstellung, automatische Beschriftung, Attributbehandlung und Formulare."
 
 msgid "uster location"
-msgstr ""
+msgstr "Lage von Uster"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:19
 msgid ""
@@ -157,7 +161,7 @@ msgid ""
 " having to deal with licensing management. We are looking forward to future "
 "collaboration with the QGIS community and our commercial supporters for the "
 "advancement of the QGIS project."
-msgstr "Fehler werden oft innerhalb von Stunden oder Tage nach Meldung behoben und neue Entwicklungen werden in einem kurzen Zeitraum implementiert. Neue Funktionen können unmittelbar nach der Entwicklung getestet und den Benutzers zur Verfügung gestellt werden, sobald die Qualität gut genug für den Endnutzer ist. Es gibt keinen Grund auf offizielle Softwarefreigabe zu warten. Wir schätzen die Möglichkeit das Projekt zu beeinflußen und die Software auf sovielen Computern zu installieren wie wir möchten, ohne uns mit Lizenzverwaltung zu befassen. Wir freuen uns auf die zukünftige Zusammenarbeit mit der QGIS-Gemeinschaft und unseren kommerziellen Unterstützern um das QGIS-Projekt voran zu bringen."
+msgstr "Fehler werden oft innerhalb von Stunden oder Tage nach Meldung behoben und neue Entwicklungen werden in einem kurzen Zeitraum implementiert. Neue Funktionen können unmittelbar nach der Entwicklung getestet und den Benutzers zur Verfügung gestellt werden, sobald die Qualität gut genug für den Endnutzer ist. Es gibt keinen Grund auf offizielle Softwarefreigabe zu warten. Wir schätzen die Möglichkeit das Projekt zu beeinflussen und die Software auf sovielen Computern zu installieren wie wir möchten, ohne uns mit Lizenzverwaltung zu befassen. Wir freuen uns auf die zukünftige Zusammenarbeit mit der QGIS-Gemeinschaft und unseren kommerziellen Unterstützern um das QGIS-Projekt voran zu bringen."
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:52
 msgid "Author"
@@ -179,10 +183,4 @@ msgstr "Kontrollkästchen"
 
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
-msgstr ""
-
-#~ msgid ""
-#~ "Planning and visualization for energy planning (gas supply regions, heat use"
-#~ " from waste water, near-surface geothermal energy, block heating stations, "
-#~ "etc.) Additional further projects are currently under development."
-#~ msgstr ""
+msgstr "checkbox_unchecked"

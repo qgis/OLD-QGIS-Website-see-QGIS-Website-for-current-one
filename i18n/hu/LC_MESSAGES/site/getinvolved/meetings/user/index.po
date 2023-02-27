@@ -1,18 +1,22 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
+# Báthory Péter <bathory86p@gmail.com>, 2022
 # Zoltan Siki <siki.zoltan@epito.bme.hu>, 2015,2017-2018
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2013-09-23 16:19+0000\n"
-"Last-Translator: Zoltan Siki <siki.zoltan@epito.bme.hu>, 2015,2017-2018\n"
+"Last-Translator: Báthory Péter <bathory86p@gmail.com>, 2022\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -22,15 +26,15 @@ msgstr "QGIS felhasználói találkozók"
 
 #: ../../source/site/getinvolved/meetings/user/index.rst:5
 msgid "The organization of events happens on the `QGIS wiki <wiki_link_>`_."
-msgstr ""
+msgstr "Az események szervezése a `QGIS wikin <wiki_link_>`_ történik."
 
 #: ../../source/site/getinvolved/meetings/user/index.rst:10
 msgid "Pre-2013 events are listed below:"
-msgstr ""
+msgstr "Alább láthatóak a 2013 előtti események:"
 
 #: ../../source/site/getinvolved/meetings/user/index.rst:13
 msgid "7th german-speaking QGIS User Meeting in Kassel 2013"
-msgstr "7, német-nyelvű QGIS felhasználói találkozó Kasselban, 2013"
+msgstr "7. német-nyelvű QGIS felhasználói találkozó Kasselban, 2013"
 
 #: ../../source/site/getinvolved/meetings/user/index.rst:15
 msgid ""
@@ -89,7 +93,4 @@ msgstr "checkbox"
 
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
-msgstr ""
-
-#~ msgid "Contents:"
-#~ msgstr ""
+msgstr "checkbox_unchecked"

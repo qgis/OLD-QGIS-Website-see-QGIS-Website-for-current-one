@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018, QGIS Contributors
+# Copyright (C) 2023, QGIS Contributors
 # This file is distributed under the same license as the QGIS package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 # 
 # Translators:
 # Dany Laksono <danylaksono@ugm.ac.id>, 2020
 # Achmad Firmansyah <achm.firmansyah@gmail.com>, 2020
 # Tim Sutton <tim@kartoza.com>, 2020
 # Jürgen E. Fischer <jef@norbit.de>, 2020
-# Imron Fauzi <imronfauzi@gmail.com>, 2020
+# imron fauzi <imronfauzi@gmail.com>, 2020
 # Yudha Ha Te <yudha_ht@yahoo.com>, 2020
 # Ridho Dwi Dharmawan <ridhodwidh@gmail.com>, 2020
 # Ali Mustopa <ali.m@amikom.ac.id>, 2022
@@ -16,16 +16,16 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: QGIS 3.4\n"
+"Project-Id-Version: QGIS 3.28\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2018-12-19 16:27+0000\n"
 "Last-Translator: Ali Mustopa <ali.m@amikom.ac.id>, 2022\n"
 "Language-Team: Indonesian (https://www.transifex.com/qgis/teams/6144/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: id\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -37,11 +37,15 @@ msgstr "Catatan perubahan untuk QGIS 3.4 LTR"
 msgid "|image0|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1091
+#: ../../source/site/forusers/visualchangelog34/index.rst:1093
 msgid "image0"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:9
+msgid "Release date: 2018-10-26"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:11
 msgid ""
 "The first long-term release (LTR) of QGIS 3. QGIS 3.4 just released. After "
 "five consolidation point releases (3.4.5) it will replace the previous LTR "
@@ -57,11 +61,11 @@ msgid ""
 "scope of changes in the 3.4 release."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:13
+#: ../../source/site/forusers/visualchangelog34/index.rst:15
 msgid "**Thanks**"
 msgstr "**Ucapan Terima Kasih**"
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:15
+#: ../../source/site/forusers/visualchangelog34/index.rst:17
 msgid ""
 "We would like to thank the developers, documenters, testers and all the many"
 " folks out there who volunteer their time and effort (or fund people to do "
@@ -70,7 +74,7 @@ msgid ""
 "please wander along to `qgis.org <https://qgis.org>`__ and lend a hand!"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:17
+#: ../../source/site/forusers/visualchangelog34/index.rst:19
 msgid ""
 "QGIS is supported by donors and sustaining members. A current list of donors"
 " who have made financial contributions large and small to the project can be"
@@ -83,13 +87,13 @@ msgid ""
 "supporters!"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:19
+#: ../../source/site/forusers/visualchangelog34/index.rst:21
 msgid ""
 ":raw-html:`<div id=\"qgissustainingmembersatom\"> <!-- to be filled via "
 "javascript loading of atom feed --> </div>`"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:21
+#: ../../source/site/forusers/visualchangelog34/index.rst:23
 msgid ""
 "QGIS is Free software and you are under no obligation to pay anything to use"
 " it - in fact we want to encourage people far and wide to use it regardless "
@@ -98,23 +102,23 @@ msgid ""
 "of humanity."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:23
+#: ../../source/site/forusers/visualchangelog34/index.rst:25
 msgid "|image1|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1093
+#: ../../source/site/forusers/visualchangelog34/index.rst:1095
 msgid "image1"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:30
+#: ../../source/site/forusers/visualchangelog34/index.rst:32
 msgid "General"
 msgstr "Umum"
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:33
+#: ../../source/site/forusers/visualchangelog34/index.rst:35
 msgid "Feature: Flatpak"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:35
+#: ../../source/site/forusers/visualchangelog34/index.rst:37
 msgid ""
 "QGIS is now available as a flatpak application on `flathub "
 "<https://flathub.org/apps/search/qgis>`__ Flatpak (formerly xdg-app) is a "
@@ -126,7 +130,7 @@ msgid ""
 "working with flatpak, but it rocks!"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:39
+#: ../../source/site/forusers/visualchangelog34/index.rst:41
 msgid "|image28|"
 msgstr ""
 
@@ -134,124 +138,124 @@ msgstr ""
 msgid "image28"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:41
+#: ../../source/site/forusers/visualchangelog34/index.rst:43
 msgid "This feature was funded by `Aleix Pol <https://github.com/aleixpol>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:43
+#: ../../source/site/forusers/visualchangelog34/index.rst:45
 msgid ""
 "This feature was developed by `Aleix Pol <https://github.com/aleixpol>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:46
+#: ../../source/site/forusers/visualchangelog34/index.rst:48
 msgid "Feature: SVG files can be embedded in projects and symbols"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:48
+#: ../../source/site/forusers/visualchangelog34/index.rst:50
 msgid ""
 "Allows SVG images for symbology, labels, etc to be directly embedded inside "
 "a project file (or QML style, or QPT print template!) by encoding the svg as"
 " a standard base64 string."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:50
+#: ../../source/site/forusers/visualchangelog34/index.rst:52
 msgid ""
 "Additionally, embeded files can be extracted from projects and symbols and "
 "saved back to disk based SVG files."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:52
-#: ../../source/site/forusers/visualchangelog34/index.rst:488
+#: ../../source/site/forusers/visualchangelog34/index.rst:54
+#: ../../source/site/forusers/visualchangelog34/index.rst:490
 msgid "This feature was funded by `SMEC/SJ <http://smec.com>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:54
-#: ../../source/site/forusers/visualchangelog34/index.rst:490
-#: ../../source/site/forusers/visualchangelog34/index.rst:561
+#: ../../source/site/forusers/visualchangelog34/index.rst:56
+#: ../../source/site/forusers/visualchangelog34/index.rst:492
+#: ../../source/site/forusers/visualchangelog34/index.rst:563
 msgid ""
 "This feature was developed by `Nyall Dawson <https://north-road.com>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:57
+#: ../../source/site/forusers/visualchangelog34/index.rst:59
 msgid "Feature: OpenCL based acceleration"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:59
+#: ../../source/site/forusers/visualchangelog34/index.rst:61
 msgid "This feature was funded by `QGIS.org <https://qgis.org>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:61
+#: ../../source/site/forusers/visualchangelog34/index.rst:63
 msgid ""
 "This feature was developed by `Alessandro Pasotti <https://qgis.org>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:64
+#: ../../source/site/forusers/visualchangelog34/index.rst:66
 msgid "Expressions"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:67
+#: ../../source/site/forusers/visualchangelog34/index.rst:69
 msgid "Feature: New expression functions and variables"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:69
+#: ../../source/site/forusers/visualchangelog34/index.rst:71
 msgid ""
 "Many new expression functions have been added in QGIS 3.4. These include "
 "many handy functions for working with and manipulating arrays and maps "
 "(dictionary) objects."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:71
+#: ../../source/site/forusers/visualchangelog34/index.rst:73
 msgid ""
 "**json\\_to\\_map**: Converts a JSON encoded string value to a map "
 "(dictionary) type object"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:72
+#: ../../source/site/forusers/visualchangelog34/index.rst:74
 msgid ""
 "**map\\_to\\_json**: Converts a map (dictionary) type object to a JSON "
 "encoded string value"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:73
+#: ../../source/site/forusers/visualchangelog34/index.rst:75
 msgid ""
 "**hstore\\_to\\_map**: Converts a hstore value to a map (dictionary) type "
 "object"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:74
+#: ../../source/site/forusers/visualchangelog34/index.rst:76
 msgid ""
 "**map\\_to\\_hstore**: Converts a map (dictionary) type object to a hstore "
 "value"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:75
+#: ../../source/site/forusers/visualchangelog34/index.rst:77
 msgid ""
 "**array\\_foreach** : Loops over an array and executes an expression on each"
 " item in the array, returning a new array containing each calculated value"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:76
+#: ../../source/site/forusers/visualchangelog34/index.rst:78
 msgid "**array\\_filter** : Filters an array according to an expression"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:77
+#: ../../source/site/forusers/visualchangelog34/index.rst:79
 msgid ""
 "**raster\\_value**: Returns a value sampled from a raster layer at a "
 "specified point"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:78
+#: ../../source/site/forusers/visualchangelog34/index.rst:80
 msgid ""
 "**to\\_dms**: Converts a numeric value to a Degrees, Minutes, Seconds "
 "formatted string"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:79
+#: ../../source/site/forusers/visualchangelog34/index.rst:81
 msgid ""
 "**to\\_dm**: Converts a numeric value to a Degrees, Minutes formatted string"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:80
+#: ../../source/site/forusers/visualchangelog34/index.rst:82
 msgid ""
 "**line\\_substring**: Returns the portion of a line (or curve) geometry "
 "which falls between the specified start and end distances (measured from the"
@@ -259,37 +263,37 @@ msgid ""
 "existing values."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:81
+#: ../../source/site/forusers/visualchangelog34/index.rst:83
 msgid ""
 "**generate\\_series(start,stop,step)**: Creates an array containing a "
 "sequence of numbers."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:83
+#: ../../source/site/forusers/visualchangelog34/index.rst:85
 msgid ""
 "Additionally, some new variables have also been made available for use "
 "within QGIS expressions:"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:85
+#: ../../source/site/forusers/visualchangelog34/index.rst:87
 msgid ""
 "**@canvas\\_cursor\\_point**: Contains a point value representing the "
 "current position of the mouse cursor within the main map canvas"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:86
+#: ../../source/site/forusers/visualchangelog34/index.rst:88
 msgid ""
 "**@map\\_layers**: Contains an array of all layers which are visible within "
 "the map"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:87
+#: ../../source/site/forusers/visualchangelog34/index.rst:89
 msgid ""
 "**@map\\_layer\\_ids**: Contains an array of all layer IDs for layers "
 "visible within the map"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:89
+#: ../../source/site/forusers/visualchangelog34/index.rst:91
 msgid "|image2|"
 msgstr ""
 
@@ -297,31 +301,31 @@ msgstr ""
 msgid "image2"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:91
+#: ../../source/site/forusers/visualchangelog34/index.rst:93
 msgid ""
 "This feature was developed by `Etienne Trimaille, Matteo Ghetta, Matthias "
 "Kuhn, Mathieu Pellerin, Nyall Dawson <https://qgis.org>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:94
+#: ../../source/site/forusers/visualchangelog34/index.rst:96
 msgid "Feature: Code completion for expression builder"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:96
+#: ../../source/site/forusers/visualchangelog34/index.rst:98
 msgid "Autocompletion for code in the expression editor."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:98
+#: ../../source/site/forusers/visualchangelog34/index.rst:100
 msgid ""
 "Variables, function names and field names are proposed and inserted "
 "automatically when writing expressions"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:99
+#: ../../source/site/forusers/visualchangelog34/index.rst:101
 msgid "Function parameters are shown while filling them"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:101
+#: ../../source/site/forusers/visualchangelog34/index.rst:103
 msgid "|image3|"
 msgstr ""
 
@@ -329,25 +333,25 @@ msgstr ""
 msgid "image3"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:103
+#: ../../source/site/forusers/visualchangelog34/index.rst:105
 msgid "This feature was funded by `OPENGIS.ch <https://www.opengis.ch/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:105
+#: ../../source/site/forusers/visualchangelog34/index.rst:107
 msgid ""
 "This feature was developed by `Matthias Kuhn (OPENGIS.ch) "
 "<https://www.opengis.ch/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:108
+#: ../../source/site/forusers/visualchangelog34/index.rst:110
 msgid "Map Tools"
 msgstr "Peralatan Peta"
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:111
+#: ../../source/site/forusers/visualchangelog34/index.rst:113
 msgid "Feature: Identify or select features based on existing polygon"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:113
+#: ../../source/site/forusers/visualchangelog34/index.rst:115
 msgid ""
 "Often it is useful to select/identify features that are covered by an "
 "existing polygon. For this, users can use \"Select Features by Polygon\" and"
@@ -357,7 +361,7 @@ msgid ""
 "menu - that polygon will be used as input for selection or identification."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:115
+#: ../../source/site/forusers/visualchangelog34/index.rst:117
 msgid "|image4|"
 msgstr ""
 
@@ -365,25 +369,25 @@ msgstr ""
 msgid "image4"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:117
+#: ../../source/site/forusers/visualchangelog34/index.rst:119
 msgid "This feature was funded by Leicestershire County Council"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:119
+#: ../../source/site/forusers/visualchangelog34/index.rst:121
 msgid ""
 "This feature was developed by `Peter Petrik (Lutra Consulting) "
 "<https://www.lutraconsulting.co.uk/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:122
+#: ../../source/site/forusers/visualchangelog34/index.rst:124
 msgid "User Interface"
 msgstr "Antarmuka pengguna"
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:125
+#: ../../source/site/forusers/visualchangelog34/index.rst:127
 msgid "Feature: Auto selection of exported files in file manager"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:127
+#: ../../source/site/forusers/visualchangelog34/index.rst:129
 msgid ""
 "Whenever a message bar item links to a created file (e.g. after exporting a "
 "layout or map layer), the link will now directly open the folder containing "
@@ -392,37 +396,12 @@ msgid ""
 "an export from QGIS!"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:129
+#: ../../source/site/forusers/visualchangelog34/index.rst:131
 msgid "|image5|"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst
 msgid "image5"
-msgstr ""
-
-#: ../../source/site/forusers/visualchangelog34/index.rst:131
-#: ../../source/site/forusers/visualchangelog34/index.rst:140
-#: ../../source/site/forusers/visualchangelog34/index.rst:153
-#: ../../source/site/forusers/visualchangelog34/index.rst:164
-#: ../../source/site/forusers/visualchangelog34/index.rst:186
-#: ../../source/site/forusers/visualchangelog34/index.rst:371
-#: ../../source/site/forusers/visualchangelog34/index.rst:468
-#: ../../source/site/forusers/visualchangelog34/index.rst:497
-#: ../../source/site/forusers/visualchangelog34/index.rst:506
-#: ../../source/site/forusers/visualchangelog34/index.rst:521
-#: ../../source/site/forusers/visualchangelog34/index.rst:530
-#: ../../source/site/forusers/visualchangelog34/index.rst:539
-#: ../../source/site/forusers/visualchangelog34/index.rst:548
-#: ../../source/site/forusers/visualchangelog34/index.rst:559
-#: ../../source/site/forusers/visualchangelog34/index.rst:568
-#: ../../source/site/forusers/visualchangelog34/index.rst:577
-#: ../../source/site/forusers/visualchangelog34/index.rst:586
-#: ../../source/site/forusers/visualchangelog34/index.rst:595
-#: ../../source/site/forusers/visualchangelog34/index.rst:653
-#: ../../source/site/forusers/visualchangelog34/index.rst:970
-#: ../../source/site/forusers/visualchangelog34/index.rst:980
-#: ../../source/site/forusers/visualchangelog34/index.rst:993
-msgid "This feature was funded by `North Road <https://north-road.com>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:133
@@ -438,27 +417,52 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog34/index.rst:532
 #: ../../source/site/forusers/visualchangelog34/index.rst:541
 #: ../../source/site/forusers/visualchangelog34/index.rst:550
+#: ../../source/site/forusers/visualchangelog34/index.rst:561
 #: ../../source/site/forusers/visualchangelog34/index.rst:570
 #: ../../source/site/forusers/visualchangelog34/index.rst:579
 #: ../../source/site/forusers/visualchangelog34/index.rst:588
 #: ../../source/site/forusers/visualchangelog34/index.rst:597
-#: ../../source/site/forusers/visualchangelog34/index.rst:638
 #: ../../source/site/forusers/visualchangelog34/index.rst:655
-#: ../../source/site/forusers/visualchangelog34/index.rst:747
-#: ../../source/site/forusers/visualchangelog34/index.rst:756
 #: ../../source/site/forusers/visualchangelog34/index.rst:972
 #: ../../source/site/forusers/visualchangelog34/index.rst:982
 #: ../../source/site/forusers/visualchangelog34/index.rst:995
+msgid "This feature was funded by `North Road <https://north-road.com>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog34/index.rst:135
+#: ../../source/site/forusers/visualchangelog34/index.rst:144
+#: ../../source/site/forusers/visualchangelog34/index.rst:157
+#: ../../source/site/forusers/visualchangelog34/index.rst:168
+#: ../../source/site/forusers/visualchangelog34/index.rst:190
+#: ../../source/site/forusers/visualchangelog34/index.rst:375
+#: ../../source/site/forusers/visualchangelog34/index.rst:472
+#: ../../source/site/forusers/visualchangelog34/index.rst:501
+#: ../../source/site/forusers/visualchangelog34/index.rst:510
+#: ../../source/site/forusers/visualchangelog34/index.rst:525
+#: ../../source/site/forusers/visualchangelog34/index.rst:534
+#: ../../source/site/forusers/visualchangelog34/index.rst:543
+#: ../../source/site/forusers/visualchangelog34/index.rst:552
+#: ../../source/site/forusers/visualchangelog34/index.rst:572
+#: ../../source/site/forusers/visualchangelog34/index.rst:581
+#: ../../source/site/forusers/visualchangelog34/index.rst:590
+#: ../../source/site/forusers/visualchangelog34/index.rst:599
+#: ../../source/site/forusers/visualchangelog34/index.rst:640
+#: ../../source/site/forusers/visualchangelog34/index.rst:657
+#: ../../source/site/forusers/visualchangelog34/index.rst:749
+#: ../../source/site/forusers/visualchangelog34/index.rst:758
+#: ../../source/site/forusers/visualchangelog34/index.rst:974
+#: ../../source/site/forusers/visualchangelog34/index.rst:984
+#: ../../source/site/forusers/visualchangelog34/index.rst:997
 msgid ""
 "This feature was developed by `Nyall Dawson (North Road) <https://north-"
 "road.com>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:136
+#: ../../source/site/forusers/visualchangelog34/index.rst:138
 msgid "Feature: New \"Open Directory\" option for disabled welcome page projects"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:138
+#: ../../source/site/forusers/visualchangelog34/index.rst:140
 msgid ""
 "This new option in the right-click context menu for disabled entries on the "
 "welcome page allows users to open the closest existing path to the original "
@@ -466,11 +470,11 @@ msgid ""
 "missing/moved/renamed projects."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:145
+#: ../../source/site/forusers/visualchangelog34/index.rst:147
 msgid "Feature: UX Improvements for Temporary Scratch Layers"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:147
+#: ../../source/site/forusers/visualchangelog34/index.rst:149
 msgid ""
 "Temporary Scratch Layers in QGIS can be very handy when a \"throw-away\" "
 "layer is needed, such as when pre-processing data in multiple steps. "
@@ -481,7 +485,7 @@ msgid ""
 "immediately clear which layers are temporary only."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:149
+#: ../../source/site/forusers/visualchangelog34/index.rst:151
 msgid ""
 "It's also much easier to transition these temporary layers to permanent "
 "disk-based formats. You can either click the new indicator icon or select "
@@ -490,7 +494,7 @@ msgid ""
 "the same layer ID, style, form settings, etc)."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:151
+#: ../../source/site/forusers/visualchangelog34/index.rst:153
 msgid "|image6|"
 msgstr ""
 
@@ -498,11 +502,11 @@ msgstr ""
 msgid "image6"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:158
+#: ../../source/site/forusers/visualchangelog34/index.rst:160
 msgid "Feature: Task manager improvements"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:160
+#: ../../source/site/forusers/visualchangelog34/index.rst:162
 msgid ""
 "The QGIS task manager widget (shown in the status bar whenever a background "
 "task is running) now shows an estimated time remaining and completion time "
@@ -514,7 +518,7 @@ msgid ""
 "completes..."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:162
+#: ../../source/site/forusers/visualchangelog34/index.rst:164
 msgid ""
 "Additionally, QGIS uses the standard operating system progress reporting "
 "mechanisms on more platforms and occasions in QGIS 3.4. Some long running "
@@ -523,13 +527,13 @@ msgid ""
 "completion notifications."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:169
+#: ../../source/site/forusers/visualchangelog34/index.rst:171
 msgid ""
 "Feature: Hyperlinks to local vector & raster datasets in the information "
 "panel"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:171
+#: ../../source/site/forusers/visualchangelog34/index.rst:173
 msgid ""
 "For local vector and raster datasets, the Information tab within the layer "
 "properties dialog now features source file path hyperlinks. Upon clicking on"
@@ -537,7 +541,7 @@ msgid ""
 "highlight the dataset."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:173
+#: ../../source/site/forusers/visualchangelog34/index.rst:175
 msgid "|image7|"
 msgstr ""
 
@@ -545,25 +549,25 @@ msgstr ""
 msgid "image7"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:175
-#: ../../source/site/forusers/visualchangelog34/index.rst:616
+#: ../../source/site/forusers/visualchangelog34/index.rst:177
+#: ../../source/site/forusers/visualchangelog34/index.rst:618
 msgid ""
 "This feature was funded by `iMhere Asia <https://www.imhere-asia.com/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:177
-#: ../../source/site/forusers/visualchangelog34/index.rst:618
-#: ../../source/site/forusers/visualchangelog34/index.rst:629
+#: ../../source/site/forusers/visualchangelog34/index.rst:179
+#: ../../source/site/forusers/visualchangelog34/index.rst:620
+#: ../../source/site/forusers/visualchangelog34/index.rst:631
 msgid ""
 "This feature was developed by `Mathieu Pellerin <https://www.imhere-"
 "asia.com/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:180
+#: ../../source/site/forusers/visualchangelog34/index.rst:182
 msgid "Feature: Style manager improvements"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:182
+#: ../../source/site/forusers/visualchangelog34/index.rst:184
 msgid ""
 "The QGIS Style Manager dialog (which allows users to setup and manage their "
 "own libraries of symbols and color ramps) now opens non-modally, so it can "
@@ -571,7 +575,7 @@ msgid ""
 "dialog and Print Layout Designer windows)."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:184
+#: ../../source/site/forusers/visualchangelog34/index.rst:186
 msgid ""
 "We've also improved the preview of symbols within the Layer Styling dock, "
 "adding a toggle to switch between a large icon view and a detailed list view"
@@ -579,18 +583,18 @@ msgid ""
 "of the symbol. Finally, we've made symbol lists more hi-dpi friendly."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:191
+#: ../../source/site/forusers/visualchangelog34/index.rst:193
 msgid "Feature: Polished browser panel interface and experience"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:193
+#: ../../source/site/forusers/visualchangelog34/index.rst:195
 msgid ""
 "Tons of work was done for this release to improve the user interface and "
 "experience of the browser panel including HiDPI fixes, compressed "
 "vector/raster dataset improvements, and a refreshed icon set."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:195
+#: ../../source/site/forusers/visualchangelog34/index.rst:197
 msgid ""
 "Functionality has also been added, including the ability to create a new "
 "directory directly from the browser context menu. The browser also now shows"
@@ -598,7 +602,7 @@ msgid ""
 " options which were already available for other database connections."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:197
+#: ../../source/site/forusers/visualchangelog34/index.rst:199
 msgid "|image8|"
 msgstr ""
 
@@ -606,17 +610,17 @@ msgstr ""
 msgid "image8"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:199
+#: ../../source/site/forusers/visualchangelog34/index.rst:201
 msgid ""
 "This feature was developed by Mathieu Pellerin (iMHere Asia), Nyall Dawson "
 "(North Road)"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:202
+#: ../../source/site/forusers/visualchangelog34/index.rst:204
 msgid "Feature: QML chart and drawings widget"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:204
+#: ../../source/site/forusers/visualchangelog34/index.rst:206
 msgid ""
 "A new type of vector layer form widget for showing graphically appealing and"
 " interactive items like charts or technical drawings on the attribute form "
@@ -624,7 +628,7 @@ msgid ""
 "including example templates and expression support."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:207
+#: ../../source/site/forusers/visualchangelog34/index.rst:209
 msgid "|image9|"
 msgstr ""
 
@@ -632,82 +636,82 @@ msgstr ""
 msgid "image9"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:209
+#: ../../source/site/forusers/visualchangelog34/index.rst:211
 msgid "This feature was funded by `QGIS Project <https://qgis.org/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:211
+#: ../../source/site/forusers/visualchangelog34/index.rst:213
 msgid ""
 "This feature was developed by `David Signer and Matthias Kuhn (OPENGIS.ch) "
 "<https://www.opengis.ch>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:214
+#: ../../source/site/forusers/visualchangelog34/index.rst:216
 msgid "Symbology"
 msgstr "Simbologi"
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:217
+#: ../../source/site/forusers/visualchangelog34/index.rst:219
 msgid "Feature: Mesh layer styling"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:219
+#: ../../source/site/forusers/visualchangelog34/index.rst:221
 msgid "Adding datasets to mesh layer from properties panel"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:220
+#: ../../source/site/forusers/visualchangelog34/index.rst:222
 msgid "Information and source panel in properties panel"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:221
+#: ../../source/site/forusers/visualchangelog34/index.rst:223
 msgid "Selection of active dataset (properties or styling panel)"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:222
+#: ../../source/site/forusers/visualchangelog34/index.rst:224
 msgid "Styling of contours/scalars (properties or styling panel)"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:223
+#: ../../source/site/forusers/visualchangelog34/index.rst:225
 msgid "Styling of mesh frame (properties or styling panel)"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:224
+#: ../../source/site/forusers/visualchangelog34/index.rst:226
 msgid "Styling of vector arrows (properties or styling panel)"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:226
-#: ../../source/site/forusers/visualchangelog34/index.rst:705
-#: ../../source/site/forusers/visualchangelog34/index.rst:716
-#: ../../source/site/forusers/visualchangelog34/index.rst:727
-#: ../../source/site/forusers/visualchangelog34/index.rst:1067
-#: ../../source/site/forusers/visualchangelog34/index.rst:1087
+#: ../../source/site/forusers/visualchangelog34/index.rst:228
+#: ../../source/site/forusers/visualchangelog34/index.rst:707
+#: ../../source/site/forusers/visualchangelog34/index.rst:718
+#: ../../source/site/forusers/visualchangelog34/index.rst:729
+#: ../../source/site/forusers/visualchangelog34/index.rst:1069
+#: ../../source/site/forusers/visualchangelog34/index.rst:1089
 msgid ""
 "This feature was funded by `Lutra Consulting "
 "<https://www.lutraconsulting.co.uk/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:228
+#: ../../source/site/forusers/visualchangelog34/index.rst:230
 msgid ""
 "This feature was developed by `Peter Petrik (Lutra Consulting) "
 "<https://www.lutraconsulting.co.uk/blog/2018/10/18/mdal/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:231
+#: ../../source/site/forusers/visualchangelog34/index.rst:233
 msgid "Feature: Classify symmetric in graduated renderer"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:233
+#: ../../source/site/forusers/visualchangelog34/index.rst:235
 msgid "This feature was funded by https://github.com/pierreloicq"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:235
+#: ../../source/site/forusers/visualchangelog34/index.rst:237
 msgid "This feature was developed by https://github.com/pierreloicq"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:238
+#: ../../source/site/forusers/visualchangelog34/index.rst:240
 msgid "Feature: Partial QML export and import"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:240
+#: ../../source/site/forusers/visualchangelog34/index.rst:242
 msgid ""
 "When exporting and importing styles to and from ``.qml`` files it is now "
 "possible to select a subset of sections. This allows to save and restore "
@@ -718,7 +722,7 @@ msgid ""
 "sections of a style when using copy/paste."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:244
+#: ../../source/site/forusers/visualchangelog34/index.rst:246
 msgid "|image10|"
 msgstr ""
 
@@ -726,52 +730,52 @@ msgstr ""
 msgid "image10"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:246
+#: ../../source/site/forusers/visualchangelog34/index.rst:248
 msgid "This feature was funded by `qwat group <http://qwat.org/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:248
+#: ../../source/site/forusers/visualchangelog34/index.rst:250
 msgid ""
 "This feature was developed by `Denis Rouzaud (OPENGIS.ch GmbH) "
 "<https://www.opengis.ch>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:251
+#: ../../source/site/forusers/visualchangelog34/index.rst:253
 msgid "Digitising"
 msgstr "Digitalisasi"
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:254
+#: ../../source/site/forusers/visualchangelog34/index.rst:256
 msgid "Feature: GPS tracking improvements"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:256
+#: ../../source/site/forusers/visualchangelog34/index.rst:258
 msgid ""
 "QGIS 3.4 extends the inbuilt GPS tracking support, adding \"acquisition "
 "interval\" and \"distance threshold\" parameters. These options can be used "
 "to keep the cursor stationary when the receiver is in static conditions."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:258
+#: ../../source/site/forusers/visualchangelog34/index.rst:260
 msgid ""
 "This feature was funded by `Andrea Rossi <https://github.com/rossia>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:260
+#: ../../source/site/forusers/visualchangelog34/index.rst:262
 msgid ""
 "This feature was developed by `Andrea Rossi <https://github.com/rossia>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:263
+#: ../../source/site/forusers/visualchangelog34/index.rst:265
 msgid "Feature: More angle choices in advanced digitizing dock"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:265
+#: ../../source/site/forusers/visualchangelog34/index.rst:267
 msgid ""
 "Options were added to allowing snapping to 5/10/15/18/22.5 degrees while in "
 "construction mode."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:267
+#: ../../source/site/forusers/visualchangelog34/index.rst:269
 msgid "|image11|"
 msgstr ""
 
@@ -779,22 +783,22 @@ msgstr ""
 msgid "image11"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:269
+#: ../../source/site/forusers/visualchangelog34/index.rst:271
 msgid ""
 "This feature was funded by `lbartoletti <https://github.com/lbartoletti>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:271
+#: ../../source/site/forusers/visualchangelog34/index.rst:273
 msgid ""
 "This feature was developed by `lbartoletti "
 "<https://github.com/lbartoletti>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:274
+#: ../../source/site/forusers/visualchangelog34/index.rst:276
 msgid "Feature: Vertex tool can work on the current layer only"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:276
+#: ../../source/site/forusers/visualchangelog34/index.rst:278
 msgid ""
 "The new vertex is a lot more productive now. It can move vertices of all "
 "editable layers at once, which is great to preserve cross layers topology. "
@@ -802,7 +806,7 @@ msgid ""
 "We added a variation of the vertex map tool just for that."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:278
+#: ../../source/site/forusers/visualchangelog34/index.rst:280
 msgid "|image12|"
 msgstr ""
 
@@ -810,27 +814,27 @@ msgstr ""
 msgid "image12"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:280
+#: ../../source/site/forusers/visualchangelog34/index.rst:282
 msgid "This feature was funded by `Oslandia <https://oslandia.com>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:282
+#: ../../source/site/forusers/visualchangelog34/index.rst:284
 msgid ""
 "This feature was developed by `Paul Blottiere (Oslandia) "
 "<https://oslandia.com/en/home-en/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:285
+#: ../../source/site/forusers/visualchangelog34/index.rst:287
 msgid "Feature: Add reverse line maptools"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:287
+#: ../../source/site/forusers/visualchangelog34/index.rst:289
 msgid ""
 "A long awaited feature ! No more external plugin or algorithm to reverse a "
 "line's direction!"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:289
+#: ../../source/site/forusers/visualchangelog34/index.rst:291
 msgid "|image13|"
 msgstr ""
 
@@ -838,22 +842,22 @@ msgstr ""
 msgid "image13"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:291
-#: ../../source/site/forusers/visualchangelog34/index.rst:927
+#: ../../source/site/forusers/visualchangelog34/index.rst:293
+#: ../../source/site/forusers/visualchangelog34/index.rst:929
 msgid "This feature was funded by `OSLANDIA <https://oslandia.com>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:293
+#: ../../source/site/forusers/visualchangelog34/index.rst:295
 msgid ""
 "This feature was developed by `Loïc Bartoletti "
 "<https://github.com/lbartoletti>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:296
+#: ../../source/site/forusers/visualchangelog34/index.rst:298
 msgid "Feature: Geometry Precision"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:298
+#: ../../source/site/forusers/visualchangelog34/index.rst:300
 msgid ""
 "Vector layers have a precision configuration option. The precision defines "
 "how accurate the location of nodes should be saved. Each node of new or "
@@ -861,7 +865,7 @@ msgid ""
 " the grid is shown to guide the user."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:302
+#: ../../source/site/forusers/visualchangelog34/index.rst:304
 msgid "|image14|"
 msgstr ""
 
@@ -869,49 +873,49 @@ msgstr ""
 msgid "image14"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:304
-#: ../../source/site/forusers/visualchangelog34/index.rst:314
-#: ../../source/site/forusers/visualchangelog34/index.rst:325
-#: ../../source/site/forusers/visualchangelog34/index.rst:345
-#: ../../source/site/forusers/visualchangelog34/index.rst:738
+#: ../../source/site/forusers/visualchangelog34/index.rst:306
+#: ../../source/site/forusers/visualchangelog34/index.rst:316
+#: ../../source/site/forusers/visualchangelog34/index.rst:327
+#: ../../source/site/forusers/visualchangelog34/index.rst:347
+#: ../../source/site/forusers/visualchangelog34/index.rst:740
 msgid ""
 "This feature was funded by `Kanton Solothurn "
 "<https://www.so.ch/verwaltung/bau-und-justizdepartement/amt-fuer-"
 "geoinformation/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:306
-#: ../../source/site/forusers/visualchangelog34/index.rst:316
-#: ../../source/site/forusers/visualchangelog34/index.rst:327
-#: ../../source/site/forusers/visualchangelog34/index.rst:347
+#: ../../source/site/forusers/visualchangelog34/index.rst:308
+#: ../../source/site/forusers/visualchangelog34/index.rst:318
+#: ../../source/site/forusers/visualchangelog34/index.rst:329
+#: ../../source/site/forusers/visualchangelog34/index.rst:349
 msgid ""
 "This feature was developed by `Matthias Kuhn (OPENGIS.ch) "
 "<https://www.opengis.ch>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:309
+#: ../../source/site/forusers/visualchangelog34/index.rst:311
 msgid "Feature: Automatically remove duplicate nodes"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:311
+#: ../../source/site/forusers/visualchangelog34/index.rst:313
 msgid ""
 "When adding or editing geometries on a vector layer, QGIS can automatically "
 "remove duplicate nodes from geometries. This option is configurable in the "
 "digitizing tab of vector layers."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:319
+#: ../../source/site/forusers/visualchangelog34/index.rst:321
 msgid "Feature: Check for geometry validity"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:321
+#: ../../source/site/forusers/visualchangelog34/index.rst:323
 msgid ""
 "Each new or edited geometry can be checked for validity if this option is "
 "activated. This allows to communicate transparently to a user when there are"
 " erroneous geometries produced by the current edit session."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:323
+#: ../../source/site/forusers/visualchangelog34/index.rst:325
 msgid "|image15|"
 msgstr ""
 
@@ -919,11 +923,11 @@ msgstr ""
 msgid "image15"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:330
+#: ../../source/site/forusers/visualchangelog34/index.rst:332
 msgid "Feature: Topology checks while editing"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:332
+#: ../../source/site/forusers/visualchangelog34/index.rst:334
 msgid ""
 "Topology checks can be activated on a layer. On newly added and edited "
 "geometries, topology checks can be executed. The checks will be executed, "
@@ -931,29 +935,29 @@ msgid ""
 "geometry validation panel."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:335
+#: ../../source/site/forusers/visualchangelog34/index.rst:337
 msgid "The following checks are available:"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:337
+#: ../../source/site/forusers/visualchangelog34/index.rst:339
 msgid "Gaps"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:338
+#: ../../source/site/forusers/visualchangelog34/index.rst:340
 msgid "Overlaps"
 msgstr "Tumpang tindih"
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:339
+#: ../../source/site/forusers/visualchangelog34/index.rst:341
 msgid "Missing vertices on neighbouring polygons"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:341
+#: ../../source/site/forusers/visualchangelog34/index.rst:343
 msgid ""
 "This builds on top of the functionality of the geometry checker plugin which"
 " was implemented by `Sourcepole <https://sourcepole.ch>`__."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:343
+#: ../../source/site/forusers/visualchangelog34/index.rst:345
 msgid "|image16|"
 msgstr ""
 
@@ -961,15 +965,15 @@ msgstr ""
 msgid "image16"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:350
+#: ../../source/site/forusers/visualchangelog34/index.rst:352
 msgid "Data Management"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:353
+#: ../../source/site/forusers/visualchangelog34/index.rst:355
 msgid "Feature: Translation of QGIS projects"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:355
+#: ../../source/site/forusers/visualchangelog34/index.rst:357
 msgid ""
 "Like QGIS and the plugins, the projects are translated with the Qt "
 "translation process. Means, it makes the translation according to a Qt "
@@ -982,29 +986,29 @@ msgid ""
 " like Qt Linguist or Transifex."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:358
+#: ../../source/site/forusers/visualchangelog34/index.rst:360
 msgid ""
 "More information in `this blog post <https://new.opengis.ch/2018/09/11/qgis-"
 "speaks-a-lot-of-languages/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:360
+#: ../../source/site/forusers/visualchangelog34/index.rst:362
 msgid ""
 "This feature was funded by `QGIS Usergroup Switzerland and QGEP Project "
 "<https://www.qgis.ch/en>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:362
+#: ../../source/site/forusers/visualchangelog34/index.rst:364
 msgid ""
 "This feature was developed by `David Signer (OPENGIS.ch) "
 "<https://www.opengis.ch/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:365
+#: ../../source/site/forusers/visualchangelog34/index.rst:367
 msgid "Feature: Switch Attribute Table dock mode on demand"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:367
+#: ../../source/site/forusers/visualchangelog34/index.rst:369
 msgid ""
 "A button has been added to the Attribute Table toolbar for switching between"
 " docked and window mode on demand. Previously users had to change an option "
@@ -1013,7 +1017,7 @@ msgid ""
 "already open that you'd like to dock/undock it...!"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:369
+#: ../../source/site/forusers/visualchangelog34/index.rst:371
 msgid "|image17|"
 msgstr ""
 
@@ -1021,17 +1025,17 @@ msgstr ""
 msgid "image17"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:376
+#: ../../source/site/forusers/visualchangelog34/index.rst:378
 msgid "Feature: New locator filter to search across all layers"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:378
+#: ../../source/site/forusers/visualchangelog34/index.rst:380
 msgid ""
 "A new locator filter has been added which allows users to search across "
 "*all* layers in their project, by the layer's display expression."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:380
+#: ../../source/site/forusers/visualchangelog34/index.rst:382
 msgid ""
 "The filter can be activated by using the prefix 'af', or by making it a "
 "default search via QGIS options -> Locator -> Features In All Layer. Display"
@@ -1040,7 +1044,7 @@ msgid ""
 "Properties dialog, under the Data Sources tab."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:382
+#: ../../source/site/forusers/visualchangelog34/index.rst:384
 msgid "|image18|"
 msgstr ""
 
@@ -1048,33 +1052,33 @@ msgstr ""
 msgid "image18"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:384
+#: ../../source/site/forusers/visualchangelog34/index.rst:386
 msgid "This feature was funded by `Opengis.ch <https://www.opengis.ch/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:386
+#: ../../source/site/forusers/visualchangelog34/index.rst:388
 msgid ""
 "This feature was developed by `Denis Rouzaud <https://www.opengis.ch/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:389
+#: ../../source/site/forusers/visualchangelog34/index.rst:391
 msgid "Feature: Non-removable (required) layers highlighted in layer tree"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:391
+#: ../../source/site/forusers/visualchangelog34/index.rst:393
 msgid ""
 "A new indicator \"locked\" icon is shown for any layers marked as "
 "\"required\" within the current project. This icon gives users instant "
 "feedback that a particular layer cannot be removed from the project."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:393
+#: ../../source/site/forusers/visualchangelog34/index.rst:395
 msgid ""
 "Required layers are configured via the Project Properties dialog, Data "
 "Sources tab."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:395
+#: ../../source/site/forusers/visualchangelog34/index.rst:397
 msgid "|image19|"
 msgstr ""
 
@@ -1082,31 +1086,31 @@ msgstr ""
 msgid "image19"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:397
+#: ../../source/site/forusers/visualchangelog34/index.rst:399
 msgid ""
 "This feature was funded by `Arpa Piemonte (Dipartimento Tematico Geologia e "
 "Dissesto) within ERIKUS project <https://www.arpa.piemonte.it/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:399
-#: ../../source/site/forusers/visualchangelog34/index.rst:1080
+#: ../../source/site/forusers/visualchangelog34/index.rst:401
+#: ../../source/site/forusers/visualchangelog34/index.rst:1082
 msgid ""
 "This feature was developed by `Martin Dobias (Lutra Consulting) "
 "<https://www.lutraconsulting.co.uk>`__ and `Faunalia "
 "<https://www.faunalia.eu>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:402
+#: ../../source/site/forusers/visualchangelog34/index.rst:404
 msgid "Feature: Append raster layer to an existing Geopackage"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:404
+#: ../../source/site/forusers/visualchangelog34/index.rst:406
 msgid ""
 "When saving a raster layer to GeoPackage database, it's now possible to "
 "append the layer to an existing file."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:406
+#: ../../source/site/forusers/visualchangelog34/index.rst:408
 msgid "|image20|"
 msgstr ""
 
@@ -1114,28 +1118,28 @@ msgstr ""
 msgid "image20"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:408
-#: ../../source/site/forusers/visualchangelog34/index.rst:941
+#: ../../source/site/forusers/visualchangelog34/index.rst:410
+#: ../../source/site/forusers/visualchangelog34/index.rst:943
 msgid ""
 "This feature was funded by `Borys Jurgiel <https://github.com/borysiasty>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:410
-#: ../../source/site/forusers/visualchangelog34/index.rst:943
+#: ../../source/site/forusers/visualchangelog34/index.rst:412
+#: ../../source/site/forusers/visualchangelog34/index.rst:945
 msgid ""
 "This feature was developed by `Borys Jurgiel "
 "<https://github.com/borysiasty>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:413
+#: ../../source/site/forusers/visualchangelog34/index.rst:415
 msgid "Forms and Widgets"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:416
+#: ../../source/site/forusers/visualchangelog34/index.rst:418
 msgid "Feature: Drill-down (cascading) forms in QGIS Value Relation Widgets"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:418
+#: ../../source/site/forusers/visualchangelog34/index.rst:420
 msgid ""
 "New functions and logic in QGIS “Value Relation Widgets”, allowing the "
 "implementation of complex, dynamic filters within QGIS attribute forms. The "
@@ -1143,7 +1147,7 @@ msgid ""
 " the values available in one field depend on the values of other fields:"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:420
+#: ../../source/site/forusers/visualchangelog34/index.rst:422
 msgid "|image21|"
 msgstr ""
 
@@ -1151,30 +1155,30 @@ msgstr ""
 msgid "image21"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:422
+#: ../../source/site/forusers/visualchangelog34/index.rst:424
 msgid ""
 "This feature was funded by `QGIS community through crowd-funding "
 "<https://north-road.com/drill-down-cascading-forms/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:424
+#: ../../source/site/forusers/visualchangelog34/index.rst:426
 msgid "This feature was developed by Alessandro Pasotti (with North Road)"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:427
+#: ../../source/site/forusers/visualchangelog34/index.rst:429
 msgid "Map Composer"
 msgstr "Penyusun Peta"
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:430
+#: ../../source/site/forusers/visualchangelog34/index.rst:432
 msgid "Feature: 3D map items"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:432
+#: ../../source/site/forusers/visualchangelog34/index.rst:434
 msgid ""
 "This feature allows users to add their 3D map view to the print layout."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:434
+#: ../../source/site/forusers/visualchangelog34/index.rst:436
 msgid "|image22|"
 msgstr ""
 
@@ -1182,33 +1186,33 @@ msgstr ""
 msgid "image22"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:436
-#: ../../source/site/forusers/visualchangelog34/index.rst:1035
-#: ../../source/site/forusers/visualchangelog34/index.rst:1048
+#: ../../source/site/forusers/visualchangelog34/index.rst:438
+#: ../../source/site/forusers/visualchangelog34/index.rst:1037
+#: ../../source/site/forusers/visualchangelog34/index.rst:1050
 msgid ""
 "This feature was funded by `QGIS community through crowd-funding "
 "<https://www.lutraconsulting.co.uk/crowdfunding/more-qgis-3d/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:438
-#: ../../source/site/forusers/visualchangelog34/index.rst:696
-#: ../../source/site/forusers/visualchangelog34/index.rst:707
-#: ../../source/site/forusers/visualchangelog34/index.rst:718
-#: ../../source/site/forusers/visualchangelog34/index.rst:729
+#: ../../source/site/forusers/visualchangelog34/index.rst:440
+#: ../../source/site/forusers/visualchangelog34/index.rst:698
+#: ../../source/site/forusers/visualchangelog34/index.rst:709
+#: ../../source/site/forusers/visualchangelog34/index.rst:720
+#: ../../source/site/forusers/visualchangelog34/index.rst:731
 msgid ""
 "This feature was developed by `Lutra Consulting "
 "<https://www.lutraconsulting.co.uk/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:441
+#: ../../source/site/forusers/visualchangelog34/index.rst:443
 msgid "Processing"
 msgstr "Pengolahan"
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:444
+#: ../../source/site/forusers/visualchangelog34/index.rst:446
 msgid "Feature: New \"Edit in place\" mode"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:446
+#: ../../source/site/forusers/visualchangelog34/index.rst:448
 msgid ""
 "Thanks to a large number of `generous backers <https://north-road.com/edit-"
 "features-in-place-using-qgis-spatial-operations-campaign/>`__, a crowdfunded"
@@ -1220,7 +1224,7 @@ msgid ""
 "back to the data source."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:448
+#: ../../source/site/forusers/visualchangelog34/index.rst:450
 msgid ""
 "For those power users who perform frequent data edits, this functionality is"
 " also exposed via QGIS 3.0’s “Locator bar” (that “type to locate” bar which "
@@ -1229,23 +1233,23 @@ msgid ""
 "directly via the keyboard. E.g."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:450
+#: ../../source/site/forusers/visualchangelog34/index.rst:452
 msgid "Select a bunch of line features"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:451
+#: ../../source/site/forusers/visualchangelog34/index.rst:453
 msgid "Press Ctrl + K (activates the locator bar)"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:452
+#: ../../source/site/forusers/visualchangelog34/index.rst:454
 msgid "Type “ef reverse”"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:453
+#: ../../source/site/forusers/visualchangelog34/index.rst:455
 msgid "Press enter – the selected line features will be reversed immediately!"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:455
+#: ../../source/site/forusers/visualchangelog34/index.rst:457
 msgid "|image23|"
 msgstr ""
 
@@ -1253,21 +1257,21 @@ msgstr ""
 msgid "image23"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:457
+#: ../../source/site/forusers/visualchangelog34/index.rst:459
 msgid ""
 "This feature was funded by `Crowdfunding campaign <https://north-"
 "road.com/edit-features-in-place-using-qgis-spatial-operations-campaign/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:459
+#: ../../source/site/forusers/visualchangelog34/index.rst:461
 msgid "This feature was developed by `North Road <https://north-road.com>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:462
+#: ../../source/site/forusers/visualchangelog34/index.rst:464
 msgid "Feature: Store models inside project"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:464
+#: ../../source/site/forusers/visualchangelog34/index.rst:466
 msgid ""
 "Some Processing models are so intrinsically linked to the logic inside a "
 "particular project that they have no meaning (or are totally broken) outside"
@@ -1280,24 +1284,24 @@ msgid ""
 "included."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:466
+#: ../../source/site/forusers/visualchangelog34/index.rst:468
 msgid ""
 "Models are stored inside projects by clicking the new \"Embed in Project\" "
 "button in the Modeler dialog toolbar. Models can be removed from a project "
 "from the model's right click menu in the toolbox."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:473
+#: ../../source/site/forusers/visualchangelog34/index.rst:475
 msgid "Feature: Sample Raster Values"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:475
+#: ../../source/site/forusers/visualchangelog34/index.rst:477
 msgid ""
 "A new algorithm was added for sampling raster layer values at point "
 "locations."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:477
+#: ../../source/site/forusers/visualchangelog34/index.rst:479
 msgid "|image24|"
 msgstr ""
 
@@ -1305,32 +1309,32 @@ msgstr ""
 msgid "image24"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:479
+#: ../../source/site/forusers/visualchangelog34/index.rst:481
 msgid "This feature was funded by `Faunalia <https://www.faunalia.eu>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:481
+#: ../../source/site/forusers/visualchangelog34/index.rst:483
 msgid ""
 "This feature was developed by `Matteo Ghetta (Faunalia) "
 "<https://www.faunalia.eu>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:484
+#: ../../source/site/forusers/visualchangelog34/index.rst:486
 msgid "Feature: New 'Raster pixels to polygons' algorithm"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:486
+#: ../../source/site/forusers/visualchangelog34/index.rst:488
 msgid ""
 "This algorithm converts a raster layer into a vector layer, with a polygon "
 "feature corresponding to each pixel from the raster and a single field "
 "containing the band value from the raster."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:493
+#: ../../source/site/forusers/visualchangelog34/index.rst:495
 msgid "Feature: K Means clustering algorithm"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:495
+#: ../../source/site/forusers/visualchangelog34/index.rst:497
 msgid ""
 "QGIS 3.4 adds a native \"k-means clustering\" algorithm. Based on a port of "
 "PostGIS' ST\\_ClusterKMeans function, this algorithm adds a new cluster ID "
@@ -1339,57 +1343,57 @@ msgid ""
 "input, the clustering is based off the centroid of the input geometries."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:502
+#: ../../source/site/forusers/visualchangelog34/index.rst:504
 msgid "Feature: dbscan spatial clustering algorithm"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:504
+#: ../../source/site/forusers/visualchangelog34/index.rst:506
 msgid ""
 "This new native algorithm implements an optimised DBSCAN density based "
 "scanning cluster approach for clustering 2d point features."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:511
+#: ../../source/site/forusers/visualchangelog34/index.rst:513
 msgid "Feature: Improved algorithms"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:513
+#: ../../source/site/forusers/visualchangelog34/index.rst:515
 msgid ""
 "Some miscellaneous improvements to existing Processing algorithms include:"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:515
+#: ../../source/site/forusers/visualchangelog34/index.rst:517
 msgid ""
 "The *Reverse line direction* algorithm now works with MultiLineString "
 "geometry inputs"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:516
+#: ../../source/site/forusers/visualchangelog34/index.rst:518
 msgid ""
 "*Extend lines*: support for dynamic (data defined) start and end distances "
 "was added"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:517
+#: ../../source/site/forusers/visualchangelog34/index.rst:519
 msgid "*Offset lines*: support for dynamic offset distance was added"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:518
+#: ../../source/site/forusers/visualchangelog34/index.rst:520
 msgid ""
 "The *Join by Field Value* and *Join by Location* algorithms can now "
 "optionally export unmatched records"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:519
+#: ../../source/site/forusers/visualchangelog34/index.rst:521
 msgid ""
 "*Join by Field Value* also reports counts of matched/unmatched features"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:526
+#: ../../source/site/forusers/visualchangelog34/index.rst:528
 msgid "Feature: Filter Vertices by M and Filter Vertices by Z algorithms"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:528
+#: ../../source/site/forusers/visualchangelog34/index.rst:530
 msgid ""
 "Two new algorithms were added for filtering line/polygon vertices by their M"
 " or Z values. A minimum and maximum M/Z value can be entered, and if the "
@@ -1398,72 +1402,72 @@ msgid ""
 "defined, so can vary per feature."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:535
+#: ../../source/site/forusers/visualchangelog34/index.rst:537
 msgid "Feature: \"Array of Translated Features\" algorithm"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:537
+#: ../../source/site/forusers/visualchangelog34/index.rst:539
 msgid ""
 "This new algorithm creates copies of features in a layer, by creating "
 "multiple translated (offset) versions of the feature. Each copy is displaced"
 " by a preset amount in the x/y/z/m axis."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:544
+#: ../../source/site/forusers/visualchangelog34/index.rst:546
 msgid "Feature: \"Array of offset (parallel) lines\" algorithm"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:546
+#: ../../source/site/forusers/visualchangelog34/index.rst:548
 msgid ""
 "This new algorithm creates copies of line features in a layer, by creating "
 "multiple parallel versions of each feature. Each copy is offset by a preset "
 "distance."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:553
+#: ../../source/site/forusers/visualchangelog34/index.rst:555
 msgid "Feature: Choice of units for non degree/unknown distances"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:555
+#: ../../source/site/forusers/visualchangelog34/index.rst:557
 msgid ""
 "When an algorithm has a distance parameter in meters/feet/etc (i.e. non-"
 "geographic distances), a combo box has been added allowing choice of the "
 "unit type."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:557
+#: ../../source/site/forusers/visualchangelog34/index.rst:559
 msgid ""
 "(QGIS doesn't (and should **never**) expose this for distances in degrees --"
 " it's up to users in this situation to choose a suitable local projection "
 "and reproject their data to match.)"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:564
+#: ../../source/site/forusers/visualchangelog34/index.rst:566
 msgid "Feature: \"Drape features to z/m\" algorithms"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:566
+#: ../../source/site/forusers/visualchangelog34/index.rst:568
 msgid ""
 "These two new algorithms can set geometry vertex z or m values to values "
 "sampled from a raster band. Values can optionally be scaled using a (data "
 "definable) scale value."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:573
+#: ../../source/site/forusers/visualchangelog34/index.rst:575
 msgid "Feature: \"Raster pixels to points\" algorithm"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:575
+#: ../../source/site/forusers/visualchangelog34/index.rst:577
 msgid ""
 "A new \"pixels to points\" algorithm was added in QGIS 3.4, which creates a "
 "point feature at the center of every pixel. nodata pixels are skipped."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:582
+#: ../../source/site/forusers/visualchangelog34/index.rst:584
 msgid "Feature: Line substring algorithm"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:584
+#: ../../source/site/forusers/visualchangelog34/index.rst:586
 msgid ""
 "This new, much-requested, algorithm returns the portion of a line (or curve)"
 " which falls between the specified start and end distances (measured from "
@@ -1471,11 +1475,11 @@ msgid ""
 "existing values."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:591
+#: ../../source/site/forusers/visualchangelog34/index.rst:593
 msgid "Feature: \"Interpolate point on line\" algorithm"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:593
+#: ../../source/site/forusers/visualchangelog34/index.rst:595
 msgid ""
 "This new algorithm creates a point geometry interpolated at a set distance "
 "along line (or polygon boundary) geometries. Curved input geometries are "
@@ -1483,41 +1487,41 @@ msgid ""
 "values."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:600
+#: ../../source/site/forusers/visualchangelog34/index.rst:602
 msgid "Feature: k-neighbour concave hull"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:602
+#: ../../source/site/forusers/visualchangelog34/index.rst:604
 msgid "This feature was funded by https://qgis.org"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:604
+#: ../../source/site/forusers/visualchangelog34/index.rst:606
 msgid ""
 "This feature was developed by `Detlev Neumann, Rudi von Staden "
 "<https://qgis.org>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:607
+#: ../../source/site/forusers/visualchangelog34/index.rst:609
 msgid ""
 "Feature: Python scripts which implement algorithms now execute the algorithm"
 " on drag and drop and browser double click"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:609
+#: ../../source/site/forusers/visualchangelog34/index.rst:611
 msgid ""
 "When appropriate, scripts will now launch a processing algorithm dialog "
 "upon:"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:611
+#: ../../source/site/forusers/visualchangelog34/index.rst:613
 msgid "Dragging and dropping a Python script onto the main window"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:612
+#: ../../source/site/forusers/visualchangelog34/index.rst:614
 msgid "Using the browser panel's right-click run script action"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:614
+#: ../../source/site/forusers/visualchangelog34/index.rst:616
 msgid "|image25|"
 msgstr ""
 
@@ -1525,11 +1529,11 @@ msgstr ""
 msgid "image25"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:621
+#: ../../source/site/forusers/visualchangelog34/index.rst:623
 msgid "Feature: New GDAL's rearrange band algorithm"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:623
+#: ../../source/site/forusers/visualchangelog34/index.rst:625
 msgid ""
 "A new GDAL provider 'Rearrange band' algorithm was added to the processing "
 "toolbox. The algorithm allows to output rasters continuing a subset of a "
@@ -1537,7 +1541,7 @@ msgid ""
 "bands."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:625
+#: ../../source/site/forusers/visualchangelog34/index.rst:627
 msgid "|image26|"
 msgstr ""
 
@@ -1545,37 +1549,37 @@ msgstr ""
 msgid "image26"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:627
+#: ../../source/site/forusers/visualchangelog34/index.rst:629
 msgid ""
 "This feature was funded by `iMHere Asia <https://www.imhere-asia.com/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:632
+#: ../../source/site/forusers/visualchangelog34/index.rst:634
 msgid "Feature: \"Precalculated\" values for model algorithm parameters"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:634
+#: ../../source/site/forusers/visualchangelog34/index.rst:636
 msgid ""
 "A new option is present for all parameters of using a \"precalculated "
 "expression\". This expression is evaluated once before the child algorithm "
 "is executed and used during the execution of that algorithm."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:636
+#: ../../source/site/forusers/visualchangelog34/index.rst:638
 msgid "This feature was funded by `QGIS <https://qgis.org>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:641
+#: ../../source/site/forusers/visualchangelog34/index.rst:643
 msgid "Feature: \"Categorize a layer using a style XML file\" algorithm"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:643
+#: ../../source/site/forusers/visualchangelog34/index.rst:645
 msgid ""
 "This new algorithm sets a vector layer's renderer to a categorized renderer "
 "using matching symbols from a style database."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:645
+#: ../../source/site/forusers/visualchangelog34/index.rst:647
 msgid ""
 "A specified expression (or field name) is used to create categories for the "
 "renderer, with QGIS creating a category for each unique value within the "
@@ -1584,7 +1588,7 @@ msgid ""
 "name is found, the category's symbol will be set to this matched symbol."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:647
+#: ../../source/site/forusers/visualchangelog34/index.rst:649
 msgid ""
 "The matching is case-insensitive by default, but can be made case-sensitive "
 "if required. Optionally, non-alphanumeric characters in both the category "
@@ -1592,14 +1596,14 @@ msgid ""
 " for greater tolerance when matching categories to symbols."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:649
+#: ../../source/site/forusers/visualchangelog34/index.rst:651
 msgid ""
 "If desired, tables can also be output containing lists of the categories "
 "which could not be matched to symbols, and symbols which were not matched to"
 " categories."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:651
+#: ../../source/site/forusers/visualchangelog34/index.rst:653
 msgid "|image27|"
 msgstr ""
 
@@ -1607,18 +1611,18 @@ msgstr ""
 msgid "image27"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:658
+#: ../../source/site/forusers/visualchangelog34/index.rst:660
 msgid "Feature: New mode for Snap geometries algorithm"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:660
+#: ../../source/site/forusers/visualchangelog34/index.rst:662
 msgid ""
 "The new mode \"Snap to anchor nodes (single layer only)\" makes sure that "
 "any two vertices of the vector layer are at least at distance given by the "
 "threshold value."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:662
+#: ../../source/site/forusers/visualchangelog34/index.rst:664
 msgid ""
 "This algorithm comes handy when doing vector overlay operations such as "
 "intersection, union or difference to prevent possible topological errors "
@@ -1628,78 +1632,78 @@ msgid ""
 "afterwards."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:664
+#: ../../source/site/forusers/visualchangelog34/index.rst:666
 msgid "This feature was funded by `InaSAFE DFAT <https://www.dfat.gov.au/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:666
-#: ../../source/site/forusers/visualchangelog34/index.rst:1037
-#: ../../source/site/forusers/visualchangelog34/index.rst:1069
-#: ../../source/site/forusers/visualchangelog34/index.rst:1089
+#: ../../source/site/forusers/visualchangelog34/index.rst:668
+#: ../../source/site/forusers/visualchangelog34/index.rst:1039
+#: ../../source/site/forusers/visualchangelog34/index.rst:1071
+#: ../../source/site/forusers/visualchangelog34/index.rst:1091
 msgid ""
 "This feature was developed by `Martin Dobias (Lutra Consulting) "
 "<https://www.lutraconsulting.co.uk/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:669
+#: ../../source/site/forusers/visualchangelog34/index.rst:671
 msgid "Data Providers"
 msgstr "Penyedia Data"
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:672
+#: ../../source/site/forusers/visualchangelog34/index.rst:674
 msgid "Feature: OAuth2 authentication method plugin"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:674
+#: ../../source/site/forusers/visualchangelog34/index.rst:676
 msgid "Supports authentication code, implicit and resource owner grant flows"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:675
+#: ../../source/site/forusers/visualchangelog34/index.rst:677
 msgid "Allows for preconfigured connections, read from default locations"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:676
+#: ../../source/site/forusers/visualchangelog34/index.rst:678
 msgid "Offers caching of access token beyond QGIS restarts"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:677
+#: ../../source/site/forusers/visualchangelog34/index.rst:679
 msgid "Save/load configurations"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:679
+#: ../../source/site/forusers/visualchangelog34/index.rst:681
 msgid ""
 "This feature was funded by `Monsanto Company <https://monsanto.com/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:681
+#: ../../source/site/forusers/visualchangelog34/index.rst:683
 msgid ""
 "This feature was developed by `Larry Shaffer, Alessandro Pasotti "
 "<https://qgis.org>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:684
+#: ../../source/site/forusers/visualchangelog34/index.rst:686
 msgid "Feature: Mesh layer: New mesh layer format support"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:686
+#: ../../source/site/forusers/visualchangelog34/index.rst:688
 msgid ""
 "Mesh layers represent data on variable size grid with extra components (e.g."
 " time and vector). With introduction of MDAL, users can load the following "
 "formats directly in QGIS and explore all other components:"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:688
+#: ../../source/site/forusers/visualchangelog34/index.rst:690
 msgid "GRIB"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:689
+#: ../../source/site/forusers/visualchangelog34/index.rst:691
 msgid "XMDF"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:690
+#: ../../source/site/forusers/visualchangelog34/index.rst:692
 msgid "Netcdf"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:692
+#: ../../source/site/forusers/visualchangelog34/index.rst:694
 msgid "|image29|"
 msgstr ""
 
@@ -1707,24 +1711,24 @@ msgstr ""
 msgid "image29"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:694
+#: ../../source/site/forusers/visualchangelog34/index.rst:696
 msgid ""
 "This feature was funded by `Lutra Consulting "
 "<https://www.lutraconsulting.co.uk/blog/2018/10/18/mdal/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:699
+#: ../../source/site/forusers/visualchangelog34/index.rst:701
 msgid "Feature: Mesh layer: add function to identify value on mesh layers"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:701
+#: ../../source/site/forusers/visualchangelog34/index.rst:703
 msgid ""
 "With this API, developers can inspect mesh elements and fetch values "
 "spatially and temporally. As an example, you can create time series plot "
 "from your mesh layer."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:703
+#: ../../source/site/forusers/visualchangelog34/index.rst:705
 msgid "|image30|"
 msgstr ""
 
@@ -1732,12 +1736,12 @@ msgstr ""
 msgid "image30"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:710
+#: ../../source/site/forusers/visualchangelog34/index.rst:712
 msgid ""
 "Feature: Mesh layer: allow to choose different vector and scalar dataset"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:712
+#: ../../source/site/forusers/visualchangelog34/index.rst:714
 msgid ""
 "A mesh layer often contains several quantities. For example a netcdf/grib "
 "can contain several meteorological quantities. Each quantity can also have "
@@ -1747,7 +1751,7 @@ msgid ""
 " wind (scalar)."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:714
+#: ../../source/site/forusers/visualchangelog34/index.rst:716
 msgid "|image31|"
 msgstr ""
 
@@ -1755,12 +1759,12 @@ msgstr ""
 msgid "image31"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:721
+#: ../../source/site/forusers/visualchangelog34/index.rst:723
 msgid ""
 "Feature: Mesh layer: allow render vectors/arrows on the user-defined grid"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:723
+#: ../../source/site/forusers/visualchangelog34/index.rst:725
 msgid ""
 "Scalar data are generated usually at the centre/corner of each mesh element."
 " When displaying the scalar data, the arrows might look sparse and often not"
@@ -1769,7 +1773,7 @@ msgid ""
 "on-the-fly and placed on the user-defined grid."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:725
+#: ../../source/site/forusers/visualchangelog34/index.rst:727
 msgid "|image32|"
 msgstr ""
 
@@ -1777,18 +1781,18 @@ msgstr ""
 msgid "image32"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:732
+#: ../../source/site/forusers/visualchangelog34/index.rst:734
 msgid "Feature: JSON/JSONB Type support"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:734
+#: ../../source/site/forusers/visualchangelog34/index.rst:736
 msgid ""
 "The reading of PostgreSQL JSON types is supported. JSON Data can be "
 "displayed in the widgets as \"Key/Value\" (maps), as \"List\" (arrays) or as"
 " text."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:736
+#: ../../source/site/forusers/visualchangelog34/index.rst:738
 msgid "|image33|"
 msgstr ""
 
@@ -1796,29 +1800,29 @@ msgstr ""
 msgid "image33"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:740
-#: ../../source/site/forusers/visualchangelog34/index.rst:952
+#: ../../source/site/forusers/visualchangelog34/index.rst:742
+#: ../../source/site/forusers/visualchangelog34/index.rst:954
 msgid ""
 "This feature was developed by `David Signer (OPENGIS.ch) "
 "<https://www.opengis.ch>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:743
+#: ../../source/site/forusers/visualchangelog34/index.rst:745
 msgid "Feature: ESRI Token Authentication support"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:745
+#: ../../source/site/forusers/visualchangelog34/index.rst:747
 msgid ""
 "Support has been added to QGIS' Authentication system for ESRI's temporary "
 "token based authentication. This allows for connection to ArcGIS Feature and"
 " Map Servers via an allocated temporary token."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:750
+#: ../../source/site/forusers/visualchangelog34/index.rst:752
 msgid "Feature: SQL Server - Invalid geometry handling"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:752
+#: ../../source/site/forusers/visualchangelog34/index.rst:754
 msgid ""
 "Recent versions of QGIS have switched to a safer approach to reading SQL "
 "Server layers, which automatically checks for geometry validity and repairs "
@@ -1829,7 +1833,7 @@ msgid ""
 "performance cost."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:754
+#: ../../source/site/forusers/visualchangelog34/index.rst:756
 msgid ""
 "In QGIS 3.4 a new setting was added to allow users to manually turn off "
 "QGIS' SQL Server invalid geometry handling. Turning on the \"Skip invalid "
@@ -1841,104 +1845,104 @@ msgid ""
 "option can lead to missing features and data loss.**"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:759
+#: ../../source/site/forusers/visualchangelog34/index.rst:761
 msgid "QGIS Server"
 msgstr "Server QGIS"
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:762
+#: ../../source/site/forusers/visualchangelog34/index.rst:764
 msgid "Feature: Server Cache can be manage by plugins"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:764
+#: ../../source/site/forusers/visualchangelog34/index.rst:766
 msgid ""
 "By default, QGIS Server only caches WMS GetCapabilities document in memory. "
 "With WMTS implementation, it is necessary to have a way to cache tiles. But "
 "the cache manager has not been developed to only cache tiles."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:766
+#: ../../source/site/forusers/visualchangelog34/index.rst:768
 msgid "The cache manager plugin can be used to cache:"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:768
+#: ../../source/site/forusers/visualchangelog34/index.rst:770
 msgid "WMS, WFS, WCS, WMTS GetCapabilities documents"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:769
+#: ../../source/site/forusers/visualchangelog34/index.rst:771
 msgid "WFS DescribeFeatureType documents"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:770
+#: ../../source/site/forusers/visualchangelog34/index.rst:772
 msgid "WCS DescribeCoverage documents"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:771
+#: ../../source/site/forusers/visualchangelog34/index.rst:773
 msgid "WMTS GetTile images"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:772
+#: ../../source/site/forusers/visualchangelog34/index.rst:774
 msgid "WMS GetLegendGraphic images"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:774
+#: ../../source/site/forusers/visualchangelog34/index.rst:776
 msgid ""
 "Here is a python cache manager class, which do not verify if the QGIS "
 "project has changed:"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:886
+#: ../../source/site/forusers/visualchangelog34/index.rst:888
 msgid "And the way to add it to the QGIS Server cache manager."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:888
+#: ../../source/site/forusers/visualchangelog34/index.rst:890
 msgid ""
 "``servercache = PyServerCache(server_iface) "
 "server_iface.registerServerCache(servercache, 100)``"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:890
-#: ../../source/site/forusers/visualchangelog34/index.rst:910
+#: ../../source/site/forusers/visualchangelog34/index.rst:892
+#: ../../source/site/forusers/visualchangelog34/index.rst:912
 msgid "This feature was funded by `Ifremer <https://wwz.ifremer.fr/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:892
-#: ../../source/site/forusers/visualchangelog34/index.rst:912
+#: ../../source/site/forusers/visualchangelog34/index.rst:894
+#: ../../source/site/forusers/visualchangelog34/index.rst:914
 msgid "This feature was developed by `3Liz <https://3liz.com>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:895
+#: ../../source/site/forusers/visualchangelog34/index.rst:897
 msgid "Feature: WMTS 1.0.0 support"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:897
+#: ../../source/site/forusers/visualchangelog34/index.rst:899
 msgid "QGIS Server 3.4 supports WMTS 1.0.0 OGC standard."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:899
+#: ../../source/site/forusers/visualchangelog34/index.rst:901
 msgid "In QGIS project properties, the user can define:"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:901
+#: ../../source/site/forusers/visualchangelog34/index.rst:903
 msgid ""
 "which part of the project (all the project, layer groups or layers) has to "
 "be published through WMTS standard"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:902
+#: ../../source/site/forusers/visualchangelog34/index.rst:904
 msgid "the min scale of the tiles"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:904
+#: ../../source/site/forusers/visualchangelog34/index.rst:906
 msgid "QGIS Server reuse the CRS defined in the WMS for WMTS."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:906
+#: ../../source/site/forusers/visualchangelog34/index.rst:908
 msgid ""
 "To manage the tile cache, a QGIS Server plugin with a QgsServerCacheFilter "
 "class has to be installed and loaded by QGIS Server."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:908
+#: ../../source/site/forusers/visualchangelog34/index.rst:910
 msgid "|image34|"
 msgstr ""
 
@@ -1946,49 +1950,49 @@ msgstr ""
 msgid "image34"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:915
+#: ../../source/site/forusers/visualchangelog34/index.rst:917
 msgid "Feature: Add ability to define min. scale for WMTS"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:917
+#: ../../source/site/forusers/visualchangelog34/index.rst:919
 msgid "This feature was funded by https://github.com/rldhont"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:919
+#: ../../source/site/forusers/visualchangelog34/index.rst:921
 msgid "This feature was developed by https://github.com/rldhont"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:922
+#: ../../source/site/forusers/visualchangelog34/index.rst:924
 msgid "Feature: Support QGIS Server logs to stderr"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:924
+#: ../../source/site/forusers/visualchangelog34/index.rst:926
 msgid ""
 "It's now possible to configure QGIS Server to make it write its logs to "
 "stderr. This is done by setting the QGIS\\_SERVER\\_LOG\\_FILE env var to "
 "the special value \"stderr\"."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:929
+#: ../../source/site/forusers/visualchangelog34/index.rst:931
 msgid ""
 "This feature was developed by `Eric Lemoine <https://github.com/elemoine>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:932
+#: ../../source/site/forusers/visualchangelog34/index.rst:934
 msgid "Plugins"
 msgstr "Plugins"
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:935
+#: ../../source/site/forusers/visualchangelog34/index.rst:937
 msgid "Feature: Support for encrypted zips in the Plugin Manager"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:937
+#: ../../source/site/forusers/visualchangelog34/index.rst:939
 msgid ""
 "Plugin Manager is now able to install plugins from local zip files even if "
 "encrypted."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:939
+#: ../../source/site/forusers/visualchangelog34/index.rst:941
 msgid "|image35|"
 msgstr ""
 
@@ -1996,36 +2000,36 @@ msgstr ""
 msgid "image35"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:946
+#: ../../source/site/forusers/visualchangelog34/index.rst:948
 msgid "Feature: Offline Editing GeoPackage"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:948
+#: ../../source/site/forusers/visualchangelog34/index.rst:950
 msgid ""
 "With the offline editing functionality it is possible to select whether the "
 "export should create a SpatiaLite or a GeoPackage file for offline usage."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:950
+#: ../../source/site/forusers/visualchangelog34/index.rst:952
 msgid ""
 "This feature was funded by `Oester Messtechnik <https://messtechnik.ch/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:955
+#: ../../source/site/forusers/visualchangelog34/index.rst:957
 msgid "Programmability"
 msgstr "Programmability"
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:958
+#: ../../source/site/forusers/visualchangelog34/index.rst:960
 msgid "Feature: QgsSpatialIndexKDBush"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:960
+#: ../../source/site/forusers/visualchangelog34/index.rst:962
 msgid ""
 "A very fast static spatial index for 2D points based on a flat KD-tree, "
 "using https://github.com/mourner/kdbush.hpp"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:963
+#: ../../source/site/forusers/visualchangelog34/index.rst:965
 msgid ""
 "Compared to QgsSpatialIndex, this index: - supports single point features "
 "only (no multipoints) - is static (features cannot be added or removed from "
@@ -2033,46 +2037,46 @@ msgid ""
 "based\" searches, i.e. return all points within a radius from a search point"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:975
+#: ../../source/site/forusers/visualchangelog34/index.rst:977
 msgid ""
 "Feature: QgsRasterDataProvider::sample method for efficient sampling of "
 "rasters at a given point"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:977
+#: ../../source/site/forusers/visualchangelog34/index.rst:979
 msgid ""
 "This is an alternative to the ``QgsRasterDataProvider::identify`` method, "
 "which is less efficient but more powerful"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:985
+#: ../../source/site/forusers/visualchangelog34/index.rst:987
 msgid "Feature: New geometry API call to return a curve substring"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:987
+#: ../../source/site/forusers/visualchangelog34/index.rst:989
 msgid ""
 "New PyQGIS API has been added to make it easy to retrieve a substring from a"
 " LineString/Curve geometry:"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:989
+#: ../../source/site/forusers/visualchangelog34/index.rst:991
 msgid ""
 "``QgsCurve::curveSubstring -  Returns a new curve representing a substring "
 "of a curve, from a start distance and end distance.``"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:991
+#: ../../source/site/forusers/visualchangelog34/index.rst:993
 msgid ""
 "If z or m values are present, the output z and m will be interpolated using "
 "the existing vertices' z or m values. The method also handles curved "
 "geometries without loss or segmentation."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:998
+#: ../../source/site/forusers/visualchangelog34/index.rst:1000
 msgid "Feature: sip Module API Changes"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1000
+#: ../../source/site/forusers/visualchangelog34/index.rst:1002
 msgid ""
 "Due to upstream changes within the PyQt/sip library, the recommended way to "
 "import this module has changed in QGIS 3.4. For maximum portability, instead"
@@ -2082,17 +2086,17 @@ msgid ""
 "QGIS versions."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1007
+#: ../../source/site/forusers/visualchangelog34/index.rst:1009
 msgid "Feature: Python vector data providers"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1009
+#: ../../source/site/forusers/visualchangelog34/index.rst:1011
 msgid ""
 "Development of the API, a sample provider and tests allowing the creation of"
 " vector data provider in pure python."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1011
+#: ../../source/site/forusers/visualchangelog34/index.rst:1013
 msgid "|image36|"
 msgstr ""
 
@@ -2100,23 +2104,23 @@ msgstr ""
 msgid "image36"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1013
+#: ../../source/site/forusers/visualchangelog34/index.rst:1015
 msgid "This feature was funded by Good will"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1015
+#: ../../source/site/forusers/visualchangelog34/index.rst:1017
 msgid "This feature was developed by Alessandro Pasotti"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1018
+#: ../../source/site/forusers/visualchangelog34/index.rst:1020
 msgid "3D Features"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1021
+#: ../../source/site/forusers/visualchangelog34/index.rst:1023
 msgid "Feature: Improved navigation"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1023
+#: ../../source/site/forusers/visualchangelog34/index.rst:1025
 msgid ""
 "This will update camera's view center as the camera moves around. Before the"
 " view center would be always at the zero elevation, which means that with "
@@ -2124,15 +2128,15 @@ msgid ""
 "would feel weird due to the center point being far away."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1029
+#: ../../source/site/forusers/visualchangelog34/index.rst:1031
 msgid "Allow moving camera up/down using page up/down keys"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1031
+#: ../../source/site/forusers/visualchangelog34/index.rst:1033
 msgid "Move camera keeping the position with Ctrl + arrow keys / mouse"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1033
+#: ../../source/site/forusers/visualchangelog34/index.rst:1035
 msgid "|image37|"
 msgstr ""
 
@@ -2140,25 +2144,25 @@ msgstr ""
 msgid "image37"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1040
+#: ../../source/site/forusers/visualchangelog34/index.rst:1042
 msgid "Feature: Animation"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1042
+#: ../../source/site/forusers/visualchangelog34/index.rst:1044
 msgid ""
 "You can create an animation based on a set of keyframes - camera positions "
 "at particular times. QGIS 3D then interpolates the camera "
 "positions/rotations in between the keyframes."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1044
+#: ../../source/site/forusers/visualchangelog34/index.rst:1046
 msgid ""
 "To create the keyframes, first set the scene for your map, by rotating, "
 "zooming or moving the camera. Then assign a time to the frame. There are "
 "several methods for interpolations between keyframes."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1046
+#: ../../source/site/forusers/visualchangelog34/index.rst:1048
 msgid "|image38|"
 msgstr ""
 
@@ -2166,36 +2170,36 @@ msgstr ""
 msgid "image38"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1050
+#: ../../source/site/forusers/visualchangelog34/index.rst:1052
 msgid ""
 "This feature was developed by `Martian Dobias (Lutra Consulting) "
 "<https://www.lutraconsulting.co.uk/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1053
+#: ../../source/site/forusers/visualchangelog34/index.rst:1055
 msgid "Feature: Simple rendering of 3D linestrings"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1055
+#: ../../source/site/forusers/visualchangelog34/index.rst:1057
 msgid ""
 "This mode of 3D line rendering will use OpenGL line rendering instead of "
 "buffering lines into polygons and rendering them as meshes."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1058
+#: ../../source/site/forusers/visualchangelog34/index.rst:1060
 msgid ""
 "The advantage is that the 3D lines do not loose their Z coordinate which is "
 "the case currently with \"ordinary\" 3D rendering after buffering."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1061
+#: ../../source/site/forusers/visualchangelog34/index.rst:1063
 msgid ""
 "The disadvantage is that the lines cannot be wide (supported in Qt3D only "
 "since 5.10, but even then their rendering won't have nice joins/caps) and "
 "only ambient color is used from the material."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1065
+#: ../../source/site/forusers/visualchangelog34/index.rst:1067
 msgid "|image39|"
 msgstr ""
 
@@ -2203,17 +2207,17 @@ msgstr ""
 msgid "image39"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1072
+#: ../../source/site/forusers/visualchangelog34/index.rst:1074
 msgid "Feature: Identification map tool for 3D views"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1074
+#: ../../source/site/forusers/visualchangelog34/index.rst:1076
 msgid ""
 "A new Identify Tool was introduced to 3D map. Using this tool, you can "
 "inspect features from the 3D scene."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1076
+#: ../../source/site/forusers/visualchangelog34/index.rst:1078
 msgid "|image40|"
 msgstr ""
 
@@ -2221,17 +2225,17 @@ msgstr ""
 msgid "image40"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1078
+#: ../../source/site/forusers/visualchangelog34/index.rst:1080
 msgid ""
 "This feature was funded by `Department of Environment, Land and "
 "Infrastructure Engineering (DIATI) <https://www.faunalia.eu/en/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1083
+#: ../../source/site/forusers/visualchangelog34/index.rst:1085
 msgid "Feature: Experimental Python API"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog34/index.rst:1085
+#: ../../source/site/forusers/visualchangelog34/index.rst:1087
 msgid ""
 "Some classes from QGIS 3D have been made available for Python developers. It"
 " is now possible to query or change 3D renderers of map layers and "
@@ -2247,24 +2251,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "cekbox_tidakterpilih"
-
-#~ msgid ""
-#~ "This feature was developed by `Martin Dobias (Lutra Consulting) and Faunalia"
-#~ " <https://www.lutraconsulting.co.uk/>`__"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "QGIS is supported by donors and sponsors. A current list of donors who have "
-#~ "made financial contributions large and small to the project can be seen on "
-#~ "our :ref:`donors list <list_of_donors>`. If you would like to become an "
-#~ "official project sponsor, please visit :ref:`our sponsorship page <QGIS-"
-#~ "sponsoring>` for details. Sponsoring QGIS helps us to fund our six monthly "
-#~ "developer meetings, maintain project infrastructure and fund bug fixing "
-#~ "efforts. A complete list of current sponsors is provided below - our very "
-#~ "great thank you to all of our sponsors!"
-#~ msgstr ""
-
-#~ msgid ""
-#~ ":raw-html:`<div id=\"qgissponsorsatom\"> <!-- to be filled via javascript "
-#~ "loading of atom feed --> </div>`"
-#~ msgstr ""

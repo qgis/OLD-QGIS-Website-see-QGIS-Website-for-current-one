@@ -1,3 +1,6 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 # Tomas Straupis, 2015-2016,2021
@@ -5,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2015-09-08 07:59+0000\n"
 "Last-Translator: Tomas Straupis, 2015-2016,2021\n"
 "Language-Team: Lithuanian (http://www.transifex.com/qgis/qgis-website/language/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: lt\n"
 "Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
 
@@ -21,16 +24,20 @@ msgid "Changelog for QGIS 2.10"
 msgstr "QGIS 2.10 pakeitimai"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:7
+msgid "Release date: 2015-06-26"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog210/index.rst:9
 msgid ""
 "This is the change log for the next release of QGIS - version 2.10.0 ' Pisa'"
 " - host city to our developer meet up in March 2010."
 msgstr "Tai kitos QGIS versijos - 2.10.0 „Piza“ pakeitimai. Pizoje 2010 metų kovo mėnesį buvo rengiamas mūsų vystymo susitikimas."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:10
+#: ../../source/site/forusers/visualchangelog210/index.rst:12
 msgid "**Latest Release**"
 msgstr "**Paskutinė laida**"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:12
+#: ../../source/site/forusers/visualchangelog210/index.rst:14
 msgid ""
 "This is the next release in our 4-monthly release series. It gives you early"
 " access to the new features we have been working on and represents the "
@@ -47,11 +54,11 @@ msgid ""
 "make their way into the next LTR."
 msgstr "Tai eilinė laida, išleidžiama kas 4 mėnesius. Ji duoda jums prieigą prie naujausių mūsų kuriamų funkcijų ir rodo QGIS vystymo pačius paskutinius pasiekimus. Jei dirbate gamybinėje aplinkoje, kur norite konservatyviau žiūrėti į naujo funkcionalumo diegimą naudotojams, mes taipogi teikiame ir ilgalaikę (LTR) QGIS laidą. Dabartinė LTR versija yra 2.8.2, ją rasite `download.qgis.org <http://download.qgis.org>`__. LTR laida bus palaikoma ištisus metus perkeliant atgal klaidų ištaisymus, joks naujas funkcionalumas nebus pridedamas (t.y. nebus pridedamos naujos savybės, tik taisomos klaidos ir trivialios problemos). QGIS 2.10 „Piza“ versijoje teikiamos savybės bus įtrauktos į kitą LTR laidą (kurią planuojama išleisti 2016 metais), taigi šios laidos naudojimas suteikia puikią galimybę pabandyti naują funkcionalumą, kuris atsiras kitoje LTR."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:26
+#: ../../source/site/forusers/visualchangelog210/index.rst:28
 msgid "**New Features in QGIS 2.10 'Pisa'**"
 msgstr "**Naujos QGIS 2.10 „Piza“ savybės**"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:28
+#: ../../source/site/forusers/visualchangelog210/index.rst:30
 msgid ""
 "QGIS 2.10.0 includes many great new features, tweaks and enhancements to "
 "make the most popular Free desktop GIS even more feature filled and useful. "
@@ -60,154 +67,154 @@ msgid ""
 " ticket `on the QGIS Bug Tracker <http://hub.qgis.org>`__."
 msgstr "QGIS 2.10.0 rasite daug naujų puikių savybių, pataisymų ir funkcionalumo, dėl kurių populiariausia atvira darbastalio GIS tampa dar naudingesne. Į programinę įrangą įtraukus naują funkcionalumą visada atsiranda naujų klaidų tikimybė - jei šioje laidoje rasite klaidų arba problemų, prašome užpildyti pranešimą `QGIS klaidų registravimo sistemoje <http://hub.qgis.org>`__."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:35
+#: ../../source/site/forusers/visualchangelog210/index.rst:37
 msgid "**Thanks**"
 msgstr "**Padėkos**"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:37
+#: ../../source/site/forusers/visualchangelog210/index.rst:39
 msgid ""
 "We would like to thank the developers, documenters, testers and all the many"
 " folks out there who volunteer their time and effort (or fund people to do "
 "so)."
 msgstr "Norėtume padėkoti programuotojams, dokumentuotojams, testuotojams ir dar būriui įvairių žmonių, kurie savanoriškai skiria laiką ir pastangas (arba finansuoja žmones, kurie tai daro)."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:41
+#: ../../source/site/forusers/visualchangelog210/index.rst:43
 msgid ""
 "From the QGIS community we hope you enjoy this release! If you wish to "
 "donate time, money or otherwise get involved in making QGIS more awesome, "
 "please wander along to `qgis.org <https://qgis.org>`__ and lend a hand!"
 msgstr "QGIS bendruomenė tikisi, kad jums patiks ši laida. Jei norite skirti laiko, pinigų ar kaip nors kitaip prisidėti prie QGIS tobulinimo, prašome apsilankyti `qgis.org <https://qgis.org>`__ ir padėti!"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:46
+#: ../../source/site/forusers/visualchangelog210/index.rst:48
 msgid ""
 "Finally we would like to thank our official sponsors for the invaluable "
 "financial support they provide to this project:"
 msgstr "Taipogi norime padėkoti mūsų oficialiems sponsoriams už jų neįkainojamą šiam projektui teikiamą finansinę paramą."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:49
+#: ../../source/site/forusers/visualchangelog210/index.rst:51
 msgid ""
 "**GOLD Sponsor:** `Asia Air Survey, Japan, "
 "<http://www.asiaairsurvey.com/>`__"
 msgstr "**AUKSINIS rėmėjas:** `Asia Air Survey, Japonija, <http://www.asiaairsurvey.com/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:51
+#: ../../source/site/forusers/visualchangelog210/index.rst:53
 msgid ""
 "SILVER Sponsor: `Sourcepole AG, Switzerland <http://www.sourcepole.com/>`__"
 msgstr "SIDABRINIS rėmėjas: `Sourcepole AG, Šveicarija <http://www.sourcepole.com/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:53
+#: ../../source/site/forusers/visualchangelog210/index.rst:55
 msgid ""
 "SILVER Sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`__"
 msgstr "SIDABRINIS rėmėjas: `Vorarlbergo valstija, Austrija <http://www.vorarlberg.at/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:55
+#: ../../source/site/forusers/visualchangelog210/index.rst:57
 msgid ""
 "SILVER Sponsor: `Office of Public Works, Ireland, Ireland "
 "<http://www.opw.ie/>`__"
 msgstr "SIDABRINIS rėmėjas: `Office of Public Works, Ireland, Airija <http://www.opw.ie/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:57
+#: ../../source/site/forusers/visualchangelog210/index.rst:59
 msgid ""
 "SILVER Sponsor: `AGH University of Science and Technology, Krakow, Poland "
 "<http://www.agh.edu.pl/en>`__"
 msgstr "SIDABRINIS rėmėjas: `AGH Mokslo ir technologijos universitetas, Krokuva, Lenkija <http://www.agh.edu.pl/en>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:60
+#: ../../source/site/forusers/visualchangelog210/index.rst:62
 msgid "BRONZE Sponsor: `www.molitec.it, Italy <http://www.molitec.it/>`__"
 msgstr "BRONZINIS rėmėjas: `www.molitec.it, Italija <http://www.molitec.it/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:61
+#: ../../source/site/forusers/visualchangelog210/index.rst:63
 msgid "BRONZE Sponsor: `www.argusoft.de, Germany <http://www.argusoft.de>`__"
 msgstr "BRONZINIS rėmėjas: `www.argusoft.de, Vokietija <http://www.argusoft.de>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:62
+#: ../../source/site/forusers/visualchangelog210/index.rst:64
 msgid ""
 "BRONZE Sponsor: `www.openrunner.com, France <http://www.openrunner.com>`__"
 msgstr "BRONZINIS rėmėjas: `www.openrunner.com, Prancūzija <http://www.openrunner.com>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:64
+#: ../../source/site/forusers/visualchangelog210/index.rst:66
 msgid ""
 "BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "
 "<http://www.gkg-kassel.de/>`__"
 msgstr "BRONZINIS sponsorius: `GKG Kassel,(Dr.-Ing. Claas Leiner), Vokietija <http://www.gkg-kassel.de/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:66
+#: ../../source/site/forusers/visualchangelog210/index.rst:68
 msgid ""
 "BRONZE Sponsor: `Customer Analytics, USA "
 "<http://www.customeranalytics.com/>`__"
 msgstr "BRONZINIS rėmėjas: `Customer Analytics, JAV <http://www.customeranalytics.com/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:68
+#: ../../source/site/forusers/visualchangelog210/index.rst:70
 msgid "BRONZE Sponsor: `Urbsol, Australia <http://www.urbsol.com.au/>`__"
 msgstr "BRONZINIS rėmėjas: `Urbsol, Australija <http://www.urbsol.com.au/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:69
+#: ../../source/site/forusers/visualchangelog210/index.rst:71
 msgid "BRONZE Sponsor: `MappingGIS, Spain <http://www.mappinggis.com/>`__"
 msgstr "BRONZINIS rėmėjas: `MappingGIS, Ispanija <http://www.mappinggis.com/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:70
+#: ../../source/site/forusers/visualchangelog210/index.rst:72
 msgid ""
 "BRONZE Sponsor: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`__"
 msgstr "BRONZINIS rėmėjas: `Lutra Consulting, Jungtinė Karalystė <http://www.lutraconsulting.co.uk/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:72
+#: ../../source/site/forusers/visualchangelog210/index.rst:74
 msgid "BRONZE Sponsor: `ADLARES GmbH, Germany <http://www.adlares.com/>`__"
 msgstr "BRONZINIS rėmėjas: `ADLARES GmbH, Vokietija <http://www.adlares.com/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:73
+#: ../../source/site/forusers/visualchangelog210/index.rst:75
 msgid ""
 "BRONZE Sponsor: `Avioportolano Italia, Italy "
 "<http://www.avioportolano.it/>`__"
 msgstr "BRONZINIS rėmėjas: `Avioportolano Italia, Italija <http://www.avioportolano.it/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:75
+#: ../../source/site/forusers/visualchangelog210/index.rst:77
 msgid ""
 "BRONZE Sponsor: `GeoSynergy, Australia <http://www.geosynergy.com.au/>`__"
 msgstr "BRONZINIS rėmėjas: `GeoSynergy, Australija <http://www.geosynergy.com.au/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:77
+#: ../../source/site/forusers/visualchangelog210/index.rst:79
 msgid "BRONZE Sponsor: `Gaia3D, South Korea <http://www.gaia3d.com/>`__"
 msgstr "BRONZINIS rėmėjas: `Gaia3D, Pietų Korėja <http://www.gaia3d.com/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:78
+#: ../../source/site/forusers/visualchangelog210/index.rst:80
 msgid ""
 "BRONZE Sponsor: `Royal Borough of Windsor and Maidenhead, UK "
 "<http://www.rbwm.gov.uk/>`__"
 msgstr "BRONZINIS rėmėjas: `Royal Borough of Windsor and Maidenhead, Jungtinė Karalystė <http://www.rbwm.gov.uk/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:80
+#: ../../source/site/forusers/visualchangelog210/index.rst:82
 msgid ""
 "BRONZE Sponsor: `Chartwell Consultants Ltd, Canada <http://www.chartwell-"
 "consultants.com/>`__"
 msgstr "BRONZINIS rėmėjas: `Chartwell Consultants Ltd, Kanada <http://www.chartwell-consultants.com/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:82
+#: ../../source/site/forusers/visualchangelog210/index.rst:84
 msgid ""
 "BRONZE Sponsor: `Trage Wegen vzw, Belgium <http://www.tragewegen.be/>`__"
 msgstr "BRONZINIS rėmėjas: `Trage Wegen vzw, Belgija <http://www.tragewegen.be/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:84
+#: ../../source/site/forusers/visualchangelog210/index.rst:86
 msgid "BRONZE Sponsor: `GIS-Support, Poland <http://www.gis-support.com/>`__"
 msgstr "BRONZINIS rėmėjas: `GIS-Support, Lenkija <http://www.gis-support.com/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:85
+#: ../../source/site/forusers/visualchangelog210/index.rst:87
 msgid "BRONZE Sponsor: `GIS3W, italy <http://www.gis3w.it/>`__"
 msgstr "BRONZINIS rėmėjas: `GIS3W, Italija <http://www.gis3w.it/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:86
+#: ../../source/site/forusers/visualchangelog210/index.rst:88
 msgid ""
 "BRONZE Sponsor: `GFI - Gesellschaft fr Informations technologie mbH, Germany"
 " <http://www.gfi-gis.de/>`__"
 msgstr "BRONZINIS rėmėjas: `GFI - Gesellschaft fr Informations technologie mbH, Vokietija <http://www.gfi-gis.de/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:88
+#: ../../source/site/forusers/visualchangelog210/index.rst:90
 msgid ""
 "BRONZE Sponsor: `Faculty of Geology, Geophysics and Environmental "
 "Protection, AGH, University of Science and Technology, Poland "
 "<http://www.wggios.agh.edu.pl/en>`__"
 msgstr "BRONZINIS rėmėjas: `AGH, Mokslo ir technologijų universitetas, geologijos, geofizikos ir aplinkos apsaugos fakultetas, Lenkija <http://www.wggios.agh.edu.pl/en>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:92
+#: ../../source/site/forusers/visualchangelog210/index.rst:94
 msgid ""
 "A current list of donors who have made financial contributions large and "
 "small to the project can be seen on our `donors list "
@@ -219,7 +226,7 @@ msgid ""
 "meetings, maintain project infrastructure and fund bug fixing efforts."
 msgstr "Dabartinių rėmėjų, daugiau ar mažiau prisidėjusių prie projekto, sąrašą rasite  `rėmėjų sąraše <https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__. Jei norėtumėte tapti oficialiu projekto rėmėju, prašome aplankyti `mūsų rėmimo puslapį <http://qgis.org/en/site/about/sponsorship.html#sponsorship>`__, kur rasite daugiau informacijos. QGIS parama leidžia mums finansuoti šešis mėnesinius vystytojų susitikimus, palaikyti projekto infrastruktūrą ir finansuoti klaidų taisymo pastangas."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:101
+#: ../../source/site/forusers/visualchangelog210/index.rst:103
 msgid ""
 "QGIS is Free software and you are under no obligation to pay anything to use"
 " it - in fact we want to encourage people far and wide to use it regardless "
@@ -228,98 +235,98 @@ msgid ""
 "of humanity."
 msgstr "QGIS yra atvira programinė įranga ir jums jokiu būdu neprivalu mokėti norint ją naudoti. Priešingai, mes norime skatinti kiek galima daugiau žmonių naudoti ją nepriklausomai nuo jūsų finansinio ar visuomeninio statuso - mes tikime, kad duodant žmonėms įrankius, teikiančius galimybę daryti erdvinius sprendimus, galima sukurti geresnę visos žmonijos visuomenę."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:111
+#: ../../source/site/forusers/visualchangelog210/index.rst:113
 msgid "General"
 msgstr "Bendri"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:114
+#: ../../source/site/forusers/visualchangelog210/index.rst:116
 msgid "Feature: Join parameters can now be edited"
 msgstr "Savybė: dabar galima redaguoti jungimo operacijos parametrus"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:116
+#: ../../source/site/forusers/visualchangelog210/index.rst:118
 msgid ""
 "It is now possible to edit join parameters (such as join prefix or columns "
 "to join) after a join has been created. Prior to this change one had to "
 "delete and recreate the whole join."
 msgstr "Nuo šiol galima redaguoti sujungimo operacijos parametrus (tokius kaip jungimo priešdėlį ar jungiamus stulpelius) po to, kai sujungimas jau buvo sukurtas. Iki šio pakeitimo tekdavo ištrinti ir iš naujo sukurti visą sujungimą."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:120
+#: ../../source/site/forusers/visualchangelog210/index.rst:122
 msgid "|image14|"
 msgstr "|image14|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:648
+#: ../../source/site/forusers/visualchangelog210/index.rst:650
 msgid "image14"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:123
+#: ../../source/site/forusers/visualchangelog210/index.rst:125
 msgid "Feature: Layers with joins can now be filtered"
 msgstr "Savybė: sluoksnius su sujungimais jau galima filtruoti"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:125
+#: ../../source/site/forusers/visualchangelog210/index.rst:127
 msgid ""
 "Prior to version 2.10 a layer couldn't be filtered if it had at least one "
 "join. Now it is still filterable, but only using columns of the original "
 "master table."
 msgstr "Iki 2.10 versijos sluoksnio filtruoti nebuvo galima, jei jis turi bent vieną jungtį. Dabar jį vis tiek galima filtruoti, bet tik naudojant pradinės vedančiosios lentelės stulpelius."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:129
+#: ../../source/site/forusers/visualchangelog210/index.rst:131
 msgid "|image15|"
 msgstr "|image15|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:649
+#: ../../source/site/forusers/visualchangelog210/index.rst:651
 msgid "image15"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:132
+#: ../../source/site/forusers/visualchangelog210/index.rst:134
 msgid "Feature: General improvements"
 msgstr "Savybė: bendri patobulinimai"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:134
+#: ../../source/site/forusers/visualchangelog210/index.rst:136
 msgid ""
 "As well as the numerous items listed below, the following improvements have "
 "been made:"
 msgstr "Be kitų žemiau pateiktų elementų, buvo padaryti šie patobulinimai:"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:137
+#: ../../source/site/forusers/visualchangelog210/index.rst:139
 msgid "Support for Pointcloud layers in PostGIS"
 msgstr "Taškų debesies (angl. pointcloud) sluoksnių palaikymas PostGIS"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:138
+#: ../../source/site/forusers/visualchangelog210/index.rst:140
 msgid ""
 "Improved icon bars and icons in dockable widgets to occupy less screen real "
 "estate and for improved OSX appearance"
 msgstr "Prišliejamuose valdikliuose patobulintos piktogramų juostos ir piktogramos - jos užima mažiau vietos ekrane ir geriau atrodo OSX"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:140
+#: ../../source/site/forusers/visualchangelog210/index.rst:142
 msgid "Improvements to the GRASS plugin / provider"
 msgstr "GRASS priedo / tiekėjo patobulinimai"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:141
+#: ../../source/site/forusers/visualchangelog210/index.rst:143
 msgid "Support for non-latin scripts for curved labels"
 msgstr "Nelotyniškų raidžių palaikymas išlenktose etiketėse"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:142
+#: ../../source/site/forusers/visualchangelog210/index.rst:144
 msgid ""
 "Greatly improved and more robust raster calculator and georeferencer tools"
 msgstr "Stipriai patobulinti ir greitesni rastro skaičiavimo ir geopririšimo įrankiai"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:144
+#: ../../source/site/forusers/visualchangelog210/index.rst:146
 msgid "Improved UI and workflow for the data defined label properties window"
 msgstr "Patobulinta nuo duomenų priklausančių etikečių savybių lango sąsaja ir darbo eiga"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:146
+#: ../../source/site/forusers/visualchangelog210/index.rst:148
 msgid "|image16|"
 msgstr "|image16|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:650
+#: ../../source/site/forusers/visualchangelog210/index.rst:652
 msgid "image16"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:149
+#: ../../source/site/forusers/visualchangelog210/index.rst:151
 msgid "Feature: Improved handling of potential project file overwrites"
 msgstr "Savybė: pagerintas potencialių projekto failo perrašymų valdymas"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:151
+#: ../../source/site/forusers/visualchangelog210/index.rst:153
 msgid ""
 "QGIS 2.10 will now warn you when attempting to save you project if last "
 "modification date of a loaded project has changed. This is useful if more "
@@ -327,26 +334,26 @@ msgid ""
 "attempting to save edits to the project file."
 msgstr "QGIS 2.10 įspės, kai bandysite įrašyti projekto failą, kurio paskutinė redakcijos data pasikeitė po projekto įkėlimo. Tai naudinga, kai daugiau nei viena naudotojo sesija atidarė tą patį projekto failą ir abi sesijos bando įrašyti pakeitimus į projekto failą."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:156
-#: ../../source/site/forusers/visualchangelog210/index.rst:285
+#: ../../source/site/forusers/visualchangelog210/index.rst:158
+#: ../../source/site/forusers/visualchangelog210/index.rst:287
 msgid ""
 "**This feature was developed by:** `Jürgen Fischer (norBIT) "
 "<http://www.norbit.de/>`__"
 msgstr "**Šią savybę sukūrė:** `Jürgen Fischer (norBIT) <http://www.norbit.de/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:159
+#: ../../source/site/forusers/visualchangelog210/index.rst:161
 msgid "|image17|"
 msgstr "|image17|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:651
+#: ../../source/site/forusers/visualchangelog210/index.rst:653
 msgid "image17"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:162
+#: ../../source/site/forusers/visualchangelog210/index.rst:164
 msgid "Feature: New geometry engine"
 msgstr "Savybė: naujas geometrijos varikliukas"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:164
+#: ../../source/site/forusers/visualchangelog210/index.rst:166
 msgid ""
 "QGIS 2.10 has a new geometry engine. In general you won't see many "
 "differences on the user interface yet, but this lays the foundation for a "
@@ -360,40 +367,40 @@ msgid ""
 "PostGIS database::"
 msgstr "QGIS 2.10 turi naują geometrijos varikliuką. Jūs nepastebėsite daug skirtumų naudotojo sąsajoje, bet tai pagrindas sudėtingesnėms geoerdvinėms galimybėms, kurias mes galėsime sukurti ateityje. Nauja versija palaiko kreivinius geometrijos tipus (taigi pavyzdžiui galima bus vaizduoti eismo žiedą kaip apskritimą, o ne segmentuotą poligoną, panašų į apskritimą) ir supranta z/m reikšmes geometrijose. Norėdami naudoti kreives QGIS'e jūs turėsite naudoti PostGIS arba panašią duomenų saugyklą, kuri moka išreikšti kreivinių linijų geometrijas. Jei norite pažaisti, galite pabandyti paprastą pavyzdį jūsų PostGIS duomenų bazėje::"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:186
+#: ../../source/site/forusers/visualchangelog210/index.rst:188
 msgid "Then add the layer ``curves`` to your project."
 msgstr "Tada į jūsų projektą pridėkite sluoksnį „curves“."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:188
-#: ../../source/site/forusers/visualchangelog210/index.rst:507
+#: ../../source/site/forusers/visualchangelog210/index.rst:190
+#: ../../source/site/forusers/visualchangelog210/index.rst:509
 msgid ""
 "**This feature was developed by:** `Marco Hugentobler (Sourcepole AG) "
 "<http://www.sourcepole.ch/>`__"
 msgstr "**Šią savybę sukūrė:** `Marco Hugentobler (Sourcepole AG) <http://www.sourcepole.ch/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:190
+#: ../../source/site/forusers/visualchangelog210/index.rst:192
 msgid ""
 "**This feature was funded by:** `KantonSolothurn, Switzerland "
 "<http://www.sogis.ch/>`__"
 msgstr "**Šią savybę finansavo:** `KantonSolothurn, Switzerland <http://www.sogis.ch/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:192
+#: ../../source/site/forusers/visualchangelog210/index.rst:194
 msgid "|image18|"
 msgstr "|image18|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:652
+#: ../../source/site/forusers/visualchangelog210/index.rst:654
 msgid "image18"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:196
+#: ../../source/site/forusers/visualchangelog210/index.rst:198
 msgid "Analysis tools"
 msgstr "Analizės įrankiai"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:199
+#: ../../source/site/forusers/visualchangelog210/index.rst:201
 msgid "Feature: New statistical summary dock widget"
 msgstr "Savybė: naujas statistinės suvestinės priklijuojamas valdiklis"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:201
+#: ../../source/site/forusers/visualchangelog210/index.rst:203
 msgid ""
 "Can display summary statistics (e.g. mean, standard deviation, ...) for a "
 "field or expression from a vector layer or selection. This is provided by "
@@ -402,19 +409,19 @@ msgid ""
 "statistics on **vector layers** that have a **numeric column**."
 msgstr "Gali rodyti vektorinio sluoksnio arba pažymėjimo lauko arba išraiškos suvestinę statistiką (pvz. vidurkį, standartinį nuokrypį, ...). Tai pateikiama kaip naujas priklijuojamas skydelis, kurį galite įjungti per meniu „Rodymas -> Skydeliai -> Statistika“. Pastebėtina, kad statistiką skaičiuoti galėsite tik **vektoriniams sluoksniams**, kurie turi **skaitmeninį lauką**."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:208
+#: ../../source/site/forusers/visualchangelog210/index.rst:210
 msgid "|image1|"
 msgstr "|image1|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:635
+#: ../../source/site/forusers/visualchangelog210/index.rst:637
 msgid "image1"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:211
+#: ../../source/site/forusers/visualchangelog210/index.rst:213
 msgid "Feature: Use logarithmic functions in the raster calculator"
 msgstr "Savybė: rastro skaičiuotuve naudokite logaritmines funkcijas"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:213
+#: ../../source/site/forusers/visualchangelog210/index.rst:215
 msgid ""
 "The raster calculator (``Raster -> Raster Calculator`` in the QGIS menu) is "
 "a tool that allows you to perform matrix operations on one or more raster "
@@ -422,40 +429,40 @@ msgid ""
 " raster calculator."
 msgstr "Rastro skaičiuotuvas (QGIS meniu ``Rastras -> Rastro skaičiuotuvas``) - tai įrankis, leidžiantis vykdyti matricinius veiksmus viename ar daugiau rastrinių sluoksnių. Su QGIS 2.10 rastro skaičiuotuve jau galite naudoti ``LN`` ir ``LOG10`` funkcijas."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:218
+#: ../../source/site/forusers/visualchangelog210/index.rst:220
 msgid "|image2|"
 msgstr "|image2|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:636
+#: ../../source/site/forusers/visualchangelog210/index.rst:638
 msgid "image2"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:221
+#: ../../source/site/forusers/visualchangelog210/index.rst:223
 msgid "Feature: New zonal statistics features"
 msgstr "Savybė: naujos zoninės statistikos savybės"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:223
+#: ../../source/site/forusers/visualchangelog210/index.rst:225
 msgid ""
 "Zonal statistics provide a way to extract aggregate values for the pixels "
 "underlying a polygon. The following new features have been added to our "
 "zonal statistics tool:"
 msgstr "Zoninė statistika leidžia ištraukti akumuliuotas reikšmes iš taškų, esančių po poligonu. Šios savybės buvo pridėtos prie mūsų zoninės statistikos įrankio:"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:227
+#: ../../source/site/forusers/visualchangelog210/index.rst:229
 msgid "you can now select which statistics to calculate"
 msgstr "dabar galite parinkti, kurią statistiką reikia skaičiuoti"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:228
+#: ../../source/site/forusers/visualchangelog210/index.rst:230
 msgid ""
 "extra statistics have been added (median, standard dev, min, max, range, "
 "minority, majority and variety)"
 msgstr "pridėta papildoma statistika (vidurkis, standartinė deviacija, min, maks, diapazonas, mažuma, dauguma ir įvairovė)"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:230
+#: ../../source/site/forusers/visualchangelog210/index.rst:232
 msgid "ability to select the raster band to use for statistics extraction"
 msgstr "galimybė parinkti rastro juostą, naudojamą statistikos ištraukime"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:232
+#: ../../source/site/forusers/visualchangelog210/index.rst:234
 msgid ""
 "Note that zonal stats is a 'core plugin' (a plugin that ships with your QGIS"
 " installer), but is disabled by default. You need to enable it in the plugin"
@@ -463,23 +470,23 @@ msgid ""
 "``Raster`` menu."
 msgstr "Pastebėtina, kad zonų statistika yra „bazinis priedas“ (t.y. priedas, kuris įdiegiamas QGIS diegiklio), bet pagal nutylėjimą jis būna išjungtas. Kad zonų statistika atsirastų ``Rastro`` meniu, jūs turite priedų tvarkyklėje įgalinti šį priedą ir tada įjungti meniu įrašą."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:237
+#: ../../source/site/forusers/visualchangelog210/index.rst:239
 msgid "|image3|"
 msgstr "|image3|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:637
+#: ../../source/site/forusers/visualchangelog210/index.rst:639
 msgid "image3"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:240
+#: ../../source/site/forusers/visualchangelog210/index.rst:242
 msgid "Browser"
 msgstr "Naršyklė"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:243
+#: ../../source/site/forusers/visualchangelog210/index.rst:245
 msgid "Feature: New browser properties widget"
 msgstr "Savybė: naujas naršyklės savybių valdiklis"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:245
+#: ../../source/site/forusers/visualchangelog210/index.rst:247
 msgid ""
 "When using the QGIS Browser dock panels (``View -> Panels -> Browser``), you"
 " and now enable a properties widget at the bottom of the file system tree. "
@@ -489,19 +496,19 @@ msgid ""
 "the ``i`` icon at the top of the browser panel."
 msgstr "Naudojant QGIS naršyklės prišliejamus skydelius (``Rodymas -> Skydeliai -> Naršyklė``), dabar galite įjungti savybių valdiklį failų sistemos medžio apačioje. Šiame skydelyje bus rodomos savybės bet kokio duomenų šaltinio, ant kurio jūs paspausite. Taip daug paprasčiau ir greičiau peržiūrėti pagrindinę jūsų parinkto duomenų rinkinio informaciją. Norint perjungti savybių rodinį, turėtumėte naudoti piktogramą ``i``, kurią rasite naršyklės skydelio viršuje."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:253
+#: ../../source/site/forusers/visualchangelog210/index.rst:255
 msgid "|image4|"
 msgstr "|image4|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:638
+#: ../../source/site/forusers/visualchangelog210/index.rst:640
 msgid "image4"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:256
+#: ../../source/site/forusers/visualchangelog210/index.rst:258
 msgid "Feature: New browser icon"
 msgstr "Savybė: nauja naršyklės piktograma"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:258
+#: ../../source/site/forusers/visualchangelog210/index.rst:260
 msgid ""
 "The QGIS Browser is a separate, standalone application that allows you to "
 "browse and view the GIS datasets available to you (from your file system, "
@@ -512,23 +519,23 @@ msgid ""
 "QGIS Browser."
 msgstr "QGIS naršyklė - tai atskira nepriklausoma aplikacija, leidžianti naršyti ir peržiūrėti jums prieinamus GIS duomenų rinkinius (iš jūsų failų sistemos, duomenų bazių jungčių, žiniatinklio paslaugų ir t.t.). Ankstesnėse QGIS laidose mes naudojome nedidelę piktogramą, labai panašią į QGIS apllikacijos, dėl ko naudotojai dažnai painiodavosi. Kad sumažintumėm neteisingos aplikacijos paleidimą, mes sukūrėme naują piktogramą QGIS naršyklei."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:266
+#: ../../source/site/forusers/visualchangelog210/index.rst:268
 msgid "|image5|"
 msgstr "|image5|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:639
+#: ../../source/site/forusers/visualchangelog210/index.rst:641
 msgid "image5"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:269
+#: ../../source/site/forusers/visualchangelog210/index.rst:271
 msgid "Data Providers"
 msgstr "Duomenų tiekėjai"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:272
+#: ../../source/site/forusers/visualchangelog210/index.rst:274
 msgid "Feature: DXF Export Improvements"
 msgstr "Savybė: DXF eksporto patobulinimai"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:274
+#: ../../source/site/forusers/visualchangelog210/index.rst:276
 msgid ""
 "The DXF export was continuously improved in the last three QGIS versions. "
 "This version introduces an improved SVG or simple marker to DXF block "
@@ -538,30 +545,30 @@ msgid ""
 "TrueView on the right."
 msgstr "DXF eksportas pastoviai tobulinamas paskutinėse trijose QGIS versijose. Šioje versijoje atsiranda patobulintas SVG arba paprastų žymeklių konvertavimas į DXF blokus, pataisytos kelios klaidos ir problemos, dėl kurių buvo gaunamas nepilnas (neperskaitomas) DXF failas. Nuotraukoje matote pradinį rodinį QGIS'e kairėje, o dešinėje - eksportuoto DXF vaizdą Autodesk TrueView programoje."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:281
+#: ../../source/site/forusers/visualchangelog210/index.rst:283
 msgid ""
 "See also `this article on qgis.ch <http://www.qgis.ch/en/projects/dxf-"
 "export>`__ explaining what is supported and what not."
 msgstr "Taipogi skaitykite `šį straipsnį svetainėje qgis.ch <http://www.qgis.ch/en/projects/dxf-export>`__, kuriame paaiškinama, kas palaikoma, o kas nepalaikoma."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:288
+#: ../../source/site/forusers/visualchangelog210/index.rst:290
 msgid ""
 "**This feature was funded by:** Communities of Morges, Uster, Vevey and SIGE"
 msgstr "**Šią savybę finansavo:** Morges, Uster, Vevey ir SIGE bendruomenės"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:291
+#: ../../source/site/forusers/visualchangelog210/index.rst:293
 msgid "|image6|"
 msgstr "|image6|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:640
+#: ../../source/site/forusers/visualchangelog210/index.rst:642
 msgid "image6"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:294
+#: ../../source/site/forusers/visualchangelog210/index.rst:296
 msgid "Feature: PostGIS provider side expression filters"
 msgstr "Savybė: išraiškų filtrai PostGIS tiekėjo pusėje"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:296
+#: ../../source/site/forusers/visualchangelog210/index.rst:298
 msgid ""
 "In QGIS 2.10 you can now filter features on the database server side. Only "
 "supported expressions will be sent to the database. Expressions using "
@@ -569,7 +576,7 @@ msgid ""
 "evaluation."
 msgstr "QGIS 2.10 leidžia filtruoti geoobjektus duomenų bazės pusėje. Tik palaikomos išraiškos bus siunčiamos į duomenų bazę. Išraiškos su nepalaikomais veiksmais arba funkcijomis bus naudojamos vietiniame įvertinime."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:301
+#: ../../source/site/forusers/visualchangelog210/index.rst:303
 msgid ""
 "To make use of this feature you need to enable it in ``Settings -> Options "
 "-> data sources``. If your filter expression is PostgreSQL compliant it will"
@@ -577,35 +584,35 @@ msgid ""
 "feature when using the python API for example when using these calls."
 msgstr "Norint naudoti šią savybę turite ją įjungti ``Nustatymai -> Parinktys -> Duomenų šaltiniai``. Jei jūsų filtro išraiška suderinama su PostgreSQL, ji bus automatiškai vykdoma serverio pusėje. Šią savybe taip pat galite naudoti ir python'o API, pavyzdžiui naudojant šiuos kvietimus."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:307
+#: ../../source/site/forusers/visualchangelog210/index.rst:309
 msgid "``QgsFeatureRequest().setFilterExpression( expression )``"
 msgstr "``QgsFeatureRequest().setFilterExpression( expression )``"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:309
+#: ../../source/site/forusers/visualchangelog210/index.rst:311
 msgid "or"
 msgstr "arba"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:311
+#: ../../source/site/forusers/visualchangelog210/index.rst:313
 msgid "``QgsVectorLayer::getFeatures( expression )``"
 msgstr "``QgsVectorLayer::getFeatures( expression )``"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:313
+#: ../../source/site/forusers/visualchangelog210/index.rst:315
 msgid "|image7|"
 msgstr "|image7|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:641
+#: ../../source/site/forusers/visualchangelog210/index.rst:643
 msgid "image7"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:316
+#: ../../source/site/forusers/visualchangelog210/index.rst:318
 msgid "Data management"
 msgstr "Duomenų valdymas"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:319
+#: ../../source/site/forusers/visualchangelog210/index.rst:321
 msgid "Feature: Virtual fields are now updatable"
 msgstr "Savybė: virtualius laukus jau galima keisti"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:321
+#: ../../source/site/forusers/visualchangelog210/index.rst:323
 msgid ""
 "Prior to version 2.8 you had to delete and recreate virtual fields if you "
 "wanted to change the expression for calculating the virtual field. In 2.10 "
@@ -614,70 +621,70 @@ msgid ""
 "virtual field."
 msgstr "Iki 2.8 versijos jums reikėjo ištrinti ir iš naujo sukurti virtualius laukus, jei norėjote pakeisti virtualaus lauko skaičiavimo išraišką. 2.10 galite nueiti į kortelę ``Laukai`` ir ten paspausti mažą mygtuką ``Išraiška``, kad atvertumėte išraiškos redaktorių, kuriame galėsite pakeisti virtualiame lauke naudojamą išraišką."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:327
-#: ../../source/site/forusers/visualchangelog210/index.rst:384
+#: ../../source/site/forusers/visualchangelog210/index.rst:329
+#: ../../source/site/forusers/visualchangelog210/index.rst:386
 msgid ""
 "**This feature was developed by:** `Matthias Kuhn (OpenGIS) "
 "<http://www.opengis.ch/>`__"
 msgstr "**Šią savybę sukūrė:** `Matthias Kuhn (OpenGIS) <http://www.opengis.ch/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:330
-#: ../../source/site/forusers/visualchangelog210/index.rst:509
+#: ../../source/site/forusers/visualchangelog210/index.rst:332
+#: ../../source/site/forusers/visualchangelog210/index.rst:511
 msgid ""
 "**This feature was funded by:** `City of Uster, Switzerland "
 "<http://gis.uster.ch/>`__"
 msgstr "**Šią savybę finansavo:** `Usterio miestas, Šveicarija <http://gis.uster.ch/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:333
+#: ../../source/site/forusers/visualchangelog210/index.rst:335
 msgid "|image8|"
 msgstr "|image8|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:642
+#: ../../source/site/forusers/visualchangelog210/index.rst:644
 msgid "image8"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:336
+#: ../../source/site/forusers/visualchangelog210/index.rst:338
 msgid "Feature: Line edit with auto-completer for ValueRelation edit widget"
 msgstr "Savybė: eilutės redagavimo automatinis pabaigimas skirtas ValueRelation redagavimo valdikliui"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:338
+#: ../../source/site/forusers/visualchangelog210/index.rst:340
 msgid ""
 "The value relation edit widget for vector layers (``Layer -> Properties -> "
 "Fields -> Edit Widget -> Value Relation``) can now be set to autocomplete as"
 " you start typing in the input box it creates on the feature form."
 msgstr "Vektorinių sluoksnių reikšmės ryšio redagavimo valdikliui (``Sluoksnis -> Savybės -> Laukai -> Redagavimo valdiklis -> Reikšmės ryšys``) dabar galima įjungti automatinį baigimą, kai pradedate rašyti į geoobjekto formą."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:343
+#: ../../source/site/forusers/visualchangelog210/index.rst:345
 msgid "|image9|"
 msgstr "|image9|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:643
+#: ../../source/site/forusers/visualchangelog210/index.rst:645
 msgid "image9"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:346
+#: ../../source/site/forusers/visualchangelog210/index.rst:348
 msgid "Feature: Improvements to DB Manager"
 msgstr "Savybė: DB tvarkytojo patobulinimai"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:348
+#: ../../source/site/forusers/visualchangelog210/index.rst:350
 msgid "There are two new features in the DB Manager :"
 msgstr "DB tvarkytojas turi dvi naujas savybes:"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:350
+#: ../../source/site/forusers/visualchangelog210/index.rst:352
 msgid "**Query as layer does not need a unique integer column anymore**"
 msgstr "**Kuriant sluoksnį kaip užklausą nebereikia unikalaus sveiko skaičiaus stulpelio**"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:352
+#: ../../source/site/forusers/visualchangelog210/index.rst:354
 msgid ""
 "A column with unique integer column is not needed anymore to load an SQL "
 "query as a QGIS layer. An auto-incremented value will be used in place."
 msgstr "Daugiau nereikia unikalaus sveiko skaičiaus stulpelio, kai kuriate QGIS sluoksnį naudojant SQL užklausą. Tokiu atveju bus naudojamas automatiškai didėjanti skaičių seka."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:356
+#: ../../source/site/forusers/visualchangelog210/index.rst:358
 msgid "**Integration of an SQL query builder**"
 msgstr "**Integracija su SQL užklausų kūrėju**"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:358
+#: ../../source/site/forusers/visualchangelog210/index.rst:360
 msgid ""
 "A new window in DB Manager helps the creation of SQL queries by means of "
 "widgets where table names, column names and functions can be selected by the"
@@ -685,29 +692,29 @@ msgid ""
 "and Spatialite providers."
 msgstr "Naujas DB tvarkytojo langas leidžia kurti SQL užklausas naudojant valdiklius, kuriuose lentelių pavadinimai, stulpelių pavadinimai ir funkcijos gali būti parenkamos. Jis atkeltas iš QSpatialite priedo ir veikia su PostGIS ir Spatialite tiekėjais."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:363
+#: ../../source/site/forusers/visualchangelog210/index.rst:365
 msgid ""
 "**These features were funded by**: MEDDE (French Ministry of Sustainable "
 "Development)"
 msgstr "**Šias savybes finansavo**: MEDDE (French Ministry of Sustainable Development)"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:365
+#: ../../source/site/forusers/visualchangelog210/index.rst:367
 msgid "**These features were developed by**: Hugo Mercier / Oslandia"
 msgstr "**Šias savybes sukūrė**: Hugo Mercier / Oslandia"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:367
+#: ../../source/site/forusers/visualchangelog210/index.rst:369
 msgid "|image10|"
 msgstr "|image10|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:644
+#: ../../source/site/forusers/visualchangelog210/index.rst:646
 msgid "image10"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:370
+#: ../../source/site/forusers/visualchangelog210/index.rst:372
 msgid "Feature: Filter chaining for relation reference widget"
 msgstr "Savybė: filtrų susiejimas pririštų klasifikatorių valdikliui"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:372
+#: ../../source/site/forusers/visualchangelog210/index.rst:374
 msgid ""
 "To select linked entries from other tables one can use the relation "
 "reference widgets. One can either select elements graphically by selecting "
@@ -721,109 +728,109 @@ msgid ""
 "hierarchical data like City -> Street -> Number."
 msgstr "Norint parinkti susietus įrašus iš kitų lentelių, galima naudoti pririštų klasifikatorių valdiklius. Elementus parinkti galima arba grafiškai pažymint juos žemėlapyje, jei pririštas elementas turi susietą geometriją, arba parinkti elementą pagal pririštą id. Kad būtų galima vykdyti neerdvinį parinkimą, dabar galima apriboti parinkčių sąrašą filtrais (susietais arba nesusietais). Jei filtrai yra susieti, ruošiant parinkčių sąrašą jų sąlygos kombinuojamos operacija „IR“. Įjungus susietą filtrą įjungiamas paveldimasis režimas, taip kiekvienas filtras rodo tik įrašus, kurie atitinka ankstesnio filtro sąlygas. Tai labai naudinga, kai reikia parinkti hierarchinius duomenis, tokius kaip Miestas -> Gatvė -> Numeris."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:386
+#: ../../source/site/forusers/visualchangelog210/index.rst:388
 msgid "**This feature was funded by:** `SIGE <http://www.sige.ch/>`__"
 msgstr "**Šią savybę finansavo:** `SIGE <http://www.sige.ch/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:388
+#: ../../source/site/forusers/visualchangelog210/index.rst:390
 msgid "|image11|"
 msgstr "|image11|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:645
+#: ../../source/site/forusers/visualchangelog210/index.rst:647
 msgid "image11"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:391
+#: ../../source/site/forusers/visualchangelog210/index.rst:393
 msgid "Diagrams"
 msgstr "Diagramos"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:394
+#: ../../source/site/forusers/visualchangelog210/index.rst:396
 msgid "Feature: Diagram improvements"
 msgstr "Savybė: diagramų patobulinimai"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:396
+#: ../../source/site/forusers/visualchangelog210/index.rst:398
 msgid ""
 "The diagram functionality in QGIS allows you to overlay small pie charts or "
 "histograms over features on the map. In this release we have made the "
 "following improvements to diagramming support:"
 msgstr "QGIS diagramų funkcionalumas leidžia užkelti paprastas skritulines diagramas arba histogramas virš geoobjektų žemėlapyje. Šioje laidoje diagramų funkcionalumas gavo šiuos patobulinimus:"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:400
+#: ../../source/site/forusers/visualchangelog210/index.rst:402
 msgid "Diagrams can be disabled without losing settings"
 msgstr "Diagramas galima išjungti neprarandant nustatymų"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:401
+#: ../../source/site/forusers/visualchangelog210/index.rst:403
 msgid "Add checkbox to always show diagrams for a layer"
 msgstr "Pridėta parinktis visada rodyti diagramas sluoksniui"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:402
+#: ../../source/site/forusers/visualchangelog210/index.rst:404
 msgid ""
 "Diagrams user interface has been refreshed to simplify the dialog and make "
 "it more user friendly"
 msgstr "Atnaujinta diagramų naudotojo sąsaja supaprastinant dialogą, dėl ko jis tampa draugiškesnis naudotojui"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:404
+#: ../../source/site/forusers/visualchangelog210/index.rst:406
 msgid "Diagram classes are now shown in the layer's legend"
 msgstr "Diagramų klasės dabar rodomos sluoksnio legendoje"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:406
+#: ../../source/site/forusers/visualchangelog210/index.rst:408
 msgid "|image12|"
 msgstr "|image12|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:646
+#: ../../source/site/forusers/visualchangelog210/index.rst:648
 msgid "image12"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:409
+#: ../../source/site/forusers/visualchangelog210/index.rst:411
 msgid "Digitising"
 msgstr "Skaitmeninimas"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:412
+#: ../../source/site/forusers/visualchangelog210/index.rst:414
 msgid "Feature: Improved geometry rotation tool"
 msgstr "Savybė: pagerintas geometrijos pasukimo įrankis"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:414
+#: ../../source/site/forusers/visualchangelog210/index.rst:416
 msgid ""
 "The geometry rotation tool is an advanced digitising tool that allows you to"
 " arbitrarily rotate a feature's geometry. The following improvements have "
 "been made to the rotation tool:"
 msgstr "Geometrijos pasukimo įrankis yra sudėtingas skaitmeninimo įrankis, leidžiantis norimu kampu pasukti geometriją. Padaryti tokie pasukimo įrankio patobulinimai:"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:418
+#: ../../source/site/forusers/visualchangelog210/index.rst:420
 msgid "you can now use numerical input in rotation map tool"
 msgstr "pasukimo žemėlapio įrankyje dabar galima naudoti skaitmeninę įvestį"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:419
+#: ../../source/site/forusers/visualchangelog210/index.rst:421
 msgid "you can use a combo box to set the angles"
 msgstr "galite naudoti iškrentančius laukus kampų nustatymui"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:420
+#: ../../source/site/forusers/visualchangelog210/index.rst:422
 msgid ""
 "added support for snapping to angles (directly enabled when ``using``\\ "
 "shift + click\\`\\`)"
 msgstr "pridėtas kampų pritraukimo palaikymas (tiesiogiai įjungiamas naudojant ``shift + paspaudimas``)"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:422
+#: ../../source/site/forusers/visualchangelog210/index.rst:424
 msgid "rotation anchor is defined on ``CTRL+click`` and not on mouse move"
 msgstr "pasukimo pririšimas apibrėžiamas ``CTRL+paspaudimu``, o ne pelės perkėlimu"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:424
+#: ../../source/site/forusers/visualchangelog210/index.rst:426
 msgid "|image13|"
 msgstr "|image13|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:647
+#: ../../source/site/forusers/visualchangelog210/index.rst:649
 msgid "image13"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:428
+#: ../../source/site/forusers/visualchangelog210/index.rst:430
 msgid "Labelling"
 msgstr "Etiketės"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:431
+#: ../../source/site/forusers/visualchangelog210/index.rst:433
 msgid "Feature: \"Follow point\" alignment for multiline labels"
 msgstr "Savybė: „Sekti tašką“ lygiavimas kelių eilučių etiketėms"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:433
+#: ../../source/site/forusers/visualchangelog210/index.rst:435
 msgid ""
 "When set to this mode, text alignment for labels are dependent on the final "
 "placement of the label relative to the point. Eg, if the label is placed to "
@@ -832,23 +839,23 @@ msgid ""
 "greatly improves the appearance of multiline labels for point layers."
 msgstr "Įjungus šį režimą, etikečių lygiavimas priklauso nuo galutinės etiketės pozicijos taško atžvilgiu. Pavyzdžiui jei etiketė piešiama taško dešinėje, tai etiketė bus lygiuojama pagal dešinį kraštą, o jei ji piešiama taško dešinėje - ji bus lygiuojama pagal kairįjį kraštą. tai stipriai pagerina kelių eilučių etiketes taškų sluoksniuose."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:440
+#: ../../source/site/forusers/visualchangelog210/index.rst:442
 msgid "|image19|"
 msgstr "|image19|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:653
+#: ../../source/site/forusers/visualchangelog210/index.rst:655
 msgid "image19"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:443
+#: ../../source/site/forusers/visualchangelog210/index.rst:445
 msgid "Map Composer"
 msgstr "Žemėlapio kūrėjas"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:446
+#: ../../source/site/forusers/visualchangelog210/index.rst:448
 msgid "Feature: Add scalebar sizing mode to fit a desired scalebar width"
 msgstr "Savybė: mastelio dydžio nustatymo pagal norimą plotį režimas"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:448
+#: ../../source/site/forusers/visualchangelog210/index.rst:450
 msgid ""
 "In previous QGISversions it was hard to use graphical scalebars when the "
 "range of potential scales was big. The scalebar would either be quickly too "
@@ -860,92 +867,92 @@ msgid ""
 "per segment while still keeping round values."
 msgstr "Ankstesnėse QGIS versijose buvo sunku naudoti grafinius mastelius, kai potencialių mastelio elementų žingsniai buvo dideli. Mastelis labai greitai tapdavo arba per platus, arba per siauras ir reikėjo rankomis derinti segmentų dydžius (vienetus per segmentą) po kiekvieno mastelio pakeitimo. Tai taip pat reiškė, kad grafiniai masteliai buvo nelabai panaudojami Atlaso serijinam spausdinimui arba QGIS serveryje, kai nebuvo žinomas galutinis mastelis. QGIS 2.10 dabar galima nurodyti minimalų ir maksimalų vieno segmento ilgį milimetrais ir QGIS automatiškai priderina vienetų per segmentą skaičių, paliekant apvalias reikšmes."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:458
+#: ../../source/site/forusers/visualchangelog210/index.rst:460
 msgid ""
 "Don't forget to also set the alignment of the scalebar, esp. if you want it "
 "to be centered or right-aligned!"
 msgstr "Nepamirškite taip pat nustatyti mastelio lygiavimą, ypač jei norite, kad jis būtų centruotas arba lygiuotas pagal dešinį kraštą!"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:461
+#: ../../source/site/forusers/visualchangelog210/index.rst:463
 msgid ""
 "**This feature was developed by:** `Sandro Mani (Sourcepole AG) "
 "<http://www.sourcepole.ch/>`__"
 msgstr "**Šią savybę sukūrė:** `Sandro Mani (Sourcepole AG) <http://www.sourcepole.ch/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:463
+#: ../../source/site/forusers/visualchangelog210/index.rst:465
 msgid ""
 "**This feature was funded by:** `Kanton Glarus, Switzerland "
 "<http://geo.gl.ch/>`__"
 msgstr "**Šią savybę finansavo:** `Kanton Glarus, Šveicarija <http://geo.gl.ch/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:465
+#: ../../source/site/forusers/visualchangelog210/index.rst:467
 msgid "|image20|"
 msgstr "|image20|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:654
+#: ../../source/site/forusers/visualchangelog210/index.rst:656
 msgid "image20"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:468
+#: ../../source/site/forusers/visualchangelog210/index.rst:470
 msgid "Programmability"
 msgstr "Programavimas"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:471
+#: ../../source/site/forusers/visualchangelog210/index.rst:473
 msgid "Feature: Improvements for programmers"
 msgstr "Savybė: patobulinimai programuotojams"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:473
+#: ../../source/site/forusers/visualchangelog210/index.rst:475
 msgid ""
 "We have made a number of changes and improvements that will be of interest "
 "to developers:"
 msgstr "Mes padarėme keletą pakeitimų ir patobulinimų, kurie bus įdomūs programuotojams:"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:476
+#: ../../source/site/forusers/visualchangelog210/index.rst:478
 msgid ""
 "We have upped the minimum requirement for Qt4 to version 4.8. Qt4 is one of "
 "the main C++ toolkits / libraries we use to create QGIS."
 msgstr "Padidinome minimalios Qt4 versijos reikalavimą iki 4.8. Qt4 - tai vienas pagrindinių C++ įrankių rinkinių / bibliotekų, kurios naudojamos kuriant QGIS."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:478
+#: ../../source/site/forusers/visualchangelog210/index.rst:480
 msgid ""
 "New ``QgsStatisticalSummary`` class for calculating statistics from a list "
 "of numbers."
 msgstr "Nauja ``QgsStatisticalSummary`` klasė skaičiuoja skaičių sąrašo statistiką."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:480
+#: ../../source/site/forusers/visualchangelog210/index.rst:482
 msgid "Allow changing vector layer data source."
 msgstr "Leidžiama keisti vektorinio sluoksnio duomenų šaltinį."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:481
+#: ../../source/site/forusers/visualchangelog210/index.rst:483
 msgid ""
 "Implicit sharing of classes : ``QgsField``, ``QgsFields``, "
 "``QgsDataDefined``, ``QgsFeature``, ``QgsGeometry``."
 msgstr "Konkretus klasių dalinimasis: ``QgsField``, ``QgsFields``, ``QgsDataDefined``, ``QgsFeature``, ``QgsGeometry``."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:483
+#: ../../source/site/forusers/visualchangelog210/index.rst:485
 msgid ""
 "Plugins can now create their own entries in the browser widget with two new "
 "classes : ``QgsDataItemProvider`` and ``QgsDataItemProviderRegistry``."
 msgstr "Priedai dabar gali sukurti savus įrašus naršyklės valdiklyje su dvejomis naujomis klasėmis: ``QgsDataItemProvider`` ir ``QgsDataItemProviderRegistry``."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:487
+#: ../../source/site/forusers/visualchangelog210/index.rst:489
 msgid "|image21|"
 msgstr "|image21|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:655
+#: ../../source/site/forusers/visualchangelog210/index.rst:657
 msgid "image21"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:490
+#: ../../source/site/forusers/visualchangelog210/index.rst:492
 msgid "QGIS Server"
 msgstr "QGIS Serveris"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:493
+#: ../../source/site/forusers/visualchangelog210/index.rst:495
 msgid ""
 "Feature: Support for tolerance parameter in WMS GetFeatureInfo requests"
 msgstr "Savybė: tolerancijos parametro palaikymas WMS GetFeatureInfo užklausose"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:495
+#: ../../source/site/forusers/visualchangelog210/index.rst:497
 msgid ""
 "When using WMS layers served by QGIS Server, you can now specify the "
 "tolerance for how far from the click origin GetFeatureInfo requests should "
@@ -956,49 +963,49 @@ msgid ""
 "requests:"
 msgstr "Naudojant WMS sluoksnius, kuriuos teikia QGIS Serveris, dabar galite nurodyti toleranciją kiek toli nuo paspaudimo vietos veiks GetFeatureInfo užklausos. Tai labai svarbu mobiliems įrenginiams, kur daug sunkiau tiksliai parodyti geoobjektą. Iki šios savybės, buvo beveik neįmanoma identifikuoti tašką arba linijinius geoobjektus mobiliuose įrenginiuose su QGIS serveriu. GetFeatureInfo užklausose galite pridėti šiuos parametrus:"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:503
+#: ../../source/site/forusers/visualchangelog210/index.rst:505
 msgid "FI\\_POINT\\_TOLERANCE=16&FI\\_LINE\\_TOLERANCE=8&FI\\_POLYGON\\_TOLERANCE=4"
 msgstr "FI\\_POINT\\_TOLERANCE=16&FI\\_LINE\\_TOLERANCE=8&FI\\_POLYGON\\_TOLERANCE=4"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:505
+#: ../../source/site/forusers/visualchangelog210/index.rst:507
 msgid "and change the tolerance values (in pixels) to suit your needs."
 msgstr "ir pakeisti tolerancijos reikšmes (taškais), kad jos atitiktų jūsų poreikius."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:511
+#: ../../source/site/forusers/visualchangelog210/index.rst:513
 msgid "|image22|"
 msgstr "|image22|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:656
+#: ../../source/site/forusers/visualchangelog210/index.rst:658
 msgid "image22"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:514
+#: ../../source/site/forusers/visualchangelog210/index.rst:516
 msgid "Symbology"
 msgstr "Simbologija"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:517
+#: ../../source/site/forusers/visualchangelog210/index.rst:519
 msgid "Feature: Match categories to existing styles"
 msgstr "Savybė: priderinti kategorijas prie turimų stilių"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:519
+#: ../../source/site/forusers/visualchangelog210/index.rst:521
 msgid ""
 "Add options under categorised renderer advanced menu to set categories to "
 "symbols with a matching name from the style library or an XML style file."
 msgstr "Kategorizuoto braižymo sudėtingesniame meniu pridėta parinktis nurodyti kategorijas simboliams, kurie atitinka pavadinimą stilių bibliotekoje arba XML stiliaus faile."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:523
+#: ../../source/site/forusers/visualchangelog210/index.rst:525
 msgid "|image23|"
 msgstr "|image23|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:657
+#: ../../source/site/forusers/visualchangelog210/index.rst:659
 msgid "image23"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:526
+#: ../../source/site/forusers/visualchangelog210/index.rst:528
 msgid "Feature: Vary symbol sizes using the graduated renderer"
 msgstr "Savybė: keisti simbolių dydį naudojant graduotą braižymą"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:528
+#: ../../source/site/forusers/visualchangelog210/index.rst:530
 msgid ""
 "Renderers are the subsystem of QGIS that allow you to create rich "
 "cartographical representations of your data. A graduated renderer varies the"
@@ -1010,37 +1017,37 @@ msgid ""
 " only the ability to vary by colour, line width is not yet supported."
 msgstr "Braižytojai, tai QGIS posistemė, leidžianti kurti sudėtingas kartografines jūsų duomenų pateiktis. Graduotas braižymas keičia simbolį priklausomai nuo pastoviai besikeičiančios reikšmės vektoriniame sluoksnyje. Ankstesnėse QGIS versijose jūs galėjote keisti tik spalvą (pavyzdžiui naudodami spalvų rampą). QGIS 2.10 graduotas simbolio braižymas leidžia keisti ir dydį *arba* spalvą. Taškų sluoksniams jūs galite keisti taško dydį, linijoms jūs galite keisti linijos plotį. Poligonai tebeturi tik galimybę keisti spalvą, linijos plotis vis dar nepalaikomas."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:538
-#: ../../source/site/forusers/visualchangelog210/index.rst:563
-#: ../../source/site/forusers/visualchangelog210/index.rst:604
+#: ../../source/site/forusers/visualchangelog210/index.rst:540
+#: ../../source/site/forusers/visualchangelog210/index.rst:565
+#: ../../source/site/forusers/visualchangelog210/index.rst:606
 msgid ""
 "**This feature was developed by:** `Vincent Mora (Oslandia) "
 "<http://www.oslandia.com/>`__"
 msgstr "**Šią savybę sukūrė:** `Vincent Mora (Oslandia) <http://www.oslandia.com/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:540
-#: ../../source/site/forusers/visualchangelog210/index.rst:565
-#: ../../source/site/forusers/visualchangelog210/index.rst:606
+#: ../../source/site/forusers/visualchangelog210/index.rst:542
+#: ../../source/site/forusers/visualchangelog210/index.rst:567
+#: ../../source/site/forusers/visualchangelog210/index.rst:608
 msgid ""
 "**This feature was funded by:** `Agence de l'eau Adour-Garonne "
 "<http://www.eau-adour-garonne.fr/>`__"
 msgstr "**Šią savybę finansavo:** `Agence de l'eau Adour-Garonne <http://www.eau-adour-garonne.fr/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:542
+#: ../../source/site/forusers/visualchangelog210/index.rst:544
 msgid "|image24|"
 msgstr "|image24|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:658
+#: ../../source/site/forusers/visualchangelog210/index.rst:660
 msgid "image24"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:545
+#: ../../source/site/forusers/visualchangelog210/index.rst:547
 msgid ""
 "Feature: New option for preventing the automatic clipping of features to the"
 " map extent"
 msgstr "Savybė: nauja parinktis leidžianti išvengti automatinio geoobjektų apkarpymo pagal žemėlapio plotą"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:547
+#: ../../source/site/forusers/visualchangelog210/index.rst:549
 msgid ""
 "This option (located under the symbol advanced menu) disables the automatic "
 "clipping of lines/polygons to the canvas extent. In some cases this clipping"
@@ -1048,20 +1055,20 @@ msgid ""
 "must always be the actual feature's centroid)."
 msgstr "Ši parinktis (kurią rasite po sudėtingesniu simbolių meniu) išjungia automatinį linijų/poligonų apkarpymą pagal drobės apimtį. Kartais dėl šio apkarpymo gaunama nepageidaujama simbologija (pavyzdžiui centroidas užpildomas kai centroidas turėtų visada būti tikras geoobjekto centroidas)."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:552
+#: ../../source/site/forusers/visualchangelog210/index.rst:554
 msgid "|image25|"
 msgstr "|image25|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:659
+#: ../../source/site/forusers/visualchangelog210/index.rst:661
 msgid "image25"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:555
+#: ../../source/site/forusers/visualchangelog210/index.rst:557
 msgid ""
 "Feature: Size scale and rotation have been removed from the advanced menu"
 msgstr "Savybė: dydis ir pasukimas buvo pašalinti iš sudėtingesnio meniu"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:557
+#: ../../source/site/forusers/visualchangelog210/index.rst:559
 msgid ""
 "We have removed ``SizeScale`` and ``Rotation`` from ```Layer -> Properties "
 "-> Symbology tab -> Advanced Menu``. You should rather set rotation on a "
@@ -1070,100 +1077,100 @@ msgid ""
 "angle** properties."
 msgstr "Mes pašalinome ``Dydį`` ir ``Pasukimą`` iš ```Sluoksnis -> Savybės -> Simbologijos kortelė -> Sudėtingesnis meniu``. Pasukimą turėtumėte nurodyti naudodami išraišką arba lauką *kiekvienam simboliui lauke*. Senesniuose projektuose naudotos išraiškos, konvertuojamos į simbolio lygio **nuo duomenų priklausančio dydžio ir kampo** savybes."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:567
+#: ../../source/site/forusers/visualchangelog210/index.rst:569
 msgid "|image26|"
 msgstr "|image26|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:660
+#: ../../source/site/forusers/visualchangelog210/index.rst:662
 msgid "image26"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:570
+#: ../../source/site/forusers/visualchangelog210/index.rst:572
 msgid "Feature: Data defined properties for font marker"
 msgstr "Savybė: nuo duomenų priklausančios šrifto žymeklio savybės"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:572
+#: ../../source/site/forusers/visualchangelog210/index.rst:574
 msgid ""
 "Most properties of the font marker can now be data defined, including marker"
 " size, rotation and character."
 msgstr "Dauguma šrifto žymeklio savybių dabar galima nustatyti pagal duomenis, įskaitant žymeklio dydį, pasukimą ir simbolį."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:575
+#: ../../source/site/forusers/visualchangelog210/index.rst:577
 msgid "|image27|"
 msgstr "|image27|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:661
+#: ../../source/site/forusers/visualchangelog210/index.rst:663
 msgid "image27"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:578
+#: ../../source/site/forusers/visualchangelog210/index.rst:580
 msgid "Feature: Visualise and modify the graduated renderer using a histogram"
 msgstr "Savybė: vizualizuokite ir keiskite graduotą braižymą naudodami histogramą"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:580
+#: ../../source/site/forusers/visualchangelog210/index.rst:582
 msgid ""
 "A new histogram tab has been added to the graduated renderer, which shows an"
 " interactive histogram of the values from the assigned field or expression. "
 "Class breaks can be moved or added using the histogram."
 msgstr "Prie graduoto braižymo pridėta nauja histogramos kortelė, kurioje rodoma interaktyvi priskirto lauko arba išraiškos reikšmių histograma. Naudojant šią histogramą galima perkelti ar pridėti klasių ribas."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:584
+#: ../../source/site/forusers/visualchangelog210/index.rst:586
 msgid "**This feature was funded by:** `ADUGA <http://www.aduga.org>`__"
 msgstr "**Šią savybė finansavo:** `ADUGA <http://www.aduga.org>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:586
-#: ../../source/site/forusers/visualchangelog210/index.rst:628
+#: ../../source/site/forusers/visualchangelog210/index.rst:588
+#: ../../source/site/forusers/visualchangelog210/index.rst:630
 msgid ""
 "**This feature was developed by:** `Nyall Dawson "
 "<http://nyalldawson.net/>`__"
 msgstr "**Šią savybę sukūrė:** `Nyall Dawson <http://nyalldawson.net/>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:588
+#: ../../source/site/forusers/visualchangelog210/index.rst:590
 msgid "|image28|"
 msgstr "|image28|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:662
+#: ../../source/site/forusers/visualchangelog210/index.rst:664
 msgid "image28"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:591
+#: ../../source/site/forusers/visualchangelog210/index.rst:593
 msgid ""
 "Feature: Size, rotation and stroke-width expressions at the symbollist level"
 msgstr "Savybė: dydžio, pasukimo ir brėžimo pločio išraiškos simbolisto lygyje"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:593
+#: ../../source/site/forusers/visualchangelog210/index.rst:595
 msgid ""
 "Size and Rotation can be defined by an expression for all symbol levels "
 "composing a marker. Width can be defined by an expression for all symbols "
 "composing a line."
 msgstr "Dydis ir pasukimas gali būti nurodomos išraiška visiems simbolių lygiams, kuriantiems žymeklį. Plotį galima nurodyti išraiška visiems simboliams, kuriantiems liniją."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:597
+#: ../../source/site/forusers/visualchangelog210/index.rst:599
 msgid ""
 "For symbols, a legend is generated for varying sizes. This allows "
 "multivariate analysis legend in the case of classified/graduated colors."
 msgstr "Simboliams legenda kuriama skirtingiems dydžiams. Tai leidžia kurti daugiavariantinės analizės legendą klasifikuojant/graduojant spalvomis."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:600
+#: ../../source/site/forusers/visualchangelog210/index.rst:602
 msgid ""
 "An assistant, with preview, is accessible through the data defined button to"
 " help the user define the size expression. Three methods are available: "
 "Flannery, Area and Radius."
 msgstr "Padėjėją su peržiūra galima rasti per duomenų priklausymo mygtuką, jo pagalba galima kurti savo dydžio išraišką. Galimi trys metodai: Flannery, Plotas ir Spindulys."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:608
+#: ../../source/site/forusers/visualchangelog210/index.rst:610
 msgid "|image29|"
 msgstr "|image29|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:663
+#: ../../source/site/forusers/visualchangelog210/index.rst:665
 msgid "image29"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:611
+#: ../../source/site/forusers/visualchangelog210/index.rst:613
 msgid "Feature: Live layer effects for layers and symbol layers"
 msgstr "Savybė: gyvi sluoksnių efektai sluoksniams ir simboliniams sluoksniams"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:613
+#: ../../source/site/forusers/visualchangelog210/index.rst:615
 msgid ""
 "Live layer effects add to the already extensive cartographic capabilities of"
 " QGIS by adding the ability to add various render effects into the render "
@@ -1174,7 +1181,7 @@ msgid ""
 "(by re-injecting the source geometry back into the render chain)."
 msgstr "Gyvi sluoksnių efektai - tai dar vienas priedas prie jau didelio rinkinio QGIS kartografinių galimybių. Jie leidžia pridėti įvairius braižymo efektus į braižymo eigą. Naudojant gyvus efektus galite daryti tokius dalykus kaip pridėti šešėlius po jūsų simboliu, ištempti ir iškarpyti braižomą simbolį. Taipogi galite dėlioti šiuos efektus vieną po kitu ir nurodyti, ar efektas turi būti progresinis (t.y. pridėti save prie ligšiolinės braižymo būsenos) arba diskretinis (iš naujo pridedantis pradinę geometriją į braižymo eigą)."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:622
+#: ../../source/site/forusers/visualchangelog210/index.rst:624
 msgid ""
 "**Note**: This is functionality for advanced users and we should note that "
 "overuse of this feature can significantly slow down render times, so you may"
@@ -1182,22 +1189,22 @@ msgid ""
 "for generation of production quality maps and one for draft mode."
 msgstr "**Pastaba**: Šis funkcionalumas skirtas patyrusiems naudotojams ir mes norėtume pastebėti, kad per didelis jo naudojimas gali stipriai sulėtinti braižymą, taigi reikėtų pagalvoti apie skirtingų braižymo profilių naudojimą jūsų sluoksnyje - vieno galutinio aukštos kokybės žemėlapio generavimui ir kito - darbo režimui."
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:630
+#: ../../source/site/forusers/visualchangelog210/index.rst:632
 msgid ""
 "**This feature was funded by:** `a crowd-funding initiative "
 "<https://www.kickstarter.com/projects/41633306/a-christmas-gift-for-qgis-"
 "live-layer-effects-for-q>`__"
 msgstr "**Šią savybę finansavo:** `minios-finansavimo iniciatyva <https://www.kickstarter.com/projects/41633306/a-christmas-gift-for-qgis-live-layer-effects-for-q>`__"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:632
+#: ../../source/site/forusers/visualchangelog210/index.rst:634
 msgid "|image30|"
 msgstr "|image30|"
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:664
+#: ../../source/site/forusers/visualchangelog210/index.rst:666
 msgid "image30"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog210/index.rst:634
+#: ../../source/site/forusers/visualchangelog210/index.rst:636
 msgid "image0"
 msgstr ""
 
@@ -1207,12 +1214,4 @@ msgstr "checkbox"
 
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
-msgstr ""
-
-#~ msgid "**GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "
-#~ "<http://www.eschenlaub.de/>`__"
-#~ msgstr ""
+msgstr "checkbox_unchecked"

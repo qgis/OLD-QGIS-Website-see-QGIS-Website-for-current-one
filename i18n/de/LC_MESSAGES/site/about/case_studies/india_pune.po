@@ -1,25 +1,29 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
+# Jürgen E. Fischer <jef@norbit.de>, 2022
 # Werner Macho <werner.macho@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2014-08-07 14:36+0000\n"
-"Last-Translator: Werner Macho <werner.macho@gmail.com>, 2016\n"
+"Last-Translator: Jürgen E. Fischer <jef@norbit.de>, 2022\n"
 "Language-Team: German (http://www.transifex.com/qgis/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: de\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../source/site/about/case_studies/india_pune.rst:3
 msgid ""
 "Use of python console to prepare offline map from WMS (tile downloader)"
-msgstr ""
+msgstr "Use of python console to prepare offline map from WMS (tile downloader)"
 
 #: ../../source/site/about/case_studies/india_pune.rst:5
 msgid ""
@@ -27,7 +31,7 @@ msgid ""
 "loaded in QGIS map view by downloading tiles with the help of a script in "
 "python console. The skript also generates a mosaic of all tiles for further "
 "use."
-msgstr ""
+msgstr "This study explains how to prepare offline maps from WMS/WFS or any map loaded in QGIS map view by downloading tiles with the help of a script in python console. The skript also generates a mosaic of all tiles for further use."
 
 #: ../../source/site/about/case_studies/india_pune.rst:7
 msgid ""
@@ -39,11 +43,11 @@ msgid ""
 "not be possible to get internet connection always especially in the field "
 "during survey. Also WMS works slow, compared to any offline image format "
 "such as GeoTiff, jpg, img etc."
-msgstr ""
+msgstr "Accessing raster/vector maps through Web Mapping Service (WMS) service is very common and efficient. It has several advantages such as security, centralized and flexible map styles. Example is Google maps, Yahoo, Bing, MODIS, Landsat, maps published by NASA, NRSC (India). The disadvantage/limitation of WMS is it works via internet or intranet. It may not be possible to get internet connection always especially in the field during survey. Also WMS works slow, compared to any offline image format such as GeoTiff, jpg, img etc."
 
 #: ../../source/site/about/case_studies/india_pune.rst:10
 msgid "Use of QGIS"
-msgstr "Nutzung von QGIS"
+msgstr "Use of QGIS"
 
 #: ../../source/site/about/case_studies/india_pune.rst:12
 msgid ""
@@ -56,40 +60,40 @@ msgid ""
 "georeferenced. We can download tiles in grid format manually and use later "
 "offline. Manual downloading is possible if the area is very small or low "
 "resolution images are fine."
-msgstr ""
+msgstr "QGIS provides a tool to connect/access any WMS service. WMS connection is based on simple URL and once connection is established map can be seen on QGIS mapview. If we save the map of visible extent from QGIS mapview as jpg (File > Save as Image) it creates world file which has the geographic coordinate information of particular region E.g. sample.jpg is the map and sample.jpgw have the coordinates. That means the downloaded image is georeferenced. We can download tiles in grid format manually and use later offline. Manual downloading is possible if the area is very small or low resolution images are fine."
 
 #: ../../source/site/about/case_studies/india_pune.rst:19
 msgid "QGIS with WMS tiles"
-msgstr ""
+msgstr "QGIS with WMS tiles"
 
 #: ../../source/site/about/case_studies/india_pune.rst:23
 msgid "Python Console"
-msgstr "Python-Konsole"
+msgstr "Python Console"
 
 #: ../../source/site/about/case_studies/india_pune.rst:25
 msgid ""
 "A short script was written in “Python Console” with help available on QGIS "
 "official website in PyQGIS Developer Cookbook. Script consists of basically "
 "4 components as following,"
-msgstr ""
+msgstr "A short script was written in “Python Console” with help available on QGIS official website in PyQGIS Developer Cookbook. Script consists of basically 4 components as following,"
 
 #: ../../source/site/about/case_studies/india_pune.rst:27
 msgid "X,Y coordinate (top left and bottom right) of first tile"
-msgstr ""
+msgstr "X,Y coordinate (top left and bottom right) of first tile"
 
 #: ../../source/site/about/case_studies/india_pune.rst:28
 msgid "Size of tile to be downloaded (e.g. 0.001 X 0.001 degrees)"
-msgstr ""
+msgstr "Size of tile to be downloaded (e.g. 0.001 X 0.001 degrees)"
 
 #: ../../source/site/about/case_studies/india_pune.rst:29
 msgid ""
 "No of tiles to download (calculated based on full extent of map and size of "
 "tile)"
-msgstr ""
+msgstr "No of tiles to download (calculated based on full extent of map and size of tile)"
 
 #: ../../source/site/about/case_studies/india_pune.rst:30
 msgid "Output directory to store the output tiles/files"
-msgstr ""
+msgstr "Output directory to store the output tiles/files"
 
 #: ../../source/site/about/case_studies/india_pune.rst:32
 msgid ""
@@ -103,11 +107,11 @@ msgid ""
 "generates mosaic but basic difference in Merge creates an image independent "
 "of tiles whereas Virtual raster generates a link in all individual tiles "
 "(tiles are required)."
-msgstr ""
+msgstr "The script works in two simple for loops first which defines the extent of map in QGIS map view and run row/columns. Once the map extent is set then map is loaded in QGIS. The delay of 3 seconds (depends on internet connection) was introduced before saving map as jpg in user defined directory. Once the script is executed all the tiles created in directory can be directly loaded in QGIS or single mosaic is prepared from Raster > Miscellaneous > Merge or Build Virtual Raster (Catalog). Both tools generates mosaic but basic difference in Merge creates an image independent of tiles whereas Virtual raster generates a link in all individual tiles (tiles are required)."
 
 #: ../../source/site/about/case_studies/india_pune.rst:40
 msgid "Python script and directory where tiles are stored"
-msgstr ""
+msgstr "Python script and directory where tiles are stored"
 
 #: ../../source/site/about/case_studies/india_pune.rst:42
 msgid ""
@@ -117,11 +121,11 @@ msgid ""
 "map created will be image format; it cannot be used for thematic mapping or "
 "image classification. With some extra efforts some landuse maps can be "
 "converted to vector with some data loss."
-msgstr ""
+msgstr "The method has limitation that, changes in map at server end will not reflect in offline (downloaded map). In this case user will have to repeat the process and generate new offline map. Second limitation is the offline map created will be image format; it cannot be used for thematic mapping or image classification. With some extra efforts some landuse maps can be converted to vector with some data loss."
 
 #: ../../source/site/about/case_studies/india_pune.rst:45
 msgid "Scope"
-msgstr "Bereich"
+msgstr "Scope"
 
 #: ../../source/site/about/case_studies/india_pune.rst:47
 msgid ""
@@ -132,11 +136,11 @@ msgid ""
 "getgeatureinfo attribute information for each polygon can be retrieved. The "
 "script can be converted to plugin so that anyone without scripting knowledge"
 " will be able to use the script."
-msgstr ""
+msgstr "The generated mosaic is pure image even if it is downloaded from thematic map (7-8 color). Using advance tool like reclassification, layer/band stacking this raster can be converted to polygon vector. WMS has several requests such as getcapabilities, getmap, getfeatureinfo etc. Using the getgeatureinfo attribute information for each polygon can be retrieved. The script can be converted to plugin so that anyone without scripting knowledge will be able to use the script."
 
 #: ../../source/site/about/case_studies/india_pune.rst:50
 msgid "Conclusion"
-msgstr "Zusammenfassung"
+msgstr "Conclusion"
 
 #: ../../source/site/about/case_studies/india_pune.rst:52
 msgid ""
@@ -146,11 +150,11 @@ msgid ""
 "repository of plug-ins developed worldwide is the best of QGIS. The PyQGIS "
 "Developer Cookbook is a great resource to write a script and raster data "
 "processing is much easy now with help of GDAL tools."
-msgstr ""
+msgstr "The above experiences shows that QGIS can be used at any advanced level. With basic programming skills one can write a small script or a plug-in to improve the quality of work and save time. Within QGIS, access to a repository of plug-ins developed worldwide is the best of QGIS. The PyQGIS Developer Cookbook is a great resource to write a script and raster data processing is much easy now with help of GDAL tools."
 
 #: ../../source/site/about/case_studies/india_pune.rst:55
 msgid "Authors"
-msgstr "Autoren"
+msgstr "Authors"
 
 #: ../../source/site/about/case_studies/india_pune.rst:57
 msgid ""
@@ -158,34 +162,20 @@ msgid ""
 "(India) and currently works as consultant in GIS APP Consultancy Services. "
 "Since 2009 he is using GIS & RS in NRM, forestry, e-governance, software "
 "development projects in different regions of India and the world."
-msgstr ""
+msgstr "This article was contributed May 2014 by Prashant Kadgi, based in Pune (India) and currently works as consultant in GIS APP Consultancy Services. Since 2009 he is using GIS & RS in NRM, forestry, e-governance, software development projects in different regions of India and the world."
 
 #: ../../source/site/about/case_studies/india_pune.rst:59
 msgid "Contact: kadgiprashant@gmail.com"
-msgstr ""
+msgstr "Contact: kadgiprashant@gmail.com"
 
 #: ../../source/site/about/case_studies/india_pune.rst:60
 msgid "Website www.gisappco.com (under construction)"
-msgstr ""
+msgstr "Website www.gisappco.com (under construction)"
 
 #: ../../<rst_epilog>:2
 msgid "checkbox"
-msgstr "Kontrollkästchen"
+msgstr "checkbox"
 
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
-msgstr ""
-
-#~ msgid ""
-#~ "This study explains how to prepare offline maps from WMS/WFS or any map "
-#~ "loaded in QGIS map view by downloading tiles with the help of a script in "
-#~ "python console. The skript also generates a mosaic of all tiles for further "
-#~ "use. Accessing raster/vector maps through Web Mapping Service (WMS) service "
-#~ "is very common and efficient. It has several advantages such as security, "
-#~ "centralized and flexible map styles. Example is Google maps, Yahoo, Bing, "
-#~ "MODIS, Landsat, maps published by NASA, NRSC (India). The "
-#~ "disadvantage/limitation of WMS is it works via internet or intranet. It may "
-#~ "not be possible to get internet connection always especially in the field "
-#~ "during survey. Also WMS works slow, compared to any offline image format "
-#~ "such as GeoTiff, jpg, img etc."
-#~ msgstr ""
+msgstr "checkbox_unchecked"

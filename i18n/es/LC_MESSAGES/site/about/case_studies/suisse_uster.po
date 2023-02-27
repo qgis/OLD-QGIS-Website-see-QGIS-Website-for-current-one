@@ -1,21 +1,24 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 # BelenMP <Beln1@hotmail.com>, 2014
-# Eric Armijo, 2015-2016
+# Eric Armijo, 2015-2016,2022
 # Eric Armijo, 2016
 # Rodrigo Armesto Baztán <rodri_Armesto@hotmail.com>, 2019
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2013-09-17 13:26+0000\n"
-"Last-Translator: Rodrigo Armesto Baztán <rodri_Armesto@hotmail.com>, 2019\n"
+"Last-Translator: Eric Armijo, 2015-2016,2022\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: es\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
@@ -35,7 +38,7 @@ msgid ""
 msgstr "La ciudad de Uster ha estado utilizando QGIS desde 2007. Animado por la decisión del Cantón de Solothurn de utilizar QGIS como el SIG de escritorio reemplazando ArcView, Uster decidió darle una oportunidad. La ciudad se unión al esfuerzo de impulsar el desarrollo de la aplicación QGIS, aconsejando y probando nuevas características y finalmente apoyando el desarrollo económicamente. Como recompensa, Uster recibe un SIG de escritorio de rápida evolución e independiente de plataformas y una solución Web SIG respaldado por un usuario internacional y una comunidad de desarrollo."
 
 msgid "uster"
-msgstr ""
+msgstr "uster"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:12
 msgid ""
@@ -53,7 +56,7 @@ msgid ""
 msgstr "Postgis / PostgreSQL se utiliza como un almacén central de geodatos. Otras bases de datos y fuentes de datos se reproducen en PostgreSQL a intervalos regulares, utilizando herramientas como OGR y FME. Al principio, QGIS se utilizaba principalmente como visor. El primer usuario de QGIS fue un agricultor que tenía la tarea de supervisar las declaraciones hechas por los agricultores locales para recibir subsidios agrícolas. Más tarde, QGIS también se presentó como editor de datos y plataforma de publicación de mapas, junto con las mejoras de las herramientas de edición y el compositor de impresión. Junto con otros usuarios suizos de QGIS (Solothurn, Thun y CDE (Universidad de Berna)) coordinamos y patrocinamos las mejoras de estas herramientas, junto con algunas mejoras en la simbolización basada en datos, etiquetado automatizado, manejo de atributos y formularios."
 
 msgid "uster location"
-msgstr ""
+msgstr "ubicación de uster"
 
 #: ../../source/site/about/case_studies/suisse_uster.rst:19
 msgid ""
@@ -183,9 +186,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "checkbox_unchecked"
-
-#~ msgid ""
-#~ "Planning and visualization for energy planning (gas supply regions, heat use"
-#~ " from waste water, near-surface geothermal energy, block heating stations, "
-#~ "etc.) Additional further projects are currently under development."
-#~ msgstr ""

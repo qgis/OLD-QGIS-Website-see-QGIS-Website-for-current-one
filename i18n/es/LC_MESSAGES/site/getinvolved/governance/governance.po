@@ -1,11 +1,11 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018, QGIS Contributors
+# Copyright (C) 2023, QGIS Contributors
 # This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 # Darío Hereñú, 2016
 # vareli <ehespinosa@ya.com>, 2020
-# Eric Armijo, 2016
+# Eric Armijo, 2016,2022-2023
 # Ever Medina <ever.medinaftal@gmail.com>, 2019
 # Fran Raga <FRANKA1986@gmail.com>, 2017
 # micirculopolar <lfernandez@geosistec.com>, 2020
@@ -14,14 +14,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2016-03-05 14:49+0000\n"
-"Last-Translator: Eric Armijo, 2016,2021\n"
+"Last-Translator: Eric Armijo, 2016,2022-2023\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: es\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
@@ -59,14 +59,13 @@ msgid "Alessandro Pasotti (Vice chair) [since 5.2020]"
 msgstr "Alessandro Pasotti (Vicepresidente) [desde 5.2020]"
 
 #: ../../source/site/getinvolved/governance/governance.rst:22
-#: ../../source/site/getinvolved/governance/governance.rst:31
 msgid ""
 "Andreas Neumann (Treasurer; Contact for Sustaining Members) [since 11.2015]"
 msgstr "Andreas Neumann (Tesorero; Contacto para Miembros Colaboradores) [desde 11.2015]"
 
 #: ../../source/site/getinvolved/governance/governance.rst:24
 msgid "To contact the board, please write to board@qgis.org."
-msgstr ""
+msgstr "Para ponerse en contacto con el consejo, escriba a board@qgis.org."
 
 #: ../../source/site/getinvolved/governance/governance.rst:27
 msgid "Project Steering Committee"
@@ -74,32 +73,39 @@ msgstr "Comité Directivo del Proyecto"
 
 #: ../../source/site/getinvolved/governance/governance.rst:29
 msgid ""
-"Marco Bernasocchi (Chair) [Chair since 5.2020; Vice chair 4.2018 - 4.2020]"
-msgstr "Marco Bernasocchi (Presidente) [Presidente desde 5.2020; Vicepresidente 4.2018 - 4.2020]"
+"Marco Bernasocchi (Chair) [Chair since May 2020; Vice chair April 2018 - "
+"April 2020]"
+msgstr "Marco Bernasocchi (presidente) [presidente desde mayo de 2020; vicepresidente de abril de 2018 a abril de 2020]."
 
 #: ../../source/site/getinvolved/governance/governance.rst:30
-msgid "Alessandro Pasotti (Vice chair) [Vice chair since 5.2020]"
-msgstr "Alessandro Pasotti (Vicepresidente) [Vicepresidente desde 5.2020]"
+msgid "Anita Graser (Vice chair) [Design Advisor Sept. 2013 - Sept. 2022]**"
+msgstr "Anita Graser (Vicepresidenta) [Consejera de Diseño Sept. 2013 - Sept. 2022]**"
+
+#: ../../source/site/getinvolved/governance/governance.rst:31
+msgid ""
+"Andreas Neumann (Treasurer; Contact for Sustaining Members) [since Nov. "
+"2015]"
+msgstr "Andreas Neumann (Tesorero; Contacto para los Miembros Fundadores) [desde nov. 2015]."
 
 #: ../../source/site/getinvolved/governance/governance.rst:32
-msgid "Anita Graser (Design Advisor) [since 9.2013]"
-msgstr "Anita Graser (Asesora de Diseño) [desde 9.2013]"
+msgid "Jürgen Fischer (Release Manager) [since Sept. 2013]"
+msgstr "Jürgen Fischer (gestor de versiones) [desde septiembre de 2013]."
 
 #: ../../source/site/getinvolved/governance/governance.rst:33
-msgid "Paolo Cavallini [Chair 4.2018 - 4.2020; Vice chair 1.2008 - 3.2018]"
-msgstr "Paolo Cavallini [Presidente 4.2018 - 4.2020; Vicepresidente 1.2008 - 3.2018]"
+msgid "Alessandro Pasotti (PSC Member) [Vice chair May 2020 - Sept.2022]"
+msgstr "Alessandro Pasotti (Miembro del CPS) [Vicepresidente mayo 2020 - septiembre 2022]."
 
 #: ../../source/site/getinvolved/governance/governance.rst:34
-msgid "Jürgen Fischer (Release Manager) [since 9.2013]"
-msgstr "Jürgen Fischer (Administrador de Lanzamientos) [desde 9.2013]"
+msgid "Régis Haubourg (PSC Member) [Since  Oct. 2022]"
+msgstr "Régis Haubourg (Miembro del CPS) [Desde octubre de 2022]."
 
 #: ../../source/site/getinvolved/governance/governance.rst:36
 msgid "To contact the PSC, please write to psc@qgis.org."
-msgstr ""
+msgstr "Para ponerse en contacto con el CPS, escriba a psc@qgis.org."
 
 #: ../../source/site/getinvolved/governance/governance.rst:39
 msgid "Honorary PSC Members"
-msgstr ""
+msgstr "Miembros honorarios del CPS"
 
 #: ../../source/site/getinvolved/governance/governance.rst:41
 msgid "Gary Sherman (Founder and lifetime Honorary PSC Member)"
@@ -112,57 +118,63 @@ msgstr "Tim Sutton (miembro honorario del PSC en 9.2018 en el FOSS4G en Tanzania
 
 #: ../../source/site/getinvolved/governance/governance.rst:45
 msgid "Former PSC Members"
-msgstr ""
+msgstr "Antiguos miembros del CPS"
 
 #: ../../source/site/getinvolved/governance/governance.rst:47
 msgid "Tim Sutton (Chair; Testing/QA Manager) (until 2018)"
 msgstr "Tim Sutton (Presidente; Gerente de Pruebas/QA) (hasta 2018)"
 
 #: ../../source/site/getinvolved/governance/governance.rst:48
+msgid ""
+"Paolo Cavallini [Member April 2020 - 09-2022; Chair April 2018 - April 2020;"
+" Vice chair Jan. 2008 - March 2018; ]"
+msgstr "Paolo Cavallini [Miembro abril 2020 - 09-2022; Presidente abril 2018 - abril 2020; Vicepresidente enero 2008 - marzo 2018; ]"
+
+#: ../../source/site/getinvolved/governance/governance.rst:49
 msgid "Marco Hugentobler [until 2016]"
 msgstr "Marco Hugentobler [hasta 2016]"
 
-#: ../../source/site/getinvolved/governance/governance.rst:49
+#: ../../source/site/getinvolved/governance/governance.rst:50
 msgid "Otto Dassau (Community Advisor) [2007 - 2016]"
 msgstr "Otto Dassau (Asesor de la Comunidad) [2007 - 2016]"
 
-#: ../../source/site/getinvolved/governance/governance.rst:50
+#: ../../source/site/getinvolved/governance/governance.rst:51
 msgid "Richard Duivenvoorde (Infrastructure Manager) [2013 - 2019]"
 msgstr "Richard Duivenvoorde (Administrador de Infraestructura) [2013 - 2019]"
 
-#: ../../source/site/getinvolved/governance/governance.rst:53
+#: ../../source/site/getinvolved/governance/governance.rst:54
 msgid "Read more about the responsibilities of the PSC :ref:`here <psc>`"
 msgstr "Lea más acerca de las responsabilidades del CDP :ref:`aqui <psc>`"
 
-#: ../../source/site/getinvolved/governance/governance.rst:56
+#: ../../source/site/getinvolved/governance/governance.rst:57
 msgid "Address of the Organization"
 msgstr "Dirección de la organización"
 
-#: ../../source/site/getinvolved/governance/governance.rst:58
+#: ../../source/site/getinvolved/governance/governance.rst:59
 msgid "QGIS.ORG Böschacherstrasse 10a CH-8624 Grüt (Gossau ZH)"
 msgstr "QGIS.ORG Böschacherstrasse 10a CH-8624 Grüt (Gossau ZH)"
 
-#: ../../source/site/getinvolved/governance/governance.rst:64
+#: ../../source/site/getinvolved/governance/governance.rst:65
 msgid "Voting members"
-msgstr ""
+msgstr "Miembros con derecho a voto"
 
-#: ../../source/site/getinvolved/governance/governance.rst:67
+#: ../../source/site/getinvolved/governance/governance.rst:68
 msgid "Honorable Voting Members"
-msgstr ""
+msgstr "Honorables miembros votantes"
 
-#: ../../source/site/getinvolved/governance/governance.rst:69
+#: ../../source/site/getinvolved/governance/governance.rst:70
 msgid "Harrissou Sant-anna [since 5.2020]"
 msgstr "Harrissou Sant-anna [desde 5.2020]"
 
-#: ../../source/site/getinvolved/governance/governance.rst:70
+#: ../../source/site/getinvolved/governance/governance.rst:71
 msgid "Nyall Dawson [since 5.2020]"
 msgstr "Nyall Dawson [desde 5.2020]"
 
-#: ../../source/site/getinvolved/governance/governance.rst:76
+#: ../../source/site/getinvolved/governance/governance.rst:77
 msgid "Country Voting Members"
 msgstr "Miembros votantes por país"
 
-#: ../../source/site/getinvolved/governance/governance.rst:78
+#: ../../source/site/getinvolved/governance/governance.rst:79
 msgid ""
 "According to our statutes, for each country user group that is formed, that "
 "group will select a QGIS Country User Group Voting Member to represent their"
@@ -171,162 +183,162 @@ msgid ""
 "group, or have changed your user group representative."
 msgstr "De acuerdo con nuestros estatutos, por cada grupo de usuarios del país que se forma, ese grupo seleccionará un QGIS Country User Group Voting Member para representar sus intereses. Estos miembros con derecho a voto se enumeran :ref:`aquí <QGIS-usergroups>`.  Envíe un correo electrónico a trademark@qgis.org si ha registrado un nuevo grupo de usuarios del país, o ha cambiado el representante de su grupo de usuarios."
 
-#: ../../source/site/getinvolved/governance/governance.rst:88
+#: ../../source/site/getinvolved/governance/governance.rst:89
 msgid "Community Voting Members"
 msgstr "Miembros Votantes de la Comunidad"
 
-#: ../../source/site/getinvolved/governance/governance.rst:90
+#: ../../source/site/getinvolved/governance/governance.rst:91
 msgid ""
 "According to our statutes, one member from the broader community can be "
 "elected for each country voting member. The following list are the current "
 "community voting members:"
 msgstr "De acuerdo con nuestros estatutos, un miembro de la comunidad en general puede ser elegido para cada miembro votante del país. La siguiente lista son los miembros actuales que votan en la comunidad:"
 
-#: ../../source/site/getinvolved/governance/governance.rst:94
+#: ../../source/site/getinvolved/governance/governance.rst:95
 msgid "Martin Dobias, Slovakia"
 msgstr "Martin Dobias, Eslovaquia"
 
-#: ../../source/site/getinvolved/governance/governance.rst:95
+#: ../../source/site/getinvolved/governance/governance.rst:96
 msgid "Nathan Woodrow, Australia"
 msgstr "Nathan Woodrow, Australia"
 
-#: ../../source/site/getinvolved/governance/governance.rst:96
+#: ../../source/site/getinvolved/governance/governance.rst:97
 msgid "Matthias Kuhn, Switzerland"
 msgstr "Matthias Kuhn, Suiza"
 
-#: ../../source/site/getinvolved/governance/governance.rst:97
+#: ../../source/site/getinvolved/governance/governance.rst:98
 msgid "Larry Shaffer, United States"
 msgstr "Larry Shaffer, Estados Unidos"
 
-#: ../../source/site/getinvolved/governance/governance.rst:98
+#: ../../source/site/getinvolved/governance/governance.rst:99
 msgid "Nyall Dawson, Australia"
 msgstr "Nyall Dawson, Australia"
 
-#: ../../source/site/getinvolved/governance/governance.rst:99
+#: ../../source/site/getinvolved/governance/governance.rst:100
 msgid "Giovanni Manghi, Portugal"
 msgstr "Giovanni Manghi, Portugal"
 
-#: ../../source/site/getinvolved/governance/governance.rst:100
+#: ../../source/site/getinvolved/governance/governance.rst:101
 msgid "Denis Rouzaud, Switzerland"
 msgstr "Denis Rouzaud, Suiza"
 
-#: ../../source/site/getinvolved/governance/governance.rst:101
+#: ../../source/site/getinvolved/governance/governance.rst:102
 msgid "Alexander Bruy, Ukraine"
 msgstr "Alexander Bruy, Ucrania"
 
-#: ../../source/site/getinvolved/governance/governance.rst:102
+#: ../../source/site/getinvolved/governance/governance.rst:103
 msgid "Regis Haubourg, France"
 msgstr "Regis Haubourg, Francia"
 
-#: ../../source/site/getinvolved/governance/governance.rst:103
+#: ../../source/site/getinvolved/governance/governance.rst:104
 msgid "Even Rouault, France"
 msgstr "Even Rouault, Francia"
 
-#: ../../source/site/getinvolved/governance/governance.rst:104
+#: ../../source/site/getinvolved/governance/governance.rst:105
 msgid "Werner Macho, Austria"
 msgstr "Werner Macho, Austria"
 
-#: ../../source/site/getinvolved/governance/governance.rst:105
+#: ../../source/site/getinvolved/governance/governance.rst:106
 msgid "Vincent Picavet, France"
 msgstr "Vincent Picavet, Francia"
 
-#: ../../source/site/getinvolved/governance/governance.rst:106
+#: ../../source/site/getinvolved/governance/governance.rst:107
 msgid "Yves Jacolin, France"
 msgstr "Yves Jacolin, Francia"
 
-#: ../../source/site/getinvolved/governance/governance.rst:108
+#: ../../source/site/getinvolved/governance/governance.rst:109
 msgid "Added 2017"
 msgstr "Sumados en 2017"
 
-#: ../../source/site/getinvolved/governance/governance.rst:110
+#: ../../source/site/getinvolved/governance/governance.rst:111
 msgid "Alessandro Pasotti, Italy"
 msgstr "Alessandro Pasotti, Italia"
 
-#: ../../source/site/getinvolved/governance/governance.rst:111
+#: ../../source/site/getinvolved/governance/governance.rst:112
 msgid "Victor Olaya, France/Spain"
 msgstr "Victor Olaya, Francia / España"
 
-#: ../../source/site/getinvolved/governance/governance.rst:112
+#: ../../source/site/getinvolved/governance/governance.rst:113
 msgid "Lene Fischer, Denmark"
 msgstr "Lene Fischer, Dinamarca"
 
-#: ../../source/site/getinvolved/governance/governance.rst:113
+#: ../../source/site/getinvolved/governance/governance.rst:114
 msgid "Paul Blottiere, France"
 msgstr "Paul Blottiere, Francia"
 
-#: ../../source/site/getinvolved/governance/governance.rst:114
+#: ../../source/site/getinvolved/governance/governance.rst:115
 msgid "Mathieu Pellerin, Indonesia"
 msgstr "Mathieu Pellerin, Indonesia"
 
-#: ../../source/site/getinvolved/governance/governance.rst:115
+#: ../../source/site/getinvolved/governance/governance.rst:116
 msgid "Luigi Pirelli, Spain"
 msgstr "Luigi Pirelli, España"
 
-#: ../../source/site/getinvolved/governance/governance.rst:116
+#: ../../source/site/getinvolved/governance/governance.rst:117
 msgid "Alexandre Neto, Portugal"
 msgstr "Alexandre Neto, Portugal"
 
-#: ../../source/site/getinvolved/governance/governance.rst:117
+#: ../../source/site/getinvolved/governance/governance.rst:118
 msgid "Tom Chadwin, United Kingdeom"
 msgstr "Tom Chadwin, Reino Unido"
 
-#: ../../source/site/getinvolved/governance/governance.rst:118
+#: ../../source/site/getinvolved/governance/governance.rst:119
 msgid "Marco Hugentobler, Switzerland"
 msgstr "Marco Hugentobler, Suiza"
 
-#: ../../source/site/getinvolved/governance/governance.rst:120
+#: ../../source/site/getinvolved/governance/governance.rst:121
 msgid "Added 2018"
 msgstr "Sumados en 2018"
 
-#: ../../source/site/getinvolved/governance/governance.rst:122
+#: ../../source/site/getinvolved/governance/governance.rst:123
 msgid "Hugo Mercier, France"
 msgstr "Hugo Mercier, Francia"
 
-#: ../../source/site/getinvolved/governance/governance.rst:124
+#: ../../source/site/getinvolved/governance/governance.rst:125
 msgid "Added 2019"
 msgstr "Añadido 2019"
 
-#: ../../source/site/getinvolved/governance/governance.rst:126
-msgid "None (No new usegroups created)"
-msgstr "Ninguno (No se han creado nuevos grupos de usuarios)"
+#: ../../source/site/getinvolved/governance/governance.rst:127
+msgid "None (No new user groups created)"
+msgstr "Ninguno (no se han creado nuevos grupos de usuarios)"
 
-#: ../../source/site/getinvolved/governance/governance.rst:128
+#: ../../source/site/getinvolved/governance/governance.rst:129
 msgid "Added 2020"
 msgstr "Añadido 2020"
 
-#: ../../source/site/getinvolved/governance/governance.rst:130
+#: ../../source/site/getinvolved/governance/governance.rst:131
 msgid "David signer, Switzerland"
 msgstr "David Signer, Suiza"
 
-#: ../../source/site/getinvolved/governance/governance.rst:131
+#: ../../source/site/getinvolved/governance/governance.rst:132
 msgid "Enrico Ferreguti, Italy"
 msgstr "Enrico Ferreguti, Italia"
 
-#: ../../source/site/getinvolved/governance/governance.rst:132
+#: ../../source/site/getinvolved/governance/governance.rst:133
 msgid "Etienne Trimaille, France"
 msgstr "Etienne Trimaille, Francia"
 
-#: ../../source/site/getinvolved/governance/governance.rst:133
+#: ../../source/site/getinvolved/governance/governance.rst:134
 msgid "Pedro Venâncio, Portugal"
 msgstr "Pedro Venâncio, Portugal"
 
-#: ../../source/site/getinvolved/governance/governance.rst:134
+#: ../../source/site/getinvolved/governance/governance.rst:135
 msgid "Peter Petrik, Czech Republic"
 msgstr "Peter Petrik, República Checa"
 
-#: ../../source/site/getinvolved/governance/governance.rst:135
+#: ../../source/site/getinvolved/governance/governance.rst:136
 msgid "Richard Duivenvoorde, Netherlands"
 msgstr "Richard Duivenvoorde, Países Bajos"
 
-#: ../../source/site/getinvolved/governance/governance.rst:142
+#: ../../source/site/getinvolved/governance/governance.rst:143
 msgid "Release Management"
 msgstr "Gestión de Lanzamiento"
 
-#: ../../source/site/getinvolved/governance/governance.rst:144
+#: ../../source/site/getinvolved/governance/governance.rst:145
 msgid "Current Release Manager: Jürgen E. Fischer"
 msgstr "Actual Administrador de Lanzamientos: Jürgen E. Fischer"
 
-#: ../../source/site/getinvolved/governance/governance.rst:147
+#: ../../source/site/getinvolved/governance/governance.rst:148
 msgid ""
 "QGIS Releases are managed by the Release Team (Release Manager and Release "
 "Assistants). Together with numerous contributors, they oversee timely, "
@@ -335,75 +347,75 @@ msgid ""
 "supported platforms and oversee the maintenance of the bug tracking system."
 msgstr "Los lanzamientos de QGIS son administrados por el Equipo de Lanzamiento (Administrador de Lanzamiento y Asistentes de Lanzamiento). Junto con numerosos colaboradores, supervisan los lanzamientos oportunos, regulares y estables de QGIS en las diversas plataformas compatibles. El equipo de lanzamiento recluta y apoya a los administradores de compilación para crear paquetes para plataformas compatibles y supervisar el mantenimiento del sistema de seguimiento de errores."
 
-#: ../../source/site/getinvolved/governance/governance.rst:156
+#: ../../source/site/getinvolved/governance/governance.rst:157
 msgid "Packaging Team"
 msgstr "Equipo de Empaquetado"
 
-#: ../../source/site/getinvolved/governance/governance.rst:158
+#: ../../source/site/getinvolved/governance/governance.rst:159
 msgid ""
 "QGIS is being packaged for different type of operating systems. The people "
 "responsible for that packages are as following:"
 msgstr "QGIS se está empaquetando para diferentes tipos de sistemas operativos. Las personas responsables de los paquetes son las siguientes:"
 
-#: ../../source/site/getinvolved/governance/governance.rst:161
+#: ../../source/site/getinvolved/governance/governance.rst:162
 msgid "Windows Team: Jürgen E. Fischer"
 msgstr "Equipo Windows: Jürgen E. Fischer"
 
-#: ../../source/site/getinvolved/governance/governance.rst:162
+#: ../../source/site/getinvolved/governance/governance.rst:163
 msgid "OS X Team: William Kyngesburye, Peter Petrik"
 msgstr "Equipo OS X: William Kyngesburye, Peter Petrik"
 
-#: ../../source/site/getinvolved/governance/governance.rst:163
+#: ../../source/site/getinvolved/governance/governance.rst:164
 msgid "Linux Team:"
 msgstr "Equipo Linux:"
 
-#: ../../source/site/getinvolved/governance/governance.rst:165
+#: ../../source/site/getinvolved/governance/governance.rst:166
 msgid "OpenSuSE RPM Maintainer: Angelos Tzotsos"
 msgstr "Mantenedor OpenSuSE RPM: Angelos Tzotsos"
 
-#: ../../source/site/getinvolved/governance/governance.rst:166
+#: ../../source/site/getinvolved/governance/governance.rst:167
 msgid "Fedora RPM Maintainer: Daniel Viganò"
 msgstr "Mantenedor Fedora RPM: Daniel Viganò"
 
-#: ../../source/site/getinvolved/governance/governance.rst:167
+#: ../../source/site/getinvolved/governance/governance.rst:168
 msgid "Debian / Ubuntu Deb Maintainer: Jürgen E. Fischer, Bas Couwenberg"
 msgstr "Mantenedores Debian / Ubuntu Deb: Jürgen E. Fischer, Bas Couwenberg"
 
-#: ../../source/site/getinvolved/governance/governance.rst:172
+#: ../../source/site/getinvolved/governance/governance.rst:173
 msgid "Testing Team"
 msgstr "Equipo de Prueba"
 
-#: ../../source/site/getinvolved/governance/governance.rst:174
+#: ../../source/site/getinvolved/governance/governance.rst:175
 msgid "Ubuntu Linux: Ricardo Soares Garcia, Giovanni Manghi, Luís de Sousa"
 msgstr "Ubuntu Linux: Ricardo Soares Garcia, Giovanni Manghi, Luís de Sousa"
 
-#: ../../source/site/getinvolved/governance/governance.rst:175
+#: ../../source/site/getinvolved/governance/governance.rst:176
 msgid "Debian Linux: Paolo Cavallini, Pedro Venâncio, Ivan Mincik"
 msgstr "Debian Linux: Paolo Cavallini, Pedro Venâncio, Ivan Mincik"
 
-#: ../../source/site/getinvolved/governance/governance.rst:176
+#: ../../source/site/getinvolved/governance/governance.rst:177
 msgid ""
 "Windows: Giovanni Manghi, Pedro Venâncio, Duarte Carreira, Andre Mano, Rui "
 "Pedro Henriques"
 msgstr "Windows: Giovanni Manghi, Pedro Venâncio, Duarte Carreira, Andre Mano, Rui Pedro Henriques"
 
-#: ../../source/site/getinvolved/governance/governance.rst:177
+#: ../../source/site/getinvolved/governance/governance.rst:178
 msgid "MacOS: Larry Shaffer, Tim Sutton, Denis Rouzaud, Peter Petrik"
 msgstr "MacOS: Larry Shaffer, Tim Sutton, Denis Rouzaud, Peter Petrik"
 
-#: ../../source/site/getinvolved/governance/governance.rst:180
+#: ../../source/site/getinvolved/governance/governance.rst:181
 msgid "Security Team"
-msgstr ""
+msgstr "Equipo de seguridad"
 
-#: ../../source/site/getinvolved/governance/governance.rst:182
+#: ../../source/site/getinvolved/governance/governance.rst:183
 msgid "For security questions, please write to security@qgis.org."
-msgstr ""
+msgstr "Para preguntas de seguridad, escriba a security@qgis.org."
 
-#: ../../source/site/getinvolved/governance/governance.rst:188
+#: ../../source/site/getinvolved/governance/governance.rst:189
 msgid "Community Resources"
 msgstr "Recursos de la Comunidad"
 
-#: ../../source/site/getinvolved/governance/governance.rst:190
+#: ../../source/site/getinvolved/governance/governance.rst:191
 msgid ""
 "The QGIS community resources are managed by the Community Team (Community "
 "Manager and Assistants). With numerous contributors they keep contact to the"
@@ -412,33 +424,33 @@ msgid ""
 " blog, and mailing lists."
 msgstr "Los recursos de la comunidad de QGIS son administrados por el Equipo de la Comunidad (Administrador de la Comunidad y Asistentes). Con numerosos colaboradores, se mantienen en contacto con la comunidad, se ocupan de los eventos de QGIS, la Documentación, las traducciones de GUI y garantizan un funcionamiento sin problemas de la experiencia en línea de QGIS.org, incluidos los sitios web, los blogs y las listas de correo."
 
-#: ../../source/site/getinvolved/governance/governance.rst:196
+#: ../../source/site/getinvolved/governance/governance.rst:197
 msgid "Current Community Team Leaders:"
 msgstr "Actuales Líderes de Equipos Comunitarios:"
 
-#: ../../source/site/getinvolved/governance/governance.rst:198
+#: ../../source/site/getinvolved/governance/governance.rst:199
 msgid "Lene Fischer (community tasks)"
 msgstr "Lene Fischer (tareas comunitarias)"
 
-#: ../../source/site/getinvolved/governance/governance.rst:199
+#: ../../source/site/getinvolved/governance/governance.rst:200
 msgid "Matteo Ghetta (documentation)"
 msgstr "Matteo Ghetta (Documentación)"
 
-#: ../../source/site/getinvolved/governance/governance.rst:201
+#: ../../source/site/getinvolved/governance/governance.rst:202
 msgid ""
 "Find the list of documentation and website translators at: "
 "https://github.com/qgis/QGIS-Documentation"
 msgstr "Encuentre la lista de traductores de la Documentación y del sitio web en: https://github.com/qgis/QGIS-Documentation"
 
-#: ../../source/site/getinvolved/governance/governance.rst:207
+#: ../../source/site/getinvolved/governance/governance.rst:208
 msgid "Translation"
 msgstr "Traducción"
 
-#: ../../source/site/getinvolved/governance/governance.rst:209
+#: ../../source/site/getinvolved/governance/governance.rst:210
 msgid "Current Translation Team Lead: Werner Macho"
 msgstr "Actual Líder del Equipo de Traducción: Werner Macho"
 
-#: ../../source/site/getinvolved/governance/governance.rst:212
+#: ../../source/site/getinvolved/governance/governance.rst:213
 msgid ""
 "The QGIS Translation is managed by the Community Assistant (Translation Team"
 " Lead) and supported by additional language specific teams. Information "
@@ -446,22 +458,22 @@ msgid ""
 "provided at the :ref:`Translators Corner <translate-qgis>`."
 msgstr "La Traducción de QGIS es administrada por el Asistente de la Comunidad (Líder del Equipo de Traducción) y cuenta con el apoyo adicional de equipos de idiomas específicos. La información sobre el estado actual de la documentación y el proceso de traducción se proporciona en el apartado :ref:`Traducción <translate-qgis>`."
 
-#: ../../source/site/getinvolved/governance/governance.rst:217
+#: ../../source/site/getinvolved/governance/governance.rst:218
 msgid ""
 "Contact : `qgis-community-team <http://lists.osgeo "
 ".org/mailman/listinfo/qgis-community-team>`_ list or `QGIS Translation "
 "Mailing list <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_"
 msgstr "Contacto : `Lista de Correo del Equipo de la Comunidad de QGIS <http://lists.osgeo .org/mailman/listinfo/qgis-community-team>`_ o `Lista de Correo de Traducción de QGIS <http://lists.osgeo.org/mailman/listinfo/qgis-tr>`_"
 
-#: ../../source/site/getinvolved/governance/governance.rst:226
+#: ../../source/site/getinvolved/governance/governance.rst:227
 msgid "Press Material + Translation"
 msgstr "Material de Prensa + Traducción"
 
-#: ../../source/site/getinvolved/governance/governance.rst:228
+#: ../../source/site/getinvolved/governance/governance.rst:229
 msgid "Current Press Material Team Lead: Anita Graser"
 msgstr "Actual Líder del Equipo de Material de Prensa: Anita Graser"
 
-#: ../../source/site/getinvolved/governance/governance.rst:231
+#: ../../source/site/getinvolved/governance/governance.rst:232
 msgid ""
 "QGIS Press Material and its translations are managed by the Community "
 "Assistant (Press Material Team Lead) and supported by additional language "
@@ -469,32 +481,32 @@ msgid ""
 "process are provided at the Press Centre."
 msgstr "El Material de Prensa de QGIS y sus traducciones son administrados por un Asistente de la Comunidad (Líder del Equipo de Material de Prensa) y son respaldados por equipos adicionales de idiomas específicos. La información sobre las actividades actuales y el proceso de traducción se proporcionan en el Centro de Prensa."
 
-#: ../../source/site/getinvolved/governance/governance.rst:237
+#: ../../source/site/getinvolved/governance/governance.rst:238
 msgid "TEAM"
 msgstr "EQUIPO"
 
-#: ../../source/site/getinvolved/governance/governance.rst:239
+#: ../../source/site/getinvolved/governance/governance.rst:240
 msgid ""
 "A successful project requires many people to play many different roles. Some"
 " members write code or documentation, while others are valuable as testers, "
 "submitting patches and suggestions."
 msgstr "Un proyecto exitoso requiere que muchas personas desempeñen muchos roles diferentes. Algunos miembros escriben código o Documentación, mientras que otros son valiosos como evaluadores, enviando parches y sugerencias."
 
-#: ../../source/site/getinvolved/governance/governance.rst:243
+#: ../../source/site/getinvolved/governance/governance.rst:244
 msgid ""
 "The number of Contributors to the project is unbounded. Get involved today. "
 "All contributions (adding code or documentation, fixing typo error, "
 "reporting issues...) to the project are greatly appreciated."
 msgstr "El número de contribuyentes al proyecto es ilimitado. Involúcrate hoy. Todas las contribuciones (agregando código o Documentación, corrigiendo errores tipográficos, informando problemas...) al proyecto son muy apreciadas."
 
-#: ../../source/site/getinvolved/governance/governance.rst:247
+#: ../../source/site/getinvolved/governance/governance.rst:248
 msgid ""
 "These `individuals <https://github.com/qgis/QGIS/graphs/contributors>`_ are "
 "recognised as Contributors to the main code `github repository "
 "<https://github.com/qgis/QGIS>`_."
 msgstr "Estos `individuos <https://github.com/qgis/QGIS/graphs/contributors>`_ son reconocidos como Colaboradores del código principal de `repositorio github <https://github.com/qgis/QGIS>` _."
 
-#: ../../source/site/getinvolved/governance/governance.rst:251
+#: ../../source/site/getinvolved/governance/governance.rst:252
 msgid ""
 "Follow the lists of maintainers of the `documentation "
 "<https://github.com/qgis/QGIS-Documentation/graphs/contributors>`_ and the "
@@ -509,380 +521,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "checkbox_unchecked"
-
-#~ msgid ""
-#~ "According to our statutes, for each country user group that is formed, that "
-#~ "group will select a QGIS Country User Group Voting Member to represent their"
-#~ " interests. These voting members are listed :ref:`here<QGIS-usergroups>`. "
-#~ "Please email tim@qgis.org if you have registered a new country user group, "
-#~ "or have changed your user group representative."
-#~ msgstr ""
-
-#~ msgid "QGIS as a Project is currently organised in this way:"
-#~ msgstr ""
-
-#~ msgid "Board (Project Steering Committee)"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The QGIS project is managed by the Board (Project Steering Committee; PSC) "
-#~ "which consists of 7 members (with their individual responsibilities listed "
-#~ "in brackets):"
-#~ msgstr ""
-
-#~ msgid "Marco Bernasocchi (Co-Chair) [Chair since 4.2018]"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Andreas Neumann (Treasurer; Contact for Sponsorships) [since November 2015]"
-#~ msgstr ""
-
-#~ msgid "Anita Graser (Design Advisor) [since September 2013]"
-#~ msgstr ""
-
-#~ msgid "Richard Duivenvoorde (Infrastructure Manager) [since September 2013]"
-#~ msgstr ""
-
-#~ msgid "Jürgen Fischer (Release Manager) [since September 2013]"
-#~ msgstr ""
-
-#~ msgid "Gary Sherman (Founder and lifetime Honorary Member)"
-#~ msgstr ""
-
-#~ msgid "Former members are:"
-#~ msgstr ""
-
-#~ msgid "Martin Dobias <wonder.sk[at]gmail.com>"
-#~ msgstr ""
-
-#~ msgid "Nathan Woodrow <madmanwoo[at]gmail.com>"
-#~ msgstr ""
-
-#~ msgid "Matthias Kuhn <matthias[at]opengis.ch>"
-#~ msgstr ""
-
-#~ msgid "Larry Shaffer <larrys[at]dakotacarto.com>"
-#~ msgstr ""
-
-#~ msgid "Nyall Dawson <nyall.dawson[at]gmail.com>"
-#~ msgstr ""
-
-#~ msgid "Giovanni Manghi <giovanni.manghi[at]gmail.com>"
-#~ msgstr ""
-
-#~ msgid "Denis Rouzaud <denis.rouzaud[at]gmail.com>"
-#~ msgstr ""
-
-#~ msgid "Alexander Bruy <alexander.bruy[at]gmail.com>"
-#~ msgstr ""
-
-#~ msgid "Regis Haubourg <regis.haubourg[at]gmail.com>"
-#~ msgstr ""
-
-#~ msgid "Even Rouault <even.rouault[at]spatialys.com>"
-#~ msgstr ""
-
-#~ msgid "Werner Macho <werner.macho[at]gmail.com>"
-#~ msgstr ""
-
-#~ msgid "Vincent Picavet <vincent.ml+qgis[at]oslandia.com>"
-#~ msgstr ""
-
-#~ msgid "Yves Jacolin <yjacolin[at]free.fr>"
-#~ msgstr ""
-
-#~ msgid "Alessandro Pasotti <apasotti[at]gmail.com>"
-#~ msgstr ""
-
-#~ msgid "Victor Olaya <volayaf[at]gmail.com>"
-#~ msgstr ""
-
-#~ msgid "Lene Fischer <lfi[at]ign.ku.dk>"
-#~ msgstr ""
-
-#~ msgid "Paul Blottiere <paul.blottiere[at]oslandia.com>"
-#~ msgstr ""
-
-#~ msgid "Mathieu Pellerin <nirvn.asia[at]gmail.com>"
-#~ msgstr ""
-
-#~ msgid "Luigi Pirelli <luipir[at]gmail.com>"
-#~ msgstr ""
-
-#~ msgid "Alexandre Neto <senhor.neto[at]gmail.com>"
-#~ msgstr ""
-
-#~ msgid "Tom Chadwin <tom.chadwin[at]nnpa.org.uk>"
-#~ msgstr ""
-
-#~ msgid "Marco Hugentobler <marco.hugentobler[at]sourcepole.ch>"
-#~ msgstr ""
-
-#~ msgid "Current Release Manager: Jürgen E. Fischer <jef[at]norbit.de>"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Windows Team: Jürgen E. Fischer <jef[at]norbit.de>, Tim Sutton "
-#~ "<tim[at]linfiniti.com>"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "OS X Team: William Kyngesburye <kyngchaos[at]kyngchaos.com>, Tom Elwertowski"
-#~ " <telwertowski[at]comcast.net>"
-#~ msgstr ""
-
-#~ msgid "OpenSuSE RPM Maintainer: Otto Dassau <dassau[at]gbd-consult.de>"
-#~ msgstr ""
-
-#~ msgid "Fedora RPM Maintainer: Douglas E. Warner <silfreed[at]silfreed.net>"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Ubuntu Deb Maintainer: Jürgen E. Fischer <jef[at]norbit.de>, Jachym Cepicky "
-#~ "<jachym.cepicky[at]gmail.com>"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Debian Deb Maintainer: Jürgen E. Fischer <jef[at]norbit.de>, Niccolo Rigacci"
-#~ " <qgis[at]rigacci.org> [Lenny]"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Ubuntu Linux: Ricardo Soares Garcia <ricardo.garcia.silva[at]gmail.com>, "
-#~ "Giovanni Manghi <giovanni.manghi[at]faunalia.pt>, Luís de Sousa "
-#~ "<luis.a.de.sousa[at]gmail.com>"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Debian Linux: Paolo Cavallini <cavallini[at]cavallini.it>, Pedro Venâncio "
-#~ "<pedrongvenancio[at]gmail.com>, Ivan Mincik <ivan.mincik[at]gmail.com>"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Windows: Giovanni Manghi <giovanni.manghi[at]faunalia.pt>, Pedro Venâncio "
-#~ "<pedrongvenancio[at]gmail.com>, Duarte Carreira <dncarreira[at]gmail.com>, "
-#~ "Andre Mano <andre.s.mano[at]gmail.com>"
-#~ msgstr ""
-
-#~ msgid "OS X: Larry Shaffer <larrys[at]dakotacarto.com>"
-#~ msgstr ""
-
-#~ msgid "Windows 8: Rui Pedro Henriques <henriques.rui[at]gmail.com>"
-#~ msgstr ""
-
-#~ msgid "Technical Resources"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Current Technical Advisor: Marco Hugentobler "
-#~ "<marco.hugentobler[at]sourcepole.ch>"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The Technical Resources are managed by the Technical Manager and Technical "
-#~ "Assistants. They recruit and support code maintainers and provide general "
-#~ "oversight and guidance to the development effort."
-#~ msgstr ""
-
-#~ msgid "Core library: Martin Dobias <wonder.sk[at]gmail.com>"
-#~ msgstr ""
-
-#~ msgid "Gui library: Martin Dobias <wonder.sk[at]gmail.com>"
-#~ msgstr ""
-
-#~ msgid "App (dialogs): Tim Sutton <tim[at]linfiniti.com>"
-#~ msgstr ""
-
-#~ msgid "Print composer: Nyall Dawson <nyall.dawson[at]gmail.com>"
-#~ msgstr ""
-
-#~ msgid "PyQGIS: Martin Dobias <wonder.sk[at]gmail.com>"
-#~ msgstr ""
-
-#~ msgid "WMS server: Marco Hugentobler <marco.hugentobler[at]sourcepole.ch>"
-#~ msgstr ""
-
-#~ msgid "WFS/WCS server: René-Luc D'Hont <rldhont[at]gmail.com>"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Python plugins for QGIS Server: Alessandro Pasotti <elpaso[at]itopen.it>"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Access control for QGIS Server: Stephane Brunner "
-#~ "<stephane.brunner[at]camptocamp.com>"
-#~ msgstr ""
-
-#~ msgid "Plugin installer: Borys Jurgiel <info[at]borysjurgiel.pl>"
-#~ msgstr ""
-
-#~ msgid "OGR, Postgres-, Oracle- provider: Jürgen E. Fischer <jef[at]norbit.de>"
-#~ msgstr ""
-
-#~ msgid "WMS provider: Jürgen E. Fischer <jef[at]norbit.de>"
-#~ msgstr ""
-
-#~ msgid "WFS provider: Even Rouault <even.rouault[at]spatialys.com>"
-#~ msgstr ""
-
-#~ msgid "QgisWebClient: Andreas Neumann <a.neumann[at]carto.net>"
-#~ msgstr ""
-
-#~ msgid "MSsql provider: Nathan Woodrow <madmanwoo[at]gmail.com>"
-#~ msgstr ""
-
-#~ msgid "Labelling engine: Larry Shaffer <larrys[at]dakotacarto.com>"
-#~ msgstr ""
-
-#~ msgid "Authentication system: Larry Shaffer <larrys[at]dakotacarto.com>"
-#~ msgstr ""
-
-#~ msgid "Diagrams: Matthias Kuhn <matthias.kuhn[at]gmx.ch>"
-#~ msgstr ""
-
-#~ msgid "Attribute table: Matthias Kuhn <matthias.kuhn[at]gmx.ch>"
-#~ msgstr ""
-
-#~ msgid "Processing Toolbox: Victor Olaya <volayaf[at]gmail.com>"
-#~ msgstr ""
-
-#~ msgid "MetaSearch plugin: Tom Kralidis <tomkralidis[at]gmail.com>"
-#~ msgstr ""
-
-#~ msgid "Lene Fischer <lfi[at]ign.ku.dk> (community tasks)"
-#~ msgstr ""
-
-#~ msgid "Yves Jacolin <yjacolin[at]free.fr> (documentation)"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Current Translation Team Lead: Werner Macho <werner.macho[at]gmail.com>"
-#~ msgstr ""
-
-#~ msgid "Current Press Material Team Lead: Anita Graser <anitagraser[at]gmx.at>"
-#~ msgstr ""
-
-#~ msgid "Richard Duivenvoorde (Infrastructure Manager) [since 9.2013]"
-#~ msgstr ""
-
-#~ msgid "Former PSC members are:"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "According to our statutes, for each country user group that is formed, that "
-#~ "group will select a QGIS Country User Group Voting Member to represent their"
-#~ " interests. These voting members are listed :ref:`here<QGIS-usergroups>`. "
-#~ "Please email trademark@qgis.org if you have registered a new country user "
-#~ "group, or have changed your user group representative."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The QGIS Translation is managed by the Community Assistant (Translation Team"
-#~ " Lead) and supported by additional language specific teams. Information "
-#~ "about the current documentation status and the translation process are "
-#~ "provided at the `Translators Corner <https://github.com/qgis/QGIS-"
-#~ "Website/blob/master/source/site/getinvolved/translate.rst>`_."
-#~ msgstr ""
-
-#~ msgid "Code Maintainers"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Code Maintainers are responsible for discrete areas of the QGIS source code "
-#~ "(core, gui, plugins, providers, tests) and ensure consistency and quality of"
-#~ " code added into the git code repository."
-#~ msgstr ""
-
-#~ msgid "Core library: Martin Dobias"
-#~ msgstr ""
-
-#~ msgid "Gui library: Martin Dobias"
-#~ msgstr ""
-
-#~ msgid "App (dialogs): Tim Sutton"
-#~ msgstr ""
-
-#~ msgid "Print composer: Nyall Dawson"
-#~ msgstr ""
-
-#~ msgid "PyQGIS: Martin Dobias"
-#~ msgstr ""
-
-#~ msgid "WMS server: Marco Hugentobler"
-#~ msgstr ""
-
-#~ msgid "WFS/WCS server: René-Luc D'Hont"
-#~ msgstr ""
-
-#~ msgid "Python plugins for QGIS Server: Alessandro Pasotti"
-#~ msgstr ""
-
-#~ msgid "Access control for QGIS Server: Stephane Brunner"
-#~ msgstr ""
-
-#~ msgid "Plugin installer: Borys Jurgiel"
-#~ msgstr ""
-
-#~ msgid "OGR, Postgres-, Oracle- provider: Jürgen E. Fischer"
-#~ msgstr ""
-
-#~ msgid "WMS provider: Jürgen E. Fischer"
-#~ msgstr ""
-
-#~ msgid "WFS provider: Even Rouault"
-#~ msgstr ""
-
-#~ msgid "QGISWebClient 2: Sandro Mani"
-#~ msgstr ""
-
-#~ msgid "MSsql provider: Nathan Woodrow"
-#~ msgstr ""
-
-#~ msgid "Labelling engine: Larry Shaffer"
-#~ msgstr ""
-
-#~ msgid "Authentication system: Larry Shaffer"
-#~ msgstr ""
-
-#~ msgid "Diagrams: Matthias Kuhn"
-#~ msgstr ""
-
-#~ msgid "Attribute table: Matthias Kuhn"
-#~ msgstr ""
-
-#~ msgid "Processing Toolbox: Victor Olaya"
-#~ msgstr ""
-
-#~ msgid "MetaSearch plugin: Tom Kralidis"
-#~ msgstr ""
-
-#~ msgid "Paolo Cavallini (Chair; Manager of Plugin Repository) [since 4.2018]"
-#~ msgstr ""
-
-#~ msgid "Marco Bernasocchi (Co-Chair) [since 4.2018]"
-#~ msgstr ""
-
-#~ msgid "Andreas Neumann (Treasurer; Contact for Sponsorships) [since 11.2015]"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Paolo Cavallini (Chair; Manager of Plugin Repository) [Chair since 4.2018; "
-#~ "Co-Chair 1.2008 - 3.2018]"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Tim Sutton (awarded Honorary PSC member in 9.2018 the FOSS4G in Tanzania)"
-#~ msgstr ""
-
-#~ msgid "TBD"
-#~ msgstr ""
-
-#~ msgid "Honorary PSC members"
-#~ msgstr ""
-
-#~ msgid "Former PSC members"
-#~ msgstr ""
-
-#~ msgid "Honorable voting members"
-#~ msgstr ""

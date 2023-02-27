@@ -1,36 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 # Kayama Yoichi <yoichi.kayama@gmail.com>, 2017-2018
 # fairtommy <fairtommy@gmail.com>, 2017-2018
 # miyake mitsuha <miyake@mierune.co.jp>, 2018
+# 藤本 理弘 <mfujimot@gmail.com>, 2023
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2014-10-19 11:13+0000\n"
-"Last-Translator: Kayama Yoichi <yoichi.kayama@gmail.com>, 2017-2018\n"
+"Last-Translator: 藤本 理弘 <mfujimot@gmail.com>, 2023\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:6
 msgid "Changelog for QGIS 2.0"
-msgstr "QGIS 2.0の変更履歴"
+msgstr "QGIS 2.0 の変更履歴"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:12
+#: ../../source/site/forusers/visualchangelog200/index.rst:8
+msgid "Release date: 2013-09-09"
+msgstr "リリース日: 2013-09-09"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:14
 msgid "Analysis tools"
 msgstr "解析ツール"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:15
+#: ../../source/site/forusers/visualchangelog200/index.rst:17
 msgid "Feature: Processing Commander"
 msgstr "機能：プロセッシングコマンダー"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:17
+#: ../../source/site/forusers/visualchangelog200/index.rst:19
 msgid ""
 "For quick access to geoprocessing functionality, just launch the processing "
 "commander (Ctrl + Alt + M) and start typing the name of the tool you are "
@@ -39,38 +47,38 @@ msgid ""
 "at your fingertips."
 msgstr "ジオプロセシング機能に素早くアクセスするために、単に処理司令官（はCtrl + Alt + M）を起動し、あなたが探しているツールの名前を入力し始めます。司令官はあなたに利用可能なオプションを表示し、あなたのためにそれらを起動します。これ以上のツールを見つけるために、メニューを検索しません。彼らはあなたの指先に今あります。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:23
+#: ../../source/site/forusers/visualchangelog200/index.rst:25
 msgid "|image1|"
 msgstr "|image1|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:732
+#: ../../source/site/forusers/visualchangelog200/index.rst:734
 msgid "image1"
-msgstr ""
+msgstr "image1"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:26
+#: ../../source/site/forusers/visualchangelog200/index.rst:28
 msgid "Feature: Heatmap Plugin Improvements"
 msgstr "機能：ヒートマッププラグインの改善"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:28
+#: ../../source/site/forusers/visualchangelog200/index.rst:30
 msgid ""
 "The heatmap plugin has seen numerous improvements and optimisations, "
 "resulting in much faster creation of heatmaps. Additionally, you now have "
 "the choice of which kernel function is used to create the heatmap."
 msgstr "ヒートマッププラグインは、ヒートマップのはるかに高速に作成して、その結果、多くの改良と最適化を見てきました。また、今、カーネル関数は、ヒートマップを作成するために使用されているのかを選択できます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:32
+#: ../../source/site/forusers/visualchangelog200/index.rst:34
 msgid "|image2|"
 msgstr "|image2|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:733
+#: ../../source/site/forusers/visualchangelog200/index.rst:735
 msgid "image2"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:35
+#: ../../source/site/forusers/visualchangelog200/index.rst:37
 msgid "Feature: Processing Support"
 msgstr "機能：プロセッシングサポート"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:37
+#: ../../source/site/forusers/visualchangelog200/index.rst:39
 msgid ""
 "The SEXTANTE project has been ported to and incorporated into QGIS as core "
 "functionality. SEXTANTE has been renamed to 'Processing' and introduces a "
@@ -81,19 +89,19 @@ msgid ""
 " tools such as GRASS, OTB, SAGA etc."
 msgstr "SEXTANTEプロジェクトは、コア機能としてQGISに移植され、組み込まれています。 SEXTANTEは「プロセッシング」に改名され、QGISの新しいメニューが導入され、豊富な空間解析ツールのツールボックスにアクセスできます。 処理ツールボックスには、GRASS、OTB、SAGAなどの多くの一般的なオープンソースツールの解析機能へのアクセスを提供するために、新しいツールやフックを簡単に追加できるようにするPythonプログラミングAPIが用意されています。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:45
+#: ../../source/site/forusers/visualchangelog200/index.rst:47
 msgid "|image3|"
 msgstr "|image3|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:734
+#: ../../source/site/forusers/visualchangelog200/index.rst:736
 msgid "image3"
-msgstr ""
+msgstr "image3"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:48
+#: ../../source/site/forusers/visualchangelog200/index.rst:50
 msgid "Feature: Processing Modeller"
 msgstr "機能: プロセッシングモデラー"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:50
+#: ../../source/site/forusers/visualchangelog200/index.rst:52
 msgid ""
 "One of the great features of the new processing framework is the ability to "
 "combine the tools graphically. Using the **Processing Modeller**, you can "
@@ -103,23 +111,23 @@ msgid ""
 "use!"
 msgstr "新しい処理フレームワークの大きな特徴の1つは、ツールをグラフィカルに組み合わせる機能です。** Processing Modeller **を使用すると、一連の小さな単一目的モジュールから複雑な分析を構築できます。これらのモデルを保存し、より複雑なモデルのビルディングブロックとして使用することができます。すばらしいパワーがQGISに統合され、使いやすい！"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:57
+#: ../../source/site/forusers/visualchangelog200/index.rst:59
 msgid "|image4|"
 msgstr "|image4|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:735
+#: ../../source/site/forusers/visualchangelog200/index.rst:737
 msgid "image4"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:60
+#: ../../source/site/forusers/visualchangelog200/index.rst:62
 msgid "Application and Project Options"
 msgstr "アプリケーションとプロジェクトオプション"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:63
+#: ../../source/site/forusers/visualchangelog200/index.rst:65
 msgid "Feature: Define default startup project and project templates"
 msgstr "機能: デフォルトの起動プロジェクト指定とプロジェクトテンプレート"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:65
+#: ../../source/site/forusers/visualchangelog200/index.rst:67
 msgid ""
 "With QGIS 2.0 you can specify what QGIS should do when it starts: ``New "
 "Project`` (legacy behaviour, starts with a blank project), ``Most recent`` "
@@ -131,19 +139,19 @@ msgid ""
 "template`` menu."
 msgstr "QGIS 2.0を使用すると、QGISを起動すると、最後に実行したプロジェクトが読み込まれます。 on）、 `` Specific``（QGIS起動時に常に特定のプロジェクトを読み込みます）。プロジェクトテンプレートディレクトリを使用して、テンプレートプロジェクトを保存する場所を指定することができます。そのディレクトリに格納されているプロジェクトは `` Project  - > New from template``メニューを呼び出すときにテンプレートとして利用できます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:74
+#: ../../source/site/forusers/visualchangelog200/index.rst:76
 msgid "|image5|"
 msgstr "|image5|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:736
+#: ../../source/site/forusers/visualchangelog200/index.rst:738
 msgid "image5"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:77
+#: ../../source/site/forusers/visualchangelog200/index.rst:79
 msgid "Feature: System environment variables"
 msgstr "機能：システム環境変数"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:79
+#: ../../source/site/forusers/visualchangelog200/index.rst:81
 msgid ""
 "Current system environment variables can now be viewed and many configured "
 "within the application Options dialog. Useful for platforms, such as Mac, "
@@ -154,19 +162,19 @@ msgid ""
 "code."
 msgstr "現在のシステム環境変数は、アプリケーションの[オプション]ダイアログで表示および設定することができるようになりました。GUIアプリケーションが必ずしもユーザーのシェル環境を継承しないMacなどのプラットフォームに役立ちます。また、SAGA、GRASSなどの処理ツールボックスで制御される外部ツールセットの環境変数の設定や表示にも便利です。ソースコードの特定のセクションのデバッグ出力をオンにするために使用します。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:87
+#: ../../source/site/forusers/visualchangelog200/index.rst:89
 msgid "|image6|"
 msgstr "|image6|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:737
+#: ../../source/site/forusers/visualchangelog200/index.rst:739
 msgid "image6"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:90
+#: ../../source/site/forusers/visualchangelog200/index.rst:92
 msgid "Feature: User-defined zoom scales"
 msgstr "機能：ユーザー定義のズーム縮尺"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:92
+#: ../../source/site/forusers/visualchangelog200/index.rst:94
 msgid ""
 "A listing of zoom scales can now be configured for the application and "
 "optionally overridden per project. The list will show up in the ``Scale`` "
@@ -176,85 +184,85 @@ msgid ""
 "into other projects or another QGIS application."
 msgstr "これで、アプリケーション用にズームスケールのリストを構成できるようになりました。オプションで、プロジェクトごとにオーバーライドできます。このリストはメインウィンドウのステータスバーの `` Scale``ポップアップコンボボックスに表示され、現在のデータソースを効率よく表示したり操作したりするための既知のスケールにすばやくアクセスできます。定義されたスケールは、他のプロジェクトまたは別のQGISアプリケーションにインポートできるXMLファイルにエクスポートできます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:99
+#: ../../source/site/forusers/visualchangelog200/index.rst:101
 msgid "|image7|"
 msgstr "|image7|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:738
+#: ../../source/site/forusers/visualchangelog200/index.rst:740
 msgid "image7"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:102
+#: ../../source/site/forusers/visualchangelog200/index.rst:104
 msgid "Browser"
 msgstr "ブラウザ"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:105
+#: ../../source/site/forusers/visualchangelog200/index.rst:107
 msgid "Feature: Improvements to in-app browser panel"
 msgstr "機能:アプリ内ブラウザパネルの改善"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:107
+#: ../../source/site/forusers/visualchangelog200/index.rst:109
 msgid "Directories can be filtered by wildcard or regex expressions"
 msgstr "ワイルドカードまたは正規表現でディレクトリをフィルタできます"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:108
+#: ../../source/site/forusers/visualchangelog200/index.rst:110
 msgid "New ``Project home`` (parent directory of current project)"
 msgstr "新しい ``プロジェクトホーム ``（現在のプロジェクトの親ディレクトリ）"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:109
+#: ../../source/site/forusers/visualchangelog200/index.rst:111
 msgid "View ``Properties`` of the selected directory in a dialog"
 msgstr "ダイアログで選択したディレクトリの `` Properties``を表示します"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:110
+#: ../../source/site/forusers/visualchangelog200/index.rst:112
 msgid "Choose which directories to ``Fast scan``"
 msgstr "どのディレクトリを ``Fast scan`` するか選択して下さい"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:111
+#: ../../source/site/forusers/visualchangelog200/index.rst:113
 msgid ""
 "Choose to ``Add a directory`` directly to ``Favourites`` via filesystem "
 "browse dialog"
 msgstr "ファイルシステムのブラウズダイアログで `` Favourites``に直接 ``ディレクトリを追加する ``を選択する"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:113
+#: ../../source/site/forusers/visualchangelog200/index.rst:115
 msgid ""
 "New ``/Volumes`` on Mac (hidden directory for access to external drives)"
 msgstr "Macにおける新しい ``/Volumes``  (外部ドライブアクセス用の隠しディレクトリ)"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:115
+#: ../../source/site/forusers/visualchangelog200/index.rst:117
 msgid "New ``OWS`` group (collation of available map server connections)"
 msgstr "新しい `` OWS``グループ（使用可能なマップサーバ接続の照合）"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:116
+#: ../../source/site/forusers/visualchangelog200/index.rst:118
 msgid ""
 "Open a second browser (``View -> Panels -> Browser (2)``) for drag-n-drop "
 "interactions between browser panels"
 msgstr "ブラウザパネル間のドラッグアンドドロップ操作のための2番目のブラウザを開きます（ `` View  - > Panels  - > Browser（2） ``）"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:118
+#: ../../source/site/forusers/visualchangelog200/index.rst:120
 msgid ""
 "Icons now sorted by item group type (filesystem, databases, map servers)"
 msgstr "アイコンがアイテムグループタイプ（ファイルシステム、データベース、マップサーバ）でソートされました"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:120
+#: ../../source/site/forusers/visualchangelog200/index.rst:122
 msgid "Layer ``Properties`` now have better visual layout"
 msgstr "レイヤー `` Properties``のビジュアルレイアウトが改善されました"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:122
+#: ../../source/site/forusers/visualchangelog200/index.rst:124
 msgid "|image8|"
 msgstr "|image8|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:739
+#: ../../source/site/forusers/visualchangelog200/index.rst:741
 msgid "image8"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:125
+#: ../../source/site/forusers/visualchangelog200/index.rst:127
 msgid "Data Providers"
 msgstr "データプロバイダ"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:128
+#: ../../source/site/forusers/visualchangelog200/index.rst:130
 msgid "Feature: Raster Data Provider overhaul"
 msgstr "機能：ラスターデータプロバイダーオーバーホール"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:130
+#: ../../source/site/forusers/visualchangelog200/index.rst:132
 msgid ""
 "The raster data provider system has been completely overhauled. One of the "
 "best new features stemming from this work is the ability to 'Layer -> Save "
@@ -265,46 +273,46 @@ msgid ""
 "the rendered layer out to a georeferenced RGB layer."
 msgstr "ラスターデータプロバイダーシステムは完全にオーバーホールされました。この作業から生まれた最も優れた新機能の1つは、新しいレイヤーとしてラスターレイヤーを保存するために、[レイヤー ->名前を付けて保存]機能です。このプロセスでは、レイヤーをクリップ、再サンプリング、および新しい[座標参照系]に再投影できます。ラスタレイヤーをレンダリング画像として保存することもできます。たとえば、カラーパレットを適用した単一バンドラスターを使用する場合、レンダリングレイヤーをジオリファレンスされたRGBレイヤーに保存できます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:139
+#: ../../source/site/forusers/visualchangelog200/index.rst:141
 msgid "|image9|"
 msgstr "|image9|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:740
+#: ../../source/site/forusers/visualchangelog200/index.rst:742
 msgid "image9"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:142
+#: ../../source/site/forusers/visualchangelog200/index.rst:144
 msgid "Feature: Oracle Spatial support"
 msgstr "機能：Oracle Spatialのサポート"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:144
+#: ../../source/site/forusers/visualchangelog200/index.rst:146
 msgid "QGIS 2.0 now includes Oracle Spatial support."
 msgstr "QGIS 2.0にはOracle Spatialのサポートが追加されました。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:146
+#: ../../source/site/forusers/visualchangelog200/index.rst:148
 msgid "|image10|"
 msgstr "|image10|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:741
+#: ../../source/site/forusers/visualchangelog200/index.rst:743
 msgid "image10"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:149
+#: ../../source/site/forusers/visualchangelog200/index.rst:151
 msgid "Feature: Web Coverage Service provider added"
 msgstr "機能：ウェブカバレッジサービスプロバイダが追加されました"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:151
+#: ../../source/site/forusers/visualchangelog200/index.rst:153
 msgid ""
 "QGIS now provides native support for Web Coverage Service layers - the "
 "process for adding WCS is similar to adding a WMS layer or WFS layer."
 msgstr "QGISはWeb Coverage Serviceレイヤーのネイティブサポートを提供します.WCSを追加するプロセスは、WMSレイヤーまたはWFSレイヤーを追加するプロセスに似ています。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:155
+#: ../../source/site/forusers/visualchangelog200/index.rst:157
 #, python-format
 msgid "Feature: Raster 2% cumulative cut by default"
 msgstr "機能：デフォルトでラスター2％累積カット"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:157
+#: ../../source/site/forusers/visualchangelog200/index.rst:159
 msgid ""
 "Many raster imagery products have a large number of outliers which result in"
 " images having a washed out appearance. QGIS 2.0 intoduces much more fine "
@@ -314,19 +322,19 @@ msgid ""
 " when rendering the same image with default settings."
 msgstr "多くのラスター画像製品は、外見が洗い流された画像をもたらす多数の異常値を有する。QGIS 2.0では、画像の色空間を決定する際にデフォルトで2％〜98％の累積カットを使用するなど、ラスターのレンダリング動作に対して、より詳細な制御が可能です。ここの画像は、デフォルト設定で同じ画像をレンダリングするときのQGIS 1.8（左）対QGIS 2.0（右）を示しています。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:165
+#: ../../source/site/forusers/visualchangelog200/index.rst:167
 msgid "|image11|"
 msgstr "|image11|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:742
+#: ../../source/site/forusers/visualchangelog200/index.rst:744
 msgid "image11"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:168
+#: ../../source/site/forusers/visualchangelog200/index.rst:170
 msgid "Feature: WMS identify format"
 msgstr "機能：フォーマットを識別するWMS"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:170
+#: ../../source/site/forusers/visualchangelog200/index.rst:172
 msgid ""
 "It is now possible to select the format of the identify tool result for WMS "
 "layers if multiple known formats are supported by the server. The supported "
@@ -336,19 +344,19 @@ msgid ""
 "geometry may be copied to clipboard and pasted to another layer."
 msgstr "複数の既知のフォーマットがサーバーによってサポートされている場合、WMSレイヤーの識別ツールの結果のフォーマットを選択できるようになりました。サポートされるフォーマットは、HTML、地物（GML）、およびプレーンテキストです。地物（GML）フォーマットが選択されている場合、結果はベクターレイヤーと同じ形式になり、ジオメトリが強調表示され、属性とジオメトリを含む地物がクリップボードにコピーされ、別のレイヤーに貼り付けられます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:178
+#: ../../source/site/forusers/visualchangelog200/index.rst:180
 msgid "|image12|"
 msgstr "|image12|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:743
+#: ../../source/site/forusers/visualchangelog200/index.rst:745
 msgid "image12"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:181
+#: ../../source/site/forusers/visualchangelog200/index.rst:183
 msgid "Feature: WMTS Support"
 msgstr "機能: WMTS のサポート"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:183
+#: ../../source/site/forusers/visualchangelog200/index.rst:185
 msgid ""
 "The WMS client in QGIS now supports WMTS (Web Mapping Tile Service) "
 "including selection of sub-datasets such as time slices. When adding a WMS "
@@ -356,23 +364,23 @@ msgid ""
 " to display."
 msgstr "QGISのWMSクライアントは、タイムスライスなどのサブデータセットの選択を含むWMTS（Web Mapping Tile Service）をサポートするようになりました。準拠しているサーバーからWMSレイヤーを追加する場合は、表示するタイムスライスを選択するよう求められます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:188
+#: ../../source/site/forusers/visualchangelog200/index.rst:190
 msgid "|image13|"
 msgstr "|image13|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:744
+#: ../../source/site/forusers/visualchangelog200/index.rst:746
 msgid "image13"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:191
+#: ../../source/site/forusers/visualchangelog200/index.rst:193
 msgid "General"
 msgstr "一般情報"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:194
+#: ../../source/site/forusers/visualchangelog200/index.rst:196
 msgid "Feature: Quantum GIS is now known only as 'QGIS'"
 msgstr "機能：Quantum GISは今や 'QGIS' という名前のみ利用しています."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:196
+#: ../../source/site/forusers/visualchangelog200/index.rst:198
 msgid ""
 "The 'Quantum' in 'Quantum GIS' never had any particular significance and the"
 " duality of referring to our project as both ``Quantum GIS`` and ``QGIS`` "
@@ -383,23 +391,23 @@ msgid ""
 "reflect this."
 msgstr "「Quantum GIS」の「Quantum」は決して特別な意味を持ちませんでした。私たちのプロジェクトを「Quantum GIS」と「QGIS」の両方として引用することの二重性は混乱を招いていました。私たちはプロジェクトを合理化しており、そのプロセスの一環として正式に「クォンタム」という言葉の使用をやめています。以来、「QGIS」（大文字のすべての文字で綴られています）としてのみ知られています。これを反映するため、コードと広報資料をすべて更新します。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:204
+#: ../../source/site/forusers/visualchangelog200/index.rst:206
 msgid "|image14|"
 msgstr "|image14|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:745
+#: ../../source/site/forusers/visualchangelog200/index.rst:747
 msgid "image14"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:207
+#: ../../source/site/forusers/visualchangelog200/index.rst:209
 msgid "Labelling"
 msgstr "ラベリング"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:210
+#: ../../source/site/forusers/visualchangelog200/index.rst:212
 msgid "Feature: New labelling system"
 msgstr "機能：新しいラベリングシステム"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:212
+#: ../../source/site/forusers/visualchangelog200/index.rst:214
 msgid ""
 "The labelling system has been totally overhauled - it now includes many new "
 "features such as drop shadows, 'highway shields', many more data bound "
@@ -409,19 +417,19 @@ msgid ""
 "follow up release."
 msgstr "ラベリングシステムは完全に改良されました。これには、ドロップシャドウ、ハイウェイシールド、より多くのデータバインドオプション、さまざまなパフォーマンス強化など、多くの新機能が追加されました。私たちはゆっくりと「古いラベル」システムをやっていますが、このリリースで利用可能な機能はまだありますが、フォローアップリリースでは消えてしまうはずです。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:219
+#: ../../source/site/forusers/visualchangelog200/index.rst:221
 msgid "|image15|"
 msgstr "|image15|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:746
+#: ../../source/site/forusers/visualchangelog200/index.rst:748
 msgid "image15"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:222
+#: ../../source/site/forusers/visualchangelog200/index.rst:224
 msgid "Feature: Expression based label properties"
 msgstr "機能：式ベースのラベルプロパティ"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:224
+#: ../../source/site/forusers/visualchangelog200/index.rst:226
 msgid ""
 "The full power of normal label and rule expressions can now be used for "
 "label properties. Nearly every property can be defined with an expression or"
@@ -430,161 +438,161 @@ msgid ""
 "or can include more complex logic."
 msgstr "ラベルのプロパティには、通常のラベルとルール式のフルパワーを使用できるようになりました。ほぼすべてのプロパティを式またはフィールド値で定義して、ラベル結果をより詳細に制御できます。式はフィールドを参照することができます（たとえば、フォントサイズをフィールド 'font'の値に設定することもできます）。より複雑なロジックを含めることもできます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:230
+#: ../../source/site/forusers/visualchangelog200/index.rst:232
 msgid "Examples of bindable properties include:"
 msgstr "バインド可能なプロパティの例を次に示します。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:232
+#: ../../source/site/forusers/visualchangelog200/index.rst:234
 msgid "Font"
 msgstr "フォント"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:233
+#: ../../source/site/forusers/visualchangelog200/index.rst:235
 msgid "Size"
 msgstr "サイズ"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:234
+#: ../../source/site/forusers/visualchangelog200/index.rst:236
 msgid "Style"
 msgstr "スタイル"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:235
+#: ../../source/site/forusers/visualchangelog200/index.rst:237
 msgid "Buffer size"
 msgstr "バッファサイズ"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:237
+#: ../../source/site/forusers/visualchangelog200/index.rst:239
 msgid "|image16|"
 msgstr "|image16|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:747
+#: ../../source/site/forusers/visualchangelog200/index.rst:749
 msgid "image16"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:240
+#: ../../source/site/forusers/visualchangelog200/index.rst:242
 msgid "Feature: Older labelling engine deprecated"
 msgstr "機能: 古いラベルエンジンは廃止されました"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:242
+#: ../../source/site/forusers/visualchangelog200/index.rst:244
 msgid ""
 "Use of the older labelling engine available in QGIS <= 1.8 is now "
 "discouraged (i.e. deprecated), but has not been removed. This is to allow "
 "users to migrate existing projects from the old to new labelling engine."
 msgstr "QGIS <= 1.8で利用可能な古いラベル付けエンジンの使用は現在推奨されていませんが、廃止されていません。これは、ユーザーが既存のプロジェクトを古いラベルエンジンから新しいラベルエンジンに移行できるようにするためです。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:247
+#: ../../source/site/forusers/visualchangelog200/index.rst:249
 msgid ""
 "The following guidelines for working with the older engine in QGIS 2.0 "
 "apply:"
 msgstr "以下のガイドラインはQGIS2.0で利用されている古いエンジン用です:"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:250
+#: ../../source/site/forusers/visualchangelog200/index.rst:252
 msgid ""
 "Deprecated labelling tab is removed from vector layer properties dialog for "
 "new projects or older opened projects that don't use that labelling engine."
 msgstr "廃止予定のラベリングタブは、新規プロジェクトまたはそのラベリングエンジンを使用しない古いオープンプロジェクトの「ベクターレイヤープロパティー」ダイアログから削除されます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:253
+#: ../../source/site/forusers/visualchangelog200/index.rst:255
 msgid ""
 "Deprecated tab remains active for older opened projects, if any layer uses "
 "them, and does not go away even if saving the project with no layers having "
 "the older labelling engine enabled."
 msgstr "Deprecated tab remains active for older opened projects, if any layer uses them, and does not go away even if saving the project with no layers having the older labelling engine enabled."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:257
+#: ../../source/site/forusers/visualchangelog200/index.rst:259
 msgid ""
 "Deprecated labelling tab can be enabled/disabled for the current project, "
 "via Python console commands, e.g.:"
 msgstr "非推奨のラベリングタブは、現在のプロジェクトでPythonコンソールコマンドを使用して有効/無効にすることができます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:266
+#: ../../source/site/forusers/visualchangelog200/index.rst:268
 msgid ""
 "**NOTE**: There is a *very high likelihood* the deprecated labelling engine "
 "will be completely removed prior to the next stable release of QGIS. Please "
 "migrate older projects."
 msgstr "**注意**：QGISの次の安定リリースの前に廃止予定のラベルエンジンが完全に削除される可能性が非常に高い* *があります。古いプロジェクトを移行してください。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:270
+#: ../../source/site/forusers/visualchangelog200/index.rst:272
 msgid "|image17|"
 msgstr "|image17|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:748
+#: ../../source/site/forusers/visualchangelog200/index.rst:750
 msgid "image17"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:273
+#: ../../source/site/forusers/visualchangelog200/index.rst:275
 msgid "Layer Legend"
 msgstr "レイヤ凡例"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:276
+#: ../../source/site/forusers/visualchangelog200/index.rst:278
 msgid "Feature: Legend visual feedback and options"
 msgstr "特集：凡例のビジュアルフィードバックとオプション"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:278
+#: ../../source/site/forusers/visualchangelog200/index.rst:280
 msgid "Total count for features in layer, as well as per symbol"
 msgstr "レイヤー内の地物とシンボルごとの合計数"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:279
+#: ../../source/site/forusers/visualchangelog200/index.rst:281
 msgid ""
 "Vector layers in edit mode now have a red pencil to indicate uncommitted "
 "(unsaved) edits"
 msgstr "編集モードのベクターレイヤーには、コミットされていない（保存されていない）編集を示す赤い鉛筆が表示されるようになりました"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:281
+#: ../../source/site/forusers/visualchangelog200/index.rst:283
 msgid ""
 "Active layer is now underlined, to indicate it in multi-layer selections or "
 "when there is no selection"
 msgstr "アクティブレイヤーには下線が引かれ、マルチレイヤーの選択や選択がない場合に表示されます"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:283
+#: ../../source/site/forusers/visualchangelog200/index.rst:285
 msgid "Clicking in non-list-item whitespace now clears the selection"
 msgstr "非リスト項目の空白をクリックすると、選択項目がクリアされるようになりました"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:284
+#: ../../source/site/forusers/visualchangelog200/index.rst:286
 msgid ""
 "``Right-clicks`` are now treated as ``left-clicks`` prior to showing the "
 "contextual menu, allowing for one click instead of two"
 msgstr "`` Right-clicks``はコンテキストメニューを表示する前に ``左クリック ''として扱われ、2回ではなく1回のクリックが可能です"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:286
+#: ../../source/site/forusers/visualchangelog200/index.rst:288
 msgid "Groups and layers can optionally be in a bold font style"
 msgstr "グループとレイヤーは、オプションで太字のフォントスタイルにすることができます"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:287
+#: ../../source/site/forusers/visualchangelog200/index.rst:289
 msgid ""
 "Raster layer generated preview icons can now be turned off, for projects "
 "where such rendering may be slow"
 msgstr "このようなレンダリングが遅いかもしれないプロジェクトでは、ラスターレイヤーで生成されたプレビューアイコンをオフにできるようになりました"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:290
+#: ../../source/site/forusers/visualchangelog200/index.rst:292
 msgid "|image18|"
 msgstr "|image18|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:749
+#: ../../source/site/forusers/visualchangelog200/index.rst:751
 msgid "image18"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:293
+#: ../../source/site/forusers/visualchangelog200/index.rst:295
 msgid "Feature: Duplicate existing map layer"
 msgstr "機能：既存の地図レイヤーを複製する"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:295
+#: ../../source/site/forusers/visualchangelog200/index.rst:297
 msgid ""
 "Duplicate selected vector and raster layers in the map layer legend. Similar"
 " to importing the same data source again, as a separate layer, then "
 "copy/pasting style and symbology attributes."
 msgstr "地図レイヤーの凡例で、選択したベクターレイヤーとラスターレイヤーを複製します。同じデータソースを別のレイヤーとして再度インポートするのと同様に、スタイルとシンボル属性をコピー/貼り付けます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:299
+#: ../../source/site/forusers/visualchangelog200/index.rst:301
 msgid "|image19|"
 msgstr "|image19|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:750
+#: ../../source/site/forusers/visualchangelog200/index.rst:752
 msgid "image19"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:302
+#: ../../source/site/forusers/visualchangelog200/index.rst:304
 msgid "Feature: Multi-layer toggle editing commands"
 msgstr "機能：マルチレイヤー編集コマンドの切り替え"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:304
+#: ../../source/site/forusers/visualchangelog200/index.rst:306
 msgid ""
 "User can now select multiple layers in legend and, if any of those are "
 "vector layers in edit mode, choose to save, rollback, or cancel current "
@@ -592,107 +600,107 @@ msgid ""
 "layers, regardless of selection."
 msgstr "凡例で複数のレイヤーを選択できるようになり、編集モードのベクタレイヤーのいずれかがある場合は、現在のコミットされていない編集を保存、ロールバック、またはキャンセルすることを選択できます。ユーザーは、選択に関係なく、すべてのレイヤーでこれらのアクションを適用することもできます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:309
+#: ../../source/site/forusers/visualchangelog200/index.rst:311
 msgid "|image20|"
 msgstr "|image20|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:751
+#: ../../source/site/forusers/visualchangelog200/index.rst:753
 msgid "image20"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:312
+#: ../../source/site/forusers/visualchangelog200/index.rst:314
 msgid "Map Composer"
 msgstr "マップコンポーザ"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:315
+#: ../../source/site/forusers/visualchangelog200/index.rst:317
 msgid "Feature: HTML Map Items"
 msgstr "機能: HTML マップアイテム"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:317
+#: ../../source/site/forusers/visualchangelog200/index.rst:319
 msgid "You can now place html elements onto your map."
 msgstr "html要素をマップに配置できるようになりました。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:319
+#: ../../source/site/forusers/visualchangelog200/index.rst:321
 msgid "|image21|"
 msgstr "|image21|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:752
+#: ../../source/site/forusers/visualchangelog200/index.rst:754
 msgid "image21"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:322
+#: ../../source/site/forusers/visualchangelog200/index.rst:324
 msgid "Feature: Multipage support"
 msgstr "機能：複数ページのサポート"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:324
+#: ../../source/site/forusers/visualchangelog200/index.rst:326
 msgid "A single composer window can now contain more then one page."
 msgstr "単一のコンポーザウィンドウは現在は複数のページを持つことができます."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:326
+#: ../../source/site/forusers/visualchangelog200/index.rst:328
 msgid "|image22|"
 msgstr "|image22|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:753
+#: ../../source/site/forusers/visualchangelog200/index.rst:755
 msgid "image22"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:329
+#: ../../source/site/forusers/visualchangelog200/index.rst:331
 msgid "Feature: Expressions in composer labels"
 msgstr "機能:コンポーザラベルで式を利用できるようになりました"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:331
+#: ../../source/site/forusers/visualchangelog200/index.rst:333
 msgid ""
 "The composer label item in 1.8 was quite limited and only allowed a single "
 "token $CURRENT\\_DATE to be used. In 2.0 full expression support has been "
 "added too greater power and control of the final labels."
 msgstr "1.8の作曲者ラベル項目はかなり限定されており、$ CURRENT \\ _DATEという単一のトークンしか使用できませんでした。2.0では完全な表現のサポートが追加され、最終ラベルのパワーとコントロールが大きくなりました。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:335
+#: ../../source/site/forusers/visualchangelog200/index.rst:337
 msgid "A label with an expression such as:"
 msgstr "次のような式を持つラベル。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:341
+#: ../../source/site/forusers/visualchangelog200/index.rst:343
 msgid "will be evaluated at print time (and display time) to generate:"
 msgstr "印刷時間(と表示時間）は調べられて以下の表示があります:"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:347
+#: ../../source/site/forusers/visualchangelog200/index.rst:349
 msgid ""
 "When atlas generation is enabled the currently active features' attribute "
 "values will also be accessible in the expressions allowing such things as:"
 msgstr "地図帳の生成が有効になっている場合、現在アクティブな地物の属性値には次のような式を使用できるようになります。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:355
+#: ../../source/site/forusers/visualchangelog200/index.rst:357
 msgid "|image23|"
 msgstr "|image23|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:754
+#: ../../source/site/forusers/visualchangelog200/index.rst:756
 msgid "image23"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:358
+#: ../../source/site/forusers/visualchangelog200/index.rst:360
 msgid "Feature: Auto snap lines"
 msgstr "機能：オートスナップ線"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:360
+#: ../../source/site/forusers/visualchangelog200/index.rst:362
 msgid ""
 "Having nicely align map items is critical to making nice printed maps. Auto "
 "snapping lines have been added to allow for easy composer object alignment "
 "by simply dragging an object close to another."
 msgstr "すばらしい印刷地図を作成するには、マップ項目をきちんと整列させることが重要です。オブジェクトを別のオブジェクトの近くにドラッグするだけで、簡単に作曲者のオブジェクトを整列させることができる自動スナップラインが追加されました。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:364
+#: ../../source/site/forusers/visualchangelog200/index.rst:366
 msgid "|image24|"
 msgstr "|image24|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:755
+#: ../../source/site/forusers/visualchangelog200/index.rst:757
 msgid "image24"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:367
+#: ../../source/site/forusers/visualchangelog200/index.rst:369
 msgid "Feature: Manual Snap Lines"
 msgstr "機能：手動スナップ線"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:369
+#: ../../source/site/forusers/visualchangelog200/index.rst:371
 msgid ""
 "Sometimes you need to align objects a curtain distance on the composer. With"
 " the new manual snapping lines you are able to add manual snap lines which "
@@ -700,19 +708,19 @@ msgid ""
 "the top or side ruler to add new guide line."
 msgstr "時には、オブジェクトをカーテンディスタンスに合わせる必要があります。新しいマニュアルスナップラインを使用すると、手動スナップ線を追加することができます。これにより、共通のアライメントを使用してオブジェクトを整列させることができます。トップまたはサイドルーラーからドラッグして新しいガイドラインを追加するだけです。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:374
+#: ../../source/site/forusers/visualchangelog200/index.rst:376
 msgid "|image25|"
 msgstr "|image25|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:756
+#: ../../source/site/forusers/visualchangelog200/index.rst:758
 msgid "image25"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:377
+#: ../../source/site/forusers/visualchangelog200/index.rst:379
 msgid "Feature: Map series generation"
 msgstr "機能：地図シリーズ生成"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:379
+#: ../../source/site/forusers/visualchangelog200/index.rst:381
 msgid ""
 "Ever needed to generate a map series? Of course you have. The composer now "
 "includes built in map series generation using the atlas feature. Coverage "
@@ -720,19 +728,19 @@ msgid ""
 "data is available in labels for on the fly value replacement."
 msgstr "これまで地図シリーズを生成する必要がありましたか？もちろんあります。コンポーザには、地図帳機能を使用した地図シリーズ生成機能が組み込まれています。カバレッジレイヤーはポイント、ライン、ポリゴンにすることができ、現在の地物属性データは、その場で値置換のためのラベルで使用できます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:384
+#: ../../source/site/forusers/visualchangelog200/index.rst:386
 msgid "|image26|"
 msgstr "|image26|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:757
+#: ../../source/site/forusers/visualchangelog200/index.rst:759
 msgid "image26"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:387
+#: ../../source/site/forusers/visualchangelog200/index.rst:389
 msgid "Feature: Automatic overview support in map frame"
 msgstr "機能：地図フレームでの自動概要サポート"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:389
+#: ../../source/site/forusers/visualchangelog200/index.rst:391
 msgid ""
 "Need to show the current area of the main map frame in a smaller overview "
 "window. Now you can. The map frame now contains the ability to show the "
@@ -742,19 +750,19 @@ msgid ""
 "polygon object so your creativity is never restricted."
 msgstr "メインの地図フレームの現在のエリアをより小さなオーバービューウィンドウに表示する必要があります。さあ、できます。マップフレームには、他の範囲を表示する機能が含まれており、移動すると更新されます。これをアトラス世代の特徴と共に使用することで、コンポーザの中核はいくらか滑らかなマップ生成を可能にします。概要フレームスタイルは、通常のマップポリゴンオブジェクトと同じスタイリングを使用しており、創造性は決して制限されません。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:396
+#: ../../source/site/forusers/visualchangelog200/index.rst:398
 msgid "|image27|"
 msgstr "|image27|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:758
+#: ../../source/site/forusers/visualchangelog200/index.rst:760
 msgid "image27"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:399
+#: ../../source/site/forusers/visualchangelog200/index.rst:401
 msgid "Feature: Layer blending"
 msgstr "機能:レイヤの混合"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:401
+#: ../../source/site/forusers/visualchangelog200/index.rst:403
 msgid ""
 "Layer blending makes it possible to combine layers in new and exciting ways."
 " While in older versions, all you could do was to make the layer "
@@ -762,7 +770,7 @@ msgid ""
 "\"multiply\", \"darken only\", and many more."
 msgstr "レイヤブレンドを使用すると、レイヤを新しくエキサイティングな方法で組み合わせることができます。古いバージョンでは、レイヤーを透明にするだけでしたが、 \"乗算する\"、 \"暗くなるだけ\"などのより高度なオプションを選択できるようになりました。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:406
+#: ../../source/site/forusers/visualchangelog200/index.rst:408
 msgid ""
 "Blending can be used in the normal map view as well as in print composer. "
 "For a short tutorial on how to use blending in print composer to make the "
@@ -770,38 +778,38 @@ msgid ""
 "<http://anitagraser.com/2013/07/29/vintage-map-design-using-qgis/>`__."
 msgstr "ブレンドは、通常の地図ビューや印刷コンポーザーで使用できます。プリントコンポーザーでのブレンドを使って背景画像を最大限に活用する方法についての短いチュートリアルについては、「QGISを使ったビンテージマップデザイン」を参照してください。 <http://anitagraser.com/2013/07/29/vintage-map-design -using-qgis />`__ です。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:412
+#: ../../source/site/forusers/visualchangelog200/index.rst:414
 msgid "|image28|"
 msgstr "|image28|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:759
+#: ../../source/site/forusers/visualchangelog200/index.rst:761
 msgid "image28"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:415
+#: ../../source/site/forusers/visualchangelog200/index.rst:417
 msgid "Feature: HTML Label support"
 msgstr "機能:HTMLラベルサポート"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:417
+#: ../../source/site/forusers/visualchangelog200/index.rst:419
 msgid ""
 "HTML support has been added map composer label item to give you even more "
 "control over your final maps. HTML labels support full css styles sheets, "
 "html, and even javascript if you are that way inclined."
 msgstr "HTMLサポートには、マップ・コンポーザーのラベル項目が追加され、最終的なマップをさらに詳細に制御できます。HTMLラベルはCSSスタイルシート、html、さらにはjavascriptをサポートしています。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:421
+#: ../../source/site/forusers/visualchangelog200/index.rst:423
 msgid "|image29|"
 msgstr "|image29|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:760
+#: ../../source/site/forusers/visualchangelog200/index.rst:762
 msgid "image29"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:424
+#: ../../source/site/forusers/visualchangelog200/index.rst:426
 msgid "Feature: Multicolumn composer legend"
 msgstr "機能:コンポーザの凡例でマルチカラムのサポート"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:426
+#: ../../source/site/forusers/visualchangelog200/index.rst:428
 msgid ""
 "The composer legend now supports multiple columns. Splitting of a single "
 "layer with many classes into multiple columns is optional. Single symbol "
@@ -813,65 +821,65 @@ msgid ""
 " group (hiding titles) etc. Feature counts may be added to labels."
 msgstr "コンポーザーの凡例は複数の列をサポートするようになりました。多くのクラスを持つ単一のレイヤーを複数の列に分割することはオプションです。単一シンボルレイヤーは、デフォルトでは単一のラインアイテムとして追加されるようになりました。レイヤー/グループタイトルにグループ、サブグループ、または非表示の3種類のスタイルを割り当てることができます。タイトルスタイルはアイテムの任意の視覚的なグループ分けを可能にする。例えば、1つのシンボルレイヤーを1つのラインアイテムまたはレイヤータイトル（1.8のように）で表示し、複数のレイヤーからのシンボルを1つのグループ（タイトルを隠す）にグループ化することができます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:436
+#: ../../source/site/forusers/visualchangelog200/index.rst:438
 msgid "|image30|"
 msgstr "|image30|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:761
+#: ../../source/site/forusers/visualchangelog200/index.rst:763
 msgid "image30"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:439
+#: ../../source/site/forusers/visualchangelog200/index.rst:441
 msgid "Feature: Updates to map composer management"
 msgstr "機能：マップ・コンポーザー管理の更新"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:441
+#: ../../source/site/forusers/visualchangelog200/index.rst:443
 msgid "The following improvements have been made to map composer management:"
 msgstr "マップコンポーザの管理に次のような改善が作成されました:"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:443
+#: ../../source/site/forusers/visualchangelog200/index.rst:445
 msgid ""
 "Composer name can now be defined upon creation, optionally choosing to start"
 " from other composer names"
 msgstr "コンポーザの名前は作成時に指定できます,オプションで他のコンポーザ名からの選択もできます"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:445
+#: ../../source/site/forusers/visualchangelog200/index.rst:447
 msgid "Composers can now be duplicated"
 msgstr "コンポーザを多重化できます"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:446
+#: ../../source/site/forusers/visualchangelog200/index.rst:448
 msgid ""
 "``New from Template`` and from ``Specific`` (in Composer Manager) creates a "
 "composer from a template located anywhere on the filesystem"
 msgstr "``テンプレートから新規作成``  と ``指定`` (コンポーザマネージャ内) を使うとファイルシステムのどこかにあるテンプレートを使ってコンポーザを作成することができます"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:448
+#: ../../source/site/forusers/visualchangelog200/index.rst:450
 msgid "Parent project can now be saved directly from the composer work space"
 msgstr "親プロジェクトをコンポーザの作業スペースから直接保存できるようになりました"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:449
+#: ../../source/site/forusers/visualchangelog200/index.rst:451
 msgid ""
 "All composer management actions now accessible directly from the composer "
 "work space"
 msgstr "すべてのコンポーザの管理作業は、コンポーザの作業スペースから直接アクセスできるようになりました"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:452
+#: ../../source/site/forusers/visualchangelog200/index.rst:454
 msgid "|image31|"
 msgstr "|image31|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:762
+#: ../../source/site/forusers/visualchangelog200/index.rst:764
 msgid "image31"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:455
+#: ../../source/site/forusers/visualchangelog200/index.rst:457
 msgid "Plugins"
 msgstr "プラグイン"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:458
+#: ../../source/site/forusers/visualchangelog200/index.rst:460
 msgid "Feature: Revamped plugin manager"
 msgstr "機能：プラグインマネージャの再構築"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:460
+#: ../../source/site/forusers/visualchangelog200/index.rst:462
 msgid ""
 "In QGIS 1.x managing plugins was somewhat confusing with two interfaces - "
 "one for managing already installed plugins and one for fetching python "
@@ -881,23 +889,23 @@ msgid ""
 "interface is gorgeous too with side tabs and easy to recognise icons!"
 msgstr "QGIS 1.xではプラグインの管理に2つのインタフェースが混乱していました.1つはすでにインストールされているプラ​​グインを管理するためのものと、1つのプラグインリポジトリからのPythonプラグインの取得用のものです。QGIS 2.0では、プラグインをダウンロード、有効/無効、一般的に管理するためのワンストップショップ*を提供するプラグインマネージャー**を新たに導入しました。ああ、ユーザーインターフェースもサイドタブで分かりやすく、アイコンを簡単に認識できます！"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:468
+#: ../../source/site/forusers/visualchangelog200/index.rst:470
 msgid "|image32|"
 msgstr "|image32|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:763
+#: ../../source/site/forusers/visualchangelog200/index.rst:765
 msgid "image32"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:471
+#: ../../source/site/forusers/visualchangelog200/index.rst:473
 msgid "Programmability"
 msgstr "プログラマビリティ"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:474
+#: ../../source/site/forusers/visualchangelog200/index.rst:476
 msgid "Feature: New Python Console"
 msgstr "機能:新しいPythonコンソール"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:476
+#: ../../source/site/forusers/visualchangelog200/index.rst:478
 msgid ""
 "The new Python console gives you even more power. Now the with auto complete"
 " support, syntax highlighting, adjustable font settings. The side code "
@@ -905,19 +913,19 @@ msgid ""
 "open and run any Python file in the QGIS session."
 msgstr "新しいPythonコンソールはさらに強力な機能を提供します。今では、自動完全サポート、構文の強調表示、調整可能なフォント設定を備えています。サイドコードエディタを使用すると、QGISセッションでPythonファイルを開いて実行できるように、より大きなコードブロックを簡単に入力できます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:481
+#: ../../source/site/forusers/visualchangelog200/index.rst:483
 msgid "|image33|"
 msgstr "|image33|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:764
+#: ../../source/site/forusers/visualchangelog200/index.rst:766
 msgid "image33"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:484
+#: ../../source/site/forusers/visualchangelog200/index.rst:486
 msgid "Feature: Even more expression functions"
 msgstr "機能：より多くの式関数"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:486
+#: ../../source/site/forusers/visualchangelog200/index.rst:488
 msgid ""
 "With the expression engine being used more and more though out QGIS to allow"
 " for things like expression based labels and symbol, many more functions "
@@ -926,37 +934,37 @@ msgid ""
 "guides for ease of use."
 msgstr "表現エンジンは、式ベースのラベルやシンボルのようなものを可能にするためにQGISをますます使用していますが、より多くの関数が式ビルダーに追加されており、式ビルダーを通してすべてアクセス可能です。すべての機能には、使いやすさのための包括的なヘルプと使用ガイドが含まれています。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:492
+#: ../../source/site/forusers/visualchangelog200/index.rst:494
 msgid "|image34|"
 msgstr "|image34|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:765
+#: ../../source/site/forusers/visualchangelog200/index.rst:767
 msgid "image34"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:495
+#: ../../source/site/forusers/visualchangelog200/index.rst:497
 msgid "Feature: Custom expression functions"
 msgstr "機能:特別な式の関数"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:497
+#: ../../source/site/forusers/visualchangelog200/index.rst:499
 msgid ""
 "If the expression engine doesn't have the function that you need. Not to "
 "worry. New functions can be added via a plugin using a simple Python API."
 msgstr "エクスプレッション・エンジンに必要な機能がない場合。心配無用。新しい関数は、単純なPython APIを使用してプラグインを介して追加することができます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:501
+#: ../../source/site/forusers/visualchangelog200/index.rst:503
 msgid "|image35|"
 msgstr "|image35|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:766
+#: ../../source/site/forusers/visualchangelog200/index.rst:768
 msgid "image35"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:504
+#: ../../source/site/forusers/visualchangelog200/index.rst:506
 msgid "Feature: New cleaner Python API"
 msgstr "機能:新しいクリーナーPython API"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:506
+#: ../../source/site/forusers/visualchangelog200/index.rst:508
 msgid ""
 "The Python API has been revamped to allow for a more cleaner, more pythonic,"
 " programming experience. The QGIS 2.0 API uses SIP V2 which removes the "
@@ -966,25 +974,25 @@ msgid ""
 "lookup, no more index lookup and attribute maps."
 msgstr "Python APIは、より洗練されたPythonのプログラミング体験を可能にするように改良されました。QGIS 2.0 APIはSIP V2を使用しています。このV2は、値を扱う際に必要とされる乱雑なtoString（）、toInt（）ロジックを削除します。型は、はるかに良いAPIを作るネイティブのPython型に変換されました。属性へのアクセスは、単純なキールックアップ、それ以上の索引ルックアップおよび属性マップを使用しないで、地物自体に対して行われます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:519
+#: ../../source/site/forusers/visualchangelog200/index.rst:521
 msgid ""
 "The way features are read from a layer has also been improved allowing for "
 "multithreading in the future versions."
 msgstr "機能をレイヤーから読み取る方法も改良されており、将来のバージョンではマルチスレッドが可能です。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:527
+#: ../../source/site/forusers/visualchangelog200/index.rst:529
 msgid "|image36|"
 msgstr "|image36|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:767
+#: ../../source/site/forusers/visualchangelog200/index.rst:769
 msgid "image36"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:530
+#: ../../source/site/forusers/visualchangelog200/index.rst:532
 msgid "Feature: Code compatibility with version 1.x releases"
 msgstr "機能:バージョン1.xリリースとのコード互換性"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:532
+#: ../../source/site/forusers/visualchangelog200/index.rst:534
 msgid ""
 "As this is a major release, it is not completely API compatible with "
 "previous 1.x releases. In most cases porting your code should be fairly "
@@ -994,95 +1002,95 @@ msgid ""
 "help."
 msgstr "これはメジャーリリースであるため、以前の1.xリリースと完全に互換性のあるAPIではありません。 ほとんどの場合、あなたのコードを移植するのはかなり簡単です。使い始めるには `このガイド <http://hub.qgis.org/wiki/quantum-gis/Python_plugin_API_changes_from_18_to_20>`__ を使うことができます。 さらに詳しいヘルプが必要な場合は、開発者メーリングリストを使用してください。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:539
+#: ../../source/site/forusers/visualchangelog200/index.rst:541
 msgid "|image37|"
 msgstr "|image37|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:768
+#: ../../source/site/forusers/visualchangelog200/index.rst:770
 msgid "image37"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:542
+#: ../../source/site/forusers/visualchangelog200/index.rst:544
 msgid "Feature: Python project macros"
 msgstr "機能:Pythonプロジェクトマクロ"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:544
+#: ../../source/site/forusers/visualchangelog200/index.rst:546
 msgid ""
 "A Python module, saved into a project.qgs file, can be loaded and have "
 "specific functions run on the following project events:"
 msgstr "project.qgsファイルに保存されたPythonモジュールをロードして、次のプロジェクトイベントで特定の関数を実行できます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:547
+#: ../../source/site/forusers/visualchangelog200/index.rst:549
 msgid "``openProject()``"
 msgstr "``openProject()``"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:548
+#: ../../source/site/forusers/visualchangelog200/index.rst:550
 msgid "``saveProject()``"
 msgstr "``saveProject()``"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:549
+#: ../../source/site/forusers/visualchangelog200/index.rst:551
 msgid "``closeProject()``"
 msgstr "``closeProject()``"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:551
+#: ../../source/site/forusers/visualchangelog200/index.rst:553
 msgid ""
 "Whether the macros are run can be configured in the application options."
 msgstr "マクロを実行するかどうかは、アプリケーションオプションで設定できます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:553
+#: ../../source/site/forusers/visualchangelog200/index.rst:555
 msgid "|image38|"
 msgstr "|image38|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:769
+#: ../../source/site/forusers/visualchangelog200/index.rst:771
 msgid "image38"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:556
+#: ../../source/site/forusers/visualchangelog200/index.rst:558
 msgid "Symbology"
 msgstr "シンボロジ"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:559
+#: ../../source/site/forusers/visualchangelog200/index.rst:561
 msgid "Feature: Data defined properties"
 msgstr "機能：データで定義されたプロパティ"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:561
+#: ../../source/site/forusers/visualchangelog200/index.rst:563
 msgid ""
 "With the new data defined properties, it is possible to control symbol type,"
 " size, color, rotation, and many other properties through feature "
 "attributes."
 msgstr "新しいデータ定義プロパティでは、シンボルのタイプ、サイズ、色、回転、およびその他の多くのプロパティを地物属性を使用して制御できます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:565
+#: ../../source/site/forusers/visualchangelog200/index.rst:567
 msgid "|image39|"
 msgstr "|image39|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:770
+#: ../../source/site/forusers/visualchangelog200/index.rst:772
 msgid "image39"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:568
+#: ../../source/site/forusers/visualchangelog200/index.rst:570
 msgid "Feature: Improved symbol layer management"
 msgstr "機能：シンボルレイヤー管理の改善"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:570
+#: ../../source/site/forusers/visualchangelog200/index.rst:572
 msgid ""
 "The new symbol layer overview uses a clear, tree-structured layout which "
 "allows for easy and fast access to all symbol layers."
 msgstr "新しいシンボルレイヤの概要では、すべてのシンボルレイヤに簡単かつ迅速にアクセスできる明確なツリー構造のレイアウトが使用されています。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:573
+#: ../../source/site/forusers/visualchangelog200/index.rst:575
 msgid "|image40|"
 msgstr "|image40|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:771
+#: ../../source/site/forusers/visualchangelog200/index.rst:773
 msgid "image40"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:576
+#: ../../source/site/forusers/visualchangelog200/index.rst:578
 msgid "Feature: Support for transparency in colour definitions"
 msgstr "機能：カラー定義の透過性のサポート"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:578
+#: ../../source/site/forusers/visualchangelog200/index.rst:580
 msgid ""
 "In most places where you select colours, QGIS now allows you to specify the "
 "alpha channel (which determins how transparent the colour should be). This "
@@ -1090,19 +1098,19 @@ msgid ""
 "don't want users to see."
 msgstr "色を選択するほとんどの場所で、QGISではアルファチャンネルを指定できるようになりました（どの色が透明であるかが決まります）。これにより、見栄えの良い地図を作成したり、ユーザーに見せたくないデータを簡単に隠すことができます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:583
+#: ../../source/site/forusers/visualchangelog200/index.rst:585
 msgid "|image41|"
 msgstr "|image41|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:772
+#: ../../source/site/forusers/visualchangelog200/index.rst:774
 msgid "image41"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:586
+#: ../../source/site/forusers/visualchangelog200/index.rst:588
 msgid "Feature: Color Control for Raster Layers"
 msgstr "機能：ラスターレイヤーのカラーコントロール"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:588
+#: ../../source/site/forusers/visualchangelog200/index.rst:590
 msgid ""
 "QGIS 2.0 allows you to precisely control exactly how you'd like raster "
 "layers to appear. You now have complete control over the brightness, "
@@ -1110,19 +1118,19 @@ msgid ""
 "display of rasters in grayscale or by colorising with a specified color."
 msgstr "QGIS 2.0では、ラスターレイヤの表示方法を正確に制御することができます。ラスターレイヤーの輝度、コントラスト、彩度を完全に制御できます。ラスタをグレースケールで表示したり、指定した色で色付けすることもできます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:593
+#: ../../source/site/forusers/visualchangelog200/index.rst:595
 msgid "|image42|"
 msgstr "|image42|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:773
+#: ../../source/site/forusers/visualchangelog200/index.rst:775
 msgid "image42"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:596
+#: ../../source/site/forusers/visualchangelog200/index.rst:598
 msgid "Feature: Copy symbology between layers"
 msgstr "機能：レイヤー間でシンボロジをコピーする"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:598
+#: ../../source/site/forusers/visualchangelog200/index.rst:600
 msgid ""
 "Its now super easy to copy symbology from one layer to another layer. If you"
 " are working with several similar layer, you can simply ``right-click`` on "
@@ -1130,38 +1138,38 @@ msgid ""
 "click`` on another layer and choose ``Paste-Style``."
 msgstr "1つのレイヤーから別のレイヤーにシンボロジをコピーするのがとても簡単になりました。いくつかの類似したレイヤーで作業している場合は、あるレイヤーで単に ``右クリック `` し、コンテキストメニューから ``コピースタイル `` を選び、別のレイヤーで ``ペーストスタイル `` を指定して下さい。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:604
+#: ../../source/site/forusers/visualchangelog200/index.rst:606
 msgid "|image43|"
 msgstr "|image43|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:774
+#: ../../source/site/forusers/visualchangelog200/index.rst:776
 msgid "image43"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:607
+#: ../../source/site/forusers/visualchangelog200/index.rst:609
 msgid "Feature: Save styles in your database"
 msgstr "機能：データベースにスタイルを保存する"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:609
+#: ../../source/site/forusers/visualchangelog200/index.rst:611
 msgid ""
 "If you are using a database vector data store, you can now store the layer "
 "style definitions directly in the database. This makes it easy to share "
 "styled layers in an enterprise or multi-user environment."
 msgstr "データベースベクタデータストアを使用している場合は、レイヤスタイル定義を直接データベースに格納できます。これにより、エンタープライズまたはマルチユーザー環境でスタイル付きレイヤーを簡単に共有できます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:613
+#: ../../source/site/forusers/visualchangelog200/index.rst:615
 msgid "|image44|"
 msgstr "|image44|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:775
+#: ../../source/site/forusers/visualchangelog200/index.rst:777
 msgid "image44"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:616
+#: ../../source/site/forusers/visualchangelog200/index.rst:618
 msgid "Feature: Colour ramp support"
 msgstr "機能：カラーランプのサポート"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:618
+#: ../../source/site/forusers/visualchangelog200/index.rst:620
 msgid ""
 "Colour ramps are now available in many places in QGIS symbology settings and"
 " QGIS ships with a rich, extensible set of colour ramps. You can also design"
@@ -1170,19 +1178,19 @@ msgid ""
 " have full support for transparency!"
 msgstr "QGISシンボル設定の多くの場所でカラーランプが使用可能になり、豊富で拡張可能なカラーランプセットが搭載されたQGISが出荷されます。また、自分でデザインすることもできますし、多くの `cpt-city <http://soliton.vm.bytemark.co.uk/pub/cpt-city/>`テーマがQGISに含まれています。カラーランプは透過性を完全にサポートしています。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:625
+#: ../../source/site/forusers/visualchangelog200/index.rst:627
 msgid "|image45|"
 msgstr "|image45|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:776
+#: ../../source/site/forusers/visualchangelog200/index.rst:778
 msgid "image45"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:628
+#: ../../source/site/forusers/visualchangelog200/index.rst:630
 msgid "Feature: Set custom default styles for all layer types"
 msgstr "機能：すべてのレイヤータイプのカスタムデフォルトスタイルを設定する"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:630
+#: ../../source/site/forusers/visualchangelog200/index.rst:632
 msgid ""
 "Now QGIS lets you control how new layers will be drawn when they do not have"
 " an existing ``.qml`` style defined. You can also set the default "
@@ -1190,61 +1198,61 @@ msgid ""
 "colours assigned to them."
 msgstr "QGISでは、既存の `` .qml``スタイルが定義されていないときに、新しいレイヤーを描画する方法を制御できます。新しいレイヤーのデフォルトの透明度レベルと、シンボルにランダムな色を割り当てる必要があるかどうかを設定することもできます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:635
+#: ../../source/site/forusers/visualchangelog200/index.rst:637
 msgid "|image46|"
 msgstr "|image46|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:777
+#: ../../source/site/forusers/visualchangelog200/index.rst:779
 msgid "image46"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:638
+#: ../../source/site/forusers/visualchangelog200/index.rst:640
 msgid "User Interface"
 msgstr "ユーザーインターフェース"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:641
+#: ../../source/site/forusers/visualchangelog200/index.rst:643
 msgid "Feature: New icon theme"
 msgstr "機能：新しいアイコンテーマ"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:643
+#: ../../source/site/forusers/visualchangelog200/index.rst:645
 msgid ""
 "We have updated out icon theme to use the 'GIS' theme which introduces an "
 "improved level of consistency and professionalism to the QGIS user "
 "interface."
 msgstr "私たちはQGISのユーザーインターフェイスに一貫性とプロフェッショナリズムのレベルを向上させる「GIS」テーマを使用するためのアイコンテーマを更新しました。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:647
+#: ../../source/site/forusers/visualchangelog200/index.rst:649
 msgid "|image47|"
 msgstr "|image47|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:778
+#: ../../source/site/forusers/visualchangelog200/index.rst:780
 msgid "image47"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:650
+#: ../../source/site/forusers/visualchangelog200/index.rst:652
 msgid "Feature: Side tabs, collapsable groups"
 msgstr "機能：サイドタブ、折りたたみ可能なグループ"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:652
+#: ../../source/site/forusers/visualchangelog200/index.rst:654
 msgid ""
 "We have standardised the layout of tabs and introduced collapsible group "
 "boxes into many of our dialogs to make navigating the various options more "
 "easy, and to make better use of screen real estate."
 msgstr "私たちは、タブのレイアウトを標準化し、折り畳み可能なグループボックスを多くのダイアログに導入し、さまざまなオプションをより簡単にナビゲートし、画面の不動産をより有効に活用しました。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:656
+#: ../../source/site/forusers/visualchangelog200/index.rst:658
 msgid "|image48|"
 msgstr "|image48|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:779
+#: ../../source/site/forusers/visualchangelog200/index.rst:781
 msgid "image48"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:659
+#: ../../source/site/forusers/visualchangelog200/index.rst:661
 msgid "Feature: Soft notifications"
 msgstr "機能：ソフト通知"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:661
+#: ../../source/site/forusers/visualchangelog200/index.rst:663
 msgid ""
 "In many cases we want to tell you something, but we don't want to stop your "
 "work or get in your way. With the new notification system QGIS can let you "
@@ -1254,19 +1262,19 @@ msgid ""
 "from a plugin) too using our python API."
 msgstr "多くの場合、私たちはあなたに何かを伝えたいが、私たちはあなたの仕事をやめて行きたいとは思わない。新しい通知システムでは、QGISは地図キャンバスの上部に表示される黄色のメッセージバーを介して重要な情報を知らせることができますが、何か他のことをしているときにはそれに対処する必要はありません。プログラマーはPython APIを使用しても（プラグインなどから）これらの通知を作成できます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:668
+#: ../../source/site/forusers/visualchangelog200/index.rst:670
 msgid "|image49|"
 msgstr "|image49|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:780
+#: ../../source/site/forusers/visualchangelog200/index.rst:782
 msgid "image49"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:671
+#: ../../source/site/forusers/visualchangelog200/index.rst:673
 msgid "Feature: Application custom font and Qt stylesheet"
 msgstr "機能：アプリケーションのカスタムフォントとQtスタイルシート"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:673
+#: ../../source/site/forusers/visualchangelog200/index.rst:675
 msgid ""
 "The system font used for the application's user interface can now be set. "
 "Any C++ or Python plugin that is a child of the QGIS GUI application or has "
@@ -1275,25 +1283,25 @@ msgid ""
 " widgets, like ``QgsCollapsibleGroupBox``."
 msgstr "アプリケーションのユーザーインターフェイスに使用されるシステムフォントを設定できるようになりました。QGIS GUIアプリケーションの子であるか、アプリケーションのGUIスタイルシートをコピー/適用したC ++またはPythonプラグインは、そのスタイルを継承することができます。これは、プラットフォーム間のGUI修正や、QgsCollapsibleGroupBoxなどのカスタムQGIS Qtウィジェットを使用する場合に便利です。 。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:679
+#: ../../source/site/forusers/visualchangelog200/index.rst:681
 msgid ""
 "The generated QGIS GUI application stylesheet for the current platform can "
 "be accessed after launching with (in PyQGIS):"
 msgstr "現在のプラットフォーム用に生成されたQGIS GUIアプリケーションスタイルシートは、（PyQGISで）起動した後にアクセスできます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:686
+#: ../../source/site/forusers/visualchangelog200/index.rst:688
 msgid "|image50|"
 msgstr "|image50|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:781
+#: ../../source/site/forusers/visualchangelog200/index.rst:783
 msgid "image50"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:689
+#: ../../source/site/forusers/visualchangelog200/index.rst:691
 msgid "Feature: Live color chooser dialogs and buttons"
 msgstr "機能:ライブカラー選択ダイアログとボタン"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:691
+#: ../../source/site/forusers/visualchangelog200/index.rst:693
 msgid ""
 "Every color chooser button throughout the interface has been updated to give"
 " visual feedback on whether the current color has a transparent, or 'alpha,'"
@@ -1304,37 +1312,37 @@ msgid ""
 "the color button and for any item currently being edited, where applicable."
 msgstr "インターフェース全体の各カラーチューザーボタンが更新され、現在の色が透明か、「アルファ」なコンポーネントかを視覚的にフィードバックするようになりました。新しいカラーボタンで開かれたカラーチューザーは、常にオペレーティングシステムのデフォルトになりました。ユーザが ``Options -> General -> Application`` の下で  ``Live-updating color chooserダイアログを使用する`` をチェックしている場合、カラーチューザの変更は、すぐにカラーボタンに表示され現在編集中の項目がある場合は適用されます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:700
+#: ../../source/site/forusers/visualchangelog200/index.rst:702
 msgid "|image51|"
 msgstr "|image51|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:782
+#: ../../source/site/forusers/visualchangelog200/index.rst:784
 msgid "image51"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:703
+#: ../../source/site/forusers/visualchangelog200/index.rst:705
 msgid "Feature: SVG Annotations"
 msgstr "機能:SVG注記"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:705
+#: ../../source/site/forusers/visualchangelog200/index.rst:707
 msgid ""
 "With QGIS 2.0 you can now add SVG annotations to your map - either pinned to"
 " a specific place or in a relative position over the map canvas."
 msgstr "QGIS 2.0を使用すると、マップキャンバス上の特定の場所または相対位置に固定されたSVGアノテーションをマップに追加できるようになりました。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:709
+#: ../../source/site/forusers/visualchangelog200/index.rst:711
 msgid "|image52|"
 msgstr "|image52|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:783
+#: ../../source/site/forusers/visualchangelog200/index.rst:785
 msgid "image52"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:712
+#: ../../source/site/forusers/visualchangelog200/index.rst:714
 msgid "Feature: Drag and drop form builder"
 msgstr "機能：ドラッグアンドドロップフォームビルダ"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:714
+#: ../../source/site/forusers/visualchangelog200/index.rst:716
 msgid ""
 "QGIS 2.0 supports a great new system for creating data entry forms. With the"
 " drag and drop form designer you can create smart looking forms with tabs to"
@@ -1342,19 +1350,19 @@ msgid ""
 "entry experience for your users."
 msgstr "QGIS 2.0は、データ入力フォームを作成するためのすばらしい新しいシステムをサポートしています。ドラッグアンドドロップフォームデザイナーを使用すると、スマートな外観のフォームをタブで作成して、共通フィールドをまとめてグループ化することができます。これで、ユーザーのデータ入力の操作を簡単に制御できます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:719
+#: ../../source/site/forusers/visualchangelog200/index.rst:721
 msgid "|image53|"
 msgstr "|image53|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:784
+#: ../../source/site/forusers/visualchangelog200/index.rst:786
 msgid "image53"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:722
+#: ../../source/site/forusers/visualchangelog200/index.rst:724
 msgid "Feature: Default action tool"
 msgstr "機能：デフォルトのアクションツール"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:724
+#: ../../source/site/forusers/visualchangelog200/index.rst:726
 msgid ""
 "If you are a user of vector layer actions (small tasks that can run when you"
 " click on a feature), you will love the new action tool on the toolbar. With"
@@ -1362,15 +1370,15 @@ msgid ""
 "invoke that action."
 msgstr "ベクターレイヤーアクションのユーザー（機能をクリックしたときに実行できる小さなタスク）は、ツールバーの新しいアクションツールが大好きです。それを使用すると、アクティブなアクションを選択し、そのアクションを呼び出すためにあなたの地物をクリックすることができます。"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:729
+#: ../../source/site/forusers/visualchangelog200/index.rst:731
 msgid "|image54|"
 msgstr "|image54|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:785
+#: ../../source/site/forusers/visualchangelog200/index.rst:787
 msgid "image54"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:731
+#: ../../source/site/forusers/visualchangelog200/index.rst:733
 msgid "image0"
 msgstr ""
 
@@ -1381,20 +1389,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "checkbox_unchecked"
-
-#~ msgid "|image0|"
-#~ msgstr ""
-
-#~ msgid "Changelog for QGIS 2.0.0"
-#~ msgstr ""
-
-#~ msgid ""
-#~ msgstr ""
-
-#~ msgid ""
-#~ "As this is a major release, it is not completely API compatible with "
-#~ "previous 1.x releases. In most cases porting your code should be fairly "
-#~ "straightforward - you can use `this guide <http://hub.qgis.org/wiki/quantum-"
-#~ "gis/Python_plugin_API_changes_from_18_to_20>`__ to get started. Please use "
-#~ "the developer mailing list if you need further help."
-#~ msgstr ""

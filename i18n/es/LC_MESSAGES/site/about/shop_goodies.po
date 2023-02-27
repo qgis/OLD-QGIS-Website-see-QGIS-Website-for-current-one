@@ -1,7 +1,11 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 # Darío Hereñú, 2019
 # David Paez <davpaez@gmail.com>, 2015
+# Eric Armijo, 2022
 # Minerva Durán Martínez <mine_tod@yahoo.com.mx>, 2015
 # Eric Armijo, 2016
 # Rodrigo Armesto Baztán <rodri_Armesto@hotmail.com>, 2019
@@ -9,14 +13,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2015-06-05 13:44+0000\n"
-"Last-Translator: Rodrigo Armesto Baztán <rodri_Armesto@hotmail.com>, 2019\n"
+"Last-Translator: Eric Armijo, 2022\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: es\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
@@ -33,16 +37,16 @@ msgid ""
 msgstr "Si usted es un fan de QGIS, es posible que desee visitar nuestra tienda para que pueda comprar algunos recuerdos para mostrar su SIG de escritorio favorito. Tenemos una serie de grandiosas camisetas, tazas, sudaderas, gorras, etc. por lo ¡pagamos una visita a una de nuestras tiendas de abajo!"
 
 msgid "QGIS mugs"
-msgstr ""
+msgstr "Tazas QGIS"
 
 #: ../../source/site/about/shop_goodies.rst:16
 msgid ""
 "Buying QGIS apparel not only lets you show off the fact that you use QGIS, "
 "for every t-shirt sold a commission is given to the QGIS project."
-msgstr ""
+msgstr "Comprar ropa de QGIS no sólo le permite presumir de que usa QGIS, sino que por cada camiseta vendida se da una comisión al proyecto QGIS."
 
 msgid "QGIS tshirt"
-msgstr ""
+msgstr "Camiseta QGIS"
 
 #: ../../source/site/about/shop_goodies.rst:25
 msgid "Shops"
@@ -56,10 +60,10 @@ msgstr "Cooperamos con Spreadshirt. Producen en la zona y envían los productos 
 
 #: ../../source/site/about/shop_goodies.rst:30
 msgid "https://shop.spreadshirt.net/qgis/"
-msgstr ""
+msgstr "https://shop.spreadshirt.net/qgis/"
 
 msgid "QGIS Hoodie"
-msgstr ""
+msgstr "Sudadera QGIS"
 
 #: ../../source/site/about/shop_goodies.rst:37
 msgid ""
@@ -78,64 +82,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "checkbox_unchecked"
-
-#~ msgid "QGIS shop"
-#~ msgstr ""
-
-#~ msgid "For QGIS"
-#~ msgstr ""
-
-#~ msgid "http://qgis.spreadshirt.co.uk/"
-#~ msgstr ""
-
-#~ msgid "http://qgis.spreadshirt.de/"
-#~ msgstr ""
-
-#~ msgid "http://qgis.spreadshirt.nl/"
-#~ msgstr ""
-
-#~ msgid "http://qgis.spreadshirt.com.au/"
-#~ msgstr ""
-
-#~ msgid "http://qgis.spreadshirt.com/"
-#~ msgstr ""
-
-#~ msgid "http://qgis.spreadshirt.ca/"
-#~ msgstr ""
-
-#~ msgid "Or pick one from here:"
-#~ msgstr ""
-
-#~ msgid "http://www.spreadshirt.net/select-your-region-C8590"
-#~ msgstr ""
-
-#~ msgid "Shop"
-#~ msgstr ""
-
-#~ msgid "Localized shops"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "We co-operate with spreadshirt.com. This services has localized shops around"
-#~ " the world, so choose the store nearest to you to save on shipping costs."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Here is a list of some of the 'shops' around the world, but feel free to try"
-#~ " to find one for you own country, or ask spreadshirt to open one in your "
-#~ "country."
-#~ msgstr ""
-
-#~ msgid "http://shop.spreadshirt.com/qgis/ (US)"
-#~ msgstr ""
-
-#~ msgid "http://shop.spreadshirt.net/qgis/ (Europe)"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Buying QGIS apparrel not only lets you show off the fact that you use QGIS, "
-#~ "for every t-shirt sold a commision is given to the QGIS project."
-#~ msgstr ""
-
-#~ msgid "http://shop.spreadshirt.net/qgis/"
-#~ msgstr ""

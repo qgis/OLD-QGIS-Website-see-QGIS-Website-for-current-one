@@ -1,18 +1,22 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 # DiGro, 2015-2016,2019
+# DiGro, 2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2015-02-28 18:29+0000\n"
-"Last-Translator: DiGro, 2015-2016,2019\n"
+"Last-Translator: DiGro, 2022\n"
 "Language-Team: Dutch (http://www.transifex.com/qgis/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -21,17 +25,21 @@ msgid "Changelog for QGIS 2.8"
 msgstr "Log met wijzigingen voor QGIS 2.8"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:7
+msgid "Release date: 2015-02-20"
+msgstr "Datum uitgave 20-02-2015"
+
+#: ../../source/site/forusers/visualchangelog28/index.rst:9
 msgid ""
 "This is the change log for the next release of QGIS - version 2.8 ' Wien'. "
 "Wien is German for 'Vienna' - host city to our developer meet up in November"
 " 2009 and again in March 2014."
 msgstr "Dit is het log met wijzigingen voor de volgende uitgave van QGIS - versie 2.8 ' Wien'. Wien is Duits voor 'Wenen' - gastheer voor de ontmoeting van de ontwikkelaars in november 2009 en opnieuw in maart 2014."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:9
+#: ../../source/site/forusers/visualchangelog28/index.rst:11
 msgid "**Long Term Release**"
 msgstr "**Long Term Release**"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:11
+#: ../../source/site/forusers/visualchangelog28/index.rst:13
 msgid ""
 "This is a special release since it is designated an 'LTR' (Long Term "
 "Release). LTR releases will be supported with backported bug fixes for one "
@@ -39,7 +47,7 @@ msgid ""
 "added, only bug fixes and trivial updates)."
 msgstr "Dit  is een speciale uitgave omdat het is aangewezen als een 'LTR' (Long Term Release). LTR-uitgaven zullen worden ondersteund met achterwaarts ondersteunende probleemoplossingen voor één jaar, en zullen een permanente bevriezingsfase hebben (d.i. er zullen geen nieuwe mogelijkheden worden toegevoegd, alleen probleemoplossingen en kleinere updates)."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:13
+#: ../../source/site/forusers/visualchangelog28/index.rst:15
 msgid ""
 "The purpose of LTR releases is to provide a stable and less frequently "
 "changing platform for enterprises and organisations that do not want to deal"
@@ -51,7 +59,7 @@ msgid ""
 "branch."
 msgstr "Het doel van LTR-uitgaven is om een stabiel en minder vaak wijzigend platform te verschaffen voor bedrijven en organisaties die zich niet meer dan eenmaal per jaar willen bezighouden met het bijscholen van gebruikers, trainingsmateriaal etc.  Het succes van de LTR hangt heel veel van u, onze geliefde gebruikers, af, we hebben uw ondersteuning nodig om ons probleemoplossingen aan te reiken en er voor zorgend dat u in uw ondersteuningscontracten met verleners van ondersteuning specificeert dat probleemoplossingen die voor u worden toegepast ook worden toegepast op de tak van de LTR als ook op onze normale takken voor ontwikkeling."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:15
+#: ../../source/site/forusers/visualchangelog28/index.rst:17
 msgid ""
 "If an LTR is important to you, please consider also directly supporting the "
 "QGIS project, or encourage your commercial provider to use LTR as a basis "
@@ -61,128 +69,128 @@ msgid ""
 "monthly releases will continue unabated."
 msgstr "Als een LTR belangrijk voor u is, overweeg dan ook directe ondersteuning voor het project QGIS, of moedig uw zakelijke dienstverlener aan om de LTR als basis te gebruiken voor uw zakelijke oplossing zodat iedereen kan profiteren van een stabiel platform dat doorlopend wordt verbeterd en verfijnd. Onthoud dat voor gebruikers en organisaties die graag de grenzen verkennen, onze viermaandelijkse uitgaven ongewijzigd door blijven gaan."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:17
+#: ../../source/site/forusers/visualchangelog28/index.rst:19
 msgid "**New Features**"
 msgstr "**Nieuwe mogelijkheden**"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:19
+#: ../../source/site/forusers/visualchangelog28/index.rst:21
 msgid ""
 "QGIS 2.8 is also a special release because it includes so many great new "
 "features, tweaks and enhancements to make the most popular Free desktop GIS "
 "even more feature filled and useful."
 msgstr "QGIS 2.8 is ook een speciale uitgave omdat het zoveel fantastische nieuwe mogelijkheden bevat, wijzigingen en verbeteringen om het het meest populaire vrije desktop GIS te maken, zelfs meer gevuld met mogelijkheden en nuttig."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:21
+#: ../../source/site/forusers/visualchangelog28/index.rst:23
 msgid ""
 "Whenever new features are added to software they introduce the possibility "
 "of new bugs - if you encounter any problems with this release, please file a"
 " ticket `on the QGIS Bug Tracker <http://hub.qgis.org>`_."
 msgstr "Wanneer aan software nieuwe mogelijkheden worden toegevoegd introduceren die de mogelijkheid tot het ontstaan van nieuwe problemen - als u in deze uitgave nieuwe problemen tegenkomt, vul dan een ticket in `op de QGIS Bug Tracker <http://hub.qgis.org>`_."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:23
+#: ../../source/site/forusers/visualchangelog28/index.rst:25
 msgid "**Thanks**"
 msgstr "**Dankwoord**"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:25
+#: ../../source/site/forusers/visualchangelog28/index.rst:27
 msgid ""
 "We would like to thank the developers, documenters, testers and all the many"
 " folks out there who volunteer their time and effort (or fund people to do "
 "so)."
 msgstr "We willen de ontwikkelaars, schrijvers van documentatie, testers en alle andere vele mensen bedanken die vrijwillig hun tijd en inspanningen bijdragen (of mensen ondersteunen om dat te doen)."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:29
+#: ../../source/site/forusers/visualchangelog28/index.rst:31
 msgid ""
 "From the QGIS community we hope you enjoy this release! If you wish to "
 "donate time, money or otherwise get involved in making QGIS more awesome, "
 "please wander along to `qgis.org <https://qgis.org>`_ and lend a hand!"
 msgstr "Vanuit de gemeenschap van QGIS hopen we dat u van deze uitgave zult genieten! Als u tijd of geld wilt doneren of op een andere wijze betrokken wilt zijn in het opwaarderen van QGIS, kijk dan ook eens op `qgis.org <https://qgis.org>`_ en help een handje!"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:34
+#: ../../source/site/forusers/visualchangelog28/index.rst:36
 msgid ""
 "Finally we would like to thank our official sponsors for the invaluable "
 "financial support they provide to this project:"
 msgstr "Tenslotte willen we onze officiële sponsoren bedanken voor de onschatbare financiële ondersteuning die zij aan dit project verlenen:"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:37
+#: ../../source/site/forusers/visualchangelog28/index.rst:39
 msgid "**GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"
 msgstr "**GOUDEN sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:39
+#: ../../source/site/forusers/visualchangelog28/index.rst:41
 msgid ""
 "SILVER Sponsor: `Sourcepole AG, Switzerland <http://www.sourcepole.com/>`_"
 msgstr "ZILVEREN sponsor: `Sourcepole AG, Switzerland <http://www.sourcepole.com/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:40
+#: ../../source/site/forusers/visualchangelog28/index.rst:42
 msgid ""
 "SILVER Sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_"
 msgstr "ZILVEREN sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:41
+#: ../../source/site/forusers/visualchangelog28/index.rst:43
 msgid ""
 "SILVER Sponsor: `Office of Public Works, Ireland, Ireland "
 "<http://www.opw.ie/>`_"
 msgstr "ZILVEREN sponsor: `Office of Public Works, Ireland, Ireland <http://www.opw.ie/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:43
+#: ../../source/site/forusers/visualchangelog28/index.rst:45
 msgid "BRONZE Sponsor: `GIS3W, Italy <http://www.gis3w.it/>`_"
 msgstr "BRONZEN Sponsor: `GIS3W, Italië <http://www.gis3w.it/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:44
+#: ../../source/site/forusers/visualchangelog28/index.rst:46
 msgid "BRONZE Sponsor: `www.molitec.it, Italy <http://www.molitec.it/>`_"
 msgstr "BRONZEN sponsor: `www.molitec.it, Italy <http://www.molitec.it/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:45
+#: ../../source/site/forusers/visualchangelog28/index.rst:47
 msgid "BRONZE Sponsor: `www.argusoft.de, Germany <http://www.argusoft.de>`_"
 msgstr "BRONZEN sponsor: `www.argusoft.de, Germany <http://www.argusoft.de>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:46
+#: ../../source/site/forusers/visualchangelog28/index.rst:48
 msgid ""
 "BRONZE Sponsor: `www.openrunner.com, France <http://www.openrunner.com>`_"
 msgstr "BRONZEN sponsor: `www.openrunner.com, France <http://www.openrunner.com>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:47
+#: ../../source/site/forusers/visualchangelog28/index.rst:49
 msgid ""
 "BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "
 "<http://www.gkg-kassel.de/>`_"
 msgstr "BRONZEN sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Duitsland <http://www.gkg-kassel.de/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:48
+#: ../../source/site/forusers/visualchangelog28/index.rst:50
 msgid ""
 "BRONZE Sponsor: `Customer Analytics, USA "
 "<http://www.customeranalytics.com/>`_"
 msgstr "BRONZEN sponsor: `Customer Analytics, USA <http://www.customeranalytics.com/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:49
+#: ../../source/site/forusers/visualchangelog28/index.rst:51
 msgid "BRONZE Sponsor: `Urbsol, Australia <http://www.urbsol.com.au/>`_"
 msgstr "BRONZEN sponsor: `Urbsol, Australia <http://www.urbsol.com.au/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:50
+#: ../../source/site/forusers/visualchangelog28/index.rst:52
 msgid "BRONZE Sponsor: `MappingGIS, Spain <http://www.mappinggis.com/>`_"
 msgstr "BRONZEN sponsor: `MappingGIS, Spain <http://www.mappinggis.com/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:51
+#: ../../source/site/forusers/visualchangelog28/index.rst:53
 msgid ""
 "BRONZE Sponsor: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
 msgstr "BRONZEN sponsor: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:52
+#: ../../source/site/forusers/visualchangelog28/index.rst:54
 msgid "BRONZE Sponsor: `ADLARES GmbH, Germany <http://www.adlares.com/>`_"
 msgstr "BRONZEN sponsor: `ADLARES GmbH, Germany <http://www.adlares.com/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:53
+#: ../../source/site/forusers/visualchangelog28/index.rst:55
 msgid ""
 "BRONZE Sponsor: `Avioportolano Italia, Italy "
 "<http://www.avioportolano.it/>`_"
 msgstr "BRONZEN sponsor: `Avioportolano Italia, Italy <http://www.avioportolano.it/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:54
+#: ../../source/site/forusers/visualchangelog28/index.rst:56
 msgid ""
 "BRONZE Sponsor: `Faculty of Geology, Geophysics and Environmental "
 "Protection, AGH, ​University of Science and Technology, Poland "
 "<http://www.wggios.agh.edu.pl/en>`_"
 msgstr "BRONZEN sponsor: `Faculty of Geology, Geophysics and Environmental Protection, AGH, ​University of Science and Technology, Poland <http://www.wggios.agh.edu.pl/en>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:56
+#: ../../source/site/forusers/visualchangelog28/index.rst:58
 msgid ""
 "A current list of donors who have made financial contributions large and "
 "small to the project can be seen on our `donors list "
@@ -194,7 +202,7 @@ msgid ""
 "maintain project infrastructure and fund bug fixing efforts."
 msgstr "Een huidige lijst van doneren die grote en kleine bijdragen hebben gegeven aan het project kan worden bekeken op onze `lijst van donoren <https://qgis.org/nl/site/about/sponsorship.html#list-of-donors>`_. Als u een officiële sponsor voor het project zou willen worden, bekijk dan `onze pagina om te sponsoren <https://qgis.org/nl/site/about/sponsorship.html#sponsorship>`_ voor de details. Sponsoren van QGIS helpt ons om fonds te verkrijgen voor onze halfjaarlijkse ontmoetingen van ontwikkelaars, de infrastructuur van het project te onderhouden en inspanningen voor het oplossen van problemen te financieren."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:65
+#: ../../source/site/forusers/visualchangelog28/index.rst:67
 msgid ""
 "If you enjoy using QGIS, please consider making a donation to support the "
 "project - either `financial "
@@ -207,7 +215,7 @@ msgid ""
 "the best possible releases."
 msgstr "Als u geniet van het gebruiken van QGIS, overweeg dan eens om een donatie te geven om het project te ondersteunen - ofwel `financieel <https://qgis.org/nl/site/getinvolved/donations.html>`_ of van `uw tijd en vaardigheden <https://qgis.org/nl/site/getinvolved/index.html>`_! Tenslotte willen we even stilstaan om u aan te moedigen bij te dragen aan een `speciale campagne <http://blog.vitu.ch/10102014-1046/crowdfunding-initiative-automated-testing>`_ door één van onze ontwikkelaars van QGIS om een werkende testsuite voor QGIS te krijgen zodat we onze processen voor het verbeteren van de kwaliteit kunnen verbeteren en u de best mogelijke uitgaven kunnen geven."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:75
+#: ../../source/site/forusers/visualchangelog28/index.rst:77
 msgid ""
 "QGIS is Free software and you are under no obligation to pay anything to use"
 " it - in fact we want to encourage people far and wide to use it regardless "
@@ -216,40 +224,40 @@ msgid ""
 "of humanity."
 msgstr "QGIS is gratis software en u bent niet verplicht om maar iets te betalen voor het gebruiken ervan - in feite willen we mensen, wijd en zijd verspreid, aanmoedigen om het te gebruiken ongeacht uw financiële of sociale status - wij geloven dat het uitrusten van mensen met gereedschappen voor het maken van ruimtelijke beslissingen zal resulteren in een betere wereld voor de gehele mensheid."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:85
+#: ../../source/site/forusers/visualchangelog28/index.rst:87
 msgid "General"
 msgstr "Algemeen"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:88
+#: ../../source/site/forusers/visualchangelog28/index.rst:90
 msgid "Feature: Enter expressions into spin boxes"
 msgstr "Mogelijkheid: Expressies invoeren in draaivelden"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:90
+#: ../../source/site/forusers/visualchangelog28/index.rst:92
 msgid ""
 "When editing attributes in the **attribute table or forms**, you can now "
 "enter expressions directly into spin boxes, e.g. ``5 * 2.5`` and they will "
 "be automatically evaluated."
 msgstr "Bij het bewerken van attributen in de **attributentabel of formulieren**, kunt u nu direct expressies invoeren in draaivelden, bijv. ``5 * 2.5`` en zij zullen automatisch worden geëvalueerd."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:98
+#: ../../source/site/forusers/visualchangelog28/index.rst:100
 msgid "Feature: Bookmarks can be imported/exported"
 msgstr "Mogelijkheid: Favoriete plaatsen kunnen worden geïmporteerd/geëxporteerd"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:100
+#: ../../source/site/forusers/visualchangelog28/index.rst:102
 msgid ""
 "It is now possible to save / load your bookmarks to a file. This makes it "
 "easy to share bookmarked locations, or transfer them between computers."
 msgstr "Het is nu mogelijk om uw Favoriete plaatsen naar/vanuit een bestand op te slaan/te laden. Dit maakt het eenvoudiger om locaties van Favoriete plaatsen te delen, of ze tussen computers uit te wisselen."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:102
+#: ../../source/site/forusers/visualchangelog28/index.rst:104
 msgid "**This feature was developed by:** Salvatore Larosa"
 msgstr "**Deze mogelijkheid werd ontwikkeld door:** Salvatore Larosa"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:109
+#: ../../source/site/forusers/visualchangelog28/index.rst:111
 msgid "Feature: Improvements to expressions"
 msgstr "Mogelijkheid: Verbeteringen aan expressies"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:111
+#: ../../source/site/forusers/visualchangelog28/index.rst:113
 msgid ""
 "**Integer division produces a double when required**: Previously dividing "
 "two integers in an expression would always result in an integer value, i.e. "
@@ -259,36 +267,36 @@ msgid ""
 " 2``."
 msgstr "**Delen van een integer produceert een double indien vereist**: Eerder zou het delen van twee integers integers in een expressie altijd resulteren in een waarde integer, d.i. ``5 / 2 = 2``. Nu zal het resultaat, indien vereist, altijd een double zijn, dus ``5 / 2 = 2.5``, wat veel meer wordt verwacht door gebruikers. Een nieuwe operator voor het delen van integer - ``//`` is toegevoegd om het oude gedrag na te bootsen, d.i. ``5 // 2 = 2``."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:112
+#: ../../source/site/forusers/visualchangelog28/index.rst:114
 msgid ""
 "**New 'if()' function**: There is now a new ``if(cond, true, false)`` "
 "expression"
 msgstr "**Nieuwe functie 'if()'**: Er is nu een nieuwe expressie ``if(cond, true, false)``"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:113
+#: ../../source/site/forusers/visualchangelog28/index.rst:115
 msgid "**Lazy evaluation for expressions**"
 msgstr "**Trage evaluatie van expressies**"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:114
+#: ../../source/site/forusers/visualchangelog28/index.rst:116
 msgid ""
 "**Added get and transform geometry**: These new keywords can be used with "
 "``getFeature`` for some geometry tests like intersects, crosses, contains, "
 "etc."
 msgstr "**Geometrie verkrijgen en transformeren toegevoegd**: Deze nieuwe sleutelwoorden kunnen worden gebruikt met ``getFeature`` voor enkele testen van geometrie zoals intersects, crosses, contains, etc."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:115
+#: ../../source/site/forusers/visualchangelog28/index.rst:117
 msgid "``geometry`` - returns the feature's geometry"
 msgstr "``geometry`` - geeft de geometrie van het object terug"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:116
+#: ../../source/site/forusers/visualchangelog28/index.rst:118
 msgid "``transform`` - returns the transformed geometry"
 msgstr "``transform`` - geeft de getransformeerde geometrie terug"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:123
+#: ../../source/site/forusers/visualchangelog28/index.rst:125
 msgid "Feature: Continuous testing framework and QA improvements"
 msgstr "Mogelijkheid: Doorlopend framework voor testen en verbeteringen in QA"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:125
+#: ../../source/site/forusers/visualchangelog28/index.rst:127
 msgid ""
 "In our ongoing quest to improve the stability and quality of QGIS, every "
 "commit is now tested against a growing test suite to identify regressions "
@@ -299,7 +307,7 @@ msgid ""
 " or updated."
 msgstr "In onze doorlopende zoektocht naar het verbeteren van de stabiliteit en kwaliteit van QGIS, wordt elke bijdrage nu getest tegen een groeiende testsuite om regressies automatisch te identificeren. In de afbeelding rechts ziet u in de lijst met inkomende pull requests op onze pagina van GitHub page dat zij nu automatisch geannoteerd met een vinkje of een kruis, gebaseerd op of onze testsuite al dan niet succesvol werd uitgevoerd op `Travis.ci <https://travis-ci.org/qgis/QGIS>`_ toen het pull request werd gemaakt of werd bijgewerkt."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:127
+#: ../../source/site/forusers/visualchangelog28/index.rst:129
 msgid ""
 "We are also now regularly performing Coverity scans of QGIS codebase. As a "
 "result of this, we have identified and fixed over 1000 flagged issues, "
@@ -307,15 +315,15 @@ msgid ""
 "0.01 wheras the average for programs of similar size is about 1.0."
 msgstr "We voeren nu ook regelmatig Coverity-scans uit op de codebasis van QGIS. Als resultaat hiervan hebben we meer dan 1000 gevlagde problemen geïdentificeerd en opgelost, inclusief lekken in het geheugen en potentiële crashes. QGIS heeft een dichtheid voor defecten van 0.01 waar het gemiddelde, voor programma's met een soortgelijke grootte, ongeveer 1.0 is."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:135
+#: ../../source/site/forusers/visualchangelog28/index.rst:137
 msgid "Analysis tools"
 msgstr "Analyse-gereedschap"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:138
+#: ../../source/site/forusers/visualchangelog28/index.rst:140
 msgid "Feature: Measure dialog improvements"
 msgstr "Mogelijkheid: Verbeteringen aan dialoogvenster Meten"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:140
+#: ../../source/site/forusers/visualchangelog28/index.rst:142
 msgid ""
 "The measure tool has been improved so that you can now select which units "
 "should be used in the measure dialog. There is also a new info section in "
@@ -323,15 +331,15 @@ msgid ""
 "calculations."
 msgstr "Het gereedschap voor meten is verbeterd zodat u nu kunt kiezen welke eenheden in het dialoogvenster meten zouden moeten worden gebruikt. Er is ook een nieuw gedeelte informatie in het dialoogvenster dat weergeeft welke instellingen worden gebruikt gedurende de berekeningen van de metingen."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:147
+#: ../../source/site/forusers/visualchangelog28/index.rst:149
 msgid "Browser"
 msgstr "Browser"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:150
+#: ../../source/site/forusers/visualchangelog28/index.rst:152
 msgid "More responsive browser"
 msgstr "Meer responderende browser"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:152
+#: ../../source/site/forusers/visualchangelog28/index.rst:154
 msgid ""
 "In the QGIS Browser items are now expanded in their own threads, speeding up"
 " the load time of the browser and making the browser more responsive. "
@@ -341,19 +349,19 @@ msgid ""
 "is restored on startup."
 msgstr "In de QGIS Browser worden items nu in hun eigen threads uitgevouwen, wat de tijd voor laden van de browser versnelt en de browser meer reagerend maakt. Navigeren door bronnen van PostGIS is nu veel sneller in de browser. De geanimeerde schermafbeelding rechts (klik op de afbeelding om de animatie te zien) geeft het laden van twee trage servers van WMS parallel weer. De status van de browser (uitbreiding boom) wordt hersteld bij opstarten."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:155
+#: ../../source/site/forusers/visualchangelog28/index.rst:157
 msgid "**This feature was developed by:** Radim Blazek"
 msgstr "**Deze mogelijkheid werd ontwikkeld door:** Radim Blazek"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:162
+#: ../../source/site/forusers/visualchangelog28/index.rst:164
 msgid "Data Providers"
 msgstr "Gegevensproviders"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:165
+#: ../../source/site/forusers/visualchangelog28/index.rst:167
 msgid "Feature: Support for contextual WMS legend graphics"
 msgstr "Mogelijkheid: Ondersteuning voor contextuele afbeeldingen van legenda's van WMS"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:167
+#: ../../source/site/forusers/visualchangelog28/index.rst:169
 msgid ""
 "If your WMS server supports contextual legends, you can make use of them in "
 "QGIS now too. Contextual legends are getLegendGraphic requests which return "
@@ -361,64 +369,64 @@ msgid ""
 "include legend items for things you can't see in the current map."
 msgstr "Als uw server van WMS contextuele legenda's ondersteunt, kunt u daar nu ook in QGIS gebruik van maken. Contextuele legenda's zijn verzoeken getLegendGraphic die alleen de relevante legenda voor uw huidig bereik van de weergave teruggeven, en dus geen items voor de legenda bevatten voor dingen die u in de huidige kaart niet kunt zien."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:169
-#: ../../source/site/forusers/visualchangelog28/index.rst:469
+#: ../../source/site/forusers/visualchangelog28/index.rst:171
+#: ../../source/site/forusers/visualchangelog28/index.rst:471
 msgid ""
 "**This feature was funded by:** `Regione Toscana "
 "<http://www.regione.toscana.it/>`_"
 msgstr "**Dit werd mogelijk gemaakt door:** `Regione Toscana <http://www.regione.toscana.it/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:171
-#: ../../source/site/forusers/visualchangelog28/index.rst:498
+#: ../../source/site/forusers/visualchangelog28/index.rst:173
+#: ../../source/site/forusers/visualchangelog28/index.rst:500
 msgid ""
 "**This feature was developed by:** `Faunalia <http://www.faunalia.eu/>`_"
 msgstr "**Deze mogelijkheid werd ontwikkeld door:** `Faunalia <http://www.faunalia.eu/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:178
+#: ../../source/site/forusers/visualchangelog28/index.rst:180
 msgid "Data management"
 msgstr "Gegevensbeheer"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:181
+#: ../../source/site/forusers/visualchangelog28/index.rst:183
 msgid "Feature: Custom prefix for joins"
 msgstr "Mogelijkheid: Aangepast voorvoegsel voor joins"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:183
+#: ../../source/site/forusers/visualchangelog28/index.rst:185
 msgid ""
 "You can now define a custom prefix in the joins manager in the layer "
 "properties dialog. When using a prefix, the attribute table in will show "
 "joined attribute names with your preferred prefix."
 msgstr "U kunt nu een aangepast voorvoegsel definiëren in het beheer van joins in het dialoogvenster Laag-eigenschappen. Bij het gebruiken van een voorvoegsel, zal de attributentabel nu namen van samengevoegde attributen weergeven met het voorvoegsel van uw voorkeur."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:190
+#: ../../source/site/forusers/visualchangelog28/index.rst:192
 msgid "Feature: Support for creation of temporary memory layers"
 msgstr "Mogelijkheid: Ondersteuning voor het maken van tijdelijke geheugenlagen"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:192
+#: ../../source/site/forusers/visualchangelog28/index.rst:194
 msgid ""
 "This release add support for creating new temporary scratch layers within "
 "QGIS core. Scratch layers can be created in the ``Layer --> Create layer -->"
 " New Temporary Scratch Layer`` menu option."
 msgstr "Deze uitgave voegt ondersteuning toe voor het maken van nieuwe tijdelijke tekenlagen binnen de bron van QGIS. Tekenlagen kunnen worden gemaakt via de menuoptie ``Kaartlagen --> Laag maken --> Nieuwe tijdelijke tekenlaag``."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:199
+#: ../../source/site/forusers/visualchangelog28/index.rst:201
 msgid "Feature: Support for calculations on selected rows"
 msgstr "Mogelijkheid: Ondersteuning voor berekeningen op geselecteerde rijen"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:201
+#: ../../source/site/forusers/visualchangelog28/index.rst:203
 msgid ""
 "In the attribute table you can now do calculations on selected rows only "
 "thanks to the new button added to the field calculator bar."
 msgstr "In de attributentabel kunt u nu berekeningen doen op alleen de geselecteerde rijen dankzij de nieuwe knop die is toegevoegd op de balk Veldberekening."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:208
+#: ../../source/site/forusers/visualchangelog28/index.rst:210
 msgid "Digitising"
 msgstr "Digitaliseren"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:211
+#: ../../source/site/forusers/visualchangelog28/index.rst:213
 msgid "Feature: Advanced digitizing tools"
 msgstr "Mogelijkheid: Gereedschap Geavanceerd digitaliseren"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:213
+#: ../../source/site/forusers/visualchangelog28/index.rst:215
 msgid ""
 "If you ever wished you could digitise lines exactly parallel or at right "
 "angles, lock lines to specific angles and so on in QGIS, now you can! The "
@@ -427,64 +435,64 @@ msgid ""
 "geometry parts"
 msgstr "Indien u ooit wilde dat u  in QGIS lijnen kon digitaliseren exact parallel of in rechte hoeken, lijnen zou kunnen vastzetten onder specifieke hoeken, enzovoort, nu kunt u dat! Het gereedschap Geavanceerd digitaliseren is een port van de plug-in CADinput en voegt een nieuw paneel toe aan QGIS. Het paneel wordt actief bij het vastleggen van nieuwe geometrieën of delen van geometrieén"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:220
+#: ../../source/site/forusers/visualchangelog28/index.rst:222
 msgid "Feature: Improved simplify tool"
 msgstr "Mogelijkheid: Verbeterd gereedschap Vereenvoudigen"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:222
+#: ../../source/site/forusers/visualchangelog28/index.rst:224
 msgid "The simplify tool has been overhauled, adding:"
 msgstr "Het gereedschap vereenvoudigen is bewerkt, toegevoegd:"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:224
+#: ../../source/site/forusers/visualchangelog28/index.rst:226
 msgid "OTF reprojection support"
 msgstr "ondersteuning voor opnieuw projecteren van OTF"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:225
+#: ../../source/site/forusers/visualchangelog28/index.rst:227
 msgid "user can specify exact tolerance (not just non-sense relative value)"
 msgstr "gebruiker kan de exacte tolerantie specificeren (niet slechts onzinnige relatieve waarde)"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:226
+#: ../../source/site/forusers/visualchangelog28/index.rst:228
 msgid ""
 "tolerance can be specified either in map units or layer units or pixels"
 msgstr "tolerantie mag worden gespecificeerd in of kaarteenheden, laageenheden of pixels"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:227
+#: ../../source/site/forusers/visualchangelog28/index.rst:229
 msgid "tolerance settings are stored in settings"
 msgstr "instellingen voor tolerantie worden opgeslagen in de instellingen"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:228
+#: ../../source/site/forusers/visualchangelog28/index.rst:230
 msgid ""
 "simplify multiple features at once (drag a rectangle instead of just "
 "clicking)"
 msgstr "meerdere objecten in één keer vereenvoudigen (sleep een rechthoek in plaats van slechts te klikken)"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:229
+#: ../../source/site/forusers/visualchangelog28/index.rst:231
 msgid "support for multi-part features"
 msgstr "ondersteuning voor meerdelige objecten"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:230
+#: ../../source/site/forusers/visualchangelog28/index.rst:232
 msgid "statistics about reduction of the number of vertices"
 msgstr "statistieken over de reductie van het aantal punten"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:232
+#: ../../source/site/forusers/visualchangelog28/index.rst:234
 msgid ""
 "**This feature was funded by:** `Tracks for Africa "
 "<http://tracks4africa.com/>`_"
 msgstr "**Dit werd mogelijk gemaakt door:** `Tracks for Africa <http://tracks4africa.com/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:234
-#: ../../source/site/forusers/visualchangelog28/index.rst:263
+#: ../../source/site/forusers/visualchangelog28/index.rst:236
+#: ../../source/site/forusers/visualchangelog28/index.rst:265
 msgid ""
 "**This feature was developed by:** `Lutra Consulting "
 "<http://www.lutraconsulting.co.uk/>`_ in cooperation with  `Kartoza "
 "<http://kartoza.com/>`_"
 msgstr "**Deze mogelijkheid werd ontwikkeld door:** `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_ in samenwerking met  `Kartoza <http://kartoza.com/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:241
+#: ../../source/site/forusers/visualchangelog28/index.rst:243
 msgid "Feature: Snapping improvements"
 msgstr "Mogelijkheid: Verbeteringen voor snappen"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:243
+#: ../../source/site/forusers/visualchangelog28/index.rst:245
 msgid ""
 "There is a new snapping mode : **snap to all layers** which makes it quick "
 "to enable snapping between all layers. Also the underlying snapping "
@@ -495,28 +503,28 @@ msgid ""
 "tolerances without you knowing."
 msgstr "er is een nieuwe modus voor snappen : **snappen aan alle lagen** wat het inschakelen van snappen tussen alle lagen sneller maakt. ook is de onderliggende architectuur voor snappen in QGIS bijgewerkt wat snappen op grotere projecten sneller maakt en de precisie waarmee snappen wordt uitgevoerd verbeterd. ​Er is ook minder verwarring tussen toleranties voor snappen in kaarteenheden of laageenheden, dus de verwachte toleranties van 1 meter worden geen toleranties van 1 graad zonder dat u dat weet."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:245
+#: ../../source/site/forusers/visualchangelog28/index.rst:247
 msgid ""
 "**This feature was funded by:** ` Ville de Vevey, SITNyon "
 "<http://www.vevey.ch/>`_ and `QGIS Usergroup Switzerland "
 "<http://www.qgis.ch/>`_"
 msgstr "**Dit werd mogelijk gemaakt door:** ` Ville de Vevey, SITNyon <http://www.vevey.ch/>`_ en `QGIS Usergroup Switzerland <http://www.qgis.ch/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:247
+#: ../../source/site/forusers/visualchangelog28/index.rst:249
 msgid ""
 "**This feature was developed by:** `Lutra Consulting "
 "<http://www.lutraconsulting.co.uk/>`_"
 msgstr "**Deze mogelijkheid werd ontwikkeld door:** `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:254
+#: ../../source/site/forusers/visualchangelog28/index.rst:256
 msgid "Layer Legend"
 msgstr "Legenda van laag "
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:257
+#: ../../source/site/forusers/visualchangelog28/index.rst:259
 msgid "Feature: Show rule-based renderer's legend as a tree"
 msgstr "Mogelijkheid: Legenda van Regel gebaseerde-renderer las een boom weergeven"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:259
+#: ../../source/site/forusers/visualchangelog28/index.rst:261
 msgid ""
 "Advanced users who leverage QGIS's rule based renderer system will be "
 "pleased to see that the rules are now presented as a tree in the legend. "
@@ -525,19 +533,19 @@ msgid ""
 " in your map."
 msgstr "Gevorderde gebruikers die gebruiken maken van het systeem van Regel-gebaseerde-renderer in QGIS zullen blij zijn te zien dat de regels nu worden gepresenteerd als een boom in de Legenda. Beter nog, elke knoop in de **boom** kan individueel worden **in/uit geschakeld** wat grote flexibiliteit verschaft voor hoe sublagen worden gerenderd in uw kaart."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:261
+#: ../../source/site/forusers/visualchangelog28/index.rst:263
 msgid "**This feature was funded by:** `SIGE <http://www.sige.ch/>`_"
 msgstr "**Dit werd mogelijk gemaakt door:** `SIGE <http://www.sige.ch/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:270
+#: ../../source/site/forusers/visualchangelog28/index.rst:272
 msgid "Map Composer"
 msgstr "Printvormgeving"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:273
+#: ../../source/site/forusers/visualchangelog28/index.rst:275
 msgid "Feature: Composer GUI Improvements"
 msgstr "Mogelijkheid: Verbeteringen GUI Printvormgeving"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:275
+#: ../../source/site/forusers/visualchangelog28/index.rst:277
 msgid ""
 "View menu option to **hide bounding boxes**. This allows users to hide the "
 "bounding boxes for selected items within a composition. It's a handy feature"
@@ -546,11 +554,11 @@ msgid ""
 "view."
 msgstr "Menuoptie voor weergave om **begrenzingsvakken te verbergen**. Dit stelt gebruikers in staat de begrenzingsvakken van in de compositie geselecteerde items te verbergen. Het is een handige mogelijkheid voor het toestaan van interactie met items terwijl de voorvertoning exact laat zien hoe ze eruit komen te zien wanneer de compositie wordt geëxporteerd, zonder dat grote blokken de weergave blokkeren."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:276
+#: ../../source/site/forusers/visualchangelog28/index.rst:278
 msgid "**Full screen mode for composer**"
 msgstr "**Modus Volledig scherm voor Printvormgeving**"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:277
+#: ../../source/site/forusers/visualchangelog28/index.rst:279
 msgid ""
 "Option to **toggle display of panels** in composer, available by both the "
 "``view menu``, using the shortcut ``F10`` and by pressing ``Tab`` when the "
@@ -558,11 +566,11 @@ msgid ""
 "planning a map layout."
 msgstr "Optie om **de weergave van panelen in/uit te schakelen** in Printvormgeving, beschikbaar in zowel het ``menu Beeld``, met behulp van de sneltoets ``F10`` en door op ``Tab`` te drukken wanneer het kaartvenster in printvormgeving is geselecteerd. Het is nuttig voor het maximaliseren van de ruimte bij het plannen van een lay-out voor een kaart."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:284
+#: ../../source/site/forusers/visualchangelog28/index.rst:286
 msgid "Feature: Grid improvements"
 msgstr "Mogelijkheid: Verbeteringen voor raster"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:286
+#: ../../source/site/forusers/visualchangelog28/index.rst:288
 msgid ""
 "In the composer you now have finer control of frame and annotation display. "
 "Previously, for rotated maps or reprojected grids, the composer would draw "
@@ -573,18 +581,18 @@ msgid ""
 "frame is divided."
 msgstr "In de Printvormgeving heeft u nu fijnere controle over de weergave van frame en annotatie. Eerder zou, voor geroteerde kaarten of opnieuw geprojecteerde rasters, de Printvormgeving alle coördinaten voor elke zijde van de kaart tekenen. Dit resulteerde in een weergave van mix van latitude/Y- en longitude/X-coördinaten op één kant. Nu kunt u beheren of u alle coördinaten, alleen latitude of alleen longitude wilt voor elke kant van het kaartframe. Soortgelijke opties zijn ook toegevoegd voor het beheren van hoe een frame voor het kaartraster zal worden opgedeeld."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:289
+#: ../../source/site/forusers/visualchangelog28/index.rst:291
 msgid ""
 "New vertical descending direction for annotations. This change adds a new "
 "descending vertical direction mode for map grid annotations. Previously only"
 " ascending text was supported for vertical annotations."
 msgstr "Nieuwe verticale aflopende richting voor annotaties. Deze wijziging voegt een nieuwe modus aflopende verticale richting toe voor annotaties in het kaartraster. Eerder werd alleen oplopende tekst ondersteund voor verticale annotaties."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:297
+#: ../../source/site/forusers/visualchangelog28/index.rst:299
 msgid "Feature: Label item margins"
 msgstr "Mogelijkheid: Marges voor items Label"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:299
+#: ../../source/site/forusers/visualchangelog28/index.rst:301
 msgid ""
 "You can now control both horizontal and vertical **margins for label** "
 "items. Previously only a single margin setting would apply to both "
@@ -592,7 +600,7 @@ msgid ""
 "different horizontal and vertical margins."
 msgstr "U kunt nu zowel horizontale als verticale **marges voor label**-items beheren. Eerder zou alleen één enkele instelling voor de marge gelden voor zowel de horizontale als de verticale marges. Deze wijziging maakt het voor gebruikers mogelijk verschillende horizontale en verticale marges te specificeren."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:300
+#: ../../source/site/forusers/visualchangelog28/index.rst:302
 msgid ""
 "You can now specify negative margins for label items, **allowing text to be "
 "drawn slightly outside of a label item's bounds**. This is desirable for "
@@ -600,211 +608,211 @@ msgid ""
 "alignment for the label type."
 msgstr "U kunt nu negatieve marges specificeren voor items Label, **toestaan dat tekst enigszins buiten de grenzen van het item label wordt getekend**. Dit is gewenst voor het uitlijnen van items Label met andere items terwijl een optische uitlijning van de marge voor het type label wordt toegestaan."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:307
+#: ../../source/site/forusers/visualchangelog28/index.rst:309
 msgid "Plugins"
 msgstr "Plug-ins"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:310
+#: ../../source/site/forusers/visualchangelog28/index.rst:312
 msgid "Feature: Python console improvements"
 msgstr "Mogelijkheid: Verbeteringen voor console Python"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:312
+#: ../../source/site/forusers/visualchangelog28/index.rst:314
 msgid ""
 "You can now drag and drop python scripts into QGIS window and they will be "
 "executed automatically. We also added a toolbar icon to the plugins toolbar "
 "and a shortcut ( ``Ctrl-Alt-P`` ) for quick access to the python console."
 msgstr "U kunt nu scripts voor Python in het venster van QGIS slepen en laten vallen en zij zullen automatisch worden uitgevoerd. We hebben ook een pictogram voor de werkbalk toegevoegd aan de werkbalk Plug-ins en een sneltoets ( ``Ctrl-Alt-P`` ) voor snelle toegang tot de console voor Python."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:319
+#: ../../source/site/forusers/visualchangelog28/index.rst:321
 msgid "Processing"
 msgstr "Processing"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:322
+#: ../../source/site/forusers/visualchangelog28/index.rst:324
 msgid "Feature: New geometric predicate parameter type"
 msgstr "Mogelijkheid: Nieuw type parameter geometrisch predikaat"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:324
+#: ../../source/site/forusers/visualchangelog28/index.rst:326
 msgid ""
 "With this new parameter type, used in **Select by location, Extract by "
 "location** and **Join attributes by location** algorithms, the user can "
 "select precisely the spatial operator to use."
 msgstr "met dit nieuwe type parameter, gebruikt in de algoritmen **Select by location, Extract by location** en **Join attributes by location**, kan de gebruiker precies de te gebruiken ruimtelijke operator selecteren."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:326
+#: ../../source/site/forusers/visualchangelog28/index.rst:328
 msgid ""
 "**This feature was funded by:** `French Ministry of Ecology, Sustainable "
 "Development and Energy <http://www.developpement-durable.gouv.fr/>`_"
 msgstr "**Dit werd mogelijk gemaakt door:** `French Ministry of Ecology, Sustainable Development and Energy <http://www.developpement-durable.gouv.fr/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:328
+#: ../../source/site/forusers/visualchangelog28/index.rst:330
 msgid ""
 "**This feature was developed by:** `Camptocamp <http//www.camptocamp.com>`_"
 msgstr "**Deze mogelijkheid werd ontwikkeld door:** `Camptocamp <http//www.camptocamp.com>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:335
+#: ../../source/site/forusers/visualchangelog28/index.rst:337
 msgid "Feature: New algorithms"
 msgstr "Mogelijkheid: Nieuwe algoritmen"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:337
+#: ../../source/site/forusers/visualchangelog28/index.rst:339
 msgid ""
 "A number of new algorithms have been added to the processing framework:"
 msgstr "Een aantal nieuwe algoritmen zijn toegevoegd aan het framework Processing:"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:339
+#: ../../source/site/forusers/visualchangelog28/index.rst:341
 msgid "**Regular points** algorithm (addresses #5953)"
 msgstr " algoritme **Regular points** (adresseert #5953)"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:340
+#: ../../source/site/forusers/visualchangelog28/index.rst:342
 msgid "**Symetrical difference** algorithm (addresses #5953)"
 msgstr "algoritme **Symetrical difference** (adresseert #5953)"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:341
+#: ../../source/site/forusers/visualchangelog28/index.rst:343
 msgid "**Vector split** algorithm (addresses #5953)"
 msgstr "algoritme **Vector split** (adresseert #5953)"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:342
+#: ../../source/site/forusers/visualchangelog28/index.rst:344
 msgid "**Vector grid** algorithm (addresses #5953)"
 msgstr "algoritme **Vector grid** (adresseert #5953)"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:343
+#: ../../source/site/forusers/visualchangelog28/index.rst:345
 msgid "**Hypsometric curves** calculation algorithm"
 msgstr "algoritme voor berekening **Hypsometric curves**"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:344
+#: ../../source/site/forusers/visualchangelog28/index.rst:346
 msgid "**Split lines with lines**"
 msgstr "**Split lines with lines**"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:345
+#: ../../source/site/forusers/visualchangelog28/index.rst:347
 msgid "**Refactor fields** attributes manipulation algorithm"
 msgstr "algoritme **Refactor fields** voor manipuleren van attributen"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:352
+#: ../../source/site/forusers/visualchangelog28/index.rst:354
 msgid "Programmability"
 msgstr "Programmeerbaarheid"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:355
+#: ../../source/site/forusers/visualchangelog28/index.rst:357
 msgid "Feature: Add comment functionality to expressions"
 msgstr "Mogelijkheid: Functionaliteit voor opmerkingen bij expressies toegevoegd"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:357
+#: ../../source/site/forusers/visualchangelog28/index.rst:359
 msgid ""
 "Comments can now be added to expressions using an SQL style ``--`` prefix."
 msgstr "Opmerkingen kunnen nu aan expressies worden toegevoegd met behulp van een SQL-stijl ``--``-voorvoegsel."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:364
+#: ../../source/site/forusers/visualchangelog28/index.rst:366
 msgid "Feature: Custom expression function editor"
 msgstr "Mogelijkheid: Aangepaste functiebewerker voor expressies"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:366
+#: ../../source/site/forusers/visualchangelog28/index.rst:368
 msgid ""
 "You can now define custom expression functions in the expression widget. See"
 " `this blog post <http://nathanw.net/2015/01/19/function-editor-for-qgis-"
 "expressions/>`_ for more details."
 msgstr "U kunt nu aangepaste functies voor expressies definiëren in het widget Expressie. Zie `deze blogpost <http://nathanw.net/2015/01/19/function-editor-for-qgis-expressions/>`_ voor meer details."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:373
+#: ../../source/site/forusers/visualchangelog28/index.rst:375
 msgid "Feature: Qt5 support"
 msgstr "Mogelijkheid: Ondersteuning voor Qt5"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:375
+#: ../../source/site/forusers/visualchangelog28/index.rst:377
 msgid ""
 "QGIS can now be built using Qt5 libraries. Note that currently most binaries"
 " will still with Qt4 by default."
 msgstr "QGIS kan nu worden gebouwd met behulp van bibliotheken voor Qt5. Onthoud dat momenteel de meeste binaries nog steeds standaard Qt4 hebben."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:382
+#: ../../source/site/forusers/visualchangelog28/index.rst:384
 msgid "Feature: Bulk loading spatial index"
 msgstr "Mogelijkheid: Bulk-laden van ruimtelijke index"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:384
+#: ../../source/site/forusers/visualchangelog28/index.rst:386
 msgid ""
 "In the API we have added support for bulk loading of spatial index. This is "
 "much faster way of initializing a spatial index. From python it is as simple"
 " as:"
 msgstr "In de API hebben we ondersteuning toegevoegd voor het in bulk laden van ruimtelijke index. Dit is een veel snellere manier van het initialiseren van ene ruimtelijke index. vanuit Python is het zo eenvoudig als:"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:386
+#: ../../source/site/forusers/visualchangelog28/index.rst:388
 msgid "``index = QgsSpatialIndex( layer.getFeatures() )``"
 msgstr "``index = QgsSpatialIndex( layer.getFeatures() )``"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:388
+#: ../../source/site/forusers/visualchangelog28/index.rst:390
 msgid "From a simple test with 50K points in a memory layer:"
 msgstr "Uit een eenvoudige test met 50K aan punten in een geheugenlaag:"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:390
+#: ../../source/site/forusers/visualchangelog28/index.rst:392
 msgid "**bulk loading ~ 100 ms**"
 msgstr "**bulk loading ~ 100 ms**"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:392
+#: ../../source/site/forusers/visualchangelog28/index.rst:394
 msgid "inserting features ~ 600 ms"
 msgstr "inserting features ~ 600 ms"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:394
+#: ../../source/site/forusers/visualchangelog28/index.rst:396
 msgid ""
 "The index tree should be also in theory be better constructed and may result"
 " in faster lookups."
 msgstr "De boom voor de index zou in theorie ook beter moeten zijn geconstrueerd en zou kunnen resulteren in snellere acties voor opzoeken."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:401
+#: ../../source/site/forusers/visualchangelog28/index.rst:403
 msgid "Feature: Run only the selected part of a SQL query"
 msgstr "Mogelijkheid: Alleen het geselecteerde deel van een query in SQL uitvoeren"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:403
+#: ../../source/site/forusers/visualchangelog28/index.rst:405
 msgid ""
 "In the DB Manager SQL editor, it is now possible to highlight a portion of "
 "the SQL and only that portion will be executed when you press ``F5`` or "
 "click the ``run`` button"
 msgstr "In de SQL-bewerker van DB Manager is het nu mogelijk om een deel van de SQL te accentueren en alleen dat gedeelte zal dan worden uitgevoerd als u drukt op ``F5`` of klikt op de knop ``Uitvoeren``"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:410
+#: ../../source/site/forusers/visualchangelog28/index.rst:412
 msgid "QGIS Server"
 msgstr "QGIS Server"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:413
+#: ../../source/site/forusers/visualchangelog28/index.rst:415
 msgid "Feature: Server python plugins"
 msgstr "Mogelijkheid: Python plug-ins voor server "
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:415
+#: ../../source/site/forusers/visualchangelog28/index.rst:417
 msgid ""
 "Python plugins support for QGIS server brings the power of python to server "
 "side, allowing for fast and efficient development and deployment of new "
 "features."
 msgstr "Ondersteuning van Python plug-ins voor QGIS server brengt de kracht van Python naar de kant van de server, hetgeen snelle en efficiënte ontwikkeling toestaat alsmede het uitrollen van nieuwe mogelijkheden."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:417
+#: ../../source/site/forusers/visualchangelog28/index.rst:419
 msgid ""
 "**This feature was developed by:** `Alessandro Pasotti (ItOpen) "
 "<http://www.itopen.it/>`_"
 msgstr "**Deze mogelijkheid werd ontwikkeld door:** `Alessandro Pasotti (ItOpen) <http://www.itopen.it/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:420
+#: ../../source/site/forusers/visualchangelog28/index.rst:422
 msgid "Feature: Support for layer styles"
 msgstr "Mogelijkheid: Ondersteuning voor laagstijlen"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:422
+#: ../../source/site/forusers/visualchangelog28/index.rst:424
 msgid "QGIS Server now supports predefined layer styles in GetMap requests"
 msgstr "QGIS Server ondersteund nu vooraf gedefinieerde laagstijlen in verzoeken GetMap"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:423
+#: ../../source/site/forusers/visualchangelog28/index.rst:425
 msgid ""
 "QGIS Server now supports multiple styles in GetStyles request (see symbology"
 " section below)"
 msgstr "QGIS Server ondersteunt nu meerdere stijlen in het verzoek GetStyles (zie gedeelte Symbologie hieronder)"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:426
+#: ../../source/site/forusers/visualchangelog28/index.rst:428
 msgid "Feature: Add DescribeLayer Method to WMS"
 msgstr "Mogelijkheid: Methode DescribeLayer aan WMS toegevoegd"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:428
+#: ../../source/site/forusers/visualchangelog28/index.rst:430
 msgid ""
 "**Styled Layer Descriptor profile of the Web Map Service : DescribeLayer**"
 msgstr "**profiel Styled Layer Descriptor van de Web Map Service : DescribeLayer**"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:430
+#: ../../source/site/forusers/visualchangelog28/index.rst:432
 msgid "http://www.opengeospatial.org/standards/sld"
 msgstr "http://www.opengeospatial.org/standards/sld"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:432
+#: ../../source/site/forusers/visualchangelog28/index.rst:434
 msgid ""
 "Defining a user-defined style requires information about the features being "
 "symbolized, or at least their feature/coverage type. Since user-defined "
@@ -816,13 +824,13 @@ msgid ""
 "request."
 msgstr "Definiëren van een gebruikergedefinieerde stijl vereist informatie over de te symboliseren objecten, of ten minste hun type object/bedekking. Omdat gebruikergedefinieerde stijlen kunnen worden toegepast op ene benoemde laag, dient er een mechanisme te zijn waarmee een cliënt de informatie voor een type object/bedekking voor een benoemde laag kan verkrijgen. Dit is een ander voorbeeld van het overbruggen van het gat tussen de concepten van WMS voor lagen en stijlen en concepten van WFS/WCS zoals type object en bedekkingslaag. Een WMS kan, optioneel, het verzoek **DescribeLayer** ondersteunen om dit mogelijk te maken."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:434
+#: ../../source/site/forusers/visualchangelog28/index.rst:436
 msgid ""
 "DescribeLayer method has been thought to be a better approach than "
 "overloading the WMS capabilities document even more."
 msgstr "Van de methode DescribeLayer wordt gedacht dat het een betere benadering is dan het document voor de WMS-capabilities nog meer te belasten."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:436
+#: ../../source/site/forusers/visualchangelog28/index.rst:438
 msgid ""
 "For each named layer, the description should indicate if it is indeed based "
 "on feature data and if so it should indicate the WFS/WCS (by a URL prefix) "
@@ -830,48 +838,48 @@ msgid ""
 "layer not to be describable in this way."
 msgstr "Voor elke benoemde laag zou de beschrijving moeten aangeven of het inderdaad is gebaseerd op gegevens van ene object en als dat zo is zou het de WFS/WCS moeten aangeven (door een voorvoegsel URL) en de typen object/bedekking. Onthoud dat dit perfect geldig is voor een benoemde laag om niet te beschrijven te zijn op deze manier."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:439
+#: ../../source/site/forusers/visualchangelog28/index.rst:441
 msgid "Symbology"
 msgstr "Symbologie"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:442
+#: ../../source/site/forusers/visualchangelog28/index.rst:444
 msgid "Feature: Raster image fill type"
 msgstr "Mogelijkheid: Type vulling voor rasterafbeelding"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:444
+#: ../../source/site/forusers/visualchangelog28/index.rst:446
 msgid ""
 "This new symbol layer type allows for filling polygons with a (tiled) raster"
 " image."
 msgstr "Dit nieuwe type symboollaag maakt het mogelijk polygonen te vullen met een (getegelde) rasterafbeelding."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:446
+#: ../../source/site/forusers/visualchangelog28/index.rst:448
 msgid ""
 "Options include (data defined) file name, opacity, image size (in pixels, mm"
 " or map units), coordinate mode (feature or view), and rotation."
 msgstr "Opties omvatten (gegevens gedefinieerde) bestandsnaam, doorzicht, grootte afbeelding (in pixels, mm of kaarteenheden), modus coördinaten (object of  weergave), en rotatie."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:453
+#: ../../source/site/forusers/visualchangelog28/index.rst:455
 msgid "Feature: Live heatmap renderer"
 msgstr "Mogelijkheid: Live renderer Heatmap"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:455
+#: ../../source/site/forusers/visualchangelog28/index.rst:457
 msgid ""
 "The new heatmap vector layer renderer allows for live, dynamic heatmaps for "
 "point layers."
 msgstr "De nieuwe renderer voor Heatmap vectorlagen maakt het mogelijk live, dynamische heatmaps voor puntlagen te maken."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:457
+#: ../../source/site/forusers/visualchangelog28/index.rst:459
 msgid ""
 "Options include specifying heatmap radius in pixels, mm or map units, choice"
 " of color ramp,weighting points by field, and a slider for selecting a "
 "tradeoff between render speed and quality."
 msgstr "Opties omvatten het specificeren van de straal voor de heatmap in pixels, mm of kaarteenheden, keuze voor ene kleurenbalk, gewogen punten op veld, en een schuifbalk voor het selecteren van een wisselwerking tussen snelheid van renderen en kwaliteit."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:465
+#: ../../source/site/forusers/visualchangelog28/index.rst:467
 msgid "Feature: Multiple styles per layer"
 msgstr "Mogelijkheid: Meerdere stijlen per laag"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:467
+#: ../../source/site/forusers/visualchangelog28/index.rst:469
 msgid ""
 "It is now possible to set multiple styles for a layer and then easily toggle"
 " between them. This functionality is available in the ``legend context menu "
@@ -883,17 +891,17 @@ msgid ""
 "<http://www.lutraconsulting.co.uk/blog/2015/02/19/towering-qgis-release/>`_."
 msgstr "Het is nu mogelijk om meerdere stijlen voor ene laag in te stellen en dan eenvoudig daartussen te schakelen. Deze functionaliteit is beschikbaar in het ``contextmenu Legenda --> submenu Stijlen`` waar het mogelijk is stijlen toe te voegen/te verwijderen en daar snel tussen te schakelen. Sets van lagen onthouden stijlen, en verschillende stijlen kunnen ook worden toegepast op individuele kaartitems in Printvormgeving. De gedefinieerde meerdere stijlen zijn ook beschikbaar als het project wordt gebruikt via QGIS Server als een laag voor WMS. Voor meer informatie hierover, zie ook deze `blogpost <http://www.lutraconsulting.co.uk/blog/2015/02/19/towering-qgis-release/>`_."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:471
+#: ../../source/site/forusers/visualchangelog28/index.rst:473
 msgid ""
 "**This feature was developed by:** `Gis3W <http://www.gis3w.it/>`_, `Lutra "
 "Consulting <http://www.lutraconsulting.co.uk/>`_"
 msgstr "**Deze mogelijkheid werd ontwikkeld door:** `Gis3W <http://www.gis3w.it/>`_, `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:478
+#: ../../source/site/forusers/visualchangelog28/index.rst:480
 msgid "Feature: More data-defined symbology settings"
 msgstr "Mogelijkheid: Meer instellingen voor gegevens-gedefinieerde symbologie"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:480
+#: ../../source/site/forusers/visualchangelog28/index.rst:482
 msgid ""
 "The user interface for data defined symbology settings has been improved - "
 "moving the data defined option next to each data definable property (in "
@@ -904,21 +912,21 @@ msgid ""
 "settings."
 msgstr "De gebruikersinterface voor instellingen van gegevens-gedefinieerde symbologie is verbeterd - de optie gegevens-gedefinieerd is verplaatst tot naast elke voor gegevens te definiëren eigenschap (in overeenstemming met andere delen van QGIS zoals de eigenschappen voor labelen). Ook zijn vele nieuwe eigenschappen voor gegevens te definiëren gemaakt voor symbologie. Deze verbetering van de gebruikersinterface verschaft ook een manier om onmiddellijk te zien of een gegevens-gedefinieerde voorrang is gedefinieerd als ook eenvoudiger toegang tot gegevens-gedefinieerde instellingen."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:487
+#: ../../source/site/forusers/visualchangelog28/index.rst:489
 msgid "Feature: DXF export: improve marker symbol export"
 msgstr "Mogelijkheid: exporteren DXF: exporteren van markeringssymbool verbeterd"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:489
+#: ../../source/site/forusers/visualchangelog28/index.rst:491
 msgid ""
 "The exporter functionality for DXF files has been improved, with better "
 "fidelity of exported marker symbols to the original QGIS symbology."
 msgstr "De functionaliteit exporteren voor bestanden van DXF is verbeterd, met betere trouw van de geëxporteerde markeringssymbolen aan de originele symbologie van QGIS."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:492
+#: ../../source/site/forusers/visualchangelog28/index.rst:494
 msgid "Feature: Map rotation in canvas, improved rotation in composer"
 msgstr "Mogelijkheid: Roteren van kaart in kaartvenster, verbeterde rotatie in Printvormgeving"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:494
+#: ../../source/site/forusers/visualchangelog28/index.rst:496
 msgid ""
 "This release includes preliminary support for rotation in the map canvas. "
 "You can rotate the canvas using the new rotation widget in the status bar. "
@@ -926,28 +934,28 @@ msgid ""
 "correctly handles labelling and symbology, etc."
 msgstr "Deze uitgave omvat voorlopige ondersteuning voor het roteren in het kaartvenster. U kunt het kaartvenster roteren met behulp van het nieuwe widget voor roteren in de Statusbalk. Ondersteuning voor roteren is ook uitgebreid naar de Printvormgeving zodat  het labelen en symbologie etc. juist afhandelt."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:496
+#: ../../source/site/forusers/visualchangelog28/index.rst:498
 msgid ""
 "**This feature was funded by:** `Japan Space Imaging Corporation (JSI) "
 "<http://www.spaceimaging.co.jp/>`_"
 msgstr "**Deze mogelijkheid werd financieel mogelijk gemaakt door:** `Japan Space Imaging Corporation (JSI) <http://www.spaceimaging.co.jp/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:505
+#: ../../source/site/forusers/visualchangelog28/index.rst:507
 msgid "User Interface"
 msgstr "Gebruikersinterface"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:508
+#: ../../source/site/forusers/visualchangelog28/index.rst:510
 msgid "Feature: Improved/consistent projection selection"
 msgstr "Mogelijkheid: Verbeterde/consistente selectie van projectie"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:510
+#: ../../source/site/forusers/visualchangelog28/index.rst:512
 msgid ""
 "All dialogs now use a consistent projection selection widget, which allows "
 "for quickly selecting from recently used and standard project/QGIS "
 "projections."
 msgstr "Alle dialoogvensters gebruiken nu een consistent widget voor selectie van projectie, wat het snel selecteren van recent gebruikte en standaard project-/QGIS-projecties."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:517
+#: ../../source/site/forusers/visualchangelog28/index.rst:519
 msgid "."
 msgstr "."
 
@@ -958,16 +966,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "checkbox_unchecked"
-
-#~ msgid ""
-#~ "BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "
-#~ "<http://www.eschenlaub.de/>`_"
-#~ msgstr ""
-
-#~ msgid "Changelog for QGIS: 2.8"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "**This feature was funded by:** `Georepublic Japan "
-#~ "<http://georepublic.co.jp/>`_"
-#~ msgstr ""

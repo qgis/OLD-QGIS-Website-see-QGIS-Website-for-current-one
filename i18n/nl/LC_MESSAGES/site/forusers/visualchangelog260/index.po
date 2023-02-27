@@ -1,18 +1,22 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 # DiGro, 2015-2016,2019
+# DiGro, 2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2014-11-01 16:56+0000\n"
-"Last-Translator: DiGro, 2015-2016,2019\n"
+"Last-Translator: DiGro, 2022\n"
 "Language-Team: Dutch (http://www.transifex.com/qgis/qgis-website/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -21,78 +25,82 @@ msgid "Changelog for QGIS 2.6"
 msgstr "Log met wijzigingen voor QGIS 2.6"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:6
+msgid "Release date: 2014-10-31"
+msgstr "Datum uitgave 31-10-2014"
+
+#: ../../source/site/forusers/visualchangelog260/index.rst:8
 msgid ""
 "Change log for the next release of QGIS 2.6.0. We have added many new "
 "features, tweaks and enhancements to make the most popular Free desktop GIS "
 "even more feature filled and useful."
 msgstr "Log met wijzigingen voor de volgende uitgave van QGIS 2.6.0. We hebben vele nieuwe mogelijkheden, aanpassingen en verbeteringen toegevoegd om de meest populaire gratis desktop GIS nog nuttiger en voller met mogelijkheden te maken."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:10
+#: ../../source/site/forusers/visualchangelog260/index.rst:12
 msgid ""
 "Whenever new features are added to software they introduce the possibility "
 "of new bugs - if you encounter any problems with this release, please file a"
 " ticket `on the QGIS Bug Tracker <http://hub.qgis.org>`_."
 msgstr "Wanneer aan software nieuwe mogelijkheden worden toegevoegd introduceren die de mogelijkheid tot het ontstaan van nieuwe problemen - als u in deze uitgave nieuwe problemen tegenkomt, vul dan een ticket in `op de QGIS Bug Tracker <http://hub.qgis.org>`_."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:14
+#: ../../source/site/forusers/visualchangelog260/index.rst:16
 msgid ""
 "We would like to thank the developers, documenters, testers and all the many"
 " folks out there who volunteer their time and effort (or fund people to do "
 "so)."
 msgstr "We willen de ontwikkelaars, schrijvers van documentatie, testers en alle andere vele mensen bedanken die vrijwillig hun tijd en inspanningen bijdragen (of mensen ondersteunen om dat te doen)."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:18
+#: ../../source/site/forusers/visualchangelog260/index.rst:20
 msgid ""
 "From the QGIS community we hope you enjoy this release! If you wish to "
 "donate time, money or otherwise get involved in making QGIS more awesome, "
 "please wander along to `qgis.org <https://qgis.org>`_ and lend a hand!"
 msgstr "Vanuit de gemeenschap van QGIS hopen we dat u van deze uitgave zult genieten! Als u tijd of geld wilt doneren of op een andere wijze betrokken wilt zijn in het opwaarderen van QGIS, kijk dan ook eens op `qgis.org <https://qgis.org>`_ en help een handje!"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:23
+#: ../../source/site/forusers/visualchangelog260/index.rst:25
 msgid ""
 "Finally we would like to thank our official sponsors for the invaluable "
 "financial support they provide to this project:"
 msgstr "Tenslotte willen we onze officiële sponsoren bedanken voor de onschatbare financiële ondersteuning die zij aan dit project verlenen:"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:26
+#: ../../source/site/forusers/visualchangelog260/index.rst:28
 msgid "**GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"
 msgstr "**GOUDEN sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:27
+#: ../../source/site/forusers/visualchangelog260/index.rst:29
 msgid ""
 "SILVER Sponsor: `Sourcepole AG, Switzerland <http://www.sourcepole.com/>`_"
 msgstr "ZILVEREN sponsor: `Sourcepole AG, Switzerland <http://www.sourcepole.com/>`_"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:28
+#: ../../source/site/forusers/visualchangelog260/index.rst:30
 msgid ""
 "SILVER Sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_"
 msgstr "ZILVEREN sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:29
+#: ../../source/site/forusers/visualchangelog260/index.rst:31
 msgid ""
 "BRONZE Sponsor: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
 msgstr "BRONZEN sponsor: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:30
+#: ../../source/site/forusers/visualchangelog260/index.rst:32
 msgid "BRONZE Sponsor: `www.molitec.it, Italy <http://www.molitec.it/>`_"
 msgstr "BRONZEN sponsor: `www.molitec.it, Italy <http://www.molitec.it/>`_"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:31
+#: ../../source/site/forusers/visualchangelog260/index.rst:33
 msgid "BRONZE Sponsor: `www.argusoft.de, Germany <http://www.argusoft.de>`_"
 msgstr "BRONZEN sponsor: `www.argusoft.de, Germany <http://www.argusoft.de>`_"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:32
+#: ../../source/site/forusers/visualchangelog260/index.rst:34
 msgid ""
 "BRONZE Sponsor: `www.openrunner.com, France <http://www.openrunner.com>`_"
 msgstr "BRONZEN sponsor: `www.openrunner.com, France <http://www.openrunner.com>`_"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:33
+#: ../../source/site/forusers/visualchangelog260/index.rst:35
 msgid ""
 "BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "
 "<http://www.eschenlaub.de/>`_"
 msgstr "BRONZEN sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany <http://www.eschenlaub.de/>`_"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:35
+#: ../../source/site/forusers/visualchangelog260/index.rst:37
 msgid ""
 "A current list of donors who have made financial contributions large and "
 "small to the project can be seen on our `donors list "
@@ -104,7 +112,7 @@ msgid ""
 "maintain project infrastructure and fund bug fixing efforts."
 msgstr "Een huidige lijst van doneren die grote en kleine bijdragen hebben gegeven aan het project kan worden bekeken op onze `lijst van donoren <https://qgis.org/nl/site/about/sponsorship.html#list-of-donors>`_. Als u een officiële sponsor voor het project zou willen worden, bekijk dan `onze pagina om te sponsoren <https://qgis.org/nl/site/about/sponsorship.html#sponsorship>`_ voor de details. Sponsoren van QGIS helpt ons om fonds te verkrijgen voor onze halfjaarlijkse ontmoetingen van ontwikkelaars, de infrastructuur van het project te onderhouden en inspanningen voor het oplossen van problemen te financieren."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:44
+#: ../../source/site/forusers/visualchangelog260/index.rst:46
 msgid ""
 "If you enjoy using QGIS, please consider making a donation to support the "
 "project - either `financial "
@@ -117,7 +125,7 @@ msgid ""
 "the best possible releases."
 msgstr "Als u geniet van het gebruiken van QGIS, overweeg dan eens om een donatie te geven om het project te ondersteunen - ofwel `financieel <https://qgis.org/nl/site/getinvolved/donations.html>`_ of van `uw tijd en vaardigheden <https://qgis.org/nl/site/getinvolved/index.html>`_! Tenslotte willen we even stilstaan om u aan te moedigen bij te dragen aan een `speciale campagne <http://blog.vitu.ch/10102014-1046/crowdfunding-initiative-automated-testing>`_ door één van onze ontwikkelaars van QGIS om een werkende testsuite voor QGIS te krijgen zodat we onze processen voor het verbeteren van de kwaliteit kunnen verbeteren en u de best mogelijke uitgaven kunnen geven."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:54
+#: ../../source/site/forusers/visualchangelog260/index.rst:56
 msgid ""
 "QGIS is Free software and you are under no obligation to pay anything to use"
 " it - in fact we want to encourage people far and wide to use it regardless "
@@ -126,165 +134,165 @@ msgid ""
 "of humanity."
 msgstr "QGIS is gratis software en u bent niet verplicht om maar iets te betalen voor het gebruiken ervan - in feite willen we mensen, wijd en zijd verspreid, aanmoedigen om het te gebruiken ongeacht uw financiële of sociale status - wij geloven dat het uitrusten van mensen met gereedschappen voor het maken van ruimtelijke beslissingen zal resulteren in een betere wereld voor de gehele mensheid."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:64
+#: ../../source/site/forusers/visualchangelog260/index.rst:66
 msgid "General"
 msgstr "Algemeen"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:67
+#: ../../source/site/forusers/visualchangelog260/index.rst:69
 msgid "Feature: Project filename in properties"
 msgstr "Mogelijkheid: bestandsnaam van project in eigenschappen"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:69
+#: ../../source/site/forusers/visualchangelog260/index.rst:71
 msgid ""
 "You can now see the full path for the QGIS project file in the project "
 "properties dialog."
 msgstr "U kunt nu het volledige pad en de bestandsnaam voor een project van QGIS zien in het dialoogvenster Eigenschappen."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:77
+#: ../../source/site/forusers/visualchangelog260/index.rst:79
 msgid ""
 "Feature: Allow removing last point while measuring via del/backspace keys"
 msgstr "Mogelijkheid: Verwijderen van laatste punt tijdens meten met toetsen Del/Backspace"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:79
+#: ../../source/site/forusers/visualchangelog260/index.rst:81
 msgid ""
 "Now when you are measuring areas and distances, you can remove unwanted "
 "vertices from your measurement line using the delete or backspace keys."
 msgstr "Als u nu gebieden en afstanden meet kunt u ongewenste punten vanuit uw meetlijn verwijderen met behulp van de toetsen Delete of Backspace."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:87
+#: ../../source/site/forusers/visualchangelog260/index.rst:89
 msgid ""
 "Feature: select related feature on the canvas from the relation reference "
 "widget"
 msgstr "Mogelijkheid: gerelateerd object in het kaartvenster selecteren vanuit het widget relatieverwijzing"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:90
+#: ../../source/site/forusers/visualchangelog260/index.rst:92
 msgid "Feature: Editor widgets"
 msgstr "Mogelijkheid: Wijzig-hulpmiddelen"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:92
+#: ../../source/site/forusers/visualchangelog260/index.rst:94
 msgid "We have made a number of improvements to the editor widgets:"
 msgstr "We hebben een aantal verbeteringen gemaakt aan de Wijzig-hulpmiddelen:"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:94
+#: ../../source/site/forusers/visualchangelog260/index.rst:96
 msgid "new edit widget for date/time capable of setting null dates"
 msgstr "nieuw Wijzig-hulpmiddel voor datum/tijd in staat om Null-datums in te stellen"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:95
+#: ../../source/site/forusers/visualchangelog260/index.rst:97
 msgid "filter line edit"
 msgstr "filteren lijn wijzigen"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:96
+#: ../../source/site/forusers/visualchangelog260/index.rst:98
 msgid "Proper handling of NULL values for edit widgets"
 msgstr "Juiste afhandeling van NULL-waarden voor Wijzig-hulpmiddelen"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:97
+#: ../../source/site/forusers/visualchangelog260/index.rst:99
 msgid "Photo widget preserves NULL value"
 msgstr "Fotowidget behoudt waarde NULL"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:98
+#: ../../source/site/forusers/visualchangelog260/index.rst:100
 msgid "Web widget preserves NULL value"
 msgstr "Webwidget behoudt waarde NULL"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:99
+#: ../../source/site/forusers/visualchangelog260/index.rst:101
 msgid "Attribute table can distinguish between 0 and NULL"
 msgstr "Attributentabel kan onderscheid maken tussen 0 en NULL"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:100
+#: ../../source/site/forusers/visualchangelog260/index.rst:102
 msgid "Add suffix support for range widget"
 msgstr "Ondersteuning voor achtervoegsel toegevoegd aan widget Bereik"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:107
+#: ../../source/site/forusers/visualchangelog260/index.rst:109
 msgid "Feature: Optionally use just a subset of fields from the joined layer"
 msgstr "Mogelijkheid: Gebruik optioneel slechts een subset van velden van de samengevoegde laag"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:109
+#: ../../source/site/forusers/visualchangelog260/index.rst:111
 msgid ""
 "You can now use just a subset of related fields when creating a vector join."
 msgstr "U kunt nu slechts een subset gebruiken van gerelateerde velden bij het maken van een vectorjoin."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:117
+#: ../../source/site/forusers/visualchangelog260/index.rst:119
 msgid "Feature: Expression field (virtual fields)"
 msgstr "Mogelijkheid: Expressieveld (virtuele velden)"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:119
+#: ../../source/site/forusers/visualchangelog260/index.rst:121
 msgid ""
 "Sometimes you want to have an attribute that is calculated and that is "
 "always 'fresh' - reflecting the current state of the feature properties. Now"
 " you can add virtual fields to your table which are based on an expression."
 msgstr "Soms wilt u een attribuut dat wordt berekend en dat altijd 'vers' is - de huidige status van de objecteigenschappen reflecteert. Nu kunt u virtuele velden aan uw tabel toevoegen die zijn gebaseerd op een expressie."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:129
+#: ../../source/site/forusers/visualchangelog260/index.rst:131
 msgid "Feature: Actions can now have an associated icon"
 msgstr "Mogelijkheid: Acties kunnen nu een geassocieerd pictogram hebben"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:131
+#: ../../source/site/forusers/visualchangelog260/index.rst:133
 msgid ""
 "When creating a custom action for a vector layer, you can now define an icon"
 " to be used for the action too."
 msgstr "Bij het maken van een aangepaste actie voor een vectorlaag kunt u nu ook een pictogram definiëren dat moet worden gebruikt voor de actie."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:139
+#: ../../source/site/forusers/visualchangelog260/index.rst:141
 msgid "Feature: Additional expressions types and options"
 msgstr "Mogelijkheid: Aanvullende  typen en opties voor expressies"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:141
+#: ../../source/site/forusers/visualchangelog260/index.rst:143
 msgid "Allow using ``+`` for string concatenation."
 msgstr "Gebruiken van ``+`` voor samenvoegen van strings toestaan."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:142
+#: ../../source/site/forusers/visualchangelog260/index.rst:144
 msgid ""
 "New keyword: ``attribute( feature, attribute_name )`` - gets the specified "
 "attribute from a feature."
 msgstr "Nieuw sleutelwoord: ``attribute( feature, attribute_name )`` - verkrijgt het gespecificeerde attribuut uit een object."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:144
+#: ../../source/site/forusers/visualchangelog260/index.rst:146
 msgid "New keyword: ``$currentfeature`` - returns the current feature."
 msgstr "Nieuw sleutelwoord: ``$currentfeature`` - geeft het huidige object terug."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:145
+#: ../../source/site/forusers/visualchangelog260/index.rst:147
 msgid "New keyword: ``$atlasfeature`` - returns the atlas feature."
 msgstr "Nieuw sleutelwoord: ``$atlasfeature`` - geeft het atlas-object terug."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:146
+#: ../../source/site/forusers/visualchangelog260/index.rst:148
 msgid "New keyword: ``getFeature`` - gets a matching feature from a layer."
 msgstr "Nieuw sleutelwoord: ``getFeature`` - verkrijgt een overeenkomend object uit een laag."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:153
+#: ../../source/site/forusers/visualchangelog260/index.rst:155
 msgid ""
 "Feature: Classes within graduated and categorised renderers can be toggled"
 msgstr "Mogelijkheid: Klassen binnen renderers Gradueel en Categorieën kunnen worden geschakeld"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:155
+#: ../../source/site/forusers/visualchangelog260/index.rst:157
 msgid ""
 "You can now choose to disable certain classes in graduated and categorised "
 "renderers without actually removing them."
 msgstr "U kunt er nu voor kiezen bepaalde klassen in de renderers Gradueel en Categorieën uit te schakelen, zonder ze echt te verwijderen."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:163
+#: ../../source/site/forusers/visualchangelog260/index.rst:165
 msgid "Feature: Legend improvements"
 msgstr "Mogelijkheid: Verbeteringen voor legenda"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:165
+#: ../../source/site/forusers/visualchangelog260/index.rst:167
 msgid ""
 "The second phase of the legend / table of contents overhaul has been "
 "completed. This includes:"
 msgstr "De tweede fase van de vernieuwing van de legenda / inhoudsopgave is voltooid. Dit omvat:"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:168
+#: ../../source/site/forusers/visualchangelog260/index.rst:170
 msgid "API cleanup (for developers)"
 msgstr "API schoongemaakt (voor ontwikkelaars)"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:169
+#: ../../source/site/forusers/visualchangelog260/index.rst:171
 msgid ""
 "Visibility groups of map layers in layer tree. This new toolbar button "
 "allows quick changes between the groups of layers that should be visible."
 msgstr "Zichtbaarheid van groepen van kaartlagen in de boom van lagen. Deze nieuwe knop op de werkbalk maakt het mogelijk snel te wisselen tussen groepen lagen die zichtbaar zouden moeten zijn."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:172
+#: ../../source/site/forusers/visualchangelog260/index.rst:174
 msgid "Ability to manage layer groups from the legend toolbar"
 msgstr "Mogelijkheid om groepen lagen te beheren vanaf de werkbalk voor de Legenda"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:173
+#: ../../source/site/forusers/visualchangelog260/index.rst:175
 msgid ""
 "The new legend filter option on the legend toolbar will remove legend items "
 "for any classes which are not currently in the view extent. This is an "
@@ -293,250 +301,250 @@ msgid ""
 " map legend and in map composer and for WMS layers."
 msgstr "De nieuwe filteroptie voor de Legenda op de werkbalk Legenda zal items van de legenda verwijderen voor klassen die niet in het huidige weergavebereik staan. Dit is een fantastische verbetering omdat het er voor zorgt dat uw inhoud van de kaartlegenda geen items bevat die momenteel niet in de kaartweergave staan. Het is beschikbaar in de legenda voor de hoofdkaart en in Printvormgeving en voor WMS-lagen."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:179
+#: ../../source/site/forusers/visualchangelog260/index.rst:181
 msgid "Rule-based renderer legends can now be displayed in a pseudo-tree"
 msgstr "Legenda's van Op regel gebaseerde renderer kunnen nu worden weergegeven in een pseudo-boom"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:186
+#: ../../source/site/forusers/visualchangelog260/index.rst:188
 msgid "Data Providers"
 msgstr "Gegevensproviders"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:189
+#: ../../source/site/forusers/visualchangelog260/index.rst:191
 msgid "Feature: DXF export improvements"
 msgstr "Mogelijkheid: Verbeteringen voor DXF exporteren"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:191
+#: ../../source/site/forusers/visualchangelog260/index.rst:193
 msgid "tree view and attribute selection for layer assigment in dialog"
 msgstr "Weergave als boom en selectie van attributen voor toewijzen aan laag in het dialoogvenster"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:192
+#: ../../source/site/forusers/visualchangelog260/index.rst:194
 msgid "support fill polygons/HATCH"
 msgstr "Arcering en vulkleur kunnen worden ingesteld voor polygonen."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:193
+#: ../../source/site/forusers/visualchangelog260/index.rst:195
 msgid ""
 "represent texts as MTEXT instead of TEXT (including font, slant and weight)"
 msgstr "Door het gebruik van MTEXT in plaats van TEXT bij het exporteren kunnen nu ook lettertype, -vorm en -dikte worden opgegeven."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:195
+#: ../../source/site/forusers/visualchangelog260/index.rst:197
 msgid "support for RGB colors when there's no exact color match"
 msgstr "Kleuren worden vervangen door RGB indien geen exacte overeenkomst gevonden is."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:196
+#: ../../source/site/forusers/visualchangelog260/index.rst:198
 msgid "use AutoCAD 2000 DXF (R15) instead of R12"
 msgstr "De ondersteunde versie van DXF indeling is verhoogd naar AutoCAD 2000 DXF (R15) in plaats van R12."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:197
+#: ../../source/site/forusers/visualchangelog260/index.rst:199
 msgid "remove R18 test methods"
 msgstr "R18 testmethoden verwijderen"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:204
+#: ../../source/site/forusers/visualchangelog260/index.rst:206
 msgid "Map Composer"
 msgstr "Printvormgeving"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:207
+#: ../../source/site/forusers/visualchangelog260/index.rst:209
 msgid "Feature: Control over hiding print composer items from prints/exports"
 msgstr "Mogelijkheid: Beheer over verbergen van items van Printvormgeving voor afdrukken/exporteren"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:209
+#: ../../source/site/forusers/visualchangelog260/index.rst:211
 msgid ""
 "We have added a checkbox and data defined button for controlling whether an "
 "item is excluded from composer exports/printouts. If the item is unchecked "
 "it will be visible at composition design time only."
 msgstr "We hebben een keuzevak en een data-gedefinieerde knop toegevoegd voor het beheren of een item moet worden uitgesloten van exporteren/afdrukken vanuit Printvormgeving. Als het item niet is geselecteerd zal het alleen gedurende ontwerptijd zichtbaar zijn."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:218
+#: ../../source/site/forusers/visualchangelog260/index.rst:220
 msgid "Feature: Control over page printing for empty composer frames"
 msgstr "Mogelijkheid: Beheer over afdrukken van pagina's voor lege frames in Printvormgeving"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:220
+#: ../../source/site/forusers/visualchangelog260/index.rst:222
 msgid ""
 "For table or HTML frames, a checkbox now controls whether the containing "
 "page should be exported when the frame is empty."
 msgstr "Voor tabel- of HTMLframes beheert een keuzevak nu of de betreffende pagina zou moeten worden geëxporteerd als het frame leeg is."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:228
+#: ../../source/site/forusers/visualchangelog260/index.rst:230
 msgid "Feature: Item tree panel"
 msgstr "Mogelijkheid: Item boompaneel"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:230
+#: ../../source/site/forusers/visualchangelog260/index.rst:232
 msgid ""
 "The item tree panel in the map composer allows for selection of items, "
 "hiding/showing items, toggling lock status of items and double-clicking to "
 "edit item id. You can also use drag and drop to reorder items."
 msgstr "Het item boompaneel in Printvormgeving maakt het mogelijk items te selecteren, items te verbergen/weer te geven, de status vastzetten van items te schakelen en dubbelklikken voor bewerken van het item-ID. U kunt ook slepen en neerzetten om items in een andere volgorde te zeten."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:239
+#: ../../source/site/forusers/visualchangelog260/index.rst:241
 msgid "Feature: More control over appearance of composer arrow/line items"
 msgstr "Mogelijkheid: Meer controle over uiterlijk van items pijl/lijn in Printvormgeving"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:241
+#: ../../source/site/forusers/visualchangelog260/index.rst:243
 msgid "Lines can be styled using line symbol style dialog"
 msgstr "Lijnen kunnen worden opgemakt met behulp van het dialoogvenster Lijnsymboolstijl"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:242
+#: ../../source/site/forusers/visualchangelog260/index.rst:244
 msgid "Arrow head fill and outline colors can be user defined"
 msgstr "Vulling voor kleur rand pijlpunt en randen kunnen door de gebruiker worden gedefinieerd"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:243
+#: ../../source/site/forusers/visualchangelog260/index.rst:245
 msgid "Arrow head outline width can be user defined"
 msgstr "Breedte voor rand pijlpunt kan door de gebruiker worden gedefinieerd"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:250
+#: ../../source/site/forusers/visualchangelog260/index.rst:252
 msgid "Feature: Data defined control of composer items"
 msgstr "Mogelijkheid: Data-gedefinieerd beheer van items voor Printvormgeving"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:252
+#: ../../source/site/forusers/visualchangelog260/index.rst:254
 msgid ""
 "Many properties of composer items can now be controlled using data binding. "
 "These include:"
 msgstr "Veel eigenschappen van items in Printvormgeving kunnen nu worden beheerd met behulp van het binden van gegevens. Deze omvatten:"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:255
+#: ../../source/site/forusers/visualchangelog260/index.rst:257
 msgid "Transparency and blend mode."
 msgstr "Transparantie en mengmodus."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:256
+#: ../../source/site/forusers/visualchangelog260/index.rst:258
 msgid "Item rotation."
 msgstr "Rotatie item."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:257
+#: ../../source/site/forusers/visualchangelog260/index.rst:259
 msgid "Map scale, extents and rotation."
 msgstr "Schaal van de kaart, bereiken en rotatie."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:258
+#: ../../source/site/forusers/visualchangelog260/index.rst:260
 msgid "Atlas feature margin."
 msgstr "Marge van Atlas-object."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:259
+#: ../../source/site/forusers/visualchangelog260/index.rst:261
 msgid "Item size and position."
 msgstr "Itemgrootte en positie."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:260
+#: ../../source/site/forusers/visualchangelog260/index.rst:262
 msgid "Page size, orientation and number of pages."
 msgstr "Paginagrootte, oriëntatie en aantal pagina's."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:267
+#: ../../source/site/forusers/visualchangelog260/index.rst:269
 msgid "Feature: Composer images can be specifed as remote URLS"
 msgstr "Mogelijkheid: Afbeeldingen van Printvormgeving kunnen worden gespecificeerd als URL's op afstand"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:269
+#: ../../source/site/forusers/visualchangelog260/index.rst:271
 msgid ""
 "Picture items in the map composer now support remote urls as a picture "
 "source. This source can also be data defined."
 msgstr "Items van afbeeldingen in printvormgeving ondersteunen nu URL's op afstand als bron voor een afbeelding. Deze bron mag ook data-gedefinieerd zijn."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:277
+#: ../../source/site/forusers/visualchangelog260/index.rst:279
 msgid "Feature: Composer Table improvements"
 msgstr "Mogelijkheid: Verbeteringen Tabel van Printvormgeving"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:279
+#: ../../source/site/forusers/visualchangelog260/index.rst:281
 msgid "You can now set table header and content font colors."
 msgstr "U kunt nu kleuren voor lettertypen van tabelkop en inhoud instellen."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:280
+#: ../../source/site/forusers/visualchangelog260/index.rst:282
 msgid ""
 "Tables can now be split across multiple frames, allowing their content to be"
 " distributed over columns or over different pages."
 msgstr "Tabellen kunnen nu worden gesplitst over meerdere frames, wat het mogelijk maakt hun inhoud te verdelen over kolommen of over verschillende pagina's."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:282
+#: ../../source/site/forusers/visualchangelog260/index.rst:284
 msgid "Added option show headers on first frame, all frames, or no frames."
 msgstr "Optie toegevoegd voor het weergeven van koppen in eerste frame, alle frames, of geen frames."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:283
+#: ../../source/site/forusers/visualchangelog260/index.rst:285
 msgid "Allow manual control of column widths."
 msgstr "Handmatig beheren van kolombreedten toestaan."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:284
+#: ../../source/site/forusers/visualchangelog260/index.rst:286
 msgid ""
 "New options for table source, including current atlas feature and child "
 "features from a relation."
 msgstr "Nieuwe opties voor tabelbron, inclusief huidig atlas-object en kind-objecten uit een relatie."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:286
+#: ../../source/site/forusers/visualchangelog260/index.rst:288
 msgid ""
 "Choice of behaviour for empty tables, include hiding the entire table, "
 "showing empty cells, or displaying a set message in the table body."
 msgstr "Keuze voor gedrag van lege tabellen, inclusief het verbergen van de gehele tabel, lege cellen weergeven, of het weergeven van een ingesteld bericht in de tabeltekst."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:289
+#: ../../source/site/forusers/visualchangelog260/index.rst:291
 msgid ""
 "Added a checkbox to filter table features to those which intersect the "
 "current atlas feature."
 msgstr "Een keuzevak toegevoegd om tabelobjecten te filteren tot die welke het huidige atlas-object kruisen."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:291
+#: ../../source/site/forusers/visualchangelog260/index.rst:293
 msgid "Added checkbox to remove duplicate rows from table."
 msgstr "Keuzevak toegevoegd voor het verwijderen van duplicaat-rijen uit de tabel."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:293
+#: ../../source/site/forusers/visualchangelog260/index.rst:295
 msgid ""
 "Note that tables in existing projects are not automatically updated to the "
 "new table format which supports these features, and tables must be readded "
 "to a composition for the new settings to appear."
 msgstr "Onthoud dat tabellen in bestaande projecten niet automatisch worden bijgewerkt naar de nieuwe indeling van tabellen die deze mogelijkheden ondersteunen, en tabellen moeten worden ingelezen in een lay-out om de nieuwe instellingen te laten verschijnen."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:302
+#: ../../source/site/forusers/visualchangelog260/index.rst:304
 msgid "Feature: Composer improvements"
 msgstr "Mogelijkheid: Verbeteringen van Printvormgeving"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:304
+#: ../../source/site/forusers/visualchangelog260/index.rst:306
 msgid ""
 "The map composer (used to prepare printable map compositions) has received a"
 " number of improvements in QGIS 2.6."
 msgstr "De Printvormgeving (gebruikt om af te drukken lay-outs voor kaarten voor te bereiden) heeft een aantal verbeteringen ondergaan in QGIS 2.6."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:307
+#: ../../source/site/forusers/visualchangelog260/index.rst:309
 msgid "You can now change the secondary fill color for scalebars"
 msgstr "U kunt de tweede vulkleur wijzigen voor schaalbalken"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:308
+#: ../../source/site/forusers/visualchangelog260/index.rst:310
 msgid ""
 "Holding shift while drawing line/arrow items constrains drawing to "
 "horizontal, vertical or 45 degree angles"
 msgstr "Ingedrukt houden van Shift bij het tekenen van items lijn/pijl beperkt het tekenen tot horizontaal, verticaal of hoeken van 45 graden"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:310
+#: ../../source/site/forusers/visualchangelog260/index.rst:312
 msgid ""
 "Holding shift while drawing other new items constrains them to squares, "
 "holding alt causes item to be drawn from the center"
 msgstr "Ingedrukt houden van Shift tijdens tekenen van andere nieuwe items beperkt ze tot vierkanten, ingedrukt houden van Alt zorgt er voor dat het item vanuit het midden wordt getekend"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:312
+#: ../../source/site/forusers/visualchangelog260/index.rst:314
 msgid ""
 "Right click no longer locks/unlocks items, this is now handled by the new "
 "items panel. Locked items can no longer be selected from the composer "
 "canvas, allowing for interaction with items below them."
 msgstr "Klikken met rechts zet niet langer items vast/maakt ze los, dit wordt nu afgehandeld door het nieuwe paneel Items. Vastgezette items kunnen niet langer worden geselecteerd vanuit het venster van printvormgeving, wat interactie met items eronder mogelijk maakt."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:315
+#: ../../source/site/forusers/visualchangelog260/index.rst:317
 msgid ""
 "Holding alt while pressing cursor keys results in a 1px movement for items"
 msgstr "Ingedrukt houden van Alt bij het drukken op pijltjestoetsen resulteert in een verplaatsing van het item met 1px"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:317
+#: ../../source/site/forusers/visualchangelog260/index.rst:319
 msgid ""
 "Removed the destructive 'Load from template' menu item, replace with a new "
 "non-destructive 'Add items from template' action"
 msgstr "Het destructieve menuitem 'Laden uit sjabloon' verwijderd, vervangen door een nieuwe niet destructieve actie 'Items uit sjabloon toevoegen'"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:325
+#: ../../source/site/forusers/visualchangelog260/index.rst:327
 msgid "Feature: Improved item snapping"
 msgstr "Mogelijkheid: Verbeterd snappen voor item"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:327
+#: ../../source/site/forusers/visualchangelog260/index.rst:329
 msgid ""
 "Snapping thresholds are now set in pixels, allowing for finer movement and "
 "resizing of items when zoomed in to a composition. Items within a group are "
 "no longer used for auto snap lines."
 msgstr "Drempels voor snappen worden nu ingesteld in pixels, wat het mogelijk maakt nauwkeuriger te verplaatsen en items van grootte te wijzigen indien ingezoomd op een lay-out. Items binnen een groep worden niet langer gebruikt voor automatisch snappen aan lijnen."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:336
+#: ../../source/site/forusers/visualchangelog260/index.rst:338
 msgid "Feature: Multiple overviews for a map item"
 msgstr "Mogelijkheid: Meerdere overzichtskaarten voor een kaartitem"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:338
+#: ../../source/site/forusers/visualchangelog260/index.rst:340
 msgid ""
 "Sometimes it is useful to be able to show more than one overview frame for a"
 " map frame. For example if you want to show where your map is in local, "
@@ -545,99 +553,99 @@ msgid ""
 "maps as you like to the 'overview' role in your composition."
 msgstr "Soms is het nuttig om in staat te zijn meer dan één frame voor overzichten te kunnen weergeven voor een kaartframe. Als u bijvoorbeeld wilt weergeven waar uw kaart zich bevindt in lokale, regionale en globale context, kan het gebruiken van meerdere overzichtskaarten helpen dit te bereiken. Vanaf QGIS 2.6 kunt u dit nu bereiken door net zoveel kaarten toe te wijzen als u wilt aan de rol 'overzicht' in uw lay-out."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:350
+#: ../../source/site/forusers/visualchangelog260/index.rst:352
 msgid "Feature: HTML item improvements"
 msgstr "Mogelijkheid: Verbeteringen voor HTML-items"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:352
+#: ../../source/site/forusers/visualchangelog260/index.rst:354
 msgid "There are a number of useful new options for the HTML composer item:"
 msgstr "Er zijn een aantal nuttige nieuwe nieuwe opties voor het item HTML in Printvormgeving:"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:354
+#: ../../source/site/forusers/visualchangelog260/index.rst:356
 msgid "Option for manual entry of HTML source"
 msgstr "Optie voor handmatige invoer van de bron voor de HTML"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:355
+#: ../../source/site/forusers/visualchangelog260/index.rst:357
 msgid ""
 "QGIS expressions within HTML source can be evaluated prior to rendering HTML"
 " content"
 msgstr "QGIS-expressies binnen HTML-bron kunnen worden geëvalueerd, voorafgaande aan het renderen van de inhoud van de HTML"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:357
+#: ../../source/site/forusers/visualchangelog260/index.rst:359
 msgid "Data defined URL for HTML source"
 msgstr "Data-gedefinieerde URL voor HTML-bron"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:358
+#: ../../source/site/forusers/visualchangelog260/index.rst:360
 msgid "Allow for creating a user stylesheet to override HTML styles"
 msgstr "Mogelijkheid voor het maken van een gebruiker-stylesheet om voorrang te hebben over stijlen van HTML"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:365
+#: ../../source/site/forusers/visualchangelog260/index.rst:367
 msgid "Feature: Composer map grid improvements"
 msgstr "Mogelijkheid: Verbeteringen van raster van Printvormgeving"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:367
+#: ../../source/site/forusers/visualchangelog260/index.rst:369
 msgid "You can now have multiple grids with different properties."
 msgstr "U kunt nu meerdere rasters met verschillende eigenschappen gebruiken."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:368
+#: ../../source/site/forusers/visualchangelog260/index.rst:370
 msgid "You can mix reprojected grids and Lat/Long grids."
 msgstr "U kunt opnieuw geprojecteerde rasters en Lat/Long-rasters mixen."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:369
+#: ../../source/site/forusers/visualchangelog260/index.rst:371
 msgid "You can use standard QGIS symbology grid lines etc."
 msgstr "U kunt standaard QGIS symbologie rasterlijnen etc. gebruiken."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:370
+#: ../../source/site/forusers/visualchangelog260/index.rst:372
 msgid ""
 "There is a new frame/annotations only grid style. Selecting this style "
 "causes only the frame and annotations to be drawn, with no grid lines or "
 "other markings over the map."
 msgstr "Er is een nieuwe rasterstijl voor alleen frame/annotaties. Selecteren van deze stijl zorgt er voor dat alleen het frame en annotaties worden getekend, zonder rasterlijnen of andere markeringen op de kaart."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:373
+#: ../../source/site/forusers/visualchangelog260/index.rst:375
 msgid ""
 "There are now options for controlling which side of a map item the frame is "
 "drawn on."
 msgstr "er zijn nu opties voor het beheren van aan welke kant van een kaartitem het frame zal worden getekend."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:375
+#: ../../source/site/forusers/visualchangelog260/index.rst:377
 msgid ""
 "There are new tick styles for frames, with inner ticks, outer ticks and both"
 " inner and outer tick options."
 msgstr "Er zijn nieuwe stijlen voor stippels voor frames, met opties voor stippels binnen, stippels buiten en zowel binnen als buiten."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:377
+#: ../../source/site/forusers/visualchangelog260/index.rst:379
 msgid ""
 "We have made improvements to grid annotations, including many new formats "
 "for annotations."
 msgstr "We hebben verbeteringen aangebracht aan raster-annotaties, inclusief mvele nieuwe indelingen voor annotaties."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:379
+#: ../../source/site/forusers/visualchangelog260/index.rst:381
 msgid ""
 "Grid annotations now use the typographically correct prime and double prime "
 "symbols for grid annotations."
 msgstr "Raster-annotaties gebruiken de typografische juiste symbolen voor aanhalingsteken en dubbel aanhalingsteken voor raster-annotaties."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:387
+#: ../../source/site/forusers/visualchangelog260/index.rst:389
 msgid "Processing"
 msgstr "Processing"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:390
+#: ../../source/site/forusers/visualchangelog260/index.rst:392
 msgid "Feature: On-line collection of models and scripts"
 msgstr "Mogelijkheid: Online collectie van modellen en scripts"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:392
+#: ../../source/site/forusers/visualchangelog260/index.rst:394
 msgid ""
 "Models and scripts can be downloaded from the online collection and "
 "installed directly from the Processing interface. The collection will be "
 "expanded with new scripts and models provided by Processing users."
 msgstr "Modellen en scripts kunnen worden gedownload vanuit de online collectie en direct worden geïnstalleerd vanuit de interface van Processing. De collectie zal worden uitgebreid met nieuwe scripts en modellen die worden verschaft door gebruikers van Processing."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:401
+#: ../../source/site/forusers/visualchangelog260/index.rst:403
 msgid "Feature: New modeler implementation"
 msgstr "Mogelijkheid: Nieuwe implementatie Grafische modellen bouwen"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:403
+#: ../../source/site/forusers/visualchangelog260/index.rst:405
 msgid ""
 "The modeler has been rewritten, and now provides extra functionality such as"
 " allowing nested models with no depth limit. Models are now stored as JSON "
@@ -646,282 +654,282 @@ msgid ""
 "modeler graph."
 msgstr "Grafische modellen bouwen is opnieuw geschreven, en verschaft nu extra functionaliteit zoals het toestaan van geneste modellen zonder beperking voor diepte. Modellen worden nu opgeslagen als JSON-bestanden. Achterwaartse compatibiliteit is behouden, dus alle modellen kunnen nog steeds worden gebruikt. U kunt nu ook items slepen  en neerzetten vanuit de invoeren en algoritmen op de weergave van Grafische modellen bouwen."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:414
+#: ../../source/site/forusers/visualchangelog260/index.rst:416
 msgid "Programmability"
 msgstr "Programmeerbaarheid"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:417
+#: ../../source/site/forusers/visualchangelog260/index.rst:419
 msgid "Feature: API changes for QGIS widgets"
 msgstr "Mogelijkheid: API-wijzigingen voor widgets van QGIS"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:419
+#: ../../source/site/forusers/visualchangelog260/index.rst:421
 msgid ""
 "In order to normalise the naming of QGIS widgets, some minor API changes "
 "have been made. Almost all edit widgets were renamed by adding \"Wrapper\" "
 "at the end of their names. In particular this concerns:"
 msgstr "Enkele kleine wijzigingen in de API zijn doorgevoerd om de naamgeving van van widgets voor QGIS te normaliseren. Bijna alle Wijzig-hulpmiddelen  werden hernoemd door \"Wrapper\" toe te voegen aan het einde van hun namen. In het bijzonder betreft dit:"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:423
+#: ../../source/site/forusers/visualchangelog260/index.rst:425
 msgid "QgsCheckboxWidget -> QgsCheckboxWidgetWrapper"
 msgstr "QgsCheckboxWidget -> QgsCheckboxWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:424
+#: ../../source/site/forusers/visualchangelog260/index.rst:426
 msgid "QgsClassificationWidget -> QgsClassificationWidgetWrapper"
 msgstr "QgsClassificationWidget -> QgsClassificationWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:425
+#: ../../source/site/forusers/visualchangelog260/index.rst:427
 msgid "QgsColorWidget -> QgsColorWidgetWrapper"
 msgstr "QgsColorWidget -> QgsColorWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:426
+#: ../../source/site/forusers/visualchangelog260/index.rst:428
 msgid "QgsEnumerationWidget -> QgsEnumerationWidgetWrapper"
 msgstr "QgsEnumerationWidget -> QgsEnumerationWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:427
+#: ../../source/site/forusers/visualchangelog260/index.rst:429
 msgid "QgsFilenameWidget -> QgsFilenameWidgetWrapper"
 msgstr "QgsFilenameWidget -> QgsFilenameWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:428
+#: ../../source/site/forusers/visualchangelog260/index.rst:430
 msgid "QgsHiddenWidget -> QgsHiddenWidgetWrapper"
 msgstr "QgsHiddenWidget -> QgsHiddenWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:429
+#: ../../source/site/forusers/visualchangelog260/index.rst:431
 msgid "QgsPhotoWidget -> QgsPhotoWidgetWrapper"
 msgstr "QgsPhotoWidget -> QgsPhotoWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:430
+#: ../../source/site/forusers/visualchangelog260/index.rst:432
 msgid "QgsRangeWidget -> QgsRangeWidgetWrapper"
 msgstr "QgsRangeWidget -> QgsRangeWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:431
+#: ../../source/site/forusers/visualchangelog260/index.rst:433
 msgid "QgsTexteditWidget -> QgsTexteditWrapper"
 msgstr "QgsTexteditWidget -> QgsTexteditWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:432
+#: ../../source/site/forusers/visualchangelog260/index.rst:434
 msgid "QgsUniquevalueWidget -> QgsUniquevalueWidgetWrapper"
 msgstr "QgsUniquevalueWidget -> QgsUniquevalueWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:433
+#: ../../source/site/forusers/visualchangelog260/index.rst:435
 msgid "QgsUuidWidget -> QgsUuidWidgetWrapper"
 msgstr "QgsUuidWidget -> QgsUuidWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:434
+#: ../../source/site/forusers/visualchangelog260/index.rst:436
 msgid "QgsValuemapWidget -> QgsValuemapWidgetWrapper"
 msgstr "QgsValuemapWidget -> QgsValuemapWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:435
+#: ../../source/site/forusers/visualchangelog260/index.rst:437
 msgid "QgsValuerelationWidget -> QgsValuerelationWidgetWrapper"
 msgstr "QgsValuerelationWidget -> QgsValuerelationWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:436
+#: ../../source/site/forusers/visualchangelog260/index.rst:438
 msgid "QgsWebviewWidget -> QgsWebviewWidgetWrapper"
 msgstr "QgsWebviewWidget -> QgsWebviewWidgetWrapper"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:439
+#: ../../source/site/forusers/visualchangelog260/index.rst:441
 msgid "QGIS Server"
 msgstr "QGIS Server"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:442
+#: ../../source/site/forusers/visualchangelog260/index.rst:444
 msgid "Feature: Enhancements of searching with GetFeatureInfo request"
 msgstr "Mogelijkheid: Verbeteringen voor het zoeken met verzoek GetFeatureInfo"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:444
+#: ../../source/site/forusers/visualchangelog260/index.rst:446
 msgid ""
 "https://github.com/qgis/QGIS/commit/8888c5f0c0e0ffdf23453a20addf6abaf125845d"
 msgstr "https://github.com/qgis/QGIS/commit/8888c5f0c0e0ffdf23453a20addf6abaf125845d"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:447
+#: ../../source/site/forusers/visualchangelog260/index.rst:449
 msgid ""
 "Feature: Add a precision setting for GetFeatureInfo geometry attributes"
 msgstr "Mogelijkheid: Een instelling voor precisie toegevoegd voor geometrie-attributen van GetFeatureInfo"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:450
+#: ../../source/site/forusers/visualchangelog260/index.rst:452
 msgid "Symbology"
 msgstr "Symbologie"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:453
+#: ../../source/site/forusers/visualchangelog260/index.rst:455
 msgid "Feature: Better random colour choice"
 msgstr "Mogelijkheid: Betere keuze willekeurige kleur"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:455
+#: ../../source/site/forusers/visualchangelog260/index.rst:457
 msgid ""
 "We have improved the random colour algorithm for classified renderer so that"
 " the colours generated are more visually distinct from each other."
 msgstr "We hebben het algoritme voor de willekeurig kleuren voor de renderer Classificatie verbeterd zodat de gegenereerde kleuren meer visueel van elkaar verschillen."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:463
+#: ../../source/site/forusers/visualchangelog260/index.rst:465
 msgid "Feature: Symbology user interface improvements"
 msgstr "Mogelijkheid: Verbeteringen aan de gebruikersinterface voor Symbologie"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:465
+#: ../../source/site/forusers/visualchangelog260/index.rst:467
 msgid ""
 "Where possible, properties of symbol layer are maintained when changing "
 "symbol layer type."
 msgstr "Waar mogelijk worden eigenschappen van de symboollaag behouden bij het wijzigen van het type symboollaag."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:467
+#: ../../source/site/forusers/visualchangelog260/index.rst:469
 msgid "Added an edit button for shapeburst and gradient color ramps."
 msgstr "Een knop bewerken toegevoegd voor shapeburst en kleurverlopen."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:468
+#: ../../source/site/forusers/visualchangelog260/index.rst:470
 msgid "Automatic update of label and neighboring ranges boundaries."
 msgstr "Automatisch bijwerken van label en grenzen van naburige bereiken."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:469
+#: ../../source/site/forusers/visualchangelog260/index.rst:471
 msgid ""
 "Classes are automatically converted from categorised and graduated classes "
 "when switching to rule based renderer."
 msgstr "Klassen worden automatisch geconverteerd van klassen Categorieën en Gradueel bij het overschakelen naar de Op regel gebaseerde renderer."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:471
+#: ../../source/site/forusers/visualchangelog260/index.rst:473
 msgid "Added units and number of decimal places to graduated renderer labels."
 msgstr "Eenheden en aantal decimale plaatsen toegevoegd aan de labels voor de renderer Gradueel."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:473
+#: ../../source/site/forusers/visualchangelog260/index.rst:475
 msgid ""
 "Improved responsiveness to changes in color ramp, inverted colour ramp, and "
 "other options in GUI."
 msgstr "Verbeterde reactie bij wijzigingen in kleurenbalk, geïnverteerde kleurenbalk, en andere opties in de GUI."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:475
+#: ../../source/site/forusers/visualchangelog260/index.rst:477
 msgid ""
 "Retain symbol when switching between simple, graduated, categorized, and "
 "other renderers."
 msgstr "Symbool behouden bij schakelen tussen Enkel, Gradueel, Categorieën, en andere renderers."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:477
+#: ../../source/site/forusers/visualchangelog260/index.rst:479
 msgid "Improved labelling of StdDev calculation mode."
 msgstr "Labelen verbeterd van de rekenmodus StdDev."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:484
+#: ../../source/site/forusers/visualchangelog260/index.rst:486
 msgid "User Interface"
 msgstr "Gebruikers-interface"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:487
+#: ../../source/site/forusers/visualchangelog260/index.rst:489
 msgid "Feature: Syntax highlighting code editor"
 msgstr "Mogelijkheid: Codebewerker met accentueren van syntaxis"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:489
+#: ../../source/site/forusers/visualchangelog260/index.rst:491
 msgid ""
 "For python script editors, expression builder, filter window, composer HTML "
 "and CSS editors"
 msgstr "Voor scriptbewerkers van Python, expressiebouwer, venster Filteren, Printvormgeving HTML en bewerkers voor CSS"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:497
+#: ../../source/site/forusers/visualchangelog260/index.rst:499
 msgid "Feature: Color palettes"
 msgstr "Mogelijkheid: Kleurpaletten"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:499
+#: ../../source/site/forusers/visualchangelog260/index.rst:501
 msgid "You can now define your own custom color palettes for use in QGIS."
 msgstr "U kunt nu uw eigen aangepaste kleurpaletten definiëren om te gebruiken in QGIS."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:501
+#: ../../source/site/forusers/visualchangelog260/index.rst:503
 msgid "Custom user global color palette (in options dialog)."
 msgstr "Aangepast gebruiker globaal kleurpalet (in dialoogvenster Opties)."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:502
+#: ../../source/site/forusers/visualchangelog260/index.rst:504
 msgid "Per project color palette (in project properties dialog)."
 msgstr "Kleurpalet per project (in dialoogvenster Projecteigenschappen)."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:503
+#: ../../source/site/forusers/visualchangelog260/index.rst:505
 msgid "Colors are shown in color button menus and new color picker dialog."
 msgstr "Kleuren worden weergegeven in menu's met kleurknoppen en een nieuw dialoogvenster Kleurkiezer."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:504
+#: ../../source/site/forusers/visualchangelog260/index.rst:506
 msgid "You can import/export colors to a GPL palette file."
 msgstr "U kunt kleuren im-/exporteren naar een paletbestand GPL."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:511
+#: ../../source/site/forusers/visualchangelog260/index.rst:513
 msgid "Feature: New color picker dialog"
 msgstr "Mogelijkheid: Nieuw dialoogvenster Kleurkiezer"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:528
+#: ../../source/site/forusers/visualchangelog260/index.rst:530
 msgid "There is a new custom QGIS color picker dialog. Features include:"
 msgstr "Er is een nieuw aangepast QGIS dialoogvenster Kleurkiezer. Mogelijkheden omvatten:"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:514
+#: ../../source/site/forusers/visualchangelog260/index.rst:516
 msgid "Sliders for hue, saturation, value, red, green, blue color components."
 msgstr "Schuifbalken voor helderheid, saturatie, waarde, rode, groene, blauwe kleurcomponenten."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:516
+#: ../../source/site/forusers/visualchangelog260/index.rst:518
 msgid "Alpha slider."
 msgstr "Schuifbalk Alfa."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:517
+#: ../../source/site/forusers/visualchangelog260/index.rst:519
 msgid "Option to copy/paste html color codes (in a variety of formats)."
 msgstr "Optie om HTML-kleurcodes te kopiëren/plakken (in een variëteit aan indelingen)."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:518
+#: ../../source/site/forusers/visualchangelog260/index.rst:520
 msgid "Before/after color preview, with alpha preview."
 msgstr "Voorbeeld kleur voor/na, met voorbeeld Alfa."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:519
+#: ../../source/site/forusers/visualchangelog260/index.rst:521
 msgid "Interactive 2D color ramp widget."
 msgstr "Interactieve widget 2D kleurenbalk."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:520
+#: ../../source/site/forusers/visualchangelog260/index.rst:522
 msgid "Hue wheel/triangle widget."
 msgstr "Widget Hue wiel/driehoek."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:521
+#: ../../source/site/forusers/visualchangelog260/index.rst:523
 msgid ""
 "Editable color palettes, including the ability to create new palettes and "
 "import/export colors to a GPL palette file."
 msgstr "bewerkbare kleurpaletten, inclusief de mogelijkheid om nieuwe palletten te maken en im-/exporteren van kleuren naar een paletbestand GPL."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:523
+#: ../../source/site/forusers/visualchangelog260/index.rst:525
 msgid ""
 "Live color sampler with option to sample over a set radius (OS support "
 "dependant)."
 msgstr "Live kleurensampler met de optie om over een ingestelde radius te samplen (afhankelijk van ondersteuning besturingssysteem)."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:525
+#: ../../source/site/forusers/visualchangelog260/index.rst:527
 msgid ""
 "Supports interaction with other apps via drag and drop of colors (OS support"
 " dependant)."
 msgstr "Ondersteunt interactie met andere apps via slepen en neerzetten van kleuren (afhankelijk van ondersteuning besturingssysteem)."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:527
+#: ../../source/site/forusers/visualchangelog260/index.rst:529
 msgid "Option to disable the dialog and use the native picker dialog instead."
 msgstr "Optie om het dialoogvenster uit te schakelen en in plaats daarvan het eigen dialoogvenster voor de keuze te gebruiken."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:535
+#: ../../source/site/forusers/visualchangelog260/index.rst:537
 msgid "Feature: Single select feature tool merged into select by rectangle"
 msgstr "Mogelijkheid: Gereedschap Eén object selecteren samengevoegd met Met rechthoek selecteren"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:537
+#: ../../source/site/forusers/visualchangelog260/index.rst:539
 msgid ""
 "We have merged the single selection tool into the rectangle tool. If you "
 "want to select a single feature, simply enable the rectangle tool and then "
 "single click (rather than dragging a rectangle) a feature."
 msgstr "We hebben het gereedschap Eén object selecteren samengevoegd met met het gereedschap met rechthoek selecteren. Als u één enkel object wilt selecteren, schakel dan het gereedschap met rechthoek selecteren in en klik één maal op een object (in plaats van een rechthoek te tekenen)."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:546
+#: ../../source/site/forusers/visualchangelog260/index.rst:548
 msgid "Feature: Add layer to map canvas behaviour"
 msgstr "Mogelijkheid: Gedrag Laag aan kaartvenster toevoegen"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:548
+#: ../../source/site/forusers/visualchangelog260/index.rst:550
 msgid ""
 "In many of QGIS' dialogs that generate a new layer, the 'Add layer to map "
 "canvas' checkbox is now checked by default so that the new layer "
 "automatically gets added to the map."
 msgstr "In vele dialoogvensters van QGIS die een nieuwe laag genereren is het keuzevak 'Laag aan kaartvenster toevoegen' nu standaard geselecteerd, zodat de nieuwe automatisch wordt toegevoegd aan het kaartvenster."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:557
+#: ../../source/site/forusers/visualchangelog260/index.rst:559
 msgid "Feature: Add icon size 48 and 64"
 msgstr "Mogelijkheid: Grootte pictogram 48 en 64 toegevoegd"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:559
+#: ../../source/site/forusers/visualchangelog260/index.rst:561
 msgid ""
 "For those using QGIS on touch devices (or if you just like big, chunky "
 "icons), you can now set the icons up to 64 x 64 pixels in size."
 msgstr "Voor hen die QGIS gebruiken op aanraak-apparaten (of als u gewoon grote hoekige pictogrammen leuk vindt), kunnen nu de pictogrammen instellen tot een grootte van 64 x 64 pixels."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:567
+#: ../../source/site/forusers/visualchangelog260/index.rst:569
 msgid "Feature: New colour buttons"
 msgstr "Mogelijkheid: Nieuwe knoppen kleuren"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:569
+#: ../../source/site/forusers/visualchangelog260/index.rst:571
 msgid ""
 "This is probably one of the most useful new features in QGIS 2.6 - "
 "especially if you are involved a lot in cartography work. The colour button "
@@ -931,11 +939,11 @@ msgid ""
 "of the colour widget to see a standard colour chooser dialog."
 msgstr "Dit is waarschijnlijk een van de meest nuttige nieuwe mogelijkheden in QGIS 2.6 - speciaal als u veel bent betrokken bij cartografisch werk. De overal in QGIS gebruikte knop Kleur is verbeterd, met keuzemenu's, kleurklokken, standaard kleuren, etc. Klik op het item voor het keuzemenu rechts van de knop Kleur om de snelle opties te kunnen zien. Klik op de knop links van het widget Kleur om een standaard dialoogvenster Kleur kiezen te zien."
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:582
+#: ../../source/site/forusers/visualchangelog260/index.rst:584
 msgid "Feature: Context menu for identify tool"
 msgstr "Mogelijkheid: Contextmenu voor Gereedschap objecten identificeren"
 
-#: ../../source/site/forusers/visualchangelog260/index.rst:584
+#: ../../source/site/forusers/visualchangelog260/index.rst:586
 msgid ""
 "When using the identify tool, you can now right click on the canvas to use "
 "the identify tool in context mode. In the menu that appears you can define "
@@ -949,74 +957,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "checkbox_unchecked"
-
-#~ msgid "Changelog for QGIS: 2.6.0"
-#~ msgstr ""
-
-#~ msgid "Changelog for version: 2.6.0"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "**GOLD Sponsor: `Asia Air Survey, Japan <http://www.asiaairsurvey.com/>`_**"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Snapping thresholds are now set in pixels, allowing for finer movement and "
-#~ "resizing of items when zoomed in to a composition."
-#~ msgstr ""
-
-#~ msgid "Items within a group are no longer used for auto snap lines."
-#~ msgstr ""
-
-#~ msgid "Scale-based filtering of legend nodes (in WMS)"
-#~ msgstr ""
-
-#~ msgid "Rule-based renderer legends can now be displayed in in a pseudo-tree"
-#~ msgstr ""
-
-#~ msgid "Sliders for hue, saturation, value, red, green, blue color"
-#~ msgstr ""
-
-#~ msgid "components."
-#~ msgstr ""
-
-#~ msgid "Editable color palettes, including the ability to create new palettes"
-#~ msgstr ""
-
-#~ msgid "and import/export colors to a GPL palette file."
-#~ msgstr ""
-
-#~ msgid "Live color sampler with option to sample over a set radius (OS"
-#~ msgstr ""
-
-#~ msgid "support dependant)."
-#~ msgstr ""
-
-#~ msgid "Supports interaction with other apps via drag and drop of colors (OS"
-#~ msgstr ""
-
-#~ msgid "Option to disable the dialog and use the native picker dialog"
-#~ msgstr ""
-
-#~ msgid "instead."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "SILVER Sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_ "
-#~ "BRONZE Sponsor: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "A current list of donors who have made financial contributions large and "
-#~ "small to the project can be seen on our `donors list "
-#~ "<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`_. If you "
-#~ "would like to become and official project sponsor, please visit `our "
-#~ "sponsorship page "
-#~ "<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`_ for details."
-#~ " Sponsoring QGIS helps us to fund our six monthly developer meetings, "
-#~ "maintain project infrastructure and fund bug fixing efforts."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "You can now use just a subset a related fields when creating a vector join."
-#~ msgstr ""
