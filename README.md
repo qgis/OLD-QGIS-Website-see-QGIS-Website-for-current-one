@@ -165,107 +165,51 @@ pip install -r REQUIREMENTS.txt
 ```
 
 And run the build from within that venv:
-## Building the website using Paver
-
-Paver is a python based Make-like tool (http://paver.github.io/paver/)
-
-Paver can be used on Linux and Windows (somebody can test on OSX?)
-
-There are two scripts available:
 
 ```
 make html
 ```
-- bootstrap.py (for setting up the python related stuff)
-- pavement.py (the config file for Paver)
-
-General use:
-
-    # first let bootstrap.py install all stuff
-    python bootstrap.py
-
-    # if the script is complaining about easysetup missing:
-    # download: https://bitbucket.org/pypa/setuptools/raw/bootstrap/ez_setup.py
-    # and install that first:
-    python ez_setup.py
 
 Want to build your own language? Note that you will use the translations from the .po files from git! For example for 'nl' do:
-    # after succesfull running of bootstrap.py you have all wheels on place, the script has created a virtual
-    environment (called "virtualenv") with all Sphinx related python machinery. Now, each time you want to build,
-    you just need to:
-    # 1) activate a virtual environment with all Sphinx related python machinery
-    # 2) run the actual script to build the website
 
 ```
 make LANG=nl html
 ```
-    # to go into the virtual environment:
-    # on Windows:
-    virtualenv\Scripts\activate
-    # on Linux:
-    source virtualenv/bin/activate
-
-    # now build (only website, no included Documentation yet):
-    # eg english only:
-    paver html
-
-To be able to build localized versions of the Website with paver the
-'Transifex-client (tx)' is needed.
 
 ### Build on Windows
-On linux, install with::
 
 Create a virtual environment called 'venv' in that directory (search the Internet for Python Virtual
 Env on Windows for more details), but in short: use the module 'venv' to create a virtual environment called 'venv'
-	# note that we use a slightly older version of tx
-	pip install transifex-client==0.9
 
 ```
 # in dos box:
 python -m venv venv
 ```
-On Windows, you should download it from: http://files.transifex.com/transifex-client/0.10/tx.exe
-see http://support.transifex.com/customer/portal/articles/998120-client-on-windows
 
 Then activate the venv:
-To make tx.exe usable in the paver script, either put it IN this directory next to the pavement.py file, OR add it to your PATH
 
-IMPORTANT: to be able to pull from transifex.com, you will need a credentials file.
-This file should be named: ``.transifexrc`` and easiest is to put it in your home dir C:/users/you.
-Another option is to put it in the root of this project, but be carefull to not put your credentials in Github :-)
 ```
 venv\Scripts\activate.bat
 ```
 
 With 'activated' virtualenv, you should see 'venv' in the prompt. Install the requirements via the REQUIREMENTS.txt:
-The file should contain this::
 
 ```
 pip install -r REQUIREMENTS.txt
 ```
-	[https://www.transifex.com]
-	hostname = https://www.transifex.com
-	password = yourtransifexpassword
-	token =
-	username = yourtransifexusername
 
 And run the build from within that venv, using the make.bat script with the html argument to locally build the docs:
-With a working tx and a .transifexrc, you should be able to build for example the german version of docs via::
 
 ```
 make.bat html
 ```
-    # german:
-    paver html -l de
 
 Want to build your own language? Note that you will use the translations from the po files from git! For example 'nl' do:
-During the build you will see this command::
 
 ```
 set SPHINXOPTS=-D language=nl
 make.bat html
 ```
-	tx pull --minimum-perc=1 --skip -f -l de
 
 ## Translating
 
@@ -333,7 +277,6 @@ In this case, you need to manually pull the translations from Transifex to your 
    ```
 1. Share the changes by opening a pull-request, allowing us to integrate
    the new strings for the pulled language(s)
-This will pull all german po files from transifex (based on the .tx/config file in the root of this project)
 
 
 ## Styling the website
