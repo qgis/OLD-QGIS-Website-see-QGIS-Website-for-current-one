@@ -142,74 +142,59 @@ The best way to build the website is within a Python Virtual Environment (venv).
 
 ### Build on macOS or Linux
 
-You can create your own virtual env:
+1. You can create your own virtual env:
+   ```
+   # you NEED python >3.6. Depending on distro either use `python3` or `python`
+   # common name is 'venv' but call it whatever you like
 
-```
-# you NEED python >3.6. Depending on distro either use `python3` or `python`
-# common name is 'venv' but call it whatever you like
-
-python3 -m venv venv  # using the venv module, create a venv named 'venv'
-```
-
-Then activate the venv:
-
-```
-source ./venv/bin/activate
-```
-
-With 'activated' virtual environment, you should see 'venv' in the prompt.
-Install the requirements via the REQUIREMENTS.txt:
-
-```
-pip install -r REQUIREMENTS.txt
-```
-
-And run the build from within that venv:
-
-```
-make html
-```
-
-Want to build your own language? Note that you will use the translations from the .po files from git! For example for 'nl' do:
-
-```
-make LANG=nl html
-```
+   python3 -m venv venv  # using the venv module, create a venv named 'venv'
+   ```
+1. Then activate the venv:
+   ```
+   source ./venv/bin/activate
+   ```
+   With 'activated' virtual environment, you should see 'venv' in the prompt.
+1. Install the requirements via the REQUIREMENTS.txt:
+   ```
+   pip install -r REQUIREMENTS.txt
+   ```
+1. And run the build from within that venv:
+   ```
+   make html
+   ```
+   Want to build your own language? Note that you will use the translations from the .po files
+   in the `i18n` folder within the repository! For example for 'nl' do:
+   ```
+   make LANG=nl html
+   ```
 
 ### Build on Windows
 
-Create a virtual environment called 'venv' in that directory (search the Internet for Python Virtual
-Env on Windows for more details), but in short: use the module 'venv' to create a virtual environment called 'venv'
-
-```
-# in dos box:
-python -m venv venv
-```
-
-Then activate the venv:
-
-```
-venv\Scripts\activate.bat
-```
-
-With 'activated' virtualenv, you should see 'venv' in the prompt. Install the requirements via the REQUIREMENTS.txt:
-
-```
-pip install -r REQUIREMENTS.txt
-```
-
-And run the build from within that venv, using the make.bat script with the html argument to locally build the docs:
-
-```
-make.bat html
-```
-
-Want to build your own language? Note that you will use the translations from the po files from git! For example 'nl' do:
-
-```
-set SPHINXOPTS=-D language=nl
-make.bat html
-```
+1. Create a virtual environment called 'venv' in that directory (search the Internet for Python Virtual
+   Env on Windows for more details), but in short: use the module 'venv' to create a virtual environment called 'venv'
+   ```
+   # in dos box:
+   python -m venv venv
+   ```
+1. Then activate the venv:
+   ```
+   venv\Scripts\activate.bat
+   ```
+   With 'activated' virtualenv, you should see 'venv' in the prompt.
+1. Install the requirements via the REQUIREMENTS.txt:
+   ```
+   pip install -r REQUIREMENTS.txt
+   ```
+1. And run the build from within that venv, using the make.bat script with the html argument to locally build the docs:
+   ```
+   make.bat html
+   ```
+   Want to build your own language? Note that you will use the translations from the .po files
+   in the `i18n` folder within the repository! For example for 'nl' do:
+   ```
+   set SPHINXOPTS=-D language=nl
+   make.bat html
+   ```
 
 ## Translating
 
@@ -241,13 +226,11 @@ In this case, you need to manually pull the translations from Transifex to your 
    curl -o- https://raw.githubusercontent.com/transifex/cli/master/install.sh | bash
    ```
 1. To gather new strings in a pot (.po) file for your language, and merge them with
-   existing translations in the po files (**normally to be ran by your language maintainer**):
-
+   existing translations in the po files (**normally to be run by your language maintainer**):
     ```
     make pretranslate LANG=xx  # where xx is your language code
     ```
 1. To add a new language (the scripts will need some directory structure):
-
     ```
     make createlang LANG=xx
     ```
