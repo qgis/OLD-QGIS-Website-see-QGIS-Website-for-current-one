@@ -267,6 +267,72 @@ make.bat html
 ```
 	tx pull --minimum-perc=1 --skip -f -l de
 
+## Translating
+
+We rely on the [Transifex platform](https://transifex.com) to store and coordinate
+our translation efforts. To be part of the translation team, please follow
+[becoming a translator](https://www.qgis.org/en/site/getinvolved/translate.html#becoming-a-translator).
+
+New English strings in the repository are automatically pushed and made available on Transifex platform
+thanks to the [tx_push](.github/tx_push.yml) Github action.
+This action also calls the [create_transifex_resources](scripts/create_transifex_resources.sh) script
+ensuring that the Transifex [configuration file](.tx/config) is always up to date.
+
+Translated strings are pulled from Transifex to our servers as part of the daily build process
+(see [Makefile](Makefile) `full` rule).
+
+
+Sometimes, the process may fail or you may want to build the site locally with new strings in translated language.
+In this case, you need to manually pull the translations from Transifex to your local repository:
+
+1. Checkout locally the repository and target branch in git
+1. Prepare the environment
+   ```
+   python3 -m venv venv
+   source ./venv/bin/activate
+   pip install -r REQUIREMENTS.txt
+   ```
+1. Install [Transifex command line client](https://github.com/transifex/cli/)
+   ```
+   curl -o- https://raw.githubusercontent.com/transifex/cli/master/install.sh | bash
+   ```
+1. To gather new strings in a pot (.po) file for your language, and merge them with
+   existing translations in the po files (**normally to be ran by your language maintainer**):
+
+    ```
+    make pretranslate LANG=xx  # where xx is your language code
+    ```
+1. To add a new language (the scripts will need some directory structure):
+
+    ```
+    make createlang LANG=xx
+    ```
+1. Download the translated strings with commands in the Makefile.
+   By default this pulls all the languages.
+   ```
+   # --minimum-perc=1 so only files which have at least 1% translation are pulled
+   # -f to force, --skip to not stop with errors
+   tx pull --minimum-perc=1 --skip -f
+   ```
+   To pull a specific language (e.g. italian), do
+   ```
+   tx pull --minimum-perc=1 --skip -f -l it
+   ```
+
+   IMPORTANT: to be able to pull from transifex.com, you will need a credentials file.
+   This file should be named: ``.transifexrc`` and easiest is to put it in your home dir.
+   The file should contain this:
+   ```
+   [https://www.transifex.com]
+   rest_hostname = https://rest.api.transifex.com
+   token = yourtransifextoken
+   ```
+1. Build the docs in your language
+   ```
+   make html LANG=yourlanguage
+   ```
+1. Share the changes by opening a pull-request, allowing us to integrate
+   the new strings for the pulled language(s)
 This will pull all german po files from transifex (based on the .tx/config file in the root of this project)
 
 
