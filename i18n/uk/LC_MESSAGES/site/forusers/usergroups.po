@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018, QGIS Contributors
+# Copyright (C) 2023, QGIS Contributors
 # This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
@@ -7,14 +7,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2016-03-05 14:47+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Ukrainian (http://www.transifex.com/qgis/qgis-website/language/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: uk\n"
 "Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
 
@@ -66,7 +66,7 @@ msgstr "`QGIS User Group Japan (OSGeo.JP) --- контактна особа: Kos
 #: ../../source/site/forusers/usergroups.rst:19
 msgid ""
 "`QGIS Perú Official Users Group - contact: Anibal Alarcon "
-"<http://qgis.pe/>`_ (unreachable)"
+"<https://qgis.pe/>`_"
 msgstr ""
 
 #: ../../source/site/forusers/usergroups.rst:20
@@ -109,13 +109,14 @@ msgstr ""
 
 #: ../../source/site/forusers/usergroups.rst:31
 msgid ""
-"`QGIS ZA (South Africa) - contact: Admire Nyakudya <https://qgis.org.za/>`_"
+"`QGIS ZA (South Africa) - contact: Admire Nyakudya <https://qgis.org.za/>`_ "
+"(certificate expired 2019-01-24)"
 msgstr ""
 
 #: ../../source/site/forusers/usergroups.rst:32
 msgid ""
 "`Groupe des Utilisateurs de QGIS - France (France) - contact: Harrissou "
-"Sant-anna <https://www.osgeo.asso.fr/>`_"
+"Sant-anna <https://www.osgeo.fr/>`_"
 msgstr ""
 
 #: ../../source/site/forusers/usergroups.rst:33
@@ -394,119 +395,3 @@ msgstr ""
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr ""
-
-#~ msgid ""
-#~ "`Lima Perú QGIS User Group (Peru) - contact: Anibal Alarcon "
-#~ "<http://qgis.pe/>`_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "`QGIS Brasil (Brazil) - contact: Arthur Nanni <http://qgisbrasil.org/>`_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "`QGIS Brugergruppe Danmark (Denmark) - contact: Jacob Arpe "
-#~ "<http://qgis.dk/>`_"
-#~ msgstr ""
-
-#~ msgid "`QGIS UK (England) - contact: Simon Miles <http://qgis.uk/>`_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "`QGIS Anwendergruppe Deutschland (Germany) - contact: Thomas Schüttenberg "
-#~ "<http://qgis.de/>`_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "`QGIS Perú Official Users Group - contact: Anibal Alarcon "
-#~ "<http://qgis.pe/>`_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "`Polska Grupa Użytkowników QGIS (Poland) - contact: Milena Nowotarska "
-#~ "<http://qgis.pl/>`_"
-#~ msgstr ""
-
-#~ msgid "`QGIS Portugal - contact: João Gaspar <http://qgis.pt/>`_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "`QGIS user group Switzerland - contact: Hans-Jörg Stark <https://qgis.ch/>`_"
-#~ msgstr ""
-
-#~ msgid "`QGIS Norge (Norway) - contact: Antonio Armas Diaz <http://qgis.no/>`_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "`Groupe des Utilisateurs de QGIS - France (France) - contact: Harrissou "
-#~ "Sant-anna <http://osgeo.asso.fr/content/project/qgis-user-fr/>`_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "`QGIS Sverige (Sweden) - contact: Karl-Magnus Jönsson <http://qgis.se/>`_"
-#~ msgstr ""
-
-#~ msgid "`QGIS Kenya - contact: Benard Mitto <http://qgis.or.ke>`_"
-#~ msgstr ""
-
-#~ msgid "`QGIS Australia - contact: Andrew Jeffrey <http://qgis-au.org>`_"
-#~ msgstr ""
-
-#~ msgid "`QGIS Mexico - contact: Hennessy Amor Becerra Ayala <http://qgis.mx>`_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "`Asociația Utilizatorilor QGIS (Romania) - contact: Tudor Bărăscu "
-#~ "<http://qgis.ro/>`_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "`Association of QGIS users in Spain - contact: Carlos López Quintanilla "
-#~ "<http://qgis.es/>`_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "`Grupo de Usuarios QGIS Colombia - contact: Germán Carrillo "
-#~ "<http://qgisusers.co>`_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "`QGIS gebruikersgroep (Netherlands) - contact: Raymond Nijssen "
-#~ "<http://qgis.nl/>`_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "`Asociación QGIS México - contact: Hennessy Amor Becerra Ayala "
-#~ "<http://qgis.mx/>`_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "`Grupo de usuarios QGIS Ecuador - contact: Adrián Benavides "
-#~ "<http://qgis.ec/>`_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "german (master): http://www.qgis.ch/de/verein/statuten-der-qgis-"
-#~ "anwendergruppe-schweiz"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "english (translation): http://www.qgis.ch/en/association/statutes-of-the-"
-#~ "swiss-qgis-user-group"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "french (translation): http://www.qgis.ch/fr/association/statuts-du-"
-#~ "groupe-d2019utilisateurs-qgis-suisse"
-#~ msgstr ""
-
-#~ msgid "german: http://www.qgis.ch/de/verein/beitrittserklaerung"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "english: http://www.qgis.ch/en/association/qgis-usergroup-switzerland-"
-#~ "membership-application-form"
-#~ msgstr ""
-
-#~ msgid "french: http://www.qgis.ch/fr/association/declaration-d2019adhesion"
-#~ msgstr ""

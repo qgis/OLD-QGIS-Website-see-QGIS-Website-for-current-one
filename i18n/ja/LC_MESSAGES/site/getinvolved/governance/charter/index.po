@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020, QGIS Contributors
+# Copyright (C) 2023, QGIS Contributors
 # This file is distributed under the same license as the QGIS package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 # 
 # Translators:
 # tomoyuki arai <tarai.3367@gmail.com>, 2022
@@ -10,16 +10,16 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: QGIS 3.12\n"
+"Project-Id-Version: QGIS 3.28\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2020-05-10 08:48+0000\n"
 "Last-Translator: fairtommy <fairtommy@gmail.com>, 2022\n"
 "Language-Team: Japanese (https://www.transifex.com/qgis/teams/6144/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -747,44 +747,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "checkbox_unchecked"
-
-#~ msgid ""
-#~ "Board members shall also be members of the PSC and shall be nominated and "
-#~ "elected by the general meeting. In an election of board members, the nominee"
-#~ " receiving the greatest number of votes for each position (chair, vice "
-#~ "chair, treasurer) shall be appointed. A tied election shall trigger a re-"
-#~ "vote until one nominee has the majority. On expiration of a board member’s "
-#~ "term, nominees from within the QGIS PSC shall be put forward by the QGIS "
-#~ "Voting Members. The outgoing board member shall automatically receive a "
-#~ "nomination unless he/she no longer wishes to serve on the board."
-#~ msgstr ""
-#~ "事は、PSC会員でもあり、総会で指名され、選挙されるものとします。理事の選挙では、各役職（議長、副議長、会計）について投票数が最も多い候補者が任命されます。選挙で可否同数のときは1人の候補者が過半数を得るまで再投票が行われます。理事の任期満了により、QGIS"
-#~ " "
-#~ "PSC内からの候補者がQGIS投票会員によって提出されるものとします。退任する理事は、理事に就任することをもはや希望しない限り、自動的に指名を受けます。"
-
-#~ msgid ""
-#~ "On expiration of a PSC member’s term, nominees from within the QGIS Voting "
-#~ "Membership shall be put forward by any QGIS Community Member. The outgoing "
-#~ "PSC member shall automatically receive a nomination unless he/she no longer "
-#~ "wishes to serve on the PSC. If an incoming PSC member is a Voting Member, "
-#~ "they will relinquish their voting membership in the general meeting on "
-#~ "joining the PSC."
-#~ msgstr ""
-#~ "PSC会員の任期が満了した場合、QGIS投票会員の候補者は、QGISコミュニティ会員によって提出されます。退任するPSC会員は、もはやPSCでの奉仕を希望しない限り、自動的に指名を受けなければならない。入会するPSC会員が投票会員の場合、PSCに参加する際の総会で投票会員資格を放棄します。"
-
-#~ msgid ""
-#~ "Prior to the election, the outgoing PSC determines the total number of seats"
-#~ " of the incoming committee. QGIS Voting Members shall be allowed a number of"
-#~ " votes equal to the number of PSC memberships up for election and shall be "
-#~ "asked to rank their votes in order of preference. The votes shall be "
-#~ "weighted based on the number of PSC positions being voted for. For example "
-#~ "if three PSC positions are available, each first choice vote shall be worth "
-#~ "3 points, second point vote 2 points and so on. PSC memberships shall be "
-#~ "awarded on the total weighted score of the vote, with the nominee receiving "
-#~ "the greatest score being awarded PSC membership first and so on in "
-#~ "descending order of score of votes received until all PSC memberships have "
-#~ "been allocated. A list of currently serving PSC members shall be maintained "
-#~ "at: https://www.qgis.org/en/site/getinvolved/governance/"
-#~ msgstr ""
-#~ "選挙に先立って、辞任するPSCは入会委員会の総席数を決定します。QGIS投票会員は、選挙までのPSC会員資格の数に等しい数の投票を許可され、優先順位に従って投票を順位付けするよう求められます。投票は、投票されるPSCの地位の数に基づいて重み付けされるものとします。例えば、3つのPSC地位が利用可能である場合、各第1選択投票は3ポイント、第2ポイント投票は2ポイント、などの価値があるものとします。PSC会員資格は投票の合計加重得点で授与され、最高のPSC会員資格を獲得した候補者を最初に、PSC会員資格がすべて割り当てられるまで投票数の降順で授与されます。在任中のPSC会員のリストは"
-#~ " https://www.qgis で管理されます。"

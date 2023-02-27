@@ -1,17 +1,20 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2014-10-19 11:14+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Ukrainian (http://www.transifex.com/qgis/qgis-website/language/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: uk\n"
 "Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
 
@@ -135,159 +138,3 @@ msgstr ""
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr ""
-
-#~ msgid "Update QGIS Documentation"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The complete list of documents managed by the QGIS documentation team can be"
-#~ " found at www.qgis.org/en/docs/index.html. A list of documenters can be "
-#~ "found at https://github.com/qgis/QGIS-Documentation/graphs/contributors."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "If you plan to contribute to an existing document and for other related "
-#~ "questions, please contact the Documentation Team Leader (see "
-#~ ":ref:`Organigram <gui-translation>`) or subscribe with the `qgis-community-"
-#~ "team <http://lists.osgeo.org/mailman/listinfo/qgis-community-team>`_ mailing"
-#~ " list."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "If you would like to nominate yourself as a coordinator for a manual, a "
-#~ "single manual chapter or a language please go ahead. If more than one person"
-#~ " nominate themselves as coordinator for the same document, please contact "
-#~ "each other and resolve how you will manage your efforts."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Please :ref:`contact <community-resources>` the Community Assistant or the "
-#~ "Doc translation team leader to see your name entered in the About Box of "
-#~ "QGIS."
-#~ msgstr ""
-
-#~ msgid "Helping with an existing translation"
-#~ msgstr ""
-
-#~ msgid "HOWTO translate"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The QGIS documents are natively programmed in English. However, it is "
-#~ "designed to be translated into any language quite easily. At this moment "
-#~ "several other languages are already available (though not all well "
-#~ "maintained)."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "All available languages are listed in Transifex. It also shows how much of "
-#~ "it has been translated yet. The entire interface contains over ten thousand "
-#~ "pieces of text and a complete translation will take days if not weeks to be "
-#~ "finished. Besides that, the rapid development of the application "
-#~ "continuously causes new and edited texts to be translated. A huge effort and"
-#~ " your help will be appreciated!"
-#~ msgstr ""
-
-#~ msgid "Transifex"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The web-based translating platform Transifex is used for all QGIS "
-#~ "translations; the desktop application itself (or GUI), the documentation and"
-#~ " the web site. So the first thing you need is an account to login and get "
-#~ "started."
-#~ msgstr ""
-
-#~ msgid "Get an account"
-#~ msgstr ""
-
-#~ msgid "Go to www.transifex.com and create a new account"
-#~ msgstr ""
-
-#~ msgid "Verify your account by the link in the email you will receive"
-#~ msgstr ""
-
-#~ msgid "Login"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Choose your role as “Translator” and answer some other questions about "
-#~ "yourself"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "At your dashboard page click “Join an existing organisation” and search for "
-#~ "“qgis”"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Some QGIS organisations are listed now, among them are QGIS Desktop, Website"
-#~ " and Documentation."
-#~ msgstr ""
-
-#~ msgid "Choose in which part of the project you would like to participate"
-#~ msgstr ""
-
-#~ msgid "You can be part of all projects and help everywhere too"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "If the language of your choice is listed, click it and request to join the "
-#~ "team."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "If your language is not listed yet, click “Request language” and choose your"
-#~ " language. Keep in mind that translating the entire Desktop Application will"
-#~ " take days of work, if not weeks!"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Now you will need to wait for the maintainers to process your request. You "
-#~ "will be notified by email when your request has been accepted."
-#~ msgstr ""
-
-#~ msgid "Note on new languages"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "With requesting a new language please bear in mind that we try to make it as"
-#~ " simple as possible. Just ask for the language you want to translate "
-#~ "(regardless in which country you reside). Only if there are notable "
-#~ "differences in the languages (for example portuguese in Portugal in Brazil) "
-#~ "we will create its own version."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "If you like to help translating an existing QGIS manual into a your language"
-#~ " please assign to the :ref:`qgis-community-team mailing list <mailinglist-"
-#~ "translation-docs>` and ask who is already working on that language to "
-#~ "coordinate and collaborate."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "If you like to help translating an existing QGIS manual into a your language"
-#~ " please assign to the :ref:`qgis-community-team mailing list <mailinglist-"
-#~ "translation>` and ask who is already working on that language to coordinate "
-#~ "and collaborate."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The update of the QGIS documentation is managed by the :ref:`Community Team "
-#~ "Lead <gui-translation>`. Have a look at the :ref:`QGIS Governance <gui-"
-#~ "translation>` to find out who is in charge of guiding you."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The complete list of documents managed by the QGIS documentation team can be"
-#~ " found at http://www.qgis.org/en/docs/index.html. A list of documenters can "
-#~ "be found at https://github.com/qgis/QGIS-Documentation/graphs/contributors."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The complete list of documents managed by the QGIS Documentation Team can be"
-#~ " found at http://www.qgis.org/en/docs/index.html. All the documentation "
-#~ "sources are hosted in `QGIS-Documentation repository "
-#~ "<https://github.com/qgis/QGIS-Documentation>`_. If you want to update some "
-#~ "features in QGIS or document new ones, you need to:"
-#~ msgstr ""

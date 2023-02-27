@@ -1,5 +1,9 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
+# fiuzzy <fiuzzy1@gmail.com>, 2022
 # Harrissou Sant-anna, 2013
 # Médéric RIBREUX <mederic.ribreux__translate@medspx.fr>, 2015
 # Robin PREST, 2013
@@ -7,14 +11,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2013-09-17 13:26+0000\n"
-"Last-Translator: Médéric RIBREUX <mederic.ribreux__translate@medspx.fr>, 2015\n"
+"Last-Translator: fiuzzy <fiuzzy1@gmail.com>, 2022\n"
 "Language-Team: French (http://www.transifex.com/qgis/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: fr\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
@@ -22,10 +26,10 @@ msgstr ""
 msgid ""
 "QGIS in the governmental FOSSGIS stack of the Canton of Solothurn in "
 "Switzerland"
-msgstr "Utilisation de QGIS dans la pile de logiciels FOSSGIS du gouvernement du Canton de Solothurn en Suisse"
+msgstr "Utilisation de QGIS dans la pile de logiciels FOSSGIS du gouvernement du Canton de Soleure en Suisse"
 
 msgid "Solothurn"
-msgstr ""
+msgstr "Soleure"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:10
 msgid ""
@@ -35,7 +39,7 @@ msgid ""
 "particular vendor, to encourage free enterprise and reduce license costs. As"
 " a result SO!GIS department of the Canton of Solothurn started to deliver "
 "the GIS-requirements of more than 3500 employees with a FOSSGIS strategy."
-msgstr "Le Canton de Solothurn fournit des services et une infrastructure à 250 000 citoyens. En 2001 le Parlement d’État a décider de migrer de Windows vers Linux. Les motivations étaient d'acquérir de l'indépendance vis à vis d'un éditeur particulier, d'encourager la libre entreprise et de réduire les coûts de licence. Le département SO!GIS du Canton de Solothurn a ainsi commencé à répondre aux besoins en SIG de plus de 3 500 employes via une stratégie FOSSGIS."
+msgstr "Le Canton de Soleure fournit des services et une infrastructure à 250 000 citoyens. En 2001, le Parlement d’État a décidé de migrer de Windows vers Linux. Les motivations étaient de devenir indépendant vis à vis d'un éditeur en particulier, d'encourager la libre entreprise et de réduire les coûts de licence. Le département SO!GIS du Canton de Soleure a ainsi commencé à répondre aux besoins en SIG de plus de 3 500 employés via une stratégie FOSSGIS."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:12
 msgid ""
@@ -77,7 +81,7 @@ msgstr "Documentation rédigée en allemand"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:22
 msgid "An Active developer (Marco Hugentobler) near Solothurn in Switzerland."
-msgstr "Un développeur actif (Marco Hugentobler) près de Solothurn en Suisse."
+msgstr "Un développeur actif (Marco Hugentobler) près de Soleure en Suisse."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:23
 msgid ""
@@ -112,7 +116,7 @@ msgid ""
 "Desktop GIS is in use by more than 50 users for their daily work. But many "
 "of them are not GIS experts. They want to visualize and/or capture "
 "geospatial data with an intuitive user interface."
-msgstr "Contrairement aux cartes interactives affichées par UMN Mapserver, le logiciel SIG bureautique devait offrir une vision flexible des données spatiales de Solothurn. Le SIG bureautique QGIS est utilisé tous les jours par plus de 50 utilisateurs. Mais beaucoup d'entre eux ne sont pas des experts en SIG. Ils veulent juste visualiser et/ou saisir de la donnée spatiale avec une interface utilisateur intuitive."
+msgstr "Contrairement aux cartes interactives affichées par UMN Mapserver, le logiciel SIG bureautique devait offrir une vision flexible des données spatiales de Soleure. Le SIG bureautique QGIS est utilisé tous les jours par plus de 50 utilisateurs. Mais beaucoup d'entre eux ne sont pas des experts en SIG. Ils veulent juste visualiser et/ou saisir de la donnée spatiale avec une interface utilisateur intuitive."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:34
 msgid ""
@@ -133,7 +137,7 @@ msgstr "SO!DATA contient un inventaire facile à lire de tous les modèles de do
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:43
 msgid "\"SO!GIS Layer\" plugin developed at the Canton of Solothurn"
-msgstr "Extension \"SO!GIS Layer\" développée au Canton de Solothurn"
+msgstr "Extension \"SO!GIS Layer\" développée au Canton de Soleure"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:45
 msgid ""
@@ -149,7 +153,7 @@ msgstr "Pour éviter aux utilisateurs finaux de devoir interagir directement ave
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:53
 msgid "\"SO!GIS Suche\" plugin developed at the Canton of Solothurn"
-msgstr "\"SO!GIS Suche\" extension développée au Canton de Solothurn"
+msgstr "\"SO!GIS Suche\" extension développée au Canton de Soleure"
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:55
 msgid ""
@@ -186,7 +190,7 @@ msgid ""
 "support into the black box of our former software provider. Apart from using"
 " FOSSGIS, the Canton of Solothurn also provides public geodata free of "
 "charge via the SO!ONLINE web portal."
-msgstr "Aujourd'hui, nous pouvons affirmer que le choix de QGIS était une bonne décision. QGIS offre la plupart des fonctionnalités dont nous avons besoin. Le Canton de Solothurn a sous-traité la création des fonctionnalités manquantes à des prestataires. Avec PyQgis et PyQt, il y a en effet d'excellentes possibilités pour développer des applications in-house. Un des grands bénéfices réside dans le nombre illimité d'installations. Quiconque a besoin de QGIS peut l'utiliser sans limite. Pour promouvoir le développement de QGIS, le Canton de Solothurn a investi chaque année près de 30 000$ depuis 2007. Ce financement  est beaucoup plus efficace et mieux ciblé que les paiements effectués à notre ancien fournisseur de logiciel. En dehors de l'utilisation de FOSSGIS, le Canton de Solothurn fournit également des données spatiales libres d'utilisation sur son portail web SO!ONLINE."
+msgstr "Aujourd'hui, nous pouvons affirmer que le choix de QGIS était une bonne décision. QGIS offre la plupart des fonctionnalités dont nous avons besoin. Le Canton de Soleure a sous-traité la création des fonctionnalités manquantes à des prestataires. Avec PyQgis et PyQt, il y a en effet d'excellentes possibilités pour développer des applications in-house. Un des grands bénéfices réside dans le nombre illimité d'installations. Quiconque a besoin de QGIS peut l'utiliser sans limite. Pour promouvoir le développement de QGIS, le Canton de Soleure a investi chaque année près de 30 000$ depuis 2007. Ce financement  est beaucoup plus efficace et mieux ciblé que les paiements effectués à notre ancien fournisseur de logiciel. En dehors de l'utilisation de FOSSGIS, le Canton de Soleure fournit également des données spatiales libres d'utilisation sur son portail web SO!ONLINE."
 
 #: ../../source/site/about/case_studies/suisse_solothurn.rst:65
 msgid "Author"
@@ -201,7 +205,7 @@ msgid ""
 "This article was contributed in May 2009 by Dr. Horst Düster. He is GIS "
 "coordinator at the Department of Geoinformation in the Canton of Solothurn, "
 "Switzerland."
-msgstr "Cet article a été rédigé en mai 2009 par le Dr. Horst Düster, coordinateur SIG au Departement of Geoinformation du Canton de Solothurn en Suisse."
+msgstr "Cet article a été rédigé en mai 2009 par le Dr. Horst Düster, coordinateur SIG au Departement of Geoinformation du Canton de Soleure en Suisse."
 
 #: ../../<rst_epilog>:2
 msgid "checkbox"
@@ -209,64 +213,4 @@ msgstr "checkbox"
 
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
-msgstr ""
-
-#~ msgid "QGIS in the governmental FOSSGIS stack"
-#~ msgstr ""
-
-#~ msgid "of the Canton of Solothurn in Switzerland"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The Canton of Solothurn provides services and infrastructure to 250,000 "
-#~ "Solothurn citizens. In the year 2001 the State Parliament decided to migrate"
-#~ " from Windows to Linux. The motivations were to be independent from one "
-#~ "particular vendor, to encourage free enterprise and reduce license costs. As"
-#~ " a result SO!GIS department of the Canton of Solothurn started to deliver "
-#~ "the GIS-requirements of more than 3500 employees with a FOSSGIS strategy. "
-#~ "The first step we took was the introduction of UMN MapServer and the "
-#~ "creation of a SO!MAP client that offers an easy to use WebGIS client for all"
-#~ " the 3500 employees. The second step was the migration of all our geospatial"
-#~ " data from Shapefiles to the PostGIS spatial database engine. The "
-#~ "introduction was very successful, but an easy to use desktop GIS was "
-#~ "lacking. After an evaluation of different Desktop GIS we decided to use QGIS"
-#~ " in conjunction with GRASS, replacing ESRI ArcInfo and ArcView3 in the 2006."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "In contrast to the interactive maps served by UMN MapServer, the desktop GIS"
-#~ " has to offer a flexible view at the geospatial data of Solothurn. QGIS "
-#~ "Desktop GIS is in use by more than 50 users for their daily work. But many "
-#~ "of them are not GIS experts. They want to visualize and/or capture "
-#~ "geospatial data with an intuitive user interface. One of the most important "
-#~ "Desktop GIS issues is the question: \"How do I get the information from the "
-#~ "PostGIS geodata repository I need?\". Since our end users are unfamiliar "
-#~ "with data models and the underlying structures of our spatial database, "
-#~ "offering the users a raw connection to the PostGIS DB was not an option. We "
-#~ "have a metadata database that stores the descriptions of all production data"
-#~ " called 'SO!DATA'. SO!DATA contains a human readable inventory of the data "
-#~ "models and the non-GIS-Expert user is able to use this database to discover "
-#~ "the information they need."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "To remove the need for end users to interact directly with PostGIS "
-#~ "connections and table selection dialogs, a plugin has been developed in "
-#~ "python. The plugin is called \"SO!GIS Layer\" (see Figure 1). The plugin "
-#~ "connects to the SO!GIS PostGIS repository, gets the information of all "
-#~ "published geospatial data layers from SO!DATA and offers the user a GUI to "
-#~ "find the data layers they need. With this infrastructure in place, our users"
-#~ " are happy - they can prepare for geoprocessing, editing and map composing "
-#~ "in an individual way."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Another required QGIS plugin we created is called 'SO!GIS Suche'. This "
-#~ "provides the possibility to search for locations like townships, addresses "
-#~ "or cadastral parcels (see Figure 2). As a result the user is able to "
-#~ "navigate very easily to an area of interest. At the moment many other "
-#~ "plugins are under development. These will support data manipulation, "
-#~ "analysis or mapping for different projects. Our in-development plugins cover"
-#~ " topics  such as nature reserves, soil conservation, cadastral data "
-#~ "verification, crisis management, abandoned sites and so on."
-#~ msgstr ""
+msgstr "case décochée"

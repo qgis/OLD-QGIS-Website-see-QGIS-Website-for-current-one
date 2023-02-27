@@ -1,25 +1,29 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 # Carsten Stemmler <tallistroan@gmail.com>, 2015
+# Jürgen E. Fischer <jef@norbit.de>, 2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2013-09-17 13:25+0000\n"
-"Last-Translator: Carsten Stemmler <tallistroan@gmail.com>, 2015\n"
+"Last-Translator: Jürgen E. Fischer <jef@norbit.de>, 2022\n"
 "Language-Team: German (http://www.transifex.com/qgis/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: de\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:3
 msgid ""
 "Amurum forest reserve habitat and avifauna mapping with QGIS in Nigeria"
-msgstr ""
+msgstr "Amurum forest reserve habitat and avifauna mapping with QGIS in Nigeria"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:5
 msgid ""
@@ -36,7 +40,7 @@ msgid ""
 "determinants of Amurum reserve and how the basic habitat maps were used to "
 "obtain strata for the purpose of efficiently determining the spatial "
 "distribution of the avifauna including the biodiversity."
-msgstr ""
+msgstr "Amurum forest reserve is located near the city of Jos, Plateau state, Nigeria. It was established in conjunction with the initiation of the A.P. Leventis Ornithological Research Institute (APLORI) for the purpose of natural conservation, education and research. APLORI is hosted by the Department of Zoology at the University of Jos. Yearly a group of approximately eight highly motivated students from all over Nigeria obtain training in conservation biology, statistics (with R) and as of 2011 GIS as well. During two weeks in December 2011 we studied basic GIS concepts and applied those with QGIS for various conservation purposes. In this article we describe the way in which we used QGIS to map the habitats and its determinants of Amurum reserve and how the basic habitat maps were used to obtain strata for the purpose of efficiently determining the spatial distribution of the avifauna including the biodiversity."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:12
 #: ../../source/site/about/case_studies/nigeria_jos.rst:46
@@ -45,7 +49,7 @@ msgstr "Trainingsgruppe"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:15
 msgid "Mapping elevation, hill shade, slope and habitats"
-msgstr ""
+msgstr "Mapping elevation, hill shade, slope and habitats"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:17
 msgid ""
@@ -54,7 +58,7 @@ msgid ""
 "area in which Amurum is located. (Information about the global elevation "
 "data set can be found here: http://www.cgiar-"
 "csi.org/data/elevation/item/45-srtm-90m-digital-elevation-database-v41)."
-msgstr ""
+msgstr "Mapping elevation and groundtruthing: We downloaded (free) elevation data originating from the NASA Shuttle Radar Topographic Mission (SRTM) for the area in which Amurum is located. (Information about the global elevation data set can be found here: http://www.cgiar-csi.org/data/elevation/item/45-srtm-90m-digital-elevation-database-v41)."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:19
 msgid ""
@@ -62,7 +66,7 @@ msgid ""
 "area containing the reserve so that the raster data sets remained relatively"
 " small. By means of GPS we collected elevations at various locations in the "
 "reserve."
-msgstr ""
+msgstr "The GdalTools were used to merge original data sets and to clip a smaller area containing the reserve so that the raster data sets remained relatively small. By means of GPS we collected elevations at various locations in the reserve."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:21
 msgid ""
@@ -71,11 +75,11 @@ msgid ""
 "hills hades and slopes for the area. These variables are important from an "
 "ecological point of view because they are strongly associated with the type "
 "of habitat."
-msgstr ""
+msgstr "Overall, the elevations of the SRTM data set corresponded well to the gps-collected elevations. Terrain models in GdalTools were used to calculate hills hades and slopes for the area. These variables are important from an ecological point of view because they are strongly associated with the type of habitat."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:28
 msgid "QGIS screenshot"
-msgstr ""
+msgstr "QGIS screenshot"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:30
 msgid ""
@@ -83,7 +87,7 @@ msgid ""
 "original (clipped) elevation map to obtain a higher resolution map. We used "
 "the warp tool in GdalTools. By means of the contour tool we obtained smooth "
 "contour lines."
-msgstr ""
+msgstr "Since we intended to develop a good-looking map, we interpolated the original (clipped) elevation map to obtain a higher resolution map. We used the warp tool in GdalTools. By means of the contour tool we obtained smooth contour lines."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:32
 msgid ""
@@ -92,7 +96,7 @@ msgid ""
 " the GPS were smoothly imported using the GPS Tools. The imported waypoints "
 "and tracks were used to construct a polygon shapefile. The tracks inside the"
 " reserve were mapped in a similar fashion."
-msgstr ""
+msgstr "Coordinates of the boundary of the reserve were obtained by walking along the boundaries of the reserve with a GPS. The waypoints and tracks stored in the GPS were smoothly imported using the GPS Tools. The imported waypoints and tracks were used to construct a polygon shapefile. The tracks inside the reserve were mapped in a similar fashion."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:34
 msgid ""
@@ -103,18 +107,18 @@ msgid ""
 "image we used the editor to draw polygons demarcating the three habitats. "
 "Setting the snapping options correctly allowed the construction of non-"
 "overlapping polygons."
-msgstr ""
+msgstr "We were able to quickly and precisely construct a habitat map of Amurum using a Google satellite image which we got into the workspace with the Openlayers plugin. The reserve has three types of distinct habitat: Savannah, Gallery forest and Rocky outcrop. On the basis of the satellite image we used the editor to draw polygons demarcating the three habitats. Setting the snapping options correctly allowed the construction of non-overlapping polygons."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:37
 msgid "Mapping bird distributions and diversity"
-msgstr ""
+msgstr "Mapping bird distributions and diversity"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:39
 msgid ""
 "The habitat maps were used to generate random locations. The area of the "
 "various types of habitat were used to generate a number of locations "
 "proportional to the surface of each habitat type (stratification)."
-msgstr ""
+msgstr "The habitat maps were used to generate random locations. The area of the various types of habitat were used to generate a number of locations proportional to the surface of each habitat type (stratification)."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:48
 msgid ""
@@ -128,7 +132,7 @@ msgid ""
 "text layer” tool. On the basis of the above mentioned layers a map was "
 "constructed presenting some of the most important landscape features and "
 "avian diversity of the Amurum reserve."
-msgstr ""
+msgstr "The random points in fTools were used for this purpose. All the locations were visited during two mornings by four groups of students (2 per group) giving a total of 38 random locations dispersed throughout the reserve. The observation data were entered in a spreadsheet and analyzed using R. In addition, the Shannon-Wiener diversity index was calculated using R. After merging the location file with the resulting observation data it was exported as a csv file which was loaded into QGIS using the “Add delimited text layer” tool. On the basis of the above mentioned layers a map was constructed presenting some of the most important landscape features and avian diversity of the Amurum reserve."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:51
 msgid "Conclusion"
@@ -143,15 +147,15 @@ msgid ""
 "allows for stratification and thus for better estimates of abundances of "
 "various kinds of organisms. Basically we are now able to do better "
 "ecological research using QGIS as an open source platform."
-msgstr ""
+msgstr "Overall, the course was a great success. We - a group of students with no previous GIS experience --- enjoyed working with QGIS a lot. Within just two weeks time we were able to develop an extremely useful map of the reserve. Amongst others, the extents of the various habitats were determined which allows for stratification and thus for better estimates of abundances of various kinds of organisms. Basically we are now able to do better ecological research using QGIS as an open source platform."
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:60
 msgid "QGIS print composer for final graphic layout"
-msgstr ""
+msgstr "QGIS print composer for final graphic layout"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:60
 msgid "QGIS map: Diversity of Amurum Forest Reserve"
-msgstr ""
+msgstr "QGIS map: Diversity of Amurum Forest Reserve"
 
 #: ../../source/site/about/case_studies/nigeria_jos.rst:63
 msgid "Authors"
@@ -162,7 +166,7 @@ msgid ""
 "Abengowe Elmond Chiadikaobi, Adeyanju Temidayo Esther, Akiemen Nerioya, "
 "Albert Malangale Tauje, Azi Abok Joel, Echude Daniel, Eelke Folmer, Nwaogu "
 "Chima Josiah, Onoja Joseph Daniel, Yadok Biplang Godwill"
-msgstr ""
+msgstr "Abengowe Elmond Chiadikaobi, Adeyanju Temidayo Esther, Akiemen Nerioya, Albert Malangale Tauje, Azi Abok Joel, Echude Daniel, Eelke Folmer, Nwaogu Chima Josiah, Onoja Joseph Daniel, Yadok Biplang Godwill"
 
 #: ../../<rst_epilog>:2
 msgid "checkbox"
@@ -170,14 +174,4 @@ msgstr "Kontrollkästchen"
 
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
-msgstr ""
-
-#~ msgid ""
-#~ "Overall, the course was a great success. We - a group of students with no "
-#~ "previous GIS experience - enjoyed working with QGIS a lot. Within just two "
-#~ "weeks time we were able to develop an extremely useful map of the reserve. "
-#~ "Amongst others, the extents of the various habitats were determined which "
-#~ "allows for stratification and thus for better estimates of abundances of "
-#~ "various kinds of organisms. Basically we are now able to do better "
-#~ "ecological research using QGIS as an open source platform."
-#~ msgstr ""
+msgstr "checkbox_unchecked"

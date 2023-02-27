@@ -1,19 +1,23 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 # BADEY Sylvain <mali2003@free.fr>, 2013
 # Médéric RIBREUX <mederic.ribreux__translate@medspx.fr>, 2015
+# Mehdi SEMCHAOUI, 2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2013-09-17 13:26+0000\n"
-"Last-Translator: Médéric RIBREUX <mederic.ribreux__translate@medspx.fr>, 2015\n"
+"Last-Translator: Mehdi SEMCHAOUI, 2022\n"
 "Language-Team: French (http://www.transifex.com/qgis/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: fr\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
@@ -35,7 +39,7 @@ msgid ""
 msgstr "La réserve de tigres \"Nameri Tiger Reserve\" (NTR) est l'une des 3 réserves de tigres de l'état de l'Assam et est située dans la partie nord du district de Soniptur le long des contreforts de l’Himalaya oriental. Répartie sur une aire de 344 km², la réserve de tigres de Nameri bénéficie d'une riche diversité de flore et de faune. La zone centrale de la réserve qui constitue le Parc National de Nameri est limité par la rivière Jia-Bhoreli à l'Ouest et la rivière Bor-Dikorai à l'Est. Au nord de Nameri se trouve la réserve de tigres \"Pakke Tiger Reserve\" de l'état d'Arunachal Pradesh."
 
 msgid "Area of Tiger Reserve"
-msgstr ""
+msgstr "Zone de réserve de tigres"
 
 #: ../../source/site/about/case_studies/india_assam.rst:12
 msgid ""
@@ -63,7 +67,7 @@ msgstr "A partir de l'année 2011, l'Autorité Nationale pour la Conservation de
 
 #: ../../source/site/about/case_studies/india_assam.rst:24
 msgid "Picture of a male Tiger"
-msgstr ""
+msgstr "Image d'un tigre mâle"
 
 #: ../../source/site/about/case_studies/india_assam.rst:24
 msgid "Picture of a male tiger that was captured in one of the camera traps"
@@ -85,7 +89,7 @@ msgstr "Durant les années 2012-13, nous avons mis en place ce nouveau protocole
 
 #: ../../source/site/about/case_studies/india_assam.rst:31
 msgid "Camera trap locations"
-msgstr ""
+msgstr "Emplacements des pièges photographiques"
 
 #: ../../source/site/about/case_studies/india_assam.rst:31
 msgid ""
@@ -118,7 +122,7 @@ msgstr "Ensuite nous avons préparé une couche de mailles de 4 km² en utilisan
 
 #: ../../source/site/about/case_studies/india_assam.rst:41
 msgid "Survey Grid"
-msgstr ""
+msgstr "Grille d'enquête"
 
 #: ../../source/site/about/case_studies/india_assam.rst:41
 msgid "Survey grids with tiger presence"
@@ -166,40 +170,4 @@ msgstr "checkbox"
 
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
-msgstr ""
-
-#~ msgid "QGIS for monitoring tigers"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "(using camera traps in Nameri Tiger Reserve, Assam, India Sonitpur District)"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "During 2012-13, we implemented this new tiger monitoring protocol in NTR by "
-#~ "using QGIS. To begin with, we digitized the NTR boundary in Qgis and saved "
-#~ "it as polygon. This boundary polygon was exported to GPS for navigation "
-#~ "purpose during the field surveys. We conducted an extensive sign survey in "
-#~ "NTR for evidences of tiger presence such pugmarks, scratch marks and scats. "
-#~ "GPS coordinates of tiger signs as well as suitable locations for camera "
-#~ "traps were recorded. After completion of the survey, the data was "
-#~ "transferred to Qgis using GPS tools for further processing and for "
-#~ "finalizing camera trap locations. A shape file containing the tiger signs "
-#~ "and probable camera trap locations was prepared."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "For the first time in the history of this small tiger reserve of North East "
-#~ "India, it was possible to monitor tigers by using camera traps mainly "
-#~ "because of QGIS. Results of this monitoring exercise indicate the presence "
-#~ "of 8-15 tigers in this landscape. In addition to the tigers, several elusive"
-#~ " species have also been photographically documented. Apart from tiger "
-#~ "monitoring, we are also using Qgis for activities such as planning habitat "
-#~ "management works, revising patrolling schedules, and designing maps for "
-#~ "visitors. The user-friendly interface, rich features, in-depth "
-#~ "documentation, on-line support  and the free/open source philosophy are the "
-#~ "few qualities of QGIS that made us to select it over other proprietary "
-#~ "software. We believe that QGIS has great potential for empowering "
-#~ "individuals/institutions/ involved in conserving endangered wildlife in the "
-#~ "developing world by offering GIS technology at little or no cost."
-#~ msgstr ""
+msgstr "case décochée"

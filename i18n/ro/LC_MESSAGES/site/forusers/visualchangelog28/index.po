@@ -1,18 +1,21 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
-# Sorin Călinică <scalinica@gmail.com>, 2015-2016,2019-2021
+# Sorin Călinică <scalinica@gmail.com>, 2015-2016,2019-2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2015-02-28 18:29+0000\n"
-"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2015-2016,2019-2021\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2015-2016,2019-2022\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
@@ -21,17 +24,21 @@ msgid "Changelog for QGIS 2.8"
 msgstr "Jurnalul schimbărilor pentru QGIS 2.8"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:7
+msgid "Release date: 2015-02-20"
+msgstr "Data lansării: 2015-02-20"
+
+#: ../../source/site/forusers/visualchangelog28/index.rst:9
 msgid ""
 "This is the change log for the next release of QGIS - version 2.8 ' Wien'. "
 "Wien is German for 'Vienna' - host city to our developer meet up in November"
 " 2009 and again in March 2014."
 msgstr "Acesta este jurnalul schimbărilor pentru următoarea versiune a QGIS - versiunea 2.8 ' Wien'. Wien este cuvântul German pentru 'Viena' - orașul gazdă pentru întâlnirile dezvoltatorilor din Noiembrie 2009 și din Martie 2014."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:9
+#: ../../source/site/forusers/visualchangelog28/index.rst:11
 msgid "**Long Term Release**"
 msgstr "**Versiune cu Suport pe Termen Lung**"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:11
+#: ../../source/site/forusers/visualchangelog28/index.rst:13
 msgid ""
 "This is a special release since it is designated an 'LTR' (Long Term "
 "Release). LTR releases will be supported with backported bug fixes for one "
@@ -39,7 +46,7 @@ msgid ""
 "added, only bug fixes and trivial updates)."
 msgstr "Aceasta este o versiune specială, deoarece este desemnată ca fiind 'LTR' (Versiune cu Suport pe Termen Lung). Versiunilor LTR li se vor depana erorile timp de un an, și vor avea în permanență funcționalitățile înghețate (adică, nu se vor adăuga noi caracteristici, doar se vor repara erorile și se vor efectua actualizări triviale)."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:13
+#: ../../source/site/forusers/visualchangelog28/index.rst:15
 msgid ""
 "The purpose of LTR releases is to provide a stable and less frequently "
 "changing platform for enterprises and organisations that do not want to deal"
@@ -51,7 +58,7 @@ msgid ""
 "branch."
 msgstr "Scopul versiunilor LTR este de a oferi o platformă stabilă și mai puțin supusă schimbărilor, pentru întreprinderi și organizații care nu doresc să se ocupe cu actualizarea competențelor utilizatorilor, a materialelor de instruire etc., mai mult de o dată pe an. Succesul versiunilor LTR ține de voi, utilizatorii noștri dragi - avem nevoie de sprijinul vostru pentru a ajuta la finanțarea reparării erorilor, totodată, asigurându-vă prin contractele de asistență cu furnizorii de suport tehnic, că toate erorile reparate în numele dumneavoastră vor fi aplicate atât versiunii LTR cât și celei obișnuite."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:15
+#: ../../source/site/forusers/visualchangelog28/index.rst:17
 msgid ""
 "If an LTR is important to you, please consider also directly supporting the "
 "QGIS project, or encourage your commercial provider to use LTR as a basis "
@@ -61,128 +68,128 @@ msgid ""
 "monthly releases will continue unabated."
 msgstr "În cazul în care un LTR este important pentru dvs., vă rugăm să luați în considerare, de asemenea, sprijinirea în mod direct a proiectului QGIS, sau să propuneți furnizorului dumneavoastră comercial utilizarea LTR ca o bază pentru soluțiile enterprise, astfel încât oricine să poată beneficia de o platformă stabilă, care este în permanență îmbunătățită și rafinată. Rețineți că pentru utilizatorii și organizațiile cărora le plac lucrurile împinse la limită, elaborarea unei noi versiuni, o dată la patru luni, va continua neabătut."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:17
+#: ../../source/site/forusers/visualchangelog28/index.rst:19
 msgid "**New Features**"
 msgstr "**Noi Funcționalități**"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:19
+#: ../../source/site/forusers/visualchangelog28/index.rst:21
 msgid ""
 "QGIS 2.8 is also a special release because it includes so many great new "
 "features, tweaks and enhancements to make the most popular Free desktop GIS "
 "even more feature filled and useful."
 msgstr "QGIS 2.8 este, de asemenea, o versiune specială, deoarece include foarte multe caracteristici noi, reglaje și îmbunătățiri, pentru a face cel mai popular GIS desktop gratuit cât mai complet și util."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:21
+#: ../../source/site/forusers/visualchangelog28/index.rst:23
 msgid ""
 "Whenever new features are added to software they introduce the possibility "
 "of new bugs - if you encounter any problems with this release, please file a"
 " ticket `on the QGIS Bug Tracker <http://hub.qgis.org>`_."
 msgstr "Ori de câte ori se adaugă noi caracteristici în aplicație, apare posibilitatea unor noi erori - dacă întâmpinați probleme cu această versiune, vă rugăm să le semnalați la `QGIS Bug Tracker <http://hub.qgis.org>`_."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:23
+#: ../../source/site/forusers/visualchangelog28/index.rst:25
 msgid "**Thanks**"
 msgstr "**Mulțumiri**"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:25
+#: ../../source/site/forusers/visualchangelog28/index.rst:27
 msgid ""
 "We would like to thank the developers, documenters, testers and all the many"
 " folks out there who volunteer their time and effort (or fund people to do "
 "so)."
 msgstr "Dorim să le mulțumim dezvoltatorilor, tester-ilor, autorilor documentațiilor și tuturor acelor persoane care, în mod voluntar, au consumat timp și efort (sau au finanțat alte persoane în acest scop)."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:29
+#: ../../source/site/forusers/visualchangelog28/index.rst:31
 msgid ""
 "From the QGIS community we hope you enjoy this release! If you wish to "
 "donate time, money or otherwise get involved in making QGIS more awesome, "
 "please wander along to `qgis.org <https://qgis.org>`_ and lend a hand!"
 msgstr "Din partea comunității QGIS, sperăm să vă bucurați de această versiune! Dacă doriți să contribuiți cu efort, bani, sau să vă implicați, într-un mod care ar putea îmbunătăți QGIS, vă rugăm să răsfoiți site-ul `qgis.org <https://qgis.org>`__ și să oferiți o mână de ajutor!"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:34
+#: ../../source/site/forusers/visualchangelog28/index.rst:36
 msgid ""
 "Finally we would like to thank our official sponsors for the invaluable "
 "financial support they provide to this project:"
 msgstr "În fine, am dori să mulțumim sponsorilor noștri oficiali pentru sprijinul financiar de neprețuit, pe care l-au oferit acestui proiect:"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:37
+#: ../../source/site/forusers/visualchangelog28/index.rst:39
 msgid "**GOLD Sponsor: Asia Air Survey, Japan** http://www.asiaairsurvey.com/"
 msgstr "**Sponsor de AUR: Asia Air Survey, Japonia** http://www.asiaairsurvey.com/"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:39
+#: ../../source/site/forusers/visualchangelog28/index.rst:41
 msgid ""
 "SILVER Sponsor: `Sourcepole AG, Switzerland <http://www.sourcepole.com/>`_"
 msgstr "Sponsor de ARGINT: `Sourcepole AG, Elveția <http://www.sourcepole.com/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:40
+#: ../../source/site/forusers/visualchangelog28/index.rst:42
 msgid ""
 "SILVER Sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_"
 msgstr "Sponsor de ARGINT: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:41
+#: ../../source/site/forusers/visualchangelog28/index.rst:43
 msgid ""
 "SILVER Sponsor: `Office of Public Works, Ireland, Ireland "
 "<http://www.opw.ie/>`_"
 msgstr "Sponsor de ARGINT: `Oficiul Lucrărilor Publice, Irlanda <http://www.opw.ie/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:43
+#: ../../source/site/forusers/visualchangelog28/index.rst:45
 msgid "BRONZE Sponsor: `GIS3W, Italy <http://www.gis3w.it/>`_"
 msgstr "Sponsor de BRONZ: `GIS3W, Italia <http://www.gis3w.it/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:44
+#: ../../source/site/forusers/visualchangelog28/index.rst:46
 msgid "BRONZE Sponsor: `www.molitec.it, Italy <http://www.molitec.it/>`_"
 msgstr "Sponsor de BRONZ: `www.molitec.it, Italia <http://www.molitec.it/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:45
+#: ../../source/site/forusers/visualchangelog28/index.rst:47
 msgid "BRONZE Sponsor: `www.argusoft.de, Germany <http://www.argusoft.de>`_"
 msgstr "Sponsor de BRONZ: `www.argusoft.de, Germania <http://www.argusoft.de>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:46
+#: ../../source/site/forusers/visualchangelog28/index.rst:48
 msgid ""
 "BRONZE Sponsor: `www.openrunner.com, France <http://www.openrunner.com>`_"
 msgstr "Sponsor de BRONZ: `www.openrunner.com, Franța <http://www.openrunner.com>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:47
+#: ../../source/site/forusers/visualchangelog28/index.rst:49
 msgid ""
 "BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "
 "<http://www.gkg-kassel.de/>`_"
 msgstr "Sponsor de BRONZ: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germania <http://www.gkg-kassel.de/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:48
+#: ../../source/site/forusers/visualchangelog28/index.rst:50
 msgid ""
 "BRONZE Sponsor: `Customer Analytics, USA "
 "<http://www.customeranalytics.com/>`_"
 msgstr "Sponsor de BRONZ: `Customer Analytics <http://www.customeranalytics.com/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:49
+#: ../../source/site/forusers/visualchangelog28/index.rst:51
 msgid "BRONZE Sponsor: `Urbsol, Australia <http://www.urbsol.com.au/>`_"
 msgstr "Sponsor de BRONZ: `Urbsol, Australia <http://www.urbsol.com.au/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:50
+#: ../../source/site/forusers/visualchangelog28/index.rst:52
 msgid "BRONZE Sponsor: `MappingGIS, Spain <http://www.mappinggis.com/>`_"
 msgstr "Sponsor de BRONZ: `MappingGIS, Spania <http://www.mappinggis.com/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:51
+#: ../../source/site/forusers/visualchangelog28/index.rst:53
 msgid ""
 "BRONZE Sponsor: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
 msgstr "Sponsor de BRONZ: `Lutra Consulting, UK <http://www.lutraconsulting.co.uk/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:52
+#: ../../source/site/forusers/visualchangelog28/index.rst:54
 msgid "BRONZE Sponsor: `ADLARES GmbH, Germany <http://www.adlares.com/>`_"
 msgstr "Sponsor de BRONZ: `ADLARES GmbH, Germania <http://www.adlares.com/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:53
+#: ../../source/site/forusers/visualchangelog28/index.rst:55
 msgid ""
 "BRONZE Sponsor: `Avioportolano Italia, Italy "
 "<http://www.avioportolano.it/>`_"
 msgstr "Sponsor de BRONZ: `Avioportolano Italia, Italia <http://www.avioportolano.it/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:54
+#: ../../source/site/forusers/visualchangelog28/index.rst:56
 msgid ""
 "BRONZE Sponsor: `Faculty of Geology, Geophysics and Environmental "
 "Protection, AGH, ​University of Science and Technology, Poland "
 "<http://www.wggios.agh.edu.pl/en>`_"
 msgstr "Sponsor de BRONZ: `Facultatea de Geologie, Geofizică și Protecție a Mediului, AGH, ​Universitatea de Științe și Tehnologie, Polonia <http://www.wggios.agh.edu.pl/en>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:56
+#: ../../source/site/forusers/visualchangelog28/index.rst:58
 msgid ""
 "A current list of donors who have made financial contributions large and "
 "small to the project can be seen on our `donors list "
@@ -194,7 +201,7 @@ msgid ""
 "maintain project infrastructure and fund bug fixing efforts."
 msgstr "Lista curentă a celor care au efectuat contribuții financiare mari și mici la proiect poate fi consultată `aici <https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`_. Dacă doriți să deviniți un sponsor oficial al proiectului, vă rugăm să vizitați `pagina sponsorizărilor noastre <https://qgis.org/en/site/about/sponsorship.html#sponsorship>`_ pentru detalii. Sponsorizarea QGIS ne ajută să finanțăm întâlnirea dezvoltatorilor o dată la șase luni, să menținem infrastructura proiectului și să finanțăm eforturile de eliminare a erorilor."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:65
+#: ../../source/site/forusers/visualchangelog28/index.rst:67
 msgid ""
 "If you enjoy using QGIS, please consider making a donation to support the "
 "project - either `financial "
@@ -207,7 +214,7 @@ msgid ""
 "the best possible releases."
 msgstr "Dacă vă place să folosiți QGIS, vă rugăm să luați în considerare efectuarea unei donații pentru a sprijini proiectul - fie `financiară <https://qgis.org/en/site/getinvolved/donations.html>`_ fie `sub formă de timp și de îndemânare <https://qgis.org/en/site/getinvolved/index.html>`_! În cele din urmă, dorim să vă încurajăm să finanțați o `campanie specială <http://blog.vitu.ch/10102014-1046/crowdfunding-initiative-automated-testing>`_ a unuia dintre dezvoltatorii QGIS, pentru a crea o suită de testare pentru QGIS, în așa fel încât să se poată îmbunătăți procesul de asigurare a calității și să se poată livra cele mai bune versiuni posibile."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:75
+#: ../../source/site/forusers/visualchangelog28/index.rst:77
 msgid ""
 "QGIS is Free software and you are under no obligation to pay anything to use"
 " it - in fact we want to encourage people far and wide to use it regardless "
@@ -216,40 +223,40 @@ msgid ""
 "of humanity."
 msgstr "QGIS este un soft gratuit iar dvs. nu aveți obligația de a plăti pentru folosirea lui - de fapt, vrem să încurajăm oamenii de oriunde să-l folosească, indiferent de starea financiară sau socială - având convingerea că, punerea la dispoziția utilizatorilor a posibilităților de decizie spațială, va duce la o societate mai bună pentru întreaga omenire."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:85
+#: ../../source/site/forusers/visualchangelog28/index.rst:87
 msgid "General"
 msgstr "Generalități"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:88
+#: ../../source/site/forusers/visualchangelog28/index.rst:90
 msgid "Feature: Enter expressions into spin boxes"
 msgstr "Funcționalitate: Introducerea expresiilor în casete cu incrementare"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:90
+#: ../../source/site/forusers/visualchangelog28/index.rst:92
 msgid ""
 "When editing attributes in the **attribute table or forms**, you can now "
 "enter expressions directly into spin boxes, e.g. ``5 * 2.5`` and they will "
 "be automatically evaluated."
 msgstr "Când editați atributele în **tabela de atribute sau în formulare**, de acum puteți introduce expresiile direct în casetele cu incrementare, de exemplu, ``5 * 2.5``, acestea fiind evaluate în mod automat."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:98
+#: ../../source/site/forusers/visualchangelog28/index.rst:100
 msgid "Feature: Bookmarks can be imported/exported"
 msgstr "Funcționalitate: Semnele de carte pot fi importate/exportate"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:100
+#: ../../source/site/forusers/visualchangelog28/index.rst:102
 msgid ""
 "It is now possible to save / load your bookmarks to a file. This makes it "
 "easy to share bookmarked locations, or transfer them between computers."
 msgstr "Acum este posibil să salvați/încărcați marcajele într-un fișier. Acest lucru facilitează partajarea locațiilor marcate, sau transferul lor în alte calculatoare."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:102
+#: ../../source/site/forusers/visualchangelog28/index.rst:104
 msgid "**This feature was developed by:** Salvatore Larosa"
 msgstr "**Această funcționalitate a fost dezvoltată de:** Salvatore Larosa"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:109
+#: ../../source/site/forusers/visualchangelog28/index.rst:111
 msgid "Feature: Improvements to expressions"
 msgstr "Funcționalitate: Îmbunătățiri aduse expresiilor"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:111
+#: ../../source/site/forusers/visualchangelog28/index.rst:113
 msgid ""
 "**Integer division produces a double when required**: Previously dividing "
 "two integers in an expression would always result in an integer value, i.e. "
@@ -259,36 +266,36 @@ msgid ""
 " 2``."
 msgstr "**Împărțirea întregilor produce un număr de tip zecimal atunci când este cazul**: Înainte, împărțirea a două numere întregi într-o expresie producea mereu o valoare întreagă, de ex.: ``5 / 2 = 2``. Acum, rezultatul va fi de tip zecimal, atunci când este necesar, astfel ``5 / 2 = 2.5``, care este mult mai logic pentru utilizatori. Un nou operator pentru împărțirea întregilor - ``//``, a fost adăugat pentru a imita comportamentul vechi, adică ``5 // 2 = 2``."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:112
+#: ../../source/site/forusers/visualchangelog28/index.rst:114
 msgid ""
 "**New 'if()' function**: There is now a new ``if(cond, true, false)`` "
 "expression"
 msgstr "**O nouă funcție 'if()'**: Acum există o nouă expresie ``if(cond, true, false)`` "
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:113
+#: ../../source/site/forusers/visualchangelog28/index.rst:115
 msgid "**Lazy evaluation for expressions**"
 msgstr "**Evaluarea întârziată a expresiilor**"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:114
+#: ../../source/site/forusers/visualchangelog28/index.rst:116
 msgid ""
 "**Added get and transform geometry**: These new keywords can be used with "
 "``getFeature`` for some geometry tests like intersects, crosses, contains, "
 "etc."
 msgstr "**S-au adăugat obținerea și transformarea geometriei**: Aceste cuvinte cheie noi pot fi utilizate cu ``getFeature`` pentru unele teste geometrie, cum ar fi: intersectare, încrucrucișare, includere, etc."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:115
+#: ../../source/site/forusers/visualchangelog28/index.rst:117
 msgid "``geometry`` - returns the feature's geometry"
 msgstr "``geometry`` - returnează geometria entității"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:116
+#: ../../source/site/forusers/visualchangelog28/index.rst:118
 msgid "``transform`` - returns the transformed geometry"
 msgstr "``transform`` - returnează geometria transformată"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:123
+#: ../../source/site/forusers/visualchangelog28/index.rst:125
 msgid "Feature: Continuous testing framework and QA improvements"
 msgstr "Funcționalitate: Testarea continuă a cadrului de lucru și asigurarea îmbunătățirii calității"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:125
+#: ../../source/site/forusers/visualchangelog28/index.rst:127
 msgid ""
 "In our ongoing quest to improve the stability and quality of QGIS, every "
 "commit is now tested against a growing test suite to identify regressions "
@@ -299,7 +306,7 @@ msgid ""
 " or updated."
 msgstr "În încercarea noastră continuă de a îmbunătăți stabilitatea și calitatea QGIS, fiecare commit este acum testat cu o suită de testare, pentru a identifica în mod automat regresiile. În imaginea din dreapta puteți vedea lista cererilor de pe pagina noastră GitHub, acestea fiind sunt acum adnotate în mod automat, cu o bifă sau o cruciuliță, în funcție de suita de testare care a rulat cu succes pe `Travis.ci <https://travis-ci.org/qgis/QGIS>`_, atunci când apare o solicitare de descărcare sau de actualizare."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:127
+#: ../../source/site/forusers/visualchangelog28/index.rst:129
 msgid ""
 "We are also now regularly performing Coverity scans of QGIS codebase. As a "
 "result of this, we have identified and fixed over 1000 flagged issues, "
@@ -307,15 +314,15 @@ msgid ""
 "0.01 wheras the average for programs of similar size is about 1.0."
 msgstr "De asemenea, în prezent desfășurăm cu regularitate scanări ale bazei de cod QGIS. Ca urmare a acestui fapt, am identificat și reparat peste 1000 de marcat probleme, inclusiv defecțiuni de memorie și potențiale erori. QGIS are o densitate a defectelor de 0,01, în timp  ce media pentru programele de dimensiuni similare este de aproximativ 1,0."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:135
+#: ../../source/site/forusers/visualchangelog28/index.rst:137
 msgid "Analysis tools"
 msgstr "Instrumentele de analiză"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:138
+#: ../../source/site/forusers/visualchangelog28/index.rst:140
 msgid "Feature: Measure dialog improvements"
 msgstr "Funcționalitate: Îmbunătățiri aduse dialogului de măsurare"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:140
+#: ../../source/site/forusers/visualchangelog28/index.rst:142
 msgid ""
 "The measure tool has been improved so that you can now select which units "
 "should be used in the measure dialog. There is also a new info section in "
@@ -323,15 +330,15 @@ msgid ""
 "calculations."
 msgstr "Instrumentul de măsurare a fost îmbunătățit, astfel încât de acum să puteți selecta unitățile care trebuie să fie utilizate. Există, de asemenea, o nouă secțiune de informații în fereastra de dialog, care arată ce setări sunt utilizate în timpul operațiunilor de măsurare."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:147
+#: ../../source/site/forusers/visualchangelog28/index.rst:149
 msgid "Browser"
 msgstr "Navigatorul"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:150
+#: ../../source/site/forusers/visualchangelog28/index.rst:152
 msgid "More responsive browser"
 msgstr "Un navigator mult mai prompt"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:152
+#: ../../source/site/forusers/visualchangelog28/index.rst:154
 msgid ""
 "In the QGIS Browser items are now expanded in their own threads, speeding up"
 " the load time of the browser and making the browser more responsive. "
@@ -341,19 +348,19 @@ msgid ""
 "is restored on startup."
 msgstr "În navigatorul QGIS elementele sunt de acum extinse în propriile lor fire de execuție, accelerând timpul de încărcare și făcând navigatorul mai receptiv. Navigarea în sursele PostGIS se face de acum mult mai rapid. Instantaneul animat din dreapta (click pe imagine pentru a vedea animația) arată încărcarea a două servere WMS lente în paralel. Starea browser-ului (extinsă sub formă de arbore) este restabilită la pornire."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:155
+#: ../../source/site/forusers/visualchangelog28/index.rst:157
 msgid "**This feature was developed by:** Radim Blazek"
 msgstr "**Această funcționalitate a fost dezvoltată de:** Radim Blazek"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:162
+#: ../../source/site/forusers/visualchangelog28/index.rst:164
 msgid "Data Providers"
 msgstr "Furnizorii de date"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:165
+#: ../../source/site/forusers/visualchangelog28/index.rst:167
 msgid "Feature: Support for contextual WMS legend graphics"
 msgstr "Funcționalitate: Suport pentru legendă grafică WMS contextuală "
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:167
+#: ../../source/site/forusers/visualchangelog28/index.rst:169
 msgid ""
 "If your WMS server supports contextual legends, you can make use of them in "
 "QGIS now too. Contextual legends are getLegendGraphic requests which return "
@@ -361,64 +368,64 @@ msgid ""
 "include legend items for things you can't see in the current map."
 msgstr "Dacă serverul WMS acceptă legende contextuale, de acum puteți face uz de ele și în QGIS. Legendele contextuale sunt cereri getLegendGraphic care returnează numai legenda relevantă pentru vizualizarea extinderii curente, și, prin urmare, nu se includ în legendă elemente pentru lucrurile pe care nu le puteți vedea în harta curentă."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:169
-#: ../../source/site/forusers/visualchangelog28/index.rst:469
+#: ../../source/site/forusers/visualchangelog28/index.rst:171
+#: ../../source/site/forusers/visualchangelog28/index.rst:471
 msgid ""
 "**This feature was funded by:** `Regione Toscana "
 "<http://www.regione.toscana.it/>`_"
 msgstr "**Această funcționalitate a fost finanțată de:** `Regione Toscana <http://www.regione.toscana.it/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:171
-#: ../../source/site/forusers/visualchangelog28/index.rst:498
+#: ../../source/site/forusers/visualchangelog28/index.rst:173
+#: ../../source/site/forusers/visualchangelog28/index.rst:500
 msgid ""
 "**This feature was developed by:** `Faunalia <http://www.faunalia.eu/>`_"
 msgstr "**Această funcționalitate a fost dezvoltată de:** `Faunalia <http://www.faunalia.eu/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:178
+#: ../../source/site/forusers/visualchangelog28/index.rst:180
 msgid "Data management"
 msgstr "Gestiunea datelor"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:181
+#: ../../source/site/forusers/visualchangelog28/index.rst:183
 msgid "Feature: Custom prefix for joins"
 msgstr "Funcționalitate: Prefix personalizat pentru joncțiuni"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:183
+#: ../../source/site/forusers/visualchangelog28/index.rst:185
 msgid ""
 "You can now define a custom prefix in the joins manager in the layer "
 "properties dialog. When using a prefix, the attribute table in will show "
 "joined attribute names with your preferred prefix."
 msgstr "Puteți defini de acum un prefix personalizat în managerul de joncțiuni din fereastra de dialog a proprietăților stratului. Când se folosește un prefix, tabelul de atribute în cauză va avea numele atributelor alăturate afișat cu prefixul preferat."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:190
+#: ../../source/site/forusers/visualchangelog28/index.rst:192
 msgid "Feature: Support for creation of temporary memory layers"
 msgstr "Funcționalitate: Suport pentru crearea straturilor stocate temporar în memorie"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:192
+#: ../../source/site/forusers/visualchangelog28/index.rst:194
 msgid ""
 "This release add support for creating new temporary scratch layers within "
 "QGIS core. Scratch layers can be created in the ``Layer --> Create layer -->"
 " New Temporary Scratch Layer`` menu option."
 msgstr "Această versiune adaugă în nucleul QGIS suport pentru crearea unor noi straturi temporare, stocate în memorie. Straturi respective pot fi create în opțiunea de meniu ``Strat --> Creare Strat --> Nou Strat Temporar, Stocat în Memorie``."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:199
+#: ../../source/site/forusers/visualchangelog28/index.rst:201
 msgid "Feature: Support for calculations on selected rows"
 msgstr "Funcționalitate: Suport pentru calcule asupra rândurilor selectate"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:201
+#: ../../source/site/forusers/visualchangelog28/index.rst:203
 msgid ""
 "In the attribute table you can now do calculations on selected rows only "
 "thanks to the new button added to the field calculator bar."
 msgstr "În tabelul de atribute puteți face acum calcule pe rândurile selectate, mulțumită butonului nou adăugat în bara de calculatorului de câmpuri."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:208
+#: ../../source/site/forusers/visualchangelog28/index.rst:210
 msgid "Digitising"
 msgstr "Digitizarea"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:211
+#: ../../source/site/forusers/visualchangelog28/index.rst:213
 msgid "Feature: Advanced digitizing tools"
 msgstr "Funcționalitate: Instrumente de digitizare avansată"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:213
+#: ../../source/site/forusers/visualchangelog28/index.rst:215
 msgid ""
 "If you ever wished you could digitise lines exactly parallel or at right "
 "angles, lock lines to specific angles and so on in QGIS, now you can! The "
@@ -427,64 +434,64 @@ msgid ""
 "geometry parts"
 msgstr "Dacă ați dorit vreodată să puteți digitiza în QGIS linii exact paralele sau în unghi drept, sau să fixați liniile la un unghi specific și așa mai departe, acum se poate! Instrumentele de digitizare avansate reprezintă o portare a pluginului CADinput, căruia i s-a adăugat un nou panou în QGIS. Panoul devine activ la momentul capturii de noi geometrii sau a unor părți de geometrie"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:220
+#: ../../source/site/forusers/visualchangelog28/index.rst:222
 msgid "Feature: Improved simplify tool"
 msgstr "Funcționalitate: Instrument de simplificare îmbunătățit"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:222
+#: ../../source/site/forusers/visualchangelog28/index.rst:224
 msgid "The simplify tool has been overhauled, adding:"
 msgstr "Instrumentul de simplificare a fost revizuit, adăugându-se:"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:224
+#: ../../source/site/forusers/visualchangelog28/index.rst:226
 msgid "OTF reprojection support"
 msgstr "Suport pentru reproiectarea OTF"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:225
+#: ../../source/site/forusers/visualchangelog28/index.rst:227
 msgid "user can specify exact tolerance (not just non-sense relative value)"
 msgstr "utilizatorul poate specifica toleranța exactă (nu doar o valoare relativă fără sens)"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:226
+#: ../../source/site/forusers/visualchangelog28/index.rst:228
 msgid ""
 "tolerance can be specified either in map units or layer units or pixels"
 msgstr "toleranța poate fi specificată fie în unități ale hărții, fie în unitățile stratului sau în pixeli"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:227
+#: ../../source/site/forusers/visualchangelog28/index.rst:229
 msgid "tolerance settings are stored in settings"
 msgstr "setările toleranței sunt stocate în setările generale"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:228
+#: ../../source/site/forusers/visualchangelog28/index.rst:230
 msgid ""
 "simplify multiple features at once (drag a rectangle instead of just "
 "clicking)"
 msgstr "simplificarea mai multor entități simultan (glisare dreptunghi în loc de efectuarea unui clic)"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:229
+#: ../../source/site/forusers/visualchangelog28/index.rst:231
 msgid "support for multi-part features"
 msgstr "suport pentru entitățile multi-parte"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:230
+#: ../../source/site/forusers/visualchangelog28/index.rst:232
 msgid "statistics about reduction of the number of vertices"
 msgstr "statistici despre reducerea numărului de noduri"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:232
+#: ../../source/site/forusers/visualchangelog28/index.rst:234
 msgid ""
 "**This feature was funded by:** `Tracks for Africa "
 "<http://tracks4africa.com/>`_"
 msgstr "**Această funcționalitate a fost finanțată de:** `Tracks for Africa <http://tracks4africa.com/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:234
-#: ../../source/site/forusers/visualchangelog28/index.rst:263
+#: ../../source/site/forusers/visualchangelog28/index.rst:236
+#: ../../source/site/forusers/visualchangelog28/index.rst:265
 msgid ""
 "**This feature was developed by:** `Lutra Consulting "
 "<http://www.lutraconsulting.co.uk/>`_ in cooperation with  `Kartoza "
 "<http://kartoza.com/>`_"
 msgstr "**Această funcționalitate a fost dezvoltată de:** `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_ în cooperare cu `Kartoza <http://kartoza.com/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:241
+#: ../../source/site/forusers/visualchangelog28/index.rst:243
 msgid "Feature: Snapping improvements"
 msgstr "Funcționalitate: Îmbunătățiri aduse acroșării"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:243
+#: ../../source/site/forusers/visualchangelog28/index.rst:245
 msgid ""
 "There is a new snapping mode : **snap to all layers** which makes it quick "
 "to enable snapping between all layers. Also the underlying snapping "
@@ -495,28 +502,28 @@ msgid ""
 "tolerances without you knowing."
 msgstr "Există un nou mod de acroșare: **la toate straturile** ceea ce activează mai rapid acroșarea între toate straturile. De asemenea, arhitectura care stă la baza acroșării în QGIS a fost revizuită, făcând-o mult mai rapidă pentru proiecte mari și îmbunătățindu-i precizia cu care are loc. Există, de asemenea, mai puțin confuzie, toleranța acroșării fiind în unitățile hărții sau ale stratului, astfel încât o toleranță anticipată de 1 metru să nu devină o toleranță de 1 grad, fără știrea dumneavoastră."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:245
+#: ../../source/site/forusers/visualchangelog28/index.rst:247
 msgid ""
 "**This feature was funded by:** ` Ville de Vevey, SITNyon "
 "<http://www.vevey.ch/>`_ and `QGIS Usergroup Switzerland "
 "<http://www.qgis.ch/>`_"
 msgstr "**Această funcționalitate a fost finanțată de:** Ville de Vevey, SITNyon <http://www.vevey.ch/>`_ și `Grupul utilizatorilor QGIS din Elveția <http://www.qgis.ch/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:247
+#: ../../source/site/forusers/visualchangelog28/index.rst:249
 msgid ""
 "**This feature was developed by:** `Lutra Consulting "
 "<http://www.lutraconsulting.co.uk/>`_"
 msgstr "**Această funcționalitate a fost dezvoltată de:** `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:254
+#: ../../source/site/forusers/visualchangelog28/index.rst:256
 msgid "Layer Legend"
 msgstr "Legenda stratului"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:257
+#: ../../source/site/forusers/visualchangelog28/index.rst:259
 msgid "Feature: Show rule-based renderer's legend as a tree"
 msgstr "Funcționalitate: Legenda renderului bazat pe reguli se afișează sub formă de arbore"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:259
+#: ../../source/site/forusers/visualchangelog28/index.rst:261
 msgid ""
 "Advanced users who leverage QGIS's rule based renderer system will be "
 "pleased to see that the rules are now presented as a tree in the legend. "
@@ -525,19 +532,19 @@ msgid ""
 " in your map."
 msgstr "Utilizatorii avansați care folosesc sistemul de randare pe bază de reguli din QGIS, vor fi încântați să vadă că regulile sunt de acum prezentate în legendă sub formă de arbore. Mai mult, fiecare nod din **arbore** poate fi **deschis/închis**, oferind individual o mare flexibilitate în randarea substraturilor hărții."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:261
+#: ../../source/site/forusers/visualchangelog28/index.rst:263
 msgid "**This feature was funded by:** `SIGE <http://www.sige.ch/>`_"
 msgstr "**Această funcționalitate a fost finanțată de:** `SIGE <http://www.sige.ch/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:270
+#: ../../source/site/forusers/visualchangelog28/index.rst:272
 msgid "Map Composer"
 msgstr "Compozitorul de Hărți"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:273
+#: ../../source/site/forusers/visualchangelog28/index.rst:275
 msgid "Feature: Composer GUI Improvements"
 msgstr "Funcționalitate: Îmbunătățiri aduse Interfeței Compozitorului"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:275
+#: ../../source/site/forusers/visualchangelog28/index.rst:277
 msgid ""
 "View menu option to **hide bounding boxes**. This allows users to hide the "
 "bounding boxes for selected items within a composition. It's a handy feature"
@@ -546,11 +553,11 @@ msgid ""
 "view."
 msgstr "Opțiune în meniul Vizualizare, de a **ascunde casetele de încadrare**. Aceasta permite utilizatorilor să ascundă casetele care delimitează elementele selectate în cadrul unei compoziții. Este o funcționalitate foarte utilă, care permite interacțiunea cu elementele, în timp ce previzualizarea prezintă compoziția exact așa cum va arăta ea, atunci când va fi exportată, fără dreptunghiuri mari care să blocheze vederea."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:276
+#: ../../source/site/forusers/visualchangelog28/index.rst:278
 msgid "**Full screen mode for composer**"
 msgstr "Modul de afișare a compozitorului **pe tot ecranul**"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:277
+#: ../../source/site/forusers/visualchangelog28/index.rst:279
 msgid ""
 "Option to **toggle display of panels** in composer, available by both the "
 "``view menu``, using the shortcut ``F10`` and by pressing ``Tab`` when the "
@@ -558,11 +565,11 @@ msgid ""
 "planning a map layout."
 msgstr "Opțiunea de a **comuta afișarea panourilor** în compozitor, disponibile atât în ``meniul vizualizare``, utilizând comanda rapidă ``F10``, cât și prin apăsarea tastei ``Tab`` atunci când este selectat canevasul compozitorului. Maximizarea spațiului este foarte utilă atunci când se planifică un aspect pentru o hartă."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:284
+#: ../../source/site/forusers/visualchangelog28/index.rst:286
 msgid "Feature: Grid improvements"
 msgstr "Funcționalitate: Îmbunătățiri aduse grilei"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:286
+#: ../../source/site/forusers/visualchangelog28/index.rst:288
 msgid ""
 "In the composer you now have finer control of frame and annotation display. "
 "Previously, for rotated maps or reprojected grids, the composer would draw "
@@ -573,18 +580,18 @@ msgid ""
 "frame is divided."
 msgstr "În compozitor, de acum aveți un control mai fin al cadrului de afișare și adnotare. Anterior, pentru hărți rotite sau grile reproiectate, compozitorul desena toate coordonatele pentru fiecare latură a hărții. Acest lucru a dus la un amestec de coordonate de latitudine/y și longitudine/x afișate pe margini. Acum puteți controla dacă doriți să se afișeze toate coordonatele, doar latitudinea sau numai longitudinea pentru fiecare latură a cadrului hărții. Opțiuni similare au fost, de asemenea, adăugate pentru a controla modul în care este împărțit cadrul hărții."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:289
+#: ../../source/site/forusers/visualchangelog28/index.rst:291
 msgid ""
 "New vertical descending direction for annotations. This change adds a new "
 "descending vertical direction mode for map grid annotations. Previously only"
 " ascending text was supported for vertical annotations."
 msgstr "O nouă direcție descendentă, verticală, pentru adnotări. Această schimbare adaugă o nou mod de direcție verticală, descendentă, pentru adnotări pe grila hărții. Înainte era posibil doar textul crescător pentru adnotările verticale."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:297
+#: ../../source/site/forusers/visualchangelog28/index.rst:299
 msgid "Feature: Label item margins"
 msgstr "Funcționalitate: Marginea etichetelor"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:299
+#: ../../source/site/forusers/visualchangelog28/index.rst:301
 msgid ""
 "You can now control both horizontal and vertical **margins for label** "
 "items. Previously only a single margin setting would apply to both "
@@ -592,7 +599,7 @@ msgid ""
 "different horizontal and vertical margins."
 msgstr "De acum, puteți controla ambele **margini pentru etichete**, orizontale și verticale. Anterior, setările marginii se aplicau atât marginii orizontale cât și celei verticale. Această modificare permite utilizatorilor să specifice margini orizontale și verticale diferite."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:300
+#: ../../source/site/forusers/visualchangelog28/index.rst:302
 msgid ""
 "You can now specify negative margins for label items, **allowing text to be "
 "drawn slightly outside of a label item's bounds**. This is desirable for "
@@ -600,211 +607,211 @@ msgid ""
 "alignment for the label type."
 msgstr "Puteți specifica de acum margini negative pentru etichete, **permițând textului să fie desenat ușor în afara limitelor unei etichete**. Acest lucru este de dorit pentru alinierea etichetelor cu alte articole, permițând, în același timp, alinierea marginii optice pentru tipul de etichetă."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:307
+#: ../../source/site/forusers/visualchangelog28/index.rst:309
 msgid "Plugins"
 msgstr "Plugin-uri"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:310
+#: ../../source/site/forusers/visualchangelog28/index.rst:312
 msgid "Feature: Python console improvements"
 msgstr "Funcționalitate: Îmbunătățiri aduse consolei Python"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:312
+#: ../../source/site/forusers/visualchangelog28/index.rst:314
 msgid ""
 "You can now drag and drop python scripts into QGIS window and they will be "
 "executed automatically. We also added a toolbar icon to the plugins toolbar "
 "and a shortcut ( ``Ctrl-Alt-P`` ) for quick access to the python console."
 msgstr "Aveți posibilitatea să glisați de acum script-urile Python în fereastra QGIS, după care acestea vor fi executate, în mod automat. Am adăugat, de asemenea, o pictogramă în bara de instrumente a plugin-urilor și o scurtătură ( ``Ctrl-Alt-P`` ) pentru accesul rapid la consola Python."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:319
+#: ../../source/site/forusers/visualchangelog28/index.rst:321
 msgid "Processing"
 msgstr "Procesare"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:322
+#: ../../source/site/forusers/visualchangelog28/index.rst:324
 msgid "Feature: New geometric predicate parameter type"
 msgstr "Funcționalitate: Un nou tip de parametru - predicatul geometric"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:324
+#: ../../source/site/forusers/visualchangelog28/index.rst:326
 msgid ""
 "With this new parameter type, used in **Select by location, Extract by "
 "location** and **Join attributes by location** algorithms, the user can "
 "select precisely the spatial operator to use."
 msgstr "Cu acest nou tip de parametru, folosit în algoritmii **Selectare după locație, Extragere după locație** și **Joncțiune atribute după locație**, utilizatorul poate selecta cu precizie a operatorul spațial de utilizat."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:326
+#: ../../source/site/forusers/visualchangelog28/index.rst:328
 msgid ""
 "**This feature was funded by:** `French Ministry of Ecology, Sustainable "
 "Development and Energy <http://www.developpement-durable.gouv.fr/>`_"
 msgstr "**Această funcționalitate a fost finanțată de:** `Ministerul Francez de Ecologie, Dezvoltare Sustenabilă și Energie <http://www.developpement-durable.gouv.fr/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:328
+#: ../../source/site/forusers/visualchangelog28/index.rst:330
 msgid ""
 "**This feature was developed by:** `Camptocamp <http//www.camptocamp.com>`_"
 msgstr "**Această funcționalitate a fost dezvoltată de:** `Camptocamp <http//www.camptocamp.com>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:335
+#: ../../source/site/forusers/visualchangelog28/index.rst:337
 msgid "Feature: New algorithms"
 msgstr "Funcționalitate: Noi algoritmi"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:337
+#: ../../source/site/forusers/visualchangelog28/index.rst:339
 msgid ""
 "A number of new algorithms have been added to the processing framework:"
 msgstr "Au fost adăugați cadrului de procesare o serie de algoritmi noi:"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:339
+#: ../../source/site/forusers/visualchangelog28/index.rst:341
 msgid "**Regular points** algorithm (addresses #5953)"
 msgstr "Algoritmul \"Puncte regulate\" (ca răspuns la #5953)"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:340
+#: ../../source/site/forusers/visualchangelog28/index.rst:342
 msgid "**Symetrical difference** algorithm (addresses #5953)"
 msgstr "Algoritmul \"Diferență simetrică\" (ca răspuns la #5953)"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:341
+#: ../../source/site/forusers/visualchangelog28/index.rst:343
 msgid "**Vector split** algorithm (addresses #5953)"
 msgstr "Algoritmul \"Divizare vectorială\" (ca răspuns la #5953)"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:342
+#: ../../source/site/forusers/visualchangelog28/index.rst:344
 msgid "**Vector grid** algorithm (addresses #5953)"
 msgstr "Algoritmul \"Grilă vectorială\" (ca răspuns la #5953)"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:343
+#: ../../source/site/forusers/visualchangelog28/index.rst:345
 msgid "**Hypsometric curves** calculation algorithm"
 msgstr "Algoritmul de calculare a **Curbelor hipsometrice**"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:344
+#: ../../source/site/forusers/visualchangelog28/index.rst:346
 msgid "**Split lines with lines**"
 msgstr "**Divizarea liniilor cu ajutorul liniilor**"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:345
+#: ../../source/site/forusers/visualchangelog28/index.rst:347
 msgid "**Refactor fields** attributes manipulation algorithm"
 msgstr "Algoritmul de manipulare a atributelor: **Refactorizare câmpuri** "
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:352
+#: ../../source/site/forusers/visualchangelog28/index.rst:354
 msgid "Programmability"
 msgstr "Programabilitate"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:355
+#: ../../source/site/forusers/visualchangelog28/index.rst:357
 msgid "Feature: Add comment functionality to expressions"
 msgstr "Funcționalitate: S-a adăugat funcționalitatea de comentare în expresii"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:357
+#: ../../source/site/forusers/visualchangelog28/index.rst:359
 msgid ""
 "Comments can now be added to expressions using an SQL style ``--`` prefix."
 msgstr "Comentariile pot fi de acum adăugate expresiilor, folosind prefixul ``--``, ca în SQL."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:364
+#: ../../source/site/forusers/visualchangelog28/index.rst:366
 msgid "Feature: Custom expression function editor"
 msgstr "Funcționalitate: Editor de funcții cu expresii personalizate"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:366
+#: ../../source/site/forusers/visualchangelog28/index.rst:368
 msgid ""
 "You can now define custom expression functions in the expression widget. See"
 " `this blog post <http://nathanw.net/2015/01/19/function-editor-for-qgis-"
 "expressions/>`_ for more details."
 msgstr "Puteți defini de acum expresii cu funcții personalizate în widget-ul de expresii. Vedeți `această postare pe blog <http://nathanw.net/2015/01/19/function-editor-for-qgis-expressions/>`_ pentru mai multe detalii."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:373
+#: ../../source/site/forusers/visualchangelog28/index.rst:375
 msgid "Feature: Qt5 support"
 msgstr "Funcționalitate: Suport pentru Qt5"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:375
+#: ../../source/site/forusers/visualchangelog28/index.rst:377
 msgid ""
 "QGIS can now be built using Qt5 libraries. Note that currently most binaries"
 " will still with Qt4 by default."
 msgstr "QGIS poate fi acum construit folosind biblioteci Qt5. Rețineți că în prezent majoritatea binarelor sunt compilate, în mod implicit, pentru Qt4."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:382
+#: ../../source/site/forusers/visualchangelog28/index.rst:384
 msgid "Feature: Bulk loading spatial index"
 msgstr "Funcționalitate: Încărcare bulk a indexului spațial"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:384
+#: ../../source/site/forusers/visualchangelog28/index.rst:386
 msgid ""
 "In the API we have added support for bulk loading of spatial index. This is "
 "much faster way of initializing a spatial index. From python it is as simple"
 " as:"
 msgstr "În API s-a adăugat suport pentru încărcarea bulk a indexului spațial. Aceasta reprezintă o modalitate mai rapidă de inițializare a indexului spațial. În python se scrie pur și simplu:"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:386
+#: ../../source/site/forusers/visualchangelog28/index.rst:388
 msgid "``index = QgsSpatialIndex( layer.getFeatures() )``"
 msgstr "``index = QgsSpatialIndex( layer.getFeatures() )``"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:388
+#: ../../source/site/forusers/visualchangelog28/index.rst:390
 msgid "From a simple test with 50K points in a memory layer:"
 msgstr "Dintr-un test simplu cu 50K puncte într-un strat de memorie:"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:390
+#: ../../source/site/forusers/visualchangelog28/index.rst:392
 msgid "**bulk loading ~ 100 ms**"
 msgstr "**încărcarea bulk ~ 100 ms**"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:392
+#: ../../source/site/forusers/visualchangelog28/index.rst:394
 msgid "inserting features ~ 600 ms"
 msgstr "inserarea entităților ~ 600 ms"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:394
+#: ../../source/site/forusers/visualchangelog28/index.rst:396
 msgid ""
 "The index tree should be also in theory be better constructed and may result"
 " in faster lookups."
 msgstr "Teoretic, arborele indexului ar trebui să fie, de asemenea, mai bine construit și să conducă la căutări rapide."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:401
+#: ../../source/site/forusers/visualchangelog28/index.rst:403
 msgid "Feature: Run only the selected part of a SQL query"
 msgstr "Funcționalitate: Se poate rula doar partea selectată a unei interogări SQL"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:403
+#: ../../source/site/forusers/visualchangelog28/index.rst:405
 msgid ""
 "In the DB Manager SQL editor, it is now possible to highlight a portion of "
 "the SQL and only that portion will be executed when you press ``F5`` or "
 "click the ``run`` button"
 msgstr "În editorul SQL al DB Manager, de acum este posibilă evidențierea unei porțiuni de SQL, iar numai acea parte va fi executată la apăsarea tastei ``F5`` sau la efectuarea unui clic pe butonul ``run``"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:410
+#: ../../source/site/forusers/visualchangelog28/index.rst:412
 msgid "QGIS Server"
 msgstr "QGIS Server"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:413
+#: ../../source/site/forusers/visualchangelog28/index.rst:415
 msgid "Feature: Server python plugins"
 msgstr "Funcționalitate: Plugin-uri Python pentru server"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:415
+#: ../../source/site/forusers/visualchangelog28/index.rst:417
 msgid ""
 "Python plugins support for QGIS server brings the power of python to server "
 "side, allowing for fast and efficient development and deployment of new "
 "features."
 msgstr "Suportul pentru plugin-uri, aduce puterea Python pe partea de server QGIS, pentru a permite dezvoltarea și implementarea de noi caracteristici rapide și eficiente."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:417
+#: ../../source/site/forusers/visualchangelog28/index.rst:419
 msgid ""
 "**This feature was developed by:** `Alessandro Pasotti (ItOpen) "
 "<http://www.itopen.it/>`_"
 msgstr "**Această funcționalitate a fost dezvoltată de:** `Alessandro Pasotti (ItOpen) <http://www.itopen.it/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:420
+#: ../../source/site/forusers/visualchangelog28/index.rst:422
 msgid "Feature: Support for layer styles"
 msgstr "Funcționalitate: Suport pentru stilurile straturilor"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:422
+#: ../../source/site/forusers/visualchangelog28/index.rst:424
 msgid "QGIS Server now supports predefined layer styles in GetMap requests"
 msgstr "QGIS Server suportă de acum stiluri de straturi predefinite în cererile GetMap"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:423
+#: ../../source/site/forusers/visualchangelog28/index.rst:425
 msgid ""
 "QGIS Server now supports multiple styles in GetStyles request (see symbology"
 " section below)"
 msgstr "QGIS Server suportă de acum multiple stiluri de cereri GetStyles (v. secțiunea Simbologie, de mai jos)"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:426
+#: ../../source/site/forusers/visualchangelog28/index.rst:428
 msgid "Feature: Add DescribeLayer Method to WMS"
 msgstr "Funcționalitate: S-a adăugat metoda DescribeLayer în WMS"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:428
+#: ../../source/site/forusers/visualchangelog28/index.rst:430
 msgid ""
 "**Styled Layer Descriptor profile of the Web Map Service : DescribeLayer**"
 msgstr "**Profil Styled Layer Descriptor pentru Web Map Service : DescribeLayer**"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:430
+#: ../../source/site/forusers/visualchangelog28/index.rst:432
 msgid "http://www.opengeospatial.org/standards/sld"
 msgstr "http://www.opengeospatial.org/standards/sld"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:432
+#: ../../source/site/forusers/visualchangelog28/index.rst:434
 msgid ""
 "Defining a user-defined style requires information about the features being "
 "symbolized, or at least their feature/coverage type. Since user-defined "
@@ -816,13 +823,13 @@ msgid ""
 "request."
 msgstr "Definirea unui stil personalizat de către utilizator necesită informații despre entitățile care vor fi simbolizate, sau cel puțin tipul entității/acoperirii. Deoarece stilurile definite de către utilizator pot fi aplicate unui strat denumit, trebuie să existe un mecanism prin care un client poate obține informațiile pentru acest tip de strat. Acesta este un alt exemplu de reducere a decalajului dintre conceptele de straturi si stiluri WMS și conceptele de tip de entitate și strat de acoperire specifice WFS/WCS. Pentru a permite acest lucru, un WMS poate accepta în mod opțional cererea **DescribeLayer**."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:434
+#: ../../source/site/forusers/visualchangelog28/index.rst:436
 msgid ""
 "DescribeLayer method has been thought to be a better approach than "
 "overloading the WMS capabilities document even more."
 msgstr "Metoda DescribeLayer a fost considerată a fi o abordare mai bună decât supraîncărcarea documentului de capabilități WMS."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:436
+#: ../../source/site/forusers/visualchangelog28/index.rst:438
 msgid ""
 "For each named layer, the description should indicate if it is indeed based "
 "on feature data and if so it should indicate the WFS/WCS (by a URL prefix) "
@@ -830,48 +837,48 @@ msgid ""
 "layer not to be describable in this way."
 msgstr "Pentru fiecare strat denumit, descrierea ar trebui să indice dacă se bazează într-adevăr pe datele entității și dacă da, ar trebui să arate WFS/WCS (printr-un prefix URL) și tipul entității/acoperirii. Rețineți că este perfect valabil ca un strat denumit să nu fie descris în acest fel."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:439
+#: ../../source/site/forusers/visualchangelog28/index.rst:441
 msgid "Symbology"
 msgstr "Simbolizare"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:442
+#: ../../source/site/forusers/visualchangelog28/index.rst:444
 msgid "Feature: Raster image fill type"
 msgstr "Funcționalitate: Posibilitate de umplere cu imagini raster"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:444
+#: ../../source/site/forusers/visualchangelog28/index.rst:446
 msgid ""
 "This new symbol layer type allows for filling polygons with a (tiled) raster"
 " image."
 msgstr "Acest nou tip de strat pentru simbol permite umplerea poligoanelor cu o imagine raster (sub formă de plăcuță)."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:446
+#: ../../source/site/forusers/visualchangelog28/index.rst:448
 msgid ""
 "Options include (data defined) file name, opacity, image size (in pixels, mm"
 " or map units), coordinate mode (feature or view), and rotation."
 msgstr "Opțiunile includ numele de fișier (definit cu ajutorul datelor), opacitate, dimensiunea imaginii (în pixeli, mm sau unități de hartă), modul coordonatelor (entitate sau vizualizare), și rotația."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:453
+#: ../../source/site/forusers/visualchangelog28/index.rst:455
 msgid "Feature: Live heatmap renderer"
 msgstr "Funcționalitate: Render în tip real pentru hărți calorice"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:455
+#: ../../source/site/forusers/visualchangelog28/index.rst:457
 msgid ""
 "The new heatmap vector layer renderer allows for live, dynamic heatmaps for "
 "point layers."
 msgstr "Noul render de hărți calorice vectoriale este dinamic, putând fi folosit în timp real pentru straturile de puncte."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:457
+#: ../../source/site/forusers/visualchangelog28/index.rst:459
 msgid ""
 "Options include specifying heatmap radius in pixels, mm or map units, choice"
 " of color ramp,weighting points by field, and a slider for selecting a "
 "tradeoff between render speed and quality."
 msgstr "Opțiunile includ specificarea razei hărții calorice în pixeli, mm sau unități de hartă, alegerea rampei de culoare, ponderarea punctelor în funcție de câmp, precum și un cursor glisant pentru stabilirea unui compromis între viteza și calitatea randării."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:465
+#: ../../source/site/forusers/visualchangelog28/index.rst:467
 msgid "Feature: Multiple styles per layer"
 msgstr "Funcționalitate: Stiluri multiple per strat"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:467
+#: ../../source/site/forusers/visualchangelog28/index.rst:469
 msgid ""
 "It is now possible to set multiple styles for a layer and then easily toggle"
 " between them. This functionality is available in the ``legend context menu "
@@ -883,17 +890,17 @@ msgid ""
 "<http://www.lutraconsulting.co.uk/blog/2015/02/19/towering-qgis-release/>`_."
 msgstr "Acum este posibil să se stabilească stiluri multiple pentru un strat și apoi să se comute ușor între ele. Această funcționalitate este disponibilă în  ``meniul contextual al legendei --> sub-meniul stiluri`` în care este posibil să se adauge/elimine stiluri și să se comute rapid între ele. Seturile de straturi memorează stilurile, iar diversele stiluri pot fi aplicate elementelor individuale din compozitorul de hărți. Stilurile multiple definite sunt, de asemenea, disponibile în cazul în care proiectul este servit de către Server-ul  QGIS ca un strat WMS. Mai multe informații puteți afla din această `postare pe blog <http://www.lutraconsulting.co.uk/blog/2015/02/19/towering-qgis-release/>`_."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:471
+#: ../../source/site/forusers/visualchangelog28/index.rst:473
 msgid ""
 "**This feature was developed by:** `Gis3W <http://www.gis3w.it/>`_, `Lutra "
 "Consulting <http://www.lutraconsulting.co.uk/>`_"
 msgstr "**Această funcționalitate a fost dezvoltată de:** `Gis3W <http://www.gis3w.it/>`_, `Lutra Consulting <http://www.lutraconsulting.co.uk/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:478
+#: ../../source/site/forusers/visualchangelog28/index.rst:480
 msgid "Feature: More data-defined symbology settings"
 msgstr "Funcționalitate: Mai multe setări de simbologie definite cu ajutorul datelor"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:480
+#: ../../source/site/forusers/visualchangelog28/index.rst:482
 msgid ""
 "The user interface for data defined symbology settings has been improved - "
 "moving the data defined option next to each data definable property (in "
@@ -904,21 +911,21 @@ msgid ""
 "settings."
 msgstr "Interfața cu utilizatorul, pentru setarea simbologiei definite prin date, a fost îmbunătățită - mutând opțiunile de definire prin date imediat lângă fiecare proprietate definibilă (în conformitate cu alte părți ale QGIS, cum ar fi proprietățile de etichetare). De asemenea, multe proprietăți noi ale simbologiei au devenit definibile prin date. Această îmbunătățire a interfeței cu utilizatorul oferă, de asemenea, un mod de a vedea imediat dacă definirea prin date a unui parametru este posibilă, oferind și un acces mai ușor la aceste setări."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:487
+#: ../../source/site/forusers/visualchangelog28/index.rst:489
 msgid "Feature: DXF export: improve marker symbol export"
 msgstr "Funcționalitate: Export DXF - s-a îmbunătățit exportul simbolului "
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:489
+#: ../../source/site/forusers/visualchangelog28/index.rst:491
 msgid ""
 "The exporter functionality for DXF files has been improved, with better "
 "fidelity of exported marker symbols to the original QGIS symbology."
 msgstr "Funcționalitatea de exportare a fișierelor DXF a fost îmbunătățită, crescând fidelitatea simbolurilor exportate din QGIS comparativ cu simbolurile inițiale."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:492
+#: ../../source/site/forusers/visualchangelog28/index.rst:494
 msgid "Feature: Map rotation in canvas, improved rotation in composer"
 msgstr "Funcționalitate: Rotirea hărții din canevas - rotație îmbunătățită în compozitor"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:494
+#: ../../source/site/forusers/visualchangelog28/index.rst:496
 msgid ""
 "This release includes preliminary support for rotation in the map canvas. "
 "You can rotate the canvas using the new rotation widget in the status bar. "
@@ -926,28 +933,28 @@ msgid ""
 "correctly handles labelling and symbology, etc."
 msgstr "Această versiune include suport preliminar pentru rotirea hărții de pe canevas. Puteți roti canevasul folosind noul widget de rotație din bara de stare. Suportul pentru rotire a fost extins în compozitorul de hărți, astfel încât acesta să poată gestiona în mod corect etichetarea și simbologia, etc."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:496
+#: ../../source/site/forusers/visualchangelog28/index.rst:498
 msgid ""
 "**This feature was funded by:** `Japan Space Imaging Corporation (JSI) "
 "<http://www.spaceimaging.co.jp/>`_"
 msgstr "**Această funcționalitate a fost finanțată de:** `Japan Space Imaging Corporation (JSI) <http://www.spaceimaging.co.jp/>`_"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:505
+#: ../../source/site/forusers/visualchangelog28/index.rst:507
 msgid "User Interface"
 msgstr "Interfața cu utilizatorul"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:508
+#: ../../source/site/forusers/visualchangelog28/index.rst:510
 msgid "Feature: Improved/consistent projection selection"
 msgstr "Funcționalitate: Selecție îmbunătățită/consistentă a proiecției"
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:510
+#: ../../source/site/forusers/visualchangelog28/index.rst:512
 msgid ""
 "All dialogs now use a consistent projection selection widget, which allows "
 "for quickly selecting from recently used and standard project/QGIS "
 "projections."
 msgstr "Toate dialogurile folosesc acum un widget selecție consistentă a proiecției, care permite selectarea rapidă a proiecțiilor recent utilizate și a celor standard din proiect/QGIS."
 
-#: ../../source/site/forusers/visualchangelog28/index.rst:517
+#: ../../source/site/forusers/visualchangelog28/index.rst:519
 msgid "."
 msgstr "."
 
@@ -958,16 +965,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "checkbox_unchecked"
-
-#~ msgid ""
-#~ "BRONZE Sponsor: `GKG Kassel,(Dr.-Ing. Claas Leiner), Germany "
-#~ "<http://www.eschenlaub.de/>`_"
-#~ msgstr ""
-
-#~ msgid "Changelog for QGIS: 2.8"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "**This feature was funded by:** `Georepublic Japan "
-#~ "<http://georepublic.co.jp/>`_"
-#~ msgstr ""

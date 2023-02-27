@@ -1,6 +1,9 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
-# Andrea Giudiceandrea <andreaerdna@libero.it>, 2019-2020
+# Andrea Giudiceandrea <andreaerdna@libero.it>, 2019-2020,2022
 # Marco Grisolia <marco.grisolia5@gmail.com>, 2016
 # matteo ghetta <matteo.ghetta@gmail.com>, 2013
 # Mattia De Agostino <mattia.deagostino@gmail.com>, 2013
@@ -9,14 +12,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2013-09-17 13:25+0000\n"
-"Last-Translator: Stefano Campus <skampus@gmail.com>, 2020\n"
+"Last-Translator: Andrea Giudiceandrea <andreaerdna@libero.it>, 2019-2020,2022\n"
 "Language-Team: Italian (http://www.transifex.com/qgis/qgis-website/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: it\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
@@ -60,7 +63,7 @@ msgid ""
 "implementation for WMS 1.3."
 msgstr "Pubblica i tuoi progetti QGIS e i layer come servizi WMS, WMTS, WFS e WCS compatibili con gli standard OGC. Gestisci l'esportazione dei layer, degli attributi, dei layout e dei sistemi di coordinate. QGIS server è considerato un'implementazione di riferimento per il protocollo WMS 1.3."
 
-msgid "QGIS Server OGC cerfication badge"
+msgid "QGIS Server OGC certification badge"
 msgstr ""
 
 #: ../../source/site/about/features.rst:33
@@ -93,30 +96,30 @@ msgid ""
 msgstr "La possibilità di usare di QGIS non si ferma alla scrivania. Varie app di terze parti, ottimizzate per touch screen, ti permettono di usare QGIS direttamente sul campo."
 
 #: ../../source/site/about/features.rst:55
-msgid "`QField for QGIS (formerly QGIS for Android) <https://qfield.org>`_"
-msgstr "`QField per QGIS (precedentemente QGIS per Android) <https://qfield.org>`_"
+msgid "`QField <https://qfield.org>`_"
+msgstr "`QField <https://qfield.org>`_"
 
 #: ../../source/site/about/features.rst:59
 msgid "QField"
-msgstr ""
+msgstr "QField"
 
 #: ../../source/site/about/features.rst:59
 msgid ""
-"A screenshot of QField for QGIS (available for Android, Windows, iOS coming "
-"soon)"
-msgstr "Uno screenshot di QField per QGIS (disponibile per Android, Windows e presto anche per iOS)"
+"A screenshot of QField (available for Android, iOS, Windows, macOS, Linux)"
+msgstr "Uno screenshot di QField (disponibile per Android, iOS, Windows, macOS, Linux)"
 
 #: ../../source/site/about/features.rst:62
 msgid "`Mergin Maps Input app <https://merginmaps.com>`_"
-msgstr ""
+msgstr "`Mergin Maps Input app <https://merginmaps.com>`_"
 
 #: ../../source/site/about/features.rst:66
 msgid "Mergin Maps Input app"
-msgstr ""
+msgstr "Mergin Maps Input app"
 
 #: ../../source/site/about/features.rst:66
-msgid "A screenshot of Mergin Maps Input app (available for Android, iOS)"
-msgstr ""
+msgid ""
+"A screenshot of Mergin Maps Input app (available for Android, iOS, Windows)"
+msgstr "Uno screenshot di Mergin Maps Input app (disponibile per Android, iOS, Windows)"
 
 #: ../../source/site/about/features.rst:69
 msgid "`IntraMaps Roam <https://roam-docs.readthedocs.io>`_"
@@ -124,7 +127,7 @@ msgstr "`IntraMaps Roam <https://roam-docs.readthedocs.io>`_"
 
 #: ../../source/site/about/features.rst:73
 msgid "Roam"
-msgstr ""
+msgstr "Roam"
 
 #: ../../source/site/about/features.rst:73
 msgid "A screenshot of IntraMaps Roam (available for Windows)"
@@ -137,44 +140,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr ""
-
-#~ msgid "QGIS Applications"
-#~ msgstr ""
-
-#~ msgid "Features of QGIS"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Publish your QGIS projects and layers as OGC compatible WMS and WFS "
-#~ "services. Control which layers, attributes, layouts and coordinate systems "
-#~ "are exported."
-#~ msgstr ""
-
-#~ msgid "QGIS Browser"
-#~ msgstr ""
-
-#~ msgid "Browse and preview your data and metadata."
-#~ msgstr ""
-
-#~ msgid "Drag and drop your data from one datastore into the other one."
-#~ msgstr ""
-
-#~ msgid "A screenshot of QGIS Browser"
-#~ msgstr ""
-
-#~ msgid "QGIS on Android (beta!)"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Work is being done to use QGIS on Android devices. Current builds are very "
-#~ "experimental, and not for the faint of heart."
-#~ msgstr ""
-
-#~ msgid "A screenshot of QGIS on Android"
-#~ msgstr ""
-
-#~ msgid "`Input <https://inputapp.io>`_"
-#~ msgstr ""
-
-#~ msgid "A screenshot of Input (available for Android, Windows, iOS)"
-#~ msgstr ""

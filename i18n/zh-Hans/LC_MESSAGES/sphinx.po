@@ -1,3 +1,6 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 # Jianing Liu <ljnio@hotmail.com>, 2017
@@ -9,19 +12,19 @@
 # sshuair <sshuair@gmail.com>, 2020-2021
 # Wei Zhang <wzhang.gis@gmail.com>, 2017
 # 徐保才 <1302638819@qq.com>, 2021
-# 徐保才 <1302638819@qq.com>, 2021-2022
+# 徐保才 <1302638819@qq.com>, 2021-2023
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2013-09-17 13:27+0000\n"
-"Last-Translator: 徐保才 <1302638819@qq.com>, 2021-2022\n"
+"Last-Translator: 徐保才 <1302638819@qq.com>, 2021-2023\n"
 "Language-Team: Chinese Simplified (http://www.transifex.com/qgis/qgis-website/language/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: zh-Hans\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -199,7 +202,7 @@ msgstr "文档"
 #: ../../themes/qgis-theme/docs_index.html:32
 #: ../../themes/qgis-theme/docs_index.html:63
 msgid "QGIS 3.22"
-msgstr ""
+msgstr "QGIS 3.22"
 
 #: ../../themes/qgis-theme/docs_index.html:35
 #: ../../themes/qgis-theme/docs_index.html:98
@@ -208,11 +211,11 @@ msgstr "QGIS 3.16"
 
 #: ../../themes/qgis-theme/docs_index.html:38
 msgid "QGIS testing (>3.22)"
-msgstr ""
+msgstr "QGIS测试版 (>3.22)"
 
 #: ../../themes/qgis-theme/docs_index.html:41
 msgid "Documentation for older versions"
-msgstr "旧版本文档"
+msgstr "旧版文档"
 
 #: ../../themes/qgis-theme/docs_index.html:44
 msgid "Data protection"
@@ -329,7 +332,7 @@ msgid ""
 "We are still updating (not translating yet) the documentation for releases "
 "newer than QGIS 3.22. We call this version 'QGIS testing' and the "
 "documentation can be found here: "
-msgstr ""
+msgstr "我们正在持续更新 QGIS 3.22 以后版本的文档 (未翻译)，称其为 \"QGIS测试版\"，文档可在此处找到："
 
 #: ../../themes/qgis-theme/docs_index.html:145
 msgid "QGIS Training Manual"
@@ -361,7 +364,7 @@ msgstr "旧版 QGIS 文档链接："
 
 #: ../../themes/qgis-theme/docs_index.html:164
 msgid "QGIS 3.10 Documentation"
-msgstr ""
+msgstr "QGIS 3.10 文档"
 
 #: ../../themes/qgis-theme/docs_index.html:165
 msgid "QGIS 3.4 Documentation"
@@ -412,8 +415,8 @@ msgid "The long-term repositories currently offer QGIS %s '%s'."
 msgstr "当前提供的QGIS长期支持版本为 %s '%s'."
 
 #: ../../themes/qgis-theme/forusers_download.html:7
-msgid "QGIS is available on Windows, macOS, Linux and Android."
-msgstr "QGIS 可以在 Windows、macOS、Linux 和 Android 平台上运行。"
+msgid "QGIS is available on Windows, macOS, Linux, Android and iOS."
+msgstr "QGIS可以在 Windows、macOS、Linux、Android 和 iOS 平台上运行。"
 
 #: ../../themes/qgis-theme/forusers_download.html:10
 #, python-format
@@ -442,347 +445,226 @@ msgstr "源代码"
 msgid "Download for Windows"
 msgstr "下载 Windows 版本"
 
-#: ../../themes/qgis-theme/forusers_download.html:40
-msgid "QGIS in OSGeo4W (recommended for regular users):"
-msgstr "OSGeo4W中的QGIS (推荐给普通用户使用)："
+#: ../../themes/qgis-theme/forusers_download.html:42
+#: ../../themes/qgis-theme/forusers_download.html:77
+#, python-format
+msgid "Download QGIS %s"
+msgstr "下载 QGIS %s"
 
-#: ../../themes/qgis-theme/forusers_download.html:45
+#: ../../themes/qgis-theme/forusers_download.html:46
+#: ../../themes/qgis-theme/forusers_download.html:81
+#, python-format
+msgid "Looking for the most stable version? Get QGIS %s %s"
+msgstr "是否在寻找最稳定的版本？请下载 QGIS %s %s"
+
+#: ../../themes/qgis-theme/forusers_download.html:52
 msgid "OSGeo4W Network Installer"
 msgstr "OSGeo4W网络安装程序"
 
-#: ../../themes/qgis-theme/forusers_download.html:49
-msgid "In the installer choose "
-msgstr "在安装程序中选择"
-
-#: ../../themes/qgis-theme/forusers_download.html:49
-msgid "Express Install"
-msgstr "快速安装"
-
-#: ../../themes/qgis-theme/forusers_download.html:49
-msgid "and select"
-msgstr "并选定"
-
-#: ../../themes/qgis-theme/forusers_download.html:49
-#: ../../themes/qgis-theme/index.html:9
-msgid "QGIS"
-msgstr "QGIS"
-
-#: ../../themes/qgis-theme/forusers_download.html:49
-msgid "to install the <em>latest release</em> or "
-msgstr "安装<em>最新版</em>或"
-
-#: ../../themes/qgis-theme/forusers_download.html:49
-msgid "QGIS LTR"
-msgstr "QGIS LTR"
-
-#: ../../themes/qgis-theme/forusers_download.html:49
-msgid "to install the <em>long term release</em>."
-msgstr "安装<em>长期发行版</em>。"
-
-#: ../../themes/qgis-theme/forusers_download.html:50
-msgid ""
-"The express installations have several optional packages including non-free "
-"software. To avoid those you have to use the"
-msgstr "快速安装有几个可选软件包，包括非自由软件，为了避免您必须使用"
-
-#: ../../themes/qgis-theme/forusers_download.html:50
-msgid "Advanced Install"
-msgstr "高级安装"
-
-#: ../../themes/qgis-theme/forusers_download.html:50
-msgid "and choose"
-msgstr "并选择"
-
-#: ../../themes/qgis-theme/forusers_download.html:50
-msgid "and/or"
-msgstr "和/或"
-
-#: ../../themes/qgis-theme/forusers_download.html:50
-msgid "in the desktop section."
-msgstr "在桌面版本中。"
-
-#: ../../themes/qgis-theme/forusers_download.html:51
-#: ../../themes/qgis-theme/forusers_download.html:52
-msgid "CAUTION"
-msgstr "警告"
-
-#: ../../themes/qgis-theme/forusers_download.html:51
-msgid ""
-"Upgrades of old setups from OSGeo4W v1 using this repository are not "
-"supported. You need to do a fresh install or use a different directory."
-msgstr "不支持使用此存储库从 OSGeo4W v1 升级旧设置，您需要进行全新安装或使用其他目录。"
-
-#: ../../themes/qgis-theme/forusers_download.html:52
-msgid ""
-"32 bit binaries are not produced anymore.  Also Windows 7 no longer works as"
-" we are now using Python 3.9, which dropped support for it."
-msgstr "不再生成32位二进制文件。此外，微软公司已停止对 Windows 7 进行安全更新的支持，而QGIS使用的是 Python 3.9，它也放弃了对 Windows 7 的支持，因此QGIS不再支持 Windows 7。"
-
-#: ../../themes/qgis-theme/forusers_download.html:56
-msgid ""
-"Standalone installers (MSI) from OSGeo4W packages (recommended for new "
-"users)"
-msgstr "OSGeo4W软件包中的独立安装程序 (MSI) (建议新用户使用)"
-
 #: ../../themes/qgis-theme/forusers_download.html:57
-#: ../../themes/qgis-theme/forusers_download.html:104
-msgid "Latest release (richest on features):"
-msgstr "最新版本 (功能最丰富)："
-
-#: ../../themes/qgis-theme/forusers_download.html:62
-#: ../../themes/qgis-theme/forusers_download.html:77
-#, python-format
-msgid "QGIS Standalone Installer Version %s"
-msgstr "QGIS独立安装程序版本 %s"
-
-#: ../../themes/qgis-theme/forusers_download.html:72
-#: ../../themes/qgis-theme/forusers_download.html:112
-msgid "Long term release (most stable):"
-msgstr "长期发行版 (最稳定)："
-
-#: ../../themes/qgis-theme/forusers_download.html:87
 msgid ""
-"Note that the MSI installers are much bigger than the previous installers.  "
-"This is because they include significant larger packages (eg. PROJ 8).  The "
-"main reason for the switch to MSI were the size limits previously used NSIS "
-"has, which was blocking updates of dependencies."
-msgstr "请注意，MSI安装程序比以前的安装程序大得多。这是因为它们包含较大的软件包 (例如 Proj 8)。切换到MSI的主要原因是之前使用NSIS的大小限制，这会阻止依赖项的更新。 "
+"The OSGeo4W installer is recommended for regular users or organization "
+"deployments. <em>It allows to have several QGIS versions in one place, and "
+"to keep each component up-to-date individually without having to download "
+"the whole package.</em>"
+msgstr "建议普通用户或组织部署使用OSGeo4W安装程序。<em>它允许在一台设备上安装多个QGIS版本，并可使每个组件单独更新，而无需下载整个安装包。</em>"
 
-#: ../../themes/qgis-theme/forusers_download.html:96
+#: ../../themes/qgis-theme/forusers_download.html:60
+msgid "Since QGIS 3.20 we only ship 64-bit Windows executables."
+msgstr "自 QGIS 3.20 开始，我们只提供64位Windows可执行安装文件。"
+
+#: ../../themes/qgis-theme/forusers_download.html:69
 msgid "Download for macOS"
 msgstr "下载macOS版本"
 
-#: ../../themes/qgis-theme/forusers_download.html:101
-msgid "Official All-in-one, signed installers"
-msgstr "官方一体化版本，已签名的安装程序"
-
-#: ../../themes/qgis-theme/forusers_download.html:102
-#: ../../themes/qgis-theme/forusers_download.html:122
-msgid "Mac Installer Packages for macOS High Sierra (10.13) and newer."
-msgstr "适用于macOS High Sierra（10.13）及更高版本的Mac Installer软件包。"
-
-#: ../../themes/qgis-theme/forusers_download.html:103
+#: ../../themes/qgis-theme/forusers_download.html:83
 msgid ""
-"QGIS is not yet notarized as required by macOS Catalina (10.15) security "
-"rules. On first launch, please right-click on the QGIS app icon, hold down "
-"the Option key, then choose Open."
-msgstr "QGIS尚未按照 macOS Catalina (10.15) 安全规则的要求进行公证。首次启动时，请右键单击QGIS应用程序图标，按住选项键，然后选择“打开”。"
+"macOS High Sierra (10.13) or newer is required. QGIS is not yet notarized as"
+" required by macOS Catalina (10.15) security rules. On first launch, please "
+"right-click on the QGIS app icon, hold down the Option key, then choose "
+"Open."
+msgstr "需要 macOS High Sierra (10.13) 或更高版本。QGIS 尚未按照 macOS Catalina (10.15) 安全规则的要求进行公证。首次启动时，请右键单击 QGIS 应用程序图标，按住选项键，然后选择 \"打开\"。"
 
-#: ../../themes/qgis-theme/forusers_download.html:109
-#: ../../themes/qgis-theme/forusers_download.html:117
-#, python-format
-msgid "QGIS macOS Installer Version %s"
-msgstr "QGIS macOS 安装版本 %s"
-
-#: ../../themes/qgis-theme/forusers_download.html:120
-msgid "Alternative build"
-msgstr "可选替代版本"
-
-#: ../../themes/qgis-theme/forusers_download.html:123
-msgid ""
-"Installation instructions are in the Read Me on the disk image. GDAL and "
-"Python (both included on the disk image) are installed separately and "
-"outside the QGIS app so they are usable on their own. These packages use the"
-" python.org Python 3 - other distributions are not supported."
-msgstr "安装说明位于磁盘映像的自述文件中。GDAL和Python (均包含在磁盘映像中) 分别安装在QGIS应用程序之外，因此它们可以单独使用。这些安装程序使用 python.org Python 3 - 不支持其他发行版。"
-
-#: ../../themes/qgis-theme/forusers_download.html:128
-msgid "macOS Installers"
-msgstr "macOS安装包"
-
-#: ../../themes/qgis-theme/forusers_download.html:138
+#: ../../themes/qgis-theme/forusers_download.html:91
 msgid "Download for Linux"
 msgstr "下载 Linux 版本"
 
-#: ../../themes/qgis-theme/forusers_download.html:143
+#: ../../themes/qgis-theme/forusers_download.html:96
 msgid ""
 "For many flavors of GNU/Linux binary packages (rpm and deb) or software "
 "repositories (to add to your installation manager) are available. Please "
 "select your choice of distro below:"
 msgstr "各种GNU/Linux 二进制包 (rpm或deb) 或软件源 (可加入到你的安装管理器当中) 供您选择，请在下方选择您的发行版本："
 
-#: ../../themes/qgis-theme/forusers_download.html:145
+#: ../../themes/qgis-theme/forusers_download.html:98
 msgid "Debian/Ubuntu"
 msgstr "Debian/Ubuntu"
 
-#: ../../themes/qgis-theme/forusers_download.html:146
+#: ../../themes/qgis-theme/forusers_download.html:99
 msgid "Fedora"
 msgstr "Fedora"
 
-#: ../../themes/qgis-theme/forusers_download.html:147
+#: ../../themes/qgis-theme/forusers_download.html:100
 msgid "openSUSE"
 msgstr "openSUSE"
 
-#: ../../themes/qgis-theme/forusers_download.html:148
-msgid "RHEL, CentOS, Scientific Linux, ..."
-msgstr "RHEL, CentOS, Scientific Linux, ..."
-
-#: ../../themes/qgis-theme/forusers_download.html:149
+#: ../../themes/qgis-theme/forusers_download.html:101
 msgid "Mandriva"
 msgstr "Mandriva"
 
-#: ../../themes/qgis-theme/forusers_download.html:150
+#: ../../themes/qgis-theme/forusers_download.html:102
 msgid "Slackware"
 msgstr "Slackware"
 
-#: ../../themes/qgis-theme/forusers_download.html:151
+#: ../../themes/qgis-theme/forusers_download.html:103
 msgid "Arch Linux"
 msgstr "Arch Linux"
 
-#: ../../themes/qgis-theme/forusers_download.html:152
+#: ../../themes/qgis-theme/forusers_download.html:104
 msgid "Flatpak"
 msgstr "Flatpak"
 
-#: ../../themes/qgis-theme/forusers_download.html:154
+#: ../../themes/qgis-theme/forusers_download.html:106
 msgid "Linux Installation Instructions"
 msgstr "Linux 安装指南"
 
-#: ../../themes/qgis-theme/forusers_download.html:162
+#: ../../themes/qgis-theme/forusers_download.html:114
 msgid "Download for BSD"
 msgstr "下载 BSD 版本"
 
-#: ../../themes/qgis-theme/forusers_download.html:167
+#: ../../themes/qgis-theme/forusers_download.html:119
 msgid "BSD Installation Instructions"
 msgstr "BSD 安装指南"
 
-#: ../../themes/qgis-theme/forusers_download.html:175
+#: ../../themes/qgis-theme/forusers_download.html:127
 msgid "Apps for mobile and tablet"
 msgstr "手机和平板电脑应用"
 
-#: ../../themes/qgis-theme/forusers_download.html:180
+#: ../../themes/qgis-theme/forusers_download.html:132
 msgid ""
 "The QGIS experience does not stop on the desktop. Various touch optimized "
 "apps allow you to take QGIS into the field"
 msgstr "QGIS的体验并不停留在桌面上。各种触控优化的应用程序允许您将QGIS带入外业现场。"
 
-#: ../../themes/qgis-theme/forusers_download.html:181
+#: ../../themes/qgis-theme/forusers_download.html:133
 msgid "Third-party touch optimized apps"
 msgstr "第三方针对触摸屏优化的应用程序"
 
-#: ../../themes/qgis-theme/forusers_download.html:182
-msgid "QField for QGIS (formerly QGIS for Android)"
-msgstr "QField for QGIS (原QGIS安卓版)"
+#: ../../themes/qgis-theme/forusers_download.html:134
+msgid "QField (Android, iOS, Windows, macOS, Linux)"
+msgstr "QField (可在 Android、iOS、Windows、macOS 和 Linux 平台运行)"
 
-#: ../../themes/qgis-theme/forusers_download.html:188
-msgid "Mergin Maps Input app (available for Android and iOS devices)"
-msgstr "Mergin地图Input应用程序 (适用于Android和iOS设备)"
+#: ../../themes/qgis-theme/forusers_download.html:141
+msgid "Mergin Maps Input app (available for Android, iOS and Windows devices)"
+msgstr "Mergin Maps Input 应用程序 (适用于 Android、iOS 和 Windows 等设备)"
 
-#: ../../themes/qgis-theme/forusers_download.html:199
+#: ../../themes/qgis-theme/forusers_download.html:153
 msgid "QGIS for Android"
 msgstr "QGIS安卓版"
 
-#: ../../themes/qgis-theme/forusers_download.html:200
+#: ../../themes/qgis-theme/forusers_download.html:154
 msgid ""
 "An old and deprecated not touch optimised release of QGIS for Android can be"
 " found in"
 msgstr "可以在以下网址中找到旧版，且不推荐使用的非触摸式QGIS安卓版本："
 
-#: ../../themes/qgis-theme/forusers_download.html:200
-#: ../../themes/qgis-theme/forusers_download.html:207
-#: ../../themes/qgis-theme/forusers_download.html:209
+#: ../../themes/qgis-theme/forusers_download.html:154
+#: ../../themes/qgis-theme/forusers_download.html:161
+#: ../../themes/qgis-theme/forusers_download.html:163
 msgid "All downloads"
 msgstr "所有下载"
 
-#: ../../themes/qgis-theme/forusers_download.html:209
+#: ../../themes/qgis-theme/forusers_download.html:163
 msgid ""
 "More specific instructions about downloading QGIS stable vs QGIS development"
 " can be found in"
-msgstr "更加针对性的 QGIS 稳定版/开发版 下载选择指南可见于"
+msgstr "有关下载QGIS稳定版与开发版的更多具体说明，请参阅"
 
-#: ../../themes/qgis-theme/forusers_download.html:212
+#: ../../themes/qgis-theme/forusers_download.html:166
 msgid "Datasets"
 msgstr "数据集"
 
-#: ../../themes/qgis-theme/forusers_download.html:213
+#: ../../themes/qgis-theme/forusers_download.html:167
 msgid "For testing and learning purposes, a "
-msgstr "为了测试和学习用途，一个"
+msgstr "用于测试及学习目的，一个"
 
-#: ../../themes/qgis-theme/forusers_download.html:213
+#: ../../themes/qgis-theme/forusers_download.html:167
 msgid "sample dataset is available"
 msgstr "实例数据集可用"
 
-#: ../../themes/qgis-theme/forusers_download.html:213
+#: ../../themes/qgis-theme/forusers_download.html:167
 msgid ""
 "which contains collections of data from different sources and in different "
 "formats."
-msgstr "包含来自不同来源、不同格式的数据集合。"
+msgstr "包含来自不同来源和格式的数据集合。"
 
-#: ../../themes/qgis-theme/forusers_download.html:219
+#: ../../themes/qgis-theme/forusers_download.html:173
 msgid "Previous releases of QGIS are still available"
 msgstr "QGIS以前的版本仍然可用"
 
-#: ../../themes/qgis-theme/forusers_download.html:219
-#: ../../themes/qgis-theme/forusers_download.html:220
-#: ../../themes/qgis-theme/forusers_download.html:221
-#: ../../themes/qgis-theme/forusers_download.html:223
-#: ../../themes/qgis-theme/forusers_download.html:224
-#: ../../themes/qgis-theme/forusers_download.html:234
-#: ../../themes/qgis-theme/forusers_download.html:235
-#: ../../themes/qgis-theme/forusers_download.html:236
+#: ../../themes/qgis-theme/forusers_download.html:173
+#: ../../themes/qgis-theme/forusers_download.html:174
+#: ../../themes/qgis-theme/forusers_download.html:175
+#: ../../themes/qgis-theme/forusers_download.html:177
+#: ../../themes/qgis-theme/forusers_download.html:178
+#: ../../themes/qgis-theme/forusers_download.html:188
 msgid "here"
 msgstr "在这里"
 
-#: ../../themes/qgis-theme/forusers_download.html:219
+#: ../../themes/qgis-theme/forusers_download.html:173
 msgid " - including older releases for OS X "
 msgstr "- 包括 OS X 的旧版本"
 
-#: ../../themes/qgis-theme/forusers_download.html:221
+#: ../../themes/qgis-theme/forusers_download.html:175
 msgid "More older releases are available"
 msgstr "有更多较旧的版本可用"
 
-#: ../../themes/qgis-theme/forusers_download.html:222
-#: ../../themes/qgis-theme/forusers_download.html:232
+#: ../../themes/qgis-theme/forusers_download.html:176
+#: ../../themes/qgis-theme/forusers_download.html:186
 #: ../../themes/qgis-theme/getinvolved_index.html:16
 #: ../../themes/qgis-theme/getinvolved_index.html:90
 msgid "and"
 msgstr "与"
 
-#: ../../themes/qgis-theme/forusers_download.html:223
+#: ../../themes/qgis-theme/forusers_download.html:177
 msgid "for OS X "
 msgstr "对于OS X"
 
-#: ../../themes/qgis-theme/forusers_download.html:224
-#: ../../themes/qgis-theme/forusers_download.html:236
+#: ../../themes/qgis-theme/forusers_download.html:178
 msgid "Plugins for QGIS are also available "
 msgstr "同样还有 QGIS 插件"
 
-#: ../../themes/qgis-theme/forusers_download.html:229
+#: ../../themes/qgis-theme/forusers_download.html:183
 msgid "QGIS is open source software available under the terms of the"
 msgstr "QGIS 是开源软件，遵守"
 
-#: ../../themes/qgis-theme/forusers_download.html:229
+#: ../../themes/qgis-theme/forusers_download.html:183
 msgid "GNU General Public License"
 msgstr "GNU 通用公共许可证"
 
-#: ../../themes/qgis-theme/forusers_download.html:229
+#: ../../themes/qgis-theme/forusers_download.html:183
 msgid ""
 "meaning that its source code can be downloaded through tarballs or the git "
 "repository."
 msgstr "这意味着源码可以 tarballs 格式下载或从 git 存储库中获取"
 
-#: ../../themes/qgis-theme/forusers_download.html:230
+#: ../../themes/qgis-theme/forusers_download.html:184
 msgid "QGIS Source Code is available "
 msgstr "QGIS 原始代码可用 "
 
-#: ../../themes/qgis-theme/forusers_download.html:231
+#: ../../themes/qgis-theme/forusers_download.html:185
 msgid "here (latest release)"
 msgstr "此处（最新版本）"
 
-#: ../../themes/qgis-theme/forusers_download.html:233
+#: ../../themes/qgis-theme/forusers_download.html:187
 msgid "here (long term release)"
 msgstr "此处 (长期发行版)"
 
-#: ../../themes/qgis-theme/forusers_download.html:234
+#: ../../themes/qgis-theme/forusers_download.html:188
 msgid ""
 "Refer to the INSTALL guide on how to compile QGIS from source for the "
 "different platforms:"
 msgstr "请参阅安装指南，了解如何从不同平台的源代码编译QGIS："
-
-#: ../../themes/qgis-theme/forusers_download.html:235
-msgid ""
-"Note that you can also install the development version (nightly) via an "
-"installer from the normal downloads for your platform:"
-msgstr "请注意，您还可以通过安装程序从平台中下载安装开发版本（Nightly）："
 
 #: ../../themes/qgis-theme/forusers_index.html:7
 msgid "Get Started Using QGIS"
@@ -1163,13 +1045,17 @@ msgstr "距打包时间"
 msgid "Time until next pointrelease"
 msgstr "距下一版发布时间"
 
+#: ../../themes/qgis-theme/index.html:9
+msgid "QGIS"
+msgstr "QGIS"
+
 #: ../../themes/qgis-theme/index.html:12
 msgid "A Free and Open Source Geographic Information System"
 msgstr "自由开源的地理信息系统"
 
 #: ../../themes/qgis-theme/index.html:33
-msgid "New release: 3.26!"
-msgstr ""
+msgid "New release: 3.28!"
+msgstr "最新发布: 3.28!"
 
 #: ../../themes/qgis-theme/index.html:35
 msgid "Get the"
@@ -1285,8 +1171,8 @@ msgid "Upcoming User & Developer Meetings"
 msgstr "即将进行的用户与开发者会议"
 
 #: ../../themes/qgis-theme/index.html:182
-msgid "Latest Blog Posts"
-msgstr "最新博客文章"
+msgid "Latest Community Blog Posts"
+msgstr "最新社区博客文章"
 
 #: ../../themes/qgis-theme/index.html:231
 msgid "See More Maps and Screenshots"
@@ -1422,7 +1308,7 @@ msgid ""
 "using our labour of love and encourage you to share and spread your "
 "downloaded copy far and wide so that others may enjoy it too. Our very best "
 "regards!"
-msgstr ""
+msgstr "您正在下载最新的QGIS副本。如果是从 QGIS.org 下载QGIS，将始终免费使用。如果您有能力支持该项目和制作该软件的人员，请考虑提供<a href=\"https://donate.qgis.org/\">小额捐款</a>，以支持我们的工作。无论您是否选择捐赠，我们希望您喜欢使用我们爱的辛劳，并欢迎您将下载的副本广泛分享和传播，以便其他人也可以使用。向您致以最诚挚的问候！"
 
 #: ../../themes/qgis-theme/languageswitch.html:102
 msgid "The QGIS Team"
@@ -1451,7 +1337,7 @@ msgstr "若无另行说明，所有内容均按<a href=\"http://creativecommons.
 msgid ""
 "Select graphics from <a href=\"https://thenounproject.com\" "
 "target=\"_blank\">The Noun Project collection</a>"
-msgstr "从<a href=\"https://thenounproject.com\" target=\"_blank\">The Noun Project </a>网站选取图标素材"
+msgstr "从 <a href=\"https://thenounproject.com\" target=\"_blank\">The Noun Project </a> 网站选取图形素材"
 
 #: ../../themes/qgis-theme/page.html:47
 msgid " - Last updated on "
@@ -1474,18 +1360,18 @@ msgid "Discover QGIS"
 msgstr "探索 QGIS"
 
 #: ../../themes/qgis-theme/search.html:11
-#: ../../themes/qgis-theme/search.html:20
+#: ../../themes/qgis-theme/search.html:21
 #: ../../themes/qgis-theme/searchbox.html:3
 msgid "Search"
 msgstr "搜索"
 
-#: ../../themes/qgis-theme/search.html:24
+#: ../../themes/qgis-theme/search.html:25
 msgid ""
 "Please activate JavaScript to enable the search\n"
 "    functionality."
 msgstr "请启动 JavaScript 以使用搜索功能。"
 
-#: ../../themes/qgis-theme/search.html:29
+#: ../../themes/qgis-theme/search.html:30
 msgid ""
 "From here you can search these documents. Enter your search\n"
 "    words into the box below and click \"search\". Note that the search\n"
@@ -1493,1193 +1379,14 @@ msgid ""
 "    containing fewer words won't appear in the result list."
 msgstr "你可以在这检索这些文件。输入你的搜索关键词到下面的方格并点击“搜索”。注意，本搜索将自动搜索全部关键词。包含部分关键词的页面将不会出现在结果列表中。"
 
-#: ../../themes/qgis-theme/search.html:37
+#: ../../themes/qgis-theme/search.html:38
 msgid "search"
 msgstr "搜索"
 
-#: ../../themes/qgis-theme/search.html:42
+#: ../../themes/qgis-theme/search.html:43
 msgid "Search Results"
 msgstr "搜索结果"
 
-#: ../../themes/qgis-theme/search.html:44
+#: ../../themes/qgis-theme/search.html:45
 msgid "Your search did not match any results."
 msgstr "您的搜索未匹配任何结果。"
-
-#~ msgid "QGIS 2.16 Released"
-#~ msgstr ""
-
-#~ msgid "download QGIS 2.16 Nødebo"
-#~ msgstr ""
-
-#~ msgid ""
-#~ msgstr ""
-
-#~ msgid "Get involved with the QGIS community"
-#~ msgstr ""
-
-#~ msgid "Discover what makes QGIS the leading Open Source desktop GIS"
-#~ msgstr ""
-
-#~ msgid "Download it here."
-#~ msgstr ""
-
-#~ msgid "Check out QGIS screenshots"
-#~ msgstr ""
-
-#~ msgid "Review QGIS case studies"
-#~ msgstr ""
-
-#~ msgid "Planet QGIS"
-#~ msgstr ""
-
-#~ msgid "Table Of Contents"
-#~ msgstr ""
-
-#~ msgid "Where to get support for QGIS"
-#~ msgstr ""
-
-#~ msgid "QGIS Press"
-#~ msgstr ""
-
-#~ msgid "Finding Commercial Support for QGIS"
-#~ msgstr ""
-
-#~ msgid "Explore the plugins that make QGIS so powerful."
-#~ msgstr ""
-
-#~ msgid "Visual Changelog for 2.0"
-#~ msgstr ""
-
-#~ msgid "Read what the QGIS Community is doing around the world."
-#~ msgstr ""
-
-#~ msgid "Get the QGIS 2.0 brochure:"
-#~ msgstr ""
-
-#~ msgid "QGIS 2.0 Brochure"
-#~ msgstr ""
-
-#~ msgid "for a high-resolution print version get:"
-#~ msgstr ""
-
-#~ msgid "Brochure print version (15MB)"
-#~ msgstr ""
-
-#~ msgid "Report a bug"
-#~ msgstr ""
-
-#~ msgid "for QGIS testing"
-#~ msgstr ""
-
-#~ msgid "Get started<br>using QGIS"
-#~ msgstr ""
-
-#~ msgid "For Linux, Windows, OSX, BSD and (in beta) Android."
-#~ msgstr ""
-
-#~ msgid "Visual Changelog for 2.2"
-#~ msgstr ""
-
-#~ msgid "Visual Changelog for 2.4"
-#~ msgstr ""
-
-#~ msgid "Download and install QGIS then follow the quickstart."
-#~ msgstr ""
-
-#~ msgid "Training material index"
-#~ msgstr ""
-
-#~ msgid "Time until next release"
-#~ msgstr ""
-
-#~ msgid "Visual Changelog for 2.6"
-#~ msgstr ""
-
-#~ msgid "Check our documentation"
-#~ msgstr ""
-
-#~ msgid "QGIS 2.12 Released"
-#~ msgstr ""
-
-#~ msgid "download QGIS 2.12 Lyon"
-#~ msgstr ""
-
-#~ msgid "Visual Changelog for 2.12"
-#~ msgstr ""
-
-#~ msgid "Visual Changelog for 2.10"
-#~ msgstr ""
-
-#~ msgid "Visual Changelog for 2.8 (LTR, Long Term Release)"
-#~ msgstr ""
-
-#~ msgid "Check out our Roadmap for future versions: "
-#~ msgstr ""
-
-#~ msgid "Finding Commercial Books on QGIS"
-#~ msgstr ""
-
-#~ msgid "For New Users:"
-#~ msgstr ""
-
-#~ msgid "to install."
-#~ msgstr ""
-
-#~ msgid "QGIS 2 has a fresh new look ..."
-#~ msgstr ""
-
-#~ msgid "check out some screenshots"
-#~ msgstr ""
-
-#~ msgid "Print"
-#~ msgstr ""
-
-#~ msgid "QGIS 2 Print Composer has received a major face-lift ..."
-#~ msgstr ""
-
-#~ msgid "check out the new features"
-#~ msgstr ""
-
-#~ msgid "QGIS 2"
-#~ msgstr ""
-
-#~ msgid "Gary Sherman wins the Sol Katz award!"
-#~ msgstr ""
-
-#~ msgid "Congrats Gary ..."
-#~ msgstr ""
-
-#~ msgid "view the interview"
-#~ msgstr ""
-
-#~ msgid "FOSS4G 2015 Seoul, Korea"
-#~ msgstr ""
-
-#~ msgid "Come along to SEOUL to find out more about QGIS ..."
-#~ msgstr ""
-
-#~ msgid "FOSS4G 2015 website"
-#~ msgstr ""
-
-#~ msgid "QGIS 2.8 Released"
-#~ msgstr ""
-
-#~ msgid "download QGIS 2.8 Wien"
-#~ msgstr ""
-
-#~ msgid "Visual Changelog for 2.8"
-#~ msgstr ""
-
-#~ msgid "Virus check"
-#~ msgstr ""
-
-#~ msgid "Ubuntu"
-#~ msgstr ""
-
-#~ msgid "Debian"
-#~ msgstr ""
-
-#~ msgid "October 2nd-5th 2014, developer meeting Essen"
-#~ msgstr ""
-
-#~ msgid "Help us to get work done ..."
-#~ msgstr ""
-
-#~ msgid "donate now"
-#~ msgstr ""
-
-#~ msgid "download QGIS 2.8 Vienna"
-#~ msgstr ""
-
-#~ msgid "separate installation of dependency frameworks (GDAL Complete and GSL)"
-#~ msgstr ""
-
-#~ msgid "Organizations that Support QGIS"
-#~ msgstr ""
-
-#~ msgid "Learn about Organizations that support QGIS"
-#~ msgstr ""
-
-#~ msgid "Edit"
-#~ msgstr ""
-
-#~ msgid "QGIS 2 has rich vector editing features ..."
-#~ msgstr ""
-
-#~ msgid "check out our manual"
-#~ msgstr ""
-
-#~ msgid "Training material"
-#~ msgstr ""
-
-#~ msgid "Training Material index"
-#~ msgstr ""
-
-#~ msgid "QGIS Standalone Installer Version 2.6 (32 bit)"
-#~ msgstr ""
-
-#~ msgid "QGIS Standalone Installer Version 2.6 (64 bit)"
-#~ msgstr ""
-
-#~ msgid "QGIS 2.6 Released"
-#~ msgstr ""
-
-#~ msgid "download QGIS 2.6 Brighton"
-#~ msgstr ""
-
-#~ msgid "Read QGIS Documentation"
-#~ msgstr ""
-
-#~ msgid "Another good guide to getting started is:"
-#~ msgstr ""
-
-#~ msgid "A Gentle Introduction to GIS"
-#~ msgstr ""
-
-#~ msgid "Learn about QGIS Features"
-#~ msgstr ""
-
-#~ msgid "Want to develop a cpp plugin? Go here: "
-#~ msgstr ""
-
-#~ msgid "Gold Sponsor"
-#~ msgstr ""
-
-#~ msgid "Silver Sponsors"
-#~ msgstr ""
-
-#~ msgid "Flattr"
-#~ msgstr ""
-
-#~ msgid "Version 2.6 Brighton"
-#~ msgstr ""
-
-#~ msgid "The current version is QGIS 2.4 and was released in June 2014."
-#~ msgstr ""
-
-#~ msgid "QGIS Standalone Installer Version 2.4 (32 bit)"
-#~ msgstr ""
-
-#~ msgid "QGIS Standalone Installer Version 2.4 (64 bit)"
-#~ msgstr ""
-
-#~ msgid "Version 2.4 Chugiak"
-#~ msgstr ""
-
-#~ msgid "Time until 2.5 freeze"
-#~ msgstr ""
-
-#~ msgid "Time until 2.6 release"
-#~ msgstr ""
-
-#~ msgid "QGIS 2.0 Released"
-#~ msgstr ""
-
-#~ msgid "Version 2.0 Dufour is named after..."
-#~ msgstr ""
-
-#~ msgid "more"
-#~ msgstr ""
-
-#~ msgid "QGIS 2.4 Released"
-#~ msgstr ""
-
-#~ msgid "download QGIS 2.4 Chugiak"
-#~ msgstr ""
-
-#~ msgid "Sponsorships: annual commitments of funds to the project"
-#~ msgstr ""
-
-#~ msgid "Donations: one-time financial contributions to the project"
-#~ msgstr ""
-
-#~ msgid "Donate to QGIS"
-#~ msgstr ""
-
-#~ msgid "a sponsorship is an annual commitment of funds to the project."
-#~ msgstr ""
-
-#~ msgid "a donation is a one-time financial contribution to the QGIS project."
-#~ msgstr ""
-
-#~ msgid "Help Support the Project Financially"
-#~ msgstr ""
-
-#~ msgid "New donations page"
-#~ msgstr ""
-
-#~ msgid "Download and Install QGIS then follow the Quickstart."
-#~ msgstr ""
-
-#~ msgid "Find out what is going on with the QGIS project and its Community."
-#~ msgstr ""
-
-#~ msgid "QGIS Source Code is available on github "
-#~ msgstr ""
-
-#~ msgid "The current version is QGIS 2.2 and was released in February 2014."
-#~ msgstr ""
-
-#~ msgid "QGIS Standalone Installer Version 2.2 (32 bit)"
-#~ msgstr ""
-
-#~ msgid "QGIS Standalone Installer Version 2.2 (64 bit)"
-#~ msgstr ""
-
-#~ msgid "Version 2.2 Valmiera"
-#~ msgstr ""
-
-#~ msgid "Latest Blog Posts"
-#~ msgstr ""
-
-#~ msgid "QGIS 2.4 Release Candidate"
-#~ msgstr ""
-
-#~ msgid "Get the"
-#~ msgstr ""
-
-#~ msgid "Download QGIS for your Platform"
-#~ msgstr ""
-
-#~ msgid "For Linux, Windows, OSX, BSD and beta Android."
-#~ msgstr ""
-
-#~ msgid "Chinese (Taiwan)"
-#~ msgstr ""
-
-#~ msgid "Check out our visual changelog, for what is changed since QGIS 1.8"
-#~ msgstr ""
-
-#~ msgid "for QGIS 2.0"
-#~ msgstr ""
-
-#~ msgid "for QGIS 1.8"
-#~ msgstr ""
-
-#~ msgid "We keep a copy of the documentation of QGIS 1.8 around here: "
-#~ msgstr ""
-
-#~ msgid "QGIS Core Development"
-#~ msgstr ""
-
-#~ msgid "Blog Posts, Case Studies, Tutorials, User Meetings and more..."
-#~ msgstr ""
-
-#~ msgid "Gallery"
-#~ msgstr ""
-
-#~ msgid "Resources for<br>learning QGIS"
-#~ msgstr ""
-
-#~ msgid "Press"
-#~ msgstr ""
-
-#~ msgid "Version 2.0 Dufour"
-#~ msgstr ""
-
-#~ msgid "QGIS is a cross-platform Open Source Geographic Information system."
-#~ msgstr ""
-
-#~ msgid "The current version is QGIS 2.0.1 and was released in September 2013."
-#~ msgstr ""
-
-#~ msgid "Our latest release is QGIS 2.0 "
-#~ msgstr ""
-
-#~ msgid "QGIS Standalone Installer Version 2.0.1 (32 bit)"
-#~ msgstr ""
-
-#~ msgid "QGIS Standalone Installer Version 2.0.1 (64 bit)"
-#~ msgstr ""
-
-#~ msgid " - Last updated on %(last_updated)s"
-#~ msgstr ""
-
-#~ msgid "Soon: a QGIS training manual!"
-#~ msgstr ""
-
-#~ msgid "If you would like to develop your own, you can get started here:"
-#~ msgstr ""
-
-#~ msgid "Develop your own QGIS Plugin"
-#~ msgstr ""
-
-#~ msgid "QGIS Core"
-#~ msgstr ""
-
-#~ msgid "For Advanced GIS:"
-#~ msgstr ""
-
-#~ msgid "Commerical Support"
-#~ msgstr ""
-
-#~ msgid ">Read all about what the QGIS Community is doing around the world."
-#~ msgstr ""
-
-#~ msgid "QGIS in the News"
-#~ msgstr ""
-
-#~ msgid "QGIS Press Releases"
-#~ msgstr ""
-
-#~ msgid "TODO"
-#~ msgstr ""
-
-#~ msgid "Last updated on %(last_updated)s"
-#~ msgstr ""
-
-#~ msgid "Nederlands"
-#~ msgstr ""
-
-#~ msgid "QGIS Standalone Installer Version 2.0.1 (32 bits)"
-#~ msgstr ""
-
-#~ msgid "QGIS Standalone Installer Version 2.0.1 (64 bits)"
-#~ msgstr ""
-
-#~ msgid "Support QGIS!"
-#~ msgstr ""
-
-#~ msgid "Chinese"
-#~ msgstr ""
-
-#~ msgid "All Downloads"
-#~ msgstr ""
-
-#~ msgid "Older Releases"
-#~ msgstr ""
-
-#~ msgid "Development Versions"
-#~ msgstr ""
-
-#~ msgid "OSGeo4W Advanced Installer"
-#~ msgstr ""
-
-#~ msgid "Older releases"
-#~ msgstr ""
-
-#~ msgid "Datasets:"
-#~ msgstr ""
-
-#~ msgid "Warning:"
-#~ msgstr ""
-
-#~ msgid "Use at your own risk."
-#~ msgstr ""
-
-#~ msgid "Our latest release is QGIS 2.0.0. "
-#~ msgstr ""
-
-#~ msgid "QGIS Standalone Installer Version 2.0.0"
-#~ msgstr ""
-
-#~ msgid "(in QGIS Documentation)"
-#~ msgstr ""
-
-#~ msgid "We think she looks ..."
-#~ msgstr ""
-
-#~ msgid "nice"
-#~ msgstr ""
-
-#~ msgid "Map Design"
-#~ msgstr ""
-
-#~ msgid "Global Flight Paths - Europe"
-#~ msgstr ""
-
-#~ msgid "Mapping value to alpha"
-#~ msgstr ""
-
-#~ msgid "Version 2.0.0 Dufour"
-#~ msgstr ""
-
-#~ msgid "For Linux, Windows, Mac, Android and BSD."
-#~ msgstr ""
-
-#~ msgid "Explore Plugins that make QGIS powerful"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The swiss QGIS-user group is taking care of our bank account. \n"
-#~ "                    Use the details below to make a donation via international money transfer:"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "QGIS is the best GIS tool in the free and open-source software (FOSS) "
-#~ "community."
-#~ msgstr ""
-
-#~ msgid "Long term release (eg. for corporate users):"
-#~ msgstr ""
-
-#~ msgid "LTR Version"
-#~ msgstr ""
-
-#~ msgid "QGIS testing, will be 2.16 Docs"
-#~ msgstr ""
-
-#~ msgid "QGIS is developed by a team of dedicated volunteers and organisations."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "We are still updating (not translating yet) the documentation for QGIS 2.16."
-#~ " We call this version 'QGIS testing' and can be found here: "
-#~ msgstr ""
-
-#~ msgid "QGIS 2.8"
-#~ msgstr ""
-
-#~ msgid "QGIS 2.6"
-#~ msgstr ""
-
-#~ msgid "QGIS 2.2"
-#~ msgstr ""
-
-#~ msgid "QGIS 2.0"
-#~ msgstr ""
-
-#~ msgid "QGIS 1.8"
-#~ msgstr ""
-
-#~ msgid "QGIS 2.14"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "We are still updating (not translating yet) the documentation for QGIS 2.18."
-#~ " This can be found here: "
-#~ msgstr ""
-
-#~ msgid "http://docs.qgis.org/2.18"
-#~ msgstr ""
-
-#~ msgid "http://docs.qgis.org/2.18/pdf"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "We are still updating (not translating yet) the documentation for releases "
-#~ "newer than QGIS 2.14. We call this version 'QGIS testing' and can be found "
-#~ "here: "
-#~ msgstr ""
-
-#~ msgid "We keep a copy of the documentation of QGIS 2.0 around here:"
-#~ msgstr ""
-
-#~ msgid "http://docs.qgis.org/2.0"
-#~ msgstr ""
-
-#~ msgid "QGIS User guide/Manual"
-#~ msgstr ""
-
-#~ msgid "Do the QGIS training:"
-#~ msgstr ""
-
-#~ msgid "Learn how to write docs in"
-#~ msgstr ""
-
-#~ msgid "Intro GIS in"
-#~ msgstr ""
-
-#~ msgid "PDF versions of all above, eg for printing are available here:"
-#~ msgstr ""
-
-#~ msgid "http://docs.qgis.org/2.0/pdf"
-#~ msgstr ""
-
-#~ msgid "We keep a copy of the documentation of QGIS 1.8 around here:"
-#~ msgstr ""
-
-#~ msgid "http://docs.qgis.org/1.8"
-#~ msgstr ""
-
-#~ msgid "PyQGIS cookbook"
-#~ msgstr ""
-
-#~ msgid "http://docs.qgis.org/1.8/pdf"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "QGIS is a professional GIS application which compares \n"
-#~ "                     favorably with free and commercial products.\n"
-#~ "                     QGIS is built on top of and proud to be itself Free and Open Source\n"
-#~ "                     Software (FOSS)."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Binary packages (installers) for current stable version {0} can be "
-#~ "downloaded here."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "We are currently in feature freeze preceding the release of QGIS 2.9. "
-#~ "<b>Please consider testing the prereleases</b>. See "
-#~ msgstr ""
-
-#~ msgid "Latest release (eg. for New Users):"
-#~ msgstr ""
-
-#~ msgid "Long term release repository (eg. for corporate users):"
-#~ msgstr ""
-
-#~ msgid "For Advanced Users:"
-#~ msgstr ""
-
-#~ msgid "to install the latest release."
-#~ msgstr ""
-
-#~ msgid "To get the long term release choose "
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Mac Installer Package for both OS X Mavericks (10.9), Mountain Lion (10.8) "
-#~ "and Lion (10.7)."
-#~ msgstr ""
-
-#~ msgid "This version requires"
-#~ msgstr ""
-
-#~ msgid "separate installation of dependency framework (GDAL Complete)"
-#~ msgstr ""
-
-#~ msgid ", also found at the download link below."
-#~ msgstr ""
-
-#~ msgid "KyngChaos QGIS download page"
-#~ msgstr ""
-
-#~ msgid "Time until feature freeze"
-#~ msgstr ""
-
-#~ msgid "QGIS 2.18 Released"
-#~ msgstr ""
-
-#~ msgid "Get it ..."
-#~ msgstr ""
-
-#~ msgid "download QGIS 2.18 Las Palmas"
-#~ msgstr ""
-
-#~ msgid "or read what is new in the:"
-#~ msgstr ""
-
-#~ msgid "Visual Changelog"
-#~ msgstr ""
-
-#~ msgid "FOSS4G 2016, Bonn Germany"
-#~ msgstr ""
-
-#~ msgid "Come along to Bonn to find out more about QGIS ..."
-#~ msgstr ""
-
-#~ msgid "FOSS4G 2016 website"
-#~ msgstr ""
-
-#~ msgid "Tell us how yo use QGIS, what you want and what you need..."
-#~ msgstr ""
-
-#~ msgid "http://blog.qgis.org/2015/10/15/take-the-qgis-user-survey/"
-#~ msgstr ""
-
-#~ msgid "Help test the new version!"
-#~ msgstr ""
-
-#~ msgid "Please test ..."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "get the release candidate for your Operating System and report any issue you"
-#~ " find, so it gets fixed for the 2.12 final release!"
-#~ msgstr ""
-
-#~ msgid "Want to support us?"
-#~ msgstr ""
-
-#~ msgid "Find out where you can find the QGIS shops to buy "
-#~ msgstr ""
-
-#~ msgid "QGIS goodies"
-#~ msgstr ""
-
-#~ msgid "Learn about QGIS trademark"
-#~ msgstr ""
-
-#~ msgid "Latest News"
-#~ msgstr ""
-
-#~ msgid "in feature freeze since"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "You can use Paypal to donate using your own credit card. \n"
-#~ "                    The payment is processed by PayPal but you don't need to have a PayPal account \n"
-#~ "                    or sign-up for one if you are paying by credit card."
-#~ msgstr ""
-
-#~ msgid "Chinese (China)"
-#~ msgstr ""
-
-#~ msgid "New major release!"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Installation instructions are in the Read Me on the disk image. This package"
-#~ " uses the <a href=\"http://www.python.org/\" class=\"reference "
-#~ "external\">python.org Python 3.6</a> - other distributions are not "
-#~ "supported. Install packages in the numbered order."
-#~ msgstr ""
-
-#~ msgid "Mac Installer Package for macOS Yosemite (10.10) and newer."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Installation instructions are in the Read Me on the disk image. This package"
-#~ " uses the <a href=\"http://www.python.org/\" class=\"reference "
-#~ "external\">python.org Python 3.6</a>, at least version 3.6.5, the "
-#~ "\"macosx10.9\" build - other distributions are not supported. Install "
-#~ "packages in the numbered order."
-#~ msgstr ""
-
-#~ msgid "New release: 3.2!"
-#~ msgstr ""
-
-#~ msgid "Join the FOSS4G community!"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Workshops, talks, code sprints, and community events are waiting for you at"
-#~ msgstr ""
-
-#~ msgid "FOSS4G 2018 in Dar!"
-#~ msgstr ""
-
-#~ msgid "New release: 3.4!"
-#~ msgstr ""
-
-#~ msgid "21st Developer meeting"
-#~ msgstr ""
-
-#~ msgid "Come along"
-#~ msgstr ""
-
-#~ msgid "to Zanzibar"
-#~ msgstr ""
-
-#~ msgid "QGIS 2.18"
-#~ msgstr ""
-
-#~ msgid "QGIS testing (3.x)"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "We are still updating (not translating yet) the documentation for releases "
-#~ "newer than QGIS 2.18. We call this version 'QGIS testing' and can be found "
-#~ "here: "
-#~ msgstr ""
-
-#~ msgid "Mac Installer Package for macOS El Capitan (10.11) and newer."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Installation instructions are in the Read Me on the disk image. This package"
-#~ " uses the <a href=\"http://www.python.org/\" class=\"reference "
-#~ "external\">python.org Python 3.6</a>, version 3.6, the \"macosx10.9\" build "
-#~ "- other distributions are not supported. Install packages in the numbered "
-#~ "order."
-#~ msgstr ""
-
-#~ msgid "Mac Installer Package for OS X Mountain Lion (10.8) and newer."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Installation instructions are in the Read Me on the disk image. This package"
-#~ " uses the system Python 2.7 - other distributions are not supported. It also"
-#~ " requires the NumPy and Matplotlib packages on the disk image. Install "
-#~ "packages in the numbered order. If an older major version is being upgraded "
-#~ "(2.16 or older), delete QGIS.app from your Applications folder before "
-#~ "installing this version."
-#~ msgstr ""
-
-#~ msgid "QGIS OS X Installer Version %s"
-#~ msgstr ""
-
-#~ msgid "New release: 3.6!"
-#~ msgstr ""
-
-#~ msgid "Python (iface) Api documentation"
-#~ msgstr ""
-
-#~ msgid "PyQGIS Python Api documentation"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "You will find documentation for every QGIS release on the respective "
-#~ "documentation website."
-#~ msgstr ""
-
-#~ msgid "Get involved and help us to write a better documentation"
-#~ msgstr ""
-
-#~ msgid "Older releases of QGIS are available"
-#~ msgstr ""
-
-#~ msgid "More older releases for OS X are available"
-#~ msgstr ""
-
-#~ msgid "New release: 3.8!"
-#~ msgstr ""
-
-#~ msgid "QGIS is available on Windows, MacOS X, Linux and Android."
-#~ msgstr ""
-
-#~ msgid "Download for Mac OS X"
-#~ msgstr ""
-
-#~ msgid "sponsorships:"
-#~ msgstr ""
-
-#~ msgid "more information and a list of our sponsors"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "We welcome financial contributions in the form of sponsoring and funding."
-#~ msgstr ""
-
-#~ msgid "New release: 3.10!"
-#~ msgstr ""
-
-#~ msgid "22st Developer meeting"
-#~ msgstr ""
-
-#~ msgid "A Coruña, Spain"
-#~ msgstr ""
-
-#~ msgid "Sponsors"
-#~ msgstr ""
-
-#~ msgid "Download for Android"
-#~ msgstr ""
-
-#~ msgid "An experimental release can be found in the "
-#~ msgstr ""
-
-#~ msgid ""
-#~ "An old and deprecated not touch optimised release of QGIS for Android can be"
-#~ " found in the Play Store "
-#~ msgstr ""
-
-#~ msgid "QGIS testing (>3.4)"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "We are still updating (not translating yet) the documentation for releases "
-#~ "newer than QGIS 3.4. We call this version 'QGIS testing' and can be found "
-#~ "here: "
-#~ msgstr ""
-
-#~ msgid "for your Operating System!"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Create, edit, visualise, analyse and publish geospatial\n"
-#~ "            information on Windows, Mac, Linux, BSD (Android coming soon)"
-#~ msgstr ""
-
-#~ msgid "New release: 3.12!"
-#~ msgstr ""
-
-#~ msgid "24th Developer meeting"
-#~ msgstr ""
-
-#~ msgid "Come along to"
-#~ msgstr ""
-
-#~ msgid "'s-Hertogenbosch, The Netherlands"
-#~ msgstr ""
-
-#~ msgid "to find out more about QGIS!"
-#~ msgstr ""
-
-#~ msgid "donations:"
-#~ msgstr ""
-
-#~ msgid "http://docs.qgis.org/testing"
-#~ msgstr ""
-
-#~ msgid "User guide/Manual"
-#~ msgstr ""
-
-#~ msgid "http://docs.qgis.org/testing/pdf"
-#~ msgstr ""
-
-#~ msgid "qgis-dev-full"
-#~ msgstr ""
-
-#~ msgid "See the latest features in the visual changelog"
-#~ msgstr ""
-
-#~ msgid "New release: 3.14!"
-#~ msgstr ""
-
-#~ msgid "Latest Blog Posts (planet.qgis.org)"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "QGIS is not yet notarized as required by macOS Catalina (10.15) security "
-#~ "rules. On first launch on, use right click on the QGIS app icon and choose "
-#~ "Open."
-#~ msgstr ""
-
-#~ msgid "Mac Installer Packages for macOS El Capitan (10.11) and newer."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Installation instructions are in the Read Me on the disk image. These "
-#~ "packages use the "
-#~ msgstr ""
-
-#~ msgid ""
-#~ "version 3.6, the \"macosx10.9\" build - other distributions are not "
-#~ "supported. Install Python before installing QGIS."
-#~ msgstr ""
-
-#~ msgid "Additional GDAL format plugins and PROJ grids are available at "
-#~ msgstr ""
-
-#~ msgid "QGIS testing (>3.10)"
-#~ msgstr ""
-
-#~ msgid "QGIS 3.4"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "We are still updating (not translating yet) the documentation for releases "
-#~ "newer than QGIS 3.10. We call this version 'QGIS testing' and the "
-#~ "documentation can be found here: "
-#~ msgstr ""
-
-#~ msgid "https://docs.qgis.org/testing"
-#~ msgstr ""
-
-#~ msgid "https://docs.qgis.org/testing/pdf"
-#~ msgstr ""
-
-#~ msgid "or as PDF"
-#~ msgstr ""
-
-#~ msgid "New release: 3.16!"
-#~ msgstr ""
-
-#~ msgid "QGIS in OSGeo4W:"
-#~ msgstr ""
-
-#~ msgid "Desktop Express Install"
-#~ msgstr ""
-
-#~ msgid "to install the <em>latest release</em>."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "To get the <em>long term release</em> (that is not also the latest release) "
-#~ "choose "
-#~ msgstr ""
-
-#~ msgid "and select "
-#~ msgstr ""
-
-#~ msgid "To get the <em>bleeding-edge development build</em> choose "
-#~ msgstr ""
-
-#~ msgid "qgis-full-dev"
-#~ msgstr ""
-
-#~ msgid "Standalone installers from OSGeo4W packages"
-#~ msgstr ""
-
-#~ msgid "Long term release repository (most stable):"
-#~ msgstr ""
-
-#~ msgid "Mac Installer Packages for macOS Sierra (10.12) and newer."
-#~ msgstr ""
-
-#~ msgid "ArchLinux"
-#~ msgstr ""
-
-#~ msgid "QGIS Donations"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "QGIS is developed by a team of dedicated volunteers, companies and "
-#~ "organisations."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Donations to QGIS are tax-deductible in several countries. Please refer to your local tax office for details.\n"
-#~ "                    If you want to tax-deduct as a german company or organization, please donate through the "
-#~ msgstr ""
-
-#~ msgid "German QGIS user group"
-#~ msgstr ""
-
-#~ msgid ""
-#~ ". They can issue a payment confirmation as a tax-exempt german association."
-#~ msgstr ""
-
-#~ msgid "DONATE TO THE PROJECT"
-#~ msgstr ""
-
-#~ msgid "Bank Transfer"
-#~ msgstr ""
-
-#~ msgid "Credit card and Paypal"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Use the details below to make a donation via international money transfer:"
-#~ msgstr ""
-
-#~ msgid "Stripe"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "We use the stripe.com service to receive credit card donations. Note that "
-#~ "the payment fees at Stripe are substantially lower than at Paypal - so we "
-#~ "would appreciate it, if you could use Stripe instead of PayPal. No signup "
-#~ "needed."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "If you do not see a Payment Form here please let us know via "
-#~ "finance@qgis.org."
-#~ msgstr ""
-
-#~ msgid "Paypal"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "You can use Paypal to donate using your own credit card (but we prefer to use Stripe for that). \n"
-#~ "                    The payment is processed by PayPal but you don't need to have a PayPal account \n"
-#~ "                    or sign-up for one if you are paying by credit card."
-#~ msgstr ""
-
-#~ msgid "You can also use your own Paypal account to donate."
-#~ msgstr ""
-
-#~ msgid "List of QGIS Support Channels"
-#~ msgstr ""
-
-#~ msgid "Donate via PayPal.com"
-#~ msgstr ""
-
-#~ msgid "New release: 3.18!"
-#~ msgstr ""
-
-#~ msgid "Thank you for your donation!"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "QGIS is free of charge and we hope that you enjoy using our labour of love "
-#~ "and encourage you to share and spread your downloaded copy far and wide so "
-#~ "that others may enjoy it too. Our very best regards!"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Unfortunately there was an error processing your Donation. Please try again "
-#~ "later, or contact us via finance@qgis.org"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Select graphics from <a href=\"http://thenounproject.com\" "
-#~ "target=\"_blank\">The Noun Project collection</a>"
-#~ msgstr ""
-
-#~ msgid "New release: 3.20!"
-#~ msgstr ""
-
-#~ msgid "NOTE FOR EXISTING USERS"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "OSGeo4W v2 (previously known as testing) is now the regular repository.  The"
-#~ " latest QGIS release is only available here, as it already requires "
-#~ "dependencies not available in the old repository. The long term release is "
-#~ "additionally also available in the old repository using the same "
-#~ "dependencies as before (see below). This also includes a 32-bit version, "
-#~ "which OSGeo4W v2 does not support."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Upgrades of old setups using the new repository are not supported. You need "
-#~ "to do a fresh install or use a different directory."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Windows 7 no longer works as we are now using Python 3.9, which dropped "
-#~ "support for it."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Long-term release in old OSGeo4W (continued with previous dependencies):"
-#~ msgstr ""
-
-#~ msgid "OSGeo4W Network Installer (64 bit)"
-#~ msgstr ""
-
-#~ msgid "OSGeo4W Network Installer (32 bit)"
-#~ msgstr ""
-
-#~ msgid "qgis-ltr-full"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Packages for the latest release and nightly thereof and master are "
-#~ "discontinued in old OSGeo4W."
-#~ msgstr ""
-
-#~ msgid "This installer also allows installing QGIS without non-free software"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Standalone installer for long term release (continued with dependencies from"
-#~ " old OSGeo4W):"
-#~ msgstr ""
-
-#~ msgid "QGIS Standalone Installer Version %s (64 bit)"
-#~ msgstr ""
-
-#~ msgid "QGIS Standalone Installer Version %s (32 bit)"
-#~ msgstr ""
-
-#~ msgid "New release: 3.22!"
-#~ msgstr ""
-
-#~ msgid "QGIS 3.10"
-#~ msgstr ""
-
-#~ msgid "QGIS testing (>3.16)"
-#~ msgstr ""
-
-#~ msgid "QGIS User guide"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "We are still updating (not translating yet) the documentation for releases "
-#~ "newer than QGIS 3.16. We call this version 'QGIS testing' and the "
-#~ "documentation can be found here: "
-#~ msgstr ""
-
-#~ msgid "Input (available for Android, iOS and Windows devices)"
-#~ msgstr ""
-
-#~ msgid "New release: 3.24!"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Your freshly baked copy of QGIS is downloading. QGIS is free of charge, and "
-#~ "will always be free of charge if downloaded from QGIS.org. If you can afford"
-#~ " to support the project and people making this software, please consider "
-#~ "making <a href=\"https://qgis.org/en/site/getinvolved/donations.html\">a "
-#~ "small donation to support</a> our efforts. Whether you choose to donate or "
-#~ "not, we hope that you enjoy using our labour of love and encourage you to "
-#~ "share and spread your downloaded copy far and wide so that others may enjoy "
-#~ "it too. Our very best regards!"
-#~ msgstr ""

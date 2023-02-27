@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2019, QGIS Contributors
+# Copyright (C) 2023, QGIS Contributors
 # This file is distributed under the same license as the QGIS package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 # 
 # Translators:
 # DiGro, 2022
@@ -9,16 +9,16 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: QGIS 3.8\n"
+"Project-Id-Version: QGIS 3.28\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2019-09-05 17:56+0000\n"
 "Last-Translator: DiGro, 2022\n"
 "Language-Team: Dutch (https://www.transifex.com/qgis/teams/6144/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -209,57 +209,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "checkbox_unchecked"
-
-#~ msgid "Go to the QGIS repository in Github at https://github.com/qgis/QGIS/"
-#~ msgstr ""
-#~ "Ga naar de opslagplaats van QGIS in Github op https://github.com/qgis/QGIS/"
-
-#~ msgid "QGIS has a lot to offer for python developers too."
-#~ msgstr "QGIS heeft ook veel te bieden voor ontwikkelaars in Python."
-
-#~ msgid "QGIS has python bindings so you can automate tasks in QGIS via python."
-#~ msgstr ""
-#~ "Veel functies van QGIS kun je aanroepen via bindingen van Python zodat je "
-#~ "taken in QGIS kunt automatiseren via Python."
-
-#~ msgid ""
-#~ "Interested in python plugin development, easiest way to start is using the "
-#~ "Plugin Builder plugin in QGIS. Search for ``Plugin Builder`` in the plugin "
-#~ "manager of QGIS, or read up here: "
-#~ "https://plugins.qgis.org/plugins/pluginbuilder/"
-#~ msgstr ""
-#~ "Geínteresseerd in ontwikkelen van plug-ins in Python? De gemakkelijkste "
-#~ "manier om te beginnen is om de plug-in Plugin Builder in QGIS te gebruiken. "
-#~ "Zoek naar ``Plugin Builder`` in Plug-ins beheren en installeren van QGIS, of"
-#~ " lees het hier: https://plugins.qgis.org/plugins/pluginbuilder/"
-
-#~ msgid ""
-#~ "You can also have a look into the **Python Cookbook** in our Documentation "
-#~ "site: https://docs.qgis.org."
-#~ msgstr ""
-#~ "U kunt ook een kijkje nemen in het **Python Cookbook** op onze site voor "
-#~ "documentatie: https://docs.qgis.org."
-
-#~ msgid "Looking for examples of python plugins, see http://plugins.qgis.org"
-#~ msgstr ""
-#~ "Bekijk https://plugins.qgis.org voor voorbeelden van plug-ins voor Python."
-
-#~ msgid "You can find the QGIS-iface which you can use via python here:"
-#~ msgstr "U kunt de QGIS-iface, die u via Python kunt gebruiken, hier vinden:"
-
-#~ msgid "https://qgis.org/api/classQgisInterface.html (for QGIS testing)"
-#~ msgstr ""
-#~ "https://qgis.org/api/classQgisInterface.html (voor het testen van QGIS)"
-
-#~ msgid "https://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)"
-#~ msgstr "https://qgis.org/api/2.0/classQgisInterface.html (voor QGIS 2.0)"
-
-#~ msgid "https://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)"
-#~ msgstr "https://qgis.org/api/1.8/classQgisInterface.html (voor QGIS 1.8)"
-
-#~ msgid ""
-#~ "Read the https://github.com/qgis/QGIS/blob/master/INSTALL about setting up "
-#~ "the installation environment and make a compilation with ccache enabled."
-#~ msgstr ""
-#~ "Lees de https://github.com/qgis/QGIS/blob/master/INSTALL over het instellen "
-#~ "van de installatie-omgeving en maak een compilatie met ccache ingeschakeld."

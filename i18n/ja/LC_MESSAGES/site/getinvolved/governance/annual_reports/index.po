@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018, QGIS Contributors
+# Copyright (C) 2023, QGIS Contributors
 # This file is distributed under the same license as the QGIS package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 # 
 # Translators:
 # tomoyuki arai <tarai.3367@gmail.com>, 2022
@@ -10,16 +10,16 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: QGIS 3.2\n"
+"Project-Id-Version: QGIS 3.28\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2018-05-20 14:25+0000\n"
 "Last-Translator: fairtommy <fairtommy@gmail.com>, 2022\n"
 "Language-Team: Japanese (https://www.transifex.com/qgis/teams/6144/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -42,26 +42,33 @@ msgstr "レポートには、このWebサイトの財務セクションで別途
 
 #: ../../source/site/getinvolved/governance/annual_reports/index.rst:12
 msgid ""
+":download:`QGIS Annual Report 2021 (pdf) "
+"<../../../../static/site/getinvolved/governance/annual-project-"
+"reports/QGISAnnualReport2021.pdf>`"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/annual_reports/index.rst:13
+msgid ""
 ":download:`QGIS Annual Report 2020 (pdf) "
 "<../../../../static/site/getinvolved/governance/annual-project-"
 "reports/QGISAnnualReport2020.pdf>`"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/annual_reports/index.rst:13
+#: ../../source/site/getinvolved/governance/annual_reports/index.rst:14
 msgid ""
 ":download:`QGIS Annual Report 2019 (pdf) "
 "<../../../../static/site/getinvolved/governance/annual-project-"
 "reports/QGISAnnualReport2019.pdf>`"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/annual_reports/index.rst:14
+#: ../../source/site/getinvolved/governance/annual_reports/index.rst:15
 msgid ""
 ":download:`QGIS Annual Report 2018 (pdf) "
 "<../../../../static/site/getinvolved/governance/annual-project-"
 "reports/QGISAnnualReport2018.pdf>`"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/annual_reports/index.rst:15
+#: ../../source/site/getinvolved/governance/annual_reports/index.rst:16
 msgid ""
 ":download:`QGIS Annual Report 2017 (pdf) "
 "<../../../../static/site/getinvolved/governance/annual-project-"
@@ -71,7 +78,7 @@ msgstr ""
 "<../../../../static/site/getinvolved/governance/annual-project-"
 "reports/QGISAnnualReport2017.pdf>`"
 
-#: ../../source/site/getinvolved/governance/annual_reports/index.rst:16
+#: ../../source/site/getinvolved/governance/annual_reports/index.rst:17
 msgid ""
 ":download:`QGIS Annual Report 2016 (pdf) "
 "<../../../../static/site/getinvolved/governance/annual-project-"
@@ -88,10 +95,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "checkbox_unchecked"
-
-#~ msgid ""
-#~ "Starting in 2017 (coincident with the establishment of a formal legal entity"
-#~ " (Swiss \"Verein\"), we are publishing an annual report for the preceding "
-#~ "year highlighting key activities within the QGIS project."
-#~ msgstr ""
-#~ "2017年（正式な法人（スイスの「Verein」）の設立と同時に、前年度の年次報告書を発行して、QGISプロジェクトにおける重要な活動を強調しています。"

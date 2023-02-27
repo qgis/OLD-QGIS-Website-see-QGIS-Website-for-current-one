@@ -1,27 +1,31 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 # Carsten Stemmler <tallistroan@gmail.com>, 2015
+# Jürgen E. Fischer <jef@norbit.de>, 2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2013-09-17 13:25+0000\n"
-"Last-Translator: Carsten Stemmler <tallistroan@gmail.com>, 2015\n"
+"Last-Translator: Jürgen E. Fischer <jef@norbit.de>, 2022\n"
 "Language-Team: German (http://www.transifex.com/qgis/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: de\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:3
 msgid "Creating the Fundy Footpath Trail Map with QGIS"
-msgstr ""
+msgstr "Creating the Fundy Footpath Trail Map with QGIS"
 
 msgid "Fundy Path"
-msgstr ""
+msgstr "Fundy Path"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:10
 msgid ""
@@ -33,7 +37,7 @@ msgid ""
 "takes hikers through the coastal Acadian Forest, home to the world’s highest"
 " tides, old growth forests, and several rare and unique types of flora and "
 "fauna."
-msgstr ""
+msgstr "The Fundy Footpath is a wilderness hiking trail located along the Fundy coast of New Brunswick, Canada. It is a charter member of the `UNESCO Fundy Biosphere Reserve <http://fundy-biosphere.ca/en/about-us/the-reserve>`_ and affiliated with the `NB Trails Council Inc. <http://www.sentiernbtrail.com/>`_ and the Trans Canada Trail. The Footpath takes hikers through the coastal Acadian Forest, home to the world’s highest tides, old growth forests, and several rare and unique types of flora and fauna."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:18
 msgid ""
@@ -46,33 +50,33 @@ msgid ""
 "data and for final map layout. Through the efforts of myself and members of "
 "the FHTA the new official map of the Fundy Footpath included with the "
 "guidebook was created from start to finish with QGIS."
-msgstr ""
+msgstr "The trail was created, is maintained, and promoted by a group of volunteers known as the Fundy Hiking Trail Association Inc. (FHTA)(1975). As a non-profit organization the FHTA raises funds for its activities through the sale of guidebooks that include a trail map. In 2011 I approached the FHTA to volunteer to update the official trail map. As a volunteer creating a map for a non-profit organization QGIS fit the bill as both a tool for editing data and for final map layout. Through the efforts of myself and members of the FHTA the new official map of the Fundy Footpath included with the guidebook was created from start to finish with QGIS."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:31
 msgid "QGIS GPS Tools Plugin for data collection"
-msgstr "QGIS GPS-Werkzeug zur Datensammlung"
+msgstr "QGIS GPS Tools Plugin for data collection"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:34
 msgid "The Project"
-msgstr "Das Projekt"
+msgstr "The Project"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:36
 msgid ""
 "The process of creating the new Fundy Footpath map with QGIS can be broken "
 "down into three different parts:"
-msgstr ""
+msgstr "The process of creating the new Fundy Footpath map with QGIS can be broken down into three different parts:"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:38
 msgid "Data collection."
-msgstr ""
+msgstr "Data collection."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:39
 msgid "Data editing and preparation."
-msgstr ""
+msgstr "Data editing and preparation."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:40
 msgid "Map production."
-msgstr ""
+msgstr "Map production."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:42
 msgid ""
@@ -85,27 +89,27 @@ msgid ""
 "<http://geogratis.cgdi.gc.ca/geogratis/en/product/search.do?id=5460AA9D-54CD-8349-C95E-1A4D03172FDF>`_"
 " website and from `Service New Brunswick (SNB) online "
 "<http://www.snb.ca/gdam-igec/e/2900e_1.asp>`_."
-msgstr ""
+msgstr "Data was collected both with handheld GPS units and from various free data sources. Trail data (e.g. trail centerline, campsite locations, and tidal crossings) was collected with a Garmin GPSMap 60CSX. This data was then transferred from the GPS and to shapefile format in QGIS using the GPS plugin. Free data in vector formats was then obtained from the `Natural Resources Canada (NRCan) CanVec <http://geogratis.cgdi.gc.ca/geogratis/en/product/search.do?id=5460AA9D-54CD-8349-C95E-1A4D03172FDF>`_ website and from `Service New Brunswick (SNB) online <http://www.snb.ca/gdam-igec/e/2900e_1.asp>`_."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:55
 msgid "Creation of the footpath map in QGIS"
-msgstr ""
+msgstr "Creation of the footpath map in QGIS"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:57
 msgid ""
 "To prepare the data for use in the final map product the following tools "
 "within QGIS were used to accomplish specific tasks:"
-msgstr ""
+msgstr "To prepare the data for use in the final map product the following tools within QGIS were used to accomplish specific tasks:"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:60
 msgid "The data collected with GPS was cleaned using the editing toolbar."
-msgstr ""
+msgstr "The data collected with GPS was cleaned using the editing toolbar."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:61
 msgid ""
 "The vector data obtained from NRCan and SNB was merged together, queried, "
 "and clipped for the final map area using the vector tools."
-msgstr ""
+msgstr "The vector data obtained from NRCan and SNB was merged together, queried, and clipped for the final map area using the vector tools."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:63
 msgid ""
@@ -114,11 +118,11 @@ msgid ""
 "was used to create an elevation raster that was then used to create a "
 "hillshade raster and elevation contour layer with the GDAL raster tools "
 "plugin."
-msgstr ""
+msgstr "A comma-separated file obtained from SNB was imported to QGIS as a point layer using the Add Delimited Text Layer plugin, the Interpolation plugin was used to create an elevation raster that was then used to create a hillshade raster and elevation contour layer with the GDAL raster tools plugin."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:73
 msgid "Footpath map in the Print Composer"
-msgstr ""
+msgstr "Footpath map in the Print Composer"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:75
 msgid ""
@@ -131,11 +135,11 @@ msgid ""
 "arrow and elevation profile in the print composer. Two layouts were created "
 "since it was to be a double-sided map. Once both layouts were created they "
 "were exported as PDF files and sent to the printers."
-msgstr ""
+msgstr "Once the data required to create the map was assembled and in a usable format the creation of the final map was started. To create the hiking map data was symbolized and labeled with the symbolization properties dialog and labeled with QGIS’s very functional label engine. Once labels and symbolization were in place the map composer tool was run to create the layout. It was very easy to add useful map elements such as a custom north arrow and elevation profile in the print composer. Two layouts were created since it was to be a double-sided map. Once both layouts were created they were exported as PDF files and sent to the printers."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:84
 msgid "Conclusion"
-msgstr "Zusammenfassung"
+msgstr "Conclusion"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:86
 msgid ""
@@ -147,12 +151,12 @@ msgid ""
 "had all of the functionality and tools required to create a highly useful "
 "and detailed hiking map from start to finish. I would highly recommend QGIS "
 "to both experienced and beginning GIS users alike."
-msgstr ""
+msgstr "The hiking map was printed on heavy-duty waterproof paper, folded and inserted in the back of the new edition of the Fundy Footpath Hiker’s Guide Book. QGIS was the best and most functional choice for the creation of this map. Being free software the price was right for a volunteer creating a map for a non-profit organization. But the real advantage of QGIS was that it had all of the functionality and tools required to create a highly useful and detailed hiking map from start to finish. I would highly recommend QGIS to both experienced and beginning GIS users alike."
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:98
 #: ../../source/site/about/case_studies/canada_brunswick.rst:116
 msgid "The final Fundy Footpath map with accompanying guidebook"
-msgstr ""
+msgstr "The final Fundy Footpath map with accompanying guidebook"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:101
 msgid "Links"
@@ -160,15 +164,15 @@ msgstr "Links"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:103
 msgid "http://fundy-biosphere.ca/en/about-us/the-reserve"
-msgstr ""
+msgstr "http://fundy-biosphere.ca/en/about-us/the-reserve"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:104
 msgid "http://www.sentiernbtrail.com"
-msgstr ""
+msgstr "http://www.sentiernbtrail.com"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:105
 msgid "http://www.snb.ca/gdam-igec/e/2900e_1.asp"
-msgstr ""
+msgstr "http://www.snb.ca/gdam-igec/e/2900e_1.asp"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:109
 msgid "Author"
@@ -176,13 +180,13 @@ msgstr "Autor"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:116
 msgid "Jarrett Totton"
-msgstr ""
+msgstr "Jarrett Totton"
 
 #: ../../source/site/about/case_studies/canada_brunswick.rst:118
 msgid ""
 "This article was contributed by Jarrett Totton in January 2013. Jarrett is a"
 " GIS Technologist living in Alberta, Canada."
-msgstr ""
+msgstr "This article was contributed by Jarrett Totton in January 2013. Jarrett is a GIS Technologist living in Alberta, Canada."
 
 #: ../../<rst_epilog>:2
 msgid "checkbox"
@@ -190,37 +194,4 @@ msgstr "Kontrollkästchen"
 
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
-msgstr ""
-
-#~ msgid ""
-#~ "The trail was created, is maintained, and promoted by a group of volunteers "
-#~ "known as the Fundy Hiking Trail Association Inc. (FHTA)(1975). As a non-"
-#~ "profit organization the FHTA raises funds for its activities through the "
-#~ "sale of guidebooks that include a trail map. In 2011 I approached the FHTA "
-#~ "to volunteer to update the official trail map. As a volunteer creating a map"
-#~ " for a non-profit organization QGIS (QGIS) fit the bill as both a tool for "
-#~ "editing data and for final map layout. Through the efforts of myself and "
-#~ "members of the FHTA the new official map of the Fundy Footpath included with"
-#~ " the guidebook was created from start to finish with QGIS."
-#~ msgstr ""
-
-#~ msgid "Websites:"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The `Fundy Footpath <http://fundyfootpath.info/>`_  is a wilderness hiking "
-#~ "trail located along the Fundy coast of New Brunswick, Canada. It is a "
-#~ "charter member of the `UNESCO Fundy Biosphere Reserve <http://fundy-"
-#~ "biosphere.ca/en/about-us/the-reserve>`_ and affiliated with the `NB Trails "
-#~ "Council Inc. <http://www.sentiernbtrail.com/>`_ and the Trans Canada Trail. "
-#~ "The Footpath takes hikers through the coastal Acadian Forest, home to the "
-#~ "world’s highest tides, old growth forests, and several rare and unique types"
-#~ " of flora and fauna."
-#~ msgstr ""
-
-#~ msgid "http://fundyfootpath.info/"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "http://geogratis.cgdi.gc.ca/geogratis/en/product/search.do?id=5460AA9D-54CD-8349-C95E-1A4D03172FDF"
-#~ msgstr ""
+msgstr "checkbox_unchecked"

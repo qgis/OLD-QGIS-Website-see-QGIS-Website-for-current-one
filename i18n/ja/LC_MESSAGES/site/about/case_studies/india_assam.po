@@ -1,3 +1,6 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 # fairtommy <fairtommy@gmail.com>, 2018
@@ -6,14 +9,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2013-09-17 13:26+0000\n"
 "Last-Translator: fairtommy <fairtommy@gmail.com>, 2018\n"
 "Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -167,39 +170,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "checkbox_unchecked"
-
-#~ msgid "QGIS for monitoring tigers"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "(using camera traps in Nameri Tiger Reserve, Assam, India Sonitpur District)"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "During 2012-13, we implemented this new tiger monitoring protocol in NTR by "
-#~ "using QGIS. To begin with, we digitized the NTR boundary in Qgis and saved "
-#~ "it as polygon. This boundary polygon was exported to GPS for navigation "
-#~ "purpose during the field surveys. We conducted an extensive sign survey in "
-#~ "NTR for evidences of tiger presence such pugmarks, scratch marks and scats. "
-#~ "GPS coordinates of tiger signs as well as suitable locations for camera "
-#~ "traps were recorded. After completion of the survey, the data was "
-#~ "transferred to Qgis using GPS tools for further processing and for "
-#~ "finalizing camera trap locations. A shape file containing the tiger signs "
-#~ "and probable camera trap locations was prepared."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "For the first time in the history of this small tiger reserve of North East "
-#~ "India, it was possible to monitor tigers by using camera traps mainly "
-#~ "because of QGIS. Results of this monitoring exercise indicate the presence "
-#~ "of 8-15 tigers in this landscape. In addition to the tigers, several elusive"
-#~ " species have also been photographically documented. Apart from tiger "
-#~ "monitoring, we are also using Qgis for activities such as planning habitat "
-#~ "management works, revising patrolling schedules, and designing maps for "
-#~ "visitors. The user-friendly interface, rich features, in-depth "
-#~ "documentation, on-line support  and the free/open source philosophy are the "
-#~ "few qualities of QGIS that made us to select it over other proprietary "
-#~ "software. We believe that QGIS has great potential for empowering "
-#~ "individuals/institutions/ involved in conserving endangered wildlife in the "
-#~ "developing world by offering GIS technology at little or no cost."
-#~ msgstr ""

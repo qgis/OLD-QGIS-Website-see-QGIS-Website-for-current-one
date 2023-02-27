@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2019, QGIS Contributors
+# Copyright (C) 2023, QGIS Contributors
 # This file is distributed under the same license as the QGIS package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 # 
 # Translators:
 # Sorin Călinică <scalinica@gmail.com>, 2022
@@ -9,16 +9,16 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: QGIS 3.6\n"
+"Project-Id-Version: QGIS 3.28\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2019-03-13 19:40+0000\n"
 "Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2022\n"
 "Language-Team: Romanian (https://www.transifex.com/qgis/teams/6144/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
@@ -86,10 +86,12 @@ msgstr "Scrierea unor cărți de QGIS"
 msgid ""
 "To contact the certification team, please write to certification@qgis.org."
 msgstr ""
+"Pentru a contacta echipa de certificare, vă rugăm să scrieți la "
+"certification@qgis.org."
 
 #: ../../source/site/getinvolved/certification.rst:24
 msgid "Certification Process"
-msgstr ""
+msgstr "Procesul de Certificare"
 
 #: ../../source/site/getinvolved/certification.rst:27
 msgid "Application"
@@ -169,7 +171,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/certification.rst:47
 msgid "Course Certification Workflow"
-msgstr ""
+msgstr "Fluxul de Lucru pentru Certificarea Cursului"
 
 #: ../../source/site/getinvolved/certification.rst:52
 msgid "Workflow Certification"
@@ -182,27 +184,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "checkbox_unchecked"
-
-#~ msgid ""
-#~ "If approved you are required to make a €20 donation to the QGIS project for "
-#~ "each certificate. This creates a mechanism for financial support of the "
-#~ "project."
-#~ msgstr ""
-#~ "Daca ați primit aprobarea, trebuie să efectuați o donație de 20 € "
-#~ "proiectului QGIS, pentru fiecare certificare. În acest fel se creează un "
-#~ "mecanism de susținere financiară a proiectului."
-
-#~ msgid "You can apply through `this form <certification_link_>`_"
-#~ msgstr ""
-#~ "Puteți aplica prin intermediul `acestui formular <certification_link_>`_"
-
-#~ msgid ""
-#~ "If approved you are required to make a €20 donation to the QGIS project for "
-#~ "each certificate. This creates a mechanism for financial support of the "
-#~ "project. Payments for certificates are made using online credit card "
-#~ "transactions."
-#~ msgstr ""
-#~ "Daca ați primit aprobarea, trebuie să efectuați o donație de 20 € "
-#~ "proiectului QGIS, pentru fiecare certificare. În acest fel se creează un "
-#~ "mecanism de susținere financiară a proiectului. Tranzacțiile privind plata "
-#~ "certificatelor se desfășoară online, cu cardul de credit."

@@ -1,21 +1,25 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 # Le Ny Pierre-André <lenyconseil@gmail.com>, 2013
 # Robin PREST, 2013
 # Harrissou Sant-anna, 2016
+# Smouss, 2022
 # Vincent Bré <vincent.bre@outlook.fr>, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2013-09-17 13:26+0000\n"
-"Last-Translator: Vincent Bré <vincent.bre@outlook.fr>, 2020\n"
+"Last-Translator: Smouss, 2022\n"
 "Language-Team: French (http://www.transifex.com/qgis/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: fr\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
@@ -28,7 +32,7 @@ msgid ""
 "Content is not used, it is overridden by text in themes/qgis-"
 "theme/index.html. The html texts are translated in the 'spinx' resource: "
 "https://www.transifex.com/qgis/qgis-website/sphinx/ Only TOC is used."
-msgstr "Le contenu n'est pas utilisé, il est remplacé par du texte dans themes/qgis-theme/index.html. Les textes html sont traduits dans la ressource \"spinx\" : https://www.transifex.com/qgis/qgis-website/sphinx/. Seul la table des matières est utilisé."
+msgstr "Le contenu n'est pas utilisé, il est remplacé par du texte dans themes/qgis-theme/index.html. Les textes html sont traduits dans la ressource \"spinx\" : https://www.transifex.com/qgis/qgis-website/sphinx/. Seule la table des matières est utilisép."
 
 #: ../../<rst_epilog>:2
 msgid "checkbox"
@@ -36,9 +40,4 @@ msgstr "checkbox"
 
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
-msgstr ""
-
-#~ msgid ""
-#~ "Content is not used, it is overridden by themes/qgis-theme/index.html. TOC "
-#~ "is used."
-#~ msgstr ""
+msgstr "case décochée"

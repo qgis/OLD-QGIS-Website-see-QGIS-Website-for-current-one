@@ -1,35 +1,39 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
+# Jürgen E. Fischer <jef@norbit.de>, 2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2013-09-17 13:26+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: Jürgen E. Fischer <jef@norbit.de>, 2022\n"
 "Language-Team: German (http://www.transifex.com/qgis/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: de\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:3
 msgid ""
 "Working with QGIS in a spatial data infrastructure of Jalisco in Mexico"
-msgstr ""
+msgstr "Working with QGIS in a spatial data infrastructure of Jalisco in Mexico"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:5
 msgid ""
 "The Instituto de Información Territorial del Estado de Jalisco is a "
 "government organization which was founded in 1998 to share geographical "
 "information between the government agencies of Jalisco in México."
-msgstr ""
+msgstr "The Instituto de Información Territorial del Estado de Jalisco is a government organization which was founded in 1998 to share geographical information between the government agencies of Jalisco in México."
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:12
 msgid "Exploring the data with its online viewer"
-msgstr ""
+msgstr "Exploring the data with its online viewer"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:14
 msgid ""
@@ -38,11 +42,11 @@ msgid ""
 "what we wanted was to have all this information available, organized and in "
 "a common format with the purpose of being able to provide and display it "
 "over the Internet."
-msgstr ""
+msgstr "Within the years, the institution has gathered loads of information in several formats such as SHP, DWG, DXF, GeoTIFF and ECW, among others. So, what we wanted was to have all this information available, organized and in a common format with the purpose of being able to provide and display it over the Internet."
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:21
 msgid "Connecting to the Spatial Data Infrastructure with WMS"
-msgstr ""
+msgstr "Connecting to the Spatial Data Infrastructure with WMS"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:23
 msgid ""
@@ -50,11 +54,11 @@ msgid ""
 "en Línea, with the main target to build a spatial data infrastructure which "
 "allows our government agencies to share this kind of information to be "
 "included in their own projects as health, security or mobility."
-msgstr ""
+msgstr "That's how it was developed the Sistema de Información Territorial Estatal en Línea, with the main target to build a spatial data infrastructure which allows our government agencies to share this kind of information to be included in their own projects as health, security or mobility."
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:26
 msgid "Decision for QGIS"
-msgstr ""
+msgstr "Decision for QGIS"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:28
 msgid ""
@@ -65,11 +69,11 @@ msgid ""
 "free applications don’t work with OGC standards, specially with WFS. After "
 "exploring many geographic information systems, I realized that QGIS was the "
 "only one which can connect to WMS, WCS and WFS successfully."
-msgstr ""
+msgstr "I decided to use Mapserver and PostgreSQL with PostGIS extension to be able to deliver our satellite imagery, orthopothos, digital elevation models and vector information with Web Map Services, thinking that any application will consume our services. But the problem was that many of the commercial and free applications don’t work with OGC standards, specially with WFS. After exploring many geographic information systems, I realized that QGIS was the only one which can connect to WMS, WCS and WFS successfully."
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:31
 msgid "What we use QGIS for"
-msgstr ""
+msgstr "What we use QGIS for"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:33
 msgid ""
@@ -78,11 +82,11 @@ msgid ""
 "the Web services that we’ve created. Also, we have done many spatial "
 "analysis with QGIS pulling the data directly from our PostgreSQL spatial "
 "database, then, we export the results as shape files."
-msgstr ""
+msgstr "Internally, we use QGIS to check the raster and vector data of the agencies before publishing it, and after its integration, we used it again to test the Web services that we’ve created. Also, we have done many spatial analysis with QGIS pulling the data directly from our PostgreSQL spatial database, then, we export the results as shape files."
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:40
 msgid "Connecting to the Spatial Data Infrastructure with WFS"
-msgstr ""
+msgstr "Connecting to the Spatial Data Infrastructure with WFS"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:42
 msgid ""
@@ -91,7 +95,7 @@ msgid ""
 " supports OGC standards and has many interesting features like geoprocessing"
 " tools, which allow them to make analysis of their interest, and all this "
 "absolutely for free."
-msgstr ""
+msgstr "We’re encouraging our users to download QGIS and link directly with our Sistema de Información Territorial Estatal en Línea, mainly because it fully supports OGC standards and has many interesting features like geoprocessing tools, which allow them to make analysis of their interest, and all this absolutely for free."
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:45
 msgid "Conclusion"
@@ -104,7 +108,7 @@ msgid ""
 "say that working with open source in all of our system’s cycle, has been "
 "satisfactory and trustworthy, the best choice that we have found to share "
 "our geographic information."
-msgstr ""
+msgstr "This project understood as the technological component of a Spatial Data Infrastructure, has been considered as a PostGIS case study, and I have to say that working with open source in all of our system’s cycle, has been satisfactory and trustworthy, the best choice that we have found to share our geographic information."
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:50
 msgid "Author"
@@ -112,14 +116,14 @@ msgstr "Autor"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:57
 msgid "Carlos Ruiz"
-msgstr ""
+msgstr "Carlos Ruiz"
 
 #: ../../source/site/about/case_studies/mexico_jalisco.rst:59
 msgid ""
 "This article was contributed in July 2010 by IC Carlos Ruiz. He works as "
 "project's coordinator at the Instituto de Información Territorial del Estado"
 " de Jalisco, Mexico."
-msgstr ""
+msgstr "This article was contributed in July 2010 by IC Carlos Ruiz. He works as project's coordinator at the Instituto de Información Territorial del Estado de Jalisco, Mexico."
 
 #: ../../<rst_epilog>:2
 msgid "checkbox"
@@ -127,4 +131,4 @@ msgstr "Kontrollkästchen"
 
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
-msgstr ""
+msgstr "checkbox_unchecked"

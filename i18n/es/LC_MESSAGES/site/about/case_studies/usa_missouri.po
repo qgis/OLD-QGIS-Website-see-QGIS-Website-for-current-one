@@ -1,21 +1,24 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 # BelenMP <Beln1@hotmail.com>, 2014
-# Eric Armijo, 2015
+# Eric Armijo, 2015,2022
 # Eric Armijo, 2016
 # Rodrigo Armesto Baztán <rodri_Armesto@hotmail.com>, 2019
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2013-09-17 13:26+0000\n"
-"Last-Translator: Rodrigo Armesto Baztán <rodri_Armesto@hotmail.com>, 2019\n"
+"Last-Translator: Eric Armijo, 2015,2022\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: es\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
@@ -70,7 +73,7 @@ msgstr "El proceso de creación de mapas con QGIS comienza con los datos almacen
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:21
 msgid "Custom map generation and export user interface"
-msgstr ""
+msgstr "Interfaz de usuario personalizada para la generación y exportación de mapas"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:21
 msgid ""
@@ -97,7 +100,7 @@ msgstr "Los mapas se muestran como imágenes estáticas."
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:37
 msgid "Labelled Level III Ecoregion map for Missouri"
-msgstr ""
+msgstr "Mapa etiquetado de la ecorregión de nivel III de Missouri"
 
 #: ../../source/site/about/case_studies/usa_missouri.rst:37
 msgid "Labelled Level III Ecoregion map for Missouri and surrounding states."
@@ -157,26 +160,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "checkbox_unchecked"
-
-#~ msgid "QGIS Maps Historic Herpetofaunal Records"
-#~ msgstr ""
-
-#~ msgid "(in Missouri, USA)"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "At the beginning of the MOHAP project, several commercial and proprietary "
-#~ "tools were used to store and process data and produce maps for publication. "
-#~ "Starting in 2007, we set about to move all aspects of the project to open "
-#~ "source software. QGIS, along with PHP, PostgreSQL, PostGIS, Python, and "
-#~ "ReportLab, forms the open source linchpin to MOHAP, effectively allowing the"
-#~ " project and all data to exist free of proprietary software entanglements. "
-#~ "QGIS contains native support for PostGIS and a Python plugin architecture, "
-#~ "which were essential in creating the automated map generation and export. "
-#~ "The extensive API documentation was used along with the plugin developer "
-#~ "cookbook to create exactly what we needed for the automation. The community "
-#~ "support is also very good and includes a huge array of shared plugins built "
-#~ "and ready to use. Although we use QGIS in a small and specific way, its "
-#~ "capabilities and extensibility using Python is more than sufficient to "
-#~ "tackle larger and more complex projects."
-#~ msgstr ""

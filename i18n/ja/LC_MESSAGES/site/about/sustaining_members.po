@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2019, QGIS Contributors
+# Copyright (C) 2023, QGIS Contributors
 # This file is distributed under the same license as the QGIS package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 # 
 # Translators:
 # TERAMOTO Ikuhiro <yellow@affrc.go.jp>, 2019
@@ -11,16 +11,16 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: QGIS 3.8\n"
+"Project-Id-Version: QGIS 3.28\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2019-07-12 14:43+0000\n"
 "Last-Translator: fairtommy <fairtommy@gmail.com>, 2022\n"
 "Language-Team: Japanese (https://www.transifex.com/qgis/teams/6144/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -122,46 +122,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "checkbox_unchecked"
-
-#~ msgid "Sustaining members, sponsors and Donors"
-#~ msgstr "維持会員、スポンサー、寄付者"
-
-#~ msgid ""
-#~ "We thank our sustaining members, sponsors and donors who support the QGIS "
-#~ "project and enable us to pay for our infrastructure and important "
-#~ "development work, as well as finance developer meetings and promotion of "
-#~ "QGIS in workshops and conferences. Note that we are currently in a "
-#~ "transition phase changing from a sponsor system to a system with sustaining "
-#~ "members. This should make it easier for public authorities to support the "
-#~ "QGIS.ORG project by becoming a sustaining member. For many public "
-#~ "organizations it was difficult or impossible to sponsor or donate to a "
-#~ "project."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Organizations who supported QGIS before March 17, 2019 are still sponsors, "
-#~ "after that date we introduce new supporters as sustaining members."
-#~ msgstr ""
-#~ "2019年3月17日より前にQGISを支援していた団体は引き続きスポンサーとなります。この日以後は、維持会員という新しい支援者制度を導入しています。"
-
-#~ msgid "List of current sustaining members or sponsors"
-#~ msgstr "現在の維持会員またはスポンサーの一覧"
-
-#~ msgid ""
-#~ "Annually we also receive support from various organisations who appreciate "
-#~ "the work we do and would like to facilitate the sustained development effort"
-#~ " that goes into the project. These sustaining members and sponsors are "
-#~ "listed below with our thanks!"
-#~ msgstr ""
-
-#~ msgid "List of past sustaining members or sponsors"
-#~ msgstr "過去の維持会員とスポンサーの一覧"
-
-#~ msgid ""
-#~ "Donations can be of any amount, via our bank account, Stripe or Paypal "
-#~ "(information available at :ref:`Donations <QGIS-donations>` page). Even a "
-#~ "small donation can make a difference and help to reach important project "
-#~ "goals!"
-#~ msgstr ""
-#~ "寄付は、銀行口座、Stripe、Paypalのいずれでも任意の金額が可能です (:ref:`Donations <QGIS-donations>` "
-#~ "ページに情報があります)。寄付が少額であっても、寄付をして頂くこと自体で違いが生み出されて、重要なプロジェクトの目標を達成する助けになります。"

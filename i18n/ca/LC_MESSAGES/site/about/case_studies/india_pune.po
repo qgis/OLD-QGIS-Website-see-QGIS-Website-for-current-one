@@ -1,3 +1,6 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 # josep constantí mata <iceberg.jcm@gmail.com>, 2015
@@ -5,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2022-11-17 19:05+0000\n"
 "PO-Revision-Date: 2014-08-07 14:36+0000\n"
 "Last-Translator: josep constantí mata <iceberg.jcm@gmail.com>, 2015\n"
 "Language-Team: Catalan (http://www.transifex.com/qgis/qgis-website/language/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.11.0\n"
 "Language: ca\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -175,17 +178,3 @@ msgstr ""
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr ""
-
-#~ msgid ""
-#~ "This study explains how to prepare offline maps from WMS/WFS or any map "
-#~ "loaded in QGIS map view by downloading tiles with the help of a script in "
-#~ "python console. The skript also generates a mosaic of all tiles for further "
-#~ "use. Accessing raster/vector maps through Web Mapping Service (WMS) service "
-#~ "is very common and efficient. It has several advantages such as security, "
-#~ "centralized and flexible map styles. Example is Google maps, Yahoo, Bing, "
-#~ "MODIS, Landsat, maps published by NASA, NRSC (India). The "
-#~ "disadvantage/limitation of WMS is it works via internet or intranet. It may "
-#~ "not be possible to get internet connection always especially in the field "
-#~ "during survey. Also WMS works slow, compared to any offline image format "
-#~ "such as GeoTiff, jpg, img etc."
-#~ msgstr ""

@@ -1,19 +1,22 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 # Richard Duivenvoorde <richard@duif.net>, 2016
-# Sorin Călinică <scalinica@gmail.com>, 2014-2016,2018,2020-2021
+# Sorin Călinică <scalinica@gmail.com>, 2014-2016,2018,2020-2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2014-10-19 11:13+0000\n"
-"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2014-2016,2018,2020-2021\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2014-2016,2018,2020-2022\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
@@ -21,15 +24,19 @@ msgstr ""
 msgid "Changelog for QGIS 2.0"
 msgstr "Jurnalul schimbărilor pentru QGIS 2.0"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:12
+#: ../../source/site/forusers/visualchangelog200/index.rst:8
+msgid "Release date: 2013-09-09"
+msgstr "Data lansării: 2013-09-09"
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:14
 msgid "Analysis tools"
 msgstr "Instrumentele de analiză"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:15
+#: ../../source/site/forusers/visualchangelog200/index.rst:17
 msgid "Feature: Processing Commander"
 msgstr "Funcționalitate: Linia comenzilor de procesare"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:17
+#: ../../source/site/forusers/visualchangelog200/index.rst:19
 msgid ""
 "For quick access to geoprocessing functionality, just launch the processing "
 "commander (Ctrl + Alt + M) and start typing the name of the tool you are "
@@ -38,38 +45,38 @@ msgid ""
 "at your fingertips."
 msgstr "Pentru un acces rapid la funcționalitățile de geoprocesare, puteți lansa doar linia comenzilor de procesare (Ctrl + Alt + M) și să începeți să tastați numele instrumentului pe care îl cautați. Vi se vor prezenta opțiunile disponibile, gata pentru a fi lansate. Nu mai este nevoie să căutați printre meniuri pentru a găsi instrumentele. Acestea sunt acum la îndemâna dumneavoastră."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:23
+#: ../../source/site/forusers/visualchangelog200/index.rst:25
 msgid "|image1|"
 msgstr "|image1|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:732
+#: ../../source/site/forusers/visualchangelog200/index.rst:734
 msgid "image1"
 msgstr "image1"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:26
+#: ../../source/site/forusers/visualchangelog200/index.rst:28
 msgid "Feature: Heatmap Plugin Improvements"
 msgstr "Funcționalitate:  Îmbunătățiri aduse Plugin-ului Heatmap"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:28
+#: ../../source/site/forusers/visualchangelog200/index.rst:30
 msgid ""
 "The heatmap plugin has seen numerous improvements and optimisations, "
 "resulting in much faster creation of heatmaps. Additionally, you now have "
 "the choice of which kernel function is used to create the heatmap."
 msgstr "Pluginul Heatmap a înregistrat numeroase îmbunătățiri și optimizări, având ca rezultat crearea mult mai rapidă a hărților calorice. În plus, aveți acum posibilitatea de a alege funcția de bază care să genereze harta."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:32
+#: ../../source/site/forusers/visualchangelog200/index.rst:34
 msgid "|image2|"
 msgstr "|image2|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:733
+#: ../../source/site/forusers/visualchangelog200/index.rst:735
 msgid "image2"
-msgstr ""
+msgstr "image2"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:35
+#: ../../source/site/forusers/visualchangelog200/index.rst:37
 msgid "Feature: Processing Support"
 msgstr "Funcționalitate: Suport pentru Processing"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:37
+#: ../../source/site/forusers/visualchangelog200/index.rst:39
 msgid ""
 "The SEXTANTE project has been ported to and incorporated into QGIS as core "
 "functionality. SEXTANTE has been renamed to 'Processing' and introduces a "
@@ -80,19 +87,19 @@ msgid ""
 " tools such as GRASS, OTB, SAGA etc."
 msgstr "Proiectul SEXTANTE a fost portat și încorporat, ca funcționalitate de bază, în QGIS. SEXTANTE a fost redenumit 'Processing', introducându-se un nou meniu în QGIS, de unde se poate accesa un set bogat de instrumente de analiză spațială. Setul de instrumente de prelucrare are o funcționalitate incredibil de extinsă - cu un API de programare Python, permițând adăugarea cu ușurință a unor noi instrumente și puncte de acces la capacități de analiză pentru mai multe instrumente populare cu sursă deschisă, cum ar fi GRASS, OTB, SAGA, etc."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:45
+#: ../../source/site/forusers/visualchangelog200/index.rst:47
 msgid "|image3|"
 msgstr "|image3|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:734
+#: ../../source/site/forusers/visualchangelog200/index.rst:736
 msgid "image3"
 msgstr "image3"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:48
+#: ../../source/site/forusers/visualchangelog200/index.rst:50
 msgid "Feature: Processing Modeller"
 msgstr "Funcționalitate: Modelatorul de Procese"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:50
+#: ../../source/site/forusers/visualchangelog200/index.rst:52
 msgid ""
 "One of the great features of the new processing framework is the ability to "
 "combine the tools graphically. Using the **Processing Modeller**, you can "
@@ -102,23 +109,23 @@ msgid ""
 "use!"
 msgstr "Una din marile funcționalități ale noului cadru de procesare este abilitatea de a combina grafic instrumentele. Utilizând **Modelatorul de procese**, puteți alcătui analize complexe pornind de la o serie de mici module, dedicate, fiecare, unui singur scop. Puteți salva aceste modele și apoi să le utilizați ca blocuri în modele mai complexe. O putere incredibilă, integrată chiar în QGIS, și foarte ușor de folosit!"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:57
+#: ../../source/site/forusers/visualchangelog200/index.rst:59
 msgid "|image4|"
 msgstr "|image4|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:735
+#: ../../source/site/forusers/visualchangelog200/index.rst:737
 msgid "image4"
 msgstr "image4"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:60
+#: ../../source/site/forusers/visualchangelog200/index.rst:62
 msgid "Application and Project Options"
 msgstr "Opțiunile Aplicației și ale Proiectului"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:63
+#: ../../source/site/forusers/visualchangelog200/index.rst:65
 msgid "Feature: Define default startup project and project templates"
 msgstr "Funcționalitate: Definirea proiectului de pornire implicit și a șabloanelor de proiect"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:65
+#: ../../source/site/forusers/visualchangelog200/index.rst:67
 msgid ""
 "With QGIS 2.0 you can specify what QGIS should do when it starts: ``New "
 "Project`` (legacy behaviour, starts with a blank project), ``Most recent`` "
@@ -130,19 +137,19 @@ msgid ""
 "template`` menu."
 msgstr "În QGIS 2.0 puteți specifica ce ar trebui să facă aplicația, atunci când pornește: ``Proiect nou`` (comportament clasic, începere cu un proiect gol), `` Cel mai recent`` (la startarea QGIS se va încărca ultimul proiect la care ați lucrat), ``Specific`` (întotdeauna se încarcă un anumit proiect). Puteți utiliza directorul șabloanelor de proiect, începând prin specificarea locației proiectelor șablon. Orice proiect stocat în acel director va fi disponibil pentru utilizarea ca șablon, atunci când se invocă meniul ``Proiect -->  Nou din șablon``."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:74
+#: ../../source/site/forusers/visualchangelog200/index.rst:76
 msgid "|image5|"
 msgstr "|image5|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:736
+#: ../../source/site/forusers/visualchangelog200/index.rst:738
 msgid "image5"
 msgstr "image5"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:77
+#: ../../source/site/forusers/visualchangelog200/index.rst:79
 msgid "Feature: System environment variables"
 msgstr "Funcționalitate: Variabilele de mediu ale sistemului"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:79
+#: ../../source/site/forusers/visualchangelog200/index.rst:81
 msgid ""
 "Current system environment variables can now be viewed and many configured "
 "within the application Options dialog. Useful for platforms, such as Mac, "
@@ -153,19 +160,19 @@ msgid ""
 "code."
 msgstr "Variabile de mediu ale sistemului pot fi acum vizualizate și, multe dintre ele, configurate, în fereastra de opțiuni a aplicației. Acest lucru este util pentru platforme, cum ar fi Mac, unde interfața unei aplicații nu moștenește în mod obligatoriu variabilele de mediu ale utilizatorului. De asemenea, este util și la stabilirea/vizualizarea variabilelor de mediu pentru seturile de instrumente externe, controlate de instrumentele de procesare cum ar fi SAGA, GRASS, și pentru a depana ieșirile provenite din anumite secțiuni ale codului sursă."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:87
+#: ../../source/site/forusers/visualchangelog200/index.rst:89
 msgid "|image6|"
 msgstr "|image6|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:737
+#: ../../source/site/forusers/visualchangelog200/index.rst:739
 msgid "image6"
 msgstr "image6"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:90
+#: ../../source/site/forusers/visualchangelog200/index.rst:92
 msgid "Feature: User-defined zoom scales"
 msgstr "Funcționalitate: Scări de mărire definite de utilizator"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:92
+#: ../../source/site/forusers/visualchangelog200/index.rst:94
 msgid ""
 "A listing of zoom scales can now be configured for the application and "
 "optionally overridden per project. The list will show up in the ``Scale`` "
@@ -175,85 +182,85 @@ msgid ""
 "into other projects or another QGIS application."
 msgstr "De acum se poate configura o listă cu scări de mărire pentru aplicație și, opțional, pentru fiecare proiect. Lista va apărea într-un pop-up, deasupra casetei ``Scale`` din bara de stare a fereastrei principale, permițând accesul rapid la scări cunoscute, pentru o vizualizare și un lucru eficient cu sursele de date curente. Scările definite pot fi exportate într-un fișier XML, care poate fi importat în alte proiecte sau în alte aplicații QGIS."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:99
+#: ../../source/site/forusers/visualchangelog200/index.rst:101
 msgid "|image7|"
 msgstr "|image7|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:738
+#: ../../source/site/forusers/visualchangelog200/index.rst:740
 msgid "image7"
 msgstr "image7"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:102
+#: ../../source/site/forusers/visualchangelog200/index.rst:104
 msgid "Browser"
 msgstr "Navigatorul"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:105
+#: ../../source/site/forusers/visualchangelog200/index.rst:107
 msgid "Feature: Improvements to in-app browser panel"
 msgstr "Funcționalitate: Îmbunătățiri aduse panoului navigatorului"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:107
+#: ../../source/site/forusers/visualchangelog200/index.rst:109
 msgid "Directories can be filtered by wildcard or regex expressions"
 msgstr "Directoarele se pot filtra cu ajutorul metacaracterelor sau a expresiilor regulate"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:108
+#: ../../source/site/forusers/visualchangelog200/index.rst:110
 msgid "New ``Project home`` (parent directory of current project)"
 msgstr "O nouă ``Pagină de casă pentru proiecte`` (directorul părinte pentru proiectul curent)"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:109
+#: ../../source/site/forusers/visualchangelog200/index.rst:111
 msgid "View ``Properties`` of the selected directory in a dialog"
 msgstr "Vizualizare ``Proprietăți`` pentru directorul selectat într-o fereastră de dialog"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:110
+#: ../../source/site/forusers/visualchangelog200/index.rst:112
 msgid "Choose which directories to ``Fast scan``"
 msgstr "Alegerea directorului care urmează să fie ``Scanat rapid``"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:111
+#: ../../source/site/forusers/visualchangelog200/index.rst:113
 msgid ""
 "Choose to ``Add a directory`` directly to ``Favourites`` via filesystem "
 "browse dialog"
 msgstr "Posibilitate de ``Adăugare a unui director`` direct în ``Favorite``, prin intermediul ferestrei de răsfoire a fișierelor"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:113
+#: ../../source/site/forusers/visualchangelog200/index.rst:115
 msgid ""
 "New ``/Volumes`` on Mac (hidden directory for access to external drives)"
 msgstr "Un nou `/Volumes`` pentru Mac (director ascuns, pentru accesul la drive-uri externe)"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:115
+#: ../../source/site/forusers/visualchangelog200/index.rst:117
 msgid "New ``OWS`` group (collation of available map server connections)"
 msgstr "Un nou grup ``OWS`` (ansamblul conexiunilor disponibile către serverul de hărți)"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:116
+#: ../../source/site/forusers/visualchangelog200/index.rst:118
 msgid ""
 "Open a second browser (``View -> Panels -> Browser (2)``) for drag-n-drop "
 "interactions between browser panels"
 msgstr "Deschiderea unui al doilea navigator (``View -> Panels -> Browser (2)``) pentru interacțiuni drag-n-drop între panouri"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:118
+#: ../../source/site/forusers/visualchangelog200/index.rst:120
 msgid ""
 "Icons now sorted by item group type (filesystem, databases, map servers)"
 msgstr "Posibilitate de sortare a pictogramelor după tipul grupului de elemente (sistem de fișiere, baze de date, servere de hărți)"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:120
+#: ../../source/site/forusers/visualchangelog200/index.rst:122
 msgid "Layer ``Properties`` now have better visual layout"
 msgstr "``Proprietățile`` stratului au de acum un aspect vizual mai plăcut"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:122
+#: ../../source/site/forusers/visualchangelog200/index.rst:124
 msgid "|image8|"
 msgstr "|image8|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:739
+#: ../../source/site/forusers/visualchangelog200/index.rst:741
 msgid "image8"
 msgstr "image8"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:125
+#: ../../source/site/forusers/visualchangelog200/index.rst:127
 msgid "Data Providers"
 msgstr "Furnizorii de date"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:128
+#: ../../source/site/forusers/visualchangelog200/index.rst:130
 msgid "Feature: Raster Data Provider overhaul"
 msgstr "Funcționalitate: Revizuirea Furnizorului de Date Raster"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:130
+#: ../../source/site/forusers/visualchangelog200/index.rst:132
 msgid ""
 "The raster data provider system has been completely overhauled. One of the "
 "best new features stemming from this work is the ability to 'Layer -> Save "
@@ -264,46 +271,46 @@ msgid ""
 "the rendered layer out to a georeferenced RGB layer."
 msgstr "Sistemul furnizorilor de date raster a fost complet revizuit. Acest lucru a avut drept rezultat una dintre cele mai bune funcționalități, și anume capacitatea de a salva orice strat raster ca un nou strat 'Layer -> Save As...'. În cadrul acestui proces, se poate decupa, reeșantiona și reproiecta stratul într-un nou Sistem de Coordonate de Referință. Aveți posibilitatea să salvați, de asemenea, un strat raster ca o imagine randată, deci, dacă, de exemplu, aveți un raster cu o singură bandă căruia i-ați aplicat o paletă de culori, veți putea salva stratul randat sub forma unui strat RGB georeferențiat."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:139
+#: ../../source/site/forusers/visualchangelog200/index.rst:141
 msgid "|image9|"
 msgstr "|image9|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:740
+#: ../../source/site/forusers/visualchangelog200/index.rst:742
 msgid "image9"
 msgstr "image9"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:142
+#: ../../source/site/forusers/visualchangelog200/index.rst:144
 msgid "Feature: Oracle Spatial support"
 msgstr "Funcționalitate: Suport pentru Oracle Spatial"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:144
+#: ../../source/site/forusers/visualchangelog200/index.rst:146
 msgid "QGIS 2.0 now includes Oracle Spatial support."
 msgstr "QGIS 2.0 include de acum suport pentru Oracle Spatial."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:146
+#: ../../source/site/forusers/visualchangelog200/index.rst:148
 msgid "|image10|"
 msgstr "|image10|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:741
+#: ../../source/site/forusers/visualchangelog200/index.rst:743
 msgid "image10"
 msgstr "image10"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:149
+#: ../../source/site/forusers/visualchangelog200/index.rst:151
 msgid "Feature: Web Coverage Service provider added"
 msgstr "Funcționalitate: S-a adăugat furnizorul de servicii Web Coverage"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:151
+#: ../../source/site/forusers/visualchangelog200/index.rst:153
 msgid ""
 "QGIS now provides native support for Web Coverage Service layers - the "
 "process for adding WCS is similar to adding a WMS layer or WFS layer."
 msgstr "QGIS oferă acum suport nativ pentru straturi Web Coverage Service - procesul de adăugare WCS fiind similar cu adăugarea straturilor WMS sau WFS."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:155
+#: ../../source/site/forusers/visualchangelog200/index.rst:157
 #, python-format
 msgid "Feature: Raster 2% cumulative cut by default"
 msgstr "Funcționalitate: Reducere cumulativă cu 2% a rasterelor, în mod implicit"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:157
+#: ../../source/site/forusers/visualchangelog200/index.rst:159
 msgid ""
 "Many raster imagery products have a large number of outliers which result in"
 " images having a washed out appearance. QGIS 2.0 intoduces much more fine "
@@ -313,19 +320,19 @@ msgid ""
 " when rendering the same image with default settings."
 msgstr "Multe produse de tip raster au un număr mare de aberații care au ca rezultat imagini cu aspect spălăcit. QGIS 2.0 intoduce un control mult mai fin asupra comportamentului de randare a rasterelor, inclusiv prin folosirea unui procentaj de reducere cumulativă, în mod implicit de 2%, ajungând până la 98%, atunci când se determină spațiul de culoare pentru imagine. Imaginile de mai jos prezintă o comparație între aici QGIS 1.8 (stânga) și QGIS 2.0 (dreapta), randând aceeași imagine cu setările implicite."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:165
+#: ../../source/site/forusers/visualchangelog200/index.rst:167
 msgid "|image11|"
 msgstr "|image11|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:742
+#: ../../source/site/forusers/visualchangelog200/index.rst:744
 msgid "image11"
 msgstr "image11"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:168
+#: ../../source/site/forusers/visualchangelog200/index.rst:170
 msgid "Feature: WMS identify format"
 msgstr "Funcționalitate: Format de identificare WMS"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:170
+#: ../../source/site/forusers/visualchangelog200/index.rst:172
 msgid ""
 "It is now possible to select the format of the identify tool result for WMS "
 "layers if multiple known formats are supported by the server. The supported "
@@ -335,19 +342,19 @@ msgid ""
 "geometry may be copied to clipboard and pasted to another layer."
 msgstr "De acum este posibilă selectarea formatului rezultatului, pentru instrumentul de identificare al straturilor WMS, atunci când sunt suportate de către server mai multe formate cunoscute. Formatele suportate sunt HTML, entitate (GML) și text simplu. Dacă este selectat formatul entitate (GML), rezultatul este în aceeași formă ca cel pentru straturile vectoriale, geometria putând fi evidențiată, iar entitatea, cu tot cu atribute și cu geometrie, poate fi copiată în clipboard și lipită unui alt strat."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:178
+#: ../../source/site/forusers/visualchangelog200/index.rst:180
 msgid "|image12|"
 msgstr "|image12|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:743
+#: ../../source/site/forusers/visualchangelog200/index.rst:745
 msgid "image12"
 msgstr "image12"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:181
+#: ../../source/site/forusers/visualchangelog200/index.rst:183
 msgid "Feature: WMTS Support"
 msgstr "Funcționalitate: Suport WMTS"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:183
+#: ../../source/site/forusers/visualchangelog200/index.rst:185
 msgid ""
 "The WMS client in QGIS now supports WMTS (Web Mapping Tile Service) "
 "including selection of sub-datasets such as time slices. When adding a WMS "
@@ -355,23 +362,23 @@ msgid ""
 " to display."
 msgstr "Clientul WMS din QGIS suportă acum WMTS (Web Mapping Tile Service), inclusiv selectarea sub-seturilor de date, cum ar fi feliile temporale. Când adăugați un strat WMS de la un server compatibil, vi se va solicita să selectați felia temporală ce urmează a fi afișată."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:188
+#: ../../source/site/forusers/visualchangelog200/index.rst:190
 msgid "|image13|"
 msgstr "|image13|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:744
+#: ../../source/site/forusers/visualchangelog200/index.rst:746
 msgid "image13"
 msgstr "image13"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:191
+#: ../../source/site/forusers/visualchangelog200/index.rst:193
 msgid "General"
 msgstr "Generalități"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:194
+#: ../../source/site/forusers/visualchangelog200/index.rst:196
 msgid "Feature: Quantum GIS is now known only as 'QGIS'"
 msgstr "Funcționalitate: Quantum GIS este de acum cunoscut sub numele de 'QGIS'"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:196
+#: ../../source/site/forusers/visualchangelog200/index.rst:198
 msgid ""
 "The 'Quantum' in 'Quantum GIS' never had any particular significance and the"
 " duality of referring to our project as both ``Quantum GIS`` and ``QGIS`` "
@@ -382,23 +389,23 @@ msgid ""
 "reflect this."
 msgstr "Cuvântul 'Quantum' din denumirea 'Quantum GIS' nu a avut nici o semnificație deosebită, dualitatea referirii la proiectul nostru atât prin ``Quantum GIS`` cât și prin ``QGIS`` provocând unele confuzii. Suntem în plin proces de eficientizare a proiectului, iar, ca parte a acestui proces, renunțăm în mod oficial la folosirea cuvântului ``Quantum`` - de acum înainte fiind cunoscuți doar sub numele de ``QGIS`` (scris cu majuscule). Vom actualiza toată baza de cod și materialele publicitate pentru a reflecta acest lucru."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:204
+#: ../../source/site/forusers/visualchangelog200/index.rst:206
 msgid "|image14|"
 msgstr "|image14|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:745
+#: ../../source/site/forusers/visualchangelog200/index.rst:747
 msgid "image14"
 msgstr "image14"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:207
+#: ../../source/site/forusers/visualchangelog200/index.rst:209
 msgid "Labelling"
 msgstr "Etichetarea"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:210
+#: ../../source/site/forusers/visualchangelog200/index.rst:212
 msgid "Feature: New labelling system"
 msgstr "Funcționalitate: Noul sistem de etichetare"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:212
+#: ../../source/site/forusers/visualchangelog200/index.rst:214
 msgid ""
 "The labelling system has been totally overhauled - it now includes many new "
 "features such as drop shadows, 'highway shields', many more data bound "
@@ -408,19 +415,19 @@ msgid ""
 "follow up release."
 msgstr "Sistemul de etichetare a fost complet revizuit - incluzând acum multe caracteristici noi, cum ar fi umbrele, 'indicatoarele de autostradă', multe alte opțiuni legate de date, și diverse îmbunătățiri de performanță. Ne îndepărtăm încet de sistemul cu 'etichete vechi', și deși veți găsi în continuare funcționalitatea disponibilă pentru această versiune, trebuie să vă așteptați că va dispărea într-o versiune ulterioară."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:219
+#: ../../source/site/forusers/visualchangelog200/index.rst:221
 msgid "|image15|"
 msgstr "|image15|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:746
+#: ../../source/site/forusers/visualchangelog200/index.rst:748
 msgid "image15"
 msgstr "image15"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:222
+#: ../../source/site/forusers/visualchangelog200/index.rst:224
 msgid "Feature: Expression based label properties"
 msgstr "Funcționalitate: Expresii bazate pe proprietățile etichetelor"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:224
+#: ../../source/site/forusers/visualchangelog200/index.rst:226
 msgid ""
 "The full power of normal label and rule expressions can now be used for "
 "label properties. Nearly every property can be defined with an expression or"
@@ -429,161 +436,161 @@ msgid ""
 "or can include more complex logic."
 msgstr "De acum, pentru proprietățile etichetelor se poate utiliza întreaga putere a etichetelor normale și a expresiilor cu reguli. Aproape fiecare proprietate poate fi definită prin valoarea unei expresii sau a unui câmp, oferindu-vă mai mult control asupra rezultatului etichetării. Expresiile se pot referi la un câmp (de exemplu, pentru a seta mărimea fontului la valoarea prezentă în câmpul 'font') sau pot include o logică mult mai complexă."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:230
+#: ../../source/site/forusers/visualchangelog200/index.rst:232
 msgid "Examples of bindable properties include:"
 msgstr "Exemple de proprietăți atașabile:"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:232
+#: ../../source/site/forusers/visualchangelog200/index.rst:234
 msgid "Font"
 msgstr "Font"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:233
+#: ../../source/site/forusers/visualchangelog200/index.rst:235
 msgid "Size"
 msgstr "Dimensiuni"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:234
+#: ../../source/site/forusers/visualchangelog200/index.rst:236
 msgid "Style"
 msgstr "Stil"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:235
+#: ../../source/site/forusers/visualchangelog200/index.rst:237
 msgid "Buffer size"
 msgstr "Dimensiunea zonei tampon"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:237
+#: ../../source/site/forusers/visualchangelog200/index.rst:239
 msgid "|image16|"
 msgstr "|image16|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:747
+#: ../../source/site/forusers/visualchangelog200/index.rst:749
 msgid "image16"
 msgstr "image16"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:240
+#: ../../source/site/forusers/visualchangelog200/index.rst:242
 msgid "Feature: Older labelling engine deprecated"
 msgstr "Funcționalitate: Utilizarea vechiul motor de etichetare este dezaprobată"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:242
+#: ../../source/site/forusers/visualchangelog200/index.rst:244
 msgid ""
 "Use of the older labelling engine available in QGIS <= 1.8 is now "
 "discouraged (i.e. deprecated), but has not been removed. This is to allow "
 "users to migrate existing projects from the old to new labelling engine."
 msgstr "De acum, utilizarea motorului vechi de etichetare, disponibil în QGIS <= 1.8, este  descurajată (adică dezaprobată), dar nu este stopată. Acest lucru permite utilizatorilor să-și migreze proiectele existente dinspre vechiul înspre noul motor de etichetare."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:247
+#: ../../source/site/forusers/visualchangelog200/index.rst:249
 msgid ""
 "The following guidelines for working with the older engine in QGIS 2.0 "
 "apply:"
 msgstr "În QGIS 2.0 sunt valabile următoarele reguli pentru lucrul cu vechiul motor:"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:250
+#: ../../source/site/forusers/visualchangelog200/index.rst:252
 msgid ""
 "Deprecated labelling tab is removed from vector layer properties dialog for "
 "new projects or older opened projects that don't use that labelling engine."
 msgstr "Fila de etichetare dezaprobată este eliminată din fereastra de proprietăți a stratului vectorial, pentru proiectele deschise, mai noi  sau mai vechi, care nu folosesc motorul vechi de etichetare."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:253
+#: ../../source/site/forusers/visualchangelog200/index.rst:255
 msgid ""
 "Deprecated tab remains active for older opened projects, if any layer uses "
 "them, and does not go away even if saving the project with no layers having "
 "the older labelling engine enabled."
 msgstr "Fila elementelor dezaprobate rămâne activă pentru proiectele mai vechi deschise, dacă cel puțin unul dintre straturi le folosește, și nu dispare nici dacă salvați proiectul."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:257
+#: ../../source/site/forusers/visualchangelog200/index.rst:259
 msgid ""
 "Deprecated labelling tab can be enabled/disabled for the current project, "
 "via Python console commands, e.g.:"
 msgstr "Fila de etichetelor dezaprobate poate fi activată/dezactivată pentru proiectul curent, prin comenzi introduse în consola Python, cum ar fi:"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:266
+#: ../../source/site/forusers/visualchangelog200/index.rst:268
 msgid ""
 "**NOTE**: There is a *very high likelihood* the deprecated labelling engine "
 "will be completely removed prior to the next stable release of QGIS. Please "
 "migrate older projects."
 msgstr "**OBSERVAȚIE**: Există o *probabilitate foarte mare* ca motorul de etichetare perimat să fie eliminat complet, înainte de următoarea versiune stabilă a QGIS. Vă rugăm să migrați vechile proiecte."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:270
+#: ../../source/site/forusers/visualchangelog200/index.rst:272
 msgid "|image17|"
 msgstr "|image17|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:748
+#: ../../source/site/forusers/visualchangelog200/index.rst:750
 msgid "image17"
 msgstr "image17"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:273
+#: ../../source/site/forusers/visualchangelog200/index.rst:275
 msgid "Layer Legend"
 msgstr "Legenda Stratului"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:276
+#: ../../source/site/forusers/visualchangelog200/index.rst:278
 msgid "Feature: Legend visual feedback and options"
 msgstr "Funcționalitate: Răspunsul vizual al legendei și opțiunile acesteia"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:278
+#: ../../source/site/forusers/visualchangelog200/index.rst:280
 msgid "Total count for features in layer, as well as per symbol"
 msgstr "Număr total de entități dintr-un strat, precum și per simbol"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:279
+#: ../../source/site/forusers/visualchangelog200/index.rst:281
 msgid ""
 "Vector layers in edit mode now have a red pencil to indicate uncommitted "
 "(unsaved) edits"
 msgstr "În dreptul straturilor vectoriale aflate în modul de editare, există acum un creion roșu care indică modificările netransmise (nesalvate)"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:281
+#: ../../source/site/forusers/visualchangelog200/index.rst:283
 msgid ""
 "Active layer is now underlined, to indicate it in multi-layer selections or "
 "when there is no selection"
 msgstr "Stratul activ este acum subliniat, pentru a-l observa în cazul selecțiilor multi-strat sau atunci când nu există nici o selecție"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:283
+#: ../../source/site/forusers/visualchangelog200/index.rst:285
 msgid "Clicking in non-list-item whitespace now clears the selection"
 msgstr "Efectuarea unui clic pe spațiu alb, care nu face parte dintr-o listă, elimină o selecție existentă"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:284
+#: ../../source/site/forusers/visualchangelog200/index.rst:286
 msgid ""
 "``Right-clicks`` are now treated as ``left-clicks`` prior to showing the "
 "contextual menu, allowing for one click instead of two"
 msgstr "``Clicurile-dreapta`` sunt de acum tratate ca și ``clicuri-stânga`` înainte de afișarea meniului contextual, acceptând un singur clic în loc de două"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:286
+#: ../../source/site/forusers/visualchangelog200/index.rst:288
 msgid "Groups and layers can optionally be in a bold font style"
 msgstr "În mod opțional, grupurile și straturile pot avea denumirea scrisă îngroșat"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:287
+#: ../../source/site/forusers/visualchangelog200/index.rst:289
 msgid ""
 "Raster layer generated preview icons can now be turned off, for projects "
 "where such rendering may be slow"
 msgstr "De acum, generarea pictogramele de previzualizare ale straturilor raster poate fi acum oprită, pentru proiecte în care randarea acestora se face lent"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:290
+#: ../../source/site/forusers/visualchangelog200/index.rst:292
 msgid "|image18|"
 msgstr "|image18|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:749
+#: ../../source/site/forusers/visualchangelog200/index.rst:751
 msgid "image18"
 msgstr "image18"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:293
+#: ../../source/site/forusers/visualchangelog200/index.rst:295
 msgid "Feature: Duplicate existing map layer"
 msgstr "Funcționalitate: Duplicarea unui strat de hartă existent"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:295
+#: ../../source/site/forusers/visualchangelog200/index.rst:297
 msgid ""
 "Duplicate selected vector and raster layers in the map layer legend. Similar"
 " to importing the same data source again, as a separate layer, then "
 "copy/pasting style and symbology attributes."
 msgstr "Este posibilă duplicarea straturilor vectoriale și raster, selectate în legenda straturilor hărții. Similar cu importarea încă o dată a aceleiași surse de date, ca strat separat, apoi copierea/lipirea stilului și simbologiei atributelor."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:299
+#: ../../source/site/forusers/visualchangelog200/index.rst:301
 msgid "|image19|"
 msgstr "|image19|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:750
+#: ../../source/site/forusers/visualchangelog200/index.rst:752
 msgid "image19"
 msgstr "image19"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:302
+#: ../../source/site/forusers/visualchangelog200/index.rst:304
 msgid "Feature: Multi-layer toggle editing commands"
 msgstr "Funcționalitate: Comenzi de editare pentru multi-straturi"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:304
+#: ../../source/site/forusers/visualchangelog200/index.rst:306
 msgid ""
 "User can now select multiple layers in legend and, if any of those are "
 "vector layers in edit mode, choose to save, rollback, or cancel current "
@@ -591,107 +598,107 @@ msgid ""
 "layers, regardless of selection."
 msgstr "Utilizatorul poate selecta de acum mai multe straturi în legendă, iar în cazul în care oricare dintre aceste straturi vectoriale se află în modul de editare, poate salva, reface sau anula modificările curente. Utilizatorul poate alege, de asemenea, să efectueze aceste acțiuni în toate straturile, indiferent de selecție."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:309
+#: ../../source/site/forusers/visualchangelog200/index.rst:311
 msgid "|image20|"
 msgstr "|image20|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:751
+#: ../../source/site/forusers/visualchangelog200/index.rst:753
 msgid "image20"
 msgstr "image20"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:312
+#: ../../source/site/forusers/visualchangelog200/index.rst:314
 msgid "Map Composer"
 msgstr "Compozitorul de Hărți"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:315
+#: ../../source/site/forusers/visualchangelog200/index.rst:317
 msgid "Feature: HTML Map Items"
 msgstr "Funcționalitate: Elemente HTML pentru hărți "
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:317
+#: ../../source/site/forusers/visualchangelog200/index.rst:319
 msgid "You can now place html elements onto your map."
 msgstr "De acum puteți introduce elemente HTML în hărțile dvs."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:319
+#: ../../source/site/forusers/visualchangelog200/index.rst:321
 msgid "|image21|"
 msgstr "|image21|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:752
+#: ../../source/site/forusers/visualchangelog200/index.rst:754
 msgid "image21"
 msgstr "image21"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:322
+#: ../../source/site/forusers/visualchangelog200/index.rst:324
 msgid "Feature: Multipage support"
 msgstr "Funcționalitate: Suport pentru pagini multiple"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:324
+#: ../../source/site/forusers/visualchangelog200/index.rst:326
 msgid "A single composer window can now contain more then one page."
 msgstr "De acum, o fereastră de compozitor singulară poate conține mai mult de o singură pagină."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:326
+#: ../../source/site/forusers/visualchangelog200/index.rst:328
 msgid "|image22|"
 msgstr "|image22|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:753
+#: ../../source/site/forusers/visualchangelog200/index.rst:755
 msgid "image22"
 msgstr "image22"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:329
+#: ../../source/site/forusers/visualchangelog200/index.rst:331
 msgid "Feature: Expressions in composer labels"
 msgstr "Funcționalitate: Expresii în etichetele compozitorului"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:331
+#: ../../source/site/forusers/visualchangelog200/index.rst:333
 msgid ""
 "The composer label item in 1.8 was quite limited and only allowed a single "
 "token $CURRENT\\_DATE to be used. In 2.0 full expression support has been "
 "added too greater power and control of the final labels."
 msgstr "Elementul etichetă din compozitorul versiunii 1.8 a fost destul de limitat, permițând utilizarea doar a unui singur simbol $CURRENT\\_DATE. În 2.0 s-a adăugat suport complet pentru expresii, conferind etichetelor finale o putere și un control mult mai mare."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:335
+#: ../../source/site/forusers/visualchangelog200/index.rst:337
 msgid "A label with an expression such as:"
 msgstr "O etichetă cu o expresie, cum ar fi:"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:341
+#: ../../source/site/forusers/visualchangelog200/index.rst:343
 msgid "will be evaluated at print time (and display time) to generate:"
 msgstr "va fi evaluată la momentul imprimării (și în timpul afișării) pentru a genera:"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:347
+#: ../../source/site/forusers/visualchangelog200/index.rst:349
 msgid ""
 "When atlas generation is enabled the currently active features' attribute "
 "values will also be accessible in the expressions allowing such things as:"
 msgstr "Când este activată generarea atlasului, valorile atributelor entităților active în prezent vor fi, de asemenea, accesibile în expresii, permițând lucruri cum ar fi:"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:355
+#: ../../source/site/forusers/visualchangelog200/index.rst:357
 msgid "|image23|"
 msgstr "|image23|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:754
+#: ../../source/site/forusers/visualchangelog200/index.rst:756
 msgid "image23"
 msgstr "image23"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:358
+#: ../../source/site/forusers/visualchangelog200/index.rst:360
 msgid "Feature: Auto snap lines"
 msgstr "Funcționalitate: Traiectorii pentru auto-aliniere"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:360
+#: ../../source/site/forusers/visualchangelog200/index.rst:362
 msgid ""
 "Having nicely align map items is critical to making nice printed maps. Auto "
 "snapping lines have been added to allow for easy composer object alignment "
 "by simply dragging an object close to another."
 msgstr "Pentru a avea hărți aspectuoase, este vital ca elementele conținute să fie frumos aliniate. În acest sens, au fost adăugate linii care permit alinierea ușoară a obiectelor prin simpla glisare a obiectelor."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:364
+#: ../../source/site/forusers/visualchangelog200/index.rst:366
 msgid "|image24|"
 msgstr "|image24|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:755
+#: ../../source/site/forusers/visualchangelog200/index.rst:757
 msgid "image24"
 msgstr "image24"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:367
+#: ../../source/site/forusers/visualchangelog200/index.rst:369
 msgid "Feature: Manual Snap Lines"
 msgstr "Funcționalitate: Traiectorii pentru aliniere, adăugate manual"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:369
+#: ../../source/site/forusers/visualchangelog200/index.rst:371
 msgid ""
 "Sometimes you need to align objects a curtain distance on the composer. With"
 " the new manual snapping lines you are able to add manual snap lines which "
@@ -699,19 +706,19 @@ msgid ""
 "the top or side ruler to add new guide line."
 msgstr "Uneori este nevoie să aliniați obiectele în compozitor la o anumită distanță. Cu noile traiectorii manuale, pentru aliniere, veți putea alinia mai bine obiectele. Pur și simplu, trageți de rigla superioară sau de cea laterală, pentru a adăuga noi linii de ghidare."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:374
+#: ../../source/site/forusers/visualchangelog200/index.rst:376
 msgid "|image25|"
 msgstr "|image25|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:756
+#: ../../source/site/forusers/visualchangelog200/index.rst:758
 msgid "image25"
 msgstr "image25"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:377
+#: ../../source/site/forusers/visualchangelog200/index.rst:379
 msgid "Feature: Map series generation"
 msgstr "Funcționalitate: Generarea seriilor de hărți"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:379
+#: ../../source/site/forusers/visualchangelog200/index.rst:381
 msgid ""
 "Ever needed to generate a map series? Of course you have. The composer now "
 "includes built in map series generation using the atlas feature. Coverage "
@@ -719,19 +726,19 @@ msgid ""
 "data is available in labels for on the fly value replacement."
 msgstr "A trebuit vreodată să generați o serie de hărți? Cu siguranță. De acum, compozitorul include un generator de serii de hărți, care utilizează funcțiile atlasului. Straturile pot fi puncte, linii, poligoane, iar valorile actualelor atribute ale entităților sunt disponibile pentru afișare, cu ajutorul etichetelor."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:384
+#: ../../source/site/forusers/visualchangelog200/index.rst:386
 msgid "|image26|"
 msgstr "|image26|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:757
+#: ../../source/site/forusers/visualchangelog200/index.rst:759
 msgid "image26"
 msgstr "image26"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:387
+#: ../../source/site/forusers/visualchangelog200/index.rst:389
 msgid "Feature: Automatic overview support in map frame"
 msgstr "Funcționalitate: Suport pentru previzualizarea automată în cadrul hărții"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:389
+#: ../../source/site/forusers/visualchangelog200/index.rst:391
 msgid ""
 "Need to show the current area of the main map frame in a smaller overview "
 "window. Now you can. The map frame now contains the ability to show the "
@@ -741,19 +748,19 @@ msgid ""
 "polygon object so your creativity is never restricted."
 msgstr "A trebuit vreodată să afișați înteaga hartă într-o fereastră de ansamblu, mai mică? Acum se poate. Harta cadru are acum posibilitatea de a afișa vederi de ansamblu, care se vor actualiza atunci când sunt deplasate. Această facilitate, alături de funcțiile de generare de bază a atlasului din compozitor, oferă posibilitatea creării unor hărți deosebite. Stilul cadrului de vizualizare utilizează aceleași modalități de stilizare ca orice hartă poligonală obișnuită, așa că nu veți întâlni restricții de creativitate."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:396
+#: ../../source/site/forusers/visualchangelog200/index.rst:398
 msgid "|image27|"
 msgstr "|image27|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:758
+#: ../../source/site/forusers/visualchangelog200/index.rst:760
 msgid "image27"
 msgstr "image27"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:399
+#: ../../source/site/forusers/visualchangelog200/index.rst:401
 msgid "Feature: Layer blending"
 msgstr "Funcționalitate: Amestecarea straturilor"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:401
+#: ../../source/site/forusers/visualchangelog200/index.rst:403
 msgid ""
 "Layer blending makes it possible to combine layers in new and exciting ways."
 " While in older versions, all you could do was to make the layer "
@@ -761,7 +768,7 @@ msgid ""
 "\"multiply\", \"darken only\", and many more."
 msgstr "Amestecarea straturilor face posibilă combinarea lor în moduri noi și interesante. În timp ce în versiunile mai vechi, puteați doar să faceți stratul transparent, acum există opțiuni mult mai avansate, cum ar fi \"multiplicare\", \"doar întunecare\", și multe altele."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:406
+#: ../../source/site/forusers/visualchangelog200/index.rst:408
 msgid ""
 "Blending can be used in the normal map view as well as in print composer. "
 "For a short tutorial on how to use blending in print composer to make the "
@@ -769,38 +776,38 @@ msgid ""
 "<http://anitagraser.com/2013/07/29/vintage-map-design-using-qgis/>`__."
 msgstr "Amestecarea poate fi utilizată în modul de vizualizare normal, precum și în compozitor. Pentru un scurt tutorial cu privire la modul de utilizare al amestecării pentru imaginile de fundal din compozitorul de hărți, puteți parcurge `\"Proiectarea hărților cu aspect învechit, folosind QGIS\" <http://anitagraser.com/2013/07/29/vintage-map-design-using-qgis/>`__."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:412
+#: ../../source/site/forusers/visualchangelog200/index.rst:414
 msgid "|image28|"
 msgstr "|image28|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:759
+#: ../../source/site/forusers/visualchangelog200/index.rst:761
 msgid "image28"
 msgstr "image28"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:415
+#: ../../source/site/forusers/visualchangelog200/index.rst:417
 msgid "Feature: HTML Label support"
 msgstr "Funcționalitate: Suport pentru etichete HTML"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:417
+#: ../../source/site/forusers/visualchangelog200/index.rst:419
 msgid ""
 "HTML support has been added map composer label item to give you even more "
 "control over your final maps. HTML labels support full css styles sheets, "
 "html, and even javascript if you are that way inclined."
 msgstr "Suportul pentru HTML a fost adăugat etichetelor din compozitor, pentru a vă oferi un control mai mare asupra hărți finale. Etichetele HTML suportă pe deplin css, html și chiar javascript, dacă vă pasionează."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:421
+#: ../../source/site/forusers/visualchangelog200/index.rst:423
 msgid "|image29|"
 msgstr "|image29|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:760
+#: ../../source/site/forusers/visualchangelog200/index.rst:762
 msgid "image29"
 msgstr "image29"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:424
+#: ../../source/site/forusers/visualchangelog200/index.rst:426
 msgid "Feature: Multicolumn composer legend"
 msgstr "Funcționalitate: Legendă multicoloană, în compozitor"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:426
+#: ../../source/site/forusers/visualchangelog200/index.rst:428
 msgid ""
 "The composer legend now supports multiple columns. Splitting of a single "
 "layer with many classes into multiple columns is optional. Single symbol "
@@ -812,65 +819,65 @@ msgid ""
 " group (hiding titles) etc. Feature counts may be added to labels."
 msgstr "Legenda compozitorul suportă de acum coloane multiple. Divizarea unui strat, cu multe clase, în mai multe coloane este opțională. Straturile cu un singur simbol, sunt de acum adăugate, în mod implicit, ca elemente cu o singură linie. Trei stiluri diferite pot fi atribuite titlului stratului/grupului: Grup, Subgrup sau Ascuns. Stilurile titlurilor permit gruparea elemente în mod vizual, arbitrar. De exemplu, un strat cu un singur simbol poate fi afișat ca element cu o singură linie sau ca titlu de strat (ca în 1.8), simbolurile următoarelor straturi multiple putând fi grupate într-un singur grup (ascunzând titlurile) etc. Numărul de entități poate fi, de asemenea, adăugat etichetelor."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:436
+#: ../../source/site/forusers/visualchangelog200/index.rst:438
 msgid "|image30|"
 msgstr "|image30|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:761
+#: ../../source/site/forusers/visualchangelog200/index.rst:763
 msgid "image30"
 msgstr "image30"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:439
+#: ../../source/site/forusers/visualchangelog200/index.rst:441
 msgid "Feature: Updates to map composer management"
 msgstr "Funcționalitate: Gestionare mai bună a hărților din compozitor"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:441
+#: ../../source/site/forusers/visualchangelog200/index.rst:443
 msgid "The following improvements have been made to map composer management:"
 msgstr "Următoarele îmbunătățiri au fost aduse gestionării hărților din compozitor:"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:443
+#: ../../source/site/forusers/visualchangelog200/index.rst:445
 msgid ""
 "Composer name can now be defined upon creation, optionally choosing to start"
 " from other composer names"
 msgstr "De acum, numele compozitorului poate fi definit la creare, fiind opțională alegerea de a porni de la alt compozitor"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:445
+#: ../../source/site/forusers/visualchangelog200/index.rst:447
 msgid "Composers can now be duplicated"
 msgstr "Compozitoarele se pot duplica"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:446
+#: ../../source/site/forusers/visualchangelog200/index.rst:448
 msgid ""
 "``New from Template`` and from ``Specific`` (in Composer Manager) creates a "
 "composer from a template located anywhere on the filesystem"
 msgstr "``Nou, pornind de la un șablon`` și ``Specific`` (în Composer Manager) creează un compozitor, pornind de la un șablon amplasat oriunde, în sistemul de fișiere"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:448
+#: ../../source/site/forusers/visualchangelog200/index.rst:450
 msgid "Parent project can now be saved directly from the composer work space"
 msgstr "Proiectul părinte poate fi acum salvat direct din spațiul de lucru al compozitorului"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:449
+#: ../../source/site/forusers/visualchangelog200/index.rst:451
 msgid ""
 "All composer management actions now accessible directly from the composer "
 "work space"
 msgstr "Toate acțiunile de gestiune sunt accesibile direct din spațiul de lucru al compozitorului"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:452
+#: ../../source/site/forusers/visualchangelog200/index.rst:454
 msgid "|image31|"
 msgstr "|image31|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:762
+#: ../../source/site/forusers/visualchangelog200/index.rst:764
 msgid "image31"
 msgstr "image31"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:455
+#: ../../source/site/forusers/visualchangelog200/index.rst:457
 msgid "Plugins"
 msgstr "Plugin-urile"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:458
+#: ../../source/site/forusers/visualchangelog200/index.rst:460
 msgid "Feature: Revamped plugin manager"
 msgstr "Funcționalitate: Manager de plugin-uri revitalizat"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:460
+#: ../../source/site/forusers/visualchangelog200/index.rst:462
 msgid ""
 "In QGIS 1.x managing plugins was somewhat confusing with two interfaces - "
 "one for managing already installed plugins and one for fetching python "
@@ -880,23 +887,23 @@ msgid ""
 "interface is gorgeous too with side tabs and easy to recognise icons!"
 msgstr "În QGIS 1.x gestionarea plugin-urilor a fost, oarecum, confuză, datorită celor două interfețe - una pentru gestionarea plugin-urilor deja instalate, iar cealaltă pentru obținerea plugin-urilor python dintr-un depozit dedicat. În QGIS 2.0 introducem **un nou manager de plugin-uri, unificat**, care oferă *o singură oprire* pentru descărcarea, activarea/dezactivarea și, în general, gestionarea plugin-urilor dvs. De asemenea, interfața cu utilizatorul devine superbă, datorită panourilor laterale și pictogramelor ușor de recunoscut!"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:468
+#: ../../source/site/forusers/visualchangelog200/index.rst:470
 msgid "|image32|"
 msgstr "|image32|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:763
+#: ../../source/site/forusers/visualchangelog200/index.rst:765
 msgid "image32"
 msgstr "image32"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:471
+#: ../../source/site/forusers/visualchangelog200/index.rst:473
 msgid "Programmability"
 msgstr "Posibilitatea de programare"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:474
+#: ../../source/site/forusers/visualchangelog200/index.rst:476
 msgid "Feature: New Python Console"
 msgstr "Funcționalitate: O Nouă Consolă Python"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:476
+#: ../../source/site/forusers/visualchangelog200/index.rst:478
 msgid ""
 "The new Python console gives you even more power. Now the with auto complete"
 " support, syntax highlighting, adjustable font settings. The side code "
@@ -904,19 +911,19 @@ msgid ""
 "open and run any Python file in the QGIS session."
 msgstr "Noua consolă Python vă oferă și mai multă putere. De acum, suportă auto-completare, evidențierea sintaxei, setări pentru reglarea fontului. Editorul de cod lateral permite introducerea mai ușoară a blocurilor de cod de mari dimensiuni, având abilitatea de a deschide și rula orice fișier Python, în sesiunea QGIS."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:481
+#: ../../source/site/forusers/visualchangelog200/index.rst:483
 msgid "|image33|"
 msgstr "|image33|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:764
+#: ../../source/site/forusers/visualchangelog200/index.rst:766
 msgid "image33"
 msgstr "image33"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:484
+#: ../../source/site/forusers/visualchangelog200/index.rst:486
 msgid "Feature: Even more expression functions"
 msgstr "Funcționalitate: Mult mai multe funcții, în cadrul expresiilor"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:486
+#: ../../source/site/forusers/visualchangelog200/index.rst:488
 msgid ""
 "With the expression engine being used more and more though out QGIS to allow"
 " for things like expression based labels and symbol, many more functions "
@@ -925,37 +932,37 @@ msgid ""
 "guides for ease of use."
 msgstr "Motorul de expresii fiind folosit din ce în ce mai mult în QGIS, pentru a permite lucruri de genul etichetelor pe bază de expresie și simbol, din ce în ce mai multe funcții au fost adăugate, toate fiind accesibile în constructorul de expresii. Funcțiile sunt însoțite de descriere și ghiduri de utilizare complete, ceea ce sporește ușurința de utilizare."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:492
+#: ../../source/site/forusers/visualchangelog200/index.rst:494
 msgid "|image34|"
 msgstr "|image34|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:765
+#: ../../source/site/forusers/visualchangelog200/index.rst:767
 msgid "image34"
 msgstr "image34"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:495
+#: ../../source/site/forusers/visualchangelog200/index.rst:497
 msgid "Feature: Custom expression functions"
 msgstr "Funcționalitate: Expresii cu funcții personalizate"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:497
+#: ../../source/site/forusers/visualchangelog200/index.rst:499
 msgid ""
 "If the expression engine doesn't have the function that you need. Not to "
 "worry. New functions can be added via a plugin using a simple Python API."
 msgstr "Dacă motorul de expresii nu dispune de funcția de care aveți nevoie, nu trebuie să vă îngrijorați. Noile funcții pot fi adăugate prin intermediul unui plug-in, cu ajutorul unui simplu API Python."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:501
+#: ../../source/site/forusers/visualchangelog200/index.rst:503
 msgid "|image35|"
 msgstr "|image35|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:766
+#: ../../source/site/forusers/visualchangelog200/index.rst:768
 msgid "image35"
 msgstr "image35"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:504
+#: ../../source/site/forusers/visualchangelog200/index.rst:506
 msgid "Feature: New cleaner Python API"
 msgstr "Funcționalitate: Un nou API Python, mai clar"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:506
+#: ../../source/site/forusers/visualchangelog200/index.rst:508
 msgid ""
 "The Python API has been revamped to allow for a more cleaner, more pythonic,"
 " programming experience. The QGIS 2.0 API uses SIP V2 which removes the "
@@ -965,25 +972,25 @@ msgid ""
 "lookup, no more index lookup and attribute maps."
 msgstr "API-ul Python a fost restructurat pentru a permite un stil de lucru mult mai orientat către Python. API-ul QGIS 2.0 folosește SIP V2 care elimină logica întortocheată a funcțiilor toString(), toInt(), de care era nevoie în lucrul cu valori. De acum, tipurile sunt transformate în tipuri Python native, având ca rezultat un API mult mai frumos. Accesul la atribute se face chiar pe entitate, cu ajutorul unei simple chei de căutare, fără căutarea într-un index și în hărțile de atribute."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:519
+#: ../../source/site/forusers/visualchangelog200/index.rst:521
 msgid ""
 "The way features are read from a layer has also been improved allowing for "
 "multithreading in the future versions."
 msgstr "De asemenea, a fost îmbunătățit modul în care sunt citite entitățile dintr-un strat, ceea ce permite execuţia multifilară, în versiunile viitoare."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:527
+#: ../../source/site/forusers/visualchangelog200/index.rst:529
 msgid "|image36|"
 msgstr "|image36|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:767
+#: ../../source/site/forusers/visualchangelog200/index.rst:769
 msgid "image36"
 msgstr "image36"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:530
+#: ../../source/site/forusers/visualchangelog200/index.rst:532
 msgid "Feature: Code compatibility with version 1.x releases"
 msgstr "Funcționalitate: Un cod compatibil cu cel al versiunilor 1.x"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:532
+#: ../../source/site/forusers/visualchangelog200/index.rst:534
 msgid ""
 "As this is a major release, it is not completely API compatible with "
 "previous 1.x releases. In most cases porting your code should be fairly "
@@ -993,95 +1000,95 @@ msgid ""
 "help."
 msgstr "Deoarece aceasta este o versiune majoră, ea nu este complet compatibilă cu versiunile API 1.x anterioare. În cele mai multe cazuri, portarea codului dvs ar trebui să fie destul de simplă - puteți folosi `acest ghid <https://github.com/qgis/QGIS/wiki/Python_plugin_API_changes_from_18_to_20>`__ în acest sens. Vă rugăm să folosiți lista de discuții a dezvoltatorilor, dacă aveți nevoie de asistență suplimentară."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:539
+#: ../../source/site/forusers/visualchangelog200/index.rst:541
 msgid "|image37|"
 msgstr "|image37|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:768
+#: ../../source/site/forusers/visualchangelog200/index.rst:770
 msgid "image37"
 msgstr "image37"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:542
+#: ../../source/site/forusers/visualchangelog200/index.rst:544
 msgid "Feature: Python project macros"
 msgstr "Funcționalitate: Proiecte macro, în Python"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:544
+#: ../../source/site/forusers/visualchangelog200/index.rst:546
 msgid ""
 "A Python module, saved into a project.qgs file, can be loaded and have "
 "specific functions run on the following project events:"
 msgstr "Un modul Python, salvat într-un fișier project.qgs, poate fi încărcat și să aibă funcții specifice de rulare, pentru următoarele evenimente ale proiectului:"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:547
+#: ../../source/site/forusers/visualchangelog200/index.rst:549
 msgid "``openProject()``"
 msgstr "``openProject()``"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:548
+#: ../../source/site/forusers/visualchangelog200/index.rst:550
 msgid "``saveProject()``"
 msgstr "``saveProject()``"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:549
+#: ../../source/site/forusers/visualchangelog200/index.rst:551
 msgid "``closeProject()``"
 msgstr "``closeProject()``"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:551
+#: ../../source/site/forusers/visualchangelog200/index.rst:553
 msgid ""
 "Whether the macros are run can be configured in the application options."
 msgstr "Chiar dacă rulează, un macro poate fi configurat în opțiunile aplicației."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:553
+#: ../../source/site/forusers/visualchangelog200/index.rst:555
 msgid "|image38|"
 msgstr "|image38|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:769
+#: ../../source/site/forusers/visualchangelog200/index.rst:771
 msgid "image38"
 msgstr "image38"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:556
+#: ../../source/site/forusers/visualchangelog200/index.rst:558
 msgid "Symbology"
 msgstr "Simbologia"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:559
+#: ../../source/site/forusers/visualchangelog200/index.rst:561
 msgid "Feature: Data defined properties"
 msgstr "Funcționalitate: Proprietăți definite cu ajutorul datelor"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:561
+#: ../../source/site/forusers/visualchangelog200/index.rst:563
 msgid ""
 "With the new data defined properties, it is possible to control symbol type,"
 " size, color, rotation, and many other properties through feature "
 "attributes."
 msgstr "Cu ajutorul noilor proprietăți definite cu ajutorul datelor, este posibilă controlarea tipului simbolului, mărimea, culoarea, rotirea, și multe alte proprietăți ale entităților."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:565
+#: ../../source/site/forusers/visualchangelog200/index.rst:567
 msgid "|image39|"
 msgstr "|image39|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:770
+#: ../../source/site/forusers/visualchangelog200/index.rst:772
 msgid "image39"
 msgstr "image39"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:568
+#: ../../source/site/forusers/visualchangelog200/index.rst:570
 msgid "Feature: Improved symbol layer management"
 msgstr "Funcționalitate: Management îmbunătățit pentru straturile simbolurilor"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:570
+#: ../../source/site/forusers/visualchangelog200/index.rst:572
 msgid ""
 "The new symbol layer overview uses a clear, tree-structured layout which "
 "allows for easy and fast access to all symbol layers."
 msgstr "Noul aspect al straturilor din care este compus un simbol este mai clar, fiind structurat sub forma unui arbore, permițând accesul ușor și rapid la straturi."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:573
+#: ../../source/site/forusers/visualchangelog200/index.rst:575
 msgid "|image40|"
 msgstr "|image40|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:771
+#: ../../source/site/forusers/visualchangelog200/index.rst:773
 msgid "image40"
 msgstr "image40"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:576
+#: ../../source/site/forusers/visualchangelog200/index.rst:578
 msgid "Feature: Support for transparency in colour definitions"
 msgstr "Funcționalitate: Suport pentru transparență, în cadrul definițiilor de culoare"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:578
+#: ../../source/site/forusers/visualchangelog200/index.rst:580
 msgid ""
 "In most places where you select colours, QGIS now allows you to specify the "
 "alpha channel (which determins how transparent the colour should be). This "
@@ -1089,19 +1096,19 @@ msgid ""
 "don't want users to see."
 msgstr "În cele mai multe locuri în care selectați culorile, QGIS vă permite acum să specificați canalul alfa (care determină gradul de transparență al unei culori). Acest lucru vă permite să creați hărți cu aspect deosebit și să ascundeți cu ușurință datele pe care nu doriți să le vadă utilizatorii."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:583
+#: ../../source/site/forusers/visualchangelog200/index.rst:585
 msgid "|image41|"
 msgstr "|image41|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:772
+#: ../../source/site/forusers/visualchangelog200/index.rst:774
 msgid "image41"
 msgstr "image41"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:586
+#: ../../source/site/forusers/visualchangelog200/index.rst:588
 msgid "Feature: Color Control for Raster Layers"
 msgstr "Funcționalitate: Controlul culorii, în cazul straturilor raster"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:588
+#: ../../source/site/forusers/visualchangelog200/index.rst:590
 msgid ""
 "QGIS 2.0 allows you to precisely control exactly how you'd like raster "
 "layers to appear. You now have complete control over the brightness, "
@@ -1109,19 +1116,19 @@ msgid ""
 "display of rasters in grayscale or by colorising with a specified color."
 msgstr "QGIS 2.0 vă permite să controlați cu precizie modul în care doriți să arate straturile raster. Acum aveți control complet asupra luminozității, contrastuliu și saturației straturilor raster. Există chiar și opțiuni pentru afișarea rasterelor în tonuri de gri sau pentru colorarea cu nuanța specificată."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:593
+#: ../../source/site/forusers/visualchangelog200/index.rst:595
 msgid "|image42|"
 msgstr "|image42|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:773
+#: ../../source/site/forusers/visualchangelog200/index.rst:775
 msgid "image42"
 msgstr "image42"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:596
+#: ../../source/site/forusers/visualchangelog200/index.rst:598
 msgid "Feature: Copy symbology between layers"
 msgstr "Funcționalitate: Copiere simbologie între straturi"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:598
+#: ../../source/site/forusers/visualchangelog200/index.rst:600
 msgid ""
 "Its now super easy to copy symbology from one layer to another layer. If you"
 " are working with several similar layer, you can simply ``right-click`` on "
@@ -1129,38 +1136,38 @@ msgid ""
 "click`` on another layer and choose ``Paste-Style``."
 msgstr "Acum este foarte ușor de copiat simbologia dintr-un strat în altul. Dacă lucrați cu mai multe straturi similare, puteți efectua, pur și simplu, ``clic-dreapta`` pe un strat, să alegeți ``Copiere Stil`` din meniul contextual și apoi să efectuați ``clic-dreapta`` pe un alt strat, urmând să alegeți ``Lipire-Stil``."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:604
+#: ../../source/site/forusers/visualchangelog200/index.rst:606
 msgid "|image43|"
 msgstr "|image43|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:774
+#: ../../source/site/forusers/visualchangelog200/index.rst:776
 msgid "image43"
 msgstr "image43"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:607
+#: ../../source/site/forusers/visualchangelog200/index.rst:609
 msgid "Feature: Save styles in your database"
 msgstr "Funcționalitate: Salvarea stilurilor în baza de date"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:609
+#: ../../source/site/forusers/visualchangelog200/index.rst:611
 msgid ""
 "If you are using a database vector data store, you can now store the layer "
 "style definitions directly in the database. This makes it easy to share "
 "styled layers in an enterprise or multi-user environment."
 msgstr "Dacă utilizați o bază de date pentru stocarea datelor vectoriale, puteți stoca acum definițiile pentru stilurile straturilor direct în baza de date. Acest lucru ușurează partajarea stilurilor pentru straturi, într-un mediu multi-utilizator, sau într-o întreprindere."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:613
+#: ../../source/site/forusers/visualchangelog200/index.rst:615
 msgid "|image44|"
 msgstr "|image44|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:775
+#: ../../source/site/forusers/visualchangelog200/index.rst:777
 msgid "image44"
 msgstr "image44"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:616
+#: ../../source/site/forusers/visualchangelog200/index.rst:618
 msgid "Feature: Colour ramp support"
 msgstr "Funcționalitate: Suport pentru gamele de culori"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:618
+#: ../../source/site/forusers/visualchangelog200/index.rst:620
 msgid ""
 "Colour ramps are now available in many places in QGIS symbology settings and"
 " QGIS ships with a rich, extensible set of colour ramps. You can also design"
@@ -1169,19 +1176,19 @@ msgid ""
 " have full support for transparency!"
 msgstr "Gamele de culori sunt acum disponibile în multe din setările simbologiei QGIS, aplicația fiind livrată cu un set de game bogat și extensibil. Aveți posibilitatea să vă proiectați, de asemenea, propria temă, multe altele `cpt-city <http://soliton.vm.bytemark.co.uk/pub/cpt-city/>`__ fiind incluse în QGIS acum 'din start'. Chiar și gamele de culori au suport complet pentru transparență!"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:625
+#: ../../source/site/forusers/visualchangelog200/index.rst:627
 msgid "|image45|"
 msgstr "|image45|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:776
+#: ../../source/site/forusers/visualchangelog200/index.rst:778
 msgid "image45"
 msgstr "image45"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:628
+#: ../../source/site/forusers/visualchangelog200/index.rst:630
 msgid "Feature: Set custom default styles for all layer types"
 msgstr "Funcționalitate: Setarea stilurilor implicite, personalizate, pentru toate tipurile de straturi"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:630
+#: ../../source/site/forusers/visualchangelog200/index.rst:632
 msgid ""
 "Now QGIS lets you control how new layers will be drawn when they do not have"
 " an existing ``.qml`` style defined. You can also set the default "
@@ -1189,61 +1196,61 @@ msgid ""
 "colours assigned to them."
 msgstr "De acum, QGIS vă permite să controlați modul în care vor fi desenate noile straturi, atunci când acestea nu au deja un stil ``.qml`` definit. Puteți hotărî, de asemenea, nivelul de transparență implicit pentru noile straturi și dacă simbolurile ar trebui să aibă asignate culori aleatorii."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:635
+#: ../../source/site/forusers/visualchangelog200/index.rst:637
 msgid "|image46|"
 msgstr "|image46|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:777
+#: ../../source/site/forusers/visualchangelog200/index.rst:779
 msgid "image46"
 msgstr "image46"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:638
+#: ../../source/site/forusers/visualchangelog200/index.rst:640
 msgid "User Interface"
 msgstr "Interfața cu Utilizatorul"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:641
+#: ../../source/site/forusers/visualchangelog200/index.rst:643
 msgid "Feature: New icon theme"
 msgstr "Funcționalitate: O nouă temă pentru pictograme"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:643
+#: ../../source/site/forusers/visualchangelog200/index.rst:645
 msgid ""
 "We have updated out icon theme to use the 'GIS' theme which introduces an "
 "improved level of consistency and professionalism to the QGIS user "
 "interface."
 msgstr "S-a utilizat tema 'GIS' pentru pictograme, acest lucru introducând un nivel îmbunătățit de consistență și profesionalism în interfața cu utilizatorul."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:647
+#: ../../source/site/forusers/visualchangelog200/index.rst:649
 msgid "|image47|"
 msgstr "|image47|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:778
+#: ../../source/site/forusers/visualchangelog200/index.rst:780
 msgid "image47"
 msgstr "image47"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:650
+#: ../../source/site/forusers/visualchangelog200/index.rst:652
 msgid "Feature: Side tabs, collapsable groups"
 msgstr "Funcționalitate: File laterale, grupuri retractabile"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:652
+#: ../../source/site/forusers/visualchangelog200/index.rst:654
 msgid ""
 "We have standardised the layout of tabs and introduced collapsible group "
 "boxes into many of our dialogs to make navigating the various options more "
 "easy, and to make better use of screen real estate."
 msgstr "S-a standardizat aspectul filelor și s-au introdus grupurile de casete expandabile în multe dintre ferestrele de dialog, pentru a face mai ușoară setarea diferitelor opțiuni și pentru a utiliza mai bine ecranul."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:656
+#: ../../source/site/forusers/visualchangelog200/index.rst:658
 msgid "|image48|"
 msgstr "|image48|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:779
+#: ../../source/site/forusers/visualchangelog200/index.rst:781
 msgid "image48"
 msgstr "image48"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:659
+#: ../../source/site/forusers/visualchangelog200/index.rst:661
 msgid "Feature: Soft notifications"
 msgstr "Funcționalitate: Notificări discrete"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:661
+#: ../../source/site/forusers/visualchangelog200/index.rst:663
 msgid ""
 "In many cases we want to tell you something, but we don't want to stop your "
 "work or get in your way. With the new notification system QGIS can let you "
@@ -1253,19 +1260,19 @@ msgid ""
 "from a plugin) too using our python API."
 msgstr "În multe cazuri, vrem să vă prezentăm o informație, dar fără a vă întrerupe munca. Cu noul sistem de notificare al QGIS, puteți afla informațiile importante prin intermediul unei bare de mesaje galbene, care apare în partea de sus a suportului hărții, dar nu este nevoie să vă ocupați de ea, când aveți altceva de făcut. Programatorii pot crea acest gen de notificări (de exemplu, pentru un plug-in) folosind API-ul nostru pentru Python."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:668
+#: ../../source/site/forusers/visualchangelog200/index.rst:670
 msgid "|image49|"
 msgstr "|image49|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:780
+#: ../../source/site/forusers/visualchangelog200/index.rst:782
 msgid "image49"
 msgstr "image49"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:671
+#: ../../source/site/forusers/visualchangelog200/index.rst:673
 msgid "Feature: Application custom font and Qt stylesheet"
 msgstr "Funcționalitate: Font personalizat pentru aplicație și foaie de stil Qt: "
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:673
+#: ../../source/site/forusers/visualchangelog200/index.rst:675
 msgid ""
 "The system font used for the application's user interface can now be set. "
 "Any C++ or Python plugin that is a child of the QGIS GUI application or has "
@@ -1274,25 +1281,25 @@ msgid ""
 " widgets, like ``QgsCollapsibleGroupBox``."
 msgstr "De acum, se poate folosi fontul sistemului pentru interfața aplicației cu utilizatorul. Orice plugin C++ sau Python, care este subordonat interfeței aplicației QGIS, sau care a copiat/aplicat interfața aplicației, îi poate moșteni stilul, lucru util pentru remedieri de interfață pe diverse platforme, și atunci când se utilizează widget-uri Qt personalizate, cum ar fi ``QgsCollapsibleGroupBox``."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:679
+#: ../../source/site/forusers/visualchangelog200/index.rst:681
 msgid ""
 "The generated QGIS GUI application stylesheet for the current platform can "
 "be accessed after launching with (in PyQGIS):"
 msgstr "Foaia de stil a interfeței aplicației, generată pentru platforma curentă, poate fi accesată după lansare (în PyQGIS):"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:686
+#: ../../source/site/forusers/visualchangelog200/index.rst:688
 msgid "|image50|"
 msgstr "|image50|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:781
+#: ../../source/site/forusers/visualchangelog200/index.rst:783
 msgid "image50"
 msgstr "image50"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:689
+#: ../../source/site/forusers/visualchangelog200/index.rst:691
 msgid "Feature: Live color chooser dialogs and buttons"
 msgstr "Funcționalitate: Butoane și ferestre de alegere live a culorii"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:691
+#: ../../source/site/forusers/visualchangelog200/index.rst:693
 msgid ""
 "Every color chooser button throughout the interface has been updated to give"
 " visual feedback on whether the current color has a transparent, or 'alpha,'"
@@ -1303,37 +1310,37 @@ msgid ""
 "the color button and for any item currently being edited, where applicable."
 msgstr "Fiecare buton de selectare a culorii, din interfață, a fost actualizat pentru a oferi un răspuns vizual, în funcție de componenta 'alpha', cunoscută și sub numele de transparență, a culorii curente. Selectorul de culoare, deschis prin noile butoanele colorate, va fi de acum implicit pentru sistemul de operare. În cazul în care utilizatorul are bifată opțiunea de ``Folosire a dialogurilor de selectare live a culorii`` în ``Opțiuni -> General -> Aplicație``, orice schimbare în selectorul de culoare va fi afișată imediat în butonul de culoare și în orice element editat în mod curent, acolo unde este posibil."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:700
+#: ../../source/site/forusers/visualchangelog200/index.rst:702
 msgid "|image51|"
 msgstr "|image51|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:782
+#: ../../source/site/forusers/visualchangelog200/index.rst:784
 msgid "image51"
 msgstr "image51"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:703
+#: ../../source/site/forusers/visualchangelog200/index.rst:705
 msgid "Feature: SVG Annotations"
 msgstr "Funcționalitate: Adnotări SVG"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:705
+#: ../../source/site/forusers/visualchangelog200/index.rst:707
 msgid ""
 "With QGIS 2.0 you can now add SVG annotations to your map - either pinned to"
 " a specific place or in a relative position over the map canvas."
 msgstr "De acum, în QGIS 2.0 puteți adăuga adnotări SVG la harta dvs. - fie poziționându-le într-un loc specific, fie într-o poziție relativă pe suportul hărții."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:709
+#: ../../source/site/forusers/visualchangelog200/index.rst:711
 msgid "|image52|"
 msgstr "|image52|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:783
+#: ../../source/site/forusers/visualchangelog200/index.rst:785
 msgid "image52"
 msgstr "image52"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:712
+#: ../../source/site/forusers/visualchangelog200/index.rst:714
 msgid "Feature: Drag and drop form builder"
 msgstr "Funcționalitate: Drag and drop în constructorul de formulare"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:714
+#: ../../source/site/forusers/visualchangelog200/index.rst:716
 msgid ""
 "QGIS 2.0 supports a great new system for creating data entry forms. With the"
 " drag and drop form designer you can create smart looking forms with tabs to"
@@ -1341,19 +1348,19 @@ msgid ""
 "entry experience for your users."
 msgstr "QGIS 2.0 etalează un nou sistem, deosebit, pentru crearea formularelor de introducere a datelor. Cu ajutorul designer-ului drag and drop, puteți crea formulare care arată elegant, având file dedicate grupării câmpurilor comune. De acum, introducerea datelor este mult mai ușor de controlat."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:719
+#: ../../source/site/forusers/visualchangelog200/index.rst:721
 msgid "|image53|"
 msgstr "|image53|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:784
+#: ../../source/site/forusers/visualchangelog200/index.rst:786
 msgid "image53"
 msgstr "image53"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:722
+#: ../../source/site/forusers/visualchangelog200/index.rst:724
 msgid "Feature: Default action tool"
 msgstr "Funcționalitate: Instrument de acțiuni implicite"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:724
+#: ../../source/site/forusers/visualchangelog200/index.rst:726
 msgid ""
 "If you are a user of vector layer actions (small tasks that can run when you"
 " click on a feature), you will love the new action tool on the toolbar. With"
@@ -1361,17 +1368,17 @@ msgid ""
 "invoke that action."
 msgstr "Dacă folosiți acțiuni în straturile vectoriale (sarcini mici, care pot rula atunci când faceți clic pe o entitate), vă va plăcea noul instrument pentru acțiuni, din bara de instrumente. Cu aceasta puteți selecta o acțiune activă, după care să faceți clic pe entități pentru invocarea acțiunii."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:729
+#: ../../source/site/forusers/visualchangelog200/index.rst:731
 msgid "|image54|"
 msgstr "|image54|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:785
+#: ../../source/site/forusers/visualchangelog200/index.rst:787
 msgid "image54"
 msgstr "image54"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:731
+#: ../../source/site/forusers/visualchangelog200/index.rst:733
 msgid "image0"
-msgstr ""
+msgstr "image0"
 
 #: ../../<rst_epilog>:2
 msgid "checkbox"
@@ -1380,20 +1387,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "checkbox_unchecked"
-
-#~ msgid "|image0|"
-#~ msgstr ""
-
-#~ msgid "Changelog for QGIS 2.0.0"
-#~ msgstr ""
-
-#~ msgid ""
-#~ msgstr ""
-
-#~ msgid ""
-#~ "As this is a major release, it is not completely API compatible with "
-#~ "previous 1.x releases. In most cases porting your code should be fairly "
-#~ "straightforward - you can use `this guide <http://hub.qgis.org/wiki/quantum-"
-#~ "gis/Python_plugin_API_changes_from_18_to_20>`__ to get started. Please use "
-#~ "the developer mailing list if you need further help."
-#~ msgstr ""

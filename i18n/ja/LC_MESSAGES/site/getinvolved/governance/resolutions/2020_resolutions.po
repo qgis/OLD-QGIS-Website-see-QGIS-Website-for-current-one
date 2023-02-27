@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020, QGIS Contributors
+# Copyright (C) 2023, QGIS Contributors
 # This file is distributed under the same license as the QGIS package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 # 
 # Translators:
 # tomoyuki arai <tarai.3367@gmail.com>, 2022
@@ -10,16 +10,16 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: QGIS 3.12\n"
+"Project-Id-Version: QGIS 3.28\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2020-03-13 10:08+0000\n"
 "Last-Translator: fairtommy <fairtommy@gmail.com>, 2022\n"
 "Language-Team: Japanese (https://www.transifex.com/qgis/teams/6144/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -383,23 +383,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "checkbox_unchecked"
-
-#~ msgid ""
-#~ "**Rationale**: Documenting new features is difficult, and documentation lags"
-#~ " behind code. Proposal: Mandate that all new features are accompanied by "
-#~ "documentation (which should be in a well described, parsable section of the "
-#~ "PR description)."
-#~ msgstr ""
-#~ "**根拠** "
-#~ "：新機能のドキュメント作成は困難であり、ドキュメント作成はコードより遅れています。提案：すべての新機能にドキュメントを添付することを義務付けます（ドキュメントは、PRの説明のわかりやすく説明されたセクションにあるべきです）。"
-
-#~ msgid "**Proposal**: Marco Bernasocchi"
-#~ msgstr ""
-
-#~ msgid "**Proposal**: Paolo Cavallini"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "**Proposal**: Anita Graser https://lists.osgeo.org/pipermail/qgis-"
-#~ "psc/2020-April/008639.html"
-#~ msgstr ""

@@ -1,25 +1,25 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2019, QGIS Contributors
+# Copyright (C) 2023, QGIS Contributors
 # This file is distributed under the same license as the QGIS package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 # 
 # Translators:
-# Imron Fauzi <imronfauzi@gmail.com>, 2020
+# imron fauzi <imronfauzi@gmail.com>, 2020
 # Ali Mustopa <ali.m@amikom.ac.id>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: QGIS 3.8\n"
+"Project-Id-Version: QGIS 3.28\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2019-09-05 17:56+0000\n"
 "Last-Translator: Ali Mustopa <ali.m@amikom.ac.id>, 2022\n"
 "Language-Team: Indonesian (https://www.transifex.com/qgis/teams/6144/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: id\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -167,49 +167,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "cekbox_tidakterpilih"
-
-#~ msgid "Go to the QGIS repository in Github at https://github.com/qgis/QGIS/"
-#~ msgstr ""
-
-#~ msgid "QGIS has a lot to offer for python developers too."
-#~ msgstr ""
-#~ "QGIS memiliki banyak hal yang ditawarkan untuk pengembang python juga."
-
-#~ msgid "QGIS has python bindings so you can automate tasks in QGIS via python."
-#~ msgstr ""
-#~ "QGIS memiliki binding python sehingga Anda dapat mengotomatisasi tugas-tugas"
-#~ " di QGIS lewat python."
-
-#~ msgid ""
-#~ "Interested in python plugin development, easiest way to start is using the "
-#~ "Plugin Builder plugin in QGIS. Search for ``Plugin Builder`` in the plugin "
-#~ "manager of QGIS, or read up here: "
-#~ "https://plugins.qgis.org/plugins/pluginbuilder/"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "You can also have a look into the **Python Cookbook** in our Documentation "
-#~ "site: https://docs.qgis.org."
-#~ msgstr ""
-
-#~ msgid "Looking for examples of python plugins, see http://plugins.qgis.org"
-#~ msgstr "Mencari contoh plugin python, lihat http://plugins.qgis.org"
-
-#~ msgid "You can find the QGIS-iface which you can use via python here:"
-#~ msgstr ""
-#~ "Anda dapat menemukan QGIS-iface dimana Anda dapat menggunakan lewat Python "
-#~ "disini:"
-
-#~ msgid "https://qgis.org/api/classQgisInterface.html (for QGIS testing)"
-#~ msgstr ""
-
-#~ msgid "https://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)"
-#~ msgstr ""
-
-#~ msgid "https://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Read the https://github.com/qgis/QGIS/blob/master/INSTALL about setting up "
-#~ "the installation environment and make a compilation with ccache enabled."
-#~ msgstr ""

@@ -1,9 +1,9 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018, QGIS Contributors
+# Copyright (C) 2023, QGIS Contributors
 # This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
-# Eric Armijo, 2016
+# Eric Armijo, 2016,2023
 # Fran Raga <FRANKA1986@gmail.com>, 2017
 # Minerva Durán Martínez <mine_tod@yahoo.com.mx>, 2016
 # Eric Armijo, 2016,2021
@@ -14,14 +14,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2016-03-05 14:48+0000\n"
-"Last-Translator: Eric Armijo, 2016,2021\n"
+"Last-Translator: Eric Armijo, 2016,2023\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: es\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
@@ -133,7 +133,7 @@ msgid ""
 "plugins might also cause problems.  If you have installed any, you should "
 "also verify that the problem is still reproducible without them.  Please "
 "don't report multiple unrelated bugs in a single bug report."
-msgstr ""
+msgstr "Antes de presentar una incidencia, compruebe que está ejecutando las versiones actualmente soportadas |ltrrelease| o |release| o la versión de desarrollo |devversion| (consulte también :ref:`QGIS-release-schedule`) y revise las incidencias actualmente abiertas para asegurarse de que no está creando un duplicado. Si dispone de información adicional sobre una incidencia, puede añadirla al ticket existente. Los plugins de terceros también pueden causar problemas. Si ha instalado alguno, compruebe también que el problema puede reproducirse sin ellos. Por favor, no informes de varios errores no relacionados en un único informe de error."
 
 #: ../../source/site/getinvolved/development/bugreporting.rst:55
 msgid ""
@@ -331,12 +331,12 @@ msgstr "https://github.com/qgis/QGIS-Documentation para la documentación dispon
 #: ../../source/site/getinvolved/development/bugreporting.rst:178
 msgid ""
 "You can find a few guidelines that will help you to easily get your patches "
-"and pull requests into QGIS projects at `submit_patch "
+"and pull requests into QGIS projects at `Submitting Pull Requests "
 "<https://docs.qgis.org/testing/en/docs/developers_guide/git.html#submitting-"
-"patches-and-pull-requests>`_. And more widely, You may need to read "
-"`git_access "
-"<https://docs.qgis.org/testing/en/docs/developers_guide/git.html>`_."
-msgstr "Puede encontrar algunas pautas que lo ayudarán a obtener fácilmente sus parches y enviar solicitudes a proyectos QGIS en `submit_patch <https://docs.qgis.org/testing/en/docs/developers_guide/git.html#submitting-patches-and-pull-requests>`_. Y más ampliamente, es posible que deba leer `git_access <https://docs.qgis.org/testing/en/docs/developers_guide/git.html>`_."
+"pull-requests>`_. And more widely, You may need to read the `Development "
+"Process <https://docs.qgis.org/testing/en/docs/developers_guide/git.html>`_ "
+"chapter."
+msgstr ""
 
 #: ../../<rst_epilog>:2
 msgid "checkbox"
@@ -345,169 +345,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "checkbox_unchecked"
-
-#~ msgid ""
-#~ "Each part of the QGIS Project has a dedicated place where issues (feature "
-#~ "requests or bugs) can be reported, managed and discussed. You'll find issues"
-#~ " related to:"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "QGIS applications (QGIS Desktop, QGIS Browser or QGIS Server) at "
-#~ "https://issues.qgis.org/projects/qgis/issues"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "the `web site <https://qgis.org>`__ at https://github.com/qgis/QGIS-"
-#~ "Website/issues"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "and the `documentation <http://docs.qgis.org>`__ at "
-#~ "https://github.com/qgis/QGIS-Documentation/issues."
-#~ msgstr ""
-
-#~ msgid "For questions, please contact the :ref:`QGIS-mailinglists`."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "QGIS applications (QGIS Desktop, QGIS Browser and QGIS Server) issues are "
-#~ "available in `Redmine <https://issues.qgis.org/projects/qgis/issues>`_. In "
-#~ "order to submit or comment a report, you need to register (top right of each"
-#~ " page) and login. You can also use your OSGeo ID or request on at `Create an"
-#~ " OSGeo account <https://www.osgeo.org/cgi-bin/ldap_create_user.py>`_, which "
-#~ "might require some time until it's approved."
-#~ msgstr ""
-
-#~ msgid "Plugin bugs"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Most of the plugins in QGIS are published in the official `QGIS Plugins "
-#~ "repository <http://plugins.qgis.org/plugins/>`_. Bugs or feature requests "
-#~ "relative to them **must** be opened in their respective bug tracking system."
-#~ " For any plugin available in QGIS repository, you'll find in its metadata a "
-#~ "link to its bug tracker. Otherwise, consult the plugin documentation to find"
-#~ " the address of the relevant bug tracking system or a developer to contact."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "If no information is available, please report it to the `Developer mailing-"
-#~ "list <http://lists.osgeo.org/mailman/listinfo/qgis-developer>`_."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "QGIS project provides an active `web site <https://qgis.org>`_ and a rich "
-#~ "`documentation <https://qgis.org/en/docs/index.html>`_. Despite our efforts,"
-#~ " if you find an out of date information, a wrong or unclear statement or "
-#~ "miss a valuable information, please feel free to report it."
-#~ msgstr ""
-
-#~ msgid "Submitting a Patch"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "https://github.com/qgis/QGIS for QGIS Desktop, Browser or Server "
-#~ "applications"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "https://github.com/qgis/QGIS-Website for the web site at https://qgis.org"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "https://github.com/qgis/QGIS-Documentation for the documentation available "
-#~ "at http://docs.qgis.org"
-#~ msgstr ""
-
-#~ msgid "https://issues.qgis.org/projects/qgis/issues"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "QGIS applications (QGIS Desktop and QGIS Server) issues are available in "
-#~ "`Redmine <https://issues.qgis.org/projects/qgis/issues>`_. In order to "
-#~ "submit or comment a report, you need to register (top right of each page) "
-#~ "and login. You can also use your OSGeo ID or request on at `Create an OSGeo "
-#~ "account <https://www.osgeo.org/cgi-bin/ldap_create_user.py>`_, which might "
-#~ "require some time until it's approved."
-#~ msgstr ""
-
-#~ msgid "Steps to create a report"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Once your account is validated and you are logged in, a ``New Issue`` tab is"
-#~ " available in the menu bar. Select it ."
-#~ msgstr ""
-
-#~ msgid "Important information needed when opening a ticket:"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "**Tracker** - choose the ticket type from the drop-down list: Bug, Feature "
-#~ "(new feature request)"
-#~ msgstr ""
-
-#~ msgid "**Subject** - a short description of the issue"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "**Description** - Provide a full description of the problem including steps "
-#~ "to repeat it; if you think the bug could be related to a certain platform "
-#~ "version or dependencies package version (GDAL, OGR, GEOS etc) include that "
-#~ "as well. If your QGIS crashes it might be useful to include a backtrace (see"
-#~ " below). A very important thing when reporting a bug is to boil down a "
-#~ "minimum example that is needed to reproduce the bug. The chances of a bug "
-#~ "being addressed in a timely manner is directly related to the speed with "
-#~ "which the developer can reproduce the bug. If you make that hard for the "
-#~ "developer, chances are the bug will be given up on or ignored for quite a "
-#~ "while."
-#~ msgstr ""
-
-#~ msgid "**Priority** - provide an estimate of the severity of the problem:"
-#~ msgstr ""
-
-#~ msgid "*Low*: a problem which doesn't affect QGIS usefulness,"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "*Normal*: the default value, applicable to most bugs and nearly all feature "
-#~ "requests,"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "*High*: a bug which has a major effect on the usability of a package or a "
-#~ "bug that makes QGIS totally unusable. In the form you will find also yes/no "
-#~ "fields to allow you detail of the issue is causing a crash or data "
-#~ "corruption or if it is a regression (a regression is an issue about a "
-#~ "functionality that used to work as expected and then stopped to work in more"
-#~ " recent QGIS release)"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "**Category** - Choose the aspect of the application that is most closely "
-#~ "associated with the problem"
-#~ msgstr ""
-
-#~ msgid "**Affected QGIS Version** - Version of QGIS this issue affects"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "**Operating System** - The Operating System(s) you are using (and also their"
-#~ " version), i.e: Windows 7, macOS 10.12.4, Ubuntu 16.04"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "You can find a few guidelines that will help you to easily get your patches "
-#~ "and pull requests into QGIS projects at :ref:`submit_patch`. And more "
-#~ "widely, You may need to read :ref:`git_access`."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Before filing an issue, review the currently open issues to make sure that "
-#~ "you aren't creating a duplicate. If you have additional information on an "
-#~ "issue, you can add it to the existing ticket. Third party plugins might also"
-#~ " cause problems. If you have installed any, you should also verify that the "
-#~ "problem is still reproducible without them. Please don't report multiple "
-#~ "unrelated bugs in a single bug report."
-#~ msgstr ""

@@ -1,26 +1,27 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018, QGIS Contributors
+# Copyright (C) 2023, QGIS Contributors
 # This file is distributed under the same license as the QGIS package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 # 
 # Translators:
 # Benoît de Cabissole, 2018
 # Harrissou Sant-anna, 2022
 # MarieSilvestre, 2022
+# Mehdi SEMCHAOUI, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: QGIS 3.2\n"
+"Project-Id-Version: QGIS 3.28\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2023-02-26 19:38+0000\n"
 "PO-Revision-Date: 2018-05-20 14:26+0000\n"
-"Last-Translator: MarieSilvestre, 2022\n"
+"Last-Translator: Mehdi SEMCHAOUI, 2022\n"
 "Language-Team: French (https://www.transifex.com/qgis/teams/6144/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.8.0\n"
 "Language: fr\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
@@ -220,7 +221,7 @@ msgstr ""
 "soit-disant contextes de travail."
 
 msgid "Workorder"
-msgstr ""
+msgstr "Demande de service"
 
 #: ../../source/site/about/case_studies/poland_ffth.rst:86
 msgid ""
@@ -280,7 +281,7 @@ msgstr ""
 "nécessaires aux étapes suivantes de l'algorithme."
 
 msgid "Step 1: input layer"
-msgstr ""
+msgstr "Etape 1: couche en entrée"
 
 #: ../../source/site/about/case_studies/poland_ffth.rst:113
 msgid ""
@@ -297,7 +298,7 @@ msgstr ""
 "distincte indiquant leur attribution à un groupement particulier."
 
 msgid "Step 1"
-msgstr ""
+msgstr "Etape 1"
 
 #: ../../source/site/about/case_studies/poland_ffth.rst:126
 msgid ""
@@ -311,7 +312,7 @@ msgstr ""
 "pour le réseau GPON."
 
 msgid "step 1: result"
-msgstr ""
+msgstr "Etape 1: résultat"
 
 #: ../../source/site/about/case_studies/poland_ffth.rst:135
 msgid ""
@@ -328,7 +329,7 @@ msgstr ""
 "nœuds."
 
 msgid "step 4: results"
-msgstr ""
+msgstr "Etape 4: résultats"
 
 #: ../../source/site/about/case_studies/poland_ffth.rst:145
 msgid ""
@@ -343,10 +344,10 @@ msgstr ""
 "les données calculées à partir de perspectives différentes."
 
 msgid "Report generated"
-msgstr ""
+msgstr "Rapport généré"
 
 msgid "Report generated and tranformed"
-msgstr ""
+msgstr "Rapport généré et transformé"
 
 #: ../../source/site/about/case_studies/poland_ffth.rst:162
 msgid "Conclusion"
@@ -498,4 +499,4 @@ msgstr "checkbox"
 
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
-msgstr ""
+msgstr "case décochée"
