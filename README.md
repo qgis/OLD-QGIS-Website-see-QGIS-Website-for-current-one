@@ -124,69 +124,47 @@ Copy this file to the root of your repo. With me, that is /home/richard/dev/QGIS
 
 Besides this, you can also have a look into the scripts docker-run.sh and docker-world.sh which are used on our own webservers.
 
+
+
+
 ## Building the website using Make
 
-Building is only tested on Linux systems using make, on windows we now started a Paver setup (see below)
+1. If not provided by your OS, you need to install:
 
-To be able to run localisation targets you will need Sphinx 1.2 which comes with pip.
-Sphinx coming with most distro's is just 1.1.3. You will get a gettext error with those.
+   - [git](https://git-scm.com/download/)
+   - and [Python3](https://www.python.org/downloads/)
 
-Best to run the make file in a virtual env ( http://www.virtualenv.org/ ):
+   You can install both in default places and with default options.
+1. [Clone the repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+1. Go into that directory and follow the next instructions depending on your OS.
 
-Move to a directory (~/myvirtualenvs/) and create a virtualenv enabled dir:
+The best way to build the website is within a Python Virtual Environment (venv).
 
-    virtualenv sphinx  # one time action, only to create the environment
-    cd sphinx
+### Build on macOS or Linux
 
-And activate this virtualenv
+You can create your own virtual env:
 
-    source bin/activate
-    # now you will see sphinx before your prompt:
-    (sphinx)richard@mymachine
+```
+# you NEED python >3.6. Depending on distro either use `python3` or `python`
+# common name is 'venv' but call it whatever you like
 
-Now always activate your environment before building. To deactivate, you can do:
+python3 -m venv venv  # using the venv module, create a venv named 'venv'
+```
 
-    deactivate
+Then activate the venv:
 
-You can install all tools in one go via the REQUIREMENTS.txt here at the root of this repo:
+```
+source ./venv/bin/activate
+```
 
-    pip install -r REQUIREMENTS.txt
+With 'activated' virtual environment, you should see 'venv' in the prompt.
+Install the requirements via the REQUIREMENTS.txt:
 
-Alternatively, do it one by one:
+```
+pip install -r REQUIREMENTS.txt
+```
 
-Install sphinx 1.2 now in your virtual env:
-
-    pip install sphinx==1.2
-
-Sphinx-intl extension ( https://pypi.python.org/pypi/sphinx-intl ):
-
-    pip install sphinx-intl
-
-Then build:
-
-    make html (to build the english language)
-    make LANG=nl html (to build the dutch version)
-
-If you want add the QGIS-Documentation docs into the build, you either need to manually copy the sources, resources
-and po files into the website project. Or use the fullhtml target of make (which will checkout the 2.0 branch):
-
-    # to build english:
-    make fullhtml
-    # to build eg dutch:
-    make LANG=nl fullhtml
-
-To gather new strings in a pot (.po) file for your language, and merge them with
-excisting translations in the po files (normally to be ran by your language maintainer):
-
-    make pretranslate LANG=xx  # where xx is your language code
-
-To add a new language (the scripts will need some directory structure):
-
-    make createlang LANG=xx
-
-See the website in action: http://www.qgis.org
-
-
+And run the build from within that venv:
 ## Building the website using Paver
 
 Paver is a python based Make-like tool (http://paver.github.io/paver/)
@@ -195,6 +173,9 @@ Paver can be used on Linux and Windows (somebody can test on OSX?)
 
 There are two scripts available:
 
+```
+make html
+```
 - bootstrap.py (for setting up the python related stuff)
 - pavement.py (the config file for Paver)
 
@@ -208,12 +189,16 @@ General use:
     # and install that first:
     python ez_setup.py
 
+Want to build your own language? Note that you will use the translations from the .po files from git! For example for 'nl' do:
     # after succesfull running of bootstrap.py you have all wheels on place, the script has created a virtual
     environment (called "virtualenv") with all Sphinx related python machinery. Now, each time you want to build,
     you just need to:
     # 1) activate a virtual environment with all Sphinx related python machinery
     # 2) run the actual script to build the website
 
+```
+make LANG=nl html
+```
     # to go into the virtual environment:
     # on Windows:
     virtualenv\Scripts\activate
@@ -227,35 +212,59 @@ General use:
 To be able to build localized versions of the Website with paver the
 'Transifex-client (tx)' is needed.
 
+### Build on Windows
 On linux, install with::
 
+Create a virtual environment called 'venv' in that directory (search the Internet for Python Virtual
+Env on Windows for more details), but in short: use the module 'venv' to create a virtual environment called 'venv'
 	# note that we use a slightly older version of tx
 	pip install transifex-client==0.9
 
+```
+# in dos box:
+python -m venv venv
+```
 On Windows, you should download it from: http://files.transifex.com/transifex-client/0.10/tx.exe
 see http://support.transifex.com/customer/portal/articles/998120-client-on-windows
 
+Then activate the venv:
 To make tx.exe usable in the paver script, either put it IN this directory next to the pavement.py file, OR add it to your PATH
 
 IMPORTANT: to be able to pull from transifex.com, you will need a credentials file.
 This file should be named: ``.transifexrc`` and easiest is to put it in your home dir C:/users/you.
 Another option is to put it in the root of this project, but be carefull to not put your credentials in Github :-)
+```
+venv\Scripts\activate.bat
+```
 
+With 'activated' virtualenv, you should see 'venv' in the prompt. Install the requirements via the REQUIREMENTS.txt:
 The file should contain this::
 
+```
+pip install -r REQUIREMENTS.txt
+```
 	[https://www.transifex.com]
 	hostname = https://www.transifex.com
 	password = yourtransifexpassword
 	token =
 	username = yourtransifexusername
 
+And run the build from within that venv, using the make.bat script with the html argument to locally build the docs:
 With a working tx and a .transifexrc, you should be able to build for example the german version of docs via::
 
+```
+make.bat html
+```
     # german:
     paver html -l de
 
+Want to build your own language? Note that you will use the translations from the po files from git! For example 'nl' do:
 During the build you will see this command::
 
+```
+set SPHINXOPTS=-D language=nl
+make.bat html
+```
 	tx pull --minimum-perc=1 --skip -f -l de
 
 This will pull all german po files from transifex (based on the .tx/config file in the root of this project)
