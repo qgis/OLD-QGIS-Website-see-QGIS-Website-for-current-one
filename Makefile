@@ -33,7 +33,6 @@ help:
 	@echo "  "
 	@echo "Please use \`make <target> LANG=xx' where xx=language code and <target> is one of:"
 	@echo "  html         to build the website as html for enlish only"
-	@echo "  fullhtml     to pull QGIS-Documentation from github and build into the website"
 	@echo "  world        to create the website for ALL available languages"
 	@echo "  clean        to clean up all intermediate files"
 	@echo "  springclean  to also remove build output besides normal clean"
@@ -94,7 +93,7 @@ springclean: clean
 # IF we have a localized build (LANG != en) then
 # overwrite with potentially available LANG resources  by
 # copy LANG resources from resources/LANG to source/static directory
-# TODO: check if LANG != en, for now: unnessecary copy for english
+# TODO: check if LANG != en, for now: unnecessary copy for english
 localizeresources: clean
 	@echo
 	@echo "Removing all static content from $(SOURCEDIR)/static."
@@ -114,10 +113,6 @@ localizeresources: clean
 	@if [ -d "$(RESOURCEDIR)/$(LANG)/docs" ]; then \
 		cp -r $(RESOURCEDIR)/$(LANG)/docs/* $(SOURCEDIR)/static; \
 	fi
-
-pulldocsources:
-	# may 21 2014: no more incorporating of docs IN the website
-	#scripts/pulldocsources.sh $(LANG)
 
 html: localizeresources p-html
 
@@ -143,8 +138,6 @@ $(BUILDDIR)/schedule.ics: source/schedule.ics
 	mkdir -p $(BUILDDIR)
 	cp -u $< $@
 
-fullhtml: pulldocsources html
-
 full: springclean
 	@-if [ $(LANG) = "en" ]; then \
 		echo; \
@@ -157,7 +150,7 @@ full: springclean
 
 world: full
 
-all: pulldocsources
+all:
 	@echo
 	@echo Building html for the following languages: $(LANGUAGES)
 	@echo
@@ -167,7 +160,7 @@ all: pulldocsources
 	tx pull --minimum-perc=1 --skip -f
 	# after build quickly rename old live dir, mv output to live dir and then remove old dir
 	@for LANG in $(LANGUAGES) ; do \
-		make LANG=$$LANG fullhtml; \
+		make LANG=$$LANG html; \
 		mkdir -p live/html/$$LANG; \
 		mv live/html/$$LANG live/html/$$LANG.old; \
 		mv output/html/$$LANG live/html/; \
@@ -190,7 +183,7 @@ gettext:
 	rm -rf i18n/pot
 	# be sure to remove possible available docs sources:
 	rm -rf $(SOURCEDIR)/docs/*/
-	# remove donors.inc (no translation necessery)
+	# remove donors.inc (no translation necessary)
 	rm -f source/site/about/donors.inc
 	$(SPHINXBUILD) -j$(JOBS) -b gettext $(I18NSPHINXOPTS)
 	git checkout source/site/about/donors.inc
