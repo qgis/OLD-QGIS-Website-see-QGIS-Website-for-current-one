@@ -1,19 +1,34 @@
-# QGIS-Website
-
-> **Note:** The notes provided here are for manual setup, push and publish of the web site. As of QGIS Hackfest 24 in Florence, Italy, August 2022, we also have GitHub workflow automation. Please see the [./github/workflows](./github/workflows) folder for insight into the process used. Also see the 'Publishing safely using rsync' section further down in this document for notes on how to set up the server to received the docs.
+<img src="https://github.com/qgis/QGIS/blob/master/images/README-md/main_logo.png" width="300" alt="Our full logo">
 
 [![HTML Build](https://github.com/qgis/QGIS-Website/workflows/HTML%20build/badge.svg?branch=master)](https://github.com/qgis/QGIS-Website/actions?query=branch%3Amaster+workflow%3A%22HTML+build%22)
-[![Build Status](https://travis-ci.org/qgis/QGIS-Website.svg?branch=master)](https://travis-ci.org/qgis/QGIS-Website)
 
-Website is a static generated website using Sphinx (http://sphinx-doc.org/),
-based on restructured text sources (rst: http://docutils.sourceforge.net/rst.html)
+This repository is meant to manage the [Official website of QGIS](https://qgis.org),
+a free and Open Source Geographic Information System (GIS) Software, under the
+[Open Source Geospatial (OSGeo)](https://www.osgeo.org) foundation umbrella.
+
+
+<!-- TOC generated with https://freelance-tech-writer.github.io/table-of-contents-generator/index.html -->
+
+* [Development (Quick Start)](#development-quick-start)
+* [Building the website using Docker](#building-the-website-using-docker)
+* [Building the website using Make](#building-the-website-using-make)
+   * [Build on macOS or Linux](#build-on-macos-or-linux)
+   * [Build on Windows](#build-on-windows)
+* [Translating](#translating)
+* [Styling the website](#styling-the-website)
+* [Publishing safely using rsync](#publishing-safely-using-rsync)
+   * [Server configuration](#server-configuration)
+
+
+QGIS Website is a static generated website using [Sphinx](http://sphinx-doc.org/),
+based on [restructured text sources (rst)](http://docutils.sourceforge.net/rst.html)
 and html (jinja2) templates.
 
-Most sources are in source/site. Only frontpage and landing pages are in theme/qgis-theme
+Most sources are in source/site. Only front page and landing pages are in themes/qgis-theme.
+Styling is in themes/qgis-theme.
 
-Styling is in theme/qgis-theme. This theme is used for website and documentation builds.
-The Website version is the canonical one.
 
+> **Note:** The notes provided here are for manual setup, push and publish of the web site. As of QGIS Hackfest 24 in Florence, Italy, August 2022, we also have GitHub workflow automation. Please see the [./github/workflows](./github/workflows) folder for insight into the process used. Also see the [Publishing safely using rsync](#publishing-safely-using-rsync) section further down in this document for notes on how to set up the server to receive the docs.
 
 
 ##  Development (Quick Start)
@@ -32,7 +47,7 @@ open http://localhost/en/site/
 
 ## Building the website using Docker
 
-TLDR: `cd QGIS-Website && ./docker-run.sh html `
+TLDR: `cd QGIS-Website && ./docker-run.sh html`
 
 Note: you will use a QGIS docker image from hub.docker.com, created with the dockerfile from:
 
@@ -42,7 +57,7 @@ First: install Docker.
 
 On Linux: use your package manager.
 
-On Windows: install boot2docker from: http://boot2docker.io/
+On Windows: install boot2docker from: https://boot2docker.io/
 Some notes: you need admin rights to do this: the install script will generate some keys, just accept all defaults.
 If it does not work the first time, check if you need to 'enable virtualization' in your BIOS (eg Lenovo disables it by default).
 
@@ -112,10 +127,8 @@ Now if you want to build a translated website, there is some more work to do. We
 The contents of this file should be like this:
 
     [https://www.transifex.com]
-    hostname = https://www.transifex.com
-    password = yourpasswordhere
-    token =
-    username = yourusernamehere
+    rest_hostname = https://rest.api.transifex.com
+    token = yourtransifextoken
 
 Copy this file to the root of your repo. With me, that is /home/richard/dev/QGIS-Website. NOW you can run it using 'make full' and a LANG parameter like this:
 
@@ -123,7 +136,6 @@ Copy this file to the root of your repo. With me, that is /home/richard/dev/QGIS
     docker run -t -i -v /home/richard/dev/QGIS-Website:/QGIS-Website -w=/QGIS-Website --rm=true qgis/sphinx_html_3 make full LANG=fr
 
 Besides this, you can also have a look into the scripts docker-run.sh and docker-world.sh which are used on our own webservers.
-
 
 
 
