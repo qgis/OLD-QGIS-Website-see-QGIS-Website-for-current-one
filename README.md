@@ -124,141 +124,142 @@ Copy this file to the root of your repo. With me, that is /home/richard/dev/QGIS
 
 Besides this, you can also have a look into the scripts docker-run.sh and docker-world.sh which are used on our own webservers.
 
+
+
+
 ## Building the website using Make
 
-Building is only tested on Linux systems using make, on windows we now started a Paver setup (see below)
+1. If not provided by your OS, you need to install:
 
-To be able to run localisation targets you will need Sphinx 1.2 which comes with pip.
-Sphinx coming with most distro's is just 1.1.3. You will get a gettext error with those.
+   - [git](https://git-scm.com/download/)
+   - and [Python3](https://www.python.org/downloads/)
 
-Best to run the make file in a virtual env ( http://www.virtualenv.org/ ):
+   You can install both in default places and with default options.
+1. [Clone the repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+1. Go into that directory and follow the next instructions depending on your OS.
 
-Move to a directory (~/myvirtualenvs/) and create a virtualenv enabled dir:
+The best way to build the website is within a Python Virtual Environment (venv).
 
-    virtualenv sphinx  # one time action, only to create the environment
-    cd sphinx
+### Build on macOS or Linux
 
-And activate this virtualenv
+1. You can create your own virtual env:
+   ```
+   # you NEED python >3.6. Depending on distro either use `python3` or `python`
+   # common name is 'venv' but call it whatever you like
 
-    source bin/activate
-    # now you will see sphinx before your prompt:
-    (sphinx)richard@mymachine
+   python3 -m venv venv  # using the venv module, create a venv named 'venv'
+   ```
+1. Then activate the venv:
+   ```
+   source ./venv/bin/activate
+   ```
+   With 'activated' virtual environment, you should see 'venv' in the prompt.
+1. Install the requirements via the REQUIREMENTS.txt:
+   ```
+   pip install -r REQUIREMENTS.txt
+   ```
+1. And run the build from within that venv:
+   ```
+   make html
+   ```
+   Want to build your own language? Note that you will use the translations from the .po files
+   in the `i18n` folder within the repository! For example for 'nl' do:
+   ```
+   make LANG=nl html
+   ```
 
-Now always activate your environment before building. To deactivate, you can do:
+### Build on Windows
 
-    deactivate
+1. Create a virtual environment called 'venv' in that directory (search the Internet for Python Virtual
+   Env on Windows for more details), but in short: use the module 'venv' to create a virtual environment called 'venv'
+   ```
+   # in dos box:
+   python -m venv venv
+   ```
+1. Then activate the venv:
+   ```
+   venv\Scripts\activate.bat
+   ```
+   With 'activated' virtualenv, you should see 'venv' in the prompt.
+1. Install the requirements via the REQUIREMENTS.txt:
+   ```
+   pip install -r REQUIREMENTS.txt
+   ```
+1. And run the build from within that venv, using the make.bat script with the html argument to locally build the docs:
+   ```
+   make.bat html
+   ```
+   Want to build your own language? Note that you will use the translations from the .po files
+   in the `i18n` folder within the repository! For example for 'nl' do:
+   ```
+   set SPHINXOPTS=-D language=nl
+   make.bat html
+   ```
 
-You can install all tools in one go via the REQUIREMENTS.txt here at the root of this repo:
+## Translating
 
-    pip install -r REQUIREMENTS.txt
+We rely on the [Transifex platform](https://transifex.com) to store and coordinate
+our translation efforts. To be part of the translation team, please follow
+[becoming a translator](https://www.qgis.org/en/site/getinvolved/translate.html#becoming-a-translator).
 
-Alternatively, do it one by one:
+New English strings in the repository are automatically pushed and made available on Transifex platform
+thanks to the [tx_push](.github/tx_push.yml) Github action.
+This action also calls the [create_transifex_resources](scripts/create_transifex_resources.sh) script
+ensuring that the Transifex [configuration file](.tx/config) is always up to date.
 
-Install sphinx 1.2 now in your virtual env:
+Translated strings are pulled from Transifex to our servers as part of the daily build process
+(see [Makefile](Makefile) `full` rule).
 
-    pip install sphinx==1.2
 
-Sphinx-intl extension ( https://pypi.python.org/pypi/sphinx-intl ):
+Sometimes, the process may fail or you may want to build the site locally with new strings in translated language.
+In this case, you need to manually pull the translations from Transifex to your local repository:
 
-    pip install sphinx-intl
-
-Then build:
-
-    make html (to build the english language)
-    make LANG=nl html (to build the dutch version)
-
-If you want add the QGIS-Documentation docs into the build, you either need to manually copy the sources, resources
-and po files into the website project. Or use the fullhtml target of make (which will checkout the 2.0 branch):
-
-    # to build english:
-    make fullhtml
-    # to build eg dutch:
-    make LANG=nl fullhtml
-
-To gather new strings in a pot (.po) file for your language, and merge them with
-excisting translations in the po files (normally to be ran by your language maintainer):
-
+1. Checkout locally the repository and target branch in git
+1. Prepare the environment
+   ```
+   python3 -m venv venv
+   source ./venv/bin/activate
+   pip install -r REQUIREMENTS.txt
+   ```
+1. Install [Transifex command line client](https://github.com/transifex/cli/)
+   ```
+   curl -o- https://raw.githubusercontent.com/transifex/cli/master/install.sh | bash
+   ```
+1. To gather new strings in a pot (.po) file for your language, and merge them with
+   existing translations in the po files (**normally to be run by your language maintainer**):
+    ```
     make pretranslate LANG=xx  # where xx is your language code
-
-To add a new language (the scripts will need some directory structure):
-
+    ```
+1. To add a new language (the scripts will need some directory structure):
+    ```
     make createlang LANG=xx
+    ```
+1. Download the translated strings with commands in the Makefile.
+   By default this pulls all the languages.
+   ```
+   # --minimum-perc=1 so only files which have at least 1% translation are pulled
+   # -f to force, --skip to not stop with errors
+   tx pull --minimum-perc=1 --skip -f
+   ```
+   To pull a specific language (e.g. italian), do
+   ```
+   tx pull --minimum-perc=1 --skip -f -l it
+   ```
 
-See the website in action: http://www.qgis.org
-
-
-## Building the website using Paver
-
-Paver is a python based Make-like tool (http://paver.github.io/paver/)
-
-Paver can be used on Linux and Windows (somebody can test on OSX?)
-
-There are two scripts available:
-
-- bootstrap.py (for setting up the python related stuff)
-- pavement.py (the config file for Paver)
-
-General use:
-
-    # first let bootstrap.py install all stuff
-    python bootstrap.py
-
-    # if the script is complaining about easysetup missing:
-    # download: https://bitbucket.org/pypa/setuptools/raw/bootstrap/ez_setup.py
-    # and install that first:
-    python ez_setup.py
-
-    # after succesfull running of bootstrap.py you have all wheels on place, the script has created a virtual
-    environment (called "virtualenv") with all Sphinx related python machinery. Now, each time you want to build,
-    you just need to:
-    # 1) activate a virtual environment with all Sphinx related python machinery
-    # 2) run the actual script to build the website
-
-    # to go into the virtual environment:
-    # on Windows:
-    virtualenv\Scripts\activate
-    # on Linux:
-    source virtualenv/bin/activate
-
-    # now build (only website, no included Documentation yet):
-    # eg english only:
-    paver html
-
-To be able to build localized versions of the Website with paver the
-'Transifex-client (tx)' is needed.
-
-On linux, install with::
-
-	# note that we use a slightly older version of tx
-	pip install transifex-client==0.9
-
-On Windows, you should download it from: http://files.transifex.com/transifex-client/0.10/tx.exe
-see http://support.transifex.com/customer/portal/articles/998120-client-on-windows
-
-To make tx.exe usable in the paver script, either put it IN this directory next to the pavement.py file, OR add it to your PATH
-
-IMPORTANT: to be able to pull from transifex.com, you will need a credentials file.
-This file should be named: ``.transifexrc`` and easiest is to put it in your home dir C:/users/you.
-Another option is to put it in the root of this project, but be carefull to not put your credentials in Github :-)
-
-The file should contain this::
-
-	[https://www.transifex.com]
-	hostname = https://www.transifex.com
-	password = yourtransifexpassword
-	token =
-	username = yourtransifexusername
-
-With a working tx and a .transifexrc, you should be able to build for example the german version of docs via::
-
-    # german:
-    paver html -l de
-
-During the build you will see this command::
-
-	tx pull --minimum-perc=1 --skip -f -l de
-
-This will pull all german po files from transifex (based on the .tx/config file in the root of this project)
+   IMPORTANT: to be able to pull from transifex.com, you will need a credentials file.
+   This file should be named: ``.transifexrc`` and easiest is to put it in your home dir.
+   The file should contain this:
+   ```
+   [https://www.transifex.com]
+   rest_hostname = https://rest.api.transifex.com
+   token = yourtransifextoken
+   ```
+1. Build the docs in your language
+   ```
+   make html LANG=yourlanguage
+   ```
+1. Share the changes by opening a pull-request, allowing us to integrate
+   the new strings for the pulled language(s)
 
 
 ## Styling the website
