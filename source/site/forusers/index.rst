@@ -16,12 +16,12 @@ For Users
     support
     usergroups
     commercial_support
-    Plugins <http://plugins.qgis.org/plugins/>
+    Plugins <https://plugins.qgis.org/plugins/>
     books/index
 
-.. note::
+.. note
 
     Content is not used, it is overridden by text in themes/qgis-theme/forusers_index.html.
-    The html texts are translated in the 'spinx' resource: https://www.transifex.com/qgis/qgis-website/sphinx/
+    The html texts are translated in the 'sphinx' resource: https://www.transifex.com/qgis/qgis-website/sphinx/
     Only TOC is used.
 
