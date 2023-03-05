@@ -240,7 +240,7 @@ infeaturefreeze = %(infeaturefreeze)s
     "releasedate": "{0}, {1}, {2}".format(lr_date.year, lr_date.month, lr_date.day),
     "lr_binary": lr_binary,
     "lr_name": lr_name.replace("'", "\\'"),
-    "lr_note": lr_note.replace("'", "\\'") if lr_note != '' else '\\u200B',
+    "lr_note": lr_note.replace("'", "\\'") if lr_note != '' else ('RC' if lr_version.split('.')[2] == '0' else '\\u200B'),
     "ltrversion": ".".join(ltr_version.split(".")[:2]),
     "ltrrelease": ltr_version,
     "ltr_name": ltr_name.replace("'", "\\'"),
