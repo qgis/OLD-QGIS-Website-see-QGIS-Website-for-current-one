@@ -73,6 +73,13 @@ and other FOSS applications.
 
 ----
 
+.. |geoideal| image:: /static/site/about/images/geoideal.png
+   :width: 150 px
+
+|geoideal| `Geoideal S.A.S. <https://geoideal.co/>`_ (based in Colombia) was created by GeoTux founders to provide commercial support, development and training for QGIS (Desktop, Server as well as its related projects for Mobile and Web applications) and PostgreSQL/PostGIS. We have contributed code to QGIS core (as well as a large number of Python plugins) since 2009.
+
+----
+
 .. |itopen| image:: /static/site/about/images/itopen.png
    :width: 200 px
 
@@ -220,13 +227,6 @@ implementing QGIS within your organization, as well as GIS training on QGIS
 open source GIS company in Korea. Gaia3D offers professional development
 services, training, consulting and supports for QGIS, PostGIS, GeoServer and
 OpenLayers
-
-----
-
-.. |geoideal| image:: /static/site/about/images/geoideal.png
-   :width: 150 px
-
-|geoideal| `Geoideal S.A.S. <https://geoideal.co/>`_ (based in Colombia) was created by GeoTux founders to provide commercial support, development and training for QGIS (Desktop, Server as well as its related projects for Mobile and Web applications) and PostgreSQL/PostGIS. We have contributed code to QGIS core (as well as a large number of Python plugins) since 2009.
 
 ----
 
