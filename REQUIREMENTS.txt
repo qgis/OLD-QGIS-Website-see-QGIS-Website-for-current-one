@@ -1,11 +1,10 @@
-Sphinx==4.5
-sphinx-intl==2.0.1
 icalendar
-PyYAML
-sphinx_rtd_theme
 pdflatex
-sphinxext-rediraffe
-sphinx_togglebutton
+pyYAML
 requests==2.25.1
+Sphinx==7.2.6
 sphinx_copybutton
-
+sphinx-intl
+sphinx_rtd_theme
+sphinx_togglebutton
+sphinxext-rediraffe
