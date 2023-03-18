@@ -24,7 +24,7 @@ jobs:
       run: |
           make html
     - name: Upload build artifact 📦
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: HTML build
         path: output
