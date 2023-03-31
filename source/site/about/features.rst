@@ -32,7 +32,7 @@ QGIS server is considered as a reference implementation for WMS 1.3.
 
    A screenshot of QGIS Server configuration in QGIS Desktop
 
-QGIS Web Client
+`QGIS Web Client <https://github.com/qgis/qwc2>`_
 ---------------
 
 Publish your QGIS projects on the web with ease. Benefit from the
