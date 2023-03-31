@@ -470,9 +470,9 @@ Feature: Additional options for XYZ Tile exports when using Leaflet html output
 
 Three new optional advanced parameters have been exposed for the XYZ Tile generation algorithm:
 
--  Title
--  Attribution
--  Add OSM basemap
+-  Leaflet HTML output title
+-  Leaflet HTML output attribution
+-  Include OpenStreetMap basemap in Leaflet HTML output
 
 |image22|
 
