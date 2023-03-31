@@ -674,6 +674,21 @@ After many many years of discussion, it's time for the inbuilt provider to go!
 
 This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
 
+Feature: Improve support of layers with unknown geometry type for WFS provider
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The QGIS WFS provider has been improved to look in the response to the GetCapabilities request (if using WFS 2.0) if the ``IsPoint``, ``IsCurve``, ``IsSurface`` extended filter functions are present. 
+
+When such a layer is added to the project, a "Select Items to Add" dialog box is displayed.
+
+This enables the user to select one or several layers among ones of ``NoGeometry``, ``MultiPoint``, ``MultiCurve``, ``MultiSurface``, ``GeometryCollection`` types.
+
+|image32|
+
+This feature was funded by `QGIS-DE user group <https://qgis.de>`__
+
+This feature was developed by `Even Rouault  <https://github.com/rouault>`__
+
 QGIS Server
 -----------
 
@@ -1130,5 +1145,7 @@ This feature was developed by `David Signer <https://opengis.ch/>`__
 .. |image30| image:: images/entries/2ed531d2789b12d258d1503c8fb74e396f06e63d.png
    :class: img-responsive img-rounded
 .. |image31| image:: images/entries/fb255d60095471377459f1c6907df83e6f54bea4.gif
+   :class: img-responsive img-rounded
+.. |image32| image:: images/entries/2068734219e240ca90b22435ca1381f3c8e4b9ef.png
    :class: img-responsive img-rounded
 
