@@ -916,19 +916,6 @@ This feature was funded by `QGIS.ORG (through donations and sustaining membershi
 
 This feature was developed by `Sandro Santilli (strk) <https://strk.kbt.io/>`__
 
-Feature: Bug fixes by Harrissou Sant-anna / Sandro Santilli
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-+--------------------------------------------------------------------------------+----------------------------------------------------------+-----------------------------------------------------------+---------------------------------+
-| Bug Title                                                                      | URL issues.qgis.org (if reported)                        | URL Commit (Github)                                       | 3.28 backport commit (GitHub)   |
-+================================================================================+==========================================================+===========================================================+=================================+
-| stale bot does not remove the stale label upon PR sync (push of new commits)   | `#50822 <https://github.com/qgis/QGIS/issues/50822>`__   | `PR #50836 <https://github.com/qgis/QGIS/pull/50836>`__   |                                 |
-+--------------------------------------------------------------------------------+----------------------------------------------------------+-----------------------------------------------------------+---------------------------------+
-
-This feature was funded by `QGIS.ORG (through donations and sustaining memberships) <https://qgis.org/>`__
-
-This feature was developed by `Harrissou Sant-anna and Sandro Santilli <https://strk.kbt.io/>`__
-
 Feature: Bug fixes by Jean Felder
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
