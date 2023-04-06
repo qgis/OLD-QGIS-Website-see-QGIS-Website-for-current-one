@@ -40,7 +40,6 @@ powerful symbology, labeling and blending features to impress with your
 maps.
 
 `QGIS Web Client 2 <https://github.com/qgis/qwc2>`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. figure:: /static/site/about/images/qgiswebclientscreenshot.png
    :alt: QGIS Web Client
 
