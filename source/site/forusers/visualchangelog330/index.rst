@@ -470,13 +470,13 @@ Feature: Additional options for XYZ Tile exports when using Leaflet html output
 
 Three new optional advanced parameters have been exposed for the XYZ Tile generation algorithm:
 
--  Title
--  Attribution
--  Add OSM basemap
+-  Leaflet HTML output title
+-  Leaflet HTML output attribution
+-  Include OpenStreetMap basemap in Leaflet HTML output
 
 |image22|
 
-This feature was developed by `pathmapper <https://github.com/pathmapper>`__
+This feature was developed by `Björn Hinkeldey <https://github.com/pathmapper>`__
 
 Feature: Support data defined parameter values when using qgis\_process tool
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
