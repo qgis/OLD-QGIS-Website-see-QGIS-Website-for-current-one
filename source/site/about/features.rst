@@ -32,17 +32,19 @@ QGIS server is considered as a reference implementation for WMS 1.3.
 
    A screenshot of QGIS Server configuration in QGIS Desktop
 
-`QGIS Web Client <https://github.com/qgis/qwc2>`_
+QGIS Web Client
 ---------------
 
 Publish your QGIS projects on the web with ease. Benefit from the
 powerful symbology, labeling and blending features to impress with your
 maps.
 
+`QGIS Web Client 2 <https://github.com/qgis/qwc2>`_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. figure:: /static/site/about/images/qgiswebclientscreenshot.png
    :alt: QGIS Web Client
 
-   A screenshot of QGIS Web Client
+   A screenshot of QGIS Web Client 2
 
 
 QGIS on mobiles and tablets
