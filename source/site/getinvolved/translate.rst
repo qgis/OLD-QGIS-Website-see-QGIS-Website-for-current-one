@@ -97,37 +97,39 @@ started.
 Join a Project
 ..............
 
-- Go to https://www.transifex.com and create a new account
-- Verify your account by the link in the email you will receive
-- Login
-- Choose your role as “Translator” and answer some other questions about yourself
-- At your dashboard page click “Join an existing organisation” and search for “qgis”.
-  Some QGIS organisations are listed now, among them are:
+- Go to https://explore.transifex.com/qgis/
+- You can explore available projects we translate, their target languages
+  with various statistics:
 
   * **QGIS Desktop** for all the pieces of text available in QGIS apps
     (QGIS Desktop and QGIS Server),
-  * **QGIS Docs and Website** to translate both QGIS website and current documentation.
+  * **QGIS Documentation** for the `official documentation <https://docs.qgis.org/latest/>`_,
+  * **QGIS Website** to translate the `current website <https://qgis.org>`_.
+- Click on the project you would like to help translate
+- Click on :guilabel:`JOIN THIS PROJECT` on the right side.
+  You will be prompted to sign up.
+- Create your account or connect using a third-party platform account.
+  Verify your account by the link in the email you will receive.
+- Login
+- You then get a popup to select which language you want to help translate to.
+- If the language of your choice is listed, select it and press :guilabel:`Join Project`.
+- If your language is not listed yet, select it and press :guilabel:`Request language`.
+  Keep in mind that translating an entire project will take days of work, if not weeks!
 
-- Choose in which part of the project you would like to participate
-- You can be part of all projects and help everywhere too
-- If the language of your choice is listed, click it and request to join the team.
-- If your language is not listed yet, click “Request language” and choose your
-  language. Keep in mind that translating the entire Desktop Application will take
-  days of work, if not weeks!
+  .. note::
+    With requesting a new language please bear in mind that we try to make
+    it as simple as possible. Just ask for the language you want to translate
+    (regardless in which country you reside). Only if there are notable differences
+    in the languages (for example portuguese in Portugal vs Brazil) we will create
+    its own version.
 
-Now you will need to wait for the language coordinator or the project maintainers
-to process your request. You will be notified by email when your request has been
-accepted. If your request has no answer for about a week, please consider writing
-to your language coordinator in Transifex or the :ref:`QGIS Translators mailing list
-<mailinglist-translation>`.
+- Now you will need to wait for the language coordinator or the project maintainers
+  to process your request. You will be notified by email when your request has been
+  accepted. If your request has no answer for about a week, please consider writing
+  to your language coordinator in Transifex or the :ref:`QGIS Translators mailing list
+  <mailinglist-translation>`.
+- You can also join any of the other QGIS projects and help everywhere too.
 
-
-.. note::
-  With requesting a new language please bear in mind that we try to make
-  it as simple as possible. Just ask for the language you want to translate
-  (regardless in which country you reside). Only if there are notable differences
-  in the languages (for example portuguese in Portugal vs Brazil) we will create
-  its own version.
 
 Translate
 ...........
