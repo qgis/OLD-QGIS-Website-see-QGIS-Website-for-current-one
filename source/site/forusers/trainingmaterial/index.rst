@@ -30,11 +30,10 @@ https://www.qgistutorials.com/
 Tutorial material, originally developed as part of a workshop for the Ecology and Evolutionary Biology Program at Texas A&M University (produced and maintained by Mike Treglia):
 http://mltconsecol.github.io/QGIS-Tutorial/
 
-In-person training material, originally developed for the New York City Department of Transportation by `Datapolitan <http://www.datapolitan.com>`_:
+In-person training material, originally developed for the New York City Department of Transportation by `Datapolitan <http://www.datapolitan.com>`_. Available for self-study and re-use:
 
-* `Introduction to GIS Fundamentals <http://training.datapolitan.com/qgis-training/Introduction_to_GIS_Fundamentals>`_
-* `Intermediate GIS with QGIS and PostGIS <http://training.datapolitan.com/qgis-training/Intermediate_GIS/>`_
-* `Source code for training materials <https://github.com/Datapolitan-Training/qgis-training>`_
+* `Introduction to GIS Fundamentals <https://bit.ly/intro-gis-fundamentals>`_
+* `Intermediate GIS with QGIS and PostGIS <http://bit.ly/intermediate-gis>`_
 
 Online course material for QGIS training developed and maintained by `Spatial Thoughts <http://spatialthoughts.com/>`_. Available for self-study and adaptation by other trainers:
 
