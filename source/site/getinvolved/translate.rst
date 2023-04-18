@@ -12,7 +12,7 @@ interface and about eighty languages are available in transifex ready to be
 translated. Nearly the same apply for the web site and documentation.
 
 The translation process is managed by the :ref:`Translation Team <gui-translation>`
-and all the activities are done under the `Transifex <https://www.transifex.com/>`_
+and all the activities are done under the `Transifex <https://explore.transifex.com/qgis/>`_
 platform.
 
 
@@ -41,15 +41,13 @@ The other available mailing lists can be found at :ref:`QGIS-mailinglists`.
 GUI Translation
 ---------------
 
-The QGIS interface is natively programmed in English. However, at this moment
-over forty other languages are already available.
-
-To start QGIS with the appropriate localization, run
-``qgis --lang <language code>`` in command line or change localization in QGIS under
-:menuselection:`Settings --> Options --> General --> Locale` menu.
+The QGIS interface is natively programmed in English.
+However, we do translate it into `tens of languages <https://explore.transifex.com/qgis/QGIS/>`_ and,
+at this moment over forty languages are already available in QGIS Desktop
+(the ones that reached 35% of translation for that specific release).
 
 If you want to find out if your language is already present in QGIS Applications
-or who is currently working on your language you have to take a look in the
+or who is currently working on your language you can take a look in the
 :menuselection:`Help --> About --> Translators` Box in the QGIS Desktop Application.
 
 You will also find the progress of the translation there (but remember in
@@ -62,6 +60,10 @@ ten thousand pieces of text and a complete translation will take days if not
 weeks to be finished. Besides that, the rapid development of the application
 continuously causes new and edited texts to be translated. A huge effort and
 your help will be appreciated!
+
+.. note:: To start QGIS with the appropriate localization, run
+  ``qgis --lang <language code>`` in command line or change localization in QGIS under
+  :menuselection:`Settings --> Options --> General --> Locale` menu.
 
 .. _becoming-translator:
 
