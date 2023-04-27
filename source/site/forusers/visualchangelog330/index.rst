@@ -11,7 +11,6 @@ The 3.30 's-Hertogenbosch release of the groundbreaking QGIS project introduces 
 
 The splash screen features a fragment of the “Gemeentekaart”, or Municipality map, of 's-Hertogenbosch from 1867. It is part of a series of 1200 maps of all the communities in The Netherlands from that time, which were published in an atlas for each of the 11 regions. All maps were drawn in the same size, although for large municipalities a double format was used and scaled to match the page. The series was internationally rewarded because of its accuracy and completeness. The map was drawn by Jacob Kuyper (1821-1908), the most famous geographer and cartographer of his time in The Netherlands. Text and splash map image provided by `atlasandmap.com <https://atlasandmap.com>`__
 
-Importantly, support for backward compatibility of Symbol Styling has been removed for QGIS 3.16, providing significant optimizations to the project file structure, but limiting the capability of older releases of QGIS for rendering symbologies developed with later releases.
 
 The native GeoNode integration has also been migrated to an external plugin, leveraging the powerful extensions to the QGIS API for plugins implemented in recent releases.
 
