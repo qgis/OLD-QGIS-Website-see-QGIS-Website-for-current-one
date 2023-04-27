@@ -26,6 +26,15 @@ QGIS is free software and you are under no obligation to pay anything to use it 
 .. contents::
    :local:
 
+Breaking Changes
+----------------
+
+Feature: Drop project backward compatibility for symbology with QGIS 3.16 and older
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Previous releases of QGIS would write significant amounts of compatibility objects into the XML structure of project files to maintain backward compatibility for symbologies in order to allow project files to be opened with QGIS 3.16 and older. This compatibility has been removed from future releases, providing significant optimizations to the project file structure.
+
+
 Temporal
 --------
 
