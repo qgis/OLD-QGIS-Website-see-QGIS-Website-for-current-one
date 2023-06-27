@@ -877,7 +877,7 @@ This feature was developed by `mhugent <https://github.com/mhugent>`__
 Feature: Configurable capabilities cache size
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The QGIS Server GetCapabilities request cache size can now be configured with the ``QGIS_SERVER_CAPABILITIES_CACHE_SIZE`` parameter, which uses an integer input specifying the number of requests to cache. A notice of "Removed cached WMS capabilities document" will be logged when all slots are taken and a cachd document is dropped.
+The QGIS Server GetCapabilities request cache size can now be configured with the ``QGIS_SERVER_CAPABILITIES_CACHE_SIZE`` parameter, which uses an integer input specifying the number of requests to cache. A notice of "Removed cached WMS capabilities document" will be logged when all slots are taken and a cached document is dropped.
 
 This feature was developed by `Jürgen Fischer <https://github.com/jef-n>`__
 
