@@ -893,12 +893,13 @@ This feature was developed by `Étienne Trimaille <https://github.com/Gustry>`__
 Feature: OGC API - Features: Add full pagination for collection items HTML page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| To make browsing the features more user friendly and provide more information, the following was implemented and added to the HTML template:
-| - full pagination which shows always the total number of pages
-| - configurable pagesize via dropdown
-| - number of matching items
-| - number of returned items
-| - pagesize/pagination controls also at the bottom of the page
+To make browsing the features more user friendly and provide more information, the following was implemented and added to the HTML template:
+
+- full pagination which shows always the total number of pages
+- configurable pagesize via dropdown
+- number of matching items
+- number of returned items
+- pagesize/pagination controls also at the bottom of the page
 
 |image36|
 
