@@ -47,11 +47,11 @@ Feature: Measure tool copy coordinates
 
 The measurement dialog has been extended with the following functions:
 
--  X an Y columns with with X and Y coordinates
--  The first row in the table contains only the coordinates (no distance)
--  A message is displayed when the copy has succeeded
--  A ``Copy all`` action is provided in a context menu on the table
--  Prevents errors when changing settings while measuring
+- X and Y columns with X and Y coordinates
+- The first row in the table contains only the coordinates (no distance)
+- A message is displayed when the copy has succeeded
+- A ``Copy all`` action is provided in a context menu on the table
+- Prevents errors when changing settings while measuring
 
 Additional settings for managing the "Copy All" button behavior are provided to configure aspects such as separator, or including header information.
 
@@ -62,9 +62,9 @@ This feature was developed by `Yoann Quenach de Quivillic <https://github.com/Yo
 Feature: Disable map tips for a specific layer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A new feature in the layer properties allows for the disabling mapTips on a specific layer.
+A new feature in the layer properties allows for disabling mapTips on a specific layer.
 
-On the QGIS API, a ``mapTipsEnabled`` Q\_PROPERTY was added to the ``QgsMapLayer`` class to enable this functionality.
+On the QGIS API, a ``mapTipsEnabled`` Q_PROPERTY was added to the ``QgsMapLayer`` class to enable this functionality.
 
 |image5|
 
@@ -87,7 +87,7 @@ This feature was developed by `Mathieu Pellerin <https://github.com/nirvn>`__
 Feature: 2d map canvas view docking actions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The action to dock and undock to 2d map canvas views has been added to match the behaviour of 3d canvas views.
+The action to dock and undock 2d map canvas views has been added to match the behaviour of 3d canvas views.
 
 |image7|
 
@@ -96,12 +96,12 @@ This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
 Feature: Add clear recently used crs button
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The ability to remove "recently used" CRS information has been implemented invarious ways, including:
+The ability to remove "recently used" CRS information has been implemented in various ways, including:
 
--  Pressing the Del key while the list of recently used crs has focus remove the selected CRS
--  A column in the recent crs table with a button to clear individual CRS
--  A clear selected context menu action
--  A clear all recent CRS context menu action that will prompt the user for confirmation
+- Pressing the Del key while the list of recently used crs has focus remove the selected CRS
+- A column in the recent crs table with a button to clear individual CRS
+- A clear selected context menu action
+- A clear all recent CRS context menu action that will prompt the user for confirmation
 
 |image8|
 
@@ -110,16 +110,16 @@ This feature was developed by `Yoann Quenach de Quivillic <https://github.com/Yo
 Feature: Reverse wheel zoom
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A setting is now available to reverse the zoom direction of the mouse wheel (scrolling forwards zooms out)
+A setting is now available to reverse the zoom direction of the mouse wheel (scrolling forward zooms out)
 
 This setting will affects wheel zooms in multiple contexts, including:
 
--  in the map canvas (``QgsMapCanvas``)
--  in the map overview (``QgsMapOverviewCanvas``)
--  in the layout view (``QgsLayoutView``)
--  in the map items int the layouts when the "move item content" tool is active (``QgsLayoutViewToolMoveItemContent``)
--  in the Elevation profile canvas (``QgsElevationProfileCanvas``)
--  In the model editor graphic view (``QgsModelGraphicsView``)
+- in the map canvas (``QgsMapCanvas``)
+- in the map overview (``QgsMapOverviewCanvas``)
+- in the layout view (``QgsLayoutView``)
+- in the layout map items when the "move item content" tool is active (``QgsLayoutViewToolMoveItemContent``)
+- in the Elevation profile canvas (``QgsElevationProfileCanvas``)
+- In the model editor graphic view (``QgsModelGraphicsView``)
 
 |image9|
 
@@ -142,10 +142,10 @@ Feature: Annotation tool improvements
 
 A number of improvements have been made to the behavior of annotation tools including:
 
--  Preventing the resizing of an annotation when the cursor is not actually over the frame
--  Add a context menu (when an annotation tool is activated) on annotation items
--  Drop the undocumented ``toggleTextItemVisibilities`` (toggled Text annotations visibility with Ctrl+T)
--  Improve the selection and resizing behavior, including improvements for handling overlapping annotations
+- Preventing the resizing of an annotation when the cursor is not actually over the frame
+- Add a context menu (when an annotation tool is activated) on annotation items
+- Drop the undocumented ``toggleTextItemVisibilities`` (toggled Text annotations visibility with Ctrl+T)
+- Improve the selection and resizing behavior, including improvements for handling overlapping annotations
 
 |image11|
 
@@ -168,13 +168,13 @@ Feature: Improved 3d measure tool
 
 The following improvements have been implemented to the measuring tool in 3d scenes:
 
--  Allows measuring on point cloud points
--  Display billboard circle markers on the 3d rubber band's vertices
--  Moving the mouse moves the rubber band's last vertex (although the measured results are not updated until user clicks)
--  Moving the camera does not remove current measurements
--  Allows using backspace and del keys to undo (remove last measurement)
--  Allows using Esc to clear measurements, matching the behavior of its 2d counterpart
--  Renders 3d rubberbands on top of other 3d entities so they don't get occluded
+- Allows measuring on point cloud points
+- Display billboard circle markers on the 3d rubber band's vertices
+- Moving the mouse moves the rubber band's last vertex (although the measured results are not updated until user clicks)
+- Moving the camera does not remove current measurements
+- Allows using backspace and del keys to undo (remove last measurement)
+- Allows using Esc to clear measurements, matching the behavior of its 2d counterpart
+- Renders 3d rubberbands on top of other 3d entities so they don't get occluded
 
 The object selection logic has also been refactored for more control, and the 3d identify tool was also enhanced to prevent interference with camera navigation as well as a bug fix for where the wrong FIDs were returned on specific cases.
 
@@ -192,24 +192,24 @@ Feature: Native point cloud Processing provider
 
 A new native processing provider has been provided for point cloud algorithms, in line with `QEP 263 <https://github.com/qgis/QGIS-Enhancement-Proposals/issues/263>`__.
 
-Under the hood provider utilizes the `pdal\_wrench <https://github.com/PDAL/wrench>`__ command line tool and currently supports the following algorithms:
+Under the hood provider utilizes the `pdal_wrench <https://github.com/PDAL/wrench>`__ command line tool and currently supports the following algorithms:
 
--  Information: outputs a basic metadata of the point cloud (number of points, extent, crs, etc)
--  Convert format: convert point cloud to a different format, e.g. las to laz
--  Reproject: reproject point cloud to a different CRS
--  Fix projection: fix (assign) CRS of a point cloud file
--  Clip: clip point cloud by clipping polygon(s)
--  Merge: merge multiple point clouds in a single file
--  Tile: create tiles from input data
--  Thin: create a thinned version of the point cloud
--  Boundary: export vector layer containing point cloud boundaries
--  Density: export a raster file where each cell contains number of points that are in that cell's area
--  Export to raster: export point cloud data to a 2D raster grid
--  Export to vector: export point cloud data to a vector layer with 3D points
--  Export to raster (TIN): export point cloud data to a 2D raster grid using a triangulation of points
--  Filer: extract subset from the point cloud using PDAL expressions
+- Information: outputs a basic metadata of the point cloud (number of points, extent, crs, etc)
+- Convert format: convert point cloud to a different format, e.g. las to laz
+- Reproject: reproject point cloud to a different CRS
+- Fix projection: fix (assign) CRS of a point cloud file
+- Clip: clip point cloud by clipping polygon(s)
+- Merge: merge multiple point clouds in a single file
+- Tile: create tiles from input data
+- Thin: create a thinned version of the point cloud
+- Boundary: export vector layer containing point cloud boundaries
+- Density: export a raster file where each cell contains number of points that are in that cell's area
+- Export to raster: export point cloud data to a 2D raster grid
+- Export to vector: export point cloud data to a vector layer with 3D points
+- Export to raster (TIN): export point cloud data to a 2D raster grid using a triangulation of points
+- Filer: extract subset from the point cloud using PDAL expressions
 
-As pdal\_wrench requires PDAL >= 2.5.0, the new processing provider will be available only where the PDAL version requirement is satisfied.
+As pdal_wrench requires PDAL >= 2.5.0, the new processing provider will be available only where the PDAL version requirement is satisfied.
 
 |image14|
 
@@ -239,13 +239,13 @@ Feature: Add filtering by rectangle and expression to PDAL algorithms
 
 Added the option to filter input point cloud by rectangle (extent) and expression in the following PDAL algorithms:
 
--  boundary
--  clip
--  density
--  export to raster (normal and TIN variants)
--  export to vector
--  merge
--  thin
+- boundary
+- clip
+- density
+- export to raster (normal and TIN variants)
+- export to vector
+- merge
+- thin
 
 This allows the processing of only a subset of points from the input file(s), without the need to performing an intermediate filtering step or generating temporary files.
 
@@ -280,7 +280,7 @@ This feature was developed by `Stefanos Natsis <https://github.com/uclaros>`__
 Feature: Virtual point clouds (VPC)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A new data provider is available for *Virtual Point Cloud* (VPC) files created by the `pdal\_wrench <https://github.com/PDAL/wrench>`__ utility and the *Build virtual point cloud (VPC)* tool in the newly introduced `*Native point cloud Processing provider* <https://github.com/qgis/QGIS-Enhancement-Proposals/issues/263>`__.
+A new data provider is available for *Virtual Point Cloud* (VPC) files created by the `pdal_wrench <https://github.com/PDAL/wrench>`__ utility and the *Build virtual point cloud (VPC)* tool in the newly introduced `Native point cloud Processing provider <https://github.com/qgis/QGIS-Enhancement-Proposals/issues/263>`__.
 
 The VPC file is handled as a single layer in QGIS and may contain a large number of point cloud files whose indexes are lazy loaded when the canvas is zoomed in enough. An extent renderer is used for the individual indexes while their extent fits the canvas' width and the user defined renderer is only used when zoomed in further.
 
@@ -344,9 +344,9 @@ Feature: Common angle option extensions for advanced digitizing
 
 The advanced digitizing options for common angles have been extended with the following functionalities:
 
--  New common angles for 0.1°, 0.5°, and 1.0°
--  A new option has been added to show current common angle in the floater context widget
--  New 'N' 'SHIFT+N' keyboard shortcuts are available to cycle through the common angle options
+- New common angles for 0.1°, 0.5°, and 1.0°
+- A new option has been added to show current common angle in the floater context widget
+- New 'N' 'SHIFT+N' keyboard shortcuts are available to cycle through the common angle options
 
 |image20|
 
@@ -380,7 +380,7 @@ Feature: Modified New field dialog behavior and alias support
 
 When creating new fields, the 'Comment' option is now only exposed for datasources which support editing comments (preventing QGIS from silently discarding the information).
 
-This addition also adds support for setting field aliases within the new field dialog, and extends field comments and aliases for supported OGR formats.
+This also adds support for setting field aliases within the new field dialog, and extends field comments and aliases for supported OGR formats.
 
 This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
 
@@ -394,14 +394,14 @@ This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
 Feature: Record split policy selection in form dialog
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A new "field split policy" choice item is exposed in the layer properties form dialog, that allows users to easily determine the current policy for splitting a field and change as required.
+A new "field split policy" choice item is exposed in the layer properties form dialog. That allows users to easily determine the current policy for splitting a field and change as required.
 
 The following policies have been provided:
 
--  duplicate values
--  remove values
--  use default value
--  use ratio of geometries
+- duplicate values
+- remove values
+- use default value
+- use ratio of geometries
 
 |image22|
 
@@ -523,9 +523,9 @@ The new algorithm allows user to build `virtual point cloud (VPC) <https://githu
 
 Additional options are available for the "Build VPC" Processing algorithm, which provide the following utilities for building Virtual Point Clouds:
 
--  calculate statistics from input data
--  calculate exact boundaries from input data
--  build an overview point cloud
+- calculate statistics from input data
+- calculate exact boundaries from input data
+- build an overview point cloud
 
 This feature was funded by `Point cloud processing and 3D data enhancements crowdfunding <https://www.lutraconsulting.co.uk/crowdfunding/pointcloud-processing-qgis/>`__
 
@@ -558,8 +558,8 @@ A new "Algorithm Settings" action has been added to the Advanced button of the p
 
 Includes settings for:
 
--  invalid geometry handling (Unlike the existing per-parameter setting override for this, setting the handling method here will apply to ALL inputs for the algorithm)
--  distance unit and area units to use for distance/area measurements
+- invalid geometry handling (Unlike the existing per-parameter setting override for this, setting the handling method here will apply to ALL inputs for the algorithm)
+- distance unit and area units to use for distance/area measurements
 
 |image27|
 
@@ -594,8 +594,8 @@ This feature was funded by City of Canning
 
 This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
 
-Feature: Support \`\*.HEIC\` HEIF format images in Processing \`ImportPhotosAlgorithm\`
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Feature: Support \*.HEIC format images in Processing "Import Photos" algorithm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The Import Photos algorithm now allows importing ``*.heic`` images with GDAL's HEIF image support.
 
@@ -609,24 +609,24 @@ Feature: Settings editor updates
 
 The interface for settings editors have seen a major overhaul and the advanced settings interface has the following user facing changes:
 
--  A choice of using the old or the new settings widget, which is remembered
--  A "hidden" setting allows to bypass the warning before showing the settings tree
--  Settings have dedicated editors (spin box, checkbox, colorbutton, etc.)
--  The modification of settings is now only executed when apply is pressed
--  Current settings are displayed in italic, whereas settings to which changes will be applied are displayed in red
+- A choice of using the old or the new settings widget, which is remembered
+- A "hidden" setting allows to bypass the warning before showing the settings tree
+- Settings have dedicated editors (spin box, checkbox, colorbutton, etc.)
+- The modification of settings is now only executed when apply is pressed
+- Current settings are displayed in italic, whereas settings to which changes will be applied are displayed in red
 
 In addition, the settings API has undergone significant changes including:
 
--  Removal of the QgsSettingsEntryByValue class, using the by reference only
--  The old QgsSettingsTreeWidget has been renamed to QgsSettingsTreeWidgetOld (in app)
+- Removal of the QgsSettingsEntryByValue class, using the by reference only
+- The old QgsSettingsTreeWidget has been renamed to QgsSettingsTreeWidgetOld (in app)
 
 New API classes introduced include:
 
--  QgsSettingsTreeWidget and QgsSettingsTreeModel: tree widget + model to show and edit the settings
--  QgsSettingsEditorWidgetWrapper (pure virtual): a base wrapper class to create and handle a setting editor widget
--  QgsSettingsEditorWidgetWrapperTemplate (pure virtual): the base class for the wrapper of settings declared in C++ API (using typed methods)
--  Classes for settings editors: QgsSettingsStringEditorWidgetWrapper, etc.
--  QgsSettingsEditorWidgetRegistry: a registry of the setting editor wrappers
+- QgsSettingsTreeWidget and QgsSettingsTreeModel: tree widget + model to show and edit the settings
+- QgsSettingsEditorWidgetWrapper (pure virtual): a base wrapper class to create and handle a setting editor widget
+- QgsSettingsEditorWidgetWrapperTemplate (pure virtual): the base class for the wrapper of settings declared in C++ API (using typed methods)
+- Classes for settings editors: QgsSettingsStringEditorWidgetWrapper, etc.
+- QgsSettingsEditorWidgetRegistry: a registry of the setting editor wrappers
 
 |image29|
 
@@ -639,9 +639,9 @@ In previous versions of QGIS, when QGIS Desktop was closed the current profile w
 
 A new User selection policy feature allows users to select how default profiles are defined, in accordance with the following three options:
 
--  Last Profile: The legacy mode which follows previous version behavior. This uses the last closed profile when opening a new instance of QGIS.
--  Default Profile: Manually define a default profile among the existing profile that will always be used by default (without using a command line flag or electing a profile from within the QGIS UI)
--  Let user choose at startup
+- Last Profile: The legacy mode which follows previous version behavior. This uses the last closed profile when opening a new instance of QGIS.
+- Default Profile: Manually define a default profile among the existing profile that will always be used by default (without using a command line flag or electing a profile from within the QGIS UI)
+- Let user choose at startup
 
 When "Let user choose" is selected, if there are 2 or more profiles, a selection dialog is displayed before the SplashScreen which will allow the user to choose which profile to use or to create a new profile which will be loaded automatically.
 
@@ -663,11 +663,11 @@ Users may now choose from a selection of distance units to override the default 
 
 In layout profiles, there is an additional option which controls where the distance unit suffixes should be placed. The following options are available to manage the display of unit suffixes:
 
--  hide the suffixes
--  display for all values
--  display for the first value
--  display for the last value
--  display for both the first and last values.
+- hide the suffixes
+- display for all values
+- display for the first value
+- display for the last value
+- display for both the first and last values.
 
 Note that it is currently not possible to expose unit selection for the vertical axis, as this is currently dimensionless and will require the development of vertical CRS handling in QGIS as outlined in `QEP 267 <See%20https://github.com/qgis/QGIS-Enhancement-Proposals/issues/267>`__.
 
@@ -682,9 +682,9 @@ A new item has been added to the elevation profile toolbar, which includes vario
 
 Profile plots can now be exported as:
 
--  3D Features: exports the profile line as 3d cross sections, with z values taken from the elevation slices
--  2D Profile: exports the profile as a distance vs elevation chart (i.e. as shown in the elevation profile widget)
--  Distance/Elevation Table: exports sample distance vs elevation values as a table
+- 3D Features: exports the profile line as 3d cross sections, with z values taken from the elevation slices
+- 2D Profile: exports the profile as a distance vs elevation chart (i.e. as shown in the elevation profile widget)
+- Distance/Elevation Table: exports sample distance vs elevation values as a table
 
 The results can be saved as DXF files, CSV files, or any of the standard writable vector spatial formats shapefile geopackages.
 
@@ -726,9 +726,9 @@ Feature: Core sensors framework
 
 A core sensors framework provides a sensor types registry, a sensor manager, and three simple QIODevice-based sensor types as follows:
 
--  TCP socket
--  UDP socket
--  Serial port
+- TCP socket
+- UDP socket
+- Serial port
 
 A sensor manager is attached to project instances that allows users to register sensors within their project files. Contrary to other inputs such as a positioning device, sensors are considered to be much more project-specific data inputs. The big advantage of project-based sensors is that it makes those much more portable and easier to share across users.
 
@@ -810,26 +810,25 @@ The WFS/ OGC API for Features (OAPIF) data provider has been extended to support
 
 New functionalities include:
 
--  Support for filtering on feature properties (OGC API Features Part 1 - /rec/core/fc-filters). This uses the /api endpoint to get the list of queryable items.
--  Support for filtering based on OGC API Features Part 3 - CQL2-text
--  Pass selected CRS to query builder UI
--  Implement a getFeature() expression translation
+- Support for filtering on feature properties (OGC API Features Part 1 - /rec/core/fc-filters). This uses the /api endpoint to get the list of queryable items.
+- Support for filtering based on OGC API Features Part 3 - CQL2-text
+- Pass selected CRS to query builder UI
+- Implement a getFeature() expression translation
 
-| For the CQL2text compatibility, the server ``/conformance`` implementation is required to declare at least the following data:
-| - http://www.opengis.net/spec/ogcapi-features-3/1.0/conf/filter
-| - http://www.opengis.net/spec/ogcapi-features-3/1.0/conf/features-filter
-| - http://www.opengis.net/spec/cql2/1.0/conf/cql2-text
-| - http://www.opengis.net/spec/cql2/1.0/conf/basic-cql2
+For the CQL2text compatibility, the server ``/conformance`` implementation is required to declare at least the following data:
+
+- http://www.opengis.net/spec/ogcapi-features-3/1.0/conf/filter
+- http://www.opengis.net/spec/ogcapi-features-3/1.0/conf/features-filter
+- http://www.opengis.net/spec/cql2/1.0/conf/cql2-text
+- http://www.opengis.net/spec/cql2/1.0/conf/basic-cql2
 
 The ``/collections/{collid}/queryables`` endpoint is requested to get the queryable properties.
 
 Additional conformance classes for advanced filtering include the following items:
 
-::
-
-    - http://www.opengis.net/spec/cql2/1.0/conf/advanced-comparison-operators: for IN, BETWEEN, LIKE
-    - http://www.opengis.net/spec/cql2/1.0/conf/case-insensitive-comparison: for ILIKE
-    - http://www.opengis.net/spec/cql2/1.0/conf/basic-spatial-operators: for `intersects(geomcolumn, geomFromWkt('POINT(x y)'))` and `bbox_intersects(geomcolumn, geomFromWkt('WKT LITERAL'))`
+- http://www.opengis.net/spec/cql2/1.0/conf/advanced-comparison-operators: for IN, BETWEEN, LIKE
+- http://www.opengis.net/spec/cql2/1.0/conf/case-insensitive-comparison: for ILIKE
+- http://www.opengis.net/spec/cql2/1.0/conf/basic-spatial-operators: for ``intersects(geomcolumn, geomFromWkt('POINT(x y)'))`` and ``bbox_intersects(geomcolumn, geomFromWkt('WKT LITERAL'))``
 
 This feature was developed by `Even Rouault <https://github.com/rouault>`__
 
@@ -924,11 +923,11 @@ Feature: Run shell commands from the Python Console
 
 The QGIS Python ConsoleMimics IPython behavior to run system commands.
 
--  Run any command that works at the command-line with the syntax ``!<cmd>``. The console will start a subprocess, and forward its output to the Python Console Output.
--  While the subprocess is running, the Python Console Input switch to STDIN mode and forwards entered character to the child process. This make it possible to send confirmation when the child program ask for it.
--  This provides easy access to commands such as pip for the simple installation and removal of dependencies directly within the QGIS project context
--  When the Console is in STDIN mode, pressing Ctrl+C will kill the subprocess.
--  Affect the result of a command to a variable with the syntax ``var = !cmd``
+- Run any command that works at the command-line with the syntax ``!<cmd>``. The console will start a subprocess, and forward its output to the Python Console Output.
+- While the subprocess is running, the Python Console Input switch to STDIN mode and forwards entered character to the child process. This make it possible to send confirmation when the child program ask for it.
+- This provides easy access to commands such as pip for the simple installation and removal of dependencies directly within the QGIS project context
+- When the Console is in STDIN mode, pressing Ctrl+C will kill the subprocess.
+- Affect the result of a command to a variable with the syntax ``var = !cmd``
 
 |image38|
 
@@ -941,19 +940,20 @@ A "format code" action has been added to the Python Console Editor which allows 
 
 Additional configuration settings for this action include:
 
--  Format on save: if enabled, formatting is applied just before saving the script
--  Sort imports: Sort import statements using isort
--  Max line length: Control how the formatter will wrap the lines, and controls the editor ruler
+- Format on save: if enabled, formatting is applied just before saving the script
+- Sort imports: Sort import statements using isort
+- Max line length: Control how the formatter will wrap the lines, and controls the editor ruler
 
-| The Formatter options allow for a selection between the autopep8 or black linting tools and provide the following additional options:
-| - Level (autopep8 only) See `Autopep8 aggressiveness level <https://pypi.org/project/autopep8/#more-advanced-usage>`__
-| - Normalize quotes (black only): Replace all single quotes with double quotes if possible
+The Formatter options allow for a selection between the autopep8 or black linting tools and provide the following additional options:
+
+- Level (autopep8 only) See `Autopep8 aggressiveness level <https://pypi.org/project/autopep8/#more-advanced-usage>`__
+- Normalize quotes (black only): Replace all single quotes with double quotes if possible
 
 Sorting operations are provided using isort, which will allow for sorting import statements in three different groups:
 
--  standard library imports (re, os, sys, json, ...)
--  third-party modules (PyQt5, pandas, dateutil, ...)
--  first-party modules (qgis, processing, ...)
+- standard library imports (re, os, sys, json, ...)
+- third-party modules (PyQt5, pandas, dateutil, ...)
+- first-party modules (qgis, processing, ...)
 
 These operations will facilitate consistent development in line with industry best practices and improve code quality, consistency, readability, and operational efficiency (especially when coupled with version control systems).
 
@@ -982,19 +982,19 @@ Feature: Bug fixes by Even Rouault (Spatialys)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 +-----------------------------------------------------------------------------+------------------------------------------------------------------------+------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
-| Bug Title                                                                   | URL issues.qgis.org (if reported)                                      | URL Commit (Github)                                                          | 3.28 backport commit (GitHub)                                                                            |
+| Bug Title                                                                   | URL issues (Github, if reported)                                       | URL Commit (Github)                                                          | 3.28 backport commit (GitHub)                                                                            |
 +=============================================================================+========================================================================+==============================================================================+==========================================================================================================+
-| GeoJSON IDs are barely supported (only reading string IDs is supported)     | `#53214 <%5B#53214%5D(https://github.com/qgis/QGIS/issues/53214)>`__   | Just analysis - fix out of scope                                             | unreported - [cleanup] QgsOgrFeatureIterator(): remove (hopefully!) useless code in subset string case   |
+| GeoJSON IDs are barely supported (only reading string IDs is supported)     | `#53214 <https://github.com/qgis/QGIS/issues/53214>`__                 | Just analysis - fix out of scope                                             | unreported - [cleanup] QgsOgrFeatureIterator(): remove (hopefully!) useless code in subset string case   |
 +-----------------------------------------------------------------------------+------------------------------------------------------------------------+------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
-| "Order by" memory leak                                                      | `#53198 <%5B#53198%5D(https://github.com/qgis/QGIS/issues/53198)>`__   | `PR #53266 <%5BPR%20#53266%5D(https://github.com/qgis/QGIS/pull/53266)>`__   | N/A                                                                                                      |
+| "Order by" memory leak                                                      | `#53198 <https://github.com/qgis/QGIS/issues/53198>`__                 | `PR #53266 <%5BPR%20#53266%5D(https://github.com/qgis/QGIS/pull/53266)>`__   | N/A                                                                                                      |
 +-----------------------------------------------------------------------------+------------------------------------------------------------------------+------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
-| Browser very slow when opening directory containing several GDB             | `#53265 <%5B#53265%5D(https://github.com/qgis/QGIS/issues/53265)>`__   | `PR #53267 <%5BPR%20#53267%5D(https://github.com/qgis/QGIS/pull/53267)>`__   | Doesn't build with armv7 on openSUSE Tumbleweed                                                          |
+| Browser very slow when opening directory containing several GDB             | `#53265 <https://github.com/qgis/QGIS/issues/53265>`__                 | `PR #53267 <%5BPR%20#53267%5D(https://github.com/qgis/QGIS/pull/53267)>`__   | Doesn't build with armv7 on openSUSE Tumbleweed                                                          |
 +-----------------------------------------------------------------------------+------------------------------------------------------------------------+------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
-| Add .pgwx as potential world file types for georeferenced png               | `#53125 <%5B#53125%5D(https://github.com/qgis/QGIS/issues/53125)>`__   | `GDAL PR 7864 <https://github.com/OSGeo/gdal/pull/7864>`__                   | N/A - GDAL fix                                                                                           |
+| Add .pgwx as potential world file types for georeferenced png               | `#53125 <https://github.com/qgis/QGIS/issues/53125>`__                 | `GDAL PR 7864 <https://github.com/OSGeo/gdal/pull/7864>`__                   | N/A - GDAL fix                                                                                           |
 +-----------------------------------------------------------------------------+------------------------------------------------------------------------+------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
-| Assertion failed when filtering a GeoParquet layer                          | `#53301 <%5B#53301%5D(https://github.com/qgis/QGIS/issues/53301)>`__   | `GDAL PR 7882 <https://github.com/OSGeo/gdal/pull/7882>`__                   | N/A - GDAL fix                                                                                           |
+| Assertion failed when filtering a GeoParquet layer                          | `#53301 <https://github.com/qgis/QGIS/issues/53301>`__                 | `GDAL PR 7882 <https://github.com/OSGeo/gdal/pull/7882>`__                   | N/A - GDAL fix                                                                                           |
 +-----------------------------------------------------------------------------+------------------------------------------------------------------------+------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
-| Given URL parameters do not persist for WFS OGC API - Features connection   | `#49154 <%5B#49154%5D(https://github.com/qgis/QGIS/issues/49154)>`__   | tryed to reproduce - too complicated                                         | Field domain created incorrectly                                                                         |
+| Given URL parameters do not persist for WFS OGC API - Features connection   | `#49154 <https://github.com/qgis/QGIS/issues/49154>`__                 | tried to reproduce - too complicated                                         | Field domain created incorrectly                                                                         |
 +-----------------------------------------------------------------------------+------------------------------------------------------------------------+------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
 | Field domain created incorrectly                                            | `#52318 <https://github.com/qgis/QGIS/issues/52318>`__                 | `PR #53314 <https://github.com/qgis/QGIS/pull/53314>`__                      | `PR #53349 <https://github.com/qgis/QGIS/pull/53349>`__                                                  |
 +-----------------------------------------------------------------------------+------------------------------------------------------------------------+------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
@@ -1009,7 +1009,7 @@ Feature: Bug fixes by Sandro Santilli (strk)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 +------------------------------------------------------+----------------------------------------------------------+--------------------------------------------------------------+-----------------------------------------------------------+
-| Bug Title                                            | URL issues.qgis.org (if reported)                        | URL Commit (Github)                                          | 3.28 backport commit (GitHub)                             |
+| Bug Title                                            | URL issues (Github, if reported)                         | URL Commit (Github)                                          | 3.28 backport commit (GitHub)                             |
 +======================================================+==========================================================+==============================================================+===========================================================+
 | QGIS offset line shows perpendicular tags issue      | `#53165 <https://github.com/qgis/QGIS/issues/53165>`__   | `PR #53234 <https://github.com/qgis/QGIS/pull/53234>`__      | `PR #53308 <https://github.com/qgis/QGIS/pull/53308>`__   |
 +------------------------------------------------------+----------------------------------------------------------+--------------------------------------------------------------+-----------------------------------------------------------+
@@ -1024,7 +1024,7 @@ Feature: Bug fixes by Alessandro Pasotti (itOpen / qcooperative)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 +----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------+-----------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Bug Title                                                                                                      | URL issues.qgis.org (if reported)                        | URL Commit (Github)                                       | 3.28 backport commit (GitHub)                                                                                  |
+| Bug Title                                                                                                      | URL issues (Github, if reported)                         | URL Commit (Github)                                       | 3.28 backport commit (GitHub)                                                                                  |
 +================================================================================================================+==========================================================+===========================================================+================================================================================================================+
 | Legend filter expression has an incomplete context                                                             | `#53229 <https://github.com/qgis/QGIS/issues/53229>`__   | `PR #53296 <https://github.com/qgis/QGIS/pull/53296>`__   | queued                                                                                                         |
 +----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------+-----------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
@@ -1055,7 +1055,7 @@ Feature: Bug fixes by Alex Bruy (LutraConsulting)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 +-----------------------------------------------------------------------------------------------------+----------------------------------------------------------+-----------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
-| Bug Title                                                                                           | URL issues.qgis.org (if reported)                        | URL Commit (Github)                                                         | 3.28 backport commit (GitHub)                                                                                                |
+| Bug Title                                                                                           | URL issues (Github, if reported)                         | URL Commit (Github)                                                         | 3.28 backport commit (GitHub)                                                                                                |
 +=====================================================================================================+==========================================================+=============================================================================+==============================================================================================================================+
 | [Expressions]: missing "//" operator help                                                           | `#52094 <https://github.com/qgis/QGIS/issues/52094>`__   | `PR #53355 <https://github.com/qgis/QGIS/pull/53355>`__                     | `PR #53396 <https://github.com/qgis/QGIS/pull/53396>`__                                                                      |
 +-----------------------------------------------------------------------------------------------------+----------------------------------------------------------+-----------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
@@ -1080,7 +1080,7 @@ Feature: Bug fixes by Julien Cabieces
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 +-----------------------------------------------------------------------------------------------+----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
-| Bug Title                                                                                     | URL issues.qgis.org (if reported)                        | URL Commit (Github)                                       | 3.28 backport commit (GitHub)                             |
+| Bug Title                                                                                     | URL issues (Github, if reported)                         | URL Commit (Github)                                       | 3.28 backport commit (GitHub)                             |
 +===============================================================================================+==========================================================+===========================================================+===========================================================+
 | QgsRasterIterator.readNextRasterPart() has a memory leak                                      | `#53412 <https://github.com/qgis/QGIS/issues/53412>`__   | `PR #53444 <https://github.com/qgis/QGIS/pull/53444>`__   | `PR #53445 <https://github.com/qgis/QGIS/pull/53445>`__   |
 +-----------------------------------------------------------------------------------------------+----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
@@ -1107,7 +1107,7 @@ Feature: Bug fixes by Jean Felder (Oslandia)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 +---------------------------------------------------------------+----------------------------------------------------------+-----------------------------------------------------------+---------------------------------+
-| Bug Title                                                     | URL issues.qgis.org (if reported)                        | URL Commit (Github)                                       | 3.28 backport commit (GitHub)   |
+| Bug Title                                                     | URL issues (Github, if reported)                         | URL Commit (Github)                                       | 3.28 backport commit (GitHub)   |
 +===============================================================+==========================================================+===========================================================+=================================+
 | Erased profile plot is redrawn after a layer toggles on/off   | `#48117 <https://github.com/qgis/QGIS/issues/48117>`__   | `PR #53468 <https://github.com/qgis/QGIS/pull/53468>`__   |                                 |
 +---------------------------------------------------------------+----------------------------------------------------------+-----------------------------------------------------------+---------------------------------+
@@ -1120,7 +1120,7 @@ Feature: Bug fixes by Jacky Volpes (Oslandia)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 +-------------------------------------------------------+----------------------------------------------------------+-----------------------+---------------------------------+
-| Bug Title                                             | URL issues.qgis.org (if reported)                        | URL Commit (Github)   | 3.28 backport commit (GitHub)   |
+| Bug Title                                             | URL issues (Github, if reported)                         | URL Commit (Github)   | 3.28 backport commit (GitHub)   |
 +=======================================================+==========================================================+=======================+=================================+
 | Legend not updating dynamically when using an atlas   | `#53442 <https://github.com/qgis/QGIS/issues/53442>`__   | Still WIP             |                                 |
 +-------------------------------------------------------+----------------------------------------------------------+-----------------------+---------------------------------+
@@ -1133,11 +1133,11 @@ Feature: Bug fixes by Nyall Dawson (North Road)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 +-------------------------------------------------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------+
-| Bug Title                                                                                       | URL issues.qgis.org (if reported)                         | URL Commit (Github)                                                                                                                                                           | 3.28 backport commit (GitHub)                                           |
+| Bug Title                                                                                       | URL issues (Github, if reported)                          | URL Commit (Github)                                                                                                                                                           | 3.28 backport commit (GitHub)                                           |
 +=================================================================================================+===========================================================+===============================================================================================================================================================================+=========================================================================+
-| Many fixes for regressions on hidpi displays following improved approach implemented for 3.32   | Multiple                                                  | `PR #53556 <https://github.com/qgis/QGIS/pull/53556>`__ , `PR #53533 <https://github.com/qgis/QGIS/pull/53533>`__ , `PR #53531 <https://github.com/qgis/QGIS/pull/53531>`__   | , `PR #53517 <https://github.com/qgis/QGIS/pull/53517>`__               |
+| Many fixes for regressions on hidpi displays following improved approach implemented for 3.32   | Multiple                                                  | `PR #53556 <https://github.com/qgis/QGIS/pull/53556>`__ , `PR #53533 <https://github.com/qgis/QGIS/pull/53533>`__ , `PR #53531 <https://github.com/qgis/QGIS/pull/53531>`__   | `PR #53517 <https://github.com/qgis/QGIS/pull/53517>`__                 |
 +-------------------------------------------------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------+
-| Implement proper support for new vsi archive formats added in GDAL 3.7                          | `PR #53515 <https://github.com/qgis/QGIS/pull/53515>`__   | NA                                                                                                                                                                            |                                                                         |
+| Implement proper support for new vsi archive formats added in GDAL 3.7                          |                                                           | `PR #53515 <https://github.com/qgis/QGIS/pull/53515>`__                                                                                                                       | NA                                                                      |
 +-------------------------------------------------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------+
 | Store updated postgres credentials in layer source                                              | `#37632 <https://github.com/qgis/QGIS/issues/37632>`__    | `PR #53465 <https://github.com/qgis/QGIS/pull/53465>`__                                                                                                                       | NA                                                                      |
 +-------------------------------------------------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------+
