@@ -869,7 +869,7 @@ QGIS Server
 Feature: PDF format options for WMS GetPrint
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The ``FORMAT_OPTIONS`` parameter in QGIS server can now also be used to pass format options for PDF format to WMS GetPrint.
+The ``FORMAT_OPTIONS`` parameter in QGIS Server can now also be used to pass format options for PDF format to WMS GetPrint.
 This allows more control in GetPrint requests when generating GeoPDF outputs, such as Georeference or Geometry Simplification settings.
 
 This feature was developed by `mhugent <https://github.com/mhugent>`__
