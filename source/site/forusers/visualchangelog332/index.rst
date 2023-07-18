@@ -365,6 +365,18 @@ This feature was funded by ChartWorld International
 
 This feature was developed by `Alessandro Pasotti <https://github.com/elpaso>`__
 
+Attribute table
+---------------
+
+Feature:  Improve loading time of attribute tables with hidden fields
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Improve attribute table loading time when there are hidden virtual fields and (in a more limited way) when there are hidden non-virtual fields.
+
+This feature was funded by QTIBIA Engineering and QCooperative.
+
+This feature was developed by `Alessandro Pasotti <https://github.com/elpaso>`__
+
 Data Management
 ---------------
 
