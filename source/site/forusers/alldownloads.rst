@@ -543,6 +543,30 @@ QGIS nightly release
 --------------------
 A nightly updated standalone installer from QGIS master can be downloaded from `here <https://qgis.org/downloads/macos/qgis-macos-nightly.dmg>`_.
 
+MacPorts
+------------
+The package management system `MacPorts <https://www.macports.org>`_ offers both the latest release
+version (port ``qgis3``) and the long term version (port ``qgis3-ltr``). This will install QGIS with
+native architecture, Intel x86_64 or Apple ARM. Main software dependencies such as GDAL, PDAL and
+GRASS GIS are usually the latest version available.
+
+`Installing MacPorts and updating <https://guide.macports.org>`_ it and the *ports* are made with
+the *Terminal*. QGIS is however installed as an app bundle at :file:`/Applications/MacPorts/QGIS3.app`.
+
+Get information of a port::
+
+  sudo port info qgis3
+
+Install port, e.g with GRASS GIS::
+
+  sudo port install qgis3 +grass
+
+Update::
+
+  sudo port selfupdate
+  sudo port upgrade outdated
+
+
 Old releases
 ------------
 Previous releases of the official installer can be downloaded from https://qgis.org/downloads/macos/.
