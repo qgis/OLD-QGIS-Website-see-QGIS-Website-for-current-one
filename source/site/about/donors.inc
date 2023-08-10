@@ -6809,1922 +6809,1922 @@
      - Randall Moore
      - Randall Wood
    * - Randell Laczniak
+     - Randle Sabs
      - Randolph Ayers
      - Randolph Wynne
-     - Randy Macintosh
-   * - Randy Morris
+   * - Randy Macintosh
+     - Randy Morris
      - Raoul Boughton
      - Raoul Grela
-     - Raoul Leblanc
-   * - Raphael Nalepa
+   * - Raoul Leblanc
+     - Raphael Nalepa
      - Raphaël Payet-burin
      - Rapolas Markevicius
-     - Raquel Cunill
-   * - Raquel De Barcellos
+   * - Raquel Cunill
+     - Raquel De Barcellos
      - Rasmiaditya Silasari
      - Rasmus
-     - Ratchadawan Ngoenklan
-   * - Rathindra Kuruwita
+   * - Ratchadawan Ngoenklan
+     - Rathindra Kuruwita
      - Raul
      - Raul Diaz Maturana
-     - Raul Nanclares
-   * - Raul Nanclares Da Veiga
+   * - Raul Nanclares
+     - Raul Nanclares Da Veiga
      - Raul Radu
      - Raul Rodriguez
-     - Ravi
-   * - Ravi Kiran Aluri
+   * - Ravi
+     - Ravi Kiran Aluri
      - Ravikumar Parthasarathy
      - Ravinder Siripuram
-     - Ravéreau Maya
-   * - Ray Brice
+   * - Ravéreau Maya
+     - Ray Brice
      - Ray Melissa
      - Ray Williamson
-     - Raymond Nijssen
-   * - Raymond Prachun
+   * - Raymond Nijssen
+     - Raymond Prachun
      - Raymond Warner
      - Raymond Warriner
-     - Raymund Schäffler
-   * - Raymundo Mendoza Escobedo
+   * - Raymund Schäffler
+     - Raymundo Mendoza Escobedo
      - Rayne Gardner
      - Razan Karadaghi
-     - Razvan Zaharia
-   * - Raúl Malpica Gordillo
+   * - Razvan Zaharia
+     - Raúl Malpica Gordillo
      - Rc
      - Rd Sinfield
-     - Rebeca Brenes
-   * - Rebeca Sanhueza Herrera
+   * - Rebeca Brenes
+     - Rebeca Sanhueza Herrera
      - Rebecca Eivers
      - Rebecca Houtman
-     - Rebecca Mcmillan
-   * - Rebecca Roberts
+   * - Rebecca Mcmillan
+     - Rebecca Roberts
      - Rebecca Rolwing
      - Rebecca Trevithick
-     - Rebekah Liebermann
-   * - Rechtsanwalt Kai Dombrowski
+   * - Rebekah Liebermann
+     - Rechtsanwalt Kai Dombrowski
      - Redmond Peel
      - Reed Marton
-     - Reg Nelson
-   * - Regina Summerer
+   * - Reg Nelson
+     - Regina Summerer
      - Reginald Luc Maltais
      - Regnier
-     - Rei Nishibe
-   * - Reiko Hayashi
+   * - Rei Nishibe
+     - Reiko Hayashi
      - Reilly Wood
      - Reinhard
-     - Reinhard Feisel
-   * - Reinhold Koch
+   * - Reinhard Feisel
+     - Reinhold Koch
      - Reinoud Veenhof
      - Rembertus Ruitenberg
-     - Remco Bruins
-   * - Remi Dannunzio
+   * - Remco Bruins
+     - Remi Dannunzio
      - Remi Jolivet
      - Remi Saint-Amant
-     - Remigio Cammarano
-   * - Renata Cummins
+   * - Remigio Cammarano
+     - Renata Cummins
      - Renata Leal Almaraz
      - Renate Strub
-     - Renato Angeloni
-   * - Renato Morra
+   * - Renato Angeloni
+     - Renato Morra
      - Renato Saboya
      - Renaud Benarrous
-     - Rene Gelhausen
-   * - Rene Griebsch
+   * - Rene Gelhausen
+     - Rene Griebsch
      - Rene Sanchez
      - Renee Manser
-     - Renee Peterson
-   * - Renek Loorens
+   * - Renee Peterson
+     - Renek Loorens
      - René Seeger
      - René Tanner
-     - Res.Gea Srl
-   * - Reto Bieli
+   * - Res.Gea Srl
+     - Reto Bieli
      - Reto Pauli
      - Revillion Christophe
-     - Reyes Nogueira
-   * - Reyn Akiona
+   * - Reyes Nogueira
+     - Reyn Akiona
      - Rhett Moore
      - Rhian Wardley
-     - Rhona Sampson
-   * - Rhonda Unruh-kendra
+   * - Rhona Sampson
+     - Rhonda Unruh-kendra
      - Ric Staken
      - Ricard Peret Vendrell
-     - Ricardo
-   * - Ricardo Calvário
+   * - Ricardo
+     - Ricardo Calvário
      - Ricardo Corbella Tena
      - Ricardo Eugenio Arredondo Ortiz
-     - Ricardo Fernandes
-   * - Ricardo Gomez Beltran
+   * - Ricardo Fernandes
+     - Ricardo Gomez Beltran
      - Ricardo Gonzalez
      - Ricardo Hernandez
-     - Ricardo Mondragon Galeana
-   * - Ricardo Vicente Ferreira
+   * - Ricardo Mondragon Galeana
+     - Ricardo Vicente Ferreira
      - Ricardo Villanueva Ramirez
      - Riccardo Baima
-     - Riccardo Carmenati
-   * - Riccardo Corbini
+   * - Riccardo Carmenati
+     - Riccardo Corbini
      - Riccardo D'amato
      - Riccardo Diamanti
-     - Riccardo Enrici
-   * - Riccardo Franceschi
+   * - Riccardo Enrici
+     - Riccardo Franceschi
      - Riccardo Giaccari
      - Riccardo Rigolli
-     - Riccardo Rosa
-   * - Riccardo Torri
+   * - Riccardo Rosa
+     - Riccardo Torri
      - Rich Heady
      - Richard A Bridges
-     - Richard Barnes
-   * - Richard Bierregaard
+   * - Richard Barnes
+     - Richard Bierregaard
      - Richard Bohmer
      - Richard Bourdeau
-     - Richard Brail
-   * - Richard Bridges
+   * - Richard Brail
+     - Richard Bridges
      - Richard Burrows
      - Richard Carver
-     - Richard Chibanga
-   * - Richard Conolly
+   * - Richard Chibanga
+     - Richard Conolly
      - Richard Cousineau
      - Richard Duivenvoorde
-     - Richard Dunlop
-   * - Richard Engel
+   * - Richard Dunlop
+     - Richard Engel
      - Richard Fry
      - Richard Gascon
-     - Richard Graf
-   * - Richard Graves
+   * - Richard Graf
+     - Richard Graves
      - Richard Greenwood
      - Richard Hall
-     - Richard Holbrook
-   * - Richard Houghton
+   * - Richard Holbrook
+     - Richard Houghton
      - Richard Huesken
      - Richard Jandreau
-     - Richard Jansen
-   * - Richard K Johnson
+   * - Richard Jansen
+     - Richard K Johnson
      - Richard Kelaart
      - Richard Lakey
-     - Richard Langford
-   * - Richard Lindsay
+   * - Richard Langford
+     - Richard Lindsay
      - Richard Males
      - Richard Marovich
-     - Richard May
-   * - Richard Mcnamara
+   * - Richard May
+     - Richard Mcnamara
      - Richard Miller
      - Richard Owusu-Ansah
-     - Richard Poole
-   * - Richard Quodomine
+   * - Richard Poole
+     - Richard Quodomine
      - Richard Rawson
      - Richard Reese
-     - Richard Roebuck
-   * - Richard Sommer
+   * - Richard Roebuck
+     - Richard Sommer
      - Richard W Zmasek
      - Richard Ward
-     - Rick Brennan
-   * - Rick Stevens
+   * - Rick Brennan
+     - Rick Stevens
      - Rick W
      - Ricky Thakrar
-     - Rico Van Driel
-   * - Ridwan Adeyemi Shittu
+   * - Rico Van Driel
+     - Ridwan Adeyemi Shittu
      - Riegger
      - Ries Lindley
-     - Rihards Skuja
-   * - Riki Parata
+   * - Rihards Skuja
+     - Riki Parata
      - Rikki Mitchell
      - Riley Balikian
-     - Riley Iwamoto
-   * - Rina
+   * - Riley Iwamoto
+     - Rina
      - Rinat Yafa Calvo
      - Rios Gonzalez Sergio
-     - Rita Carone
-   * - River Retreat Canterbury Limited
+   * - Rita Carone
+     - River Retreat Canterbury Limited
      - Rivu Basu
      - Rizky Rahman
-     - Rj Ramey
-   * - Rl Koomans
+   * - Rj Ramey
+     - Rl Koomans
      - Rob Braggaar
      - Rob Fischer
-     - Rob Jarvis
-   * - Rob Kruger
+   * - Rob Jarvis
+     - Rob Kruger
      - Rob Linke
      - Rob Marsh Woodland Services Ltd
-     - Rob Scott
-   * - Rob Stevenson
+   * - Rob Scott
+     - Rob Stevenson
      - Robert
      - Robert Acosta
-     - Robert Akridge
-   * - Robert Arent
+   * - Robert Akridge
+     - Robert Arent
      - Robert Arkell
      - Robert Ayala
-     - Robert Banfield
-   * - Robert Barr
+   * - Robert Banfield
+     - Robert Barr
      - Robert Blakeman
      - Robert Bridgham
-     - Robert Brown
-   * - Robert Browning
+   * - Robert Brown
+     - Robert Browning
      - Robert Bryan
      - Robert Burgess
-     - Robert Charles Danziger
-   * - Robert Cline
+   * - Robert Charles Danziger
+     - Robert Cline
      - Robert Creighton
      - Robert Diersing
-     - Robert Eli
-   * - Robert English
+   * - Robert Eli
+     - Robert English
      - Robert Hagen
      - Robert Hajdak
-     - Robert Hamill
-   * - Robert Healy
+   * - Robert Hamill
+     - Robert Healy
      - Robert Henning
      - Robert Hershberger
-     - Robert Hess
-   * - Robert Hoff
+   * - Robert Hess
+     - Robert Hoff
      - Robert Irwin
      - Robert J Montgomery
-     - Robert Johnson
-   * - Robert Kibbee
+   * - Robert Johnson
+     - Robert Kibbee
      - Robert King
      - Robert Kolacny
-     - Robert L Thomas
-   * - Robert Lyons
+   * - Robert L Thomas
+     - Robert Lyons
      - Robert Marks
      - Robert Mayer
-     - Robert Mifflin
-   * - Robert Miletić
+   * - Robert Mifflin
+     - Robert Miletić
      - Robert Miller
      - Robert Mitchum
-     - Robert Morrison
-   * - Robert Morse
+   * - Robert Morrison
+     - Robert Morse
      - Robert Nuske
      - Robert Oelberg
-     - Robert Oldham
-   * - Robert Pare
+   * - Robert Oldham
+     - Robert Pare
      - Robert Richardson
      - Robert Ryan
-     - Robert Sawicki
-   * - Robert Seli
+   * - Robert Sawicki
+     - Robert Seli
      - Robert Simmons
      - Robert Smith
-     - Robert Stevens
-   * - Robert Stevenson
+   * - Robert Stevens
+     - Robert Stevenson
      - Robert Stuckert
      - Robert Sweeny
-     - Robert Templeton
-   * - Robert Thunen
+   * - Robert Templeton
+     - Robert Thunen
      - Robert Thurston
      - Robert Türkis Di
-     - Robert Vandre
-   * - Robert Venyige
+   * - Robert Vandre
+     - Robert Venyige
      - Robert Wernerehl
      - Robert Westfall
-     - Robert White
-   * - Robert Willson
+   * - Robert White
+     - Robert Willson
      - Robert Ziel
      - Roberta Anna Benetti
-     - Roberta Benetti
-   * - Roberta Pegorer Lara De Moraes
+   * - Roberta Benetti
+     - Roberta Pegorer Lara De Moraes
      - Roberto Benet Ballester
      - Roberto Berchi
-     - Roberto Bode
-   * - Roberto Budino Fernandez
+   * - Roberto Bode
+     - Roberto Budino Fernandez
      - Roberto Canali
      - Roberto Colorado Ruiz
-     - Roberto Cricchi
-   * - Roberto Danieli
+   * - Roberto Cricchi
+     - Roberto Danieli
      - Roberto Facoetti
      - Roberto Garcìa Bouissou
-     - Roberto Guerrero
-   * - Roberto Hentschel
+   * - Roberto Guerrero
+     - Roberto Hentschel
      - Roberto Iovinelli
      - Roberto Lavin
-     - Roberto Leiva Cruz
-   * - Roberto Matteini
+   * - Roberto Leiva Cruz
+     - Roberto Matteini
      - Roberto Recamunda
      - Roberto Sattanino
-     - Roberto Spina
-   * - Roberto Vallejo Bombín
+   * - Roberto Spina
+     - Roberto Vallejo Bombín
      - Roberto Vicomandi
      - Robin Paice
-     - Robin Pettigrew
-   * - Robin Watson
+   * - Robin Pettigrew
+     - Robin Watson
      - Robin Wilson
      - Rocco Guidano
-     - Rocco Pispico
-   * - Rocio Chongtay
+   * - Rocco Pispico
+     - Rocio Chongtay
      - Rock Nelson
      - Rod Mcinnes
-     - Rod Vance
-   * - Rodan Di Maria
+   * - Rod Vance
+     - Rodan Di Maria
      - Roderic Bera
      - Rodney Lane
-     - Rodolfo Rodela
-   * - Rodrigo Bonilla
+   * - Rodolfo Rodela
+     - Rodrigo Bonilla
      - Rodrigo Lima Fontanari
      - Rodrigo Lopez
-     - Rodrigo Nunez
-   * - Rodrigo Pereira
+   * - Rodrigo Nunez
+     - Rodrigo Pereira
      - Rodrigo Sierra
      - Rodrigo Villela Machado
-     - Roel Van De Wetering
-   * - Roelof Versteeg
+   * - Roel Van De Wetering
+     - Roelof Versteeg
      - Roger Barnard
      - Roger Birchall
-     - Roger Claxton
-   * - Roger Faucheux
+   * - Roger Claxton
+     - Roger Faucheux
      - Roger Gross
      - Roger Hargreaves
-     - Roger Hulstein
-   * - Roger J Epps
+   * - Roger Hulstein
+     - Roger J Epps
      - Roger Merritt
      - Rogerio Oliveira Souza
-     - Roko Vlašić
-   * - Rokpelnis Karlis
+   * - Roko Vlašić
+     - Rokpelnis Karlis
      - Roland Brouwer
      - Roland Kals
-     - Roland Koeppe
-   * - Roland Milz
+   * - Roland Koeppe
+     - Roland Milz
      - Roland Pesch
      - Roland Spencer-Jones
-     - Roland Stonex
-   * - Rolando Leonel Orozco Tenorio
+   * - Roland Stonex
+     - Rolando Leonel Orozco Tenorio
      - Rolf Aslund
      - Rolf Bart
-     - Rolf Böker
-   * - Rolf Graff
+   * - Rolf Böker
+     - Rolf Graff
      - Rolf Knebel
      - Rolland Paillat
-     - Romain Barrière
-   * - Romain Beget
+   * - Romain Barrière
+     - Romain Beget
      - Romain Götz
      - Roman Birke
-     - Roman Graf
-   * - Roman Hobler
+   * - Roman Graf
+     - Roman Hobler
      - Roman Romanenko
      - Romano Fistola
-     - Romi Rancken
-   * - Romina Fusillo
+   * - Romi Rancken
+     - Romina Fusillo
      - Rommel Maslog
      - Román Alonso Pérez
-     - Román Andrés Bondía
-   * - Ron Birks
+   * - Román Andrés Bondía
+     - Ron Birks
      - Ron Kieckbusch
      - Ron Madonald
-     - Ron Pulford
-   * - Ron Simpson
+   * - Ron Pulford
+     - Ron Simpson
      - Ronald Caballero
      - Ronald E Smith
-     - Ronald Karr
-   * - Ronald Malm
+   * - Ronald Karr
+     - Ronald Malm
      - Ronald Verave
      - Ronaldo Auletta Jr
-     - Ronan A Mandra
-   * - Ronan Lattuga
+   * - Ronan A Mandra
+     - Ronan Lattuga
      - Ronel
      - Rongs Xu
-     - Roni King
-   * - Ronny Naalisvaara
+   * - Roni King
+     - Ronny Naalisvaara
      - Roots of Knowledge
      - Rory Brückmann
-     - Rory Krocker
-   * - Rory O Sullivan
+   * - Rory Krocker
+     - Rory O Sullivan
      - Rosanna
      - Rosanna Salati
-     - Rosario Cataldo Maria Cigna
-   * - Rosario Mare
+   * - Rosario Cataldo Maria Cigna
+     - Rosario Mare
      - Rosario Negusse
      - Rosaura Núñez Mendoza
-     - Roselis Costa
-   * - Rosemarie Baumgartner
+   * - Roselis Costa
+     - Rosemarie Baumgartner
      - Rosemary Cevasco
      - Rosendo Naranjo Trejo
-     - Ross Frith
-   * - Ross Kirkland
+   * - Ross Frith
+     - Ross Kirkland
      - Ross Lincolne
      - Ross Mcdonald
-     - Rostislav Berka
-   * - Rosário Dilo
+   * - Rostislav Berka
+     - Rosário Dilo
      - Rowan May
      - Rowena Coshan
-     - Roxana Mostafavi
-   * - Roy
+   * - Roxana Mostafavi
+     - Roy
      - Roy Brander
      - Roy Cunningham
-     - Roy Lobley
-   * - Roy Rathbun
+   * - Roy Lobley
+     - Roy Rathbun
      - Rpc Brown
      - Rs
-     - Rt Permaculture
-   * - Ruben Chao
+   * - Rt Permaculture
+     - Ruben Chao
      - Ruben E Ledezma
      - Ruben Grossmann
-     - Ruben Jarych
-   * - Ruben Smelik
+   * - Ruben Jarych
+     - Ruben Smelik
      - Rubén Darío Godoy
      - Rudolf Frank
-     - Rudolf Sailer
-   * - Rudolf Wasem
+   * - Rudolf Sailer
+     - Rudolf Wasem
      - Rudy Orlando Vasquez Acuña
      - Rudy Stricklan
-     - Ruediger Von Alkier
-   * - Rui Fernandes
+   * - Ruediger Von Alkier
+     - Rui Fernandes
      - Rui Morêda
      - Rui Pedro Henriques
-     - Rupert Lane
-   * - Rupestrian Cyberservices
+   * - Rupert Lane
+     - Rupestrian Cyberservices
      - Ruslan Akhmadiev
      - Ruslan Goncharov
-     - Russ Duncan
-   * - Russel Taylor
+   * - Russ Duncan
+     - Russel Taylor
      - Russell Aspland
      - Russell Derrick
-     - Russell Fulton
-   * - Russell Miller
+   * - Russell Fulton
+     - Russell Miller
      - Russell Plume
      - Russell Rew
-     - Russell Shaw
-   * - Russell Smith
+   * - Russell Shaw
+     - Russell Smith
      - Russell Wong
      - Russell Ó Ríagáin
-     - Rutger De Koning
-   * - Rutger Emmelkamp
+   * - Rutger De Koning
+     - Rutger Emmelkamp
      - Ruth Benson
      - Ruth Beusing
-     - Ruth Carden
-   * - Ruth Mundall
+   * - Ruth Carden
+     - Ruth Mundall
      - Ruth Pirie
      - Ruth Shaw
-     - Ruth Swetnam
-   * - Ruth Thomas
+   * - Ruth Swetnam
+     - Ruth Thomas
      - Ry Blaisdell
      - Ryan Brazeal
-     - Ryan Cooper
-   * - Ryan Degive
+   * - Ryan Cooper
+     - Ryan Degive
      - Ryan Ewing
      - Ryan Flaherty
-     - Ryan Harrigan
-   * - Ryan Perroy
+   * - Ryan Harrigan
+     - Ryan Perroy
      - Ryan Photographic
      - Ryan Plummer
-     - Ryan Rudnicki
-   * - Ryan Skorecki
+   * - Ryan Rudnicki
+     - Ryan Skorecki
      - Ryan Swaffar
      - Ryan Taylor
-     - Ryder Kouba
-   * - Rynd Smith
+   * - Ryder Kouba
+     - Rynd Smith
      - Ryo Nishida
      - Ryoya Matsuzaki
-     - Régis Haubourg
-   * - Rémi Bovard
+   * - Régis Haubourg
+     - Rémi Bovard
      - Rémy Weich
      - Röder, Chistoph
-     - S A Odell
-   * - S J Primrose
+   * - S A Odell
+     - S J Primrose
      - S M Johnson
      - S Stawicki
-     - S.M.J. de Boer
-   * - S\. Gebhardt  und A. Zink
+   * - S.M.J. de Boer
+     - S\. Gebhardt  und A. Zink
      - S\. Janie Truitt
      - S\. M. van Maastrigt-Pawiroredjo
-     - S\. Siepman
-   * - Sabato Iuliano
+   * - S\. Siepman
+     - Sabato Iuliano
      - Saber Razmjooei
      - Sabine Dreyer
-     - Sabine El Moualy
-   * - Sabine Jantschke
+   * - Sabine El Moualy
+     - Sabine Jantschke
      - Sabine Yacoub
      - Sadaqat Ali
-     - Sadiqa Mohamadi
-   * - Sadler Consultants Europe Gmbh
+   * - Sadiqa Mohamadi
+     - Sadler Consultants Europe Gmbh
      - Sagi Aloni
      - Saif Kadhim
-     - Sakari Heikkilä
-   * - Sakari Salonen
+   * - Sakari Heikkilä
+     - Sakari Salonen
      - Sake Wagenaar
      - Saksham Gupta
-     - Sale Data Service
-   * - Saleh Babazadeh
+   * - Sale Data Service
+     - Saleh Babazadeh
      - Salem Kozik
      - Sallam Al-salami
-     - Salvador Diez De La Cortina
-   * - Salvador Manuel Armas Reyes
+   * - Salvador Diez De La Cortina
+     - Salvador Manuel Armas Reyes
      - Salvador Sanchez Colon
      - Salvador Sanchezcolon
-     - Salvadore Elga
-   * - Salvatore Borgo
+   * - Salvadore Elga
+     - Salvatore Borgo
      - Salvatore Cabras
      - Salvatore Fiandaca
-     - Salvatore Joseph
-   * - Salvatore Livreri Console
+   * - Salvatore Joseph
+     - Salvatore Livreri Console
      - Salvatore Maurello
      - Salvatore Panto'
-     - Salvatore Spina
-   * - Salvini Nino
+   * - Salvatore Spina
+     - Salvini Nino
      - Sam Morgan
      - Sam Wilkin
-     - Samantha Blampied
-   * - Samantha Corwin
+   * - Samantha Blampied
+     - Samantha Corwin
      - Samantha Devine-turner
      - Samantha Pavan Da Silva Pereira
-     - Samantha Prumm
-   * - Samer Hosary
+   * - Samantha Prumm
+     - Samer Hosary
      - Samir Benjelloun
      - Samir Hussien (Mr)
-     - Samuel Blythe
-   * - Samuel Brown
+   * - Samuel Blythe
+     - Samuel Brown
      - Samuel Crowson
      - Samuel Maurer
-     - Samuel Mesa Giraldo
-   * - Samuel Okoroafor
+   * - Samuel Mesa Giraldo
+     - Samuel Okoroafor
      - Samuel Stewart
      - Samuel Wiepking
-     - Samuel Zipper
-   * - Samuele Papeschi
+   * - Samuel Zipper
+     - Samuele Papeschi
      - Samy Mezani
      - Sandeep Sabu
-     - Sander Enderink
-   * - Sander Huizing
+   * - Sander Enderink
+     - Sander Huizing
      - Sandor Csok
      - Sandra Carolina Lastra Zuluaga
-     - Sandra Collin
-   * - Sandra Fish
+   * - Sandra Collin
+     - Sandra Fish
      - Sandra Lopes
      - Sandra Mercado
-     - Sandra Schwarz
-   * - Sandra Torres
+   * - Sandra Schwarz
+     - Sandra Torres
      - Sandro Genovese
      - Sandro Maroni
-     - Sandro Poloni
-   * - Sandro Zambotti
+   * - Sandro Poloni
+     - Sandro Zambotti
      - Sandy Wong
      - Sang Won Lee
-     - Sanjiv Rughooputh
-   * - Sanna Jokela
+   * - Sanjiv Rughooputh
+     - Sanna Jokela
      - Sanowar Hussain
      - Sant
-     - Santi Aragona
-   * - Santiago Abaitua
+   * - Santi Aragona
+     - Santiago Abaitua
      - Santiago Aparicio Azcarraga
      - Santiago Correa E
-     - Santiago Franco Carvajal
-   * - Santiago Guillem Picó
+   * - Santiago Franco Carvajal
+     - Santiago Guillem Picó
      - Santiago Peña Perez
      - Santiago Restrepo Calle
-     - Santiago Rodriguez Perez
-   * - Santiago Vergara
+   * - Santiago Rodriguez Perez
+     - Santiago Vergara
      - Santosh Pitla
      - Santosh Sanjel
-     - Sanz Grifrio Limin
-   * - Saori Miyake
+   * - Sanz Grifrio Limin
+     - Saori Miyake
      - Saowalak Bunma
      - Sara Bergamin
-     - Sara Hurtado Grimaldos
-   * - Sara King
+   * - Sara Hurtado Grimaldos
+     - Sara King
      - Sara Lourie
      - Sara Nylund
-     - Sara Whitehead
-   * - Sara Zanni
+   * - Sara Whitehead
+     - Sara Zanni
      - Sarah Cottam
      - Sarah Elton
-     - Sarah Georgel
-   * - Sarah Gregg
+   * - Sarah Georgel
+     - Sarah Gregg
      - Sarah Günther
      - Sarah Hernandez
-     - Sarah Hoefler
-   * - Sarah Howard
+   * - Sarah Hoefler
+     - Sarah Howard
      - Sarah Prescott
      - Sarah Raviola
-     - Sarah Wakeford
-   * - Sarah Wheale
+   * - Sarah Wakeford
+     - Sarah Wheale
      - Sarat Chandra Bokka
      - Sari Perdana-decker
-     - Sari Stissi
-   * - Sariane Petit
+   * - Sari Stissi
+     - Sariane Petit
      - Sarl Arboretude
      - SARL Réalités Environnement
-     - Sarojini Rao
-   * - Sascha Langenstein
+   * - Sarojini Rao
+     - Sascha Langenstein
      - Sascha Picard
      - Sasha Shcheglov
-     - Sashka Warner
-   * - Saskia Peet
+   * - Sashka Warner
+     - Saskia Peet
      - Savo Pjanić
      - Saw Min Aung
-     - Sayeed Mohammed
-   * - Sayo-art
+   * - Sayeed Mohammed
+     - Sayo-art
      - Sašo Šantl
      - Sc Made By Srl
-     - Scaleup Executives Inc.
-   * - Schubiger Ag
+   * - Scaleup Executives Inc.
+     - Schubiger Ag
      - Science Communication Lab
      - Scientific Proof Reading
-     - Scootsusa
-   * - Scotland QGIS User Group
+   * - Scootsusa
+     - Scotland QGIS User Group
      - Scott Andrae
      - Scott Auker
-     - Scott Eustis
-   * - Scott Gilbert
+   * - Scott Eustis
+     - Scott Gilbert
      - Scott Godley
      - Scott Hagemann
-     - Scott Howell
-   * - Scott Kennedy
+   * - Scott Howell
+     - Scott Kennedy
      - Scott Madry
      - Scott Stewart
-     - Scott Urban
-   * - Scott Werden
+   * - Scott Urban
+     - Scott Werden
      - Scott Workman
      - SEA S.C. Sorvisc Energia Ambiënt
-     - Seamus Batstone
-   * - Sean Early
+   * - Seamus Batstone
+     - Sean Early
      - Sean Hogan
      - Sean Marquantte
-     - Sean Nickerson
-   * - Sean Tucker
+   * - Sean Nickerson
+     - Sean Tucker
      - Sean Watson
      - Sean Welsh
-     - Sean Wisner
-   * - Sebastiaan Van De Bunt
+   * - Sean Wisner
+     - Sebastiaan Van De Bunt
      - Sebastian Badowski
      - Sebastian Chlopecki
-     - Sebastian Cionoiu
-   * - Sebastian Giglio
+   * - Sebastian Cionoiu
+     - Sebastian Giglio
      - Sebastian Gutwein
      - Sebastian Kasanmascheff
-     - Sebastian Michael Stumpf
-   * - Sebastian Mücke
+   * - Sebastian Michael Stumpf
+     - Sebastian Mücke
      - Sebastian Perroud Rainone
      - Sebastian Rowan
-     - Sebastian Rutz
-   * - Sebastian Stumpf
+   * - Sebastian Rutz
+     - Sebastian Stumpf
      - Sefer Kocatüfek
      - Segalina Gilberto-Ditta
-     - Segchi Yuichi
-   * - Seif Ali
+   * - Segchi Yuichi
+     - Seif Ali
      - Selta
      - Senderos sur S.COOP and CL/ROSA
-     - Seok Joon Hwang
-   * - Seoras Burnett
+   * - Seok Joon Hwang
+     - Seoras Burnett
      - Sepideh Modrek
      - Serafini Domenico Alessandro
-     - Serena Smith
-   * - Serg Terikhov
+   * - Serena Smith
+     - Serg Terikhov
      - Serge Heuschling
      - Sergey Drachev
-     - Sergey Khokhlov
-   * - Sergey Krilov
+   * - Sergey Khokhlov
+     - Sergey Krilov
      - Sergio Aparicio Vegas
      - Sergio Bongiovanni
-     - Sergio Calabrese
-   * - Sergio Dambrosi
+   * - Sergio Calabrese
+     - Sergio Dambrosi
      - Sergio Feuser
      - Sergio Giovannini
-     - Sergio Maria Remoli
-   * - Sergio Monteagudo Latorre
+   * - Sergio Maria Remoli
+     - Sergio Monteagudo Latorre
      - Sergio Muñoz De Alba Medrano
      - Sergio Pedemonte
-     - Sergio Permuy Leal
-   * - Sergio Resola
+   * - Sergio Permuy Leal
+     - Sergio Resola
      - Sergio Salvador Mored Ferrin
      - Sergio Zampieri
-     - Sergiy
-   * - Serryn Eagleson
+   * - Sergiy
+     - Serryn Eagleson
      - Servicios De Consultoría
      - Servicios Holmberg Soto Eirl
-     - Servulo Costa
-   * - Seth Barker
+   * - Servulo Costa
+     - Seth Barker
      - Seth Bryant
      - Seth Dow
-     - Seth Fitzsimmons
-   * - Seth Livingston
+   * - Seth Fitzsimmons
+     - Seth Livingston
      - Seth Nagy
      - Seth Simonds
-     - Seth Triggs
-   * - Severino Salgueiro Bermúdez
+   * - Seth Triggs
+     - Severino Salgueiro Bermúdez
      - Severino Simone Borrini
      - Shaike Gutfroind
-     - Shaili Nepal
-   * - Shaleyla Kelez
+   * - Shaili Nepal
+     - Shaleyla Kelez
      - Shane Brannan
      - Shane Mcguire
-     - Shane Moran-kelly
-   * - Shannon Callan
+   * - Shane Moran-kelly
+     - Shannon Callan
      - Shannon Keely Mills
      - Shannon Loew
-     - Shannon Myers
-   * - Shannon Schmidt
+   * - Shannon Myers
+     - Shannon Schmidt
      - Shantaraj Kallur
      - Shapesmart
-     - Sharolyn Anderson
-   * - Sharon Forbes
+   * - Sharolyn Anderson
+     - Sharon Forbes
      - Sharon Gartenberg
      - Sharon Pope
-     - Sharon Procopio
-   * - Shaun Bresnahan
+   * - Sharon Procopio
+     - Shaun Bresnahan
      - Shaun Kies
      - Shaun Page
-     - Shaun Villiers Everett
-   * - Shawn Gotcher
+   * - Shaun Villiers Everett
+     - Shawn Gotcher
      - Shawn Welch
      - Sheida Ayromlou
-     - Sheila González Motos
-   * - Sheldon Williams
+   * - Sheila González Motos
+     - Sheldon Williams
      - Sheng Ye
      - Sherry Wilhelm
-     - Shih Min Chang
-   * - Shih Tung
+   * - Shih Min Chang
+     - Shih Tung
      - Shima Takeo
      - Shin Gye Woong
-     - Shino Tanikawa
-   * - Shirley Dupriest
+   * - Shino Tanikawa
+     - Shirley Dupriest
      - Shivanand Gadag
      - Shivani Singh
-     - Shnyr Mikhail
-   * - Shoaib Burq
+   * - Shnyr Mikhail
+     - Shoaib Burq
      - Shu-Chen
      - Shuang Liu
-     - Sian Grant
-   * - Sid Howells
+   * - Sian Grant
+     - Sid Howells
      - Sidsel Genee
      - Sie Sie
-     - Sieger De Blok
-   * - Sierrasim
+   * - Sieger De Blok
+     - Sierrasim
      - Sigbjørn Daasvatn
      - Sigurdur Sigurdarson
-     - Silke Bruns
-   * - Silke Kumar
+   * - Silke Bruns
+     - Silke Kumar
      - Silke Ochmann
      - Silvano Welponer
-     - Silvano Zorer
-   * - Silver Farfan
+   * - Silvano Zorer
+     - Silver Farfan
      - Silverio Abati
      - Silvia
-     - Silvia Arrate
-   * - Silvia Cuesta Álvarez
+   * - Silvia Arrate
+     - Silvia Cuesta Álvarez
      - Silvia Iasevoli
      - Silvia Pistoni
-     - Silvia Ravani
-   * - Silvia Terziotti
+   * - Silvia Ravani
+     - Silvia Terziotti
      - Silvia Vallejo Vargas
      - Silvio Grosso
-     - Sime Surjak
-   * - Simon Bohnenblust
+   * - Sime Surjak
+     - Simon Bohnenblust
      - Simon Day
      - Simon Elgar
-     - Simon Guarnati
-   * - Simon Günzel
+   * - Simon Guarnati
+     - Simon Günzel
      - Simon Harrison
      - Simon Hunt
-     - Simon Johnston AB
-   * - Simon Miniou
+   * - Simon Johnston AB
+     - Simon Miniou
      - Simon Nielsen
      - Simon Persson
-     - Simon Pickett
-   * - Simon Pratt
+   * - Simon Pickett
+     - Simon Pratt
      - Simon White
      - Simon Wilkins
-     - Simone Barbarotti
-   * - Simone Bianchi
+   * - Simone Barbarotti
+     - Simone Bianchi
      - Simone Bossart
      - Simone Caiello
-     - Simone Circosta
-   * - Simone Geißler
+   * - Simone Circosta
+     - Simone Geißler
      - Simone Girardelli
      - Simone Ricceri
-     - Simone Scordamaglia
-   * - Simão Voloch Neto
+   * - Simone Scordamaglia
+     - Simão Voloch Neto
      - Sinaugis Cv. Geosains Teknologi
      - Sincosur
-     - Sinead Shannon
-   * - Sinja Zieger
+   * - Sinead Shannon
+     - Sinja Zieger
      - Siobhan Mcdermott
      - Siria Biagioni
-     - Sirje Link
-   * - Sites & Paysages
+   * - Sirje Link
+     - Sites & Paysages
      - Sivan Margalit
      - Sje Ecohydraulic Engineering Gmbh
-     - Sjoerd Greydanus
-   * - Skypxl
+   * - Sjoerd Greydanus
+     - Skypxl
      - Slade Beard
      - Slim Kchouk
-     - Smithville Telephone Company Inc. (Ms-Usa)
-   * - Software Development
+   * - Smithville Telephone Company Inc. (Ms-Usa)
+     - Software Development
      - Solomatin Alexey
      - Soluciones En Tecnologías De Información Geográfica
-     - Soma Horvath
-   * - Somaiehamini
+   * - Soma Horvath
+     - Somaiehamini
      - Sominkim
      - Song Yutao
-     - Sonia Gill
-   * - Sonia Superchi
+   * - Sonia Gill
+     - Sonia Superchi
      - Sonja Koster
      - Soomin Kim
-     - Sophie Smout
-   * - Sorab Panday
+   * - Sophie Smout
+     - Sorab Panday
      - Soraya Mcclung
      - Sorokin Ilya
-     - Sotgia Virgilio
-   * - Souleymane Sall
+   * - Sotgia Virgilio
+     - Souleymane Sall
      - Soumitra Gaine
      - Southeast Engineering
-     - Southern Photographic Services
-   * - Spencer Gardner
+   * - Southern Photographic Services
+     - Spencer Gardner
      - Spencer Jobe
      - Spencer Leava
-     - Spencer Phillips
-   * - Spencer Tompkins
+   * - Spencer Phillips
+     - Spencer Tompkins
      - Srinivas Rohan Rao Ganduri
      - St Ott
-     - St. Sultans Trail International
-   * - Stacy Cole
+   * - St. Sultans Trail International
+     - Stacy Cole
      - Stanford Thomas Foy
      - Stanislav Makarov
-     - Stanisław Kowalski
-   * - Stanisław Krypczyk
+   * - Stanisław Kowalski
+     - Stanisław Krypczyk
      - Stanley Berard
      - Statistical Press
-     - Stavros Stagakis
-   * - Stefan
+   * - Stavros Stagakis
+     - Stefan
      - Stefan Allicock
      - Stefan Aumann
-     - Stefan Beneckenstein
-   * - Stefan Brabetz
+   * - Stefan Beneckenstein
+     - Stefan Brabetz
      - Stefan Eberlein
      - Stefan Eichel
-     - Stefan Frauenschuh
-   * - Stefan Goen
+   * - Stefan Frauenschuh
+     - Stefan Goen
      - Stefan Gustavson
      - Stefan Göthner
-     - Stefan Höffken
-   * - Stefan Kapeller
+   * - Stefan Höffken
+     - Stefan Kapeller
      - Stefan Kauwling
      - Stefan Koefmueller
-     - Stefan Köhler
-   * - Stefan Nord
+   * - Stefan Köhler
+     - Stefan Nord
      - Stefan Panka
      - Stefan Pav
-     - Stefan Price
-   * - Stefan Rosenow
+   * - Stefan Price
+     - Stefan Rosenow
      - Stefan Scheurer
      - Stefan Schouteden
-     - Stefan Schweers
-   * - Stefan Schüttenkopf
+   * - Stefan Schweers
+     - Stefan Schüttenkopf
      - Stefan Steffensen
      - Stefan Strehlow
-     - Stefan Suittenpointner
-   * - Stefan Sylla
+   * - Stefan Suittenpointner
+     - Stefan Sylla
      - Stefan Wallney
      - Stefan Wettengl
-     - Stefan Widmer
-   * - Stefan Ziegler
+   * - Stefan Widmer
+     - Stefan Ziegler
      - Stefan Zoller
      - Stefania Demurtas
-     - Stefania Nudda
-   * - Stefano Alibrandi
+   * - Stefania Nudda
+     - Stefano Alibrandi
      - Stefano Campus
      - Stefano Centasso
-     - Stefano Ceriani
-   * - Stefano Dighero
+   * - Stefano Ceriani
+     - Stefano Dighero
      - Stefano Maria Petrazzuoli
      - Stefano Martella
-     - Stefano Menegon
-   * - Stefano Padovani
+   * - Stefano Menegon
+     - Stefano Padovani
      - Stefano Pennacchi
      - Stefano Sarrocco
-     - Stefano Schiavini
-   * - Stefano Tasin
+   * - Stefano Schiavini
+     - Stefano Tasin
      - Stefano Tuzzato
      - Stefano Verugi
-     - Steffan Holmes
-   * - Steffen Friedrich
+   * - Steffan Holmes
+     - Steffen Friedrich
      - Steffen Fritz
      - Steffen Götze
-     - Steffen Schliemann
-   * - Steffen Zuther
+   * - Steffen Schliemann
+     - Steffen Zuther
      - Steffi Uhlemann
      - Stelios
-     - Stelios Lamprinos
-   * - Sten Jacobson
+   * - Stelios Lamprinos
+     - Sten Jacobson
      - Steph Nelson
      - Steph Stanfield
-     - Stephan Blum
-   * - Stephan Burges
+   * - Stephan Blum
+     - Stephan Burges
      - Stephan Busse
      - Stephan Dall-agnolo
-     - Stephan Daniel Hatt
-   * - Stephan Holl
+   * - Stephan Daniel Hatt
+     - Stephan Holl
      - Stephan Schröder
      - Stephane Burgos
-     - Stephane Felder
-   * - Stephane Hardy
+   * - Stephane Felder
+     - Stephane Hardy
      - Stephanie Blåberg
      - Stephanie Jane Edwards
-     - Stephanie Webb
-   * - Stephen A
+   * - Stephanie Webb
+     - Stephen A
      - Stephen A Clarke
      - Stephen Babcock
-     - Stephen Beer
-   * - Stephen Bolsover
+   * - Stephen Beer
+     - Stephen Bolsover
      - Stephen Bryce
      - Stephen Carter
-     - Stephen Cole
-   * - Stephen Davenport
+   * - Stephen Cole
+     - Stephen Davenport
      - Stephen Drew
      - Stephen Fildes
-     - Stephen Frank
-   * - Stephen Hoskins
+   * - Stephen Frank
+     - Stephen Hoskins
      - Stephen Lentz
      - Stephen Madama
-     - Stephen Mcgowan
-   * - Stephen Pener
+   * - Stephen Mcgowan
+     - Stephen Pener
      - Stephen R Sacks
      - Stephen Richard
-     - Stephen Romero
-   * - Stephen Rosenthal
+   * - Stephen Romero
+     - Stephen Rosenthal
      - Stephen Sacks
      - Stephen Scott
-     - Stephen Shutt
-   * - Stephen Siedo
+   * - Stephen Shutt
+     - Stephen Siedo
      - Stephen Thomas
      - Stephen Titchenal
-     - Stephen Townsend
-   * - Stephen Tyson
+   * - Stephen Townsend
+     - Stephen Tyson
      - Stephen Wright
      - Steve Baird
-     - Steve Boreham
-   * - Steve Britt
+   * - Steve Boreham
+     - Steve Britt
      - Steve Charlton
      - Steve Davidson
-     - Steve Deslandes
-   * - Steve G
+   * - Steve Deslandes
+     - Steve G
      - Steve Han
      - Steve Harley
-     - Steve Hewitt
-   * - Steve Kosusko
+   * - Steve Hewitt
+     - Steve Kosusko
      - Steve Kuhn
      - Steve Leclerc
-     - Steve Lewis
-   * - Steve Monroe
+   * - Steve Lewis
+     - Steve Monroe
      - Steve Neville
      - Steve Noble
-     - Steve Noon
-   * - Steve Obrist
+   * - Steve Noon
+     - Steve Obrist
      - Steve Ostaseski
      - Steve Weaver
-     - Steve Weeks
-   * - Steve Wernke
+   * - Steve Weeks
+     - Steve Wernke
      - Steve Whittaker
      - Steve Willett
-     - Steven Block
-   * - Steven Brubaker
+   * - Steven Block
+     - Steven Brubaker
      - Steven Cowan
      - Steven Emerick
-     - Steven Feldman
-   * - Steven Goins
+   * - Steven Feldman
+     - Steven Goins
      - Steven Greenwaters
      - Steven Haymes
-     - Steven Horstmeyer
-   * - Steven Keegstra
+   * - Steven Horstmeyer
+     - Steven Keegstra
      - Steven Kelty
      - Steven Lott
-     - Steven Mcalpine
-   * - Steven Nelson
+   * - Steven Mcalpine
+     - Steven Nelson
      - Steven O'connell
      - Steven Pacenka
-     - Steven Reistroffer
-   * - Steven T Eckmann
+   * - Steven Reistroffer
+     - Steven T Eckmann
      - Steven Wallace
      - Stewart Annis
-     - Stewart Ross
-   * - Stewart Sinclair
+   * - Stewart Ross
+     - Stewart Sinclair
      - Sti Sas Di Meo
      - Stichting RIONED
-     - Stig Malmose
-   * - Stijn Loogman
+   * - Stig Malmose
+     - Stijn Loogman
      - Stiofan Creaven
      - Stoffel Surveys
-     - Stone Thorn Creations
-   * - Stonemont Enterprises Llc Dba Ron Santini Photography
+   * - Stone Thorn Creations
+     - Stonemont Enterprises Llc Dba Ron Santini Photography
      - Storm Water Consulting
      - Stuart Anderson
-     - Stuart Forbes
-   * - Stuart Masheder
+   * - Stuart Forbes
+     - Stuart Masheder
      - Stuart Russell
      - Stuart Sanders
-     - Stuart Showalter
-   * - Studio Di Ingegneria Ferrari E Giraudo
+   * - Stuart Showalter
+     - Studio Di Ingegneria Ferrari E Giraudo
      - Sturle Holan
      - Sudesh Botha
-     - Sue Ablitt
-   * - Suha Ulgen
+   * - Sue Ablitt
+     - Suha Ulgen
      - Superelectric Srl
      - Suresh Sookbir
-     - Surya Lanka
-   * - Surya Prerapa
+   * - Surya Lanka
+     - Surya Prerapa
      - Susan Berry
      - Susan Bresee
-     - Susan Haney
-   * - Susan Jones
+   * - Susan Haney
+     - Susan Jones
      - Susan Lucking
      - Susan M Carlson
-     - Susan Risko
-   * - Susan Sakimoto
+   * - Susan Risko
+     - Susan Sakimoto
      - Susan Tincher
      - Susan V Cousineau
-     - Susana Colomer
-   * - Susana Fernandez
+   * - Susana Colomer
+     - Susana Fernandez
      - Susana Mesquita
      - Susanne Haas
-     - Susanne Horka
-   * - Susanne Wangert
+   * - Susanne Horka
+     - Susanne Wangert
      - Susanne Weisser
      - Sustainable Drop Projects (pty) Ltd
-     - Sutan Mufti
-   * - Suter Brigitte
+   * - Sutan Mufti
+     - Suter Brigitte
      - Suwa Minoru
      - Suzan Poyraz
-     - Suzanne A Pierce
-   * - Suzanne Rebert
+   * - Suzanne A Pierce
+     - Suzanne Rebert
      - Suzanne Wade
      - Suziany Rocha De Souza
-     - Svante Carlsson
-   * - Svein Solberg
+   * - Svante Carlsson
+     - Svein Solberg
      - Sven Klingel
      - Sven Lothar Schmitz-Leuffen
-     - Sven Rindfleisch
-   * - Sven Wollesen
+   * - Sven Rindfleisch
+     - Sven Wollesen
      - Svenja Störmer
      - Svetlana Usenyuk
-     - Swampthing Environmental Inc.
-   * - Swanson Environmental Strategies Lrd
+   * - Swampthing Environmental Inc.
+     - Swanson Environmental Strategies Lrd
      - Swapnil Bhardwaj
      - Swen Ore
-     - Swiss QGIS usergroup
-   * - Syler Behens
+   * - Swiss QGIS usergroup
+     - Syler Behens
      - Sylfor Inc
      - Sylvain Bertrand
-     - Sylvain F Madore
-   * - Sylvain Mailloux
+   * - Sylvain F Madore
+     - Sylvain Mailloux
      - Sylvain Poupard
      - Sylviane Rieuf
-     - Sylvie Falampin
-   * - Sylwia Nikel
+   * - Sylvie Falampin
+     - Sylwia Nikel
      - Synergeo
      - Systect Holger Bruch Systemanalyse Und It-beratung
-     - Szatmari Laszlo
-   * - Szymon Pifczyk
+   * - Szatmari Laszlo
+     - Szymon Pifczyk
      - Sébastien Berthaut-clarac
      - Sébastien Bourhis
-     - Sébastien Gombault
-   * - Sébastien Lorge
+   * - Sébastien Gombault
+     - Sébastien Lorge
      - Sébastien Lorillon
      - Sónia Antunes
-     - Sónia Torres
-   * - Sławomir Tront
+   * - Sónia Torres
+     - Sławomir Tront
      - T Bedford
      - T Powys-lybbe
-     - T\. Michael Blake
-   * - T\. u. U. Lütolf
+   * - T\. Michael Blake
+     - T\. u. U. Lütolf
      - Tabitha Ingle
      - Tad Robinette
-     - Tage Johansson
-   * - Tahawus Trails Llc
+   * - Tage Johansson
+     - Tahawus Trails Llc
      - Takahito Saiki
      - Takashi Matsumura
-     - Takato Umeda
-   * - Takuya Takahashi
+   * - Takato Umeda
+     - Takuya Takahashi
      - Talal A Merghelani
      - Tam Nguyen Van
-     - Tamara Febles Arévalo
-   * - Tamara N Kahn
+   * - Tamara Febles Arévalo
+     - Tamara N Kahn
      - Tamarind Media Limited
      - Tamer Abousoud
-     - Tamir Suliman
-   * - Tamotsu Kusano
+   * - Tamir Suliman
+     - Tamotsu Kusano
      - Tamás Nyitrai
      - Tanaka Sohei
-     - Tanakamiyu
-   * - Tania Ilieva
+   * - Tanakamiyu
+     - Tania Ilieva
      - Tanja Wolf
      - Tanner Markley
-     - Tanya Haddad
-   * - Tanyamat Srungboonmee
+   * - Tanya Haddad
+     - Tanyamat Srungboonmee
      - Tara Ursell
      - Tariq Rashid
-     - Taro Ietaka
-   * - Tasso Rocco
+   * - Taro Ietaka
+     - Tasso Rocco
      - Tatin
      - Tatsuo Okubo
-     - Tatyana Lukina
-   * - Tayalay
+   * - Tatyana Lukina
+     - Tayalay
      - Taylor
      - Tazuko Morikawa
-     - Ted Howard
-   * - Ted Temple
+   * - Ted Howard
+     - Ted Temple
      - Teddy Baumberger
      - Tee Kok Keong
-     - Teekaram
-   * - Tehei Taiore
+   * - Teekaram
+     - Tehei Taiore
      - Telescope1609
      - Tengxiang Liang
-     - Teodoro Veloso
-   * - Teodros Hailye
+   * - Teodoro Veloso
+     - Teodros Hailye
      - Terence Barrett
      - Terence Mclean
-     - Teresa J. Mayfield-Meyer
-   * - Teresa Lanusse
+   * - Teresa J. Mayfield-Meyer
+     - Teresa Lanusse
      - Teresa Margarida Mexia
      - Teresa Pitts
-     - Teresa Wilford
-   * - Tereza Kutišová
+   * - Teresa Wilford
+     - Tereza Kutišová
      - Terikhov Sergey
      - Terlinguadaze
-     - Terran Imaging Pty Ltd
-   * - Terratrek
+   * - Terran Imaging Pty Ltd
+     - Terratrek
      - Terrence Smith
      - Terry Cottongim
-     - Terry Little
-   * - Tersio Pezenti
+   * - Terry Little
+     - Tersio Pezenti
      - Test Gurus
      - Tetsuo Nishimoto
-     - Tevfik Suha Ulgen
-   * - TEWAG Technologie Erdwärmeanlagen
+   * - Tevfik Suha Ulgen
+     - TEWAG Technologie Erdwärmeanlagen
      - Tewodros Hailegebere
      - Teyssèdre - Artemisia Environnement
-     - Thaddäus Schneider
-   * - Thanasis Karathanasis
+   * - Thaddäus Schneider
+     - Thanasis Karathanasis
      - Thank You For Your Contribution To Community
      - Thanuja Mallikarachchi
-     - The Air We Breathe Ltd
-   * - The Beat
+   * - The Air We Breathe Ltd
+     - The Beat
      - The Coral Reef Trust
      - The Geographer's Kitchen
-     - The Icon Group
-   * - The Idevice Toolbox
+   * - The Icon Group
+     - The Idevice Toolbox
      - The Insightworks
      - The Ip Voice
-     - Theano
-   * - THEBFL
+   * - Theano
+     - THEBFL
      - Theo Weiss
      - Theo Wilken
-     - Theodora Macrae
-   * - Theodora Skokou
+   * - Theodora Macrae
+     - Theodora Skokou
      - Theodore Bowling
      - Theodore Endreny
-     - Theodore Hiscock
-   * - Theodore Lillys
+   * - Theodore Hiscock
+     - Theodore Lillys
      - Theodoros Chatzivasileiadis
      - Theresa Mikkola
-     - Therese
-   * - Thiago Carvalho Bayerlein
+   * - Therese
+     - Thiago Carvalho Bayerlein
      - Thiago Dos Santos Nascimento
      - Thiago Pasqua
-     - Thibault Sergent
-   * - Thibaut Goelff
+   * - Thibault Sergent
+     - Thibaut Goelff
      - Thierry Gervot
      - Thierry Gonon
-     - Thierry Loscos
-   * - Thierry Specht
+   * - Thierry Loscos
+     - Thierry Specht
      - Thijs Smits
      - Think Green S.n.c.
-     - Thinus Glitz
-   * - Thomas
+   * - Thinus Glitz
+     - Thomas
      - Thomas Alex
      - Thomas Alexandridis
-     - Thomas Amoroso
-   * - Thomas Anzboeck
+   * - Thomas Amoroso
+     - Thomas Anzboeck
      - Thomas Armitage
      - Thomas Ayerst
-     - Thomas Backert
-   * - Thomas Blake
+   * - Thomas Backert
+     - Thomas Blake
      - Thomas Blenkinsop
      - Thomas Burmeister
-     - Thomas Böhme
-   * - Thomas Callicrate
+   * - Thomas Böhme
+     - Thomas Callicrate
      - Thomas Cheney
      - Thomas Connor
-     - Thomas Cosse
-   * - Thomas Damme
+   * - Thomas Cosse
+     - Thomas Damme
      - Thomas De Silva
      - Thomas Degaetano
-     - Thomas Demopoulos
-   * - Thomas Dufour
+   * - Thomas Demopoulos
+     - Thomas Dufour
      - Thomas Dunz
      - Thomas Elliott
-     - Thomas Engleder
-   * - Thomas F. Rutherford
+   * - Thomas Engleder
+     - Thomas F. Rutherford
      - Thomas Flatman
      - Thomas Forth
-     - Thomas Frase
-   * - Thomas Frohberg
+   * - Thomas Frase
+     - Thomas Frohberg
      - Thomas Gilardoni
      - Thomas Gunzelmann
-     - Thomas H G Lankester
-   * - Thomas Hilger
+   * - Thomas H G Lankester
+     - Thomas Hilger
      - Thomas Hisgen
      - Thomas Kaltenberg
-     - Thomas Kelly
-   * - Thomas Klein
+   * - Thomas Kelly
+     - Thomas Klein
      - Thomas Kouloganis
      - Thomas Langenheim
-     - Thomas Le Berre
-   * - Thomas Leahy
+   * - Thomas Le Berre
+     - Thomas Leahy
      - Thomas Leipold
      - Thomas Lienhard
-     - Thomas Lynch
-   * - Thomas M Harrison
+   * - Thomas Lynch
+     - Thomas M Harrison
      - Thomas Mccoy
      - Thomas Miller
-     - Thomas Mitchell
-   * - Thomas Murray
+   * - Thomas Mitchell
+     - Thomas Murray
      - Thomas Mönkemeier
      - Thomas Papiernik
-     - Thomas Paul
-   * - Thomas Peacock
+   * - Thomas Paul
+     - Thomas Peacock
      - Thomas Pollhammer
      - Thomas Richter
-     - Thomas Schlusnath
-   * - Thomas Schmack
+   * - Thomas Schlusnath
+     - Thomas Schmack
      - Thomas Schmid
      - Thomas Schumann
-     - Thomas Spitler
-   * - Thomas Stein
+   * - Thomas Spitler
+     - Thomas Stein
      - Thomas Sutter
      - Thomas Thiel
-     - Thomas Tippett
-   * - Thomas Treacher
+   * - Thomas Tippett
+     - Thomas Treacher
      - Thomas Ulizio
      - Thomas Vieira
-     - Thomas Wagner
-   * - Thomas Ward
+   * - Thomas Wagner
+     - Thomas Ward
      - Thomas Wells
      - Thomas Williamson
-     - Thomas Wilmoth
-   * - Thomas Witte
+   * - Thomas Wilmoth
+     - Thomas Witte
      - Thomas Wrbka
      - Thor Wilbanks
-     - Thoralf Schmidt
-   * - Thorium Energy Alliance
+   * - Thoralf Schmidt
+     - Thorium Energy Alliance
      - Thorpong Kungsworn
      - Tiago Luis Gil
-     - Tiago Miguel Fraga
-   * - Tiago Miguel Fraga, Uni
+   * - Tiago Miguel Fraga
+     - Tiago Miguel Fraga, Uni
      - Tianyu Zhou
      - Tianyun Zhu
-     - Ties Junge
-   * - Tifany Aprillia
+   * - Ties Junge
+     - Tifany Aprillia
      - Tigial Roy
      - Tigilal
-     - Tihamer Von Ghyczy
-   * - Tim Baggett
+   * - Tihamer Von Ghyczy
+     - Tim Baggett
      - Tim Charlton
      - Tim Cockrell
-     - Tim Cuthbertson
-   * - Tim Gould
+   * - Tim Cuthbertson
+     - Tim Gould
      - Tim Kirkpatrick
      - Tim Larsen
-     - Tim Nott
-   * - Tim Poole
+   * - Tim Nott
+     - Tim Poole
      - Tim Rogers
      - Tim Semmelhaack
-     - Tim Stuhldreher
-   * - Tim Winton
+   * - Tim Stuhldreher
+     - Tim Winton
      - Timirgalin Salavat
      - Timo Kurtti
-     - Timothee Cocou Houede
-   * - Timothy Adkins
+   * - Timothee Cocou Houede
+     - Timothy Adkins
      - Timothy Allan
      - Timothy Allen
-     - Timothy Burbank
-   * - Timothy Desmarais
+   * - Timothy Burbank
+     - Timothy Desmarais
      - Timothy E Gallagher
      - Timothy J Taylor
-     - Timothy Lynam
-   * - Timothy Sandiford
+   * - Timothy Lynam
+     - Timothy Sandiford
      - Timothy Spier
      - Timur Kharissov
-     - Tina Andersson
-   * - Tine Ningal
+   * - Tina Andersson
+     - Tine Ningal
      - Tino Schwerdtner
      - Tirtza Finkek
-     - Tischa Munoz-erickson
-   * - Tishampati Dhar
+   * - Tischa Munoz-erickson
+     - Tishampati Dhar
      - Titus Amundson
      - Tiziana Reggio
-     - Tiziano Castro
-   * - Tjerk Hellekamp
+   * - Tiziano Castro
+     - Tjerk Hellekamp
      - To-on Pang
      - Tobby's
-     - Tobias Florian Ibele
-   * - Tobias Gutzmann
+   * - Tobias Florian Ibele
+     - Tobias Gutzmann
      - Tobias Lipek
      - Tobias Riboldi Vieira
-     - Tobias Schneyer
-   * - Tobias Schönberg
+   * - Tobias Schneyer
+     - Tobias Schönberg
      - Toby Wilkinson
      - Todd Barr
-     - Todd Hodgkin
-   * - Todd Metcalfe
+   * - Todd Hodgkin
+     - Todd Metcalfe
      - Todd Pittman
      - Todd Smith
-     - Todd Surovell
-   * - Tolentino Moya
+   * - Todd Surovell
+     - Tolentino Moya
      - Tom Arthur
      - Tom Bedford
-     - Tom Haythornthwaite
-   * - Tom Kear
+   * - Tom Haythornthwaite
+     - Tom Kear
      - Tom Longo
      - Tom Mackie
-     - Tom Malenya
-   * - Tom Mc Carrick
+   * - Tom Malenya
+     - Tom Mc Carrick
      - Tom Morrison
      - Tom Newman-morris
-     - Tom Ochman
-   * - Tom Scott
+   * - Tom Ochman
+     - Tom Scott
      - Tom Tuntland
      - Tomas Bueno Dos Santos Momcilovic
-     - Tomas Daniel Bueno Dos Santos Momcilovic
-   * - Tomas Haman
+   * - Tomas Daniel Bueno Dos Santos Momcilovic
+     - Tomas Haman
      - Tomas Lichauco
      - Tomas Poek
-     - Tomas Trojacek
-   * - Tomasz Ciesielski
+   * - Tomas Trojacek
+     - Tomasz Ciesielski
      - Tomasz Golawski
      - Tomasz Joniak
-     - Tomislav Filipčić
-   * - Tomislav Marinković
+   * - Tomislav Filipčić
+     - Tomislav Marinković
      - Tomislav Novosel
      - Tomislav Sapic
-     - Tommaso Gavazza
-   * - Tommy Pickren
+   * - Tommaso Gavazza
+     - Tommy Pickren
      - Tomás Amador López
      - Tomáš Kapal
-     - Tonfirma Leipzig
-   * - Tong Alexander Lai Chak
+   * - Tonfirma Leipzig
+     - Tong Alexander Lai Chak
      - Tony Aldhous
      - Tony Burgess
-     - Tony Kirkby
-   * - Tony MacLeod
+   * - Tony Kirkby
+     - Tony MacLeod
      - Tony Swiecicki
      - Tony Woods
-     - Topi Tjukanov
-   * - Tor Mikalsen
+   * - Topi Tjukanov
+     - Tor Mikalsen
      - Toralf Gonzalez
      - Toralf Noack
-     - Torbjørn Rathe
-   * - Tore Pedersen
+   * - Torbjørn Rathe
+     - Tore Pedersen
      - Torrent Consulting
      - Torry Nygaard
-     - Torsten Christensen
-   * - Torsten Cloos
+   * - Torsten Christensen
+     - Torsten Cloos
      - Torsten Feig
      - Torsten Lipke
-     - Toru Sekiguchi
-   * - Toshia Norris
+   * - Toru Sekiguchi
+     - Toshia Norris
      - Toshiki Tanoue
      - Tougnon Dione
-     - Tour Konzept EG
-   * - Tracey Pham
+   * - Tour Konzept EG
+     - Tracey Pham
      - Tracmap
      - Transferwise LTD
-     - Trausti Dagsson
-   * - Travis Good
+   * - Trausti Dagsson
+     - Travis Good
      - Travis Hammond
      - Treechai Anuwongjaroen
-     - Trevor Crandall
-   * - Trevor Hobbs
+   * - Trevor Crandall
+     - Trevor Hobbs
      - Trevor Mcquillan
      - Trigonella Gualtieri
-     - Trine Dale
-   * - Trish
+   * - Trine Dale
+     - Trish
      - Trisha Thompson
      - Tristan Lothmann
-     - Troietto Cristina
-   * - Troms Oblat
+   * - Troietto Cristina
+     - Troms Oblat
      - Trond Brekke
      - Troo Corporation
-     - Troy Broughton Ii
-   * - Troy Buerge
+   * - Troy Broughton Ii
+     - Troy Buerge
      - Truong Nguyen
      - Tsui Kong Tai
-     - Tuna Erol
-   * - Tuomas Niko Salmela
+   * - Tuna Erol
+     - Tuomas Niko Salmela
      - Turq Brown
      - Tye Kuhlman
-     - Tyler Gubala
-   * - Tyler Mitchell
+   * - Tyler Gubala
+     - Tyler Mitchell
      - U Lim
      - U-Space S.R.L
-     - Ucount Inc
-   * - Udo Lenz
+   * - Ucount Inc
+     - Udo Lenz
      - Udo Wüst
      - Udomsin Auksonphaob
-     - Uen Hua Chao
-   * - Ugo Falchi
+   * - Uen Hua Chao
+     - Ugo Falchi
      - UIH Ingenieur- und Planungsbüro
      - Ujaval Gandhi
-     - Ukrainskiy Pavel
-   * - Ulderica Parodi
+   * - Ukrainskiy Pavel
+     - Ulderica Parodi
      - Ulf Hünerbein
      - Ulf Rahmel
-     - Ulf Weddige
-   * - Ulises Barcena
+   * - Ulf Weddige
+     - Ulises Barcena
      - Ulisses
      - Ulrich Dingerdissen
-     - Ulrich Kulle
-   * - Ulrich Rehberg
+   * - Ulrich Kulle
+     - Ulrich Rehberg
      - Ulrich Sabel
      - Ulrich Schuler
-     - Ulrich Stappen
-   * - Ulrich Steinrücken
+   * - Ulrich Stappen
+     - Ulrich Steinrücken
      - Ulrich Villnow
      - Ulrich Von Wulffen
-     - Ulrike Burgmer
-   * - Ulrike Eimer
+   * - Ulrike Burgmer
+     - Ulrike Eimer
      - Ulrike Kegler
      - Ulrike Sommer
-     - Umberto Fracassi
-   * - Umberto Zulian
+   * - Umberto Fracassi
+     - Umberto Zulian
      - Upasana Young
      - Ur Region Archaeology Project
-     - Urban Modelling Solutions N A Matthew
-   * - Urbanistambiental
+   * - Urban Modelling Solutions N A Matthew
+     - Urbanistambiental
      - Uriel Kitron
      - Uros Bernik
-     - Uroš Đurić
-   * - Urs Fränzel
+   * - Uroš Đurić
+     - Urs Fränzel
      - Urs Utzinger
      - Ursula Baaser
-     - Us Title Pro Llc
-   * - User
+   * - Us Title Pro Llc
+     - User
      - Ute Twer
      - Ute Vogel-Sonnenschein
-     - Uwe Gerhardt
-   * - Uwe Rexin
+   * - Uwe Gerhardt
+     - Uwe Rexin
      - Uwe Schirkonyer
      - Uwe Ulbrich
-     - V\. Kuipers
-   * - V\. Pois
+   * - V\. Kuipers
+     - V\. Pois
      - Vagner Luis Costa
      - Val
-     - Val Deutsch
-   * - Valdinei Gonçalves
+   * - Val Deutsch
+     - Valdinei Gonçalves
      - Valdis
      - Valdis Belinis
-     - Valentin Bratu
-   * - Valentin Cretu
+   * - Valentin Bratu
+     - Valentin Cretu
      - Valentin Stefan
      - Valentina Accoto
-     - Valentina Amadori
-   * - Valentina Merola
+   * - Valentina Amadori
+     - Valentina Merola
      - Valentina Vergari
      - Valentino Pierantoni
-     - Valeria Lecca
-   * - Valeria Leticia Franco Salvi
+   * - Valeria Lecca
+     - Valeria Leticia Franco Salvi
      - Valeria Zusi
      - Valerie Lee
-     - Valerio Bisignanesi
-   * - Valerio Franchino
+   * - Valerio Bisignanesi
+     - Valerio Franchino
      - Valerio Giannoni
      - Valéria Barroso Da Silveira
-     - Valérie Benedetti
-   * - Valérie Quevaine
+   * - Valérie Benedetti
+     - Valérie Quevaine
      - Van Wyk De Vries
      - Vance Almquist
-     - Vance Cerasini
-   * - Vandome
+   * - Vance Cerasini
+     - Vandome
      - Vanessa Linforth
      - Varina Delrieu
-     - Varun Adibhatla
-   * - Varvara
+   * - Varun Adibhatla
+     - Varvara
      - Vasily Gorborukov
      - Vasiu Adrian
-     - Vector Partners
-   * - Vedran Ibrulj
+   * - Vector Partners
+     - Vedran Ibrulj
      - Vegar Nordvold
      - Vellu Sorvari
-     - Velum Regatta
-   * - Velvet Kay
+   * - Velum Regatta
+     - Velvet Kay
      - Vera Autilio
      - Vera Perugini
-     - Vera Roth
-   * - Verbandsgemeinde Schweich
+   * - Vera Roth
+     - Verbandsgemeinde Schweich
      - Verena Hafner-hofmann
      - Verena Schmieg
-     - Verlag Hohe Warte Gmbh
-   * - Vernon Moen
+   * - Verlag Hohe Warte Gmbh
+     - Vernon Moen
      - Veronica Oliveros
      - Veronica Oliveros Clavijo
-     - Verónica Pérez Peña
-   * - ViaVegte
+   * - Verónica Pérez Peña
+     - ViaVegte
      - Vicent Palop Guillem
      - Vicent Ricard Portales Martí
-     - Vicente Cabrera
-   * - Vicente Martín Villahermosa
+   * - Vicente Cabrera
+     - Vicente Martín Villahermosa
      - Vicki Schmidt
      - Victor Araujo Pérez
-     - Victor Bandaly
-   * - Victor Ideson
+   * - Victor Bandaly
+     - Victor Ideson
      - Victor Mendez
      - Victor Rodriguez Araya
-     - Victor Saldaña
-   * - Victoria Cooper
+   * - Victor Saldaña
+     - Victoria Cooper
      - Vidar Wennevik
      - Viero Alberto
-     - Vijiandran Rajah
-   * - Vikram D'mello
+   * - Vijiandran Rajah
+     - Vikram D'mello
      - Viktor Svanerud
      - Vilém Petrunčík
-     - Vimal Fowdar
-   * - Vincent Auvigne
+   * - Vimal Fowdar
+     - Vincent Auvigne
      - Vincent Benedetti
      - Vincent Bernardin
-     - Vincent D'haese
-   * - Vincent Darles
+   * - Vincent D'haese
+     - Vincent Darles
      - Vincent Gibson
      - Vincent Lagenebre
-     - Vincent Mercier
-   * - Vincent Morin
+   * - Vincent Mercier
+     - Vincent Morin
      - Vincent Prioul
      - Vincent Tissier
-     - Vincent Toulier
-   * - Vincent Verweij
+   * - Vincent Toulier
+     - Vincent Verweij
      - Vincent Vicaire
      - Vincenzo Arduini
-     - Vincenzo Bufano
-   * - Vincenzo Liguori
+   * - Vincenzo Bufano
+     - Vincenzo Liguori
      - Vincenzo Lomurno
      - Vincenzo Mangrella
-     - Vincenzo Millucci
-   * - Vincenzo Principato
+   * - Vincenzo Millucci
+     - Vincenzo Principato
      - Vincenzo Romano
      - Vincenzo Sale
-     - Vincenzo Tartaglia
-   * - Vincenzo Trivigno
+   * - Vincenzo Tartaglia
+     - Vincenzo Trivigno
      - Vinicius Dulac
      - Violet Lingenfelter
-     - Virginia Bear
-   * - Virginia Settepani
+   * - Virginia Bear
+     - Virginia Settepani
      - Virtual Los Alamos
      - Vishal Odedra
-     - Vital J Pinheiro Jr J Pinheiro Jr
-   * - Vitaliy Yurchenko
+   * - Vital J Pinheiro Jr J Pinheiro Jr
+     - Vitaliy Yurchenko
      - Vito Farinola
      - Vito Larini
-     - Vito Latorraca
-   * - Vito Lazzarotto
+   * - Vito Latorraca
+     - Vito Lazzarotto
      - Vitor Pereira
      - Vittorio Dallaserra
-     - Vittorio Dell'Aquila
-   * - Vittorio Lucchini
+   * - Vittorio Dell'Aquila
+     - Vittorio Lucchini
      - Vittorio Melli
      - Vittorio Sessa
-     - Vivek Thapa
-   * - Viviana Fausti
+   * - Vivek Thapa
+     - Viviana Fausti
      - Viviana Ferrario
      - Vivienne O'hara
-     - Vizier Energy
-   * - Vladimir
+   * - Vizier Energy
+     - Vladimir
      - Vladimir Medev
      - Vladimir Mikik
-     - Vladimir Mironov
-   * - Vladimir Nikolic
+   * - Vladimir Mironov
+     - Vladimir Nikolic
      - Vladimir Vrabel
      - Vojtech Myska
-     - Volker Jürgen Loock
-   * - Volker Kuhlmann
+   * - Volker Jürgen Loock
+     - Volker Kuhlmann
      - Volker Luetzenkirchen
      - Volker Römer
-     - Volodymyr Semenikhin
-   * - Von Bothmer
+   * - Volodymyr Semenikhin
+     - Von Bothmer
      - Voyages à Vélo
      - Vrishal Mahajan
-     - Vu Trung Duc
-   * - Vuokko Heikinheimo
+   * - Vu Trung Duc
+     - Vuokko Heikinheimo
      - Vânia Rodrigues
      - Víctor Manuel Rodriguez Lopez
-     - W Leslie Neilson
-   * - W\. Verbruggen
+   * - W Leslie Neilson
+     - W\. Verbruggen
      - Wagner Abreu
      - Wahyu Indrajaya
-     - Waldemar Keller
-   * - Waleerat Suphannachart
+   * - Waldemar Keller
+     - Waleerat Suphannachart
      - Walter Bodemann Bodemann Gemsbh
      - Walter Dellisanti
-     - Walter di Lorenzetti (GIS3W)
-   * - Walter Hesse
+   * - Walter di Lorenzetti (GIS3W)
+     - Walter Hesse
      - Walter Luis Turina
      - Walter Mgina
-     - Walter Nelson Barraza Scheer
-   * - Walter Wider
+   * - Walter Nelson Barraza Scheer
+     - Walter Wider
      - Walter Wurzer
      - Wam Wasser Abwasser Management Gmbh
-     - Wandy Marquez Castillo
-   * - Ward Alain
+   * - Wandy Marquez Castillo
+     - Ward Alain
      - Warm Arctic
      - Warren Vick
-     - Wasin Bukaew
-   * - Watersmith Engineering
+   * - Wasin Bukaew
+     - Watersmith Engineering
      - Watervize
      - Waveware Technologies, Inc.
-     - Wayne A Dye
-   * - Wayne Brennan
+   * - Wayne A Dye
+     - Wayne Brennan
      - Wayne Bulmer
      - Wayne Dye
-     - Wayne Ikebuchi
-   * - Wei Wang
+   * - Wayne Ikebuchi
+     - Wei Wang
      - Wen Cheng
      - Wendel Abejo
-     - Wendelin Schmitt
-   * - Wendell Rodrigues Feliciano
+   * - Wendelin Schmitt
+     - Wendell Rodrigues Feliciano
      - Wenrong Cao
      - Werner Gollmitzer
-     - Werner Hentschel
-   * - Werner Macho
+   * - Werner Hentschel
+     - Werner Macho
      - Werner Nedon
      - Werner Nienstedt
-     - Werner Schmutz
-   * - Werner Westermann
+   * - Werner Schmutz
+     - Werner Westermann
      - Wesley Malicieux
      - Wesley Pedriali Mussio
-     - Wesley Ward
-   * - Whatif? Technologies
+   * - Wesley Ward
+     - Whatif? Technologies
      - White Wood Management
      - Whitney Patterson
-     - Wiktor Zalewski
-   * - Wildfire Wanderning
+   * - Wiktor Zalewski
+     - Wildfire Wanderning
      - Wilfredo Díaz Lima
      - Wilfredo Rubio
-     - Wilfried Muszynski
-   * - Wilker De Jesus Silva
+   * - Wilfried Muszynski
+     - Wilker De Jesus Silva
      - Will Dodge
      - Will Handley
-     - Willem Buers
-   * - William Amidon
+   * - Willem Buers
+     - William Amidon
      - William Boni
      - William Buegel
-     - William Carleton
-   * - William Colson
+   * - William Carleton
+     - William Colson
      - William D Wheaton
      - William D. O'Neil
-     - William Davis
-   * - William E Oliver
+   * - William Davis
+     - William E Oliver
      - William Edison
      - William Eggers
-     - William Elbel
-   * - William Elliot
+   * - William Elbel
+     - William Elliot
      - William Fennie
      - William Garcete Gimenez
-     - William H. Dennis
-   * - William Hunt
+   * - William H. Dennis
+     - William Hunt
      - William Isenberger
      - William Jesdale
-     - William Kalb
-   * - William Kelleher
+   * - William Kalb
+     - William Kelleher
      - William Levering
      - William Lloyd
-     - William Mclellan
-   * - William Mitchell
+   * - William Mclellan
+     - William Mitchell
      - William Morgan
      - William N Ellery
-     - William Oakley
-   * - William Pallies
+   * - William Oakley
+     - William Pallies
      - William Ponder
      - William R Elliott
-     - William Schaefer
-   * - William Thorpe
+   * - William Schaefer
+     - William Thorpe
      - William Tracy Lenocker
      - Willy Haefliger
-     - Willy Werlen
-   * - Wilmer Rey Romero
+   * - Willy Werlen
+     - Wilmer Rey Romero
      - Wilson Keizo Ozeki
      - Wilson Saldías Sáez
-     - Win Myint Oo
-   * - Winc
+   * - Win Myint Oo
+     - Winc
      - Winifred Frick
      - Winston B Hurst
-     - Wirote Assawakulpaibul
-   * - Witold Seweryn
+   * - Wirote Assawakulpaibul
+     - Witold Seweryn
      - Wojciech
      - Wojciech Brol
-     - Wojciech Głuch
-   * - Wojciech Majewski
+   * - Wojciech Głuch
+     - Wojciech Majewski
      - Wojciech Pająk
      - Wolfgang Betz
-     - Wolfgang Brandt
-   * - Wolfgang Degen
+   * - Wolfgang Brandt
+     - Wolfgang Degen
      - Wolfgang Dennhöfer
      - Wolfgang Hausharter
-     - Wolfgang Lahr
-   * - Wolfgang Neußer
+   * - Wolfgang Lahr
+     - Wolfgang Neußer
      - Wolfgang Perner
      - Wolfgang Rabbel
-     - Wolfgang Sach
-   * - Wolfgang Scheffler
+   * - Wolfgang Sach
+     - Wolfgang Scheffler
      - Wolfgang Schindler
      - Wolfgang Stoessel
-     - Wolfgang Straub
-   * - Wolfgang Zuehlke
+   * - Wolfgang Straub
+     - Wolfgang Zuehlke
      - Wood Mackenzie Limited
      - Woodend Farming Partnership
-     - Woong-Beom Sung
-   * - Wooseokhan
+   * - Woong-Beom Sung
+     - Wooseokhan
      - Wouter Beyen
      - Wouter Kaper
-     - Wti
-   * - Xabier Albizu Zabala
+   * - Wti
+     - Xabier Albizu Zabala
      - Xavier Kaiser
      - Xavier Maurice
-     - Xavier Oviedo Coello
-   * - Xhaustless B V B A
+   * - Xavier Oviedo Coello
+     - Xhaustless B V B A
      - Xhulio Binjaku
      - Xiaobing Yang
-     - Xiaofei Wu
-   * - Xiaohua Yu
+   * - Xiaofei Wu
+     - Xiaohua Yu
      - Xiaotian Wang
      - Xiaoxia Zhou
-     - Xin Hou
-   * - Xscapes, Arquitectura Paisagista, Lda
+   * - Xin Hou
+     - Xscapes, Arquitectura Paisagista, Lda
      - Xuejing Zuo
      - Xuewen Zhang
-     - Xxx Yadianna
-   * - Y Ogawa
+   * - Xxx Yadianna
+     - Y Ogawa
      - Y2Next
      - Yacoub Issola
-     - Yadira Chavez
-   * - Yadok Biplang
+   * - Yadira Chavez
+     - Yadok Biplang
      - Yahya Mohatar Abderrahman
      - Yaiza Iglesias González
-     - Yamagishi Hiromitsu
-   * - Yann Lepage
+   * - Yamagishi Hiromitsu
+     - Yann Lepage
      - Yannick Kangah
      - Yapa Bandara
-     - Yasmin
-   * - Yasmine Doumi
+   * - Yasmin
+     - Yasmine Doumi
      - Yasunori Kirimoto
      - Yeajun Chun
-     - Yevhen Bolshov
-   * - Yi Xiong
+   * - Yevhen Bolshov
+     - Yi Xiong
      - Yichen Su
      - Yifeng Xu
-     - Yike Liu
-   * - Yildirim Gözen
+   * - Yike Liu
+     - Yildirim Gözen
      - Yingying Li
      - Yiran Li
-     - Yngve K. Frøyen
-   * - Yngve Karl Frøyen
+   * - Yngve K. Frøyen
+     - Yngve Karl Frøyen
      - Yoichi Kayama
      - Yokoyama Taro
-     - Yolanda Cordero Nieves
-   * - Yombombe Madjitoloum Theophile
+   * - Yolanda Cordero Nieves
+     - Yombombe Madjitoloum Theophile
      - Yongchao Zhu
      - Yorck Neumann
-     - Yoshiki Hirabayashi
-   * - Yosu R Aldabe
+   * - Yoshiki Hirabayashi
+     - Yosu R Aldabe
      - Yrose Inc.
      - Yu Shu
-     - Yu Xiao
-   * - Yu Zhang
+   * - Yu Xiao
+     - Yu Zhang
      - Yuan Harng Lee
      - Yuan-kee Lee
-     - Yubo Liu
-   * - Yue Dong
+   * - Yubo Liu
+     - Yue Dong
      - Yue Wu
      - Yujiao Li
-     - Yukio Teratoko
-   * - Yulia Abdrashitova
+   * - Yukio Teratoko
+     - Yulia Abdrashitova
      - Yuluen Tsai
      - Yuri Carrascal
-     - Yuriko Watanabe
-   * - Yuriy Nazarov
+   * - Yuriko Watanabe
+     - Yuriy Nazarov
      - Yusuf Moyosore Jinadu
      - Yvan Bussieres
-     - Yvan Cuijvers
-   * - Yven Dickhörner
+   * - Yvan Cuijvers
+     - Yven Dickhörner
      - Yves Bas
      - Yves Bouthillier
-     - Yves Diguet
-   * - Yves Froissart
+   * - Yves Diguet
+     - Yves Froissart
      - Yves Jacolin
      - Yves Louagie
-     - Yves Muller
-   * - Yves Prairie
+   * - Yves Muller
+     - Yves Prairie
      - Yvonne Schneemann
      - za.miastem Sylwia Cichocińska
-     - Zachary Carroll
-   * - Zachary Patterson
+   * - Zachary Carroll
+     - Zachary Patterson
      - Zachary Pereyo
      - Zachary Rouse
-     - Zachary Rowe
-   * - Zahir Lazcano
+   * - Zachary Rowe
+     - Zahir Lazcano
      - Zailan Shariff
      - Zainal Saridi
-     - Zak Ratajczak
-   * - Zaki Matar
+   * - Zak Ratajczak
+     - Zaki Matar
      - Zander Van Der Walt
      - Zane
-     - Zane Helwig
-   * - Zant
+   * - Zane Helwig
+     - Zant
      - Zaw Naing Tun
      - Zbych
-     - Zebra On Wheels
-   * - Zebra On Wheels Bv
+   * - Zebra On Wheels
+     - Zebra On Wheels Bv
      - Zeno Zengoni
      - Zerone Consultancy Limited
-     - Zhan Li
-   * - Zhangjing
+   * - Zhan Li
+     - Zhangjing
      - Zheng Ki Yip
      - Zhiyuan Liu
-     - Zhongtian Li
-   * - Zi Wang
+   * - Zhongtian Li
+     - Zi Wang
      - Ziqian Han
      - Zivko Terzic
-     - Zohar
-   * - Zoltan Sylvester
+   * - Zohar
+     - Zoltan Sylvester
      - Zoltán Turi
      - Zoltán Varsányi
-     - Zoran Janković
-   * - Zoran Mihelcic
+   * - Zoran Janković
+     - Zoran Mihelcic
      - Zsolt Gal
      - Zsombor Balogh
-     - Zubin Patrawala
-   * - Zweli Moya
+   * - Zubin Patrawala
+     - Zweli Moya
      - Álex Álvarez Castellnou
      - Álvaro González Lorente
-     - Ángel Hernández Díaz
-   * - Ásmundur Eiríksson
+   * - Ángel Hernández Díaz
+     - Ásmundur Eiríksson
      - Ângela Seixas
      - Ângelo José Consoni
-     - Ömer Kamil Örücü
-   * - åsa Ahlmer
+   * - Ömer Kamil Örücü
+     - åsa Ahlmer
      - çağla Melisa Kaya
      - Ģirts Veinbergs
-     - Łukasz Penc
-   * - Łukasz Polonius
+   * - Łukasz Penc
+     - Łukasz Polonius
      - Žan Kuralt
      - Αναστάσιος Πολύδωρος
-     - Δημητριος Καλοδουκας
-   * - ΚΩΝΣΤΑΝΤΙΝΟΣ ΒΑΛΗΣ
+   * - Δημητριος Καλοδουκας
+     - ΚΩΝΣΤΑΝΤΙΝΟΣ ΒΑΛΗΣ
      - Παναγιώτης Δήμας
      - Александр Анатольевич Пешков
-     - Александров Сергей
-   * - Бакеев Рустам
+   * - Александров Сергей
+     - Бакеев Рустам
      - Брюханов Андрей
      - Василий Виноградов
-     - Глазовский Андрей
-   * - Доценко Максим
+   * - Глазовский Андрей
+     - Доценко Максим
      - Ерфилова Ксения
      - Иваненко Андрей
-     - Ивлев ДМИТРИЙ
-   * - Ивлев дМИТРИЙ
+   * - Ивлев ДМИТРИЙ
+     - Ивлев дМИТРИЙ
      - Инна Ерошкина
      - Исимбаев Игорь
-     - Карабанов Владимир
-   * - Коробейников Андрей
+   * - Карабанов Владимир
+     - Коробейников Андрей
      - Кравцов Сергей
      - Куркин Иван
-     - Литвяк Юрий
-   * - Матвеев Александр
+   * - Литвяк Юрий
+     - Матвеев Александр
      - Миронов Михаил
      - Паршин Александр
-     - Радашевский Василий
-   * - Слинкин Филипп
+   * - Радашевский Василий
+     - Слинкин Филипп
      - Терентьева Ирина
      - Трифонова Евгения
-     - Федулаев Сергей
-   * - Царьков Иван
+   * - Федулаев Сергей
+     - Царьков Иван
      - אור עמיר
      - אלדד אלרון
-     - אריאל אבלין
-   * - הלל אייל
+   * - אריאל אבלין
+     - הלל אייל
      - חגית נול
      - מרדכי ליברמן
-     - עמיחי יוגב
-   * - เฉลิมศักดิ์ ผมพันธ์
+   * - עמיחי יוגב
+     - เฉลิมศักดิ์ ผมพันธ์
      - タハラヨシヒロ
      - ヤナギダサトシ「
-     - 中山 隆史
-   * - 伍 维模
+   * - 中山 隆史
+     - 伍 维模
      - 吉原 佑
      - 吉田 実
-     - 小黒 芳生
-   * - 尾崎 嘉信
+   * - 小黒 芳生
+     - 尾崎 嘉信
      - 川野 孝平
      - 张 伟红
-     - 後藤 晃
-   * - 徐 貞
+   * - 後藤 晃
+     - 徐 貞
      - 易越
      - 李 克勤
-     - 李 晨光
-   * - 李 起伟
+   * - 李 晨光
+     - 李 起伟
      - 林 云
      - 柿原仁志
-     - 江 秋蓉
-   * - 熊 鴻嘉
+   * - 江 秋蓉
+     - 熊 鴻嘉
      - 王 文超
      - 王继文
-     - 田 政
-   * - 田中 創平
+   * - 田 政
+     - 田中 創平
      - 翁瑞宏
      - 謝 晉凡
-     - 阎绮峰
-   * - 陈 莫源
+   * - 阎绮峰
+     - 陈 莫源
      - 陳 國威
      - 黄 艳
-     - 지윤 김
-   * - 창엽 한
-     -
+   * - 지윤 김
+     - 창엽 한
      -
      -
