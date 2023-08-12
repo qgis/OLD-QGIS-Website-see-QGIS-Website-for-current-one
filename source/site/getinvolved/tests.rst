@@ -10,7 +10,7 @@ From build tests (github workflows) and code unit tests to OGC conformance testi
 Github workflows
 ................
 
-.. image:: https://github.com/qgis/QGIS/workflows/QGIS%20tests/badge.svg
+.. image:: https://github.com/qgis/QGIS/actions/workflows/run-tests.yml/badge.svg
     :target: https://github.com/qgis/QGIS/actions/workflows/run-tests.yml?query=branch%3Amaster+event%3Apush
 
 Docker
