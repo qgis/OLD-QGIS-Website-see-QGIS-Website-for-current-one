@@ -472,7 +472,7 @@ Arch Linux
 QGIS stable
 ...........
 
-Arch Linux is available in official repository : https://www.archlinux.org/packages/community/x86_64/qgis/
+Arch Linux is available in official repository : https://archlinux.org/packages/extra/x86_64/qgis/
 
 Install with::
 
