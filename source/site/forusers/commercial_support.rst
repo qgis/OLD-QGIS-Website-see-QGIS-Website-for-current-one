@@ -331,6 +331,13 @@ Our bespoke GIS training courses in QGIS and other GIS software offer the opport
 
 ----
 
+.. |envirosolutions| image:: /static/site/about/images/envirosolutions.png
+   :width: 85 px
+
+|envirosolutions| `EnviroSolutions Sp. z o.o. <https://www.envirosolutions.pl/>`_ (based in Warsaw, Poland) provide solutions based on OpenSource GIS. We serve comprehensive assistance and courses at different tiers. Our services encompass tailored workshops and personalized guidance. We can migrate and integrate your current GIS solutions to FOSS4G and create custom QGIS plug-ins tailored for you.
+
+----
+
 .. |fossacademy| image:: /static/site/about/images/fossacademy.png
    :width: 100 px
 
