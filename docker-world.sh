@@ -43,7 +43,7 @@ for l in $langs
   done
 
 # 20220317: sync to www2.qgis.org
-time rsync -hvzc -e ssh --progress output/html/version.txt output/html/version-ltr.txt source/schedule.ics www2.qgis.org:/var/www/qgisdata/QGIS-Website/live/html
+time rsync -hvzc -e ssh --progress output/html/version.txt output/html/version-ltr.txt output/html/version.json source/schedule.ics www2.qgis.org:/var/www/qgisdata/QGIS-Website/live/html
 
 now=`date`
 echo "Finished: $now"
