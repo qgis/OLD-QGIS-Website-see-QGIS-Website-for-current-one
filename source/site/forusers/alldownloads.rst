@@ -527,6 +527,33 @@ Note: if you need to install additional Python modules, because they are needed 
  flatpak run --devel --command=pip3 org.qgis.qgis install scipy --user
 
 
+Spack
+-----
+
+Spack is a distro agnostic package manager for Linux, which is developed in the context of high-performance computing.
+
+General info on installing Spack: https://github.com/spack/spack
+
+QGIS package file on Spack: https://github.com/spack/spack/blob/develop/var/spack/repos/builtin/packages/qgis/package.py
+
+To install::
+
+ spack install qgis
+
+which builds and installs QGIS and **all** dependencies from scratch. Afterwards, QGIS can be used via::
+
+ spack load qgis
+
+If additional python packages need to be installed, using a Spack environment is recommended. For example::
+
+ spack env create myenv
+ spack env activate -p myenv
+ spack add qgis py-lz4
+ spack install
+
+Spack related issues should be reported at: https://github.com/spack/spack/issues
+
+
 Mac OS X / macOS
 ================
 
@@ -615,7 +642,7 @@ To install QGIS from third-party package
 
  pkg_add qgis
 
-See: 
+See:
 - https://openbsd.app/?search=qgis # for -stable OpenBSD
 - https://openbsd.app/?search=qgis&current=on # for -current OpenBSD
 
