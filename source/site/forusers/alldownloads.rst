@@ -561,6 +561,10 @@ Update::
   sudo port selfupdate
   sudo port upgrade outdated
 
+.. note:: Concurrent installation of Homebrew and MacPorts is not compatible
+   and will almost certainly lead to conflicts. If you choose to install one
+   of the package systems you need to uninstall the other.
+
 
 Old releases
 ------------
