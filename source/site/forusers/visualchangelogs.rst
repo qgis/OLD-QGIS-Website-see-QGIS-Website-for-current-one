@@ -7,6 +7,7 @@ Below you find the Visual Changelogs since version 2.0
 .. toctree::
     :maxdepth: 1
 
+    visualchangelog334/index
     visualchangelog332/index
     visualchangelog330/index
     visualchangelog328/index
