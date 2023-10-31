@@ -282,7 +282,7 @@ Field values are integers for which the count begins at 0 and increments from le
 
 |image19|
 
-This feature was developed by `Poulpator <https://github.com/Poulpator>`__
+This feature was developed by `Valentin Buira <https://github.com/Poulpator>`__
 
 Feature: New 'Calculate expression' algorithm for use in models
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
