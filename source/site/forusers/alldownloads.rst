@@ -400,7 +400,7 @@ To make it simpler, you can also use Distrobox on these Fedora Versions by layer
 |               | Rawhide     | 3.34.0       | 8.3          |
 +---------------+-------------+--------------+--------------+
 
-Updated Version info: `Qgis <https://packages.fedoraproject.org/pkgs/qgis/qgis/>` and `Grass <https://packages.fedoraproject.org/pkgs/grass/grass/>`
+Updated Version info: `QGIS <https://packages.fedoraproject.org/pkgs/qgis/qgis/>` and `GRASS GIS <https://packages.fedoraproject.org/pkgs/grass/grass/>`
 
 SUSE / openSUSE
 ---------------
