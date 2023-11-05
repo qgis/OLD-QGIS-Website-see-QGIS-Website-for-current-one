@@ -432,11 +432,11 @@ All packages include GRASS and Python support.
 All openSUSE Geo repositories can be found here:
 https://download.opensuse.org/repositories/Application:/Geo/
 
-To install QGis packages on OpenSuse:
+To install QGIS packages on OpenSuse:
 
    sudo zypper in qgis qgis-plugin-grass
 
-To install QGis on OpenSuse microOS (now Aeon or Kalpa), use Distrobox:
+To install QGIS on OpenSuse microOS (now Aeon or Kalpa), use Distrobox:
 
    distrobox-create Distrobox -i registry.opensuse.org/opensuse/distrobox:latest &&\
    distrobox-enter Distrobox
