@@ -397,7 +397,7 @@ To make it simpler, you can also use Distrobox on these Fedora Versions by layer
 |               +-------------+--------------+--------------+
 |               | 39          | 3.32.2       | 8.3          |
 |               +-------------+--------------+--------------+
-|               | Rawhide     | 3.34.0-3     | 8.3          |
+|               | Rawhide     | 3.34.0       | 8.3          |
 +---------------+-------------+--------------+--------------+
 
 Updated Version info: `Qgis <https://packages.fedoraproject.org/pkgs/qgis/qgis/>` and `Grass <https://packages.fedoraproject.org/pkgs/grass/grass/>`
