@@ -21,6 +21,16 @@ QGIS is supported by donors and sustaining members. A current list of donors who
 
 QGIS is free software and you are under no obligation to pay anything to use it - in fact, we want to encourage people far and wide to use it regardless of their financial or social status - we believe that empowering people with spatial decision-making tools will result in a better society for all of humanity.
 
+
+Cesium 3D Tiles
+---------------
+
+Thanks to an ecosystem grant from the `Cesium <https://www.cesium.com/>`_ project, QGIS now has support for loading in 3D content in the Cesium 3D Tiles format! Tiles can be loaded from either local or remote datasources (including the Cesium ion platform and the Google Earth photorealistic tiles), and are visible in both 2D and 3D map views. In 2D views users can control the appearance of tile content by styling in either their original textures or in a wireframe view of the tile geometries, and users also have control over the desired level of detail in both 3D and 2D views.
+
+:raw-html:`<div style="position:relative;width:100%;height:0;padding-bottom:56.25%"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%" src="https://www.youtube.com/embed/lvl8zVZ8glY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;" allowfullscreen></iframe></div>`
+
+This feature was developed by `Martin Dobias <https://github.com/wonder-sk>`__ and `Nyall Dawson <https://github.com/nyalldawson>`__
+
 Map Tools
 ---------
 
