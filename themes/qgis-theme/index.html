@@ -27,15 +27,15 @@
 
             <div class="carousel-inner">
                 <div class="item active">
-                    <img src="{{pathto('_static/images/qgisorg_banner334.png', 1)}}?t=nov2023" alt="QGIS 3.34">
+                    <img src="{{pathto('_static/images/qgisorg_banner%s.png'|format(shortver), 1)}}?t={{ releasedate }}" alt="{{ _('QGIS %s')|format(version) }}" />
                     <div class="container">
                         <div class="carousel-caption">
-                            <h5 class="caption-headline">{{ _('New release: %s!')|format( '3.34' ) }}</h5>
+                            <h5 class="caption-headline">{{ _('New release: %s!')|format(version) }}</h5>
                             <p class="caption-text">
                                {{_('Get the') }}
                                <a class="caption-link" href="{{ pathto('site/forusers/download') }}" > {{_('installer or packages')}} </a>
                                {{_('for your Operating System and read the') }} 
-                               <a class="caption-link" href="{{ pathto('site/forusers/visualchangelog334/index') }}" > {{_('changelog.')}} </a>
+                               <a class="caption-link" href="{{ pathto('site/forusers/visualchangelog%s/index'|format(shortver)) }}" > {{_('changelog.')}} </a>
                             </p>
                         </div>
                     </div>

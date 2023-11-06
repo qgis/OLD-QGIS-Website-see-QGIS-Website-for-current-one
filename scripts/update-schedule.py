@@ -3,6 +3,8 @@
 
 from urllib.request import urlopen
 import csv
+import os
+import re
 import codecs
 from datetime import datetime, timedelta, timezone
 from icalendar import Calendar, Event
@@ -207,7 +209,18 @@ for row in reader:
     elif r == "NEXT":
         nextversion = name
 
+for v, n in {ltr_version: ltr_name, lr_version: lr_name}.items():
+    print(f"{v}:{n}")
+    url = "https://raw.githubusercontent.com/qgis/QGIS/release-{0}/CMakeLists.txt".format("_".join(v.split('.')[:2]))
+    cm = urlopen(url).read().decode('utf-8')
+    rn = re.search("^set\(RELEASE_NAME \"(.*)\"\)$", cm, re.MULTILINE).group(1)
+    assert n==rn, f"Expected {n}, found {rn}"
+
 o = open("source/schedule.py", "w")
+
+shortver = "".join(lr_version.split(".")[:2])
+for f in [f"themes/qgis-theme/static/images/qgisorg_banner{shortver}.png", f"source/site/forusers/visualchangelog{shortver}/index.rst"]:
+    assert os.path.exists(f), f"{f} not found"
 
 o.write("""\
 from datetime import date
@@ -219,6 +232,7 @@ codename = u'%(lr_name)s'
 binary = '%(lr_binary)s'
 releasedate = date(%(releasedate)s)
 releasenote = u'%(lr_note)s'
+shortver = u'%(shortver)s'
 
 # long term release repository
 ltrversion = '%(ltrversion)s'
@@ -246,6 +260,7 @@ infeaturefreeze = %(infeaturefreeze)s
     "ltr_name": ltr_name.replace("'", "\\'"),
     "ltr_binary": ltr_binary,
     "ltr_note": ltr_note.replace("'", "\\'") if ltr_note != '' else 'LTR',
+    "shortver": shortver,
     "devversion": devversion,
     "nextversion": nextversion,
     "nextfreezedate": f_date.strftime('%Y-%m-%d %H:%M:%S UTC') if f_date is not None else None,

@@ -344,6 +344,7 @@ def setup(app):
     app.add_config_value('ltrbinary', None, 'env')
     app.add_config_value('infeaturefreeze', None, 'env')
     app.add_config_value('stripeform_url', None, 'env')
+    app.add_config_value('shortver', None, 'env')
 
 
 context = {
@@ -363,6 +364,7 @@ context = {
     'ltrbinary': ltrbinary,
     'infeaturefreeze': infeaturefreeze,
     'stripeformurl': '/stripe/form',
+    'shortver': shortver,
     'lr_msi': f"https://qgis.org/downloads/QGIS-OSGeo4W-{release}-{binary}.msi",
     'ltr_msi': f"https://qgis.org/downloads/QGIS-OSGeo4W-{ltrrelease}-{ltrbinary}.msi",
 }

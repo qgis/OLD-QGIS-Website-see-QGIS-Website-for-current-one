@@ -3,10 +3,11 @@ from datetime import date
 # latest release
 version = '3.34'
 release = '3.34.0'
-codename = u'Lima'
-binary = '1'
+codename = u'Prizren'
+binary = '2'
 releasedate = date(2023, 10, 27)
 releasenote = u'RC'
+shortver = u'334'
 
 # long term release repository
 ltrversion = '3.28'
