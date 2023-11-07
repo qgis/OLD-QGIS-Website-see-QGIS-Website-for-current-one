@@ -119,7 +119,7 @@ If Plugins report missing packages, you can install them with pip::
 
    pip install PACKAGENAME
 
-QGIS may report lacking features due to running as a Wayland session. To force X11 (XWayland) you can add ``env QT_QPA_PLATFORM=xcb`` to the ``Exec=`` line. If you installed the app on your main system, copy the entry to your user directory first, if you are using Toolbox/Distrobox or already have this entry, skip this step::
+QGIS may report lacking features due to running as a Wayland session. To force X11 (XWayland) you can add ``env QT_QPA_PLATFORM=xcb`` to the ``Exec=`` line. If you installed the app on your main system, copy the entry to your user directory first. If you are using Toolbox/Distrobox or already have this entry, skip this step::
 
    sudo cp /usr/share/applications/org.qgis.qgis.desktop ~/.local/share/applications/
 
