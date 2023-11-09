@@ -534,7 +534,7 @@ Application and Project Options
 Feature: Add option to store selected GPS component in geometry M values
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-This new setting, available from the GPS settings panel, allows users to opt into creating geometries with M values from the inbuilt GPS logging tools. This applies to both features digitized from GPS logs, and from the new "Log to Geopackage/Spatialite" functionality.
+This new setting, available from the GPS settings panel, allows users to opt into creating geometries with M values from the inbuilt GPS logging tools. This applies to both features digitized from GPS logs, and from the new "Log to GeoPackage/SpatiaLite" functionality.
 
 Options include the storing of timestamps (as milliseconds since epoch), ground speed, altitudes, bearings, and accuracy components as m values.
 
@@ -776,7 +776,7 @@ This brings the editor UX in line with other IDEs such as VSCode, which allow th
 
 The default shortcut for this action is set to ``Ctrl+:``
 
-The toggle comment action is also available in **Project Macro** and **Expression Editors**, however this is only available using the ``Ctrl+:`` shortcut and oes not include the action button on the UI.
+The toggle comment action is also available in **Project Macro** and **Expression Editors**, however this is only available using the ``Ctrl+:`` shortcut and does not include the action button on the UI.
 
 |image31|
 
