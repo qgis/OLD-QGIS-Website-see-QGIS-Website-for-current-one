@@ -316,7 +316,7 @@ This feature was funded by NIWA
 
 This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
 
-Feature: Raster Attribute Tables (RAT) Suppport
+Feature: Raster Attribute Tables (RAT) Support
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 QGIS now includes extensive support for Raster Attribute Tables (RATs).
