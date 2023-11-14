@@ -376,7 +376,7 @@ to install both client and server applications on the same machine), type::
 
  sudo dnf install qgis-server python3-qgis
 
-To install QGis on Fedora Atomic (Silverblue, Kinoite, Sericea etc.), it's best to create a Toolbox and install it there::
+To install QGIS on Fedora Atomic (Silverblue, Kinoite, Sericea etc.), it's best to create a Toolbox and install it there::
 
    toolbox create Fedora -i registry.fedoraproject.org/fedora-toolbox:39 && toolbox enter Fedora 
 
