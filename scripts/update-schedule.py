@@ -216,6 +216,9 @@ for v, n in {ltr_version: ltr_name, lr_version: lr_name}.items():
     rn = re.search("^set\(RELEASE_NAME \"(.*)\"\)$", cm, re.MULTILINE).group(1)
     assert n==rn, f"Expected {n}, found {rn}"
 
+assert lr_version.split(".") > ltr_version.split("."), f"LR {lr_version} not higher than {ltr_version}"
+assert devversion.split(".") > lr_version.split("."), f"DEV {devversion} not higher than {lr_version}"
+
 o = open("source/schedule.py", "w")
 
 shortver = "".join(lr_version.split(".")[:2])
