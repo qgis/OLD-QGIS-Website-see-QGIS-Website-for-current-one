@@ -16,7 +16,7 @@ ltrcodename = u'Firenze'
 ltrbinary = '1'
 ltrnote = u'LTR'
 
-devversion = '3.33'
+devversion = '3.35'
 nextversion = '3.34'
 nextfreezedate = '2024-01-19 12:00:00 UTC'
 nextreleasedate = '2024-02-23 12:00:00 UTC'
