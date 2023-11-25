@@ -18,7 +18,7 @@ Board
 -----
 
 * Marco Bernasocchi (Chair) [since 5.2020]
-* Alessandro Pasotti (Vice chair) [since 5.2020] 
+* Anita Graser (Vice chair) [since 9.2022]
 * Andreas Neumann (Treasurer; Contact for Sustaining Members) [since 11.2015]
 
 To contact the board, please write to board@qgis.org.
@@ -27,7 +27,7 @@ Project Steering Committee
 --------------------------
 
 * Marco Bernasocchi (Chair) [Chair since May 2020; Vice chair April 2018 - April 2020]
-* Anita Graser (Vice chair) [Design Advisor Sept. 2013 - Sept. 2022]**
+* Anita Graser (Vice chair) [Design Advisor; Vice chair since Sept. 2022]**
 * Andreas Neumann (Treasurer; Contact for Sustaining Members) [since Nov. 2015]
 * Jürgen Fischer (Release Manager) [since Sept. 2013]
 * Alessandro Pasotti (PSC Member) [Vice chair May 2020 - Sept.2022]
@@ -122,7 +122,7 @@ Added 2018
 
 * Hugo Mercier, France
 
-Added 2019 
+Added 2019
 
 * None (No new user groups created)
 
