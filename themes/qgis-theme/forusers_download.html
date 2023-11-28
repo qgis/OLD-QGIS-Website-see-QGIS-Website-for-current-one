@@ -71,6 +71,7 @@
                   </div>
                   <div id="mac" class="accordion-body collapse in">
                     <div class="accordion-inner centered">
+                      <p><b><em>{{ _('After installing QGIS, the first launch attempt may fail due to security protections. To enable QGIS, control-click on its icon in your Applications folder and select Open in the context menu. A confirmation dialog will display where you you need to click the Open button again. This only has to be done once.') }}</em></b></p>
                       <a class="reference btn btn-large btn-success" href="https://qgis.org/downloads/macos/qgis-macos-pr.dmg">
                         <div class="primary-download-button">
                           <div class="qgis-download"></div>
@@ -81,7 +82,6 @@
                       <a class="reference secondary-download-link" href="https://qgis.org/downloads/macos/qgis-macos-ltr.dmg">
                         {{ _('Looking for the most stable version? Get QGIS %s %s')|format( ltrversion, ltrnote ) }}
                       </a>
-                      <p><b><em>{{ _('macOS High Sierra (10.13) or newer is required. QGIS is not yet notarized as required by macOS Catalina (10.15) security rules. On first launch, please control-click on the icon and choose Open from the context menu, after which a confirmation dialog is shown and you need to click the Open button.') }}</em></b></p>
                     </div>
                     <div class="accordion-inner">
                         <p>{{ _('Alternatively, for native support of both Intel x86 and Apple ARM architectures, together with the latest versions of key components (e.g. GDAL, PDAL, GRASS GIS) see:') }}</p>
