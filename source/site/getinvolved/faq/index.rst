@@ -15,19 +15,20 @@ User
 Downloading issues
 ------------------
 
-If you are trying to download QGIS and nothing seems to happen, please check your browser's download manager.
-It can be usually found as an icon (arrow, stop-watch or pie-chart) at the top-right corner of your browser window.
+If you are trying to download QGIS and ostensibly nothing seems to happen, please consult the download manager of your browser.
+It can be usually found as an icon (based on arrow, stop-watch or pie-chart) at the top-right corner of your browser window.
 Click on the icon to see the download progress or cancel the download. The normal procedure with downloads in the
-browser is, that it first asks you where to save the file (with a file browser dialogue) and then you have to wait
+browser is such, that it first asks you where to save the file (with a file browser dialogue) and then you have to wait
 until the download is finished. Because QGIS install packages, depending on the operating system, can be rather large
 you have to be patient. The download size can be anywhere between several hundred megabytes to sometimes more than
-one gigabyte (in case of MS Windows MSI packages).
+one gigabyte (in case of MS Windows MSI packages). Depending on your download speed and the QGIS server load, downloads
+can take from several minutes up to several hours.
 
 I have to donate in order to download QGIS
 ------------------------------------------
 
 This is a misconception that we hear from time to time, but it is simply not true. Donating to QGIS is optional.
-After downloading QGIS, there is a message appearing, reminding that you can donate to QGIS. However, you can press
+After downloading QGIS, there is a message appearing, reminding that you can optionally donate to QGIS. However, you can press
 "Close this message" and continue downloading without any problem. We want QGIS to be accessible to anyone, no matter
 how your financial situation might be. If you are a first-time QGIS user, we recommend that you download, install and test
 QGIS first and find out if the software is useful for the tasks you want to solve. Only if you like QGIS and it
