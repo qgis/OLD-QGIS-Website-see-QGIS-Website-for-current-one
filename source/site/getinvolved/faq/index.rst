@@ -15,8 +15,8 @@ User
 Downloading issues
 ------------------
 
-If you are trying to download QGIS and ostensibly nothing seems to happen, please consult the download manager of your browser.
-It can be usually found as an icon (based on arrow, stop-watch or pie-chart) at the top-right corner of your browser window.
+If you are trying to download QGIS and nothing seems to happen, please consult the download manager of your browser.
+It can usually be found as an icon (based on arrow, stop-watch or pie-chart) at the top-right corner of your browser window.
 Click on the icon to see the download progress or cancel the download. The normal procedure with downloads in the
 browser is such, that it first asks you where to save the file (with a file browser dialogue) and then you have to wait
 until the download is finished. Because QGIS install packages, depending on the operating system, can be rather large
@@ -27,7 +27,7 @@ can take from several minutes up to several hours.
 I have to donate in order to download QGIS
 ------------------------------------------
 
-This is a misconception that we hear from time to time, but it is simply not true. Donating to QGIS is optional.
+This is a misconception that we hear from time to time, but it is not true. Donating to QGIS is optional.
 After downloading QGIS, there is a message appearing, reminding that you can optionally donate to QGIS. However, you can press
 "Close this message" and continue downloading without any problem. We want QGIS to be accessible to anyone, no matter
 how your financial situation might be. If you are a first-time QGIS user, we recommend that you download, install and test
