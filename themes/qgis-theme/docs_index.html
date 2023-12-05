@@ -139,7 +139,7 @@
             <div class="span1"></div>
             <div class="offset1 span5">
                 <h3>{{ _('QGIS testing') }}</h3>
-                <p>{{ _("We are still updating (not translating yet) the documentation for releases newer than QGIS 3.34. We call this version 'QGIS testing' and the documentation can be found here: ") }} <a href="https://docs.qgis.org/testing" target="_blank" class="reference external">https://docs.qgis.org/testing</a></p>
+                <p>{{ _("We are still updating (not translating yet) the documentation for releases newer than QGIS %s. We call this version 'QGIS testing' and the documentation can be found here: ")|format( '3.34' ) }} <a href="https://docs.qgis.org/testing" target="_blank" class="reference external">https://docs.qgis.org/testing</a></p>
                 <p><a href="https://docs.qgis.org/testing/en/docs/user_manual" target="_blank" class="reference external">{{ _('Desktop User Guide/Manual') }}</a></p>
                 <p><a href="https://docs.qgis.org/testing/en/docs/server_manual" target="_blank" class="reference external">{{ _('Server Guide/Manual') }}</a></p>
                 <p><a href="https://docs.qgis.org/testing/en/docs/training_manual/" >{{ _('QGIS Training Manual') }}</a></p>
@@ -161,11 +161,11 @@
                 <h3>{{ _('Archived') }}</h3>
                 <p>{{ _('Links to documentation of older version of QGIS: ') }}</p>
                     <ul>
-                        <li><a href="https://docs.qgis.org/3.22/{{language}}" target="_blank" >{{ _('QGIS 3.22 Documentation') }}</a></li>
-                        <li><a href="https://docs.qgis.org/3.16/{{language}}" target="_blank" >{{ _('QGIS 3.16 Documentation') }}</a></li>
-                        <li><a href="https://docs.qgis.org/3.10/{{language}}" target="_blank" >{{ _('QGIS 3.10 Documentation') }}</a></li>
-                        <li><a href="https://docs.qgis.org/3.4/{{language}}" target="_blank" >{{ _('QGIS 3.4 Documentation') }}</a></li>
-                        <li><a href="https://docs.qgis.org/2.18/{{language}}" target="_blank" >{{ _('QGIS 2.18 Documentation') }}</a></li>
+                        <li><a href="https://docs.qgis.org/3.22/{{language}}" target="_blank" >{{ _('QGIS %s Documentation')|format( '3.22' ) }}</a></li>
+                        <li><a href="https://docs.qgis.org/3.16/{{language}}" target="_blank" >{{ _('QGIS %s Documentation')|format( '3.16' ) }}</a></li>
+                        <li><a href="https://docs.qgis.org/3.10/{{language}}" target="_blank" >{{ _('QGIS %s Documentation')|format( '3.10' ) }}</a></li>
+                        <li><a href="https://docs.qgis.org/3.4/{{language}}" target="_blank" >{{ _('QGIS %s Documentation')|format( '3.4' ) }}</a></li>
+                        <li><a href="https://docs.qgis.org/2.18/{{language}}" target="_blank" >{{ _('QGIS %s Documentation')|format( '2.18' ) }}</a></li>
                     </ul>
                 </p>
 
