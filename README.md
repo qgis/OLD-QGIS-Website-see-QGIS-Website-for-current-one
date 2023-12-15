@@ -1,6 +1,6 @@
 <img src="https://github.com/qgis/QGIS/blob/master/images/README-md/main_logo.png" width="300" alt="Our full logo">
 
-[![HTML Build](https://github.com/qgis/QGIS-Website/workflows/HTML%20build/badge.svg?branch=master)](https://github.com/qgis/QGIS-Website/actions?query=branch%3Amaster+workflow%3A%22HTML+build%22)
+[![HTML Build](https://github.com/qgis/QGIS-Website/actions/workflows/html.yml/badge.svg?query=branch%3Amaster)](https://github.com/qgis/QGIS-Website/actions/workflows/html.yml?query=branch%3Amaster)
 
 This repository is meant to manage the [Official website of QGIS](https://qgis.org),
 a free and Open Source Geographic Information System (GIS) Software, under the
