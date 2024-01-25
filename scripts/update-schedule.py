@@ -167,7 +167,8 @@ for event, lr, ltr, dev, date, weekno, weeks in rows:
         (":rm-current:`{}`" if "rm-current" in [ltr_style, lr_style] else "{}").format(event),
         ":{}:`{}`".format(lr_style, lr) if lr else "",
         ":{}:`{}`".format(ltr_style, ltr) if ltr else "",
-        dev, date, weekno, weeks
+        "{} 🥶".format(dev) if dev else "",
+        date, weekno, weeks
     ]) + '"\n')
 
     if ltr_style == "rm-current":
