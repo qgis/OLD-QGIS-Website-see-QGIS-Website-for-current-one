@@ -380,7 +380,7 @@ To install QGIS on Fedora Atomic Desktops, it's best to create a Toolbox/Distrob
 In here you install the packages regularly, but to add the graphical desktop entry, you need to edit it in the user directory::
 
    sudo cp /usr/share/applications/org.qgis.qgis.desktop ~/.local/share/applications/
-   sed -i 's/^Exec=/Exec=toolbox enter Toolbox -- /' ~/.local/share/applications/org.qgis.qgis.desktop
+   sed -i 's/Exec=/Exec=toolbox enter Toolbox -- /g' ~/.local/share/applications/org.qgis.qgis.desktop
 
 +---------------+-------------+--------------+--------------+
 | Distribution  | Version     | QGIS         | GRASS GIS    |
