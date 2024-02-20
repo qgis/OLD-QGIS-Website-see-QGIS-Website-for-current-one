@@ -119,13 +119,15 @@ If Plugins report missing packages, you can install them with pip (user director
 
    pip install --user PACKAGENAME
 
-QGIS may report lacking features due to running in a Wayland session. To force X11 (XWayland) you can add ``env QT_QPA_PLATFORM=xcb`` to the ``Exec=`` line. If you installed the app on your main system, copy the entry to your user directory first. If you are using Toolbox/Distrobox or already have this entry, skip this step::
+Wayland
+-------
 
-   sudo cp /usr/share/applications/org.qgis.qgis.desktop ~/.local/share/applications/
+QGIS may report lacking features due to running in a Wayland session. To force X11 (XWayland) you can add ``env QT_QPA_PLATFORM=xcb``. Edit the desktop entry in the user directory (which will be used instead of the system one)::
 
-To add the X11 environment variable automatically::
+   cp /usr/share/applications/org.qgis.qgis.desktop ~/.local/share/applications/
+   sed -i 's/Exec=/Exec=env QT_QPA_PLATFORM=xcb /g' ~/.local/share/applications/org.qgis.qgis.desktop
 
-   sed -i 's/^Exec=/Exec=env QT_QPA_PLATFORM=xcb /' ~/.local/share/applications/org.qgis.qgis.desktop
+This will be needed until QGis is updated to Qt6.
 
 Debian/Ubuntu
 -------------
@@ -363,30 +365,22 @@ Get packages for Fedora by typing::
 
 The Fedora COPR Repositories for regular and LTR release are outdated and should be removed from your system::
 
-   sudo dnf copr remove dani/qgis
-   sudo dnf update
-
-or on systems without the COPR command::
-
    sudo rm /etc/yum.repos.d/*copr.fedorainfracloud.org:dani:qgis*
    sudo dnf update
 
 In case you would like to install QGIS Server (note that it's not a common practice
 to install both client and server applications on the same machine), type::
 
- sudo dnf install qgis-server python3-qgis
+ sudo dnf install qgis-server
 
-To install QGIS on Fedora Atomic (Silverblue, Kinoite, Sericea etc.), it's best to create a Toolbox and install it there::
+To install QGIS on Fedora Atomic Desktops, it's best to create a Toolbox/Distrobox and install it there::
 
-   toolbox create Fedora -i registry.fedoraproject.org/fedora-toolbox:39 && toolbox enter Fedora 
+   toolbox create Toolbox && toolbox enter Toolbox 
 
-In here you install the packages regularly::
+In here you install the packages regularly, but to add the graphical desktop entry, you need to edit it in the user directory::
 
-   sudo dnf install qgis python3-qgis qgis-grass
    sudo cp /usr/share/applications/org.qgis.qgis.desktop ~/.local/share/applications/
-   sed -i 's/^Exec=/Exec=toolbox enter Fedora -- /' ~/.local/share/applications/org.qgis.qgis.desktop
-
-To make it simpler, you can also use Distrobox on these Fedora Versions by layering it. 
+   sed -i 's/^Exec=/Exec=toolbox enter Toolbox -- /' ~/.local/share/applications/org.qgis.qgis.desktop
 
 +---------------+-------------+--------------+--------------+
 | Distribution  | Version     | QGIS         | GRASS GIS    |
@@ -438,8 +432,7 @@ To install QGIS packages on OpenSuse:
 
 To install QGIS on OpenSuse microOS (now Aeon or Kalpa), use Distrobox:
 
-   distrobox-create Distrobox -i registry.opensuse.org/opensuse/distrobox:latest &&\
-   distrobox-enter Distrobox
+   distrobox-create Distrobox && distrobox-enter Distrobox
 
 In here you install the packages normally, the container uses Tumbleweed repositories.
 
