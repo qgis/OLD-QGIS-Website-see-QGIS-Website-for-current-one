@@ -115,6 +115,17 @@ Below you find instructions to install per distribution. For most distro's
 there are instructions to install QGIS stable and instructions to install a
 cutting edge QGIS testing build (note the warning_).
 
+If Plugins report missing packages, you can install them with pip::
+
+   pip install PACKAGENAME
+
+QGIS may report lacking features due to running as a Wayland session. To force X11 (XWayland) you can add ``env QT_QPA_PLATFORM=xcb`` to the ``Exec=`` line. If you installed the app on your main system, copy the entry to your user directory first. If you are using Toolbox/Distrobox or already have this entry, skip this step::
+
+   sudo cp /usr/share/applications/org.qgis.qgis.desktop ~/.local/share/applications/
+
+To add the X11 environment variable automatically::
+
+   sed -i 's/^Exec=/Exec=env QT_QPA_PLATFORM=xcb /' ~/.local/share/applications/org.qgis.qgis.desktop
 
 Debian/Ubuntu
 -------------
@@ -352,72 +363,50 @@ In case you would like to install QGIS Server, type::
 Fedora
 ------
 
-Get packages for any Fedora by typing::
-
- sudo dnf install qgis python3-qgis qgis-grass qgis-server
-
-Default Fedora software repositories often hold older versions of
-QGIS.
-
-To have newer versions or the latest LTR, you have to add alternative software repositories
-based on the version you want to install (stable, LTR or testing).
-
-QGIS stable
-...........
-
-Enable the repository::
-
- sudo dnf copr enable dani/qgis
-
-After that type the commands below to install QGIS::
+Get packages for Fedora by typing::
 
  sudo dnf install qgis python3-qgis qgis-grass
+
+The Fedora COPR Repositories for regular and LTR release are outdated and should be removed from your system::
+
+   sudo dnf copr remove dani/qgis
+   sudo dnf update
+
+or on systems without the COPR command::
+
+   sudo rm /etc/yum.repos.d/*copr.fedorainfracloud.org:dani:qgis*
+   sudo dnf update
 
 In case you would like to install QGIS Server (note that it's not a common practice
 to install both client and server applications on the same machine), type::
 
  sudo dnf install qgis-server python3-qgis
 
-+---------------+-------------+--------------+--------------+
-| Distribution  | Version     | QGIS         | GRASS GIS    |
-|               |             | version      | version      |
-|               |             |              |              |
-+===============+=============+==============+==============+
-| Fedora        | 36          | 3.28         | 8.0          |
-|               +-------------+--------------+--------------+
-|               | 37          | 3.28         | 8.2          |
-+---------------+-------------+--------------+--------------+
+To install QGIS on Fedora Atomic (Silverblue, Kinoite, Sericea etc.), it's best to create a Toolbox and install it there::
 
-More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis/
+   toolbox create Fedora -i registry.fedoraproject.org/fedora-toolbox:39 && toolbox enter Fedora 
 
-QGIS LTR (Long Term Release)
-............................
+In here you install the packages regularly::
 
-Enable the repository::
+   sudo dnf install qgis python3-qgis qgis-grass
+   sudo cp /usr/share/applications/org.qgis.qgis.desktop ~/.local/share/applications/
+   sed -i 's/^Exec=/Exec=toolbox enter Fedora -- /' ~/.local/share/applications/org.qgis.qgis.desktop
 
- sudo dnf copr enable dani/qgis-ltr
-
-After that type the commands below to install QGIS::
-
- sudo dnf install qgis python3-qgis qgis-grass
-
-In case you would like to install QGIS Server (note that it's not a common practice
-to install both client and server applications on the same machine), type::
-
- sudo dnf install qgis-server python3-qgis
+To make it simpler, you can also use Distrobox on these Fedora Versions by layering it. 
 
 +---------------+-------------+--------------+--------------+
 | Distribution  | Version     | QGIS         | GRASS GIS    |
 |               |             | version      | version      |
 |               |             |              |              |
 +===============+=============+==============+==============+
-| Fedora        | 36          | 3.22         | 8.0          |
+| Fedora        | 38          | 3.28.11      | 8.2          |
 |               +-------------+--------------+--------------+
-|               | 37          | 3.22         | 8.2          |
+|               | 39          | 3.32.2       | 8.3          |
+|               +-------------+--------------+--------------+
+|               | Rawhide     | 3.34.0       | 8.3          |
 +---------------+-------------+--------------+--------------+
 
-More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis-ltr/
-
+Updated Version info: `QGIS <https://packages.fedoraproject.org/pkgs/qgis/qgis/>` and `GRASS GIS <https://packages.fedoraproject.org/pkgs/grass/grass/>`
 
 SUSE / openSUSE
 ---------------
@@ -448,6 +437,20 @@ All packages include GRASS and Python support.
 
 All openSUSE Geo repositories can be found here:
 https://download.opensuse.org/repositories/Application:/Geo/
+
+To install QGIS packages on OpenSuse:
+
+   sudo zypper in qgis qgis-plugin-grass
+
+To install QGIS on OpenSuse microOS (now Aeon or Kalpa), use Distrobox:
+
+   distrobox-create Distrobox -i registry.opensuse.org/opensuse/distrobox:latest &&\
+   distrobox-enter Distrobox
+
+In here you install the packages normally, the container uses Tumbleweed repositories.
+
+   sudo zypper in qgis qgis-plugin-grass
+   distrobox-export --app qgis
 
 Mandriva
 --------
