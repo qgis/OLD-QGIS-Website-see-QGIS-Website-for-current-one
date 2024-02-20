@@ -115,11 +115,11 @@ Below you find instructions to install per distribution. For most distro's
 there are instructions to install QGIS stable and instructions to install a
 cutting edge QGIS testing build (note the warning_).
 
-If Plugins report missing packages, you can install them with pip::
+If Plugins report missing packages, you can install them with pip (user directory to avoid system dependecy issues)::
 
-   pip install PACKAGENAME
+   pip install --user PACKAGENAME
 
-QGIS may report lacking features due to running as a Wayland session. To force X11 (XWayland) you can add ``env QT_QPA_PLATFORM=xcb`` to the ``Exec=`` line. If you installed the app on your main system, copy the entry to your user directory first. If you are using Toolbox/Distrobox or already have this entry, skip this step::
+QGIS may report lacking features due to running in a Wayland session. To force X11 (XWayland) you can add ``env QT_QPA_PLATFORM=xcb`` to the ``Exec=`` line. If you installed the app on your main system, copy the entry to your user directory first. If you are using Toolbox/Distrobox or already have this entry, skip this step::
 
    sudo cp /usr/share/applications/org.qgis.qgis.desktop ~/.local/share/applications/
 
