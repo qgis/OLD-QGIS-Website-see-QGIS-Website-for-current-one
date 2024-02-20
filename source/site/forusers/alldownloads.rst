@@ -115,6 +115,12 @@ Below you find instructions to install per distribution. For most distro's
 there are instructions to install QGIS stable and instructions to install a
 cutting edge QGIS testing build (note the warning_).
 
+If Plugins report missing packages, you can install them using one of the following methods in preferred order:
+
+#. Search in your system repositories and install the package via the system package manager, i.e. apt, dnf or alternative: ``sudo apt install PACKAGENAME``
+#. If your system implements `PEP668 <https://peps.python.org/pep-0668/>`_, use pipx to install the package: ``pipx install PACKAGENAME``
+#. Lastly, use pip to install the missing package: ``pip install PACKAGENAME``
+
 
 Debian/Ubuntu
 -------------
