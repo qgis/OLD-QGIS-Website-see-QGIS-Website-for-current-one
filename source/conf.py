@@ -43,12 +43,17 @@ except ImportError:
 extensions = [
     'sphinx.ext.ifconfig',
     'sphinxcontrib.jquery',
+#    'sphinx_sitemap',
 #    'sphinxcontrib.images',
     ]
 
 images_config = {
     'override_image_directive':False
 }
+
+# some options when you use the sphinx_sitemap extension:
+html_baseurl = 'https://qgis.org/'
+sitemap_url_scheme = "{lang}{link}"
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['../themes/qgis-theme']
