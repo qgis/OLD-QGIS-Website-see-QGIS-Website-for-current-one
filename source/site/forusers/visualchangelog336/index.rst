@@ -19,6 +19,8 @@ QGIS is a community effort, and we would like to extend a big thank you to the d
 
 QGIS is supported by donors and sustaining members. A current list of donors who have made financial contributions large or small to the project can be seen on our `list of donors <https://qgis.org/en/site/about/sustaining_members.html#list-of-donors>`__. If you would like to become an official project sustaining member, please visit our `sustaining member page <https://qgis.org/en/site/about/sustaining_members.html>`__ for more details. Sponsoring QGIS helps us to fund our regular developer meetings, maintain project infrastructure, and fund bug-fixing efforts. A complete list of current sponsors is provided below - our very thank you to all of our sponsors!
 
+:raw-html:`<div id="qgissustainingmembersatom"> <!-- to be filled via javascript loading of atom feed --> </div>`
+
 QGIS is free software and you are under no obligation to pay anything to use it - in fact, we want to encourage people far and wide to use it regardless of their financial or social status - we believe that empowering people with spatial decision-making tools will result in a better society for all of humanity.
 
 .. contents::
@@ -105,13 +107,6 @@ In 3.36 we've added labeling support for mesh layers. Labels can be applied to m
 This feature was funded by GÖTEBORGS STAD
 
 This feature was developed by `Stefanos Natsis (Lutra Consulting) <https://www.lutraconsulting.co.uk/>`__
-
-Feature: Add meshMenu to QGIS Interface
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-meshMenu was missing from iface.
-
-This feature was developed by `Loïc Bartoletti <https://oslandia.com/>`__
 
 3D Features
 -----------
@@ -319,11 +314,8 @@ Feature: Vector coverage algorithms
 QGIS 3.36 introduces a number of new tools for working with vector coverage layers. "Vector coverages" are polygon layers where the features are expected to neighbour each other, without overlaps or gaps, such as administrative boundary layers. These new Processing algorithms expose tools for working with coverages, including:
 
 -  **Validate coverage**: This algorithm analyzes a coverage to find places where the assumption of exactly matching edges is not met.
--  
 -  **Simplify coverage**: This algorithm applies a Visvalingam–Whyatt simplification to the edges in a coverage, while retaining a valid coverage (ie no edges will cross or touch after the simplification)
--  
 -  **Dissolve coverage**: This algorithm provides a heavily optimised approach for unioning polygons from a coverage layer, when compared against the standard Dissolve tools.
--  
 
 These new tools rely on functionality from the GEOS geometry handling library. Our thanks go to the GEOS maintainers for making this work possible!
 
@@ -461,9 +453,9 @@ This feature was developed by `Sandro Mani <https://github.com/manisandro>`__
 Feature: GetLegendGraphics JSON rule
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A new ``SHOWRULEDETAILS`` parameter has been added for WMS services, which will append a **rule** item in the legend entry. The rule describes the filter expression used on the respective layer when performing a ``GetLegendGraphic`` request using the JSON format option.
+We've added a new ``SHOWRULEDETAILS`` parameter for WMS services, which will append a **rule** item in the legend entry. The rule describes the filter expression used on the respective layer when performing a ``GetLegendGraphic`` request using the JSON format option.
 
-For Example, the request:
+For example, the request:
 
 ``text GET /?SERVICE=WMS&VERSION=1.30&REQUEST=GetLegendGraphic&LAYERS=layer1&FORMAT=application/json&SHOWRULEDETAILS=1``
 
@@ -496,9 +488,9 @@ This feature was developed by `Björn Hinkeldey <https://github.com/pathmapper>`
 Feature: Option to skip "name" attribute for groups in WMS GetCapabilities
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A new project level setting to **Skip name attribute for groups** has been added to QGIS, which is disabled by default, but enables the ability to exclude group names from a GetCapabilities response on a WMS request. This prevents name duplication in instances where a layer and group share the same name, whilst preserving the group element and bringing the QGIS Server capabilities more in line with the OGC WMS Specification.
+We've added a new project level setting to **Skip name attribute for groups**. This is disabled by default, but enabling it allows you to exclude group names from a GetCapabilities response on a WMS request. This prevents name duplication in instances where a layer and group share the same name, whilst preserving the group element and bringing the QGIS Server capabilities more in line with the OGC WMS Specification.
 
-For Example:
+For example:
 
 ``text <Layer queryable="1">   <Name>layer_name</Name> <--- this will be skipped when option is enabled   <Title>Human readable name</Title>``
 
@@ -529,18 +521,6 @@ We refactored a number of application classes to introduce support the following
 -  ``createNewMapCanvas3D``: Creates a named 3D view instance
 -  ``closeMapCanvas3D``: Closes a 3D view by name
 -  ``mapCanvases3D``: List existing 3D views in the project context
-
-Example:
-
-::
-
-    >>> iface.createNewMapCanvas3D('my new 3d view')
-    <qgis._3d.Qgs3DMapCanvas object at 0x7fa066368d30>
-    >>> iface.mapCanvases3D()
-    [<qgis._3d.Qgs3DMapCanvas object at 0x7fa066368d30>]
-    >>> iface.closeMapCanvas3D('my new 3d view')
-    >>> iface.mapCanvases3D()
-    []
 
 This feature was funded by Natural Resources Canada
 
@@ -584,397 +564,45 @@ QGIS 3.36 brings support for running Python under Qt 6 builds, and enables use o
 
 This feature was funded by `QGIS.org <https://qgis.org>`__
 
-Feature: [Backport release-3\_36] Fix bookmarks manager model signals emitted twice
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Feature: Add meshMenu to QGIS Interface
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Backport #56498
-**Authored by:** @elpaso
+``meshMenu`` has been added to the ``iface`` object, giving plugins and scripts an easy way to extend the Mesh menu.
 
+This feature was developed by `Loïc Bartoletti <https://oslandia.com/>`__
 
-Feature: [Backport queued\_ltr\_backports] Fix bookmarks manager model signals emitted twice
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Backport #56498
-**Authored by:** @elpaso
-
-
-Feature: Build docker images for 3.36
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Let's try to build docker image and appropriate 3.36 PyQGIS docs, despite I suspect the docs will continue to fail as reported weeks ago in #56313
-
-This feature was developed by `Harrissou Sant-anna <https://github.com/DelazJ>`__
-
-Feature: [Backport queued\_ltr\_backports] [network] Enable strict transport security to fix http->https WMS (et al) data sources
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Backport #56509
-**Authored by:** @nirvn
-
-
-Feature: [Backport release-3\_36] [network] Enable strict transport security to fix http->https WMS (et al) data sources
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Backport #56509
-**Authored by:** @nirvn
-
-
-Feature: [Backport queued\_ltr\_backports] [network] Enable strict transport security to fix http->https WMS (et al) data sources
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Backport #56509
-**Authored by:** @nirvn
-
-
-Feature: [Backport release-3\_36] Fix saving " and \\ to ArcGIS REST sources
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Backport #56492
-**Authored by:** @nyalldawson
-
-
-Feature: [Backport queued\_ltr\_backports] Fix saving " and \\ to ArcGIS REST sources
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Backport #56492
-**Authored by:** @nyalldawson
-
-
-Feature: [network] Enable strict transport security to fix http->https WMS (et al) data sources
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Description
------------
-
-This PR enables strict transport security within QgsNetworkAccessManager in order to gain a bit of extra security and to make WMS servers *relying* on this http->https upgrade to work.
-
-This WMS server (https://cartes.geogratis.gc.ca/wms/hydro\_network\_fr?SERVICE=WMS&REQUEST=GetCapabilities) is a good example of what it fixes.
-
-In the capabilities XML reply, the GetMap URL is provided using *http://* , which isn't working. However, when fetch the GetCapabilities using the *https://* URL, the server relies on strict transport security header to inform clients that it should automatically upgrade those http URLs into https.
-
-Without the fix, this WMS does not work and times out after 60, long, seconds.
-
-This feature was developed by `Mathieu Pellerin <https://github.com/nirvn>`__
-
-Feature: Use the correct syntax for the development\_team
+Feature: Server: onProjectReady method for filter plugins
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Description
------------
+The new ``onProjectReady`` method is called after the ``QgsProject`` instance is ready for a server request and before entering the main logic for core services.
 
-It seems like the syntax changed in more ways than I'd originally expected.
+The ``onRequestReady`` method is called after the ``QgsRequestHandler`` is ready and populated with parameters, but before the ``QgsProject`` instance is ready.
 
-This feature was developed by `Aleix Pol <https://github.com/aleixpol>`__
-
-Feature: [processing] Fix "Extract specific vertices" alg help text (release-3\_34 branch)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Description
------------
-
-The input vector layer for the "Extract specific vertices" (``native:extractspecificvertices``) processing algorithm can be of any geometry type.
-
-Already fixed in master and 3.36 with dca30bd25360fc67a19f13f5f86cbdbc5300a78f (https://github.com/qgis/QGIS/pull/55996).
-
-@alexbruy, it looks like also the "Extract vertices" algorithm has the same issue in the short help text https://github.com/qgis/QGIS/blob/71f3cc70370d1d190984e4350f5d270dc1c36761/src/analysis/processing/qgsalgorithmextractvertices.cpp#L52 while it accepts any spatial vector layer as input.
-
-This feature was developed by `Andrea Giudiceandrea <https://github.com/agiudiceandrea>`__
-
-Feature: Fix bookmarks manager model signals emitted twice
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-rows inserted/added was fired twice (once by the manager and once by the model), confusing the proxy model.
-
-Also count was wrong by 1 in beginInsertRows( parent, oldCount, oldCount + count ) and beginRemoveRows, but now these two calls have been removed completely.
-
-Fix #56493
-
-This feature was developed by `Alessandro Pasotti <https://github.com/elpaso>`__
-
-Feature: Regenerate primary keys for Split Lines by Length outputs (Backport)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Manual backport of https://github.com/qgis/QGIS/pull/56490
-
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
-
-Feature: Fix saving " and \\ to ArcGIS REST sources
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Seems these characters must be escaped before encoding
-
-Fixes #55946
-
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
-
-Feature: Don't run flake8 on unused PyQt6 files
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-None
-
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
-
-Feature: Regenerate primary keys for Split Lines by Length outputs
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Fixes #56486
-
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
-
-Feature: Revert "Restore default metadata from DB"
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Reverts qgis/QGIS#55924
-
-This has introduced some errors in handling geopackages -- eg errors like "ERROR 1: In ExecuteSQL(): sqlite3\_prepare\_v2(SELECT metadata FROM gpkg\_metadata LEFT JOIN gpkg\_metadata\_reference ON (gpkg\_metadata\_reference.table\_name = 'output' AND gpkg\_metadata.id = gpkg\_metadata\_reference.md\_file\_id) WHERE md\_standard\_uri = 'http://mrcc.com/qgis.dtd' and reference\_scope = 'table'):
-no such table: gpkg\_metadata" when trying to open GPKG.
-
-We need to revert ASAP so that it doesn't hit today's release, and then revisit after.
-
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
-
-Feature: [Backport release-3\_34] fix error unloading plugin when loaded with QGIS\_NO\_OVERRIDE\_IMPORT
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Backport #56482
-**Authored by:** @tbonfort
-
-
-Feature: [Backport release-3\_34] Correct filtering of Vector type vs VectorAnyGeometry in multiple source processing parameter
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Backport #56453
-**Authored by:** @Djedouas
-
-
-Feature: Server: onProjectReady method for filter plugin
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-The ``onProjectReady`` method is called after the ``QgsProject`` instance is ready for the request and before entering the main switch for core services.
-
-The ``onRequestReady`` method is called after the ``QgsRequestHandler`` is ready and populated with parameters but before the ``QgsProject`` instance is ready.
-
-The ``onProjectReady`` method coud be used to perform operation at the project level like adding variables, checking vector layer categories, etc.
+You can use ``onProjectReady`` to perform operations at the project level, like adding variables, checking vector layer categories, etc.
 
 This feature was funded by 3Liz
 
 This feature was developed by `rldhont <https://github.com/rldhont>`__
 
-Feature: fix error unloading plugin when loaded with QGIS\_NO\_OVERRIDE\_IMPORT
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-None
-
-This feature was developed by `Thomas Bonfort <https://github.com/tbonfort>`__
-
-Feature: [Backport release-3\_34] [wms] Fix handling of mbtiles in paths containing non-latin characters
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Backport #56462
-**Authored by:** @nirvn
-
-
-Feature: [Backport release-3\_34] [wms] Fix local raster XYZ tiles directory layer loading (fixes #56371)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Backport #56418
-**Authored by:** @nirvn
-
-
-Feature: [Backport release-3\_34] Fix running plugins are not restarted after upgrading
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Backport #56443
-**Authored by:** @nyalldawson
-
-This feature was developed by `qgis-bot <https://github.com/qgis-bot>`__
-
-Feature: [Backport release-3\_34] [ui][db manager] Insure the information views are friendly to dark themes
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-| Backport #56448
-| **Authored by:** @nirvn
-
-This feature was developed by `qgis-bot <https://github.com/qgis-bot>`__
-
-Feature: [Backport release-3\_34] [ui][wms] Fix WMS source select interpretation combobox not setting proper index on empty interpretation string
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-| Backport #56441
-| **Authored by:** @nirvn
-
-This feature was developed by `qgis-bot <https://github.com/qgis-bot>`__
-
-Feature: [Backport release-3\_34] use qint64 instead of qint32 for point cloud node data bounds
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-| Backport #56467
-| **Authored by:** @uclaros
-
-This feature was developed by `qgis-bot <https://github.com/qgis-bot>`__
-
-Feature: Don't write null wgs84 extents to XML
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Manual backport of https://github.com/qgis/QGIS/pull/56445
-
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
-
-Feature: [Backport release-3\_34] [annotations] Do not process empty geometries when adding line/polygon annotations
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-| Backport #56447
-| **Authored by:** @nirvn
-
-This feature was developed by `qgis-bot <https://github.com/qgis-bot>`__
-
-Feature: [Backport release-3\_34] [ui] Fix QGIS new version message bar compatibility with dark themes
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-| Backport #56455
-| **Authored by:** @nirvn
-
-This feature was developed by `qgis-bot <https://github.com/qgis-bot>`__
-
-Feature: use qint64 instead of qint32 for point cloud node data bounds
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Description
------------
-
-| Point clouds with ridiculously small scale values, like the one in #53670, where overflowing integer variables of the root node's data bounds and the node bounds' calculation.
-| Switching to qint64 resolves this.
-
-Fixes #53670 (the indexing issue has already been fixed, this addresses the rendering issues)
-
-This feature was developed by `Stefanos Natsis <https://github.com/uclaros>`__
-
-Feature: PG: Quote string in PG conn
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Backport: Followup https://github.com/qgis/QGIS/pull/56385#pullrequestreview-1892899275
-
-This feature was developed by `Alessandro Pasotti <https://github.com/elpaso>`__
-
-Feature: [wms] Fix handling of mbtiles in paths containing non-latin characters
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Description
------------
-
-This PR fixes the loading of mbtiles dataset through our WMS provider when the file path contains non-latin characters. Should make quite a few people around the world happy :wink
-
-| Proof of life:
-| |image|
-
-Fixes #56023.
-
-This feature was developed by `Mathieu Pellerin <https://github.com/nirvn>`__
-
-Feature: [OGR] reset layername after SELECT filter is removed
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Fix #56345
-
-When a provider subset string like "SELECT\* FROM table WHERE ...." was removed, no ``layername=xxxx`` was added to the URI, making it ambiguous in case of multiple tables in a dataset (e.g. GPKG).
-
-This feature was developed by `Alessandro Pasotti <https://github.com/elpaso>`__
-
-Feature: [Backport release-3\_34] Vector type vs VectorAnyGeometry in multiple source processing
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Description
------------
-
-Backport of #56453
-
-This feature was developed by `Jacky Volpes <https://github.com/Djedouas>`__
-
-Feature: [Backport release-3\_34] Fix a deadlock with local COPC files in 2D rendering
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Manual backport of #56432
-
-This feature was developed by `Martin Dobias <https://github.com/wonder-sk>`__
-
-Feature: [ui] Fix QGIS new version message bar compatibility with dark themes
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Description
------------
-
-This PR fixes #56091 whereas the new QGIS version message bar in the welcome screen was not compatible with dark themes.
-
-This feature was developed by `Mathieu Pellerin <https://github.com/nirvn>`__
-
-Feature: Correct filtering of Vector type vs VectorAnyGeometry in multiple source processing parameter
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Description
------------
-
-Fixes #55636
-
-The layer filtering in the processing parameter "multiple source" for ``Vector`` and ``VectorAnyGeometry`` was the same.
-
-Now it behaves as expected:
-
--  ``Vector`` is all vector layer (with geometry or not)
--  ``VectorAnyGeometry`` is vector layers with a geometry
-
-This feature was developed by `Jacky Volpes <https://github.com/Djedouas>`__
-
-Feature: [backport release-3\_34][geometry snapper] Fix wrong point-to-segment distance within maths
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Description
------------
-
-Manually backport of https://github.com/qgis/QGIS/pull/56426
-
-This feature was developed by `Mathieu Pellerin <https://github.com/nirvn>`__
-
-Feature: [ui][db manager] Insure the information views are friendly to dark themes
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Description
------------
-
-This PR fixes db manager information view to be dark theme friendly.
-
-Before (left) vs. PR (right):
-|image24|
-
-For the default/light theme, the look essentially stays the same.
-
-Fixes #56105.
-
-This feature was developed by `Mathieu Pellerin <https://github.com/nirvn>`__
-
 Feature: Add fuzzy comparisons methods
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The addition of the fuzzyEquals and fuzzyDistanceEquals methods for geometry classes has been made. These methods provide a means to compare geometric objects with a tolerance for small variations, enhancing the precision of equality and distance calculations, particularly useful in scenarios where exact matches may not be feasible or necessary.
+We've added new methods for ``fuzzyEquals`` and ``fuzzyDistanceEquals`` to the QGIS geometry classes. These methods compare geometric objects with a tolerance for small variations, enhancing the precision of equality and distance calculations. They will be particularly useful in scenarios where exact matches may not be feasible or necessary.
 
-::
+\`\`\`python epsilon = 0.001 geom1 = QgsLineString(QgsPoint(0.0, 0.0), QgsPoint(0.001, 0.001)) geom2 = QgsLineString(QgsPoint(0.0, 0.0), QgsPoint(0.002, 0.002))
 
-    epsilon = 0.001
-    geom1 = QgsLineString(QgsPoint(0.0, 0.0), QgsPoint(0.001, 0.001))
-    geom2 = QgsLineString(QgsPoint(0.0, 0.0), QgsPoint(0.002, 0.002))
+self.assertNotEqual(geom1, geom2) # epsilon = 1e-8 here
 
-    self.assertNotEqual(geom1, geom2)  # epsilon = 1e-8 here
-
-    self.assertTrue(geom1.fuzzyEqual(geom2, epsilon))
-    self.assertFalse(geom1.fuzzyDistanceEqual(geom2, epsilon))
+self.assertTrue(geom1.fuzzyEqual(geom2, epsilon)) self.assertFalse(geom1.fuzzyDistanceEqual(geom2, epsilon)) \`\`\`
 
 This feature was funded by `QGIS.ORG (through GRANT) <https://qgis.org/>`__
 
 This feature was developed by `Loïc Bartoletti <https://oslandia.com/>`__
 
-Feature: Add measure methods
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Feature: Measured line methods
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Introduces the addition of the measuredLine methods within Qgs(Multi)LineString. It builds upon the code from PostGIS behind ST\_AddMeasure.
+In QGIS 3.36 we've introduced a ``measuredLine`` method within ``Qgs(Multi)LineString``. This method builds upon the code from PostGIS behind ST\_AddMeasure.
 
 This feature was developed by `Loïc Bartoletti <https://oslandia.com/>`__
 
@@ -1349,10 +977,8 @@ This feature was funded by `QGIS.ORG (through donations and sustaining membershi
 
 This feature was developed by Martin Dobias (LutraConsulting)
 
-.. |image1| image:: images/projects/fc93f461b927dd4960936f3391cf00321f9552cc.png
+.. |image1| image:: images/entries/splash336.png
    :class: img-responsive img-rounded center-block
-.. |image2| image:: https://img.youtube.com/vi/WS9W1fo9Aso/0.jpg
-   :target: https://www.youtube.com/watch?v=WS9W1fo9Aso
 .. |image3| image:: images/entries/393384efc22e1add7f41288a80b6e4bbd681b68d
    :class: img-responsive img-rounded
 .. |image4| image:: images/entries/6585d31ab7870351c8b58c9bec57e36df50f3018.png
@@ -1395,6 +1021,4 @@ This feature was developed by Martin Dobias (LutraConsulting)
    :class: img-responsive img-rounded
 .. |image23| image:: images/entries/1c69e30e80b5ef71d5dec8a3c6b4854f191f22cc.png
    :class: img-responsive img-rounded
-.. |image| image:: https://github.com/qgis/QGIS/assets/1728657/0c7ea048-7430-450b-af06-3ff5a162e043
-.. |image24| image:: https://github.com/qgis/QGIS/assets/1728657/bed2bf31-cb4f-44a9-a149-8bac0ab0164e
 
