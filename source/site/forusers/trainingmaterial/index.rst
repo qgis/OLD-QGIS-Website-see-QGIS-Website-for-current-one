@@ -86,5 +86,9 @@ Ukrainian
 РОБОЧИЙ ЗОШИТ «АНАЛІЗ КОСМІЧНИХ ЗНІМКІВ У ГЕОІНФОРМАЦІЙНИХ СИСТЕМАХ» Частина 2:
 https://api.man.gov.ua/api/assets/man/a0746113-31c9-44d7-b6a1-d819e2e535dd/
 
+Spanish
+.......
 
+Introduccion a los Sistemas de Informacion Geografica con Qgis: 
+https://github.com/federicogazaba/introduccion-a-los-sig-con-qgis
 
