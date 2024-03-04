@@ -350,6 +350,19 @@ The book is prepared like the series "for Dummies".
 * Date: October 2016
 
 
+Spanish
+=======
+
+Introduccion a los Sistemas de Informacion Geografica con QGIS
+**************************************************************
+
+Version 2.0 updates the contents of the previous version to QGIS 3.34 Prizren.
+
+* https://github.com/federicogazaba/introduccion-a-los-sig-con-qgis
+* Author(s): Federico Gazaba
+* Date: 2024
+
+
 Turkish
 =======
 
