@@ -115,8 +115,8 @@ Join a Project
 #. Login
 #. You then get a popup to select which language you want to help translate to.
    Please, note that we try to make the process as simple as possible and only target languages,
-   regardless of the country parameter (e.g. ``French (fr)`` and **NOT** ``French (France) (fr_FR)``.
-   Only if there are notable differences in the languages (for example portuguese in Portugal vs Brazil)
+   regardless of the country parameter (e.g. ``French (fr)`` and **NOT** ``French (France) (fr_FR)``).
+   Only if there are notable differences in the languages (e.g. portuguese in Portugal vs Brazil)
    we may allow different versions.
 
    Search your target language:
