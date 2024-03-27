@@ -32,7 +32,7 @@ Current list of QGIS user groups
 * `Groupe des Utilisateurs de QGIS - France (France) - contact: Harrissou Sant-anna <https://www.osgeo.fr/>`_
 * `QGIS Sverige (Sweden) - contact: Karl-Magnus Jönsson <https://qgis.se/>`_
 * `QGIS Kenya - contact: Benard Mitto <https://qgis.or.ke>`_
-* `QGIS Australia - contact: Andrew Jeffrey <https://www.qgis-au.org>`_
+* `QGIS Australia - contact: Emma Hain <https://qgis-australia.org/>`_
 * `QGIS USA - contact: Kurt Menke <http://qgis.us>`_
 * `QGIS Mexico - contact: Hennessy Amor Becerra Ayala <https://qgis.mx>`_
 * `QGIS Georgia - contact: Zurab Archvadze --> REMOVED in 2018 <https://qgis.org>`_
