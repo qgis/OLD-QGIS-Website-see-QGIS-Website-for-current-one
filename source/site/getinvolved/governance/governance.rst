@@ -96,7 +96,7 @@ current community voting members:
 * Nathan Woodrow, Australia
 * Matthias Kuhn, Switzerland
 * Larry Shaffer, United States
-* Nyall Dawson, Australia
+* Nyall Dawson, Australia (moved to Honorable Voting Member status in 2020)
 * Giovanni Manghi, Portugal
 * Denis Rouzaud, Switzerland
 * Alexander Bruy, Ukraine
@@ -135,6 +135,19 @@ Added 2020
 * Peter Petrik, Czech Republic
 * Richard Duivenvoorde, Netherlands
 
+Added 2021
+
+* Andrea Giudiceandrea, Italy
+
+Added 2022
+
+* Adelcides Varela,  Cape Verde 
+
+
+OSGEO Voting Member
+........................
+
+* Michael Smith [since 2015/16]
 
 
 .. _release-management:
