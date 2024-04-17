@@ -229,7 +229,7 @@ rst_epilog = docs_rst_epilog + f"""
 .. |checkbox_unchecked| image:: /static/site/common/checkbox_unchecked.png
 .. |QG| replace:: QGIS
 .. |qg| replace:: QGIS
-.. |yeartag| date:: %%Y
+.. |yeartag| date:: %Y
 .. |devcite| raw:: html
 
      <a href="https://docs.qgis.org/{ltrversion}/en/docs/developers_guide/index.html"> https://docs.qgis.org/{ltrversion}/en/docs/developers_guide/index.html</a>
