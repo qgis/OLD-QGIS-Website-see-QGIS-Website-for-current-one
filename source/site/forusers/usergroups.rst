@@ -92,15 +92,13 @@ Depending on your country, a smaller legal entity, e.g. an association, could be
 
 Statutes of the Swiss QGIS user group as an example:
 
-* german (master): https://www.qgis.ch/de/verein/statuten-der-qgis-anwendergruppe-schweiz
-* english (translation): https://www.qgis.ch/en/association/statutes-of-the-swiss-qgis-user-group
-* french (translation): https://www.qgis.ch/fr/association/statuts-du-groupe-d2019utilisateurs-qgis-suisse
+* german (master): https://www.qgis.ch/assets/pdf/StatutenderQGISAnwendergruppeSchweiz.pdf
+* french (translation): https://www.qgis.ch/assets/pdf/StatutsdugroupedutilisateursQGISSuisse.pdf
 
 Membership application forms:
 
-* german: https://www.qgis.ch/de/verein/beitrittserklaerung
-* english: https://www.qgis.ch/en/association/qgis-usergroup-switzerland-membership-application-form
-* french: https://www.qgis.ch/fr/association/declaration-d2019adhesion
+* german: https://www.qgis.ch/assets/pdf/QGIS%20Usergruppe%20Beitrittserklaerung.pdf
+* french: https://www.qgis.ch/assets/pdf/QGIS%20groupe%20d%20utilisateurs%20Suisse%20declaration%20d%20adhesion.pdf
 
 You can use these statutes and membership application forms as an idea
 or reference and change them to your local situation.
