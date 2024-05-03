@@ -365,19 +365,7 @@ Get packages for any Fedora by typing::
 Default Fedora software repositories often hold older versions of
 QGIS.
 
-To have newer versions or the latest LTR, you have to add alternative software repositories
-based on the version you want to install (stable, LTR or testing).
-
-QGIS stable
-...........
-
-Enable the repository::
-
- sudo dnf copr enable dani/qgis
-
-After that type the commands below to install QGIS::
-
- sudo dnf install qgis python3-qgis qgis-grass
+To have newer versions or the latest LTR you can use the flatpak version.
 
 In case you would like to install QGIS Server (note that it's not a common practice
 to install both client and server applications on the same machine), type::
@@ -389,40 +377,10 @@ to install both client and server applications on the same machine), type::
 |               |             | version      | version      |
 |               |             |              |              |
 +===============+=============+==============+==============+
-| Fedora        | 36          | 3.28         | 8.0          |
+| Fedora        | 39          | 3.34.5       | 8.3          |
 |               +-------------+--------------+--------------+
-|               | 37          | 3.28         | 8.2          |
+|               | 40          | 3.34.5       | 8.3          |
 +---------------+-------------+--------------+--------------+
-
-More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis/
-
-QGIS LTR (Long Term Release)
-............................
-
-Enable the repository::
-
- sudo dnf copr enable dani/qgis-ltr
-
-After that type the commands below to install QGIS::
-
- sudo dnf install qgis python3-qgis qgis-grass
-
-In case you would like to install QGIS Server (note that it's not a common practice
-to install both client and server applications on the same machine), type::
-
- sudo dnf install qgis-server python3-qgis
-
-+---------------+-------------+--------------+--------------+
-| Distribution  | Version     | QGIS         | GRASS GIS    |
-|               |             | version      | version      |
-|               |             |              |              |
-+===============+=============+==============+==============+
-| Fedora        | 36          | 3.22         | 8.0          |
-|               +-------------+--------------+--------------+
-|               | 37          | 3.22         | 8.2          |
-+---------------+-------------+--------------+--------------+
-
-More information are available at https://copr.fedorainfracloud.org/coprs/dani/qgis-ltr/
 
 
 SUSE / openSUSE
