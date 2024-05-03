@@ -51,7 +51,7 @@ Current list of QGIS user groups
 **Registered 2020**
 
 * `QGIS gebruikersgroep (Netherlands) - contact: Raymond Nijssen <https://qgis.nl/>`_
-* `Asociación QGIS México - contact: Hennessy Amor Becerra Ayala <https://qgis.mx/>`_
+* `Asociación QGIS México - contact: Hennessy Amor Becerra Ayala <https://qgis.org.mx/>`_
 * `Komunitas Pengguna QGIS Indonesia - contact: Ismail Sunni <https://qgis-id.github.io/>`_
 * `QGIS Slovensko (Slovakia) - contact: Jana Michalkova <https://qgis.sk/>`_
 * `Grupo de usuarios QGIS Ecuador - contact: Adrián Benavides <https://qgis.ec/>`_
