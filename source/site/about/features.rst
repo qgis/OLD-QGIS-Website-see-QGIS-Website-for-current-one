@@ -58,7 +58,7 @@ Various third-party touch optimized apps allow you to take QGIS into the field
 .. figure:: /static/site/about/images/qfield.jpg
    :alt: QField
 
-   A screenshot of QField (available for Android, iOS, Windows, macOS, Linux)
+   The QField mobile app offers field data collection and synchronisation and is available for Android, iOS, Windows, macOS, Linux.
 
 `Mergin Maps mobile app <https://merginmaps.com>`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
