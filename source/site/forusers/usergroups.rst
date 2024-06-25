@@ -12,16 +12,16 @@ Current list of QGIS user groups
 
 * `QGIS Brasil (Brazil) - contact: Arthur Nanni <https://qgisbrasil.org/>`_
 * `QGIS Brugergruppe Danmark (Denmark) - contact: Jacob Arpe <https://qgis.dk/>`_
-* `QGIS UK (England) - contact: Simon Miles <https://qgis.uk/>`_
+* `QGIS UK (England) - contact: Simon Miles <https://uk.osgeo.org/qgis.html>`_
 * `QGIS Anwendergruppe Deutschland (Germany) - contact: Thomas Schüttenberg <https://qgis.de/>`_
 * `Gruppo degli utenti italiani di QGIS (Italy) - contact: Matteo Ghetta <http://qgis.it/>`_
 * `QGIS User Group Japan (OSGeo.JP) - contact: Kosuke ASAHI <http://qgis.jp/>`_
 * `QGIS Perú Official Users Group - contact: Anibal Alarcon <https://qgis.pe/>`_
 * `Polska Grupa Użytkowników QGIS (Poland) - contact: Milena Nowotarska <https://qgis.pl/>`_
 * `QGIS Portugal - contact: João Gaspar <https://qgis.pt/>`_
-* `QGIS UK (Scotland) - contact: Ross McDonald <https://qgis.uk/>`_
+* `QGIS UK (Scotland) - contact: Ross McDonald <https://uk.osgeo.org/qgis.html>`_
 * `QGIS user group Switzerland - contact: Isabel Kiefer <https://qgis.ch/>`_
-* `QGIS UK (Wales/Cymru) - contact: Kevin Williams <http://qgis.uk/>`_
+* `QGIS UK (Wales/Cymru) - contact: Kevin Williams <https://uk.osgeo.org/qgis.html>`_
 * `NIWA QGIS user group (New Zealand) - contact: Brent Wood --> REMOVED in 2018 <https://teamwork.niwa.co.nz/display/NQUG/NIWA+QGIS+Users+Group>`_
 
 
