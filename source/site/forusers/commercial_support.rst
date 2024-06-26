@@ -156,7 +156,7 @@ and more.
 .. |oslandia| image:: /static/site/about/images/oslandia.png
    :height: 100 px
 
-|oslandia| `Oslandia <http://www.oslandia.com/>`_ (based in France)
+|oslandia| `Oslandia <https://oslandia.com/>`_ (based in France)
 provides services on open source GIS. Oslandia offers training, support,
 development and consulting, namely on QGIS and PostGIS.
 
