@@ -135,8 +135,14 @@ Quickstart
    QGIS version that was supported. Beware that those might have meanwhile
    ceased to work.
 
-Here you will simply install the latest stable QGIS (|version|.x |codename|)
-in your Debian or Ubuntu without having to edit config files.
+Here you will install the latest stable QGIS (|version|.x |codename|)
+in your Debian or Ubuntu.
+
+Default Debian and Ubuntu software repositories often hold older versions of
+QGIS.
+
+To get the latest version, you have to add an alternative software repository,
+by editing your ``/etc/apt/sources.list.d/qgis.sources`` file.
 
 .. note:: Although you see 'Debian' in some places, this also works for
    'Ubuntu', as one is actually a symlink to the other on our server.
@@ -179,12 +185,6 @@ Now, install QGIS::
 
 Repositories
 ............
-
-Default Debian and Ubuntu software repositories often hold older versions of
-QGIS.
-
-To have newer versions, you have to add alternative software repositories, by
-adding one of the deb-lines below to your ``/etc/apt/sources.list.d/qgis.sources`` file.
 
 Our main repository contains multiple lines of packages for several versions of
 **Debian and Ubuntu** based on the dependencies the individual distributions
