@@ -5,7 +5,7 @@ Changelog for QGIS 3.34
 
 |image0|
 
-Release date: 2023-10-29
+Release date: 2023-10-27
 
 Introducing QGIS 3.34, a major release of the QGIS Project that brings significant enhancements to the capabilities of the QGIS open-source geospatial data analysis and visualization software.
 

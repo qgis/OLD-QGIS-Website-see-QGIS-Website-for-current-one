@@ -5,7 +5,7 @@ Changelog for QGIS 3.32
 
 |image1|
 
-Release date: 2023-06-26
+Release date: 2023-06-23
 
 QGIS 3.32 is a major release of the QGIS Project that brings a significant advancement in geospatial technology to the Open Source World. The developer community has introduced several new features and improvements to leverage the potential of geospatial data.
 
