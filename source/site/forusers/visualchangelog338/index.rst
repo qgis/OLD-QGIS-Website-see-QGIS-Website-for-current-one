@@ -62,7 +62,9 @@ The controller shows as a range slider on the left of the map. There's a configu
 
 |image4|
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was funded by `North Road <https://north-road.com>`__
+
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Add Z range support to map canvas / map settings items
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -80,7 +82,9 @@ It can be used when a specific elevation range width is desired, or when the ran
 
 |image5|
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was funded by `North Road <https://north-road.com>`__
+
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 User Interface
 --------------
@@ -92,7 +96,9 @@ A new optional regex mode has been exposed for advanced search options, as imple
 
 |image6|
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was funded by `North Road <https://north-road.com>`__
+
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Data defined override: use middle-click to open the Expression Builder dialog window
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -143,11 +149,11 @@ When the layer is set to the "around point" mode, then label candidates that are
 
 When the layer is set to the "cartographic" mode, then the default behavior is also to prioritize closer labels. A new combo box allows users to control the priority, with an option for preferring position ordering. If this option is set, candidates at the corresponding positions (e.g. top left) are preferred, regardless of how far they are from the point, with the labeling falling back to alternate positions only when no labels can be placed up to the maximum label distance.
 
-|image10|
+|image10|  
 
-This feature was funded by Rubicon Concierge Real Estate Services
+This feature was funded by `Rubicon Concierge Real Estate Services <https://rubicon-cre.com/>`__
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Add 'over point' placement option for cartographic label mode
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -158,9 +164,9 @@ When a feature's data-defined placement priorities include this new 'O' option, 
 
 |image11|
 
-This feature was funded by Rubicon Concierge Real Estate Services
+This feature was funded by `Rubicon Concierge Real Estate Services <https://rubicon-cre.com/>`__
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Rendering
 ---------
@@ -172,9 +178,9 @@ This allows users to define the radius and maximum as a value that makes sense f
 
 This additionally includes the base changes required for data-defined properties at the feature renderer level, which may be useful for extending other vector renderer classes (e.g. point cluster/ displacement).
 
-This feature was funded by Rubicon Concierge Real Estate Services
+This feature was funded by `Rubicon Concierge Real Estate Services <https://rubicon-cre.com/>`__
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Print Layouts
 -------------
@@ -186,7 +192,9 @@ A `regression <https://github.com/qgis/QGIS/issues/56981>`__ resulted in QGIS st
 
 |image12|
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was funded by `North Road <https://north-road.com>`__
+
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Copy composer grids
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -212,7 +220,9 @@ Additionally, the range for z-filtering can be data-defined, allowing different 
 
 |image14|
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was funded by `North Road <https://north-road.com>`__
+
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Add buttons to expand or collapse layout legend tree
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -264,7 +274,9 @@ The user can either manually populate a table with begin/end dates for each band
 
 |image18|
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was funded by `North Road <https://north-road.com>`__
+
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__  
 
 Feature: Introduce fixed elevation range for raster layers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -277,7 +289,9 @@ When enabled, the layer will only be visible in 2D maps with elevation filtering
 
 |image19|
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was funded by `North Road <https://north-road.com>`__
+
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Introduce fixed elevation range for mesh layers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -290,7 +304,9 @@ When enabled, the layer will only be visible in 2D maps with elevation filtering
 
 |image20|
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was funded by `North Road <https://north-road.com>`__
+
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Add a "fixed range per band" elevation mode for rasters
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -307,7 +323,9 @@ Expression-based value definitions will allow users to design expressions capabl
 
 |image21|
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was funded by `North Road <https://north-road.com>`__
+
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Add "dynamic elevation range per band" mode for rasters
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -330,14 +348,18 @@ This differs from the"Fixed Elevation Range Per Band" mode which requires users 
 
 |image22|
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was funded by `North Road <https://north-road.com>`__
+
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Add fixed elevation range per dataset group mode for mesh layers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Additional functionality to set a fixed elevation range per dataset group on mesh layers mimics the new "fixed range per band" mode raster layers but allows a per-dataset group elevation range to be set for mesh layers.
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was funded by `North Road <https://north-road.com>`__
+
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Add option to export all lines with minimal width in dxf exports
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -461,9 +483,9 @@ This update also introduced changes to the internal API for vector renderers so 
 
 |image31|
 
-This feature was funded by Rubicon Concierge Real Estate Services
+This feature was funded by `Rubicon Concierge Real Estate Services <https://rubicon-cre.com/>`__
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Add layer tree filter for "Show Broken Layers Only"
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -472,7 +494,9 @@ When checked, only layers with broken sources will be shown in the tree.
 
 This allows users to easily find broken layers in large complex projects, where they may otherwise escape notice!
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was funded by `North Road <https://north-road.com>`__
+
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Processing
 ----------
@@ -486,7 +510,9 @@ This provides more useful information for users browsing the history, while stil
 
 |image32|
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was funded by `North Road <https://north-road.com>`__
+
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Add "Run Selected Steps" option to model designer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -498,9 +524,9 @@ The initial state will be taken from any previous executions of the model throug
 This makes it possible for a user to fix parts of a large model, without having to constantly run the entire model to test. Especially
 useful when earlier steps in the model are time-consuming!
 
-This feature was funded by City of Canning
+This feature was funded by the `City of Canning, WA, Australia <https://www.canning.wa.gov.au/plan-and-build/maps/>`__
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Add "View Output Layers" option for model child algorithms
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -516,9 +542,9 @@ An additional "View Log" action has also been provided so that users can see the
 
 |image33|
 
-This feature was funded by City of Canning
+This feature was funded by the `City of Canning, WA, Australia <https://www.canning.wa.gov.au/plan-and-build/maps/>`__
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Endpoint distance threshold for network analysis
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -536,9 +562,9 @@ The behavior of the threshold depends on the algorithm:
 -  An error will be raised if the **point** is too far from the network.
 -  A new optional output was added for “non-routable features”. This output will contain any features that were deemed too far from the network. All other features that are within tolerance distance to the network will be stored in the standard output from the tool.
 
-This feature was funded by City of Canning
+This feature was funded by the `City of Canning, WA, Australia <https://www.canning.wa.gov.au/plan-and-build/maps/>`__
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Add support for pure date and time decorators
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -573,7 +599,9 @@ The API for project objects has also been extended to support this functionality
 
 |image34|
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was funded by `North Road <https://north-road.com>`__
+
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Add elevation range to project properties
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -584,7 +612,9 @@ This can be specified through the Elevation tab (renamed from "Terrain") in the 
 
 |image35|
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was funded by `North Road <https://north-road.com>`__
+
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Sensors
 -------
@@ -602,7 +632,9 @@ An option to limit the number of child features returned when expanding is provi
 
 |image36|
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was funded by `North Road <https://north-road.com>`__
+
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Add support for SensorThings Multidatastreams
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -611,7 +643,9 @@ This adds support for the Multidatastream entity type, as implemented in the Sen
 
 While the specification mandates that MultiDatastreams have an optional polygon geometry, many servers expose different geometry types for this entity or return errors when attempting to read the geometries from MultiDatastreams. Accordingly, QGIS now exposes an option to load MultiDatastreams as geometryless layers alongside the default option to load them as polygon layers, allowing users to handle a wider range of connections.
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was funded by `North Road <https://north-road.com>`__
+
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Serial port sensor's data frame delimiter
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -629,7 +663,9 @@ Feature: Add an optional feature limit setting
 
 Allows setting a maximum number of features to request from the service, avoiding overloading services with too many requests
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was funded by `North Road <https://north-road.com>`__
+
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Implement subset string support for SensorThings
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -638,7 +674,9 @@ This allows setting custom filters on the layer, using the SensorThings filter s
 
 A custom layer filter GUI is provided for SensorThings layer filters, making it easier for users to craft valid filters using the SensorThings filter language.
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was funded by `North Road <https://north-road.com>`__
+
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Profile Plots
 -------------
@@ -666,7 +704,9 @@ Allows users to set an extent limit for the layer so that features are only ever
 
 The extent can be set using the data source manager before initially adding the layer, or modified within the source tab if the layer properties.
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was funded by `North Road <https://north-road.com>`__
+
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Web proxy prefix support for ArcGIS URLs
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -727,7 +767,9 @@ In addition, the processing script editor has been ported to leverage the ``QgsC
 
 |image42|
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was funded by `North Road <https://north-road.com>`__
+
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Notable Fixes
 -------------
