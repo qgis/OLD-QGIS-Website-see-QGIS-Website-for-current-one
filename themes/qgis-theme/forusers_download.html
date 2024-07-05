@@ -81,15 +81,14 @@
                   <div id="mac" class="accordion-body collapse in">
                     <div class="accordion-inner centered">
                       <p><b><em>{{ _('After installing QGIS, the first launch attempt may fail due to security protections. To enable QGIS, control-click on its icon in your Applications folder and select Open in the context menu. A confirmation dialog will display where you need to click the Open button again. This only has to be done once.') }}</em></b></p>
-                      <p class="info">{{ _('The Mac packages are currently behind waiting for renewed certificates.') }}</p>
                       <a class="reference btn btn-large btn-success" href="https://qgis.org/downloads/macos/qgis-macos-pr.dmg">
                         <div class="primary-download-button">
                           <div class="qgis-download"></div>
-                          <div class="download-text">{{ _('Download QGIS %s')|format( '3.36' ) }}</div>
+                          <div class="download-text">{{ _('Download QGIS %s')|format( version ) }}</div>
                         </div>
                       </a>
                       <a class="reference secondary-download-link" href="https://qgis.org/downloads/macos/qgis-macos-ltr.dmg">
-                        {{ _('Looking for the most stable version? Get QGIS %s %s')|format( '3.34.7', ltrnote ) }}
+                        {{ _('Looking for the most stable version? Get QGIS %s %s')|format( ltrversion, ltrnote ) }}
                       </a>
                     </div>
                     <div class="accordion-inner">
