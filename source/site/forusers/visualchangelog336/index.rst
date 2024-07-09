@@ -418,6 +418,8 @@ We've taken care to ensure that SensorThings data sources are loaded in the most
 
 |image20|
 
+This feature was funded by `BRGM and Water4All Partnership <https://www.brgm.fr/en>`__
+
 This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Support for WFS documents with complex feature schemas
