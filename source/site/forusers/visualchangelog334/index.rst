@@ -33,7 +33,7 @@ Thanks to an ecosystem grant from the `Cesium <https://www.cesium.com/>`_ projec
 
 :raw-html:`<div style="position:relative;width:100%;height:0;padding-bottom:56.25%"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%" src="https://www.youtube.com/embed/lvl8zVZ8glY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;" allowfullscreen></iframe></div>`
 
-This feature was developed by `Martin Dobias <https://github.com/wonder-sk>`__ and `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was developed by `Martin Dobias <https://github.com/wonder-sk>`__ and `North Road <https://north-road.com>`__
 
 Map Tools
 ---------
@@ -58,7 +58,7 @@ This is useful when a identifying a raster which has sections of similar colored
 
 |image2|
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was developed by `North Road <https://north-road.com>`__
 
 Feature: Show raster row/column of clicked point in identify results
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -67,7 +67,7 @@ When using the identify tool on raster layers, the derived results will now incl
 
 |image3|
 
-This feature was developed by `Hannes & Nyall Dawson <https://github.com/kannes>`__
+This feature was developed by `Hannes <https://github.com/kannes>`__ & `North Road <https://north-road.com>`__
 
 Symbology
 ---------
@@ -87,7 +87,7 @@ This is useful in various scenarios, including instances where:
 
 |image4|
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was developed by `North Road <https://north-road.com>`__
 
 Labelling
 ---------
@@ -124,7 +124,7 @@ Through this tool, users are able to identify pain points in their map rendering
 
 |image7|
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was developed by `North Road <https://north-road.com>`__
 
 Feature: Add choice of two different modes for "Refresh Layer at Interval"
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -138,7 +138,7 @@ A new widget is provided which allows users to select the layer refresh options 
 
 |image8|
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was developed by `North Road <https://north-road.com>`__
 
 3D Features
 -----------
@@ -307,7 +307,7 @@ It avoids the need to use the same expression multiple times throughout a model 
 
 |image20|
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was developed by `North Road <https://north-road.com>`__
 
 Feature: Add algorithm to convert content from a GLTF/GLB file to standard vector layer features
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -316,7 +316,7 @@ QGIS now allows the conversion of 3D tile content in GLTF and GLB formats into e
 
 |image21|
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was developed by `North Road <https://north-road.com>`__
 
 Feature: Port SAGA "DTM Filter (slope-based)" tool to a native QGIS algorithm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -325,7 +325,7 @@ The SAGA `DTM Filter tool <https://saga-gis.sourceforge.io/saga_tool_doc/8.1.0/g
 
 |image22|
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was developed by `North Road <https://north-road.com>`__
 
 Application and Project Options
 -------------------------------
@@ -382,7 +382,7 @@ This is an opt-in setting, and by default the elevation profiles will continue t
 
 |image24|
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was developed by `North Road <https://north-road.com>`__
 
 Data Providers
 --------------
@@ -410,7 +410,7 @@ It is expected that the GRASS Processing Plugin will be given priority developme
 
 Further details on the specifics of this feature cleanup can be found on the feature `Pull Request <https://github.com/qgis/QGIS/pull/53597>`__.
 
-This feature was developed by `Nyall Dawson <https://github.com/nyalldawson>`__
+This feature was developed by `North Road <https://north-road.com>`__
 
 Programmability
 ---------------
@@ -661,7 +661,7 @@ Feature: Bug fixes by Nyall Dawson (North Road)
 
 This feature was funded by `QGIS.ORG (through donations and sustaining memberships) <https://qgis.org/>`__
 
-This feature was developed by `Nyall Dawson (North Road) <https://north-road.com/>`__
+This feature was developed by `North Road <https://north-road.com/>`__
 
 Feature: Bug fixes by Julien Cabieces (Oslandia)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
