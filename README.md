@@ -1,3 +1,13 @@
+
+
+# NOTE
+# NOTE
+# NOTE
+# This site is deprecated - see [https://github.com/qgis/QGIS-WebSite](https://github.com/qgis/QGIS-WebSite) for the current version.
+# NOTE
+# NOTE
+# NOTE
+
 <img src="https://github.com/qgis/QGIS/blob/master/images/README-md/main_logo.png" width="300" alt="Our full logo">
 
 [![HTML Build](https://github.com/qgis/QGIS-Website/actions/workflows/html.yml/badge.svg?query=branch%3Amaster)](https://github.com/qgis/QGIS-Website/actions/workflows/html.yml?query=branch%3Amaster)
