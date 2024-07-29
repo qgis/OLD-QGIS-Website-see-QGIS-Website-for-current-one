@@ -27,7 +27,7 @@ Project Steering Committee
 --------------------------
 
 * Marco Bernasocchi (Chair) [Chair since May 2020; Vice chair April 2018 - April 2020]
-* Anita Graser (Vice chair) [Design Advisor; Vice chair since Sept. 2022]
+* Anita Graser (Vice chair) [Vice chair since Sept. 2022]
 * Andreas Neumann (Treasurer; Contact for Sustaining Members) [since Nov. 2015]
 * Jürgen Fischer (Release Manager) [since Sept. 2013]
 * Alessandro Pasotti (PSC Member) [Vice chair May 2020 - Sept.2022]
@@ -96,7 +96,7 @@ current community voting members:
 * Nathan Woodrow, Australia
 * Matthias Kuhn, Switzerland
 * Larry Shaffer, United States
-* Nyall Dawson, Australia
+* Nyall Dawson, Australia (moved to Honorable Voting Member status in 2020)
 * Giovanni Manghi, Portugal
 * Denis Rouzaud, Switzerland
 * Alexander Bruy, Ukraine
@@ -135,6 +135,19 @@ Added 2020
 * Peter Petrik, Czech Republic
 * Richard Duivenvoorde, Netherlands
 
+Added 2021
+
+* Andrea Giudiceandrea, Italy
+
+Added 2022
+
+* Adelcides Varela,  Cape Verde 
+
+
+OSGEO Voting Member
+........................
+
+* Michael Smith [since 2015/16]
 
 
 .. _release-management:
