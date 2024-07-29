@@ -116,7 +116,7 @@ localizeresources: clean
 
 html: localizeresources p-html
 
-p-html: output/html/version.txt output/html/version-ltr.txt output/html/version.json source/site/getinvolved/development/schedule.inc source/schedule.py $(BUILDDIR)/schedule.ics
+p-html: output/html/version.txt output/html/version-ltr.txt output/html/version.json source/site/getinvolved/development/schedule.inc source/schedule.py $(BUILDDIR)/schedule.ics themes/qgis-theme/static/qgis-style.css
 	$(SPHINXINTL) --config $(SOURCEDIR)/conf.py build --language=$(LANG)
 
 	# ONLY in the english version run in nit-picky mode, so source errors/warnings will fail in CI
