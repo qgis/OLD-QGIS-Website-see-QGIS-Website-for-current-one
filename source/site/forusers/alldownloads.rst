@@ -163,6 +163,7 @@ Add the QGIS repo for the latest stable QGIS (|version|.x |codename|) to ``/etc/
 .. note:: ``Suites`` in above lines depends on your distribution. ``lsb_release -cs`` will show your distribution name.
 
    In some distributions (like Linux Mint), ``. /etc/os-release; echo "$UBUNTU_CODENAME"`` will show the correct distibution name.
+   In LMDE (Linux Mint Debian Edition), ``. /etc/os-release; echo "$DEBIAN_CODENAME"`` will show the correct distibution name.
 
    See `Available codenames`_.
 
