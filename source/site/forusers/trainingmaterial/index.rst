@@ -32,8 +32,8 @@ http://mltconsecol.github.io/QGIS-Tutorial/
 
 In-person training material, originally developed for the New York City Department of Transportation by `Datapolitan <http://www.datapolitan.com>`_:
 
-* `Introduction to GIS Fundamentals <http://training.datapolitan.com/qgis-training/Introduction_to_GIS_Fundamentals>`_
-* `Intermediate GIS with QGIS and PostGIS <http://training.datapolitan.com/qgis-training/Intermediate_GIS/>`_
+* `Introduction to GIS Fundamentals <https://training.datapolitan.com/intro-gis-fundamentals/#1>`_
+* `Intermediate GIS with QGIS and PostGIS <https://training.datapolitan.com/intermediate-gis/#1>`_
 * `Source code for training materials <https://github.com/Datapolitan-Training/qgis-training>`_
 
 Online course material for QGIS training developed and maintained by `Spatial Thoughts <http://spatialthoughts.com/>`_. Available for self-study and adaptation by other trainers:
